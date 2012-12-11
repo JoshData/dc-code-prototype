@@ -1,0 +1,19 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>II</num>
+  <heading>Registration of Vacant Buildings.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.05a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.10.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.11.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.12.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.13.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.14.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.15.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.16.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3131.17.xml"/>
+</level>

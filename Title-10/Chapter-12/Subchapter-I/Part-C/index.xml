@@ -1,0 +1,11 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>C</num>
+  <heading>Land Lease Authority for Hotel.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1202.21.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1202.22.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1202.2.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1202.23a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1202.23b.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1202.24.xml"/>
+</level>

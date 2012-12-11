@@ -1,0 +1,17 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>IX</num>
+  <heading>Excepted Service.</heading>
+  <level>
+    <text>DC CODE D. I, T. 1, Ch. 6, Subch. IX, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-609.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-609.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-609.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-609.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-609.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-609.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-609.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-609.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-609.09~P.xml"/>
+</level>

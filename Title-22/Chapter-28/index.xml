@@ -1,0 +1,8 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>28</num>
+  <heading>Robbery.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2801.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2802.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2803.xml"/>
+</level>

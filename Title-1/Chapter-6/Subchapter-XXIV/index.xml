@@ -1,0 +1,17 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>XXIV</num>
+  <heading>Reductions-In-Force.</heading>
+  <level>
+    <text>DC CODE D. I, T. 1, Ch. 6, Subch. XXIV, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-624.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-624.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-624.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-624.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-624.05~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-624.06~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-624.07~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-624.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-624.09.xml"/>
+</level>

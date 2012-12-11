@@ -1,0 +1,11 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>X-A</num>
+  <heading>South Africa Contracting Sanctions. [Repealed]</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-310.01a~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-310.01b~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-310.01c~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-310.01d~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-310.01e~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-310.01f~P.xml"/>
+</level>

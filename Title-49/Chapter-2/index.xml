@@ -1,0 +1,22 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>2</num>
+  <heading>Armament, Equipment, and Supplies.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-201.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-202.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-203.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-204.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-205.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-206.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-207.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-208.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-209.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-210.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-211.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-212.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-213.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-214.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-215.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-216.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-217.xml"/>
+</level>

@@ -1,0 +1,11 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>8</num>
+  <heading>Charitable, Educational, and Religious Associations. [Repealed]</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29A-801~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29A-802~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29A-803~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29A-804~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29A-805~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29A-806~P.xml"/>
+</level>

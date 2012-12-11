@@ -1,0 +1,10 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>IV-A</num>
+  <heading>Franchisee Purchase Rights. [Expired]</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-304.11~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-304.12~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-304.13~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-304.14~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-304.15~P.xml"/>
+</level>

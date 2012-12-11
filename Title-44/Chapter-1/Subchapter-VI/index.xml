@@ -1,0 +1,13 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>VI</num>
+  <heading>Admissions; Residential Agreements; Quality of Care; Discharge; Transfer.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-106.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-106.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-106.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-106.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-106.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-106.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-106.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-106.08.xml"/>
+</level>

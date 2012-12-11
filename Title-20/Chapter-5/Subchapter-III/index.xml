@@ -1,0 +1,15 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>III</num>
+  <heading>Suspension and Termination of Powers.</heading>
+  <level>
+    <text>DC CODE D. III, T. 20, Ch. 5, Subch. III, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-521.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-522.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-523.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-524.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-525.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-526.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-527.xml"/>
+</level>

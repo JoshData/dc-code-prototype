@@ -1,0 +1,20 @@
+<level type="toc">
+  <prefix>Title</prefix>
+  <num>39</num>
+  <heading>Libraries and Cultural Institutions.</heading>
+  <level type="toc">
+    <prefix>Subtitle</prefix>
+    <num>I</num>
+    <heading>Libraries.</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
+  </level>
+  <level type="toc">
+    <prefix>Subtitle</prefix>
+    <num>II</num>
+    <heading>Cultural Institutions.</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-4/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-5/index.xml"/>
+  </level>
+</level>

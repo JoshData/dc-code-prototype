@@ -1,0 +1,13 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>17</num>
+  <heading>Redomestication.</heading>
+  <level>
+    <text>DC CODE D. V, T. 31, Subt. II, Ch. 17, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-1701.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-1702.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-1703.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-1704.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-1705.xml"/>
+</level>

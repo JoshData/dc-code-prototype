@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Subpart</prefix>
+  <num>1</num>
+  <heading>Law Governing Perfection and Priority.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-301.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-302.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-303.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-304.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-305.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-306.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-307.xml"/>
+</level>

@@ -1,0 +1,45 @@
+<level type="section">
+  <num>44-106.06</num>
+  <heading>Resident records.</heading>
+  <text>A record shall be maintained for every resident and include the following:</text>
+  <level>
+    <level>
+      <num>(1)</num>
+      <text>The resident agreement required by this subchapter, including the "Resident's Rights" statement and any additional agreements;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The functional assessment of ADLs;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>A physician's statement, including medical orders and rehabilitation plans;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>The ISP and any revisions thereto;</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>All shared responsibility agreements; and</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Any note and comments added to the record by the ALR.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(June 24, 2000, D.C. Law 13-127, § 606, 47 DCR 2647.)</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For Law 13-127, see notes following § 44-101.01.</text>
+      </level>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,10 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>II</num>
+  <heading>Operation of Retail Service Stations.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-302.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-302.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-302.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-302.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-302.05.xml"/>
+</level>

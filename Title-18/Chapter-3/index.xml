@@ -1,0 +1,13 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>3</num>
+  <heading>Devises and Bequests.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-301.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-302~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-303.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-304.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-305.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-306.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-307.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-308.xml"/>
+</level>

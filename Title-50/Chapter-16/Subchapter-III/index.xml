@@ -1,0 +1,15 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>III</num>
+  <heading>Bicycle Parking.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1641.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1641.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1641.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1641.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1641.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1641.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1641.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1641.07a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1641.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1641.09.xml"/>
+</level>

@@ -1,0 +1,14 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>I</num>
+  <heading>Repeal of Prior Income Tax Law and Applicability of Subchapter; General Definitions.</heading>
+  <level>
+    <text>DC CODE D. VIII, T. 47, Ch. 18, Subch. I, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1801.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1801.01a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1801.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1801.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1801.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1801.05.xml"/>
+</level>

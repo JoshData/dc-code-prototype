@@ -1,0 +1,13 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>VI</num>
+  <heading>Violation of Provisions of Chapter; Penalties.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1301.69.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1301.70.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1301.71~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1301.72~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1301.73.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1301.74.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1301.75.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1301.76.xml"/>
+</level>

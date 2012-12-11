@@ -1,0 +1,13 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>II</num>
+  <heading>Miscellaneous Provisions.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2711.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2712.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2713.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2714.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2715.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2716.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2717.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2718.xml"/>
+</level>

@@ -1,0 +1,13 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>3</num>
+  <heading>Housing Redevelopment.</heading>
+  <level>
+    <text>DC CODE D. I, T. 6, Ch. 3, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-III/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-IV/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-V/index.xml"/>
+</level>

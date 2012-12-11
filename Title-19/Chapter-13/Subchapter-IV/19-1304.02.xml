@@ -1,0 +1,66 @@
+<level type="section">
+  <num>19-1304.02</num>
+  <heading>Requirements for creation.</heading>
+  <level>
+    <num>(a)</num>
+    <text>A trust is created only if:</text>
+    <level>
+      <num>(1)</num>
+      <text>The settlor has capacity to create a trust;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The settlor indicates an intention to create the trust;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The trust has a definite beneficiary or is:</text>
+      <level>
+        <num>(A)</num>
+        <text>A charitable trust;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>A trust for the care of an animal, as provided in section 19-1304.08; or</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>A trust for a noncharitable purpose, as provided in section 19-1304.09;</text>
+      </level>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>The trustee has duties to perform; and</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>The same person is not the sole trustee and sole beneficiary.</text>
+    </level>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>A beneficiary is definite if the beneficiary can be ascertained now or in the future, subject to any applicable rule against perpetuities.</text>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>A power in a trustee to select a beneficiary from an indefinite class is valid. If the power is not exercised within a reasonable time, the power fails and the property subject to the power passes to the persons who would have taken the property had the power not been conferred.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Mar. 10, 2004, D.C. Law 15-104, § 2(b), 51 DCR 208.)</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For Law 15-104, see notes following § 19-1301.01.</text>
+      </level>
+      <level>
+        <heading>Uniform Law</heading>
+        <text>This section is based upon § 402 of the Uniform Trust Code. See 7C, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
+      </level>
+    </level>
+  </level>
+</level>

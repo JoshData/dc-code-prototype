@@ -1,0 +1,281 @@
+<level type="section">
+  <num>16-801</num>
+  <heading>Definitions.</heading>
+  <text>For the purposes of this chapter, the term:</text>
+  <level>
+    <level>
+      <num>(1)</num>
+      <text>"Clerk" means the Clerk of the Superior Court of the District of Columbia.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>"Completion of the sentence" means the person has been unconditionally discharged from incarceration, commitment, probation, parole, or supervised release, whichever is latest.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>"Conviction" means the judgment (sentence) on a verdict or a finding of guilty, a plea of guilty or a plea of nolo contendere, or a plea or verdict of not guilty by reason of insanity.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>"Court" or "Superior Court" means the Superior Court of the District of Columbia.</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>"Disqualifying arrest or conviction" means:</text>
+      <level>
+        <num>(A)</num>
+        <text>A conviction in any jurisdiction after the arrest or conviction for which the motion to seal has been filed;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>A pending criminal case in any jurisdiction;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>A conviction in the District of Columbia for an ineligible felony or ineligible misdemeanor or a conviction in any jurisdiction for an offense that involved conduct that would constitute an ineligible felony or ineligible misdemeanor if committed in the District of Columbia or prosecuted under the District of Columbia Official Code, or conduct that is substantially similar to that of an ineligible felony or ineligible misdemeanor.</text>
+      </level>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>"Eligible felony" means a failure to appear (§ 23-1327);</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>"Eligible misdemeanor" means any misdemeanor that is not an ineligible misdemeanor.</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>"Ineligible felony" means any felony other than a failure to appear (§ 16- 1327).</text>
+    </level>
+    <level>
+      <num>(9)</num>
+      <text>"Ineligible misdemeanor" means:</text>
+      <level>
+        <num>(A)</num>
+        <text>An intrafamily offense, as defined in § 16-1001(8);</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Driving while intoxicated, driving under the influence, and operating while impaired (§ 50-2201.05);</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>A misdemeanor offense for which sex offender registration is required pursuant to Chapter 40 of Title 22, whether or not the registration period has expired;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Criminal abuse of a vulnerable adult (§ 22-936(a));</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>Interfering with access to a medical facility (§ 22-1314.02);</text>
+      </level>
+      <level>
+        <num>(F)</num>
+        <text>Possession of a pistol by a convicted felon (§ 22-4503(a)(2));</text>
+      </level>
+      <level>
+        <num>(G)</num>
+        <text>Failure to report child abuse (§ 4-1321.07);</text>
+      </level>
+      <level>
+        <num>(H)</num>
+        <text>Refusal or neglect of guardian to provide for child under 14 years of age (§ 22-1102);</text>
+      </level>
+      <level>
+        <num>(I)</num>
+        <text>Disorderly conduct (peeping tom) (§ 22-1321);</text>
+      </level>
+      <level>
+        <num>(J)</num>
+        <text>Misdemeanor sexual abuse (§ 22-3006);</text>
+      </level>
+      <level>
+        <num>(K)</num>
+        <text>Violating the Sex Offender Registration Act (§ 22-4015);</text>
+      </level>
+      <level>
+        <num>(L)</num>
+        <text>Violating child labor laws (§§ 32-201 through 32-224);</text>
+      </level>
+      <level>
+        <num>(M)</num>
+        <text>Election/Petition fraud (§ 1-1001.08);</text>
+      </level>
+      <level>
+        <num>(N)</num>
+        <text>Public assistance fraud (§§ 4-218.01 through 4-218.05);</text>
+      </level>
+      <level>
+        <num>(O)</num>
+        <text>Trademark counterfeiting (§ 22-902(b)(1));</text>
+      </level>
+      <level>
+        <num>(P)</num>
+        <text>Attempted trademark counterfeiting (§§ 22-1803, 22-902);</text>
+      </level>
+      <level>
+        <num>(Q)</num>
+        <text>Fraud in the second degree (§ 22-3222(b)(2));</text>
+      </level>
+      <level>
+        <num>(R)</num>
+        <text>Attempted fraud (§§ 22-1803, 22-3222);</text>
+      </level>
+      <level>
+        <num>(S)</num>
+        <text>Credit card fraud (§ 22-3223(d)(2));</text>
+      </level>
+      <level>
+        <num>(T)</num>
+        <text>Attempted credit card fraud (§ 22-1803, 22-223);</text>
+      </level>
+      <level>
+        <num>(U)</num>
+        <text>Misdemeanor insurance fraud (§ 22-3225.03a);</text>
+      </level>
+      <level>
+        <num>(V)</num>
+        <text>Attempted insurance fraud (§§ 22-1803, 22-3225.02, 22-3225.03);</text>
+      </level>
+      <level>
+        <num>(W)</num>
+        <text>Telephone fraud (§§ 22-3226.06, 22-3226.10(3));</text>
+      </level>
+      <level>
+        <num>(X)</num>
+        <text>Attempted telephone fraud (§§ 22-1803, 22-3226.06, 22-3226.10);</text>
+      </level>
+      <level>
+        <num>(Y)</num>
+        <text>Identity theft, second degree (§§ 22-3227.02, 22-3227.03(b));</text>
+      </level>
+      <level>
+        <num>(Z)</num>
+        <text>Attempted identify theft (§§ 22-1803, 22-3227.02, 22-3227.03);</text>
+      </level>
+      <level>
+        <num>(AA)</num>
+        <text>Fraudulent statements or failure to make statements to employee (§ 47- 4104);</text>
+      </level>
+      <level>
+        <num>(BB)</num>
+        <text>Fraudulent withholding information or failure to supply information to employer (§ 47-4105);</text>
+      </level>
+      <level>
+        <num>(CC)</num>
+        <text>Fraud and false statements (§ 47-4106);</text>
+      </level>
+      <level>
+        <num>(DD)</num>
+        <text>False statement/dealer certificate (§ 50-1501.04(a)(3));</text>
+      </level>
+      <level>
+        <num>(EE)</num>
+        <text>False information/registration (§ 50-1501.04(a)(3));</text>
+      </level>
+      <level>
+        <num>(FF)</num>
+        <text>No school bus driver's license (18 DCMR § 1305.1);</text>
+      </level>
+      <level>
+        <num>(GG)</num>
+        <text>False statement on Department of Motor Vehicles document (18 DCMR § 1104.1);</text>
+      </level>
+      <level>
+        <num>(HH)</num>
+        <text>No permit--2nd or greater offense (§ 50-1401.01(d));</text>
+      </level>
+      <level>
+        <num>(II)</num>
+        <text>Altered title (18 DCMR § 1104.3);</text>
+      </level>
+      <level>
+        <num>(JJ)</num>
+        <text>Altered registration (18 DCMR § 1104.4);</text>
+      </level>
+      <level>
+        <num>(KK)</num>
+        <text>No commercial driver's license (§ 50-405);</text>
+      </level>
+      <level>
+        <num>(LL)</num>
+        <text>A violation of building and housing code regulations;</text>
+      </level>
+      <level>
+        <num>(MM)</num>
+        <text>A violation of the Public Utility Commission regulations; and</text>
+      </level>
+      <level>
+        <num>(NN)</num>
+        <text>Attempt or conspiracy to commit any of the foregoing offenses (§§ 22- 1803, 22-1805a).</text>
+      </level>
+    </level>
+    <level>
+      <num>(10)</num>
+      <text>"Minor offense" means a traffic offense, disorderly conduct, or an offense that is punishable by a fine only, excluding any ineligible misdemeanor.</text>
+    </level>
+    <level>
+      <num>(11)</num>
+      <text>"Public" means any person, agency, organization, or entity other than:</text>
+      <level>
+        <num>(A)</num>
+        <text>Any court;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Any federal, state, or local prosecutor;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Any law enforcement agency;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Any licensing agency with respect to an offense that may disqualify a person from obtaining that license;</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>Any licensed school, day care center, before or after school facility or other educational or child protection agency or facility;</text>
+      </level>
+      <level>
+        <num>(F)</num>
+        <text>Any government employer or nominating or tenure commission with respect to:</text>
+        <level>
+          <num>(i)</num>
+          <text>Employment of a judicial or quasi-judicial officer; or</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Employment at a senior-level, executive-grade government position.</text>
+        </level>
+      </level>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(May 5, 2007, D.C. Law 16-307, § 2(b), 54 DCR 868; Mar. 25, 2009, D.C. Law 17-368, § 4(e), 56 DCR 1338; Dec. 10, 2009, D.C. Law 18-88, § 401, 56 DCR 7413.)</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Effect of Amendments</heading>
+        <text>D.C. Law 17-368, in par. (9)(A), substituted "§ 16-1001(8)" for "§ 16-1001(5)".</text>
+        <text>D.C. Law 18-88, in par. (9)(Z), substituted "Attempted identify theft" for "Attempted theft".</text>
+      </level>
+      <level>
+        <heading>Emergency Act Amendments</heading>
+        <text>For temporary (90 day) amendment of section, see § 401 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009, 56 DCR 6903).</text>
+        <text>For temporary (90 day) amendment of section, see § 401 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18- 227, October 21, 2009, 56 DCR 8668).</text>
+      </level>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>Law 16-307, the "Criminal Record Sealing Act of 2006", was introduced in Council and assigned Bill No. 16-746, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on December 5, 2006, and December 19, 2006, respectively. Signed by the Mayor on December 28, 2006, it was assigned Act No. 16-631 and transmitted to both Houses of Congress for its review. D.C. Law 16-307 became effective on May 5, 2007.</text>
+        <text>Law 17-368, the "Intrafamily Offenses Act of 2008", was introduced in Council and assigned Bill No. 17-55 which was referred to the Committee on Public Safety and Judiciary. The Bill was adopted on first and second readings on December 2, 2008, and December 16, 2008, respectively. Signed by the Mayor on January 22, 2009, it was assigned Act No. 17-703 and transmitted to both Houses of Congress for its review. D.C. Law 17-368 became effective on March 25, 2009.</text>
+        <text>Law 18-88, the "Omnibus Public Safety and Justice Amendment Act of 2009", as introduced in Council and assigned Bill No. 18-151, which was referred to the Committee on Public Safety and the Judiciary. The bill as adopted on first and second readings on June 30, 2009, and July 31, 2009, respectively. Signed by the Mayor on August 26, 2009, it was assigned Act No. 18-189 and transmitted to both Houses of Congress for its review. D.C. Law 18-88 became effective on December 10, 2009.</text>
+      </level>
+    </level>
+  </level>
+</level>

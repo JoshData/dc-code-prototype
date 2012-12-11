@@ -1,0 +1,15 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>III</num>
+  <heading>Excess Property for Development of Seat of Government.</heading>
+  <level>
+    <text>DC CODE D. II, T. 16, Ch. 13, Subch. III, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1331.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1332.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1333.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1334.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1335.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1336.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1337.xml"/>
+</level>

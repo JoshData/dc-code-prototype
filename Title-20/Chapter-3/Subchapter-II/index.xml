@@ -1,0 +1,7 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>II</num>
+  <heading>Abbreviated Probate Proceeding.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-311.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-312.xml"/>
+</level>

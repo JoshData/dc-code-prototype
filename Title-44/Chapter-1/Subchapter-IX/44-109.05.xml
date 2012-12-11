@@ -1,0 +1,37 @@
+<level type="section">
+  <num>44-109.05</num>
+  <heading>Medication administration.</heading>
+  <level>
+    <num>(a)</num>
+    <text>Licensed nurses, physicians, physician assistants, and TMEs may administer medications to residents or assist residents with taking their medications.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <level>
+      <num>(1)</num>
+      <text>Each resident shall be identified prior to drug administration.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Drugs prescribed for one resident shall not be administered to another resident.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The TME shall report drug errors to the healthcare practitioner or licensed nurse and shall document the incident in the resident's record.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(June 24, 2000, D.C. Law 13-127, § 905, 47 DCR 2647.)</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For Law 13-127, see notes following § 44-101.01.</text>
+      </level>
+    </level>
+  </level>
+</level>

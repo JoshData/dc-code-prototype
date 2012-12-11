@@ -1,0 +1,9 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>S</num>
+  <heading>Transitional Provisions.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2853.221.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2853.222.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2853.223.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2853.224.xml"/>
+</level>

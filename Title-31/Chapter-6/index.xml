@@ -1,0 +1,9 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>6</num>
+  <heading>Domestic Stock Insurance Companies.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-601.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-602.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-603.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-604.xml"/>
+</level>

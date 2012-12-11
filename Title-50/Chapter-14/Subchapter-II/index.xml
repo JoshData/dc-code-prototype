@@ -1,0 +1,8 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>II</num>
+  <heading>Revocation and Suspension of Permit.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1403.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1403.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1403.03.xml"/>
+</level>

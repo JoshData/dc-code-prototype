@@ -1,0 +1,8 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>26</num>
+  <heading>Reporting of Injuries Caused by Firearms or Other Dangerous Weapons.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-2601.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-2602.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-2603.xml"/>
+</level>

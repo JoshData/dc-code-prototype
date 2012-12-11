@@ -1,0 +1,90 @@
+<level type="section">
+  <num>28:9-503</num>
+  <heading>Name of debtor and secured party.</heading>
+  <level>
+    <num>(a)</num>
+    <text>A financing statement sufficiently provides the name of the debtor:</text>
+    <level>
+      <num>(1)</num>
+      <text>If the debtor is a registered organization, only if the financing statement provides the name of the debtor indicated on the public record of the debtor's jurisdiction of organization which shows the debtor to have been organized;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>If the debtor is a decedent's estate, only if the financing statement provides the name of the decedent and indicates that the debtor is an estate;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>If the debtor is a trust or a trustee acting with respect to property held in trust, only if the financing statement:</text>
+      <level>
+        <num>(A)</num>
+        <text>Provides the name specified for the trust in its organic documents or, if no name is specified, provides the name of the settlor and additional information sufficient to distinguish the debtor from other trusts having one or more of the same settlors; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Indicates, in the debtor's name or otherwise, that the debtor is a trust or is a trustee acting with respect to property held in trust; and</text>
+      </level>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>In other cases:</text>
+      <level>
+        <num>(A)</num>
+        <text>If the debtor has a name, only if it provides the individual or organizational name of the debtor; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>If the debtor does not have a name, only if it provides the names of the partners, members, associates, or other persons comprising the debtor.</text>
+      </level>
+    </level>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>A financing statement that provides the name of the debtor in accordance with subsection (a) is not rendered ineffective by the absence of:</text>
+    <level>
+      <num>(1)</num>
+      <text>A trade name or other name of the debtor; or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Unless required under subsection (a)(4)(B), names of partners, members, associates, or other persons comprising the debtor.</text>
+    </level>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>A financing statement that provides only the debtor's trade name does not sufficiently provide the name of the debtor.</text>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>Failure to indicate the representative capacity of a secured party or representative of a secured party does not affect the sufficiency of a financing statement.</text>
+  </level>
+  <level>
+    <num>(e)</num>
+    <text>A financing statement may provide the name of more than one debtor and the name of more than one secured party.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576.)</text>
+    </level>
+    <level>
+      <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
+      <text>1. <text b="True">Source.</text> Subsections (a)(4)(A), (b), and (c) derive from former Section 9- 402(7); otherwise, new.</text>
+      <text>2. <text b="True">Debtor's Name.</text> The requirement that a financing statement provide the debtor's name is particularly important. Financing statements are indexed under the name of the debtor, and those who wish to find financing statements search for them under the debtor's name. Subsection (a) explains what the debtor's name is for purposes of a financing statement. If the debtor is a "registered organization" (defined in Section 9-102 so as to ordinarily include corporations, limited partnerships, and limited liability companies), then the debtor's name is the name shown on the public records of the debtor's "jurisdiction of organization" (also defined in Section 9-102). Subsections (a)(2) and (a)(3) contain special rules for decedent's estates and common-law trusts. (Subsection (a)(1) applies to business trusts that are registered organizations.)</text>
+      <text>Subsection (a)(4)(A) essentially follows the first sentence of former Section 9-402(7). Section 1-201(28) defines the term "organization," which appears in subsection (a)(4), very broadly, to include all legal and commercial entities as well as associations that lack the status of a legal entity. Thus, the term includes corporations, partnerships of all kinds, business trusts, limited liability companies, unincorporated associations, personal trusts, governments, and estates. If the organization has a name, that name is the correct name to put on a financing statement. If the organization does not have a name, then the financing statement should name the individuals or other entities who comprise the organization.</text>
+      <text>Together with subsections (b) and (c), subsection (a) reflects the view prevailing under former Article 9 that the actual individual or organizational name of the debtor on a financing statement is both necessary and sufficient, whether or not the financing statement provides trade or other names of the debtor and, if the debtor has a name, whether or not the financing statement provides the names of the partners, members, or associates who comprise the debtor.</text>
+      <text>Note that, even if the name provided in an initial financing statement is correct, the filing office nevertheless must reject the financing statement if it does not identify an individual debtor's last name (e.g., if it is not clear whether the debtor's name is Perry Mason or Mason Perry). See Section 9- 516(b)(3)(C).</text>
+      <text>3. <text b="True">Secured Party's Name.</text> New subsection (d) makes clear that when the secured party is a representative, a financing statement is sufficient if it names the secured party, whether or not it indicates any representative capacity. Similarly, a financing statement that names a representative of the secured party is sufficient, even if it does not indicate the representative capacity.</text>
+      <text><text b="True">Example:</text> Debtor creates a security interest in favor of Bank X, Bank Y, and Bank Z, but not to their representative, the collateral agent (Bank A). The collateral agent is not itself a secured party. See Section 9-102. Under Sections 9-502(a) and 9-503(d), however, a financing statement is effective if it names as secured party Bank A and not the actual secured parties, even if it omits Bank A's representative capacity.</text>
+      <text>Each person whose name is provided in an initial financing statement as the name of the secured party or representative of the secured party is a secured party of record. See Section 9-511.</text>
+      <text>4. <text b="True">Multiple Names.</text> Subsection (e) makes explicit what is implicit under former Article 9: a financing statement may provide the name of more than one debtor and secured party. See Section 1-102(5)(a) (words in the singular include the plural). With respect to records relating to more than one debtor, see Section 9-520(d). With respect to financing statements providing the name of more than one secured party, see Sections 9-509(e) and 9-510(b).</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For Law 13-201, see notes following § 28:9-101.</text>
+      </level>
+    </level>
+  </level>
+</level>

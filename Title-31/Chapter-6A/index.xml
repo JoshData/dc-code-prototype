@@ -1,0 +1,9 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>6A</num>
+  <heading>Fingerprint-Based Background Checks.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-631.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-632.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-633.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-634.xml"/>
+</level>

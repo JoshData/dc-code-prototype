@@ -1,0 +1,14 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>V</num>
+  <heading>Resident's Rights and Quality of Life.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-105.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-105.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-105.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-105.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-105.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-105.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-105.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-105.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-105.09.xml"/>
+</level>

@@ -1,0 +1,8 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>B</num>
+  <heading>Client Rights and Responsibilities.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-754.11.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-754.12.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-754.13.xml"/>
+</level>

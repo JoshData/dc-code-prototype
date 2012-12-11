@@ -1,0 +1,15 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>12</num>
+  <heading>Preservation of Historic Places and Areas in the Georgetown Area.</heading>
+  <level>
+    <text>DC CODE D. I, T. 6, Ch. 12, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1201.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1202.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1203.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1204.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1205.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1206.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1207.xml"/>
+</level>

@@ -1,0 +1,16 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>13</num>
+  <heading>Residential Real Property Seller Disclosures.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1301.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1302.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1303.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1304.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1305.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1306.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1307.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1308.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1309.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1310.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1311.xml"/>
+</level>

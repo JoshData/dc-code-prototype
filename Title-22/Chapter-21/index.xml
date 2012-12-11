@@ -1,0 +1,13 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>21</num>
+  <heading>Murder; Manslaughter.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2101.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2102.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2103.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2104.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2104.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2105.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2106.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2107.xml"/>
+</level>

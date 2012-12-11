@@ -1,0 +1,8 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>6</num>
+  <heading>Warehouse Receipts and Bills of Lading: Miscellaneous Provisions.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_7-601.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_7-602.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_7-603.xml"/>
+</level>

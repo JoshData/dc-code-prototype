@@ -1,0 +1,57 @@
+<level type="section">
+  <num>28:9-314</num>
+  <heading>Perfection by control.</heading>
+  <level>
+    <num>(a)</num>
+    <text>A security interest in investment property, deposit accounts, letter-of-credit rights, or electronic chattel paper may be perfected by control of the collateral under § 28:9-104, 28:9-105, 28:9-106, or 28:9-107.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>A security interest in deposit accounts, electronic chattel paper, or letter-of-credit rights is perfected by control under § 28:9-104, 28:9- 105, or 28:9-107 when the secured party obtains control and remains perfected by control only while the secured party retains control.</text>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>A security interest in investment property is perfected by control under § 28:9-106 from the time the secured party obtains control and remains perfected by control until:</text>
+    <level>
+      <num>(1)</num>
+      <text>The secured party does not have control; and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>One of the following occurs:</text>
+      <level>
+        <num>(A)</num>
+        <text>If the collateral is a certificated security, the debtor has or acquires possession of the security certificate;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>If the collateral is an uncertificated security, the issuer has registered or registers the debtor as the registered owner; or</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>If the collateral is a security entitlement, the debtor is or becomes the entitlement holder.</text>
+      </level>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576.)</text>
+    </level>
+    <level>
+      <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
+      <text>1. <text b="True">Source.</text> Substantially new; derived in part from former Section 9-115(4).</text>
+      <text>2. <text b="True">Control.</text> This section provides for perfection by control with respect to investment property, deposit accounts, letter-of-credit rights, and electronic chattel paper. For explanations of how a secured party takes control of these types of collateral, see Sections 9-104 through 9-107. Subsection (b) explains when a security interest is perfected by control and how long a security interest remains perfected by control. Like Section 9-313(d) and for the same reasons, subsection (b) makes no reference to the doctrine of "relation back." See Section 9-313, Comment 5.</text>
+      <text>3. <text b="True">Investment Property.</text> Subsection (c) provides a special rule for investment property. Once a secured party has control, its security interest remains perfected by control until the secured party ceases to have control and the debtor receives possession of collateral that is a certificated security, becomes the registered owner of collateral that is an uncertificated security, or becomes the entitlement holder of collateral that is a security entitlement. The result is particularly important in the "repledge" context. See Section 9-207, Comment 5.</text>
+      <text>In a transaction in which a secured party who has control grants a security interest in investment property or sells outright the investment property, by virtue of the debtor's consent or applicable legal rules, a purchaser from the secured party typically will cut off the debtor's rights in the investment property or be immune from the debtor's claims. See Section 9-207, Comments 5 and 6. If the investment property is a security, the debtor normally would retain no interest in the security following the purchase from the secured party, and a claim of the debtor against the secured party for redemption (Section 9-623) or otherwise with respect to the security would be a purely personal claim. If the investment property transferred by the secured party is a financial asset in which the debtor had a security entitlement credited to a securities account maintained with the secured party as a securities intermediary, the debtor's claim against the secured party could arise as a part of its securities account notwithstanding its personal nature. (This claim would be analogous to a "credit balance" in the securities account, which is a component of the securities account even though it is a personal claim against the intermediary.) In the case in which the debtor may retain an interest in investment property notwithstanding a repledge or sale by the secured party, subsection (c) makes clear that the security interest will remain perfected by control.</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For Law 13-201, see notes following § 28:9-101.</text>
+      </level>
+    </level>
+  </level>
+</level>

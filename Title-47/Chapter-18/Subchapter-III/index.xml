@@ -1,0 +1,11 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>III</num>
+  <heading>Net Income, Gross Income and Exclusions Therefrom, and Deductions.</heading>
+  <level>
+    <text>DC CODE D. VIII, T. 47, Ch. 18, Subch. III, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1803.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1803.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1803.03.xml"/>
+</level>

@@ -1,0 +1,32 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>3</num>
+  <heading>Check Cashers.</heading>
+  <level>
+    <text>DC CODE D. V, T. 26, Ch. 3, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-301.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-302.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-303.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-304.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-305.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-306.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-307.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-308.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-309.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-310.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-311.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-311.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-312.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-313.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-314.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-315.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-316.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-317.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-318.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-319.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-320.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-321.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-322.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-323.xml"/>
+</level>

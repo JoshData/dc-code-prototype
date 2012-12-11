@@ -1,0 +1,18 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>6A</num>
+  <heading>International Banking.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-631.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-632.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-633.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-634.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-635.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-636.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-637.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-638.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-639.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-640.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-641.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-642.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-643.xml"/>
+</level>

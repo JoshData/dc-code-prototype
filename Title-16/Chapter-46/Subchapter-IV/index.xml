@@ -1,0 +1,99 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>IV</num>
+  <heading>Child Abduction Prevention.</heading>
+  <level>
+    <text>
+      <text font="'monospace'"> -------------------------------------------------------------------------------</text>
+    </text>
+    <text>
+      <text font="'monospace'">-------------------------------------------------------------------------------</text>
+    </text>
+    <text>
+      <text font="'monospace'"> Jurisdiction Laws Effective Date Statutory Citation </text>
+    </text>
+    <text>
+      <text font="'monospace'">-------------------------------------------------------------------------------</text>
+    </text>
+    <text>
+      <text font="'monospace'">Alabama ........ 2010, Act 212 1-1-2011 Code 1975, §§ 30-3C-1 to </text>
+    </text>
+    <text>
+      <text font="'monospace'"> 30-3C-12. </text>
+    </text>
+    <text>
+      <text font="'monospace'">Colorado ....... 2007, c. 205 5-14-2007 West's C.R.S.A. §§ </text>
+    </text>
+    <text>
+      <text font="'monospace'"> 14-13.5-101 to 14-13.5-112.</text>
+    </text>
+    <text>
+      <text font="'monospace'">District of </text>
+    </text>
+    <text>
+      <text font="'monospace'"> Columbia ..... 2009, D.C. Law 3-31-2009 D.C. Official Code, 2001 Ed. </text>
+    </text>
+    <text>
+      <text font="'monospace'"> 17-378 §§ 16-4604.01 to </text>
+    </text>
+    <text>
+      <text font="'monospace'"> 16-4604.10. </text>
+    </text>
+    <text>
+      <text font="'monospace'">Florida ........ 2010, c. 59 1-1-2011 West's F.S.A. § 61.45. </text>
+    </text>
+    <text>
+      <text font="'monospace'">Kansas ......... 2007, c. 75 7-1-2007 K.S.A. 38-13a01 to 38-13a12. </text>
+    </text>
+    <text>
+      <text font="'monospace'">Louisiana ...... 2007, c. 369 8-15-2007 LSA-RS 13:1851 to 13:1862. </text>
+    </text>
+    <text>
+      <text font="'monospace'">Mississippi .... 2009, c. 450 7-1-2009 Code 1972, §§ 93-29-1 to </text>
+    </text>
+    <text>
+      <text font="'monospace'"> 93-29-23. </text>
+    </text>
+    <text>
+      <text font="'monospace'">Nebraska ....... 2007, LB 341 2-2-2007 R.R.S.1943, §§ 43-3901 to </text>
+    </text>
+    <text>
+      <text font="'monospace'"> 43-3912. </text>
+    </text>
+    <text>
+      <text font="'monospace'">Nevada ......... 2007, c. 81 5-21-2007 [FN*] N.R.S. 125D.010 to 125D.230. </text>
+    </text>
+    <text>
+      <text font="'monospace'">South Dakota ... 2007, c. 169 7-1-2007 SDCL 26-18-1 to 26-18-12. </text>
+    </text>
+    <text>
+      <text font="'monospace'">Tennessee ...... 2010, c. 832 7-1-2010 T.C.A. §§ 36-6-601 to </text>
+    </text>
+    <text>
+      <text font="'monospace'"> 36-6-612. </text>
+    </text>
+    <text>
+      <text font="'monospace'">Utah ........... 2007, c. 265 1-1-2008 U.C.A.1953, §§ 78B-16-101 to </text>
+    </text>
+    <text>
+      <text font="'monospace'"> 78B-16-112. </text>
+    </text>
+    <text>
+      <text font="'monospace'">-------------------------------------------------------------------------------</text>
+    </text>
+    <text>
+      <text font="'monospace'">[FN*] Date of approval. </text>
+    </text>
+    <text>DC CODE D. II, T. 16, Ch. 46, Subch. IV, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-4604.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-4604.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-4604.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-4604.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-4604.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-4604.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-4604.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-4604.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-4604.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-4604.10.xml"/>
+</level>

@@ -1,0 +1,9 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>8B</num>
+  <heading>Off-Label Informed Consent.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-841.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-841.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-841.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-841.04.xml"/>
+</level>

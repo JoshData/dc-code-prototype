@@ -1,0 +1,18 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>2</num>
+  <heading>Clinical Laboratories.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-201.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-202.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-203.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-204.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-205~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-206.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-207.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-208.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-209.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-210.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-211.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-212.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-213.xml"/>
+</level>

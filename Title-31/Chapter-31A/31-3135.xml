@@ -1,0 +1,57 @@
+<level type="section">
+  <num>31-3135</num>
+  <heading>Claims payment report.</heading>
+  <text>A health insurer shall include with its annual report filed with the Commissioner a claims payment report to include the:</text>
+  <level>
+    <level>
+      <num>(1)</num>
+      <text>Number of claims received in the previous calendar year;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Number of claims denied in the previous calendar year;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Number of claims paid:</text>
+      <level>
+        <num>(A)</num>
+        <text>In the previous calendar year;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>In 30 days;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>In 60 days;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>In 120 days; and</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>In more than 120 days; and</text>
+      </level>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Average number of days to pay a claim submitted in the previous calendar year.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(July 23, 2002, D.C. Law 14-176, § 6, 49 DCR 5086.)</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For Law 14-176, see notes following § 31-331.</text>
+      </level>
+    </level>
+  </level>
+</level>

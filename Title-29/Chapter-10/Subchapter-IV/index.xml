@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>IV</num>
+  <heading>Amendment of Organic Rules of Limited Cooperative Association.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1004.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1004.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1004.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1004.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1004.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1004.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1004.07.xml"/>
+</level>

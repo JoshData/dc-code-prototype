@@ -1,0 +1,10 @@
+<level type="toc">
+  <prefix>Article</prefix>
+  <num>2A</num>
+  <heading>Leases.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-1/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-2/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-3/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-4/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-5/index.xml"/>
+</level>

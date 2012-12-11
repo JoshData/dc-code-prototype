@@ -1,0 +1,9 @@
+<level type="toc">
+  <prefix>Subpart</prefix>
+  <num>2</num>
+  <heading>Council Independence.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.44.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.44a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.44b.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.44c.xml"/>
+</level>

@@ -1,0 +1,13 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>II</num>
+  <heading>Search Warrants.</heading>
+  <level>
+    <text>DC CODE D. IV, T. 23, Ch. 5, Subch. II, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-521.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-522.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-523.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-524.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-525.xml"/>
+</level>

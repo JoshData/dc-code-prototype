@@ -1,0 +1,9 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>III</num>
+  <heading>Determinations and Review of Eligibility and Payments; Information Sharing.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-805.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-805.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-805.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-805.04.xml"/>
+</level>

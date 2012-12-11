@@ -1,0 +1,49 @@
+<level type="section">
+  <num>2-356.02</num>
+  <heading>Source selection methods assigned to project delivery methods.</heading>
+  <level>
+    <num>(a)</num>
+    <text>This section specifies the source selection methods applicable to procurements for the project delivery methods identified in § 2-356.01, except as provided in §§ 2-354.04, 2-354.05, 2-354.07, 2-354.08, 2-354.11, and 2-354.12.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <level>
+      <num>(1)</num>
+      <text>The qualifications-based selection process set forth in § 2-356.04 shall be used to procure architectural and engineering services in design-bid-build procurements.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Competitive sealed bidding, as set forth in § 2-354.02, shall be used to procure construction in design-bid-build procurements, except where rules authorize the use of competitive sealed proposals, as set forth in § 2- 354.03, for contracts for construction management at-risk.</text>
+    </level>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>Contracts for operations and maintenance shall be procured as set forth in § 2-354.01.</text>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>Contracts for design-build shall be procured by competitive sealed proposals, as set forth in § 2-354.03.</text>
+  </level>
+  <level>
+    <num>(e)</num>
+    <text>Contracts for design-build-operate-maintain shall be procured by competitive sealed proposals, as set forth in § 2-354.03.</text>
+  </level>
+  <level>
+    <num>(f)</num>
+    <text>Contracts for design-build-finance-operate-maintain shall be procured by competitive sealed proposals, as set forth in § 2-354.03.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Apr. 8, 2011, D.C. Law 18-371, § 602, 58 DCR 1185.)</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For history of Law 18-371, see notes under § 2-351.01.</text>
+      </level>
+    </level>
+  </level>
+</level>

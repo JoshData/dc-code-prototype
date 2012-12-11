@@ -1,0 +1,10 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>IX</num>
+  <heading>Tax Increment Financing.</heading>
+  <level>
+    <text>DC CODE D. I, T. 2, Ch. 12, Subch. IX, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-A/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-B/index.xml"/>
+</level>

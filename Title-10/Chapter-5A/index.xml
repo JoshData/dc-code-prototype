@@ -1,0 +1,16 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>5A</num>
+  <heading>Department of General Services.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.07a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.10.xml"/>
+</level>

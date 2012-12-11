@@ -1,0 +1,30 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>II</num>
+  <heading>Sex Offenses.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3002.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3003.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3004.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3005.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3006.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3007.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3008.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3009.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3009.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3009.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3009.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3009.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3010.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3010.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3010.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3011.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3012.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3013.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3014.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3015.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3016.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3017.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3018.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3019.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3020.xml"/>
+</level>

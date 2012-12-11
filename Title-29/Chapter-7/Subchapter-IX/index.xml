@@ -1,0 +1,10 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>IX</num>
+  <heading>Actions by Partners.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-709.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-709.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-709.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-709.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-709.05.xml"/>
+</level>

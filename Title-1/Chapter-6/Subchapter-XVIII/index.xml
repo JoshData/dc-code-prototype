@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>XVIII</num>
+  <heading>Employee Conduct.</heading>
+  <level>
+    <text>DC CODE D. I, T. 1, Ch. 6, Subch. XVIII, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-618.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-618.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-618.03~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-618.04.xml"/>
+</level>

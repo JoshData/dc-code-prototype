@@ -1,0 +1,779 @@
+<level type="section">
+  <num>28:9-521</num>
+  <heading>Uniform form of written financing statement and amendment.</heading>
+  <level>
+    <num>(a)</num>
+    <text>A filing office that accepts written records for filing may not refuse to accept a written initial financing statement in the following form, except for a reason set forth in § 28:9-516(b):</text>
+  </level>
+  <text>
+    <text font="'monospace'"> UCC FINANCING STATEMENT </text>
+  </text>
+  <text>
+    <text font="'monospace'">FOLLOW INSTRUCTIONS (front and back) CAREFULLY </text>
+  </text>
+  <text>
+    <text font="'monospace'">------------------------------------------------------- </text>
+  </text>
+  <text>
+    <text font="'monospace'"> A. NAME AND PHONE OF CONTACT AT FILER [optional] </text>
+  </text>
+  <text>
+    <text font="'monospace'">------------------------------------------------------- </text>
+  </text>
+  <text>
+    <text font="'monospace'"> B. SEND ACKNOWLEDGMENT TO: (Name and Address) </text>
+  </text>
+  <text>
+    <text font="'monospace'"> ____ ____ </text>
+  </text>
+  <text>
+    <text font="'monospace'"> ____ ____ THE ABOVE SPACE IS FOR</text>
+  </text>
+  <text>
+    <text font="'monospace'"> FILING OFFICE USE </text>
+  </text>
+  <text>
+    <text font="'monospace'"> ONLY </text>
+  </text>
+  <text>
+    <text font="'monospace'"> -------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">1. DEBTOR'S EXACT FULL LEGAL NAME--insert only one debtor name (1a or 1b)- </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Do not abbreviate or combine names </text>
+  </text>
+  <text>
+    <text font="'monospace'"> -------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 1a. ORGANIZATION'S NAME </text>
+  </text>
+  <text>
+    <text font="'monospace'">OR -------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 1b. INDIVIDUAL'S LAST NAME FIRST NAME MIDDLE NAME SUFFIX </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">1c. MAILING ADDRESS CITY STATE POSTAL COUNTRY</text>
+  </text>
+  <text>
+    <text font="'monospace'"> CODE </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">1d. TAX ID. ADD'L INFO. RE 1e. TYPE OF 1f. JURISD- 1g. ORGANIZATIONAL ID </text>
+  </text>
+  <text>
+    <text font="'monospace'"> NO. SSN OR ORGANIZATION ORGANIZATION ICTION OF No., if any </text>
+  </text>
+  <text>
+    <text font="'monospace'"> EIN DEBTOR ORGANIZA- </text>
+  </text>
+  <text>
+    <text font="'monospace'"> TION </text>
+  </text>
+  <text>
+    <text font="'monospace'"> [ ] NONE</text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">2. ADDITIONAL DEBTOR'S EXACT FULL LEGAL NAME--insert only one debtor name </text>
+  </text>
+  <text>
+    <text font="'monospace'"> (2a or 2b)--do not abbreviate or combine names </text>
+  </text>
+  <text>
+    <text font="'monospace'"> -------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 2a. ORGANIZATION'S NAME </text>
+  </text>
+  <text>
+    <text font="'monospace'">OR -------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 2b. INDIVIDUAL'S LAST NAME FIRST NAME MIDDLE NAME SUFFIX </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">2c. MAILING ADDRESS CITY STATE POSTAL COUNTRY</text>
+  </text>
+  <text>
+    <text font="'monospace'"> CODE </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">2d. TAX ID. ADD'L INFO. RE 2e. TYPE OF 2f. JURISD- 2g. ORGANIZATIONAL ID </text>
+  </text>
+  <text>
+    <text font="'monospace'"> NO. SSN OR ORGANIZATION ORGANIZATION ICTION OF No., if any </text>
+  </text>
+  <text>
+    <text font="'monospace'"> EIN DEBTOR ORGANIZA- </text>
+  </text>
+  <text>
+    <text font="'monospace'"> TION </text>
+  </text>
+  <text>
+    <text font="'monospace'"> [ ] NONE</text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">3. SECURED PARTY'S NAME (or name of total assignee of assignor S/P)-insert </text>
+  </text>
+  <text>
+    <text font="'monospace'"> only one secured party name (3a or 3b) </text>
+  </text>
+  <text>
+    <text font="'monospace'"> -------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 3a. ORGANIZATION'S NAME </text>
+  </text>
+  <text>
+    <text font="'monospace'">OR -------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 3b. INDIVIDUAL'S LAST NAME FIRST NAME MIDDLE NAME SUFFIX </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">3c. MAILING CITY STATE POSTAL CODE COUNTRY </text>
+  </text>
+  <text>
+    <text font="'monospace'"> ADDRESS </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">4. This FINANCING STATEMENT covers the following collateral: </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">5. ALTERNATIVE DESIGNATION [if applicable]: [ ] LESSEE/LESSOR [ ] </text>
+  </text>
+  <text>
+    <text font="'monospace'"> CONSIGNEE/CONSIGNOR [ ] BAILEE/BAILOR [ ] SELLER/BUYER [ ] AG. LIEN [ ] </text>
+  </text>
+  <text>
+    <text font="'monospace'"> NON-UCC FILING </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">6. [ ] This FINANCING STATEMENT is to be filed 7. Check to REQUEST SEARCH </text>
+  </text>
+  <text>
+    <text font="'monospace'"> (for record) (or recorded) in the REAL REPORT(S) on Debtor(s) </text>
+  </text>
+  <text>
+    <text font="'monospace'"> ESTATE RECORDS. Attach Addendum [if [ADDITIONAL FEE] [optional] </text>
+  </text>
+  <text>
+    <text font="'monospace'"> applicable] [ ] All Debtors [ ] Debtor 1 </text>
+  </text>
+  <text>
+    <text font="'monospace'"> [ ] Debtor 2 </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">8. OPTIONAL FILER REFERENCE DATA </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">FILING OFFICE COPY--NATIONAL UCC FILING STATEMENT (FORM UCC 1) (REV. 07/29/98) </text>
+  </text>
+  <text>
+    <text font="'monospace'"> [Back of form] </text>
+  </text>
+  <text>
+    <text font="'monospace'"> UCC FINANCING STATEMENT ADDENDUM </text>
+  </text>
+  <text>
+    <text font="'monospace'">FOLLOW INSTRUCTIONS instructions (front and </text>
+  </text>
+  <text>
+    <text font="'monospace'"> back) CAREFULLY. </text>
+  </text>
+  <text>
+    <text font="'monospace'">------------------------------------------------ </text>
+  </text>
+  <text>
+    <text font="'monospace'">9. NAME OF FIRST DEBTOR (1a or 1b) ON RELATED </text>
+  </text>
+  <text>
+    <text font="'monospace'"> FINANCING STATEMENT </text>
+  </text>
+  <text>
+    <text font="'monospace'">------------------------------------------------ </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 9a. ORGANIZATION'S NAME </text>
+  </text>
+  <text>
+    <text font="'monospace'">OR </text>
+  </text>
+  <text>
+    <text font="'monospace'">------------------------------------------------ </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 9b. INDIVIDUAL'S FIRST NAME MIDDLE NAME, </text>
+  </text>
+  <text>
+    <text font="'monospace'"> LAST NAME SUFFIX </text>
+  </text>
+  <text>
+    <text font="'monospace'">------------------------------------------------ </text>
+  </text>
+  <text>
+    <text font="'monospace'">10. MISCELLANEOUS: </text>
+  </text>
+  <text>
+    <text font="'monospace'"> THE ABOVE SPACE IS FOR </text>
+  </text>
+  <text>
+    <text font="'monospace'"> FILING OFFICE USE ONLY </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> ADDITIONAL DEBTOR'S EXACT FULL LEGAL NAME--insert only one name (11a or </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 11b)--do not abbreviate or combine names </text>
+  </text>
+  <text>
+    <text font="'monospace'"> ----------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 11a. ORGANIZATION'S NAME </text>
+  </text>
+  <text>
+    <text font="'monospace'">OR ----------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 11b. INDIVIDUAL'S LAST NAME FIRST NAME MIDDLE NAME SUFFIX </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">11c. MAILING ADDRESS CITY STATE POSTAL COUNTRY</text>
+  </text>
+  <text>
+    <text font="'monospace'"> CODE </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">11d. TAX ADD'L INFO. RE 11e. TYPE OF 11f. JURIS- 11g. ORGANIZATIONAL ID </text>
+  </text>
+  <text>
+    <text font="'monospace'"> ID. NO. ORGANIZATION ORGANIZATION DICTION No., if any </text>
+  </text>
+  <text>
+    <text font="'monospace'"> SSN OR DEBTOR OF ORGAN- </text>
+  </text>
+  <text>
+    <text font="'monospace'"> EIN IZATION </text>
+  </text>
+  <text>
+    <text font="'monospace'"> [ ] NONE</text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> [ ] ADDITIONAL SECURED PARTY'S or [ ] ASSIGNOR S/P'S NAME-insert only one </text>
+  </text>
+  <text>
+    <text font="'monospace'"> name (12a or 12b). </text>
+  </text>
+  <text>
+    <text font="'monospace'"> ----------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 12a. ORGANIZATION'S NAME </text>
+  </text>
+  <text>
+    <text font="'monospace'">OR ----------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 12b. INDIVIDUAL'S LAST NAME FIRST NAME MIDDLE NAME SUFFIX </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">12c. MAILING ADDRESS CITY STATE POSTAL COUNTRY</text>
+  </text>
+  <text>
+    <text font="'monospace'"> CODE </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">13. This FINANCING STATEMENT covers [ ] 16. Additional collateral </text>
+  </text>
+  <text>
+    <text font="'monospace'"> timber to be cut or [ ] as-extracted description: </text>
+  </text>
+  <text>
+    <text font="'monospace'"> collateral, or is filed as a [ ] fixture </text>
+  </text>
+  <text>
+    <text font="'monospace'"> filing. </text>
+  </text>
+  <text>
+    <text font="'monospace'">14. Description of real estate: </text>
+  </text>
+  <text>
+    <text font="'monospace'">15. Name and address of a RECORD OWNER of </text>
+  </text>
+  <text>
+    <text font="'monospace'"> the above-described real estate (if </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Debtor does not have record interest): </text>
+  </text>
+  <text>
+    <text font="'monospace'"> -----------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 17. Check only if applicable and </text>
+  </text>
+  <text>
+    <text font="'monospace'"> check only one box: </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Debtor is a [ ] Trust or [ ] </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Trustee acting with respect to </text>
+  </text>
+  <text>
+    <text font="'monospace'"> property held in trust or [ ] </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Decedent's Estate </text>
+  </text>
+  <text>
+    <text font="'monospace'"> -----------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 18. Check only if applicable and </text>
+  </text>
+  <text>
+    <text font="'monospace'"> check only one box: </text>
+  </text>
+  <text>
+    <text font="'monospace'"> [ ] Debtor is a TRANSMITTING </text>
+  </text>
+  <text>
+    <text font="'monospace'"> UTILITY </text>
+  </text>
+  <text>
+    <text font="'monospace'"> [ ] Filed in connection with a </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Manufactured-Home </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Transaction--effective 30 years </text>
+  </text>
+  <text>
+    <text font="'monospace'"> [ ] Filed in connection with a </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Public-Finance </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Transaction--effective 30 years </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> FILING OFFICE COPY--NATIONAL UCC FILING STATEMENT (FORM UCC 1Ad) (REV. </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 07/29/98) </text>
+  </text>
+  <level>
+    <num>(b)</num>
+    <text>A filing office that accepts written records for filing may not refuse to accept a written financing statement amendment in the following form, except for a reason set forth in § 28:9-516(b):</text>
+  </level>
+  <text>
+    <text font="'monospace'"> UCC FINANCING STATEMENT </text>
+  </text>
+  <text>
+    <text font="'monospace'">FOLLOW INSTRUCTIONS (front and back) CAREFULLY </text>
+  </text>
+  <text>
+    <text font="'monospace'">------------------------------------------------------ </text>
+  </text>
+  <text>
+    <text font="'monospace'"> A. NAME AND PHONE OF CONTACT AT FILER [optional] </text>
+  </text>
+  <text>
+    <text font="'monospace'">------------------------------------------------------ </text>
+  </text>
+  <text>
+    <text font="'monospace'"> B. SEND ACKNOWLEDGMENT TO: (Name and Address) </text>
+  </text>
+  <text>
+    <text font="'monospace'"> ____ ____ </text>
+  </text>
+  <text>
+    <text font="'monospace'"> ____ ____ </text>
+  </text>
+  <text>
+    <text font="'monospace'"> THE ABOVE SPACE IS FOR </text>
+  </text>
+  <text>
+    <text font="'monospace'"> FILING OFFICE USE </text>
+  </text>
+  <text>
+    <text font="'monospace'"> ONLY </text>
+  </text>
+  <text>
+    <text font="'monospace'"> -------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">1a. INITIAL FINANCING STATEMENT FILE NO. 1b. [ ] This FINANCING STATEMENT </text>
+  </text>
+  <text>
+    <text font="'monospace'"> AMENDMENT is to be filed (for </text>
+  </text>
+  <text>
+    <text font="'monospace'"> record) (or recorded) in the </text>
+  </text>
+  <text>
+    <text font="'monospace'"> REAL ESTATE RECORDS. </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">2. [ ] TERMINATION: Effectiveness of the Financing Statement identified above </text>
+  </text>
+  <text>
+    <text font="'monospace'"> is terminated with respect to security interest(s) of the Secured Party </text>
+  </text>
+  <text>
+    <text font="'monospace'"> authorizing this Termination Statement. </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">3. [ ] CONTINUATION: Effectiveness of the Financing Statement identified above </text>
+  </text>
+  <text>
+    <text font="'monospace'"> with respect to security interest(s) of the Secured Party authorizing this </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Continuation Statement is continued for the additional period provided by </text>
+  </text>
+  <text>
+    <text font="'monospace'"> applicable law. </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">4. [ ] ASSIGNMENT (full or partial): Give name of assignee in item 7a or 7b and</text>
+  </text>
+  <text>
+    <text font="'monospace'"> address of assignee in item 7c; and also give name of assignor in item 9. </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">5. AMENDMENT (PARTY INFORMATION): This Amendment affects [ ] Debtor or [ ] </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Secured Party of record. Check only one of these two boxes. Also check one of</text>
+  </text>
+  <text>
+    <text font="'monospace'"> the following three boxes and provide appropriate information in items 6 </text>
+  </text>
+  <text>
+    <text font="'monospace'"> and/or 7. </text>
+  </text>
+  <text>
+    <text font="'monospace'">[ ] CHANGE name and/or address: Give current [ ] DELETE [ ] ADD name: </text>
+  </text>
+  <text>
+    <text font="'monospace'"> record name in item 6a or 6b; also give name: Give Complete item 7a </text>
+  </text>
+  <text>
+    <text font="'monospace'"> new name (if name change) in item 7a or 7b record name or 7b, and also </text>
+  </text>
+  <text>
+    <text font="'monospace'"> and/or new address (if address change) in to be item 7c; also </text>
+  </text>
+  <text>
+    <text font="'monospace'"> item 7c. deleted in complete items </text>
+  </text>
+  <text>
+    <text font="'monospace'"> item 6a or 7d-7g (if </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 6b. applicable). </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">6. CURRENT RECORD INFORMATION: </text>
+  </text>
+  <text>
+    <text font="'monospace'"> --------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 6a. ORGANIZATION'S NAME </text>
+  </text>
+  <text>
+    <text font="'monospace'">OR --------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 6b. INDIVIDUAL'S LAST NAME FIRST NAME MIDDLE NAME SUFFIX </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">7. CHANGED (NEW) OR ADDED INFORMATION: </text>
+  </text>
+  <text>
+    <text font="'monospace'"> --------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 7a. ORGANIZATION'S NAME </text>
+  </text>
+  <text>
+    <text font="'monospace'">OR --------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 7b. INDIVIDUAL'S LAST NAME FIRST NAME MIDDLE NAME SUFFIX </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">7c. MAILING ADDRESS CITY STATE POSTAL COUNTRY</text>
+  </text>
+  <text>
+    <text font="'monospace'"> CODE </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">7d. TAX ID. ADD'L INFO. RE 2e. TYPE OF 2f. JURISDI- 2g. ORGANIZATIONAL ID </text>
+  </text>
+  <text>
+    <text font="'monospace'"> NO. SSN ORGANIZATION ORGANIZATION CTION OF No., if any </text>
+  </text>
+  <text>
+    <text font="'monospace'"> OR EIN DEBTOR ORGANIZAT- </text>
+  </text>
+  <text>
+    <text font="'monospace'"> ION </text>
+  </text>
+  <text>
+    <text font="'monospace'"> [ ] NONE</text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">8. AMENDMENT (COLLATERAL CHANGE): check only one box </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Describe collateral [ ] deleted or [ ] added, or give entire [ ] restated </text>
+  </text>
+  <text>
+    <text font="'monospace'"> collateral description, or describe collateral [ ] assigned. </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">9. NAME OF SECURED PARTY OF RECORD AUTHORIZING THIS AMENDMENT (name of </text>
+  </text>
+  <text>
+    <text font="'monospace'"> assignor, if this is an Assignment). If this is an Amendment authorized </text>
+  </text>
+  <text>
+    <text font="'monospace'"> by a Debtor which adds collateral or adds the authorizing Debtor, or if </text>
+  </text>
+  <text>
+    <text font="'monospace'"> this is a Termination authorized by a Debtor, check here [ ] and enter </text>
+  </text>
+  <text>
+    <text font="'monospace'"> name of DEBTOR authorizing this Amendment. </text>
+  </text>
+  <text>
+    <text font="'monospace'"> --------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 9a. ORGANIZATION'S NAME </text>
+  </text>
+  <text>
+    <text font="'monospace'">OR --------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 9b. INDIVIDUAL'S LAST NAME FIRST NAME MIDDLE NAME SUFFIX </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'">10. OPTIONAL FILE REFERENCE DATA </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> FILING OFFICE COPY--NATIONAL UCC FINANCING STATEMENT AMENDMENT (FORM UCC3) </text>
+  </text>
+  <text>
+    <text font="'monospace'"> (REV. 07/29/98) </text>
+  </text>
+  <text>
+    <text font="'monospace'"> [Back of form] </text>
+  </text>
+  <text>
+    <text font="'monospace'"> UCC FINANCING STATEMENT AMENDMENT ADDENDUM </text>
+  </text>
+  <text>
+    <text font="'monospace'">FOLLOW INSTRUCTIONS (front and back) CAREFULLY. </text>
+  </text>
+  <text>
+    <text font="'monospace'">------------------------------------------------------------- </text>
+  </text>
+  <text>
+    <text font="'monospace'">11. INITIAL FINANCING STATEMENT FILE NO. (same as item 1a on </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Amendment form) </text>
+  </text>
+  <text>
+    <text font="'monospace'">------------------------------------------------------------- </text>
+  </text>
+  <text>
+    <text font="'monospace'">12. NAME OF PARTY AUTHORIZING THIS AMENDMENT (same as item 9 </text>
+  </text>
+  <text>
+    <text font="'monospace'"> on Amendment form) </text>
+  </text>
+  <text>
+    <text font="'monospace'">------------------------------------------------------------- </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 12a. ORGANIZATION'S NAME </text>
+  </text>
+  <text>
+    <text font="'monospace'">OR </text>
+  </text>
+  <text>
+    <text font="'monospace'">------------------------------------------------------------- </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 12b. INDIVIDUAL'S LAST NAME FIRST NAME MIDDLE NAME, </text>
+  </text>
+  <text>
+    <text font="'monospace'"> SUFFIX </text>
+  </text>
+  <text>
+    <text font="'monospace'">------------------------------------------------------------- </text>
+  </text>
+  <text>
+    <text font="'monospace'">13. Use this space for additional information </text>
+  </text>
+  <text>
+    <text font="'monospace'"> THE ABOVE SPACE </text>
+  </text>
+  <text>
+    <text font="'monospace'"> IS FOR </text>
+  </text>
+  <text>
+    <text font="'monospace'"> FILING OFFICE </text>
+  </text>
+  <text>
+    <text font="'monospace'"> USE ONLY </text>
+  </text>
+  <text>
+    <text font="'monospace'"> -------------------------------------------------------- </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <text>
+    <text font="'monospace'"> FILING OFFICE COPY--NATIONAL UCC FINANCING STATEMENT AMENDMENT ADDENDUM (FORM </text>
+  </text>
+  <text>
+    <text font="'monospace'"> UCC3Ad) (REV. 07/29/98) </text>
+  </text>
+  <text>
+    <text font="'monospace'">-------------------------------------------------------------------------------</text>
+  </text>
+  <level>
+    <num>(c)</num>
+    <text>A form that a filing office may not refuse to accept under subsection (a) or (b) of this section must conform to the format prescribed for the form by the National Conference of Commissioners on Uniform State Laws.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576.)</text>
+    </level>
+    <level>
+      <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
+      <text>1. <text b="True">Source.</text> New.</text>
+      <text>2. <text b="True">"Safe Harbor" Written Forms.</text> Although Section 9-520 limits the bases upon which the filing office can refuse to accept records, this section provides sample written forms that must be accepted in every filing office in the country, as long as the filing office's rules permit it to accept written communications. By completing one of the forms in this section, a secured party can be certain that the filing office is obligated to accept it.</text>
+      <text>The forms in this section are based upon national financing statement forms that were in use under former Article 9. Those forms were developed over an extended period and reflect the comments and suggestions of filing officers, secured parties and their counsel, and service companies. The formatting of those forms and of the ones in this section has been designed to reduce error by both filers and filing offices.</text>
+      <text>A filing office that accepts written communications may not reject, on grounds of form or format, a filing using these forms. Although filers are not required to use the forms, they are encouraged and can be expected to do so, inasmuch as the forms are well designed and avoid the risk of rejection on the basis of form or format. As their use expands, the forms will rapidly become familiar to both filers and filing-office personnel. Filing offices may and should encourage the use of these forms by declaring them to be the "standard" (but not exclusive) forms for each jurisdiction, albeit without in any way suggesting that alternative forms are unacceptable.</text>
+      <text>The multi-purpose form in subsection (b) covers changes with respect to the debtor, the secured party, the collateral, and the status of the financing statement (termination and continuation). A single form may be used for several different types of amendments at once (e.g., both to change a debtor's name and continue the effectiveness of the financing statement).</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For Law 13-201, see notes following § 28:9-101.</text>
+      </level>
+    </level>
+  </level>
+</level>

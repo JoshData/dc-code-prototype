@@ -1,0 +1,20 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>A</num>
+  <heading>Traffic Act, 1925.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.03a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.04a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.04b.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.04c.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.05a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.05b.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2201.09.xml"/>
+</level>

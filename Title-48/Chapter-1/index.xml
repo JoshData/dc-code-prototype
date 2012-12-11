@@ -1,0 +1,19 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>1</num>
+  <heading>Adulteration.</heading>
+  <level>
+    <text>DC CODE D. VIII, T. 48, Subt. I, Ch. 1, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-101.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-102.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-103.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-104.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-105.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-106.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-107.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-108.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-108.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-109.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-110.xml"/>
+</level>

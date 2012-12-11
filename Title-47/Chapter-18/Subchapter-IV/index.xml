@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>IV</num>
+  <heading>Accounting Periods, Installment Sales, and Inventories.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1804.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1804.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1804.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1804.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1804.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1804.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1804.07.xml"/>
+</level>

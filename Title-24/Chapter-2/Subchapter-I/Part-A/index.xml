@@ -1,0 +1,34 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>A</num>
+  <heading>General.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.01~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.05~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.09~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.10.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.11.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.12.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.13.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.14.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.15.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.16.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.17.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.18~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.19~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.20~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.21.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.22.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.23.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.24.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.25.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.26.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.27.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.28.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-201.29~P.xml"/>
+</level>

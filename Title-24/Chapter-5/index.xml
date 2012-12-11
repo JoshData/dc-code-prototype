@@ -1,0 +1,11 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>5</num>
+  <heading>Insane Defendants.</heading>
+  <level>
+    <text>DC CODE D. IV, T. 24, Ch. 5, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-501.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-502.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-503.xml"/>
+</level>

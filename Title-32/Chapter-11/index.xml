@@ -1,0 +1,32 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>11</num>
+  <heading>Occupational Safety and Health.</heading>
+  <level>
+    <text>DC CODE D. V, T. 32, Ch. 11, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1101.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1102.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1103.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1104.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1105.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1106.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1107.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1108.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1109.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1110.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1111.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1112.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1113.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1114.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1115.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1116.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1117.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1118.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1119.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1120.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1121.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1122.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1123.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1124.xml"/>
+</level>

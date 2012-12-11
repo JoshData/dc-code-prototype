@@ -1,0 +1,28 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>II</num>
+  <heading>Prohibited Practices.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.0.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.10.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.11.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.12.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.13.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.14.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.15.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.16.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.17.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.18.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.19.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.20.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.21.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.22.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1152.23.xml"/>
+</level>

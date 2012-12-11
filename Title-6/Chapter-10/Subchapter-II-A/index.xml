@@ -1,0 +1,14 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>II-A</num>
+  <heading>Inclusionary Zoning Implementation.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1041.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1041.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1041.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1041.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1041.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1041.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1041.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1041.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1041.09.xml"/>
+</level>

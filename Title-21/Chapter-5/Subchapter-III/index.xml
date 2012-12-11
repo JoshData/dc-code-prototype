@@ -1,0 +1,13 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>III</num>
+  <heading>Emergency Hospitalization.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-521.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-522.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-523.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-524.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-525.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-526.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-527.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-528.xml"/>
+</level>

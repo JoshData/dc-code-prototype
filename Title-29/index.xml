@@ -1,0 +1,40 @@
+<level type="toc">
+  <prefix>Title</prefix>
+  <num>29</num>
+  <heading>Business Organizations.</heading>
+  <level>
+    <level>
+      <type>annotations</type>
+      <level>
+        <heading>HISTORICAL AND STATUTORY NOTES</heading>
+        <level>
+          <heading>Legislative History of Laws</heading>
+          <text>Law 18-378 , the "District of Columbia Official Code Title 29 (Business Organizations) Enactment Act of 2009", was introduced in Council and assigned Bill No. 18-500, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first and second readings on December 7, 2010, and December 21, 2010, respectively. Signed by the Mayor on February 27, 2011, it was assigned Act No. 18-724 and transmitted to both Houses of Congress for its review. D.C. Law 18-378 became effective on July 2, 2011.</text>
+        </level>
+        <level>
+          <heading>Miscellaneous Notes</heading>
+          <text>Applicability date of D.C. Law 18-378: Section 5 of D.C. Law 18-378, as amended by section 7082 of D.C. Law 19-21, provides:</text>
+          <text>"Sec. 5. Applicability.</text>
+          <text>"This act shall apply as of January 1, 2012.".</text>
+        </level>
+        <level>
+          <heading>Note Regarding Enactment of Title 29</heading>
+          <text>D.C.Law 18-378 amended and enacted into law Title 29 of the District of Columbia Official Code. Former Title 29 was recodified as Title 29A and repealed by D.C. Law 18-378, effective January 1, 2012.</text>
+          <text>DC CODE D. V, T. 29, Refs &amp; Annos</text>
+        </level>
+      </level>
+    </level>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-4/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-5/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-6/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-7/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-8/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-9/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-10/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-11/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-12/index.xml"/>
+</level>

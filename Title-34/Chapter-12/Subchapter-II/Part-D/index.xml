@@ -1,0 +1,13 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>D</num>
+  <heading>Franchising and Re-Franchising Process.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-1254.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-1254.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-1254.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-1254.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-1254.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-1254.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-1254.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-1254.08.xml"/>
+</level>

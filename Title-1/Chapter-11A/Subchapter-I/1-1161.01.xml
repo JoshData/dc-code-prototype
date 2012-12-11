@@ -1,0 +1,561 @@
+<level type="section">
+  <num>1-1161.01</num>
+  <heading>Definitions.</heading>
+  <text>For the purposes of this chapter, the term:</text>
+  <level>
+    <level>
+      <num>(1)</num>
+      <text>"Administrative decision" means any activity directly related to action by an executive agency to issue a Mayor's order, to cause to be undertaken a rulemaking proceeding (which does not include a formal public hearing) under Chapter 5 of Title 2, or to propose legislation or make nominations to the Council, the President, or Congress.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>"Administrative Procedure Act" means Chapter 5 of Title 2.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>"Affiliated organization" means:</text>
+      <level>
+        <num>(A)</num>
+        <text>An organization or entity:</text>
+        <level>
+          <num>(i)</num>
+          <text>In which the employee serves as officer, director, trustee, general partner, or employee;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>In which the employee or member of the employee's household is a director, officer, owner, employee, or holder of stock worth $1,000 or more at fair market value; or</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>That is a client of the employee or a member of the employee's household; or</text>
+        </level>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>A person with whom the employee is negotiating for or has an arrangement concerning prospective employment.</text>
+      </level>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>"Business" means any corporation, partnership, sole proprietorship, firm, nonprofit corporation, enterprise, franchise, association, organization, self-employed individual, holding company, joint stock, trust, and any legal entity through which business is conducted, whether for profit or not.</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>"Business with which he or she is associated" means any business of which the person or member of his or her household is a director, officer, owner, employee, or holder of stock worth $1,000 or more at fair market value, and any business that is a client of that person.</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>"Candidate" means an individual who seeks nomination for election, or election, to office, whether or not the individual is nominated or elected. For the purposes of this paragraph, an individual shall be deemed to seek nomination for election, or election, if the individual:</text>
+      <level>
+        <num>(A)</num>
+        <text>Obtained or authorized any other person to obtain nominating petitions to qualify himself or herself for nomination for election, or election, to office;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Received contributions or made expenditures, or has given consent to any other person to receive contributions or make expenditures, with a view to bringing about his or her nomination for election, or election, to office; or</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Knows, or has reason to know, that any other person has received contributions or made expenditures for that purpose, and has not notified that person in writing to cease receiving contributions or making expenditures for that purpose; provided, that an individual shall not be deemed a candidate if the individual notifies each person who has received contributions or made expenditures that the individual is only testing the waters, has not yet made any decision whether to seek nomination or election to public office, and is not a candidate. An individual deemed to be a candidate for the purposes of this chapter shall not be deemed, solely by reason of that status, to be a candidate for the purposes of any other law.</text>
+      </level>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>"Code of Conduct" means those provisions contained in the following:</text>
+      <level>
+        <num>(A)</num>
+        <text>The Code of Official Conduct of the Council of the District of Columbia, as adopted by the Council;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Sections 1-618.01 through 1-618.02;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Chapter 7 of Title 2;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Section 2-354.16;</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>Chapter 18 of Title 6B of the District of Columbia Municipal Regulations;</text>
+      </level>
+      <level>
+        <num>(F)</num>
+        <text>Parts C, D, and E of subchapter II, and part F of subchapter III of this chapter for the purpose of enforcement by the Elections Board of violations of § 1-1163.38 that are subject to the penalty provisions of § 1-1162.21.</text>
+      </level>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>"Commodity" means commodity as defined in section 1a of the Commodity Exchange Act, approved September 21, 1922 (42 Stat. 998; 7 U.S.C. § 1a).</text>
+    </level>
+    <level>
+      <num>(9)</num>
+      <text>"Compensation" means any money or an exchange of value received, regardless of its form, by a person acting as a lobbyist.</text>
+    </level>
+    <level>
+      <num>(10)</num>
+      <level>
+        <num>(A)</num>
+        <text>"Contribution" means</text>
+        <level>
+          <num>(i)</num>
+          <text>A gift, subscription (including any assessment, fee, or membership dues), loan (except a loan made in the regular course of business by a business engaged in the business of making loans), advance, or deposit of money or anything of value, made for the purpose of financing, directly or indirectly,:</text>
+          <level>
+            <num>(I)</num>
+            <text>The election campaign of a candidate;</text>
+          </level>
+          <level>
+            <num>(II)</num>
+            <text>Any operations of a political, exploratory, inaugural, transition, or legal defense committee; or</text>
+          </level>
+          <level>
+            <num>(III)</num>
+            <text>The campaign to obtain signatures on any initiative, referendum, or recall measure, or to bring about the ratification or defeat of any initiative, referendum, or recall measure, or any operations of a political committee involved in such a campaign;</text>
+          </level>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>A contract, promise, or agreement, whether or not legally enforceable, to make a contribution for any such purpose;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>A transfer of funds between political committees or between an exploratory committee and a political committee; or</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>The payment, by any person other than a candidate or a political, exploratory, inaugural, transition, or legal defense committee, of compensation for the personal services of another person that are rendered to such candidate or committee without charge, or for less than reasonable value, for any such purpose or the furnishing of goods, advertising, or services to a candidate's campaign without charge, or at a rate which is less than the rate normally charged for such services.</text>
+        </level>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Notwithstanding subparagraph (A) of this paragraph, the term "contribution" shall not be construed to include:</text>
+        <level>
+          <num>(i)</num>
+          <text>Services provided without compensation by a person (including an accountant or an attorney) volunteering a portion or all of the person's time on behalf of a candidate or a political, exploratory, inaugural, transition, or legal defense committee;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Personal services provided without compensation by a person volunteering a portion or all of the person's time to a candidate or a political, exploratory, inaugural, or legal defense committee;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Communications by an organization, other than a political party, solely to its members and their families on any subject;</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>Communications (including advertisements) to any person on any subject by any organization that is organized solely as an issue-oriented organization, which communications neither endorse nor oppose any candidate for office;</text>
+        </level>
+        <level>
+          <num>(v)</num>
+          <text>Normal billing credit for a period not exceeding 30 days;</text>
+        </level>
+        <level>
+          <num>(vi)</num>
+          <text>Services of an informational or polling nature, and related thereto, designed to seek the opinion(s) of voters concerning the possible candidacy of a qualified elector for public office, before such qualified elector's becoming a candidate;</text>
+        </level>
+        <level>
+          <num>(vii)</num>
+          <text>The use of real or personal property, and the costs of invitations, food, and beverages voluntarily provided by a person to a candidate in rendering voluntary personal services on the person's residential premises for related activities; provided, that expenses do not exceed $500 with respect to the candidate's election; and</text>
+        </level>
+        <level>
+          <num>(viii)</num>
+          <text>The sale of any food or beverage by a vendor for use in a candidate's campaign at a charge less than the normal comparable charge, if the charge for use in a candidate's campaign is at least equal to the cost of such food or beverage to the vendor; provided, that expenses do not exceed $500 with respect to the candidate's election.</text>
+        </level>
+      </level>
+    </level>
+    <level>
+      <num>(11)</num>
+      <text>"Direct and predictable effect" means there is:</text>
+      <level>
+        <num>(A)</num>
+        <text>A close causal link between any decision or action to be taken in the matter and any expected effect of the matter on the financial interest;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>A real, as opposed to a speculative possibility, that the matter will affect the financial interest; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The effect is more than <text i="True">de minimis.</text></text>
+      </level>
+    </level>
+    <level>
+      <num>(12)</num>
+      <text>"Director of Campaign Finance" means the Director of Campaign Finance of the Elections Board created by § 1-1163.02.</text>
+    </level>
+    <level>
+      <num>(13)</num>
+      <text>"Director of Government Ethics" means the Director of Government Ethics created by § 1-1162.06.</text>
+    </level>
+    <level>
+      <num>(14)</num>
+      <text>"Domestic partner" shall have the same meaning as provided in § 32- 701(3).</text>
+    </level>
+    <level>
+      <num>(15)</num>
+      <text>"Election" means a primary, general, or special election held in the District of Columbia for the purpose of nominating an individual to be a candidate for election to office, or for the purpose of electing a candidate to office, or for the purpose of deciding an initiative, referendum, or recall measure, and includes a convention or caucus of a political party held for the purpose of nominating such a candidate.</text>
+    </level>
+    <level>
+      <num>(16)</num>
+      <text>"Election Code" means subchapter I of Chapter 10 of this title.</text>
+    </level>
+    <level>
+      <num>(17)</num>
+      <text>"Elections Board" means the District of Columbia Board of Elections established under the Election Code, and redesignated by § 1-1163.05.</text>
+    </level>
+    <level>
+      <num>(18)</num>
+      <text>"Employee" means, unless otherwise apparent from the context, a person who performs a function of the District government and who receives compensation for the performance of such services, or a member of a District government board or commission, whether or not for compensation.</text>
+    </level>
+    <level>
+      <num>(19)</num>
+      <text>"Ethics Board" means the District of Columbia Board of Ethics and Government Accountability established by § 1-1162.02.</text>
+    </level>
+    <level>
+      <num>(20)</num>
+      <text>"Executive agency" means:</text>
+      <level>
+        <num>(A)</num>
+        <text>A department, agency, or office in the executive branch of the District government under the direct administrative control of the Mayor;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The State Board of Education or any of its constituent elements;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The University of the District of Columbia or any of its constituent elements;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>The Elections Board; and</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>Any District professional licensing and examining board under the administrative control of the executive branch.</text>
+      </level>
+    </level>
+    <level>
+      <num>(21)</num>
+      <level>
+        <num>(A)</num>
+        <text>"Expenditure" means:</text>
+        <level>
+          <num>(i)</num>
+          <text>A purchase, payment, distribution, loan, advance, deposit, or gift of money or anything of value, made for the purpose of financing, directly or indirectly,:</text>
+          <level>
+            <num>(I)</num>
+            <text>The election campaign of a candidate;</text>
+          </level>
+          <level>
+            <num>(II)</num>
+            <text>Any operations of a political, exploratory, inaugural, transition, or legal defense committee; or</text>
+          </level>
+          <level>
+            <num>(III)</num>
+            <text>The election campaign to obtain signatures on any initiative, referendum, or recall petition, or to bring about the ratification or defeat of any initiative, referendum, or recall measure, or any operations of a political committee involved in such a campaign;</text>
+          </level>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>A contract, promise, or agreement, whether or not legally enforceable, to make an expenditure;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>A transfer of funds between political committees or between an exploratory committee and a political committee; and</text>
+        </level>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Notwithstanding subparagraph (A) of this paragraph, the term "expenditure" shall not be construed to include the incidental expenses (as defined by the Elections Board or Ethics Board) made by or on behalf of a person in the course of volunteering that person's time on behalf of a candidate or a political, exploratory, inaugural, transition, or legal defense committee or the use of real or personal property and the cost of invitations, food, or beverages voluntarily provided by a person to a candidate in rendering voluntary personal services on the person's residential premises for candidate-related activity if the aggregate value of such activities by such person on behalf of any candidate does not exceed $ 500 with respect to any election.</text>
+      </level>
+    </level>
+    <level>
+      <num>(22)</num>
+      <text>"Exploratory committee" means any person, or group of persons, organized for the purpose of examining or exploring the feasibility of becoming a candidate for an elective office in the District.</text>
+    </level>
+    <level>
+      <num>(23)</num>
+      <text>"Gift" means a payment, subscription, advance, forbearance, rendering, or deposit of money, services, or anything of value, unless consideration of equal or greater value is received. The term "gift" shall not include:</text>
+      <level>
+        <num>(A)</num>
+        <text>A political contribution otherwise reported as required by law;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>A commercially reasonable loan made in the ordinary course of business; or</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>A gift received from a member of the person's immediate family.</text>
+      </level>
+    </level>
+    <level>
+      <num>(24)</num>
+      <text>"Home Rule Act" means Chapter 2 of this title.</text>
+    </level>
+    <level>
+      <num>(25)</num>
+      <text>"Household" means a public official or employee and any member of his or her immediate family with whom the public official or employee resides.</text>
+    </level>
+    <level>
+      <num>(26)</num>
+      <text>"Immediate family" means the spouse or domestic partner of a public official or employee and any parent, grandparent, brother, sister, or child of the public official or employee, and the spouse or domestic partner of any such parent, grandparent, brother, sister, or child.</text>
+    </level>
+    <level>
+      <num>(27)</num>
+      <text>"Inaugural committee" means a person, or group of persons, organized for the purpose of soliciting, accepting, and spending funds and coordinating activities to celebrate the election of a new Mayor.</text>
+    </level>
+    <level>
+      <num>(28)</num>
+      <text>"Income" means gross income as defined in section 61 of the Internal Revenue Code (26 U.S.C. § 61).</text>
+    </level>
+    <level>
+      <num>(29)</num>
+      <text>"Internal Revenue Code" means the Internal Revenue Code of 1954, approved August 16, 1954 (68A Stat. 3; 26 U.S.C. § 1 <text i="True">et seq.</text>), and the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2085; 26 U.S.C. § 1 <text i="True">et seq.</text>), as amended from time to time.</text>
+    </level>
+    <level>
+      <num>(30)</num>
+      <text>"Legal defense committee" means a person or group of persons, organized for the purpose of soliciting, accepting, and expending funds to defray the professional fees and costs for a public official's legal defense to one or more civil, criminal, or administrative proceedings.</text>
+    </level>
+    <level>
+      <num>(31)</num>
+      <text>"Legislative action" includes any activity conducted by an official in the legislative branch in the course of carrying out his or her duties as such an official, and relating to the introduction, passage, or defeat of any legislation in the Council.</text>
+    </level>
+    <level>
+      <num>(32)</num>
+      <level>
+        <num>(A)</num>
+        <text>"Lobbying" means communicating directly with any official in the legislative or executive branch of the District government with the purpose of influencing any legislative action or an administrative decision.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The term "lobbying" shall not include:</text>
+        <level>
+          <num>(i)</num>
+          <text>The appearance or presentation of written testimony by a person on his or her own behalf, or representation by an attorney on behalf of any such person in a rulemaking (which includes a formal public hearing), rate-making, or adjudicatory hearing before an executive agency or the Tax Assessor;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Information supplied in response to written inquiries by an executive agency, the Council, or any public official;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Inquiries concerning only the status of specific actions by an executive agency or the Council;</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>Testimony given before the Council or a committee of the Council, during which a public record is made of such proceedings or testimony submitted for inclusion in such a public record;</text>
+        </level>
+        <level>
+          <num>(v)</num>
+          <text>A communication made through the instrumentality of a newspaper, television, or radio of general circulation, or a publication whose primary audience is the organization's membership; and</text>
+        </level>
+        <level>
+          <num>(vi)</num>
+          <text>Communications by a bona fide political party.</text>
+        </level>
+      </level>
+    </level>
+    <level>
+      <num>(33)</num>
+      <level>
+        <num>(A)</num>
+        <text>"Lobbyist" means any person who engages in lobbying.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Public officials communicating directly or soliciting others to communicate with other public officials shall not be deemed lobbyists for the purposes of this chapter; provided, that a public official does not receive compensation in addition to his or her salary for such communication or solicitation and makes such communication and solicitation in his or her official capacity.</text>
+      </level>
+    </level>
+    <level>
+      <num>(34)</num>
+      <text>"Merit Personnel Act" means Chapter 6 of this title.</text>
+    </level>
+    <level>
+      <num>(35)</num>
+      <text>"Office" means the office of Mayor, Attorney General, Chairman of the Council, member of the Council, member of the State Board of Education, or an official of a political party.</text>
+    </level>
+    <level>
+      <num>(36)</num>
+      <text>"Official in the executive branch" means:</text>
+      <level>
+        <num>(A)</num>
+        <text>The Mayor;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Any officer or employee in the Executive Service;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Persons employed under the authority of §§ 1-609.01 through 1-609.03 (except § 1-609.03(a)(3)) paid at a rate of DS-13 or above in the General Schedule or equivalent compensation under the provisions of subchapter XI of Chapter 6 of this title designated in § 1-609.08 (except paragraphs (9) and (10) of that section; or</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Members of boards and commissions designated in § 1-523.01(e).</text>
+      </level>
+    </level>
+    <level>
+      <num>(37)</num>
+      <text>"Official in the legislative branch" means any candidate for Chairman or member of the Council in a primary, special, or general election, the Chairman or Chairman-elect or any member or member-elect of the Council, officers, and employees of the Council appointed under the authority of §§ 1-609.01 through 1-609.03 or designated in § 1-609.08.</text>
+    </level>
+    <level>
+      <num>(38)</num>
+      <text>"Official of a political party" means:</text>
+      <level>
+        <num>(A)</num>
+        <text>National committeemen and national committeewomen;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Delegates to conventions of political parties nominating candidates for the Presidency and Vice Presidency of the United States;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Alternates to the officials referred to in subparagraphs (A) and (B) of this paragraph, where permitted by political party rules; and</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Such members and officials of local committees of political parties as may be designated by the duly authorized local committees of such parties for election, by public ballot, at large or by ward in the District.</text>
+      </level>
+    </level>
+    <level>
+      <num>(39)</num>
+      <text>"Open Government Office" means the District of Columbia Open Government Office established by § 2-592.</text>
+    </level>
+    <level>
+      <num>(40)</num>
+      <text>"Open Meetings Act" means subchapter IV of Chapter 5 of Title 2.</text>
+    </level>
+    <level>
+      <num>(41)</num>
+      <text>"Particular matter" is limited to meaning a deliberation, decision, or action that is focused upon the interests of specific persons, or a discrete and identifiable class of persons.</text>
+    </level>
+    <level>
+      <num>(42)</num>
+      <text>"Person" means an individual, partnership, committee, corporation, labor organization, and any other organization.</text>
+    </level>
+    <level>
+      <num>(43)</num>
+      <text>"Person closely affiliated with the employee" means a spouse, dependent child, general partner, a member of the employee's household, or an affiliated organization.</text>
+    </level>
+    <level>
+      <num>(44)</num>
+      <text>"Political committee" means any proposer, individual, committee (including a principal campaign committee), club, association, organization, or other group of individuals organized for the purpose of, or engaged in promoting or opposing:</text>
+      <level>
+        <num>(A)</num>
+        <text>A political party;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The nomination or election of a person to office; or</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Any initiative, referendum, or recall.</text>
+      </level>
+    </level>
+    <level>
+      <num>(45)</num>
+      <text>"Political party" means an association, committee, or organization that nominates a candidate for election to any office and qualifies under subchapter I of Chapter 10 of this title to have the names of its nominees appear on the election ballot as the candidate of that association, committee, or organization.</text>
+    </level>
+    <level>
+      <num>(46)</num>
+      <text>"Prohibited source" means any person that:</text>
+      <level>
+        <num>(A)</num>
+        <text>Has or is seeking to obtain contractual or other business or financial relations with the District government;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Conducts operations or activities that are subject to regulation by the District government; or</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Has an interest that may be favorably affected by the performance or non-performance of the employee's official responsibilities.</text>
+      </level>
+    </level>
+    <level>
+      <num>(47)</num>
+      <text>"Public official" means:</text>
+      <level>
+        <num>(A)</num>
+        <text>A candidate for nomination for election, or election, to public office;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The Mayor, Chairman, and each member of the Council of the District of Columbia holding office under Chapter 2 of this title;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The Attorney General;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>A Representative or Senator elected pursuant to § 1-123;</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>An Advisory Neighborhood Commissioner;</text>
+      </level>
+      <level>
+        <num>(F)</num>
+        <text>A member of the State Board of Education;</text>
+      </level>
+      <level>
+        <num>(G)</num>
+        <text>A person serving as a subordinate agency head in a position designated as within the Executive Service;</text>
+      </level>
+      <level>
+        <num>(H)</num>
+        <text>A member of a board or commission listed in § 1-523.01(e); and</text>
+      </level>
+      <level>
+        <num>(I)</num>
+        <text>A District of Columbia Excepted Service employee paid at a rate of Excepted Service 9 or above, or its equivalent, who makes decisions or participates substantially in areas of contracting, procurement, administration of grants or subsidies, developing policies, land use planning, inspecting, licensing, regulating, or auditing, or acts in areas of responsibility that may create a conflict of interest or appearance of a conflict of interest; and any additional employees designated by rule by the Ethics Board who make decisions or participate substantially in areas of contracting, procurement, administration of grants or subsidies, developing policies, land use planning, inspecting, licensing, regulating, or auditing, or act in areas of responsibility that may create a conflict of interest or appearance of a conflict of interest.</text>
+      </level>
+    </level>
+    <level>
+      <num>(48)</num>
+      <text>"Registrant" means a person who is required to register as a lobbyist under the provisions of § 1-1162.27.</text>
+    </level>
+    <level>
+      <num>(49)</num>
+      <text>"Security" means a security as defined in section 2(1) of the Securities Act of 1933, approved May 27, 1933 (48 Stat. 74; 15 U.S.C. § 77b(1)).</text>
+    </level>
+    <level>
+      <num>(50)</num>
+      <text>"Tax" means the taxes imposed under Chapter 1 of the Internal Revenue Code, under Chapter 18 of Title 47, and under the District of Columbia Public Works Act of 1954, approved May 18, 1954 (68 Stat. 101; D.C. Official Code § 34-2101 <text i="True">passim</text>); and any other provision of law relating to the taxation of property within the District.</text>
+    </level>
+    <level>
+      <num>(51)</num>
+      <text>"Transactions in securities or commodities" means any acquisition, holding, withholding, use, transfer, or other disposition involving any security or commodity.</text>
+    </level>
+    <level>
+      <num>(52)</num>
+      <text>"Transition committee" means any person, or group of persons, organized for the purpose of soliciting, accepting, or expending funds for office and personnel transition on behalf of the Chairman of the Council or the Mayor.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Apr. 27, 2012, D.C. Law 19-124, § 101, 59 DCR 1862.)</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>Law 19-124, the "Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011", was introduced in Council and assigned Bill No. 19-511, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on December 6, 2011, and December 20, 2011, respectively. Signed by the Mayor on February 27, 2012, it was assigned Act No. 19-318 and transmitted to both Houses of Congress for its review. D.C. Law 19-124 became effective on April 27, 2012.</text>
+      </level>
+      <level>
+        <heading>References in Text</heading>
+        <text>The District of Columbia Public Works Act of 1954, referenced in paragraph (50) of this section, is primarily codified at § 9-101.16, subchapter I of Chapter 21 of Title 34, Chapter 23 of Title 34, §§ 34-2401.04, 34-2401.25, and 34- 2405.02, subchapter IV of Chapter 24 of Title 34, and §50-1501.02 and 50- 1501.03.</text>
+      </level>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,10 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>10A</num>
+  <heading>Adult Technical Career Training.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1011.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1011.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1011.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1011.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1011.05.xml"/>
+</level>

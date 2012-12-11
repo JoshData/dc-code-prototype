@@ -1,0 +1,8 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>3</num>
+  <heading>Collection of Items: Payor Banks.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_4-301.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_4-302.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_4-303.xml"/>
+</level>

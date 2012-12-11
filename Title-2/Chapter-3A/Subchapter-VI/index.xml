@@ -1,0 +1,9 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>VI</num>
+  <heading>Procurement of Construction Projects and Related Services.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-356.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-356.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-356.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-356.04.xml"/>
+</level>

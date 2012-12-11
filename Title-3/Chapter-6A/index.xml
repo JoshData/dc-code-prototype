@@ -1,0 +1,10 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>6A</num>
+  <heading>Commission on Poverty. [Expired]</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-631~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-632~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-633~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-634~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-635~P.xml"/>
+</level>

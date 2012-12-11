@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>A</num>
+  <heading>General -- Metropolitan Police Department.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-113.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-113.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-113.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-113.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-113.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-113.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-113.07.xml"/>
+</level>

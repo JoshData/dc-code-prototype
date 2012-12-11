@@ -1,0 +1,8 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>B</num>
+  <heading>Transfer of Assets and Liabilities.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1225.11.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1225.12.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1225.13.xml"/>
+</level>

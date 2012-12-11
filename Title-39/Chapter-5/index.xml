@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>5</num>
+  <heading>Film DC Economic Incentive.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-501.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-501.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-501.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-501.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-501.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-501.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-502.xml"/>
+</level>

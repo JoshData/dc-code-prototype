@@ -1,0 +1,712 @@
+<level type="section">
+  <num>47-2712</num>
+  <heading>Electrical fees.</heading>
+  <formerly-cited-as>DC ST 1981 § 47-2712</formerly-cited-as>
+  <level>
+    <num>(a)</num>
+    <text>The Mayor of the District of Columbia shall amend from time to time the schedule of fees to be charged by the District of Columbia for the inspection of electrical equipment and for the issuance of permits to perform electrical services. The Mayor shall amend the schedule by rule to provide for fees in amounts as in his judgment will defray the approximate costs of performing inspections and issuing permits.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>Until the schedule of fees is amended by the Mayor in accordance with subsection (a) of this section, the schedule of fees to be charged by the District of Columbia for the inspection of electrical equipment and for the issuance of permits to perform electrical services is as follows:</text>
+  </level>
+  <text>
+    <text font="'monospace'"> Electrical Fee Schedule </text>
+  </text>
+  <text>
+    <text font="'monospace'"> GROUP 1. WIRING ONLY </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Fee</text>
+  </text>
+  <text>
+    <text font="'monospace'">Outlets--each 10 ....................................................... $ 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Outlet means and includes receptacle, switch and fixture </text>
+  </text>
+  <text>
+    <text font="'monospace'"> outlet </text>
+  </text>
+  <text>
+    <text font="'monospace'"> GROUP 2. FIXTURES AND LAMPHOLDERS </text>
+  </text>
+  <text>
+    <text font="'monospace'">Each 10 .................................................................. 3.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> GROUP 3. ELECTRICAL DISCHARGE SIGNS </text>
+  </text>
+  <text>
+    <text font="'monospace'">1st 500 va .............................................................. 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional 500 va ............................................ 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> GROUP 4. HEATING EQUIPMENT </text>
+  </text>
+  <text>
+    <text font="'monospace'">Baseboard or spaceheaters </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 1st 10 KW--per each KW ............................................ 3.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional KW .............................................. 2.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Unit heaters, furnaces--Motors not included ............................. 15.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Controls only--Each ...................................................... 9.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> For units with motors--Add appropriate motor from Group 6 </text>
+  </text>
+  <text>
+    <text font="'monospace'"> GROUP 5. COMMERCIAL HEATING AND COOKING </text>
+  </text>
+  <text>
+    <text font="'monospace'">Appliances other than Group 4 </text>
+  </text>
+  <text>
+    <text font="'monospace'">1st 1-8 KW .............................................................. 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">1st-over 8 KW ........................................................... 15.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> GROUP 6. MOTORS AND GENERATORS </text>
+  </text>
+  <text>
+    <text font="'monospace'">Less than 1/4 H.P................................................ Apply Group 2</text>
+  </text>
+  <text>
+    <text font="'monospace'">1/4 H.P. to 1 H.P........................................................ 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Over 1 H.P. to 5 H.P..................................................... 19.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Over 5 H.P. to 10 H.P.................................................... 30.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional .................................................. 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Over 10 H.P. to 20 H.P................................................... 36.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional .................................................. 15.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Over 20 H.P. to 30 H.P................................................... 47.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional .................................................. 22.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Over 30 H.P. to 50 H.P................................................... 57.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional .................................................. 24.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Over 50 H.P. to 75 H.P................................................... 69.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional .................................................. 30.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Over 75 H.P.............................................................. 78.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional .................................................. 36.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> For installation of more than 1 motor, the initial fee </text>
+  </text>
+  <text>
+    <text font="'monospace'"> shall be the largest motor fee plus the additional fee </text>
+  </text>
+  <text>
+    <text font="'monospace'"> for the smaller. </text>
+  </text>
+  <text>
+    <text font="'monospace'"> GROUP 7. SERVICE </text>
+  </text>
+  <text>
+    <text font="'monospace'">Piped house connection ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 3.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Pole line on private property ............................................ 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 3.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Conductors, including pole ............................................... 9.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 3.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Service conductors--Each ................................................. 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> GROUP 8. SERVICE AND METER EQUIPMENT </text>
+  </text>
+  <text>
+    <text font="'monospace'">0 to 200 amperes ........................................................ 15.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">201 to 400 amperes ...................................................... 22.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional .................................................. 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">401 to 800 amperes ...................................................... 42.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional .................................................. 22.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Over 800 amperes ........................................................ 63.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional .................................................. 30.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Relocation, replacement or original installation, </text>
+  </text>
+  <text>
+    <text font="'monospace'"> including meter connection facilities. For installation </text>
+  </text>
+  <text>
+    <text font="'monospace'"> of more than 1 service equipment, the initial fee shall </text>
+  </text>
+  <text>
+    <text font="'monospace'"> be for the largest service equipment plus the </text>
+  </text>
+  <text>
+    <text font="'monospace'"> additional fee for the smaller. </text>
+  </text>
+  <text>
+    <text font="'monospace'"> GROUP 9. TRANSFORMERS </text>
+  </text>
+  <text>
+    <text font="'monospace'">1 to 10 KVA ............................................................. 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">11 to 75 KVA ............................................................ 19.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 9.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">76 to 200 KVA ........................................................... 24.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional .................................................. 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Vault ................................................................... 63.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional .................................................. 30.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> GROUP 10. THEATRES OR OTHER PLACES OF PUBLIC ASSEMBLY: SPOTLIGHTS </text>
+  </text>
+  <text>
+    <text font="'monospace'">Arc ..................................................................... 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Incandescent ............................................................. 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 3.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Portable or temporary arc ................................................ 9.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Portable or temporary incandescent ....................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 3.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Motion picture machine </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Permanent ........................................................ 30.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................ 15.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Portable ......................................................... 19.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................. 9.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Slide projector ......................................................... 15.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 9.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Amplifier ............................................................... 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Dimmers (over 1 KW) ...................................................... 9.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Portable switchboard .................................................... 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Portable T.V. installation </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 1st portable T.V. receiver ....................................... 11.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional receiver ........................................ 5.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Portable or temporary incandescent lamps (other than spotlights) </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 1 to 25 lights .................................................... 9.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 26 to 50 lights .................................................. 13.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 51 to 100 lights ................................................. 19.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional 100 lights ........................................ 5.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> GROUP 11. TEMPORARY INSTALLATIONS </text>
+  </text>
+  <text>
+    <text font="'monospace'">Decorations, lawn fetes, etc. </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 1 to 25 lights--1st 90 days ...................................... 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional 90 days ......................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 26 to 50 lights--1st 90 days ..................................... 19.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional 90 days ......................................... 9.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 51 to 100 lights--1st 90 days .................................... 24.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional 90 days ........................................ 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional 100 lights--1st 90 days ........................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional 90 days ......................................... 3.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Use of current on wiring, apparatus and fixtures for use pending </text>
+  </text>
+  <text>
+    <text font="'monospace'"> completion of installation--1st 90 days ............................... 24.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional 90 days .......................................... 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Circuses and Carnivals </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 1st 50 KW ........................................................ 63.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional 100 KW ......................................... 63.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Exhibitions, etc. </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 1st 3,000 sq. ft.................................................. 27.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional 1,000 sq. ft.................................... 15.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> GROUP 12. RADIO AND TELEVISION EQUIPMENT </text>
+  </text>
+  <text>
+    <text font="'monospace'">Transmitting station--1st ............................................... 36.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional .................................................. 19.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Receiving station </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Antenna and ground connection device for receivers--1st ........... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional 10 .............................................. 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Centralized speaker station--1st 10 ...................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional 10 ................................................ 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Centralized receiver amplifier .......................................... 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional .................................................. 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Closed circuit television camera--1st camera ............................. 9.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional camera ............................................ 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> GROUP 13. MISCELLANEOUS </text>
+  </text>
+  <text>
+    <text font="'monospace'">Arc vapor lamps--1st ..................................................... 9.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Battery charges ......................................................... 13.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Electric ranges (residential) ............................................ 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 2.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Clothes dryer (residential) .............................................. 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 2.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Garbage disposal (residential) ........................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 3.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">X-Ray machine ........................................................... 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Dishwasher (residential) ................................................. 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 3.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Hot water heater (residential) ........................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 3.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Fire alarm station and bell ..................................... Apply Group 1</text>
+  </text>
+  <text>
+    <text font="'monospace'">Electric signs--Incandescent .................................... Apply Group 2</text>
+  </text>
+  <text>
+    <text font="'monospace'">Festoon lighting ................................................ Apply Group 2</text>
+  </text>
+  <text>
+    <text font="'monospace'">Air conditioner--Central system </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Not over 5 tons (residential) 1st ................................ 30.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 2nd to 25th, each ................................................ 10.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Above 25, each .................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Rectifier ............................................................... 15.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Welders ................................................................. 15.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Minimum fee .............................................................. 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Portable equipment on circuits 20 amperes or less ...................... No Fee</text>
+  </text>
+  <text>
+    <text font="'monospace'">Electric furnaces (residential) </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 1st .............................................................. 15.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> 2nd .............................................................. 12.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Over 25, each ..................................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Electric cranes for construction work ................................... 67.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Replacement of feeder conductors: </text>
+  </text>
+  <text>
+    <text font="'monospace'"> Per feeder (old work) 1st ......................................... 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 3.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Panel board replacement </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 1st panel board (old work) ........................................ 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> Each additional ................................................... 3.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Installation of empty conduits: </text>
+  </text>
+  <text>
+    <text font="'monospace'">Per floor ................................................................ 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Duplicates--Preliminary and final certificates of performance or </text>
+  </text>
+  <text>
+    <text font="'monospace'"> correction of records .................................................. 7.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Quarterly permits--The fee for quarterly permits to install </text>
+  </text>
+  <text>
+    <text font="'monospace'"> circuits, fixtures and receptacles shall be in accordance with </text>
+  </text>
+  <text>
+    <text font="'monospace'"> the work done, in no case less than $27 payable at the time </text>
+  </text>
+  <text>
+    <text font="'monospace'"> the permit is issued .................................................. 27.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">Defect reinspection fee ................................................. 13.00</text>
+  </text>
+  <text>
+    <text font="'monospace'">When the applicant receives a written notice of defects found </text>
+  </text>
+  <text>
+    <text font="'monospace'"> during the original inspection and the applicant or his agent </text>
+  </text>
+  <text>
+    <text font="'monospace'"> reports the defects have been corrected, and upon inspection </text>
+  </text>
+  <text>
+    <text font="'monospace'"> of the defect, noted originally, it is revealed that the </text>
+  </text>
+  <text>
+    <text font="'monospace'"> defects have not been fully corrected, a charge of $13 will be </text>
+  </text>
+  <text>
+    <text font="'monospace'"> made for each inspection thereafter ................................... 13.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> NOTE </text>
+  </text>
+  <text>
+    <text font="'monospace'">Where application is made for a permit to cover an electrical </text>
+  </text>
+  <text>
+    <text font="'monospace'"> installation, or alterations previously made, for which a </text>
+  </text>
+  <text>
+    <text font="'monospace'"> permit has not been issued, there shall be a service charge of </text>
+  </text>
+  <text>
+    <text font="'monospace'"> 50 percent of the regular fee with a minimum $13 addition to </text>
+  </text>
+  <text>
+    <text font="'monospace'"> the regular fee. No service charge shall be made for emergency </text>
+  </text>
+  <text>
+    <text font="'monospace'"> repair work if a permit is applied for at once ........................ 13.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> REFUNDS </text>
+  </text>
+  <text>
+    <text font="'monospace'">A refund of permit fees shall be made as follows: </text>
+  </text>
+  <text>
+    <text font="'monospace'"> (1) When no work has been done under authority of a permit, </text>
+  </text>
+  <text>
+    <text font="'monospace'"> the fee in excess of the costs of inspection to verify no work </text>
+  </text>
+  <text>
+    <text font="'monospace'"> having been done, based on $13 per inspector hour, the cost of </text>
+  </text>
+  <text>
+    <text font="'monospace'"> any engineering examination time previously devoted to </text>
+  </text>
+  <text>
+    <text font="'monospace'"> approval of plans based on $20 per hour, plus $19 </text>
+  </text>
+  <text>
+    <text font="'monospace'"> administrative costs of "issuance and refund", shall be </text>
+  </text>
+  <text>
+    <text font="'monospace'"> refunded .............................................................. 19.00</text>
+  </text>
+  <text>
+    <text font="'monospace'"> (2) When work authorized by permit has been only partially </text>
+  </text>
+  <text>
+    <text font="'monospace'"> done and when the District is satisfied that no more work will </text>
+  </text>
+  <text>
+    <text font="'monospace'"> be done under the permit, the fee in excess of the cost of any </text>
+  </text>
+  <text>
+    <text font="'monospace'"> engineering plans examination based on $20 per hour, cost of </text>
+  </text>
+  <text>
+    <text font="'monospace'"> inspections made, based on $13 per hour, plus $19 </text>
+  </text>
+  <text>
+    <text font="'monospace'"> administrative costs of "issuance and refund", shall be </text>
+  </text>
+  <text>
+    <text font="'monospace'"> refunded .............................................................. 19.00</text>
+  </text>
+  <level>
+    <level>
+      <num>(3)</num>
+      <text>Provided, that the request for refund shall be made within six months from the date of issuance and the permit and receipt are returned to the Permit Branch.</text>
+    </level>
+  </level>
+  <text>PENALTY</text>
+  <text>The penalty for a permit to abate notice of doing work without a permit shall be 50 percent of the fee.</text>
+  <text>WAIVER OF PERMIT FEES</text>
+  <text>No permit fee shall be charged when supported by evidence indicating that the applicant is under contract or subcontract to perform the following:</text>
+  <level>
+    <level>
+      <num>(1)</num>
+      <text>Work done exclusively for the District of Columbia.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Work done under contract for the District of Columbia.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Work done exclusively for agencies of the United States government.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Sept. 14, 1976, D.C. Law 1-82, title III, § 301, 23 DCR 2461; June 22, 1983, D.C. Law 5-14, § 202(a), 30 DCR 2632; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575.)</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Prior Codifications</heading>
+        <text>1981 Ed., § 47-2712.</text>
+        <text>1973 Ed., § 47-2212.</text>
+      </level>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For legislative history of D.C. Law 1-82, see Historical and Statutory Notes following § 47-2702.</text>
+        <text>Law 5-14, the "District of Columbia Revenue Act of 1983," was introduced in Council and assigned Bill No. 5-74, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on April 12, 1983 and April 26, 1983, respectively. Signed by the Mayor on May 4, 1983, it was assigned Act No. 5-29 and transmitted to both Houses of Congress for its review.</text>
+      </level>
+      <level>
+        <heading>Miscellaneous Notes</heading>
+        <text>Mayor authorized to issue rules: Section 1102 of D.C. Law 5-14 provided that the Mayor shall issue rules necessary to carry out the provisions of the act.</text>
+      </level>
+    </level>
+  </level>
+</level>

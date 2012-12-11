@@ -1,0 +1,54 @@
+<level type="section">
+  <num>28:9-605</num>
+  <heading>Unknown debtor or secondary obligor.</heading>
+  <text>A secured party does not owe a duty based on its status as secured party:</text>
+  <level>
+    <level>
+      <num>(1)</num>
+      <text>To a person that is a debtor or obligor, unless the secured party knows:</text>
+      <level>
+        <num>(A)</num>
+        <text>That the person is a debtor or obligor;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The identity of the person; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>How to communicate with the person; or</text>
+      </level>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>To a secured party or lienholder that has filed a financing statement against a person, unless the secured party knows:</text>
+      <level>
+        <num>(A)</num>
+        <text>That the person is a debtor; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The identity of the person.</text>
+      </level>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576.)</text>
+    </level>
+    <level>
+      <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
+      <text>1. <text b="True">Source.</text> New.</text>
+      <text>2. <text b="True">Duties to Unknown Persons.</text> This section relieves a secured party from duties owed to a debtor or obligor, if the secured party does not know about the debtor or obligor. Similarly, it relieves a secured party from duties owed to a secured party or lienholder who has filed a financing statement against the debtor, if the secured party does not know about the debtor. For example, a secured party may be unaware that the original debtor has sold the collateral subject to the security interest and that the new owner has become the debtor. If so, the secured party owes no duty to the new owner (debtor) or to a secured party who has filed a financing statement against the new owner. This section should be read in conjunction with the exculpatory provisions in Section 9- 628. Note that it relieves a secured party not only from duties arising under this Article but also from duties arising under other law by virtue of the secured party's status as such under this Article, unless the other law otherwise provides.</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For Law 13-201, see notes following § 28:9-101.</text>
+      </level>
+    </level>
+  </level>
+</level>

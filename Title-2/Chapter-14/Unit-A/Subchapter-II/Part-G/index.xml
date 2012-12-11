@@ -1,0 +1,13 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>G</num>
+  <heading>Other Prohibited Practices.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1402.61.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1402.62.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1402.63.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1402.64.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1402.65.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1402.66.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1402.67.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1402.68.xml"/>
+</level>

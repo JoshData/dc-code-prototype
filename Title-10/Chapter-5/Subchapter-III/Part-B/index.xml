@@ -1,0 +1,11 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>B</num>
+  <heading>Transfers.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-505.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-505.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-505.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-505.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-505.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-505.07.xml"/>
+</level>

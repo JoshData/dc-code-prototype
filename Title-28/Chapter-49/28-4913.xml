@@ -1,0 +1,46 @@
+<level type="section">
+  <num>28-4913</num>
+  <heading>Automated transaction.</heading>
+  <text>In an automated transaction, the following rules apply:</text>
+  <level>
+    <level>
+      <num>(1)</num>
+      <text>A contract may be formed by the interaction of electronic agents of the parties, even if no individual was aware of or reviewed the electronic agents' actions or the resulting terms and agreements.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A contract may be formed by the interaction of an electronic agent and an individual, acting on the individual's own behalf or for another person, including by an interaction in which the individual performs actions that the individual is free to refuse to perform and which the individual knows or has reason to know will cause the electronic agent to complete the transaction or performance.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The terms of the contract are determined by the substantive law applicable to it.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Oct. 3, 2001, D.C. Law 14-28, § 3502(b), 48 DCR 6981; Mar. 13, 2004, D.C. Law 15-105, § 64, 51 DCR 881.)</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Effect of Amendments</heading>
+        <text>D.C. Law 15-105 validated previously made technical corrections.</text>
+      </level>
+      <level>
+        <heading>Emergency Act Amendments</heading>
+        <text>For temporary (90 day) addition of section, see § 3202(b) of Fiscal Year 2002 Budget Support Emergency Act of 2001 (D.C. Act 14-124, August 3, 2001, 48 DCR 7861).</text>
+      </level>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For Law 14-28, see notes following § 28-4901.</text>
+        <text>For Law 15-105, see notes following § 28-3904.</text>
+      </level>
+      <level>
+        <heading>Uniform Law</heading>
+        <text>This section is based upon § 14 of the Uniform Electronic Transactions Act (1999 Act). See 7A, Pt. I, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
+      </level>
+    </level>
+  </level>
+</level>

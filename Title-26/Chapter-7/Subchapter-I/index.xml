@@ -1,0 +1,26 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>I</num>
+  <heading>Regional Interstate Banking.</heading>
+  <level>
+    <text>DC CODE D. V, T. 26, Ch. 7, Subch. I, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-701~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-702.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-702.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-703.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-704.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-705.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-706.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-706.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-707.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-707.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-707.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-708~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-709.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-710.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-711.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-712.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-713.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-714.xml"/>
+</level>

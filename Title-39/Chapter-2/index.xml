@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>2</num>
+  <heading>Commission on the Arts and Humanities.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-201.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-202.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-203.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-204.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-205.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-205.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-206.xml"/>
+</level>

@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>VII</num>
+  <heading>Referendum; Succession in Government; Temporary Provisions; Miscellaneous; Amendments to District of Columbia Elections Act; Rules of Construction; and Effective Dates.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-A/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-B/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-C/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-D/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-E/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-F/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-G/index.xml"/>
+</level>

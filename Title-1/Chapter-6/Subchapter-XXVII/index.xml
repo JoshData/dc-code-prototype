@@ -1,0 +1,11 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>XXVII</num>
+  <heading>Temporary Assignment of District Employees.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-627.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-627.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-627.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-627.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-627.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-627.06.xml"/>
+</level>

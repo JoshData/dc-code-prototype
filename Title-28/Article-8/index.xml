@@ -1,0 +1,11 @@
+<level type="toc">
+  <prefix>Article</prefix>
+  <num>8</num>
+  <heading>Investment Securities.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-1/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-2/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-3/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-4/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-5/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-6/index.xml"/>
+</level>

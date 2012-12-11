@@ -1,0 +1,11 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>V</num>
+  <heading>Returns.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1805.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1805.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1805.02a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1805.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1805.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1805.05.xml"/>
+</level>

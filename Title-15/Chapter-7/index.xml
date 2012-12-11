@@ -1,0 +1,24 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>7</num>
+  <heading>Fees and Costs.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-701.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-702.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-703.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-704.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-705.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-706~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-707.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-708.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-709.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-710~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-711.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-712.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-713.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-714.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-715.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-716~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-717.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-718.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-719.xml"/>
+</level>

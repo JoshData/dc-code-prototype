@@ -1,0 +1,9 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>3</num>
+  <heading>Reports of Cancer and Malignant Neoplastic Diseases.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-301.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-302.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-303.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-304.xml"/>
+</level>

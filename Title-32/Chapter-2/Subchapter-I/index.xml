@@ -1,0 +1,29 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>I</num>
+  <heading>General.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-201.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-202.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-203.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-204.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-205.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-206.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-207.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-208.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-209.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-210.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-211.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-212.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-213.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-214.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-215.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-216.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-217.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-218.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-219.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-220.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-221.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-222.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-223.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-224.xml"/>
+</level>

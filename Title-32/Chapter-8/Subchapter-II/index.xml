@@ -1,0 +1,7 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>II</num>
+  <heading>Seats for Employees.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-831~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-832~P.xml"/>
+</level>

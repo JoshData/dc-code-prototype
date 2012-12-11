@@ -1,0 +1,17 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>19</num>
+  <heading>Habeas Corpus.</heading>
+  <level>
+    <text>DC CODE D. II, T. 16, Ch. 19, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1901.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1902.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1903.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1904.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1905.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1906.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1907.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1908.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-1909.xml"/>
+</level>

@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>18</num>
+  <heading>Mandatory Use of Seat Belts.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1801.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1802.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1803.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1804.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1805.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1806.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1807.xml"/>
+</level>

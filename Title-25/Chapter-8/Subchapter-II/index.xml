@@ -1,0 +1,17 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>II</num>
+  <heading>Revocation, Suspension, and Civil Penalties.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-821.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-822.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-823.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-824.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-825.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-826.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-827.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-828.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-829.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-830.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-831.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-83.xml"/>
+</level>

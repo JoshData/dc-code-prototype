@@ -1,0 +1,11 @@
+<level type="toc">
+  <prefix>Subpart</prefix>
+  <num>1</num>
+  <heading>Effectiveness and Attachment.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-201.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-202.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-203.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-204.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-205.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-206.xml"/>
+</level>

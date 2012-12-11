@@ -1,0 +1,19 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>3</num>
+  <heading>Competency of Witnesses.</heading>
+  <level>
+    <text>DC CODE D. II, T. 14, Ch. 3, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-301.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-302.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-303.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-304.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-305.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-306.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-307.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-308.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-309.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-310.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-311.xml"/>
+</level>

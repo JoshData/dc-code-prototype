@@ -1,0 +1,13 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>III</num>
+  <heading>Duties and Responsibilities.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1741.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1742.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1742a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1743.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1744.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1745.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1746.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1747.xml"/>
+</level>

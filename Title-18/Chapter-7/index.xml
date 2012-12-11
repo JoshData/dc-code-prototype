@@ -1,0 +1,15 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>7</num>
+  <heading>International Will; Information Registration.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-701.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-702.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-703.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-704.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-705.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-706.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-707.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-708.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-709.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="18-710.xml"/>
+</level>

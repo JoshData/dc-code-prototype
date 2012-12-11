@@ -1,0 +1,39 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>IV</num>
+  <heading>Commitment Under Court Order.</heading>
+  <level>
+    <level>
+      <type>annotations</type>
+      <level>
+        <heading>HISTORICAL AND STATUTORY NOTES</heading>
+        <level>
+          <heading>Effect of Amendments</heading>
+          <text>D.C. Law 14-283 substituted "COMMITMENT" for "HOSPITALIZATION".</text>
+        </level>
+        <level>
+          <heading>Temporary Amendments of Heading</heading>
+          <text>Section 2(n) of D.C. Law 14-131 substituted "COMMITMENT" for "HOSPITALIZATION".</text>
+          <text>Section 5(b) of D.C. Law 14-131 provides that the act shall expire after 225 days of its having taken effect.</text>
+        </level>
+        <level>
+          <heading>Legislative History of Laws</heading>
+          <text>For Law 14-131, see notes following § 21-501.</text>
+          <text>DC CODE D. III, T. 21, Ch. 5, Subch. IV, Refs &amp; Annos</text>
+        </level>
+      </level>
+    </level>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-541.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-542.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-543.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-544.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-545.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-545.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-546.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-547.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-548.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-549.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-550.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-551.xml"/>
+</level>

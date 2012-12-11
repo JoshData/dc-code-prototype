@@ -1,0 +1,17 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>5</num>
+  <heading>Courts-Martial.</heading>
+  <level>
+    <text>DC CODE D. VIII, T. 49, Subt. I, Ch. 5, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-501.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-502.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-503.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-504.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-505.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-506.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-507.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-508.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-509.xml"/>
+</level>

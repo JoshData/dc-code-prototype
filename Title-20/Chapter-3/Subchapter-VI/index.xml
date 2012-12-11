@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>VI</num>
+  <heading>Small Estates.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-351.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-352.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-353.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-354.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-355.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-356.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-357.xml"/>
+</level>

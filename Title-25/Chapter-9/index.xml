@@ -1,0 +1,16 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>9</num>
+  <heading>Taxes.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-901.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-902.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-903.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-904.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-905.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-906.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-907.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-908.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-909.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-910.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-911.xml"/>
+</level>

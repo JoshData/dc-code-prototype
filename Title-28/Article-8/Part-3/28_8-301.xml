@@ -1,0 +1,88 @@
+<level type="section">
+  <num>28:8-301</num>
+  <heading>Delivery.</heading>
+  <formerly-cited-as>DC ST 1981 § 28:8-301</formerly-cited-as>
+  <level>
+    <num>(a)</num>
+    <text>Delivery of a certificated security to a purchaser occurs when:</text>
+    <level>
+      <num>(1)</num>
+      <text>The purchaser acquires possession of the security certificate;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Another person, other than a securities intermediary, either acquires possession of the security certificate on behalf of the purchaser or, having previously acquired possession of the certificate, acknowledges that it holds for the purchaser; or</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>A securities intermediary acting on behalf of the purchaser acquires possession of the security certificate, only if the certificate is in registered form and is:</text>
+      <level>
+        <num>(A)</num>
+        <text>registered in the name of the purchaser;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>payable to the order of the purchaser; or</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>specially indorsed to the purchaser by an effective indorsement and has not been indorsed to the securities intermediary or in blank.</text>
+      </level>
+    </level>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>Delivery of an uncertificated security to a purchaser occurs when:</text>
+    <level>
+      <num>(1)</num>
+      <text>The issuer registers the purchaser as the registered owner, upon original issue or registration of transfer; or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Another person, other than a securities intermediary, either becomes the registered owner of the uncertificated security on behalf of the purchaser or, having previously become the registered owner, acknowledges that it holds for the purchaser.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Dec. 30, 1963, 77 Stat. 736, Pub. L. 88-243, § 1; Mar. 16, 1993, D.C. Law 9-196, § 4, 39 DCR 9165; renumbered and amended, Apr. 9, 1997, D.C. Law 11-240, § 2, 44 DCR 1087; Oct. 26, 2000, D.C. Law 13-201, § 201(i)(4), 47 DCR 7576.)</text>
+    </level>
+    <level>
+      <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
+      <text>1. This section specifies the requirements for "delivery" of securities. Delivery is used in Article 8 to describe the formal steps necessary for a purchaser to acquire a direct interest in a security under this Article. The concept of delivery refers to the implementation of a transaction, not the legal categorization of the transaction which is consummated by delivery. Issuance and transfer are different kinds of transaction, though both may be implemented by delivery. Sale and pledge are different kinds of transfers, but both may be implemented by delivery.</text>
+      <text>2. Subsection (a) defines delivery with respect to certificated securities. Paragraph (1) deals with simple cases where purchasers themselves acquire physical possession of certificates. Paragraphs (2) and (3) of subsection (a) specify the circumstances in which delivery to a purchaser can occur although the certificate is in the possession of a person other than the purchaser. Paragraph (2) contains the general rule that a purchaser can take delivery through another person, so long as the other person is actually acting on behalf of the purchaser or acknowledges that it is holding on behalf of the purchaser. Paragraph (2) does not apply to acquisition of possession by a securities intermediary, because a person who holds securities through a securities account acquires a security entitlement, rather than having a direct interest. See Section 8-501. Subsection (a)(3) specifies the limited circumstances in which delivery of security certificates to a securities intermediary is treated as a delivery to the customer. Note that delivery is a method of perfecting a security interest in a certificated security. See Section 9-313(a), (e).</text>
+      <text>3. Subsection (b) defines delivery with respect to uncertificated securities. Use of the term "delivery" with respect to uncertificated securities, does, at least on first hearing, seem a bit solecistic. The word "delivery" is, however, routinely used in the securities business in a broader sense than manual tradition. For example, settlement by entries on the books of a clearing corporation is commonly called "delivery," as in the expression "delivery versus payment." The diction of this section has the advantage of using the same term for uncertificated securities as for certificated securities, for which delivery is conventional usage. Paragraph (1) of subsection (b) provides that delivery occurs when the purchaser becomes the registered owner of an uncertificated security, either upon original issue or registration of transfer. Paragraph (2) provides for delivery of an uncertificated security through a third person, in a fashion analogous to subsection (a)(2).</text>
+      <level>
+        <heading>Definitional Cross References</heading>
+        <text>"Certificated security". Section 8-102(a)(4).</text>
+        <text>"Effective". Section 8-107.</text>
+        <text>"Issuer". Section 8-201.</text>
+        <text>"Purchaser". Sections 1-201(33) and 8-116.</text>
+        <text>"Registered form". Section 8-102(a)(13).</text>
+        <text>"Securities intermediary". Section 8-102(a)(14).</text>
+        <text>"Security certificate". Section 8-102(a)(16).</text>
+        <text>"Special indorsement". Section 8-304(a).</text>
+        <text>"Uncertificated security". Section 8-102(a)(18).</text>
+      </level>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Prior Codifications</heading>
+        <text>1981 Ed., § 28:8-301.</text>
+        <text>1973 Ed., § 28:8-301.</text>
+      </level>
+      <level>
+        <heading>Effect of Amendments</heading>
+        <text>D.C. Law 13-201, enacting a new Article 9 of the Uniform Commercial Code applicable July 1, 2001, made conforming amendments to this section applicable upon the same date.</text>
+      </level>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For legislative history of D.C. Law 9-196, see Historical and Statutory Notes following § 28:8-101.</text>
+        <text>Law 11-240, the "Uniform Commercial Code Investment Securities Revision Act of 1996," was introduced in Council and assigned Bill No. 11-576, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-500 and transmitted to both Houses of Congress for its review. D.C. Law 11-240 became effective on April 9, 1997.</text>
+        <text>For Law 13-201, see notes following § 28:8-103.</text>
+      </level>
+    </level>
+  </level>
+</level>

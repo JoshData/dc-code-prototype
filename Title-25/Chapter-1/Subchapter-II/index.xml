@@ -1,0 +1,20 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>II</num>
+  <heading>Classification of Licenses.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-110.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-111.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-112.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-113.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-113a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-114.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-115.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-116.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-117.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-118.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-119.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-120.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-121.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-122.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-123.xml"/>
+</level>

@@ -1,0 +1,11 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>4</num>
+  <heading>Arts, Cultural and Educational Facilities Support.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-401.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-402~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-402.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-403.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-404.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-405.xml"/>
+</level>

@@ -1,0 +1,10 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>6A</num>
+  <heading>Police and Firefighters Limited Duty</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-631.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-632.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-633.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-634.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-635.xml"/>
+</level>

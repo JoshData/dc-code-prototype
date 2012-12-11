@@ -1,0 +1,148 @@
+<level type="section">
+  <num>28:9-115</num>
+  <heading>Investment property.</heading>
+  <level>
+    <num>(1)</num>
+    <text>For the purposes of this article, the term:</text>
+    <level>
+      <num>(a)</num>
+      <text>"Commodity account" means an account maintained by a commodity intermediary in which a commodity contract is carried for a commodity customer.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>"Commodity contract" means a commodity futures contract, an option on a commodity futures contract, a commodity option, or other contract that, in each case, is:</text>
+      <level>
+        <num>(i)</num>
+        <text>Traded on or subject to the rules of a board of trade that has been designated as a contract market for such a contract pursuant to the federal commodities laws; or</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Traded on a foreign commodity board of trade, exchange, or market, and is carried on the books of a commodity intermediary for a commodity customer.</text>
+      </level>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>"Commodity customer" means a person for whom a commodity intermediary carries a commodity contract on its books.</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>"Commodity intermediary" means:</text>
+      <level>
+        <num>(i)</num>
+        <text>A person who is registered as a futures commission merchant under the federal commodities laws; or</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>A person who in the ordinary course of its business provides clearance or settlement services for a board of trade that has been designated as a contract market pursuant to the federal commodities laws.</text>
+      </level>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>"Control" with respect to a certificated security, uncertificated security, or security entitlement has the meaning specified in § 28:8-106. A secured party has control over a commodity contract if by agreement among the commodity customer, the commodity intermediary, and the secured party, the commodity intermediary has agreed that it will apply any value distributed on account of the commodity contract as directed by the secured party without further consent by the commodity customer. If a commodity customer grants a security interest in a commodity contract to its own commodity intermediary, the commodity intermediary as secured party has control. A secured party has control over a securities account or commodity account if the secured party has control over all security entitlements or commodity contracts carried in the securities account or commodity account.</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>"Investment property" means:</text>
+      <level>
+        <num>(i)</num>
+        <text>A security, whether certificated or uncertificated;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>A security entitlement;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>A securities account;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>A commodity contract; or</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>A commodity account.</text>
+      </level>
+    </level>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>Attachment or perfection of a security interest in a securities account is also attachment or perfection of a security interest in all security entitlements carried in the securities account. Attachment or perfection of a security interest in a commodity account is also attachment or perfection of a security interest in all commodity contracts carried in the commodity account.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>A description of collateral in a security agreement or financing statement is sufficient to create or perfect a security interest in a certificated security, uncertificated security, security entitlement, securities account, commodity contract, or commodity account whether it describes the collateral by those terms, or as investment property, or by description of the underlying security, financial asset, or commodity contract. A description of investment property collateral in a security agreement or financing statement is sufficient if it identifies the collateral by specific listing, by category, by quantity, by a computational or allocational formula or procedure, or by any other method, if the identity of the collateral is objectively determinable.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Perfection of a security interest in investment property is governed by the following rules:</text>
+    <level>
+      <num>(a)</num>
+      <text>A security interest in investment property may be perfected by control.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Except as otherwise provided in paragraphs (c) and (d) of this subsection, a security interest in investment property may be perfected by filing.</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>If the debtor is a broker or securities intermediary, a security interest in investment property is perfected when it attaches. The filing of a financing statement with respect to a security interest in investment property granted by a broker or securities intermediary has no effect for purposes of perfection or priority with respect to that security interest.</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>If a debtor is a commodity intermediary, a security interest in a commodity contract or a commodity account is perfected when it attaches. The filing of a financing statement with respect to a security interest in a commodity contract or a commodity account granted by a commodity intermediary has no effect for purposes of perfection or priority with respect to that security interest.</text>
+    </level>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Priority between conflicting security interests in the same investment property is governed by the following rules:</text>
+    <level>
+      <num>(a)</num>
+      <text>A security interest of a secured party who has control over investment property has priority over a security interest of a secured party who does not have control over the investment property.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Except as otherwise provided in paragraphs (c) and (d) of this subsection, conflicting security interests of secured parties each of whom has control rank equally.</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Except as otherwise agreed by the securities intermediary, a security interest in a security entitlement or a securities account granted to the debtor's own securities intermediary has priority over any security interest granted by the debtor to another secured party.</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Except as otherwise agreed by the commodity intermediary, a security interest in a commodity contract or a commodity account granted to the debtor's own commodity intermediary has priority over any security interest granted by the debtor to another secured party.</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Conflicting security interests granted by a broker, a securities intermediary, or a commodity intermediary which are perfected without control rank equally.</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>In all other cases, priority between conflicting security interests in investment property is governed by § 28:9-312(5), (6), and (7). Section 28:9-312(4) does not apply to investment property.</text>
+    </level>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>If a security certificate in registered form is delivered to a secured party pursuant to agreement, a written security agreement is not required for attachment or enforceability of the security interest, delivery suffices for perfection of the security interest, and the security interest has priority over a conflicting security interest perfected by means other than control, even if a necessary indorsement is lacking.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Apr. 9, 1997, D.C. Law 11-240, § 3(i), 44 DCR 1087; Apr. 20, 1999, D.C. Law 12-264, § 26(b), 46 DCR 2118.)</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Prior Codifications</heading>
+        <text>1981 Ed., § 28:9-115.</text>
+      </level>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For legislative history of D.C. Law 11-240, see Historical and Statutory Notes following § 28:9-103.</text>
+        <text>Law 12-264, the "Technical Amendments Act of 1998," was introduced in Council and assigned Bill No. 12-804, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 10, 1998, and December 1, 1998, respectively. Signed by the Mayor on January 7, 1999, it was assigned Act No. 12-626 and transmitted to both Houses of Congress for its review. D.C. Law 12-264 became effective on April 20, 1999.</text>
+        <text>For Law 13-201, see notes following § 28:9-101.</text>
+      </level>
+    </level>
+  </level>
+</level>

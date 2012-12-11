@@ -1,0 +1,11 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>15</num>
+  <heading>Low-Level Radioactive Waste Generator Regulatory Policy.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1501.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1502.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1503.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1504~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1505.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1506.xml"/>
+</level>

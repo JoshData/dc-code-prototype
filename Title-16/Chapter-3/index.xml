@@ -1,0 +1,25 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>3</num>
+  <heading>Adoption.</heading>
+  <level>
+    <text>DC CODE D. II, T. 16, Ch. 3, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-301.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-302.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-303.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-304.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-305.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-306.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-307.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-308.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-309.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-310.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-311.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-312.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-313.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-314.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-315.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-316.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-317.xml"/>
+</level>

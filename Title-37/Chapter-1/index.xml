@@ -1,0 +1,18 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>1</num>
+  <heading>Eastern Market Management and Regulation.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="37-101.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="37-102.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="37-103.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="37-104.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="37-105.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="37-106.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="37-107.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="37-108.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="37-109.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="37-110.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="37-111.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="37-112.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="37-113.xml"/>
+</level>

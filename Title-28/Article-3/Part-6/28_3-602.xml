@@ -1,0 +1,44 @@
+<level type="section">
+  <num>28:3-602</num>
+  <heading>Payment.</heading>
+  <formerly-cited-as>DC ST 1981 § 28:3-602</formerly-cited-as>
+  <level>
+    <num>(a)</num>
+    <text>Subject to subsection (b) of this section, an instrument is paid to the extent payment is made (i) by or on behalf of a party obliged to pay the instrument, and (ii) to a person entitled to enforce the instrument. To the extent of the payment, the obligation of the party obliged to pay the instrument is discharged even though payment is made with knowledge of a claim to the instrument under section 28:3-306 by another person.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>The obligation of a party to pay the instrument is not discharged under subsection (a) of this section if:</text>
+    <level>
+      <num>(1)</num>
+      <text>A claim to the instrument under section 28:3-306 is enforceable against the party receiving payment and (i) payment is made with knowledge by the payor that payment is prohibited by injunction or similar process of a court of competent jurisdiction, or (ii) in the case of an instrument other than a cashier's check, teller's check, or certified check, the party making payment accepted, from the person having a claim to the instrument, indemnity against loss resulting from refusal to pay the person entitled to enforce the instrument; or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The person making payment knows that the instrument is a stolen instrument and pays a person it knows is in wrongful possession of the instrument.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Dec. 30, 1963, 77 Stat. 691, Pub. L. 88-243, § 1; Mar. 23, 1995, D.C. Law 10-249, § 2(d), 42 DCR 467.)</text>
+    </level>
+    <level>
+      <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
+      <text>This section replaces former Section 3-603(1). The phrase "claim to the instrument" in subsection (a) means, by reference to Section 3-306, a claim of ownership or possession and not a claim in recoupment. Subsection (b)(1)(ii) is added to conform to Section 3-411. Section 3-411 is intended to discourage an obligated bank from refusing payment of a cashier's check, certified check or dishonored teller's check at the request of a claimant to the check who provided the bank with indemnity against loss. See Comment 1 to Section 3-411. An obligated bank that refuses payment under those circumstances not only remains liable on the check but may also be liable to the holder of the check for consequential damages. Section 3- 602(b)(1)(ii) and Section 3-411, read together, change the rule of former Section 3-603(1) with respect to the obligation of the obligated bank on the check. Payment to the holder of a cashier's check, teller's check, or certified check discharges the obligation of the obligated bank on the check to both the holder and the claimant even though indemnity has been given by the person asserting the claim. If the obligated bank pays the check in violation of an agreement with the claimant in connection with the indemnity agreement, any liability that the bank may have for violation of the agreement is not governed by Article 3, but is left to other law. This section continues the rule that the obligor is not discharged on the instrument if payment is made in violation of an injunction against payment. See Section 3-411(c)(iv).</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Prior Codifications</heading>
+        <text>1981 Ed., § 28:3-602.</text>
+        <text>1973 Ed., § 28:3-603.</text>
+      </level>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For legislative history of D.C. Law 10-249, see Historical and Statutory Notes following § 28:3-101.</text>
+      </level>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,102 @@
+<level type="document">
+  <heading>Code of the District of Columbia</heading>
+  <meta>
+    <recency>
+      <last-act>DC Act A19-0448 (Law 19-193)</last-act>
+      <effective-date>2012-10-23</effective-date>
+      <publication-date>2012-12-11</publication-date>
+    </recency>
+  </meta>
+  <level type="toc">
+    <prefix>Division</prefix>
+    <num>I</num>
+    <heading>Government of District.</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-1/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-2/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-3/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-4/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-5/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-6/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-7/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-8/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-9/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-10/index.xml"/>
+  </level>
+  <level type="toc">
+    <prefix>Division</prefix>
+    <num>II</num>
+    <heading>Judiciary and Judicial Procedure</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-11/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-12/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-13/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-14/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-15/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-16/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-17/index.xml"/>
+  </level>
+  <level type="toc">
+    <prefix>Division</prefix>
+    <num>III</num>
+    <heading>Decedents' Estates and Fiduciary Relations.</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-18/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-19/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-20/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-21/index.xml"/>
+  </level>
+  <level type="toc">
+    <prefix>Division</prefix>
+    <num>IV</num>
+    <heading>Criminal Law and Procedure and Prisoners.</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-22/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-23/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-24/index.xml"/>
+  </level>
+  <level type="toc">
+    <prefix>Division</prefix>
+    <num>V</num>
+    <heading>Local Business Affairs</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-25/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-26/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-27/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-28/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-29/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-29A/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-30/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-31/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-32/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-33/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-34/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-35/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-36/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-37/index.xml"/>
+  </level>
+  <level type="toc">
+    <prefix>Division</prefix>
+    <num>VI</num>
+    <heading>Education, Libraries, and Cultural Institutions.</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-38/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-39/index.xml"/>
+  </level>
+  <level type="toc">
+    <prefix>Division</prefix>
+    <num>VII</num>
+    <heading>Property.</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-40/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-41/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-42/index.xml"/>
+  </level>
+  <level type="toc">
+    <prefix>Division</prefix>
+    <num>VIII</num>
+    <heading>General Laws.</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-43/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-44/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-45/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-46/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-47/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-48/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-49/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-50/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-51/index.xml"/>
+  </level>
+</level>

@@ -1,0 +1,69 @@
+<level type="section">
+  <num>28-4907</num>
+  <heading>Provision of information in writing; presentation of records.</heading>
+  <level>
+    <num>(a)</num>
+    <text>If parties have agreed to conduct a transaction by electronic means and a law requires a person to provide, send, or deliver information in writing to another person, the requirement is satisfied if the information is provided, sent, or delivered, as the case may be, in an electronic record capable of retention by the recipient at the time of receipt. An electronic record is not capable of retention by the recipient if the sender or its information processing system inhibits the ability of the recipient to print or store the electronic record.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>If a law other than this chapter requires a record (1) to be posted or displayed in a certain manner, (2) to be sent, communicated, or transmitted by a specified method, or (3) to contain information that is formatted in a certain manner, the following rules apply:</text>
+    <level>
+      <level>
+        <num>(A)</num>
+        <text>The record must be posted or displayed in the manner specified in the other law.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Except as otherwise provided in subsection (d)(2) of this section, the record must be sent, communicated, or transmitted by the method specified in the other law.</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The record must contain the information formatted in the manner specified in the other law.</text>
+      </level>
+    </level>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>If a sender inhibits the ability of a recipient to store or print an electronic record, the electronic record is not enforceable against the recipient.</text>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>The requirements of this section may not be varied by agreement, but:</text>
+    <level>
+      <num>(1)</num>
+      <text>To the extent a law other than this chapter requires information to be provided, sent, or delivered in writing but permits that requirement to be varied by agreement, the requirement under subsection (a) of this section that the information be in the form of an electronic record capable of retention may also be varied by agreement; and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A requirement under a law other than this chapter to send, communicate, or transmit a record by first-class mail, postage prepaid, may be varied by agreement to the extent permitted by the other law.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Oct. 3, 2001, D.C. Law 14-28, § 3502(b), 48 DCR 6981; Mar. 13, 2004, D.C. Law 15-105, § 64, 51 DCR 881.)</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Effect of Amendments</heading>
+        <text>D.C. Law 15-105 validated previously made technical corrections.</text>
+      </level>
+      <level>
+        <heading>Emergency Act Amendments</heading>
+        <text>For temporary (90 day) addition of section, see § 3202(b) of Fiscal Year 2002 Budget Support Emergency Act of 2001 (D.C. Act 14-124, August 3, 2001, 48 DCR 7861).</text>
+      </level>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For Law 14-28, see notes following § 28-4901.</text>
+        <text>For Law 15-105, see notes following § 28-3904.</text>
+      </level>
+      <level>
+        <heading>Uniform Law</heading>
+        <text>This section is based upon § 8 of the Uniform Electronic Transactions Act (1999 Act). See 7A, Pt. I, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
+      </level>
+    </level>
+  </level>
+</level>

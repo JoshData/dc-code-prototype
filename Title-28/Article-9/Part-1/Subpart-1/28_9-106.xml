@@ -1,0 +1,45 @@
+<level type="section">
+  <num>28:9-106</num>
+  <heading>Control of investment property.</heading>
+  <level>
+    <num>(a)</num>
+    <text>A person has control of a certificated security, uncertificated security, or security entitlement as provided in § 28:8-106.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>A secured party has control of a commodity contract if:</text>
+    <level>
+      <num>(1)</num>
+      <text>The secured party is the commodity intermediary with which the commodity contract is carried; or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The commodity customer, secured party, and commodity intermediary have agreed that the commodity intermediary will apply any value distributed on account of the commodity contract as directed by the secured party without further consent by the commodity customer.</text>
+    </level>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>A secured party having control of all security entitlements or commodity contracts carried in a securities account or commodity account has control over the securities account or commodity account.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CREDIT(S)</heading>
+      <text>(Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576.)</text>
+    </level>
+    <level>
+      <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
+      <text>1. <text b="True">Source.</text> Former Section 9-115(e).</text>
+      <text>2. <text b="True">"Control" Under Article 8.</text> For an explanation of "control" of securities and certain other investment property, see Section 8-106, Comments 4 and 7.</text>
+      <text>3. <text b="True">"Control" of Commodity Contracts.</text> This section, as did former Section 9- 115(1)(e), contains provisions relating to control of commodity contracts which are analogous to those in Section 8-106 for other types of investment property.</text>
+      <text>4. <text b="True">Securities Accounts and Commodity Accounts.</text> For drafting convenience, control with respect to a securities account or commodity account is defined in terms of obtaining control over the security entitlements or commodity contracts. Of course, an agreement that provides that (without further consent of the debtor) the securities intermediary or commodity intermediary will honor instructions from the secured party concerning a securities account or commodity account described as such is sufficient. Such an agreement necessarily implies that the intermediary will honor instructions concerning all security entitlements or commodity contracts carried in the account and thus affords the secured party control of all the security entitlements or commodity contracts.</text>
+    </level>
+    <level>
+      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <level>
+        <heading>Legislative History of Laws</heading>
+        <text>For Law 13-201, see notes following § 28:9-101.</text>
+      </level>
+    </level>
+  </level>
+</level>

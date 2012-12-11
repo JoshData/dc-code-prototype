@@ -1,0 +1,11 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>9</num>
+  <heading>Pay and Allowances.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-901.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-902.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-903.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-904.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-905.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-906.xml"/>
+</level>

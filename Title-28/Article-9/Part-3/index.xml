@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>3</num>
+  <heading>Perfection and Priority.</heading>
+  <level>
+    <text>DC CODE D. V, T. 28, Subt. I, Art. 9, Pt. 3, Refs &amp; Annos</text>
+  </level>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-1/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-2/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-3/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-4/index.xml"/>
+</level>

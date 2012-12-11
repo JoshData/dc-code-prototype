@@ -1,0 +1,10 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>3</num>
+  <heading>Execution of Sender's Payment Order by Receiving Bank.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_4A-301.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_4A-302.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_4A-303.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_4A-304.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_4A-305.xml"/>
+</level>

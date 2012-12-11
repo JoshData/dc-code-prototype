@@ -1,0 +1,8 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>15</num>
+  <heading>Nurses Training Corps.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1501.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1502.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1503.xml"/>
+</level>

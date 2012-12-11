@@ -1,0 +1,10 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>A</num>
+  <heading>World Class School Task Force, Core Curriculum, Content Standards, Assessments.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1803.11.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1803.12.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1803.13.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1803.14.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1803.15.xml"/>
+</level>
