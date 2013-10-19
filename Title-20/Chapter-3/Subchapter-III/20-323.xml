@@ -1,31 +1,32 @@
 <level type="section">
   <num>20-323</num>
   <heading>Notice of request for standard probate; form.</heading>
-  <formerly-cited-as>DC ST 1981 § 20-323</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">When given.</text> -- A person filing a petition for standard probate shall promptly give notice to all known interested persons. In addition, the petitioner shall publish a notice once a week for 2 successive weeks in a newspaper of general circulation in the District of Columbia and in any other publication the Court may provide by Rule.</text>
+    <heading>When given</heading>
+    <text>A person filing a petition for standard probate shall promptly give notice to all known interested persons. In addition, the petitioner shall publish a notice once a week for 2 successive weeks in a newspaper of general circulation in the District of Columbia and in any other publication the Court may provide by Rule.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Form of notice.</text> -- The notice required by this section shall be in the form prescribed by the Rules.</text>
+    <heading>Form of notice</heading>
+    <text>The notice required by this section shall be in the form prescribed by the Rules.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 24, 1980, D.C. Law 3-72, § 101, 27 DCR 2155.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 20-323.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-301.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 20-311 and § 20-321.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 20-323.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-72</heading>
+      <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-301.</text>
     </level>
   </level>
 </level>

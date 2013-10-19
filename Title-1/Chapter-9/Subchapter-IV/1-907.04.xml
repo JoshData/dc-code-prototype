@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-907.04</num>
   <heading>Actuarial statement and opinion.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-784.4</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>As a part of the actuarial report presented to the Retirement Board, the actuary shall prepare an actuarial statement. The statement shall contain:</text>
@@ -81,26 +80,26 @@
     <num>(c)</num>
     <text>The actuarial statement and opinion required herein shall be included as part of the annual report required pursuant to § 1-909.02.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 18, 1998, D.C. Law 12-152, § 134, 45 DCR 4045.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-784.4.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-152, see Historical and Statutory Notes following § 1-901.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Application of Law 12-152: See Historical and Statutory Notes following § 1- 901.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-909.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-784.4.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-152</heading>
+      <text>For legislative history of D.C. Law 12-152, see Historical and Statutory Notes following § 1-901.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 12-152: See Historical and Statutory Notes following § 1-901.01.</text>
     </level>
   </level>
 </level>

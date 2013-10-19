@@ -52,7 +52,7 @@
           </level>
           <level>
             <num>(II)</num>
-            <text>The discount factor that is applicable to the line of business and accident year published by the Internal Revenue Service under section 846 of the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2399; 26 U.S.C. § 846), for the calendar year that corresponds to the most recent annual statement of the insurer; less</text>
+            <text>The discount factor that is applicable to the line of business and accident year published by the Internal Revenue Service under 26 U.S.C. § 846, for the calendar year that corresponds to the most recent annual statement of the insurer; less</text>
           </level>
           <level>
             <num>(III)</num>
@@ -113,18 +113,18 @@
       <text>If an insurer fails to comply with the Commissioner's requirement under paragraph (1) of this subsection, the insurer shall be deemed to be in hazardous financial condition and the Commissioner shall take one or more of the actions authorized by law as to insurers in hazardous financial condition.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 11, 2003, D.C. Law 14-297, § 302, 50 DCR 330.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-297, see notes following § 31-1371.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1371.02 and § 31-1372.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-297</heading>
+      <text>For Law 14-297, see notes following § 31-1371.01.</text>
     </level>
   </level>
 </level>

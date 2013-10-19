@@ -3,75 +3,69 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"DCPS" means the District of Columbia Public Schools established by § 38-171. The term "DCPS" does not include public charter schools.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"High-need school" means:</text>
     <level>
-      <num>(1)</num>
-      <text>"DCPS" means the District of Columbia Public Schools established by § 38-171. The term "DCPS" does not include public charter schools.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"High-need school" means:</text>
+      <num>(A)</num>
+      <text>A DCPS school that has:</text>
       <level>
-        <num>(A)</num>
-        <text>A DCPS school that has:</text>
-        <level>
-          <num>(i)</num>
-          <text>Been in operation for no fewer than 5 years;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>A minimum of 200 students;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Forty percent or fewer of its students meeting proficiency on the District of Columbia Comprehensive Assessment System examination in both reading and math; and</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>Seventy-five percent or more of its students qualify for free or reduced-price lunch; or</text>
-        </level>
+        <num>(i)</num>
+        <text>Been in operation for no fewer than 5 years;</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>A public charter school that:</text>
-        <level>
-          <num>(i)</num>
-          <text>Is a tier one or tier 2 school;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Has been in operation for no fewer than 5 years; and</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Has a minimum of 200 students.</text>
-        </level>
+        <num>(ii)</num>
+        <text>A minimum of 200 students;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Forty percent or fewer of its students meeting proficiency on the District of Columbia Comprehensive Assessment System examination in both reading and math; and</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>Seventy-five percent or more of its students qualify for free or reduced-price lunch; or</text>
       </level>
     </level>
     <level>
-      <num>(3)</num>
-      <text>"Highly effective teacher" means:</text>
+      <num>(B)</num>
+      <text>A public charter school that:</text>
       <level>
-        <num>(A)</num>
-        <text>A DCPS teacher who receives a rating of "highly effective" under the DCPS IMPACT evaluation system; or</text>
+        <num>(i)</num>
+        <text>Is a tier one or tier 2 school;</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>A public charter school teacher who receives a rating that meets the highly effective standard agreed upon by the Mayor and that public charter school.</text>
+        <num>(ii)</num>
+        <text>Has been in operation for no fewer than 5 years; and</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Has a minimum of 200 students.</text>
       </level>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(3)</num>
+    <text>"Highly effective teacher" means:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>A DCPS teacher who receives a rating of "highly effective" under the DCPS IMPACT evaluation system; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>A public charter school teacher who receives a rating that meets the highly effective standard agreed upon by the Mayor and that public charter school.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(June 19, 2012, D.C. Law 19-142, § 302, 59 DCR 3642.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-142, see notes under § 38-751.01.</text>
-      </level>
+      <heading>Legislative History of Law 19-142</heading>
+      <text>For history of Law 19-142, see notes under § 38-751.01.</text>
     </level>
   </level>
 </level>

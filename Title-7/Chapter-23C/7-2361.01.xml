@@ -3,179 +3,177 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Disaster relief organization" means an entity that provides emergency or disaster relief services that include health or veterinary services provided by volunteer health practitioners and that:</text>
     <level>
-      <num>(1)</num>
-      <text>"Disaster relief organization" means an entity that provides emergency or disaster relief services that include health or veterinary services provided by volunteer health practitioners and that:</text>
-      <level>
-        <num>(A)</num>
-        <text>Is designated or recognized as a provider of those services pursuant to a disaster response and recovery plan adopted by an agency of the federal government or the Mayor; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Regularly plans and conducts its activities in coordination with an agency of the federal government or the Mayor.</text>
-      </level>
+      <num>(A)</num>
+      <text>Is designated or recognized as a provider of those services pursuant to a disaster response and recovery plan adopted by an agency of the federal government or the Mayor; or</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Emergency" means an event or condition that is a public emergency, as defined by § 7-2301(3).</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Emergency declaration" means a declaration of emergency issued by a person authorized to do so under the laws of the District.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Emergency Management Assistance Compact" means the interstate compact approved by Congress by the Joint Resolution Granting the consent of Congress to the Emergency Management Assistance Compact, approved October 19, 1996 (Pub. L. No. 104-321; 110 Stat. 3877).</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Entity" means a person other than an individual.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Health facility" means an entity licensed under the laws of this or another state to provide health or veterinary services.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"Health practitioner" means an individual licensed under the laws of this or another state to provide health or veterinary services.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Health services" means the provision of treatment, care, advice or guidance, or other services, or supplies, related to the health or death of individuals, or human populations, to the extent necessary to respond to an emergency, including:</text>
-      <level>
-        <num>(A)</num>
-        <text>The following, concerning the physical or mental condition or functional status of an individual or affecting the structure or function of the body:</text>
-        <level>
-          <num>(i)</num>
-          <text>Preventive care;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Diagnostic care;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Therapeutic care;</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>Rehabilitative care;</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>Maintenance care;</text>
-        </level>
-        <level>
-          <num>(vi)</num>
-          <text>Palliative care;</text>
-        </level>
-        <level>
-          <num>(vii)</num>
-          <text>Counseling services:</text>
-        </level>
-        <level>
-          <num>(viii)</num>
-          <text>Assessment services;</text>
-        </level>
-        <level>
-          <num>(ix)</num>
-          <text>Procedural services; or</text>
-        </level>
-        <level>
-          <num>(x)</num>
-          <text>Other services;</text>
-        </level>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The sale or dispensing of a drug, a device, equipment, or another item to an individual in accordance with a prescription; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Funeral, cremation, cemetery, or other mortuary services.</text>
-      </level>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Host entity" means an entity operating in the District that uses volunteer health practitioners to respond to an emergency.</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"License" means authorization by a state to engage in health or veterinary services that are unlawful without the authorization. The term includes authorization under the laws of the District to an individual to provide health or veterinary services based upon a national certification issued by a public or private entity.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>"Mayor" means the Mayor of the District of Columbia.</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>"Person" means an individual, corporation, business trust, trust, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity. The term "person" includes the government of the District of Columbia.</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>"Registration system" means a system for registering volunteer health practitioners that meets the requirements in § 7-2361.04.</text>
-    </level>
-    <level>
-      <num>(14)</num>
-      <text>"Scope of practice" means the extent of the authorization to provide health or veterinary services granted to a health practitioner by a license issued to the practitioner in the state in which the principal part of the practitioner's services are rendered, including any conditions imposed by the licensing authority.</text>
-    </level>
-    <level>
-      <num>(15)</num>
-      <text>"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.</text>
-    </level>
-    <level>
-      <num>(16)</num>
-      <text>"Veterinary services" means the provision of treatment, care, advice or guidance, or other services, or supplies, related to the health or death of an animal or to animal populations, to the extent necessary to respond to an emergency, including the:</text>
-      <level>
-        <num>(A)</num>
-        <text>Diagnosis, treatment, or prevention of an animal disease, injury, or other physical or mental condition by the prescription, administration, or dispensing of:</text>
-        <level>
-          <num>(i)</num>
-          <text>A vaccine;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Medicine;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Surgery; or</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>Therapy;</text>
-        </level>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Use of a procedure for reproductive management; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Monitoring and treatment of animal populations for diseases that have spread or demonstrate the potential to spread to humans.</text>
-      </level>
-    </level>
-    <level>
-      <num>(17)</num>
-      <text>"Volunteer health practitioner" means a health practitioner who provides health or veterinary services, whether or not the practitioner receives compensation for those services, including an employee of the federal government. The term "volunteer health practitioner" does not include a practitioner who receives compensation pursuant to a preexisting employment relationship with a host entity or affiliate that requires the practitioner to provide health services in the District, unless the practitioner is employed by a disaster relief organization while an emergency declaration is in effect.</text>
+      <num>(B)</num>
+      <text>Regularly plans and conducts its activities in coordination with an agency of the federal government or the Mayor.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Emergency" means an event or condition that is a public emergency, as defined by § 7-2301(3).</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Emergency declaration" means a declaration of emergency issued by a person authorized to do so under the laws of the District.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Emergency Management Assistance Compact" means the interstate compact approved by Congress by the Joint Resolution Granting the consent of Congress to the Emergency Management Assistance Compact, approved October 19, 1996 (Pub. L. No. 104-321; 110 Stat. 3877) [see also D.C. Code § 7-2332].</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Entity" means a person other than an individual.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Health facility" means an entity licensed under the laws of this or another state to provide health or veterinary services.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Health practitioner" means an individual licensed under the laws of this or another state to provide health or veterinary services.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Health services" means the provision of treatment, care, advice or guidance, or other services, or supplies, related to the health or death of individuals, or human populations, to the extent necessary to respond to an emergency, including:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>The following, concerning the physical or mental condition or functional status of an individual or affecting the structure or function of the body:</text>
+      <level>
+        <num>(i)</num>
+        <text>Preventive care;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Diagnostic care;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Therapeutic care;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>Rehabilitative care;</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>Maintenance care;</text>
+      </level>
+      <level>
+        <num>(vi)</num>
+        <text>Palliative care;</text>
+      </level>
+      <level>
+        <num>(vii)</num>
+        <text>Counseling services:</text>
+      </level>
+      <level>
+        <num>(viii)</num>
+        <text>Assessment services;</text>
+      </level>
+      <level>
+        <num>(ix)</num>
+        <text>Procedural services; or</text>
+      </level>
+      <level>
+        <num>(x)</num>
+        <text>Other services;</text>
+      </level>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The sale or dispensing of a drug, a device, equipment, or another item to an individual in accordance with a prescription; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Funeral, cremation, cemetery, or other mortuary services.</text>
+    </level>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Host entity" means an entity operating in the District that uses volunteer health practitioners to respond to an emergency.</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"License" means authorization by a state to engage in health or veterinary services that are unlawful without the authorization. The term includes authorization under the laws of the District to an individual to provide health or veterinary services based upon a national certification issued by a public or private entity.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>"Mayor" means the Mayor of the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>"Person" means an individual, corporation, business trust, trust, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity. The term "person" includes the government of the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>"Registration system" means a system for registering volunteer health practitioners that meets the requirements in § 7-2361.04.</text>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>"Scope of practice" means the extent of the authorization to provide health or veterinary services granted to a health practitioner by a license issued to the practitioner in the state in which the principal part of the practitioner's services are rendered, including any conditions imposed by the licensing authority.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.</text>
+  </level>
+  <level>
+    <num>(16)</num>
+    <text>"Veterinary services" means the provision of treatment, care, advice or guidance, or other services, or supplies, related to the health or death of an animal or to animal populations, to the extent necessary to respond to an emergency, including the:</text>
+    <level>
+      <num>(A)</num>
+      <text>Diagnosis, treatment, or prevention of an animal disease, injury, or other physical or mental condition by the prescription, administration, or dispensing of:</text>
+      <level>
+        <num>(i)</num>
+        <text>A vaccine;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Medicine;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Surgery; or</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>Therapy;</text>
+      </level>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Use of a procedure for reproductive management; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Monitoring and treatment of animal populations for diseases that have spread or demonstrate the potential to spread to humans.</text>
+    </level>
+  </level>
+  <level>
+    <num>(17)</num>
+    <text>"Volunteer health practitioner" means a health practitioner who provides health or veterinary services, whether or not the practitioner receives compensation for those services, including an employee of the federal government. The term "volunteer health practitioner" does not include a practitioner who receives compensation pursuant to a preexisting employment relationship with a host entity or affiliate that requires the practitioner to provide health services in the District, unless the practitioner is employed by a disaster relief organization while an emergency declaration is in effect.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(July 1, 2010, D.C. Law 18-184, § 2, 57 DCR 3655.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 18-184, the "Uniform Emergency Volunteer Health Practitioners Act of 2010", was introduced in Council and assigned Bill No. 18-71, which was referred to the Committee on Health, Public Safety and the Judiciary. The Bill was adopted on first and second readings on March 2, 2010, and March 16, 2010, respectively. Signed by the Mayor on April 26, 2010, it was assigned Act No. 18-383 and transmitted to both Houses of Congress for its review. D.C. Law 18- 184 became effective on July 1, 2010.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 2 of the Uniform Emergency Volunteer Health Practitioners Act. See Vol. 9, Part 1B, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 3-411, § 3-512.01, § 3-1201.03, and § 7-2304.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-184</heading>
+      <text>Law 18-184, the "Uniform Emergency Volunteer Health Practitioners Act of 2010", was introduced in Council and assigned Bill No. 18-71, which was referred to the Committee on Health, Public Safety and the Judiciary. The Bill was adopted on first and second readings on March 2, 2010, and March 16, 2010, respectively. Signed by the Mayor on April 26, 2010, it was assigned Act No. 18-383 and transmitted to both Houses of Congress for its review. D.C. Law 18-184 became effective on July 1, 2010.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 2 of the Uniform Emergency Volunteer Health Practitioners Act.</text>
     </level>
   </level>
 </level>

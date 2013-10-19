@@ -26,7 +26,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>A mental health professional as that term is defined in section 7- 1201.01(11).</text>
+      <text>A mental health professional as that term is defined in section 7-1201.01(11).</text>
     </level>
   </level>
   <level>
@@ -67,20 +67,20 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>This section permits the limited disclosure of information contained in records and files otherwise protected from disclosure under sections 16- 2331, 16-2332, and 16-2333, but does not authorize disclosure of the records and files.</text>
+    <text>This section permits the limited disclosure of information contained in records and files otherwise protected from disclosure under sections 16-2331, 16-2332, and 16-2333, but does not authorize disclosure of the records and files.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2011, D.C. Law 18-284, § 3(f), 57 DCR 10477.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-284, see notes under § 16-2301.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-2331, § 16-2332, and § 16-2333.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-284</heading>
+      <text>For history of Law 18-284, see notes under § 16-2301.</text>
     </level>
   </level>
 </level>

@@ -2,18 +2,14 @@
   <num>44-1051.03</num>
   <heading>License required.</heading>
   <text>A nurse staffing agency shall be licensed by the Department before providing or referring any nursing personnel, Home Health Aides, or Personal Care Aides to a health care facility or agency, or to an individual, for the purpose of rendering temporary nursing services or related aide services within the District of Columbia.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(March 10, 2004, D.C. Law 15-74, § 3, 50 DCR 10914.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-74, see notes following § 44-1051.02.</text>
-      </level>
+      <heading>Legislative History of Law 15-74</heading>
+      <text>For Law 15-74, see notes following § 44-1051.02.</text>
     </level>
   </level>
 </level>

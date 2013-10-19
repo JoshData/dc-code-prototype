@@ -3,39 +3,33 @@
   <heading>Duration of abduction prevention order.</heading>
   <text>An abduction prevention order remains in effect until the earliest of:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The time stated in the order;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The emancipation of the child;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The child's attaining 18 years of age; or</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The time the order is modified, revoked, vacated, or superseded by a court with jurisdiction under §§ 16-4602.01 to 16-4602.03.</text>
-    </level>
+    <num>(1)</num>
+    <text>The time stated in the order;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The emancipation of the child;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The child's attaining 18 years of age; or</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The time the order is modified, revoked, vacated, or superseded by a court with jurisdiction under §§ 16-4602.01 to 16-4602.03.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 31, 2009, D.C. Law 17-378, § 2(d), 56 DCR 1572.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-378, see notes following § 16-4604.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 10 of the Uniform Child Abduction Prevention Act. See Vol. 9, Pt. 1A, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 17-378</heading>
+      <text>For Law 17-378, see notes following § 16-4604.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 10 of the Uniform Child Abduction Prevention Act.</text>
     </level>
   </level>
 </level>

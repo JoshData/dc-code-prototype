@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>VIII</num>
-  <heading>Resident Assessment.</heading>
+  <heading>Resident Assessment</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-108.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-108.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-108.03.xml"/>

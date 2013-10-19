@@ -13,18 +13,18 @@
     <num>(c)</num>
     <text>The trustee or paying agent is authorized to deposit, invest, and disburse the proceeds received from the sale of the GARVEE Bonds pursuant to the Financing Documents.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 23, 2009, D.C. Law 18-54, § 5, 56 DCR 5694.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-54, see notes following § 9-107.51.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 9-107.52.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-54</heading>
+      <text>For Law 18-54, see notes following § 9-107.51.</text>
     </level>
   </level>
 </level>

@@ -1,6 +1,6 @@
 <level type="section">
   <num>29-1208.05</num>
-  <heading>Publication of notice.</heading>
+  <heading>Other claims against dissolved statutory trust.</heading>
   <level>
     <num>(a)</num>
     <text>A dissolved statutory trust may publish notice of its dissolution and request persons having claims against the trust to present them in accordance with the notice.</text>
@@ -27,7 +27,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>If a dissolved statutory trust publishes a notice in accordance with subsection (b) of this section, unless the claimant commences an action to enforce a claim against the trust not later than 3 years after the publication date of the notice, the claim of each of the following claimants shall be barred:</text>
+    <text>If a dissolved statutory trust publishes a notice in accordance with subsection (b) of this section, the claim of each of the following claimants is barred unless the claimant commences an action to enforce a claim against the trust not later than 3 years after the publication date of the notice:</text>
     <level>
       <num>(1)</num>
       <text>A claimant that did not receive notice in a record under § 29-1208.04;</text>
@@ -43,28 +43,45 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>A claim not barred under this section may be enforced against undistributed property.</text>
+    <text>A claim not barred under this section or § 29-1208.04 may be enforced against:</text>
+    <level>
+      <num>(1)</num>
+      <text>A dissolved statutory trust, to the extent of its undistributed property; and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A beneficial owner, except as provided in § 29-1208.06, if property of the trust has been distributed after dissolution, against a beneficial owner to the extent of that person's proportionate share of the claim or property distributed to the beneficial owner after dissolution, whichever is less.</text>
+    </level>
   </level>
   <level>
     <num>(e)</num>
-    <text>If property of the trust has been distributed after dissolution, a claim not barred under this section may be enforced against a beneficial owner to the extent of that beneficial owner's proportionate share of the property distributed to the beneficial owner after dissolution. However, a beneficial owner's total liability for all claims under this subsection shall not exceed the total amount of property distributed to the beneficial owner after dissolution.</text>
+    <text>A person's total liability for all claims under subsection (d)(2) of this section does not exceed the total amount of assets distributed to the person after dissolution.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(l)(8)(D), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 805 of the Uniform Statutory Trust Entity Act . See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-1206.15, § 29-1208.03, and § 29-1208.06.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "Other claims against dissolved statutory trust" for "Publication of notice" in the section heading; in (c), substituted "the claim of each of the following claimants is barred unless" for "unless", and deleted "the claim of each of the following claimants shall be barred" following "date of the notice"; and rewrote (d) and (e).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-1201.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 805 of the Uniform Statutory Trust Entity Act.</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

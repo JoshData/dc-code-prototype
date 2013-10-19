@@ -13,23 +13,26 @@
     <num>(c)</num>
     <text>It shall be unlawful to construct an Inclusionary Development in a manner inconsistent with a Certificate of Inclusionary Zoning Compliance approved by the Mayor pursuant to § 6-1041.05.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 2007, D.C. Law 16-275, § 102, 54 DCR 880; Mar. 25, 2009, D.C. Law 17-353, § 161(a), 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-353 validated a previously made technical correction in the section heading.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-275, see notes following § 6-1041.01.</text>
-        <text>For Law 17-353, see notes following § 6-201.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-1041.04.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-353 validated a previously made technical correction in the section heading.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-275</heading>
+      <text>For Law 16-275, see notes following § 6-1041.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 6-201.</text>
     </level>
   </level>
 </level>

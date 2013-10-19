@@ -1,7 +1,6 @@
 <level type="section">
   <num>50-2003</num>
   <heading>Insurance discounts.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-493</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>All insurance companies authorized to sell motor vehicle insurance in the District of Columbia shall provide a discount in the amount charged for a motor vehicle insurance policy to individuals 55 years of age and older who have successfully completed an approved course.</text>
@@ -22,22 +21,18 @@
     <num>(e)</num>
     <text>An individual shall complete an approved course every 2 years in order to continue to be eligible for a discount in the premiums of a motor vehicle policy of insurance provided pursuant to subsection (b) of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 9, 1983, D.C. Law 5-46, §§ 5, 6, 30 DCR 5638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-493.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-46, see Historical and Statutory Notes following § 50-2001.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-493.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-46</heading>
+      <text>For legislative history of D.C. Law 5-46, see Historical and Statutory Notes following § 50-2001.</text>
     </level>
   </level>
 </level>

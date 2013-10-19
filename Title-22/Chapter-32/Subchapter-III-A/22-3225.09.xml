@@ -1,7 +1,6 @@
 <level type="section">
   <num>22-3225.09</num>
   <heading>Insurance fraud prevention and detection.</heading>
-  <formerly-cited-as>DC ST 1981 § 22-3825.9</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Within 6 months of April 27, 1999, every insurer licensed in the District shall submit to the Department of Insurance and Securities Regulation, an insurance fraud prevention and detection plan ("plan"). The plan shall indicate specific procedures for the accomplishment of the following:</text>
@@ -43,22 +42,18 @@
     <num>(e)</num>
     <text>None of the requirements of this section shall be deemed to apply to reinsurers, reinsurance contracts, reinsurance agreements, or reinsurance claims transactions.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 1, 1982, D.C. Law 4-164, § 125i, as added Apr. 27, 1999, D.C. Law 12-273, § 2, 46 DCR 1132.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 22-3825.9.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-273, see Historical and Statutory Notes following § 22-3225.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 22-3825.9.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-273</heading>
+      <text>For legislative history of D.C. Law 12-273, see Historical and Statutory Notes following § 22-3225.01.</text>
     </level>
   </level>
 </level>

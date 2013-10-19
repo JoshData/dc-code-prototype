@@ -1,14 +1,15 @@
 <level type="section">
   <num>38-1806.07</num>
   <heading>Jobs for D.C. Graduates Program.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-2853.67</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">In general.</text> -- The nonprofit corporation shall establish a program, to be known as the "Jobs for D.C. Graduates Program", to assist District of Columbia public schools and public charter schools in organizing and implementing a school-to-work transition system, which system shall give priority to providing assistance to at-risk youths and disadvantaged youths.</text>
+    <heading>In general</heading>
+    <text>The nonprofit corporation shall establish a program, to be known as the "Jobs for D.C. Graduates Program", to assist District of Columbia public schools and public charter schools in organizing and implementing a school-to-work transition system, which system shall give priority to providing assistance to at-risk youths and disadvantaged youths.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Conduct of program.</text> -- In carrying out the program established under subsection (a), the nonprofit corporation, consistent with the policies of the nationally recognized Jobs for America's Graduates, Inc., shall:</text>
+    <heading>Conduct of program</heading>
+    <text>In carrying out the program established under subsection (a), the nonprofit corporation, consistent with the policies of the nationally recognized Jobs for America's Graduates, Inc., shall:</text>
     <level>
       <num>(1)</num>
       <text>Establish performance standards for such program;</text>
@@ -26,18 +27,18 @@
       <text>Provide preservice and inservice training.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 26, 1996, 110 Stat. 1321 [269], Pub. L. 104-134, § 2607.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-2853.67.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-1806.02 and § 38-1806.08.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-2853.67.</text>
     </level>
   </level>
 </level>

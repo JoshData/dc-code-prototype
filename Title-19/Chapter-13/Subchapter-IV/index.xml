@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>IV</num>
-  <heading>Creation, Validity, Modification, and Termination of Trust.</heading>
+  <heading>Creation, Validity, Modification, and Termination of Trust</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="19-1304.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="19-1304.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="19-1304.03.xml"/>

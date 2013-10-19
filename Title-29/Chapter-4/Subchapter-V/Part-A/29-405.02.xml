@@ -33,18 +33,18 @@
     <num>(f)</num>
     <text>The articles of incorporation or bylaws may provide that a special meeting of members does not need to be held at a geographic location if the meeting is held by means of the Internet or other electronic communications technology in a fashion pursuant to which the members have the opportunity to read or hear the proceedings substantially concurrently with their occurrence, vote on matters submitted to the members, pose questions, and make comments.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-405.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

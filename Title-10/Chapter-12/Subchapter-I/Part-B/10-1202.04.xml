@@ -1,7 +1,6 @@
 <level type="section">
   <num>10-1202.04</num>
   <heading>Limitations on Authority's powers.</heading>
-  <formerly-cited-as>DC ST 1981 § 9-805</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Authority may not adopt an inducement resolution or a resolution authorizing a bond issuance, except for the purpose of refinancing, refunding, or reissuing bonds, unless the proposal has been submitted to the Council for a 30-day review period, excluding Saturdays, Sundays, holidays, and days of Council recess. If, during the 30-day review period, the Council does not adopt a resolution disapproving the submitted proposal, the Authority may take action to implement the proposal. In the event a proposal is disapproved, the Council shall state the reasons for disapproval in the disapproval resolution. The Authority may modify the proposal to address the concerns of the Council, and resubmit the proposal, as modified, for an additional 30-day review period excluding Saturdays, Sundays, holidays, and days of Council recess.</text>
@@ -148,50 +147,65 @@
       <text>The Fund shall be maintained in a separate segregated interest-bearing account by the Mayor.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 28, 1994, D.C. Law 10-188, § 204, 41 DCR 5333; Apr. 3, 2001, D.C. Law 13-255, § 2, 48 DCR 727; Sept. 19, 2006, D.C. Law 16-163, § 114(b), 53 DCR 5430; Apr. 15, 2008, D.C. Law 17-144, § 3(b), 55 DCR 2527; Oct. 22, 2009, D.C. Law 18-78, § 2(b), 56 DCR 6959; Mar. 3, 2010, D.C. Law 18-111, § 2081(f), 57 DCR 181.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 9-805.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-255 added subsec. (l).</text>
-        <text>D.C. Law 17-144, in subsec. (a-1)(1)(B), deleted "and the expansion of the new convention center" following "hotel".</text>
-        <text>D.C. Law 18-78, in subsec. (a-1)(2)(C), substituted "property of the Authority (including lease payments assigned to the Authority pursuant to § 10-1202.22)" for "property of the Authority".</text>
-        <text>D.C. Law 18-111, in subsec. (b), substituted "Washington Convention Center Fund" for "Washington Convention Center Authority Fund".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 114(b) of New Convention Center Hotel Omnibus Financing and Development Emergency Act of 2006 (D.C. Act 16-404, June 26, 2006, 53 DCR 5404).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of New Convention Center Hotel Emergency Amendment Act of 2009 (D.C. Act 18-186, August 12, 2009, 56 DCR 6967).</text>
-        <text>For temporary (90 day) amendment of section, see § 2081(f) of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
-        <text>For temporary (90 day) amendment of section, see § 2081(f) of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-188, see Historical and Statutory Notes following § 10-1201.01.</text>
-        <text>Law 13-255, the "Convention Center Authority Shaw Community Development Fund Amendment Act of 2000", was introduced in Council and assigned Bill No. 13-680, which was referred to the Committee on Economic Development. The Bill was adopted on first and second readings on November 8, 2000, and December 5, 2000, respectively. Signed by the Mayor on December 22, 2000, it was assigned Act No. 13-542 and transmitted to both Houses of Congress for its review. D.C. Law 13-255 became effective on April 3, 2001.</text>
-        <text>For Law 16-163, see notes following § 10-1202.01.</text>
-        <text>For Law 17-144, see notes following § 10-1202.01.</text>
-        <text>For Law 18-78, see notes following § 10-1202.01.</text>
-        <text>For Law 18-111, see notes following § 10-303.</text>
-      </level>
-      <level>
-        <heading>Resolutions</heading>
-        <text>Resolution 15-95, the "Shaw Community Development Fund Approval Resolution of 2003", was approved effective May 6, 2003.</text>
-        <text>Resolution 15-371, the "Transfer of Site Control of the Old Washington Convention Center Property to the Washington Convention Center Authority Approval Resolution of 2003", was approved effective December 16, 2003.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Washington Convention Center Authority Dedicated Tax Revenue Bond Resolution of 1998: Pursuant to Resolution 12-591, effective July 7, 1998, the Council approved the Washington Convention Center Authority's proposal for the issuance of Dedicated Tax Revenue Bonds to finance a New Convention Center and to authorize an increase in the capital replacement reserve and the operating reserve.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-223.01, § 10-1202.02, § 10-1202.03, § 10-1202.06, § 10-1202.08, and § 10-1202.10.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 9-805.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-255 added subsec. (l).</text>
+      <text>D.C. Law 17-144, in subsec. (a-1)(1)(B), deleted "and the expansion of the new convention center" following "hotel".</text>
+      <text>D.C. Law 18-78, in subsec. (a-1)(2)(C), substituted "property of the Authority (including lease payments assigned to the Authority pursuant to § 10-1202.22)" for "property of the Authority".</text>
+      <text>D.C. Law 18-111, in subsec. (b), substituted "Washington Convention Center Fund" for "Washington Convention Center Authority Fund".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 114(b) of New Convention Center Hotel Omnibus Financing and Development Emergency Act of 2006 (D.C. Act 16-404, June 26, 2006, 53 DCR 5404).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of New Convention Center Hotel Emergency Amendment Act of 2009 (D.C. Act 18-186, August 12, 2009, 56 DCR 6967).</text>
+      <text>For temporary (90 day) amendment of section, see § 2081(f) of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
+      <text>For temporary (90 day) amendment of section, see § 2081(f) of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-188</heading>
+      <text>For legislative history of D.C. Law 10-188, see Historical and Statutory Notes following § 10-1201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-255</heading>
+      <text>Law 13-255, the "Convention Center Authority Shaw Community Development Fund Amendment Act of 2000", was introduced in Council and assigned Bill No. 13-680, which was referred to the Committee on Economic Development. The Bill was adopted on first and second readings on November 8, 2000, and December 5, 2000, respectively. Signed by the Mayor on December 22, 2000, it was assigned Act No. 13-542 and transmitted to both Houses of Congress for its review. D.C. Law 13-255 became effective on April 3, 2001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-163</heading>
+      <text>For Law 16-163, see notes following § 10-1202.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-144</heading>
+      <text>For Law 17-144, see notes following § 10-1202.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-78</heading>
+      <text>For Law 18-78, see notes following § 10-1202.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-111</heading>
+      <text>For Law 18-111, see notes following § 10-303.</text>
+    </level>
+    <level>
+      <heading>Resolutions</heading>
+      <text>Resolution 15-95, the "Shaw Community Development Fund Approval Resolution of 2003", was approved effective May 6, 2003.</text>
+      <text>Resolution 15-371, the "Transfer of Site Control of the Old Washington Convention Center Property to the Washington Convention Center Authority Approval Resolution of 2003", was approved effective December 16, 2003.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Washington Convention Center Authority Dedicated Tax Revenue Bond Resolution of 1998: Pursuant to Resolution 12-591, effective July 7, 1998, the Council approved the Washington Convention Center Authority's proposal for the issuance of Dedicated Tax Revenue Bonds to finance a New Convention Center and to authorize an increase in the capital replacement reserve and the operating reserve.</text>
     </level>
   </level>
 </level>

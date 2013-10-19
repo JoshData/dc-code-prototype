@@ -28,38 +28,47 @@
     <num>(d)</num>
     <text>The plan developed by APRA pursuant to subsection (c) of this section shall be submitted by the Mayor to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed plan, in whole or in part, by resolution within this 45-day review period, the proposed plan shall be deemed approved.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 18, 2000, D.C. Law 13-146, § 5, 47 DCR 4350; Oct. 3, 2001, D.C. Law 14-28, § 4202, 48 DCR 6981; Mar. 13, 2004, D.C. Law 15-105, § 50, 51 DCR 881; Aug. 16, 2008, D.C. Law 17-219, § 5002(b), 55 DCR 7598.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-28, in subsec. (a), designated par. (1), inserted "as a nonlapsing, revolving fund" before "established" in the first sentence of par. (1), and added par. (2).</text>
-        <text>D.C. Law 15-105, in subsec. (a)(1), validated a previously made technical correction.</text>
-        <text>D.C. Law 17-219, in subsecs. (a) and (b), inserted "Except as provided in subsection (a-1) of this section,"; and added subsec. (a-1).</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 2(b) of D.C. Law 17-142, in subsec. (a), substituted "Except as provided in subsection (a-1) of this section, the Fund shall be comprised" for "The Fund shall be comprised"; in subsec. (b), substituted "Except as provided in subsection (a-1) of this section, the Fund shall be used only for" for "The Fund shall be used only for"; and added subsec. (a-1) to read as follows:</text>
-        <text>"(a-1) There is established within the Fund a segregated account to be known as the ATR Account, into which shall be deposited the federal grant funds awarded to APRA for ATR, to be expended solely for the purposes of ATR, in accordance with federal requirements and regulations promulgated to implement this act."</text>
-        <text>Section 4(b) of D.C. Law 17-142 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 3802 of Fiscal Year 2002 Budget Support Emergency Act of 2001 (D.C. Act 14-124, August 3, 2001, 48 DCR 7861).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Choice in Drug Treatment Emergency Amendment Act of 2008 (D.C. Act 17-280, January 29, 2008, 55 DCR 1534).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-146, see notes following § 7-3001.</text>
-        <text>For Law 14-28, see notes following § 7-1203.01.</text>
-        <text>For Law 15-105, see notes following § 7-136.</text>
-        <text>For Law 17-219, see notes following § 7-651.17.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-3015.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-28, in subsec. (a), designated par. (1), inserted "as a nonlapsing, revolving fund" before "established" in the first sentence of par. (1), and added par. (2).</text>
+      <text>D.C. Law 15-105, in subsec. (a)(1), validated a previously made technical correction.</text>
+      <text>D.C. Law 17-219, in subsecs. (a) and (b), inserted "Except as provided in subsection (a-1) of this section,"; and added subsec. (a-1).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 2(b) of D.C. Law 17-142, in subsec. (a), substituted "Except as provided in subsection (a-1) of this section, the Fund shall be comprised" for "The Fund shall be comprised"; in subsec. (b), substituted "Except as provided in subsection (a-1) of this section, the Fund shall be used only for" for "The Fund shall be used only for"; and added subsec. (a-1) to read as follows:</text>
+      <text>"(a-1) There is established within the Fund a segregated account to be known as the ATR Account, into which shall be deposited the federal grant funds awarded to APRA for ATR, to be expended solely for the purposes of ATR, in accordance with federal requirements and regulations promulgated to implement this act."</text>
+      <text>Section 4(b) of D.C. Law 17-142 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 3802 of Fiscal Year 2002 Budget Support Emergency Act of 2001 (D.C. Act 14-124, August 3, 2001, 48 DCR 7861).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Choice in Drug Treatment Emergency Amendment Act of 2008 (D.C. Act 17-280, January 29, 2008, 55 DCR 1534).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-146</heading>
+      <text>For Law 13-146, see notes following § 7-3001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-28</heading>
+      <text>For Law 14-28, see notes following § 7-1203.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>For Law 15-105, see notes following § 7-136.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-219</heading>
+      <text>For Law 17-219, see notes following § 7-651.17.</text>
     </level>
   </level>
 </level>

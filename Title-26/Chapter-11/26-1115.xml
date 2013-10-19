@@ -1,7 +1,6 @@
 <level type="section">
   <num>26-1115</num>
   <heading>Escrow accounts.</heading>
-  <formerly-cited-as>DC ST 1981 § 26-1015</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>All moneys required by a mortgage lender to be paid by borrowers in escrow to defray future taxes or insurance premiums, or for other lawful purposes, shall be kept in accounts segregated from accounts of the mortgage lender, and shall not be commingled with other funds of the mortgage lender.</text>
@@ -14,22 +13,18 @@
     <num>(c)</num>
     <text>No licensed mortgage lender shall require any borrower to pay any money in escrow to defray future taxes and insurance premiums, or for any other purposes, in connection with a subordinate mortgage loan, except where escrows for such purposes are not being maintained in connection with the mortgage loan superior to such subordinate mortgage loans.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 9, 1996, D.C. Law 11-155, § 16, 43 DCR 4213.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 26-1015.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-155, see Historical and Statutory Notes following § 26-1101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 26-1015.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-155</heading>
+      <text>For legislative history of D.C. Law 11-155, see Historical and Statutory Notes following § 26-1101.</text>
     </level>
   </level>
 </level>

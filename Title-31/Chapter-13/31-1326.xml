@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1326</num>
   <heading>Voidable preferences and liens.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-2826</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -110,22 +109,22 @@
       <text>Nothing in this subsection shall prejudice any other claim by the liquidator against any person.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 15, 1993, D.C. Law 10-35, § 27, 40 DCR 5773.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-2826.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-35, see Historical and Statutory Notes following § 31-1301.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1324.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-2826.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-35</heading>
+      <text>For legislative history of D.C. Law 10-35, see Historical and Statutory Notes following § 31-1301.</text>
     </level>
   </level>
 </level>

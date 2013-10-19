@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Judicial Proceedings.</heading>
+  <heading>Judicial Proceedings</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="19-1302.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="19-1302.02.xml"/>
 </level>

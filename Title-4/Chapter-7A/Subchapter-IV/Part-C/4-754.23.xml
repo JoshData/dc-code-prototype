@@ -3,31 +3,29 @@
   <heading>Additional standards for providers of low barrier shelter.</heading>
   <text>In addition to the requirements in §§ 4-754.21 and 4-754.22, providers of low barrier shelter shall provide:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Case management services with an appropriately trained, qualified, and supervised case manager, which shall include the development of a service plan;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Hot shower facilities; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Personal hygiene supplies.</text>
-    </level>
+    <num>(1)</num>
+    <text>Case management services with an appropriately trained, qualified, and supervised case manager, which shall include the development of a service plan;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Hot shower facilities; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Personal hygiene supplies.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2005, D.C. Law 16-35, § 14, 52 DCR 8113.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-35, see notes following § 4-751.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-754.24 and § 4-754.25.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-35</heading>
+      <text>For Law 16-35, see notes following § 4-751.01.</text>
     </level>
   </level>
 </level>

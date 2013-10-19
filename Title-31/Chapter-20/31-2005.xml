@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-2005</num>
   <heading>Authorized Control Level Event.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-4605</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For the purposes of this chapter, the term "Authorized Control Level Event" means any of the following events:</text>
@@ -38,22 +37,22 @@
       <text>If the Commissioner deems it to be in the best interests of the policyholders and creditors of the insurer and of the public, take such actions as are necessary to cause the insurer to be placed under regulatory control under Chapter 13 of this title. In the event the Commissioner takes such actions, the Authorized Control Level Event shall be deemed sufficient grounds for the Commissioner to take action under Chapter 13 of this title, and the Commissioner shall have the rights, powers, and duties with respect to the insurer as are set forth in Chapter 13 of this title. In the event the Commissioner takes actions under this paragraph pursuant to an Adjusted RBC Report, the insurer shall be entitled to such projections as are afforded to insurers under the provisions of Chapter 13 of this title pertaining to summary proceedings.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 9, 1997, D.C. Law 11-233, § 6, 44 DCR 765.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-4605.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-233, see Historical and Statutory Notes following § 31-2001.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-2013.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-4605.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-233</heading>
+      <text>For legislative history of D.C. Law 11-233, see Historical and Statutory Notes following § 31-2001.</text>
     </level>
   </level>
 </level>

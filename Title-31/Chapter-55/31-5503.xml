@@ -1,38 +1,35 @@
 <level type="section">
   <num>31-5503</num>
   <heading>Creation of the Association.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-3903</formerly-cited-as>
   <text>There is created a nonprofit unincorporated legal entity to be known as the District of Columbia Insurance Guaranty Association. All insurers defined as member insurers in § 31-5501(9) shall be and remain members of the Association as a condition of their authority to transact insurance in the District. The Association shall perform its functions under a plan of operation established and approved under § 31-5506 and shall exercise its powers through a board of directors established under § 31-5504. For purposes of administration and assessment, the Association shall be divided into 3 separate accounts:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The workmen's compensation insurance account;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The automobile insurance account; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The account for all other insurance to which this chapter applies.</text>
-    </level>
+    <num>(1)</num>
+    <text>The workmen's compensation insurance account;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The automobile insurance account; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The account for all other insurance to which this chapter applies.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 21, 1993, D.C. Law 10-51, § 4, 40 DCR 6120.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-3903.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-51, see Historical and Statutory Notes following § 31-5501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-5501.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-3903.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-51</heading>
+      <text>For legislative history of D.C. Law 10-51, see Historical and Statutory Notes following § 31-5501.</text>
     </level>
   </level>
 </level>

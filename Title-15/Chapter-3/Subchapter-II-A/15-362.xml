@@ -3,43 +3,37 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Foreign country" means a government other than:</text>
     <level>
-      <num>(1)</num>
-      <text>"Foreign country" means a government other than:</text>
-      <level>
-        <num>(A)</num>
-        <text>The United States;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The District of Columbia, a state, district, commonwealth, territory, or insular possession of the United States; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Any other government with regard to which the decision in the District of Columbia as to whether to recognize a judgment of that government's courts is initially subject to determination under the Full Faith and Credit Clause of the United States Constitution.</text>
-      </level>
+      <num>(A)</num>
+      <text>The United States;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Foreign-country judgment" means a judgment of a court of a foreign country.</text>
+      <num>(B)</num>
+      <text>The District of Columbia, a state, district, commonwealth, territory, or insular possession of the United States; or</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Any other government with regard to which the decision in the District of Columbia as to whether to recognize a judgment of that government's courts is initially subject to determination under the Full Faith and Credit Clause of the United States Constitution.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Foreign-country judgment" means a judgment of a court of a foreign country.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 24, 2012, D.C. Law 19-86, § 2(b), 58 DCR 11186.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-86, see notes under § 15-361.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 2 of the Uniform Foreign-Country Money Judgments Recognition Act. See Vol. 13, Part II, Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 19-86</heading>
+      <text>For history of Law 19-86, see notes under § 15-361.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 2 of the Uniform Foreign-Country Money Judgments Recognition Act.</text>
     </level>
   </level>
 </level>

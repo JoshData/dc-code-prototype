@@ -1,7 +1,6 @@
 <level type="section">
   <num>4-1302.02</num>
   <heading>Information to be retained.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-2112</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There shall be retained in the Child Protection Register the following information concerning each substantiated and inconclusive report:</text>
@@ -62,43 +61,48 @@
     <num>(e)</num>
     <text>The public agencies responsible for receiving reports, making investigations and providing or securing case management shall be responsible for supplying the information required under this section to the Child Protection Register on a timely basis.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 23, 1977, D.C. Law 2-2, title II, § 202, 24 DCR 3341; Oct. 19, 2002, D.C. Law 14-206, § 2(h), 49 DCR 7815.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-2112.</text>
-        <text>1973 Ed., § 6-2112.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-206, in subsec. (a), substituted "concerning each substantiated and inconclusive report:" for "concerning each supported report:"; and repealed subsec. (c). Prior to repeal, subsec. (c) had read as follows:</text>
-        <text>"(c) Information in an unsupported report shall be retained in a separate index in which all information that could identify any person referred to in the unsupported report shall be destroyed."</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 3(b) of Improved Child Abuse Investigations Technical Temporary Amendment Act of 2002 (D.C. Law 14- 240, March 25, 2003, law notification 50 DCR 2753).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) delay of the applicability of provisions changing the manner in which the Child and Family Services Agency will process reports of child abuse and neglect, see § 3 of Improved Child Abuse Investigations Technical Emergency Amendment Act of 2002 (D.C. Act 14-494, October 23, 2002, 49 DCR 9781).</text>
-        <text>For temporary (90 day) delay of the applicability of provisions changing the manner in which the Child and Family Services Agency will process reports of child abuse and neglect, see § 3 of Improved Child Abuse Investigations Technical Congressional Review Emergency Amendment Act of 2002 (D.C. Act 14- 603, January 7, 2003, 50 DCR 687).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 4-1301.02.</text>
-        <text>For Law 14-206, see notes following § 4-1301.02.</text>
-        <text>Law 14-310, the "Criminal Code and Miscellaneous Technical Amendments Act of 2002", was introduced in Council and assigned Bill No. 14-954, which was referred to the Committee on Whole. The Bill was adopted on first and second readings on December 3, 2002, and December 17, 2002, respectively. Signed by the Mayor on January 22, 2003, it was assigned Act No. 14-622 and transmitted to both Houses of Congress for its review. D.C. Law 14-310 became effective on June 12, 2003.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Application of Law 14-206: Section 16(b) of D.C. Law 14-310 provides that section 2(a)(2), (4), (5), (6), and (7), (b), (c), (d), (e), (h), (i), (j), (k), and (l) of D.C. Law 14-206 shall apply as of October 1, 2003.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-1302.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-2112.</text>
+      <text>1973 Ed., § 6-2112.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-206, in subsec. (a), substituted "concerning each substantiated and inconclusive report:" for "concerning each supported report:"; and repealed subsec. (c). Prior to repeal, subsec. (c) had read as follows: "(c) Information in an unsupported report shall be retained in a separate index in which all information that could identify any person referred to in the unsupported report shall be destroyed."</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 3(b) of Improved Child Abuse Investigations Technical Temporary Amendment Act of 2002 (D.C. Law 14-240, March 25, 2003, law notification 50 DCR 2753).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) delay of the applicability of provisions changing the manner in which the Child and Family Services Agency will process reports of child abuse and neglect, see § 3 of Improved Child Abuse Investigations Technical Emergency Amendment Act of 2002 (D.C. Act 14-494, October 23, 2002, 49 DCR 9781).</text>
+      <text>For temporary (90 day) delay of the applicability of provisions changing the manner in which the Child and Family Services Agency will process reports of child abuse and neglect, see § 3 of Improved Child Abuse Investigations Technical Congressional Review Emergency Amendment Act of 2002 (D.C. Act 14-603, January 7, 2003, 50 DCR 687).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-22</heading>
+      <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 4-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-206</heading>
+      <text>For Law 14-206, see notes following § 4-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-310</heading>
+      <text>Law 14-310, the "Criminal Code and Miscellaneous Technical Amendments Act of 2002", was introduced in Council and assigned Bill No. 14-954, which was referred to the Committee on Whole. The Bill was adopted on first and second readings on December 3, 2002, and December 17, 2002, respectively. Signed by the Mayor on January 22, 2003, it was assigned Act No. 14-622 and transmitted to both Houses of Congress for its review. D.C. Law 14-310 became effective on June 12, 2003.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 14-206: Section 16(b) of D.C. Law 14-310 provided that section 2(a)(2), (4), (5), (6), and (7), (b), (c), (d), (e), (h), (i), (j), (k), and (l) of D.C. Law 14-206 shall apply as of October 1, 2003.</text>
     </level>
   </level>
 </level>

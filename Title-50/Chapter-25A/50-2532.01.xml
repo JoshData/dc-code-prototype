@@ -19,7 +19,7 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>Pursuant to § 50-2531 (d)(1), the Mayor shall adjust fees to achieve 10% to 20% availability of curbside parking spaces.</text>
+    <text>Pursuant to § 50-2531(d)(1), the Mayor shall adjust fees to achieve 10% to 20% availability of curbside parking spaces.</text>
   </level>
   <level>
     <num>(f)</num>
@@ -29,26 +29,24 @@
     <num>(g)</num>
     <text>Within the first 30 days of September 14, 2011, the Mayor may issue warning citations for curbside parking violations related to the pilot program in the zone.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>((Nov. 25, 2008, D.C. Law 17-279, § 3a, as added Sept. 14, 2011, D.C. Law 19-21, § 6083(c), 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 6042(c), 59 DCR 8025; Sept. 26, 2012, D.C. Law 19-171, § 145, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-168 rewrote subsec. (a), which formerly read:</text>
-        <text>"(a) The H Street N.E. Performance Parking Pilot Zone is designated as the area bounded by I Street, N.E., on the north, 15th Street, N.E., on the east, 3rd Street, N.E., on the west, and G Street, N.E., on the south, including both sides of these boundary streets."</text>
-        <text>D.C. Law 19-171, in the section heading, validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-21, see notes under § 50-231.</text>
-        <text>For history of Law 19-168, see notes under § 50-320.</text>
-        <text>For history of Law 19-171, see notes under § 50-921.02.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-168 rewrote (a).</text>
+      <text>The 2012 amendment by D.C. Law 19-171 validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 50-231.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>See note to § 50-2531.</text>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
     </level>
   </level>
 </level>

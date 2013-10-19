@@ -3,31 +3,25 @@
   <heading>Proper plaintiff.</heading>
   <text>A derivative action shall be maintained only by a person that is a partner at the time the action is commenced and:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>That was a partner when the conduct giving rise to the action occurred; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Whose status as a partner devolved upon the person by operation of law or pursuant to the terms of the partnership agreement from a person that was a partner at the time of the conduct.</text>
-    </level>
+    <num>(1)</num>
+    <text>That was a partner when the conduct giving rise to the action occurred; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Whose status as a partner devolved upon the person by operation of law or pursuant to the terms of the partnership agreement from a person that was a partner at the time of the conduct.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 1003 of the Uniform Limited Partnership Act (2001 Act). See Vol. 6A , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 1003 of the Uniform Limited Partnership Act (2001 Act).</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,10 @@
 <level type="section">
   <num>28-3819</num>
   <heading>Rental housing locators.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-3819</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Definitions.</text> -- As used in this section the term or terms:</text>
+    <heading>Definitions</heading>
+    <text>As used in this section the term or terms:</text>
     <level>
       <num>(1)</num>
       <text>"Fee" means any fee, commission, charge, deposit, down payment or other valuable consideration, including any fee or charge for a credit check or consultation.</text>
@@ -28,7 +28,11 @@
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Accuracy of information.</text> -- (1) Every rental housing locator shall revise and correct all information to be provided pursuant to a rental housing locator contract or otherwise made available to any customer, potential customer, or the general public, every 24 hours for rental units it advertises and every 48 hours for rental units it does not advertise, or else remove such units from its lists and discontinue the advertising of such units.</text>
+    <heading>Accuracy of information</heading>
+    <level>
+      <num>(1)</num>
+      <text>Every rental housing locator shall revise and correct all information to be provided pursuant to a rental housing locator contract or otherwise made available to any customer, potential customer, or the general public, every 24 hours for rental units it advertises and every 48 hours for rental units it does not advertise, or else remove such units from its lists and discontinue the advertising of such units.</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>A rental housing locator shall identify as available for rent or provide other information about a rental unit only if the locator has been given permission to do so by the owner/manager of the unit, or the rental unit has been advertised, posted, or otherwise publicly offered or held out as available for rent, by the owner/manager of the rental unit.</text>
@@ -40,7 +44,11 @@
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Contracts.</text> -- (1) Contracts between the rental housing locator agency and the customer shall be written, and a copy of the contract shall be supplied to the customer.</text>
+    <heading>Contracts</heading>
+    <level>
+      <num>(1)</num>
+      <text>Contracts between the rental housing locator agency and the customer shall be written, and a copy of the contract shall be supplied to the customer.</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>The contract shall clearly state the duration of the locator service contract.</text>
@@ -56,31 +64,42 @@
         <num>(A)</num>
         <text>The first clause shall read as follows:</text>
       </level>
-      <text>SAVE THIS DOCUMENT AND ANY RENTAL HOUSING LISTINGS PROVIDED TO YOU. WE ARE AN INFORMATION SERVICE ONLY. WE MAKE NO ATTEMPT TO SECURE YOU HOUSING. THE SERVICE OFFERS ONLY COMPILED INFORMATION CONCERNING AVAILABLE RENTAL HOUSING UNITS. NO GUARANTEE IS MADE THAT YOU WILL FIND RENTAL PROPERTY BY USING THIS SERVICE. YOU MAY BE ENTITLED TO A REFUND IF ANY OF THE RENTAL HOUSING INFORMATION PROVIDED TO YOU IS NOT CURRENT, ACCURATE OR OTHERWISE NOT IN COMPLIANCE WITH THE LAW; and</text>
-      <level>
-        <num>(B)</num>
-        <text>The second clause shall state that all inquiries should be made to the District of Columbia Office of Consumer Protection followed by the current address, telephone number, and hours of that office.</text>
-      </level>
     </level>
   </level>
+  <text>SAVE THIS DOCUMENT AND ANY RENTAL HOUSING LISTINGS PROVIDED TO YOU. WE ARE AN INFORMATION SERVICE ONLY. WE MAKE NO ATTEMPT TO SECURE YOU HOUSING. THE SERVICE OFFERS ONLY COMPILED INFORMATION CONCERNING AVAILABLE RENTAL HOUSING UNITS. NO GUARANTEE IS MADE THAT YOU WILL FIND RENTAL PROPERTY BY USING THIS SERVICE. YOU MAY BE ENTITLED TO A REFUND IF ANY OF THE RENTAL HOUSING INFORMATION PROVIDED TO YOU IS NOT CURRENT, ACCURATE OR OTHERWISE NOT IN COMPLIANCE WITH THE LAW; and</text>
   <level>
-    <type>annotations</type>
+    <num>(B)</num>
+    <text>The second clause shall state that all inquiries should be made to the District of Columbia Office of Consumer Protection followed by the current address, telephone number, and hours of that office.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 21, 1980, D.C. Law 3-71, § 2, 27 DCR 1891; Apr. 9, 1997, D.C. Law 11-255, § 27(t), 44 DCR 1271; Apr. 20, 1999, D.C. Law 12-261, § 2003(t), 46 DCR 3142.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-3819.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 3-71, the "Rental Housing Locator Consumer Protection Act of 1979," was introduced in Council and assigned Bill No. 3-124, which was referred to the Committee on Housing and Economic Development. The Bill was adopted on first and second readings on March 18, 1980 and April 1, 1980, respectively. Signed by the Mayor on May 1, 1980, it was assigned Act No. 3-179 and transmitted to both Houses of Congress for its review.</text>
-        <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 28-3802.</text>
-        <text>Law 12-261, the "Second Omnibus Regulatory Reform Amendment Act of 1998," was introduced in Council and assigned Bill No. 12-845, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on December 1, 1998, and December 15, 1998, respectively. Signed by the Mayor on December 31, 1998, it was assigned Act No. 12-615 and transmitted to both Houses of Congress for its review. D.C. Law 12-261 became effective on April 20, 1999.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Consumer protection procedures, restraining prohibited acts, see § 28-3909.</text>
+      <text>Consumer protection procedures, unlawful trade practices, see § 28-3904.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28-3904 and § 28-3909.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-3819.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-71</heading>
+      <text>Law 3-71, the "Rental Housing Locator Consumer Protection Act of 1979," was introduced in Council and assigned Bill No. 3-124, which was referred to the Committee on Housing and Economic Development. The Bill was adopted on first and second readings on March 18, 1980 and April 1, 1980, respectively. Signed by the Mayor on May 1, 1980, it was assigned Act No. 3-179 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 28-3802.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-261</heading>
+      <text>Law 12-261, the "Second Omnibus Regulatory Reform Amendment Act of 1998," was introduced in Council and assigned Bill No. 12-845, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on December 1, 1998, and December 15, 1998, respectively. Signed by the Mayor on December 31, 1998, it was assigned Act No. 12-615 and transmitted to both Houses of Congress for its review. D.C. Law 12-261 became effective on April 20, 1999.</text>
     </level>
   </level>
 </level>

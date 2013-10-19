@@ -1,7 +1,6 @@
 <level type="section">
   <num>44-1203</num>
   <heading>Establishment of substance abuse treatment facility.</heading>
-  <formerly-cited-as>DC ST 1981 § 32-1603</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Within one year from March 15, 1990, the Mayor shall establish a comprehensive substance abuse treatment facility to provide residential and outpatient treatment for persons who suffer from substance abuse, regardless of a person's ability to pay.</text>
@@ -22,22 +21,22 @@
     <num>(e)</num>
     <text>The treatment facility shall be subject to the certification requirements established by § 44-1204.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 15, 1990, D.C. Law 8-80, § 4, 36 DCR 8469.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-1603.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-80, see Historical and Statutory Notes following § 44-1201.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 44-1201, § 44-1203.01, and § 44-1207.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-1603.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-80</heading>
+      <text>For legislative history of D.C. Law 8-80, see Historical and Statutory Notes following § 44-1201.</text>
     </level>
   </level>
 </level>

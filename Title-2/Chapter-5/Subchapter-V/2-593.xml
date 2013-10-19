@@ -29,18 +29,14 @@
     <num>(c)</num>
     <text>The Open Government Office may issue advisory opinions on implementation of subchapter II of this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>((Oct. 21, 1968, Pub. L. 90-614, title IV, § 503, as added Mar. 31, 2011, D.C. Law 18-350, § 2, 58 DCR 734.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-350, see notes under § 2-591.</text>
-      </level>
+      <heading>Legislative History of Law 18-350</heading>
+      <text>For history of Law 18-350, see notes under § 2-591.</text>
     </level>
   </level>
 </level>

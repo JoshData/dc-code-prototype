@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>19</num>
-  <heading>Juries and Jurors.</heading>
-  <level>
-    <text>DC CODE D. II, T. 11, Ch. 19, Refs &amp; Annos</text>
-  </level>
+  <heading>Juries and Jurors</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1901.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1902.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1903.xml"/>

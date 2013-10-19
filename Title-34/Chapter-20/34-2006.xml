@@ -1,7 +1,6 @@
 <level type="section">
   <num>34-2006</num>
   <heading>Exemptions.</heading>
-  <formerly-cited-as>DC ST 1981 § 43-1456</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>This chapter shall not apply to cable television services performed pursuant to an existing cable television franchise agreement with the District of Columbia which is in effect on September 9, 1996. To the extent that a cable television company seeks to provide local exchange services within the District of Columbia, such company shall be regulated under the provisions of this chapter for their local exchange services.</text>
@@ -30,31 +29,30 @@
       <text>Alter the Commission's existing authority over the regulation of circuit-switched local exchange services in the District of Columbia.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 9, 1996, D.C. Law 11-154, § 7, 43 DCR 3736; June 5, 2008, D.C. Law 17-165, § 3(c), 55 DCR 5171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 43-1456.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-165 added subsec. (c).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-154, see Historical and Statutory Notes following § 34-2001.</text>
-        <text>For Law 17-165, see notes following § 34-403.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>The federal Telecommunications Act of 1996, referred to in (b), is Pub. L. 104- 104, which is codified throughout Title 47 of the United States Code.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 43-1456.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-165 added subsec. (c).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-154</heading>
+      <text>For legislative history of D.C. Law 11-154, see Historical and Statutory Notes following § 34-2001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-165</heading>
+      <text>For Law 17-165, see notes following § 34-403.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>The federal Telecommunications Act of 1996, referred to in (b), is Pub. L. 104-104, which is codified throughout Title 47 of the United States Code.</text>
     </level>
   </level>
 </level>

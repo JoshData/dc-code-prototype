@@ -1,70 +1,67 @@
 <level type="section">
   <num>3-513</num>
   <heading>Exceptions.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-2733</formerly-cited-as>
   <text>Nothing in this subchapter shall be construed as applying to:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>An employee or agent of the federal or District governments while performing his or her official duties; except, that no such employee may be authorized to perform surgical operations;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>A member of the faculty of a school of veterinary medicine while performing his or her regular functions, or a person lecturing or giving instructions or demonstrations at a veterinary school in connection with a continuing education course;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Experimentation and scientific research in connection with the study and the development of methods and techniques, directly or indirectly related or applicable to the problems or to the practice of veterinary medicine, when conducted under the auspices of the federal or District governments;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>A physician licensed to practice medicine in the District or to the licensed physician's assistant while engaged in educational research under the direct supervision of the licensed veterinarian;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>A person who is a regular student in a school of veterinary medicine performing duties or actions assigned by his or her instructor, or working under direct supervision of a licensed veterinarian during a school vacation period;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>A veterinarian regularly licensed in any state from consulting with a licensed veterinarian in the District;</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>The owner of an animal, or the owner's full-time regular employee, from caring for and treating the ills and injuries of any animal belonging to such owner, except where the ownership of the animal was transferred for the purpose of circumventing this subchapter;</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>Any merchant or manufacturer from selling, at his or her regular place of business, medicine, feed, appliances, or other products used in the prevention or treatment of animal diseases;</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>Any person selling or applying any pesticide, insecticide, or herbicide;</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>Any person approved by the Mayor to perform animal artificial insemination; or</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>Any person engaging in scientific research which reasonably requires experimentation involving animals covered under the provisions of 7 U.S.C. § 2131 et seq.</text>
-    </level>
+    <num>(1)</num>
+    <text>An employee or agent of the federal or District governments while performing his or her official duties; except, that no such employee may be authorized to perform surgical operations;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>A member of the faculty of a school of veterinary medicine while performing his or her regular functions, or a person lecturing or giving instructions or demonstrations at a veterinary school in connection with a continuing education course;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Experimentation and scientific research in connection with the study and the development of methods and techniques, directly or indirectly related or applicable to the problems or to the practice of veterinary medicine, when conducted under the auspices of the federal or District governments;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>A physician licensed to practice medicine in the District or to the licensed physician's assistant while engaged in educational research under the direct supervision of the licensed veterinarian;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>A person who is a regular student in a school of veterinary medicine performing duties or actions assigned by his or her instructor, or working under direct supervision of a licensed veterinarian during a school vacation period;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>A veterinarian regularly licensed in any state from consulting with a licensed veterinarian in the District;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>The owner of an animal, or the owner's full-time regular employee, from caring for and treating the ills and injuries of any animal belonging to such owner, except where the ownership of the animal was transferred for the purpose of circumventing this subchapter;</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>Any merchant or manufacturer from selling, at his or her regular place of business, medicine, feed, appliances, or other products used in the prevention or treatment of animal diseases;</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>Any person selling or applying any pesticide, insecticide, or herbicide;</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>Any person approved by the Mayor to perform animal artificial insemination; or</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>Any person engaging in scientific research which reasonably requires experimentation involving animals covered under the provisions of 7 U.S.C. § 2131 et seq.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 9, 1983, D.C. Law 4-171, § 14, 29 DCR 5297.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-2733.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-171, see Historical and Statutory Notes following § 3-501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 3-515.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-2733.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-171</heading>
+      <text>For legislative history of D.C. Law 4-171, see Historical and Statutory Notes following § 3-501.</text>
     </level>
   </level>
 </level>

@@ -2,23 +2,22 @@
   <num>50-921.06</num>
   <heading>Delegation and redelegation of authority.</heading>
   <text>Except as provided in § 50-921.04, the Director of DDOT is the successor to all transportation related authority delegated to the Director of the Department of Public Works and is authorized to act, either personally or through a designated representative, as a member of any committees, commissions, boards, or other bodies which presently include as a member the Director of the Department of Public Works.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 21, 2002, D.C. Law 14-137, § 7, 49 DCR 3444; Apr. 13, 2005, D.C. Law 15-354, § 77(b), 52 DCR 2638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-354 substituted "DDOT" for "DOT".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law14-137, see notes following § 50-921.01.</text>
-        <text>For Law 15-354, see notes following § 50-319.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-354 substituted "DDOT" for "DOT".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-137</heading>
+      <text>For Law 14-137, see notes following § 50-921.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 50-319.</text>
     </level>
   </level>
 </level>

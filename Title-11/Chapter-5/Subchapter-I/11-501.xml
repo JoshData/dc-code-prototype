@@ -1,7 +1,6 @@
 <level type="section">
   <num>11-501</num>
   <heading>Civil jurisdiction.</heading>
-  <formerly-cited-as>DC ST 1981 § 11-501</formerly-cited-as>
   <text>In addition to its jurisdiction as a United States district court and any other jurisdiction conferred on it by law, the United States District Court for the District of Columbia has jurisdiction of the following:</text>
   <level>
     <num>(1)</num>
@@ -9,7 +8,7 @@
   </level>
   <level>
     <num>(2)</num>
-    <text>During the eighteen-month period beginning on such effective date, any civil action or other matter which is brought under --</text>
+    <text>During the eighteen-month period beginning on such effective date, any civil action or other matter which is brought under -</text>
     <level>
       <num>(A)</num>
       <text>Chapter 3 of Title 21 (relating to gifts to minors);</text>
@@ -28,16 +27,16 @@
     </level>
     <level>
       <num>(E)</num>
-      <text>Chapter 13 of Title 21 (relating to appointment of committees for alcoholics and addicts); or</text>
+      <text>Chapter 13 of Title 21 (relating to appointment of committees for alcoholics and addicts) [repealed]; or</text>
     </level>
     <level>
       <num>(F)</num>
-      <text>Chapter 15 of Title 21 (relating to appointment of conservators).</text>
+      <text>Chapter 15 of Title 21 (relating to appointment of conservators) [repealed].</text>
     </level>
   </level>
   <level>
     <num>(3)</num>
-    <text>During the thirty-month period beginning on such effective date, any civil action or other matter --</text>
+    <text>During the thirty-month period beginning on such effective date, any civil action or other matter -</text>
     <level>
       <num>(A)</num>
       <text>which is brought under Chapter 29 of Title 16 (relating to partition and assignment of dower);</text>
@@ -79,26 +78,30 @@
     <num>(4)</num>
     <text>Any civil action (other than a matter over which the Superior Court of the District of Columbia has jurisdiction under paragraph (3) or (4) of section 11-921(a)) begun in the court during the thirty-month period beginning on such effective date wherein the amount in controversy exceeds $50,000.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 476, Pub. L. 91-358, title I, § 111.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 11-501.</text>
-        <text>1973 Ed., § 11-501.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>"The effective date of the District of Columbia Court Reorganization Act of 1970," referred to in this section, means, as set forth in § 199(c) of the Act, the first day of the seventh calendar month which began after the enactment of the Act.</text>
-        <text>"Chapter 7 of title 21", referred to in paragraph 2(C), was repealed by § 3 of D.C. Law 6-204, effective February 28, 1987.</text>
-        <text>"Chapter 13 of title 21", referred to in paragraph (2)(E), was repealed by § 3 of D.C. Law 6-204, effective February 28, 1987.</text>
-        <text>"Chapter 15 of title 21", referred to in paragraph (2)(F), was repealed by § 3 of D.C. Law 6-204, effective February 28, 1987.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Claims against the District, definition of court, see § 2-411.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-411, § 11-921, and § 16-601.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 11-501.</text>
+      <text>1973 Ed., § 11-501.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>"The effective date of the District of Columbia Court Reorganization Act of 1970," referred to in this section, means, as set forth in § 199(c) of the Act, the first day of the seventh calendar month which began after the enactment of the Act.</text>
+      <text>"Chapter 7 of title 21", referred to in paragraph 2(C), was repealed by § 3 of D.C. Law 6-204, effective February 28, 1987.</text>
+      <text>"Chapter 13 of title 21", referred to in paragraph (2)(E), was repealed by § 3 of D.C. Law 6-204, effective February 28, 1987.</text>
+      <text>"Chapter 15 of title 21", referred to in paragraph (2)(F), was repealed by § 3 of D.C. Law 6-204, effective February 28, 1987.</text>
     </level>
   </level>
 </level>

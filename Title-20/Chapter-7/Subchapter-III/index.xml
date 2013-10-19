@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Accounting.</heading>
+  <heading>Accounting</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-721.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-722.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-723.xml"/>

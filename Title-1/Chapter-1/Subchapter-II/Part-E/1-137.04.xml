@@ -88,18 +88,18 @@
       <text>Examining the Home Rule Act to determine the authority that shall be used to advance democracy for the District.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 20, 2012, D.C. Law 19-168, § 1085, 59 DCR 8025.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-168, see notes under § 1-137.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-137.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>See note to § 1-137.01.</text>
     </level>
   </level>
 </level>

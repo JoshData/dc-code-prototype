@@ -13,27 +13,30 @@
     <num>(c)</num>
     <text>The owner of a housing accommodation shall not refuse to rent a dwelling unit to a person because the person will provide his or her rental payment, in whole or in part, through a section 8 voucher.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 19, 2002, D.C. Law 14-114, § 206, 49 DCR 1468; Apr. 13, 2005, D.C. Law 15-354, § 59, 52 DCR 2638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-354, in subsec. (b), validated previously made technical changes.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-114, see notes following § 42-2851.01.</text>
-        <text>For Law 15-354, see notes following § 42-1103.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>Section 8 of the United States Housing Act, referred to in subsecs. (a) and (b), is Act Sept. 1, 1937, c.896, Title I, § 8, which is classified to 42 U.S.C.A. § 1437f.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-1803.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-354, in subsec. (b), validated previously made technical changes.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-114</heading>
+      <text>For Law 14-114, see notes following § 42-2851.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 42-1103.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>Section 8 of the United States Housing Act, referred to in subsecs. (a) and (b), is Act Sept. 1, 1937, c. 896, Title I, § 8, which is classified to 42 U.S.C. § 1437f.</text>
     </level>
   </level>
 </level>

@@ -1,87 +1,86 @@
 <level type="section">
   <num>48-803.03</num>
-  <heading>Dispensing of substitute drug products--conditions.</heading>
-  <formerly-cited-as>DC ST 1981 § 33-733</formerly-cited-as>
+  <heading>Dispensing of substitute drug products - conditions.</heading>
   <text>A pharmacist shall not dispense a:</text>
   <level>
+    <num>(1)</num>
+    <text>Substitute drug product if the person purchasing the drug product or the patient for whom it is intended indicates a preference for the drug product actually prescribed;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>Generically equivalent drug product pursuant to § 48-803.02 if:</text>
     <level>
-      <num>(1)</num>
-      <text>Substitute drug product if the person purchasing the drug product or the patient for whom it is intended indicates a preference for the drug product actually prescribed;</text>
+      <num>(A)</num>
+      <text>The prescriber writes on a prescription order, signed by the prescriber, in the prescriber's own handwriting "dispense as written" or "D.A.W." or a similar notation; provided, that checking or initialing a box preprinted or stamped on a prescription form shall not constitute an acceptable notation; or</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>Generically equivalent drug product pursuant to § 48-803.02 if:</text>
-      <level>
-        <num>(A)</num>
-        <text>The prescriber writes on a prescription order, signed by the prescriber, in the prescriber's own handwriting "dispense as written" or "D.A.W." or a similar notation; provided, that checking or initialing a box preprinted or stamped on a prescription form shall not constitute an acceptable notation; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The prescriber, by telephone, expressly indicates that the prescription is to be dispensed as communicated and this indication is noted in the pharmacist's own handwriting in the manner provided in subparagraph (A) of this paragraph;</text>
-      </level>
-    </level>
-    <level>
-      <num>(3)</num>
-      <level>
-        <num>(A)</num>
-        <text>Therapeutically equivalent drug product unless:</text>
-        <level>
-          <num>(i)</num>
-          <level>
-            <num>(I)</num>
-            <text>The pharmacist or pharmacist's agent obtains prior approval from the prescriber or the prescriber's agent before the therapeutically equivalent drug product can be dispensed; or</text>
-          </level>
-          <level>
-            <num>(II)</num>
-            <text>The therapeutically equivalent drug product is included on the therapeutic interchange list and the endorsing prescriber has given consent to the Boards of Pharmacy and Medicine to permit therapeutic interchange without prior approval;</text>
-          </level>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>The person purchasing the drug product provides consent to the therapeutic interchange;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>The therapeutically equivalent drug product does not have a higher cost to the purchaser than the originally prescribed drug product; provided, that the pharmacist may dispense a more expensive therapeutically equivalent drug product if consent is provided by the purchaser; and</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>The dispensing pharmacist, or pharmacist's agent, has notified the prescriber or prescriber's agent of the specific drug and dose dispensed.</text>
-        </level>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>A pharmacist shall not dispense a therapeutically equivalent drug product for a prescription refill of an antipsychotic, antidepressant, chemotherapy, antiretroviral, or immunosuppressive drug but shall dispense the drug as prescribed.</text>
-      </level>
+      <num>(B)</num>
+      <text>The prescriber, by telephone, expressly indicates that the prescription is to be dispensed as communicated and this indication is noted in the pharmacist's own handwriting in the manner provided in subparagraph (A) of this paragraph;</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(3)</num>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Therapeutically equivalent drug product unless:</text>
+      <level>
+        <num>(i)</num>
+        <level>
+          <num>(I)</num>
+          <text>The pharmacist or pharmacist's agent obtains prior approval from the prescriber or the prescriber's agent before the therapeutically equivalent drug product can be dispensed; or</text>
+        </level>
+        <level>
+          <num>(II)</num>
+          <text>The therapeutically equivalent drug product is included on the therapeutic interchange list and the endorsing prescriber has given consent to the Boards of Pharmacy and Medicine to permit therapeutic interchange without prior approval;</text>
+        </level>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>The person purchasing the drug product provides consent to the therapeutic interchange;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>The therapeutically equivalent drug product does not have a higher cost to the purchaser than the originally prescribed drug product; provided, that the pharmacist may dispense a more expensive therapeutically equivalent drug product if consent is provided by the purchaser; and</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>The dispensing pharmacist, or pharmacist's agent, has notified the prescriber or prescriber's agent of the specific drug and dose dispensed.</text>
+      </level>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>A pharmacist shall not dispense a therapeutically equivalent drug product for a prescription refill of an antipsychotic, antidepressant, chemotherapy, antiretroviral, or immunosuppressive drug but shall dispense the drug as prescribed.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Sept. 10, 1976, D.C. Law 1-81, title III, § 303, 23 DCR 2460; Apr. 7, 1977, D.C. Law 1-114, § 4(a), 23 DCR 8743; Mar. 11, 2010, D.C. Law 18-118, § 2(c), 57 DCR 901.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 33-733.</text>
-        <text>1973 Ed., § 33-833.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-118 rewrote the section, which had read as follows:</text>
-        <text>"The pharmacist shall not dispense an equivalent drug product under § 48-803.02 if:</text>
-        <text>"(1) The person purchasing the drug product or the patient for whom it is intended indicates a preference for the drug product actually prescribed;</text>
-        <text>"(2) The prescriber, in the case of a written prescription order signed by the prescriber, writes in the prescriber's own handwriting 'dispense as written' or 'D.A.W.' or a similar notation. A procedure for checking or initialing a box, preprinted or stamped on a prescription form, will not constitute an acceptable notation;</text>
-        <text>"(3) The prescriber, in the case of a prescription communicated by telephone, expressly indicates the prescription is to be dispensed as communicated, and this indication is noted in the pharmacist's own handwriting in the manner provided in subsection (b) of this section."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-81, see Historical and Statutory Notes following § 48-804.51.</text>
-        <text>For legislative history of D.C. Law 1-114, see Historical and Statutory Notes following § 48-805.51.</text>
-        <text>For Law 18-118, see notes following § 48-803.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 48-803.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 33-733.</text>
+      <text>1973 Ed., § 33-833.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-118 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-81</heading>
+      <text>For legislative history of D.C. Law 1-81, see Historical and Statutory Notes following § 48-804.51.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-114</heading>
+      <text>For legislative history of D.C. Law 1-114, see Historical and Statutory Notes following § 48-805.51.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-118</heading>
+      <text>For Law 18-118, see notes following § 48-803.01.</text>
     </level>
   </level>
 </level>

@@ -25,7 +25,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>Be a local unit consisting of trained and equipped emergency response, public health, and medical personnel formed pursuant to section 2801 of the Public Health Service Act, approved June 12, 2002 (116. Stat. 596; 42 U.S.C. § 300hh);</text>
+        <text>Be a local unit consisting of trained and equipped emergency response, public health, and medical personnel formed pursuant to section 2801 of the Public Health Service Act, approved June 12, 2002 (116. Stat. 596; 42 U.S.C. 300hh);</text>
       </level>
       <level>
         <num>(C)</num>
@@ -69,22 +69,22 @@
     <num>(d)</num>
     <text>A host entity is not required to use the services of a volunteer health practitioner even if the practitioner is registered with a registration system that indicates that the practitioner is licensed and in good standing.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 1, 2010, D.C. Law 18-184, § 5, 57 DCR 3655.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-184, see notes following § 7-2361.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 5 of the Uniform Emergency Volunteer Health Practitioners Act. See Vol. 9, Part 1B, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-2361.01, § 7-2361.02, and § 7-2361.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-184</heading>
+      <text>For Law 18-184, see notes following § 7-2361.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 5 of the Uniform Emergency Volunteer Health Practitioners Act.</text>
     </level>
   </level>
 </level>

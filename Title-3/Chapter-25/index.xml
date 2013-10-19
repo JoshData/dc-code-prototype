@@ -1,8 +1,8 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>25</num>
-  <heading>Plumbers. [Repealed]</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2501.xml"/>
+  <heading>Plumbers</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2501~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2502~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2503~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2504~P.xml"/>

@@ -1,43 +1,55 @@
 <level type="section">
   <num>22-3004</num>
   <heading>Third degree sexual abuse.</heading>
-  <formerly-cited-as>DC ST 1981 § 22-4104</formerly-cited-as>
-  <text>A person shall be imprisoned for not more than 10 years and may be fined in an amount not to exceed $100,000, if that person engages in or causes sexual contact with or by another person in the following manner:</text>
+  <text>A person shall be imprisoned for not more than 10 years and may be fined not more than the amount set forth in § 22-3571.01, if that person engages in or causes sexual contact with or by another person in the following manner:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>By using force against that other person;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>By threatening or placing that other person in reasonable fear that any person will be subjected to death, bodily injury, or kidnapping;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>After rendering that person unconscious; or</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>After administering to that person by force or threat of force, or without the knowledge or permission of that other person, a drug, intoxicant, or similar substance that substantially impairs the ability of that other person to appraise or control his or her conduct.</text>
-    </level>
+    <num>(1)</num>
+    <text>By using force against that other person;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>By threatening or placing that other person in reasonable fear that any person will be subjected to death, bodily injury, or kidnapping;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>After rendering that person unconscious; or</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>After administering to that person by force or threat of force, or without the knowledge or permission of that other person, a drug, intoxicant, or similar substance that substantially impairs the ability of that other person to appraise or control his or her conduct.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(May 23, 1995, D.C. Law 10-257, § 203, 42 DCR 53; June 3, 1997, D.C. Law 11-275, § 13(c), 44 DCR 1408.)</text>
+      <heading>History</heading>
+      <text>(May 23, 1995, D.C. Law 10-257, § 203, 42 DCR 53; June 3, 1997, D.C. Law 11-275, § 13(c), 44 DCR 1408; June 11, 2013, D.C. Law 19-317, § 232(c), 60 DCR 2064.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 22-4104.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-257, see Historical and Statutory Notes following § 22-3001.</text>
-        <text>For legislative history of D.C. Law 11-275, see Historical and Statutory Notes following § 22-3002.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 23-113 and § 24-112.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 22-4104.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-317 substituted "not more than the amount set forth in § 22-3571.01" for "in an amount not to exceed $100,000" in the introductory paragraph.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-257</heading>
+      <text>For legislative history of D.C. Law 10-257, see Historical and Statutory Notes following § 22-3001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-275</heading>
+      <text>For legislative history of D.C. Law 11-275, see Historical and Statutory Notes following § 22-3002.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-317</heading>
+      <text>See note to § 22-3002.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
     </level>
   </level>
 </level>

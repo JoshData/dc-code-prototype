@@ -25,18 +25,18 @@
     <num>(d)</num>
     <text>The Mayor may, by regulation, require the establishment of an escrow account at the time that a certificate of occupancy is issued for a development permitted by the Board of Zoning Adjustment to satisfy its requirements under the Inclusionary Zoning Program with off-site development. The regulations may provide for the payment of the escrow amount into the Housing Production Trust Fund if the off-site development is not constructed after a certain period of time.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 2007, D.C. Law 16-275, § 105, 54 DCR 880.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-275, see notes following § 6-1041.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-1041.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-275</heading>
+      <text>For Law 16-275, see notes following § 6-1041.01.</text>
     </level>
   </level>
 </level>

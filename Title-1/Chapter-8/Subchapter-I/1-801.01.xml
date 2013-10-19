@@ -1,10 +1,10 @@
 <level type="section">
   <num>1-801.01</num>
   <heading>Findings and declaration of policy.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-761.1</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Findings.</text> -- The Congress finds that:</text>
+    <heading>Findings</heading>
+    <text>The Congress finds that:</text>
     <level>
       <num>(1)</num>
       <text>State and municipal retirement programs should be funded on an actuarially sound basis;</text>
@@ -48,7 +48,8 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Policy.</text> -- It is the policy of this chapter:</text>
+    <heading>Policy</heading>
+    <text>It is the policy of this chapter:</text>
     <level>
       <num>(1)</num>
       <text>To relieve the District of Columbia government of the responsibility for the unfunded pension liabilities transferred to it by the Federal government;</text>
@@ -66,26 +67,26 @@
       <text>To require the establishment of replacement plans by the District of Columbia government for the current retirement plans for teachers, and police and firefighters.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 5, 1997, 111 Stat. 715, Pub. L. 105-33, § 11002.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-761.1.</text>
-      </level>
-      <level>
-        <heading>Effective Dates</heading>
-        <text>Section 11721 of Title XI of Pub. L. 105-33, 111 Stat. 786, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that except as otherwise provided in this title, the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995, as amended by this title.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>District of Columbia Retirement Protection Act of 1997: Section 11001 of subtitle A of Title XI of Pub. L. 105-33, 111 Stat. 715, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that subtitle A may be cited as the "District of Columbia Retirement Protection Act of 1997."</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Retirement Board and funds, establishment, Board to continue duties under retirement program after enactment of this chapter, see § 1-711.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-761.1.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>District of Columbia Retirement Protection Act of 1997: Section 11001 of subtitle A of Title XI of Pub. L. 105-33, 111 Stat. 715, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that subtitle A may be cited as the "District of Columbia Retirement Protection Act of 1997."</text>
+    </level>
+    <level>
+      <heading>Effective Dates</heading>
+      <text>Section 11721 of Title XI of Pub. L. 105-33, 111 Stat. 786, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that except as otherwise provided in this title, the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995, as amended by this title.</text>
     </level>
   </level>
 </level>

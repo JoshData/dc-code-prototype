@@ -21,29 +21,32 @@
     <num>(e)</num>
     <text>Any action brought to enforce the provisions of subsection (c) of this section shall be brought in the Superior Court of the District of Columbia by the Attorney General for the District of Columbia in the name of the District of Columbia.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 7, 2004, D.C. Law 15-205, § 5202(c), 51 DCR 8441; Oct. 20, 2005, D.C. Law 16-33, § 1242(b), 52 DCR 7503.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-33, in subsec. (a), deleted the second sentence, which had read as follows: "The Chief Financial Officer may arrange a payment plan for the amount of the assessment and interest in arrears."; and, in subsec. (c), substituted "equal to the tax owed." for "of not more than $1,000".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 5202(c) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004, 51 DCR 8236).</text>
-        <text>For temporary (90 day) addition, see § 5202(c) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004, 51 DCR 11725).</text>
-        <text>For temporary (90 day) amendment of section, see § 1242(b) of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-205, see notes following § 47-1261.</text>
-        <text>For Law 16-33, see notes following § 47-308.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-1262 and § 47-1266.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-33, in subsec. (a), deleted the second sentence, which had read as follows: "The Chief Financial Officer may arrange a payment plan for the amount of the assessment and interest in arrears."; and, in subsec. (c), substituted "equal to the tax owed." for "of not more than $1,000".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 5202(c) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004, 51 DCR 8236).</text>
+      <text>For temporary (90 day) addition, see § 5202(c) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004, 51 DCR 11725).</text>
+      <text>For temporary (90 day) amendment of section, see § 1242(b) of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-205</heading>
+      <text>For Law 15-205, see notes following § 47-1261.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-33</heading>
+      <text>For Law 16-33, see notes following § 47-308.01.</text>
     </level>
   </level>
 </level>

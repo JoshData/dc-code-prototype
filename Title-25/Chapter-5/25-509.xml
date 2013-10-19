@@ -2,24 +2,19 @@
   <num>25-509</num>
   <heading>Minimum fee for transfer of a license to new owner.</heading>
   <text>The minimum fee for transfer of a license to a new owner shall be $150.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Jan. 24, 1934, 48 Stat. 330, ch. 4, § 16; May 27, 1949, 63 Stat. 135, ch. 146, title V, § 503; Mar. 5, 1981, D.C. Law 3-157, § 2(d), 27 DCR 5117; May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <text>D.C. Law 13-298 amended and enacted into law Title 25 of the District of Columbia Official Code. The text of this section is derived from provisions formerly found in D.C. Code § 25-117. For notes from former § 25-117, see § 25-316.</text>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 25-509.</text>
-        <text>1973 Ed., § 25-117.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-298, see notes following § 25-101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 25-509.</text>
+      <text>1973 Ed., § 25-117.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-298</heading>
+      <text>For D.C. Law 13-298, see notes following § 25-101.</text>
     </level>
   </level>
 </level>

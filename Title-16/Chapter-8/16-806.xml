@@ -3,11 +3,11 @@
   <heading>Availability of sealed records.</heading>
   <level>
     <num>(a)</num>
-    <text>Records sealed on grounds of actual innocence pursuant to § 16-802 shall be opened only on order of the Court upon a showing of compelling need, except that, upon request, the movant shall be entitled to a copy of the sealed records to the extent that such records would have been available to the movant before relief under § 16-802 was granted. A request for access to sealed court records may be made ex parte.</text>
+    <text>Records sealed on grounds of actual innocence pursuant to § 16-802 shall be opened only on order of the Court upon a showing of compelling need; except, that upon request, the movant, or the authorized representative of the movant, shall be entitled to a copy of the sealed records to the extent that such records would have been available to the movant before relief under § 16-802 was granted and shall also be entitled to all certifications filed with the Court pursuant to § 16-802(h)(5). A request for access to sealed court records may be made ex parte.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>Records retained in a nonpublic file pursuant to § 16-803 shall be available:</text>
+    <text>Records retained in a nonpublic file pursuant to §§ 16-803 or 16-803.01 shall be available:</text>
     <level>
       <num>(1)</num>
       <text>To any court, prosecutor, or law enforcement agency for any lawful purpose, including:</text>
@@ -46,7 +46,7 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>To any person or entity identified in § 16-801(11)(D), (E), or (F), but only to the extent that such records would have been available to such persons or entities before relief under § 16-803 was granted. Such records may be used for any lawful purpose, including:</text>
+      <text>Except for records sealed under § 16-803.01, to any person or entity identified in § 16-801(11)(D), (E), or (F), but only to the extent that such records would have been available to such persons or entities before relief under § 16-803 was granted. Such records may be used for any lawful purpose, including:</text>
       <level>
         <num>(A)</num>
         <text>The determination of whether a person is eligible to be licensed in a particular trade or profession; and</text>
@@ -58,25 +58,33 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>To the movant or the authorized representative of the movant, upon request, but only to the extent that such records would have been available to the movant before relief under § 16-803 was granted.</text>
+      <text>To the movant or the authorized representative of the movant, upon request, but only to the extent that such records would have been available to the movant before relief under § 16-803 or 16-803.01 was granted. The movant, or the authorized representative of the movant, shall also be entitled to all certifications filed with the Court pursuant to § 16-803(l)(1)(C).</text>
     </level>
   </level>
   <level>
     <num>(c)</num>
-    <text>Any person, upon making inquiry of the Court concerning the existence of records of arrest, court proceedings, or convictions involving an individual, shall be entitled to rely, for any purpose under the law, upon the clerk's response that no records are available under § 16-802(h)(7) or § 16- 803(l)(5) with respect to any issue about that person's knowledge of the individual's record.</text>
+    <text>Any person, upon making inquiry of the Court concerning the existence of records of arrest, court proceedings, or convictions involving an individual, shall be entitled to rely, for any purpose under the law, upon the clerk's response that no records are available under § 16-802(h)(7) or § 16-803(l)(5) with respect to any issue about that person's knowledge of the individual's record.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(d)</num>
+    <text>Except to the extent permitted by this section, all sealed records shall remain sealed.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(May 5, 2007, D.C. Law 16-307, § 2(b), 54 DCR 868.)</text>
+      <heading>History</heading>
+      <text>(May 5, 2007, D.C. Law 16-307, § 2(b), 54 DCR 868; June 15, 2013, D.C. Law 19-319, § 4(e), 60 DCR 2333.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-307, see notes following § 16-801.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-319 rewrote (a); substituted "§§ 16-803 or 16-803.01" for "§ 16-803" in the introductory language of (b); added "Except for records sealed under § 16-803.01" at the beginning of (b)(4); rewrote ((b)(5); added (d); and made related changes.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-307</heading>
+      <text>For Law 16-307, see notes following § 16-801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-319</heading>
+      <text>See note to § 16-801.</text>
     </level>
   </level>
 </level>

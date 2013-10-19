@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-623.14</num>
   <heading>Computation of pay.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-624.14</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For the purpose of this section:</text>
@@ -34,7 +33,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>Was not fixed, the average annual earnings are the product obtained by multiplying his or her daily wage for the particular employment or the average thereof, if the daily wage has fluctuated; by 300, if he or she was employed on the basis of a 6 day workweek; 280, if employed on the basis of a 5 1/2 day workweek; and 260, if employed on the basis of a 5 day workweek;</text>
+        <text>Was not fixed, the average annual earnings are the product obtained by multiplying his or her daily wage for the particular employment or the average thereof, if the daily wage has fluctuated; by 300, if he or she was employed on the basis of a 6 day workweek; 280, if employed on the basis of a 5<span style="font-style: italic; ">1</span>/<span style="">2</span> day workweek; and 260, if employed on the basis of a 5 day workweek;</text>
       </level>
     </level>
     <level>
@@ -66,25 +65,31 @@
       <text>Bonus or premium pay for extraordinary service including bonus or pay for particularly hazardous service.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-139, § 2314, 25 DCR 5740; Sept. 26, 1995, D.C. Law 11-52, § 810(f), 42 DCR 3684.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-624.14.</text>
-        <text>1973 Ed., § 1-353.14.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-139, see Historical and Statutory Notes following § 1-601.01.</text>
-        <text>For legislative history of D.C. Law 10-253, see Historical and Statutory Notes following § 1.623.01.</text>
-        <text>For legislative history of D.C. Law 11-52, see Historical and Statutory Notes following § 1-623.10.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-623.15 and § 1-623.33.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-624.14.</text>
+      <text>1973 Ed., § 1-353.14.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-139</heading>
+      <text>For legislative history of D.C. Law 2-139, see Historical and Statutory Notes following § 1-601.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-253</heading>
+      <text>For legislative history of D.C. Law 10-253, see Historical and Statutory Notes following § 1.623.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-52</heading>
+      <text>For legislative history of D.C. Law 11-52, see Historical and Statutory Notes following § 1-623.10.</text>
     </level>
   </level>
 </level>

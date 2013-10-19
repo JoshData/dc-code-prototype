@@ -1,35 +1,32 @@
 <level type="section">
   <num>38-506</num>
   <heading>Exemption from certification.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-506</formerly-cited-as>
   <text>No certification of immunization shall be required for the admission to a school of a student:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>For whom the responsible person objects in good faith and in writing, to the chief official of the school, that immunization would violate his or her religious beliefs; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>For whom the school has written certification by a private physician, his or her representative, or the public health authorities that immunization is medically inadvisable.</text>
-    </level>
+    <num>(1)</num>
+    <text>For whom the responsible person objects in good faith and in writing, to the chief official of the school, that immunization would violate his or her religious beliefs; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>For whom the school has written certification by a private physician, his or her representative, or the public health authorities that immunization is medically inadvisable.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 28, 1979, D.C. Law 3-20, § 7, 26 DCR 380.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-506.</text>
-        <text>1973 Ed., § 31-2206.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-20, see Historical and Statutory Notes following § 38-501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-502 and § 38-504.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-506.</text>
+      <text>1973 Ed., § 31-2206.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-20</heading>
+      <text>For legislative history of D.C. Law 3-20, see Historical and Statutory Notes following § 38-501.</text>
     </level>
   </level>
 </level>

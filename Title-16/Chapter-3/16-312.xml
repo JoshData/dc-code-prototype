@@ -1,7 +1,6 @@
 <level type="section">
   <num>16-312</num>
   <heading>Legal effects of adoption.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-312</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A final decree of adoption establishes the relationship of natural parent and natural child between adopter and adoptee for all purposes, including mutual rights of inheritance and succession as if adoptee were born to adopter. The adoptee takes from, through, and as a representative of his adoptive parent or parents in the same manner as a child by birth, and upon the death of an adoptee intestate, his property shall pass and be distributed in the same manner as if the adoptee had been born to the adopting parent or parents in lawful wedlock. All rights and duties including those of inheritance and succession between the adoptee, his natural parents, their issue, collateral relatives, and so forth, are cut off, except that when one of the natural parents is the spouse of the adopter, the rights and relations as between adoptee, that natural parent, and his parents and collateral relatives, including mutual rights of inheritance and succession, are in no wise altered.</text>
@@ -14,23 +13,19 @@
     <num>(c)</num>
     <text>The family name of the adoptee shall be changed to that of the adopter unless the decree otherwise provides, and the given name of the adoptee may be fixed or changed at the same time.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, 77 Stat. 541, Pub. L. 88-241, § 1; Mar. 24, 1998, D.C. Law 12-81, § 10(b), 45 DCR 745.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-312.</text>
-        <text>1973 Ed., § 16-312.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 16-309.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-312.</text>
+      <text>1973 Ed., § 16-312.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-81</heading>
+      <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 16-309.</text>
     </level>
   </level>
 </level>

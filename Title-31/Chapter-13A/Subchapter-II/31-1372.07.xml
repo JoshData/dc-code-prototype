@@ -5,7 +5,7 @@
     <num>(a)</num>
     <level>
       <num>(1)</num>
-      <text>Subject to the limitations of § 31-1372.02, an insurer may acquire, directly or indirectly, through limited partnership interests and general partnership interests not otherwise prohibited by § 31-1371.05, joint ventures, stock of an investment subsidiary, membership interests in a limited liability company, trust certificates, or other similar instruments, obligations secured by a first mortgage on real estate situated within a domestic jurisdiction; provided, that a mortgage loan which is secured by a subordinate lien may be acquired if the insurer is the holder of the first lien. The obligations held by the insurer and any obligations with an equal lien priority, shall not, at the time of acquisition of the obligations, exceed:</text>
+      <text>Subject to the limitations of § 31-1372.02, an insurer may acquire, directly or indirectly, through limited partnership interests and general partnership interests not otherwise prohibited by by § 31-1371.05, joint ventures, stock of an investment subsidiary, membership interests in a limited liability company, trust certificates, or other similar instruments, obligations secured by a first mortgage on real estate situated within a domestic jurisdiction; provided, that a mortgage loan which is secured by a subordinate lien may be acquired if the insurer is the holder of the first lien. The obligations held by the insurer and any obligations with an equal lien priority, shall not, at the time of acquisition of the obligations, exceed:</text>
       <level>
         <num>(A)</num>
         <text>Ninety percent of the fair market value of the real estate if the mortgage loan is secured by a purchase money mortgage or like security received by the insurer upon disposition of the real estate;</text>
@@ -37,7 +37,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>A mortgage loan that is held by an insurer under § 31-1371.03(f) or acquired under this section and is restructured in a manner that meets the requirements of a restructured mortgage loan in accordance with the NAIC <text i="True">Accounting Practices and Procedures Manual,</text> or successor publication, shall continue to qualify as a mortgage loan.</text>
+      <text>A mortgage loan that is held by an insurer under § 31-1371.03(f) or acquired under this section and is restructured in a manner that meets the requirements of a restructured mortgage loan in accordance with the NAICAccounting Practices and Procedures Manual, or successor publication, shall continue to qualify as a mortgage loan.</text>
     </level>
     <level>
       <num>(4)</num>
@@ -158,21 +158,21 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>The limitations of § 31-1372.02 shall not apply to an insurer's acquisition of real estate under subsection(c) of this section. An insurer shall not acquire real estate under subsection (c) of this section if, as a result of and after giving effect to the acquisition, the aggregate amount of real estate held by the insurer under subsection(c) of this section would exceed 10% of its admitted assets. With the permission of the Commissioner, additional amounts of real estate may be acquired under subsection (c) of this section.</text>
+      <text>The limitations of § 31-1372.02 shall not apply to an insurer's acquisition of real estate under subsection (c) of this section. An insurer shall not acquire real estate under subsection (c) of this section if, as a result of and after giving effect to the acquisition, the aggregate amount of real estate held by the insurer under subsection (c) of this section would exceed 10% of its admitted assets. With the permission of the Commissioner, additional amounts of real estate may be acquired under subsection (c) of this section.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 11, 2003, D.C. Law 14-297, § 207, 50 DCR 330.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-297, see notes following § 31-1371.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1371.03, § 31-1371.06, and § 31-1372.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-297</heading>
+      <text>For Law 14-297, see notes following § 31-1371.01.</text>
     </level>
   </level>
 </level>

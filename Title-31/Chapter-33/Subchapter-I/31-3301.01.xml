@@ -1,516 +1,525 @@
 <level type="section">
   <num>31-3301.01</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1021</formerly-cited-as>
   <text>For the purposes of this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Affiliation period" means a period which, under the terms of the health insurance coverage offered by a health maintenance organization, must expire before the health insurance coverage becomes effective. The health maintenance organization is not required to provide health care services or benefits during such period and no premium shall be charged to the participant or beneficiary for any coverage during the period. Such period shall begin on the enrollment date. An affiliation period under a plan shall run concurrently with any waiting period under the plan.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Beneficiary" has the meaning given such term under section 3(8) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 834; 29 U.S.C. § 1002(8)).</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Bona fide association" means, with respect to health insurance coverage offered in the District of Columbia, an association which:</text>
     <level>
-      <num>(1)</num>
-      <text>"Affiliation period" means a period which, under the terms of the health insurance coverage offered by a health maintenance organization, must expire before the health insurance coverage becomes effective. The health maintenance organization is not required to provide health care services or benefits during such period and no premium shall be charged to the participant or beneficiary for any coverage during the period. Such period shall begin on the enrollment date. An affiliation period under a plan shall run concurrently with any waiting period under the plan.</text>
+      <num>(A)</num>
+      <text>Has been actively in existence for at least 5 years;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Beneficiary" has the meaning given such term under section 3(8) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 834; 29 U.S.C. § 1002(8)).</text>
+      <num>(B)</num>
+      <text>Has been formed and maintained in good faith for purposes other than obtaining insurance;</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>"Bona fide association" means, with respect to health insurance coverage offered in the District of Columbia, an association which:</text>
-      <level>
-        <num>(A)</num>
-        <text>Has been actively in existence for at least 5 years;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Has been formed and maintained in good faith for purposes other than obtaining insurance;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Does not condition membership in the association on any health status-related factor relating to an individual (including an employee of an employer or a dependent of an employee);</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Makes health insurance coverage offered through the association available to all members regardless of any health status-related factor relating to such members (or individuals eligible for coverage through a member);</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Does not make health insurance coverage offered through the association available other than in connection with a member of the association; and</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Meets such additional requirements as may be imposed under the laws of the District of Columbia.</text>
-      </level>
+      <num>(C)</num>
+      <text>Does not condition membership in the association on any health status-related factor relating to an individual (including an employee of an employer or a dependent of an employee);</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>"Certification" means a written certification of the period of creditable coverage applicable to an individual.</text>
+      <num>(D)</num>
+      <text>Makes health insurance coverage offered through the association available to all members regardless of any health status-related factor relating to such members (or individuals eligible for coverage through a member);</text>
     </level>
     <level>
-      <num>(5)</num>
-      <text>"Church plan" has the meaning given such term under section 3(33) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 838; 29 U.S.C. § 1002(33)).</text>
+      <num>(E)</num>
+      <text>Does not make health insurance coverage offered through the association available other than in connection with a member of the association; and</text>
     </level>
     <level>
-      <num>(6)</num>
-      <text>"COBRA continuation provision" means any of the following:</text>
-      <level>
-        <num>(A)</num>
-        <text>Section 3011(a) of the Internal Revenue Code of 1986, approved November 10, 1988 (102 Stat. 3616; 26 U.S.C. § 4980B), other than subsection (f)(1) of such section insofar as it relates to pediatric vaccines;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, approved April 7, 1986 (100 Stat. 227; 29 U.S.C. § 1161 et seq.), other than section 609 of such Act; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Title XXII of the Public Health Service Act, approved July 1, 1994 (100 Stat. 232; 42 U.S.C. § 300bb-1 et seq.).</text>
-      </level>
+      <num>(F)</num>
+      <text>Meets such additional requirements as may be imposed under the laws of the District of Columbia.</text>
+    </level>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Certification" means a written certification of the period of creditable coverage applicable to an individual.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Church plan" has the meaning given such term under section 3(33) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 838; 29 U.S.C. § 1002(33)).</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"COBRA continuation provision" means any of the following:</text>
+    <level>
+      <num>(A)</num>
+      <text>Section 3011(a) of the Internal Revenue Code of 1986, approved November 10, 1988 (102 Stat. 3616; 26 U.S.C. § 4980B), other than subsection (f)(1) of such section insofar as it relates to pediatric vaccines;</text>
     </level>
     <level>
-      <num>(7)</num>
-      <text>"Commissioner" means the Commissioner of the Department of Insurance, Securities, and Banking.</text>
+      <num>(B)</num>
+      <text>Part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, approved April 7, 1986 (100 Stat. 227; 29 U.S.C. § 1161 et seq.), other than section 609 of such Act; or</text>
     </level>
     <level>
-      <num>(8)</num>
+      <num>(C)</num>
+      <text>Title XXII of the Public Health Service Act, approved July 1, 1994 (100 Stat. 232; 42 U.S.C. § 300bb-1 et seq.).</text>
+    </level>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Commissioner" means the Commissioner of the Department of Insurance, Securities, and Banking.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <level>
+      <num>(A)</num>
+      <text>"Creditable coverage" means, with respect to an individual, coverage of the individual under any of the following:</text>
       <level>
-        <num>(A)</num>
-        <text>"Creditable coverage" means, with respect to an individual, coverage of the individual under any of the following:</text>
-        <level>
-          <num>(i)</num>
-          <text>A group health plan;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Health insurance coverage;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Part A or B of title XVIII of the Social Security Act, approved July 30, 1965 (79 Stat. 291; 42 U.S.C. § 1395c et seq. or 1395j et seq., respectively);</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>Title XIX of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.), other than coverage consisting solely of benefits under section 1928;</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>Chapter 55 of Title 10, United States Code (10 U.S.C. § 1071 et seq.);</text>
-        </level>
-        <level>
-          <num>(vi)</num>
-          <text>A medical care program of the Indian Health Service or of a tribal organization;</text>
-        </level>
-        <level>
-          <num>(vii)</num>
-          <text>A state health benefits risk pool;</text>
-        </level>
-        <level>
-          <num>(viii)</num>
-          <text>A health plan offered under Chapter 89 of Title 5, United States Code (5 U.S.C. § 8901 et seq.);</text>
-        </level>
-        <level>
-          <num>(ix)</num>
-          <text>A public health plan (as defined in regulations); or</text>
-        </level>
-        <level>
-          <num>(x)</num>
-          <text>A health benefit plan under section 5(e) of the Peace Corps Act, approved September 22, 1961 (75 Stat. 614; 22 U.S.C. § 2504(e)).</text>
-        </level>
+        <num>(i)</num>
+        <text>A group health plan;</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>"Creditable coverage" does not include coverage consisting solely of coverage of excepted benefits.</text>
+        <num>(ii)</num>
+        <text>Health insurance coverage;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Part A or B of title XVIII of the Social Security Act, approved July 30, 1965 (79 Stat. 291; 42 U.S.C. § 1395c et seq. or 1395j et seq., respectively);</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>Title XIX of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.), other than coverage consisting solely of benefits under section 1928;</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>Chapter 55 of Title 10, United States Code (10 U.S.C. § 1071 et seq.);</text>
+      </level>
+      <level>
+        <num>(vi)</num>
+        <text>A medical care program of the Indian Health Service or of a tribal organization;</text>
+      </level>
+      <level>
+        <num>(vii)</num>
+        <text>A state health benefits risk pool;</text>
+      </level>
+      <level>
+        <num>(viii)</num>
+        <text>A health plan offered under Chapter 89 of Title 5, United States Code (5 U.S.C. § 8901 et seq.);</text>
+      </level>
+      <level>
+        <num>(ix)</num>
+        <text>A public health plan (as defined in regulations); or</text>
+      </level>
+      <level>
+        <num>(x)</num>
+        <text>A health benefit plan under section 5(e) of the Peace Corps Act, approved September 22, 1961 (75 Stat. 614; 22 U.S.C. § 2504(e)).</text>
       </level>
     </level>
     <level>
-      <num>(9)</num>
-      <text>"Dependent" means the spouse or child of an eligible employee, subject to the applicable terms of the policy, contract, or plan covering the eligible employee.</text>
+      <num>(B)</num>
+      <text>"Creditable coverage" does not include coverage consisting solely of coverage of excepted benefits.</text>
     </level>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Dependent" means the spouse or child of an eligible employee, subject to the applicable terms of the policy, contract, or plan covering the eligible employee.</text>
+  </level>
+  <level>
+    <num>(9A)</num>
+    <text>"Domestic partnership" shall have the same meaning as provided in § 32-701(4).</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"Eligible employee" means an employee who works for a small group employer on a full-time basis, has a normal work week of 30 or more hours, has satisfied applicable waiting period requirements, and is not a part-time, temporary, or substitute employee.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>"Eligible individual" means an individual:</text>
     <level>
-      <num>(9A)</num>
-      <text>"Domestic partnership" shall have the same meaning as provided in § 32- 701(4).</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Eligible employee" means an employee who works for a small group employer on a full-time basis, has a normal work week of 30 or more hours, has satisfied applicable waiting period requirements, and is not a part-time, temporary, or substitute employee.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>"Eligible individual" means an individual:</text>
+      <num>(A)</num>
       <level>
-        <num>(A)</num>
-        <level>
-          <num>(i)</num>
-          <text>For whom, as of the date on which the individual seeks individual coverage under this chapter, the aggregate of the periods of creditable coverage is 18 or more months, and (ii) whose most recent prior creditable coverage was under a group health plan, governmental plan, church plan, or health insurance coverage offered in connection with any such plan;</text>
-        </level>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Who is not eligible for coverage under (i) a group health plan, (ii) part A or part B of title XVIII of the Social Security Act, or (iii) a state plan under title XIX of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.), or any successor program, and does not have other health insurance coverage;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>With respect to whom the most recent coverage within the coverage period described in subparagraph (A) of this paragraph was not terminated based on a factor described in § 31-3302.05(b) relating to nonpayment of premiums or fraud;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>If the individual had been offered the option of continuation coverage under a COBRA continuation provision or under a similar state program, who elected such coverage; and</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Who, if the individual elected such continuation coverage, has exhausted such continuation coverage under such provision or program.</text>
+        <num>(i)</num>
+        <text>For whom, as of the date on which the individual seeks individual coverage under this chapter, the aggregate of the periods of creditable coverage is 18 or more months, and (ii) whose most recent prior creditable coverage was under a group health plan, governmental plan, church plan, or health insurance coverage offered in connection with any such plan;</text>
       </level>
     </level>
     <level>
-      <num>(12)</num>
-      <text>"Employer" has the meaning given such term under section 3(5) of the Employee Retirement Income Security Act of 1974, approved September 12, 1974 (88 Stat. 834; 29 U.S.C. § 1002(5)), except that such term shall include only employers of 2 or more employees.</text>
+      <num>(B)</num>
+      <text>Who is not eligible for coverage under (i) a group health plan, (ii) part A or part B of title XVIII of the Social Security Act, or (iii) a state plan under title XIX of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.), or any successor program, and does not have other health insurance coverage;</text>
     </level>
     <level>
-      <num>(13)</num>
-      <text>"Enrollment date" means, with respect to an eligible individual covered under a group health plan or health insurance coverage, the date of enrollment of the eligible individual in the plan or coverage or, if earlier, the first day of the waiting period for such enrollment.</text>
+      <num>(C)</num>
+      <text>With respect to whom the most recent coverage within the coverage period described in subparagraph (A) of this paragraph was not terminated based on a factor described in § 31-3302.05(b) relating to nonpayment of premiums or fraud;</text>
     </level>
     <level>
-      <num>(14)</num>
-      <text>"Established geographic service area" means the District of Columbia.</text>
+      <num>(D)</num>
+      <text>If the individual had been offered the option of continuation coverage under a COBRA continuation provision or under a similar state program, who elected such coverage; and</text>
     </level>
     <level>
-      <num>(15)</num>
-      <text>"Excepted benefits" means benefits under one or more (or any combination thereof) of the following:</text>
+      <num>(E)</num>
+      <text>Who, if the individual elected such continuation coverage, has exhausted such continuation coverage under such provision or program.</text>
+    </level>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>"Employer" has the meaning given such term under section 3(5) of the Employee Retirement Income Security Act of 1974, approved September 12, 1974 (88 Stat. 834; 29 U.S.C. § 1002(5)), except that such term shall include only employers of 2 or more employees.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>"Enrollment date" means, with respect to an eligible individual covered under a group health plan or health insurance coverage, the date of enrollment of the eligible individual in the plan or coverage or, if earlier, the first day of the waiting period for such enrollment.</text>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>"Established geographic service area" means the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>"Excepted benefits" means benefits under one or more (or any combination thereof) of the following:</text>
+    <level>
+      <num>(A)</num>
+      <text>Benefits not subject to the requirements of this chapter including:</text>
       <level>
-        <num>(A)</num>
-        <text>Benefits not subject to the requirements of this chapter including:</text>
-        <level>
-          <num>(i)</num>
-          <text>Coverage only for accident, or disability income insurance, or any combination thereof;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Coverage issued as a supplement to liability insurance;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Liability insurance, including general liability insurance and automobile liability insurance;</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>Workers' compensation or similar insurance;</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>Medical expense and loss of income benefits;</text>
-        </level>
-        <level>
-          <num>(vi)</num>
-          <text>Credit-only insurance;</text>
-        </level>
-        <level>
-          <num>(vii)</num>
-          <text>Coverage for on-site medical clinics; and</text>
-        </level>
-        <level>
-          <num>(viii)</num>
-          <text>Other similar insurance coverage, specified in regulations, under which benefits for medical care are secondary or incidental to other insurance benefits;</text>
-        </level>
+        <num>(i)</num>
+        <text>Coverage only for accident, or disability income insurance, or any combination thereof;</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>Benefits not subject to the requirements of this chapter if offered separately including:</text>
-        <level>
-          <num>(i)</num>
-          <text>Limited scope dental or vision benefits;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Benefits for long-term care, nursing home care, home health care, community-based care, or any combination thereof; and</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Such other similar, limited benefits as are specified in regulations;</text>
-        </level>
+        <num>(ii)</num>
+        <text>Coverage issued as a supplement to liability insurance;</text>
       </level>
       <level>
-        <num>(C)</num>
-        <text>Benefits not subject to the requirements of this chapter if offered as independent, noncoordinated benefits including:</text>
-        <level>
-          <num>(i)</num>
-          <text>Coverage only for a specified disease or illness; and</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Hospital indemnity or other fixed indemnity insurance; and</text>
-        </level>
+        <num>(iii)</num>
+        <text>Liability insurance, including general liability insurance and automobile liability insurance;</text>
       </level>
       <level>
-        <num>(D)</num>
-        <text>Benefits not subject to the requirements of this chapter if offered as a separate insurance policy including:</text>
-        <level>
-          <num>(i)</num>
-          <text>Medicare supplemental health insurance (as defined under section 1882(g)(1) of the Social Security Act, approved June 9, 1980 (72 Stat. 1445; 42 U.S.C. § 1395ss(g)(1));</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Coverage supplemental to the coverage provided under Chapter 55 of Title 10, United States Code (10 U.S.C. § 1071 et seq.); and</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Similar supplemental coverage provided to coverage under a group health plan.</text>
-        </level>
+        <num>(iv)</num>
+        <text>Workers' compensation or similar insurance;</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>Medical expense and loss of income benefits;</text>
+      </level>
+      <level>
+        <num>(vi)</num>
+        <text>Credit-only insurance;</text>
+      </level>
+      <level>
+        <num>(vii)</num>
+        <text>Coverage for on-site medical clinics; and</text>
+      </level>
+      <level>
+        <num>(viii)</num>
+        <text>Other similar insurance coverage, specified in regulations, under which benefits for medical care are secondary or incidental to other insurance benefits;</text>
       </level>
     </level>
     <level>
-      <num>(16)</num>
-      <text>"Federal governmental plan" means a governmental plan established or maintained for its employees by the government of the United States or by an agency or instrumentality of such government.</text>
-    </level>
-    <level>
-      <num>(17)</num>
-      <text>"Governmental plan" has the meaning given such term under section 3(32) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 837; 29 U.S.C. § 1002(32)) and any federal governmental plan.</text>
-    </level>
-    <level>
-      <num>(18)</num>
-      <text>"Group health insurance coverage" means health insurance coverage offered in connection with a group health plan.</text>
-    </level>
-    <level>
-      <num>(19)</num>
-      <text>"Group health plan" means an employee welfare benefit plan (as defined in section 3(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. § 1002(1)), to the extent that the plan provides medical care and includes items and services paid for as medical care to employees or their dependents (as defined under the terms of the plan) directly or through insurance, reimbursement, or otherwise.</text>
-    </level>
-    <level>
-      <num>(20)</num>
-      <text>"Health benefit plan" means any accident and health insurance policy or certificate, hospital and medical services corporation contract, health maintenance organization subscriber contract, plan provided by a multiple employer welfare arrangement, or plan provided by another benefit arrangement. The term "health benefit plan" does not mean accident only, credit, or disability insurance; coverage of Medicare services or federal employee health plans, pursuant to contracts with the United States government; Medicare supplement or long-term care insurance; dental only or vision only insurance; specified disease insurance; hospital confinement indemnity coverage; limited benefit health coverage; coverage issued as a supplement to liability insurance; insurance arising out of a workers' compensation or similar law; automobile medical payment insurance; medical expense and loss of income benefits; or insurance under which benefits are payable with or without regard to fault and that is statutorily required to be contained in any liability insurance policy or equivalent self-insurance.</text>
-    </level>
-    <level>
-      <num>(21)</num>
-      <text>"Health insurance coverage" means benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise and includes items and services paid for as medical care) under any hospital or medical service policy or certificate, hospital, or medical service plan contract, or health maintenance organization contract offered by a health insurer.</text>
-    </level>
-    <level>
-      <num>(22)</num>
-      <text>"Health insurer" means any person that provides one or more health benefit plans or insurance in the District of Columbia, including an insurer, a hospital and medical services corporation, a fraternal benefit society, a health maintenance organization, a multiple employer welfare arrangement, or any other person providing a plan of health insurance subject to the authority of the Commissioner.</text>
-    </level>
-    <level>
-      <num>(23)</num>
-      <text>"Health maintenance organization" means:</text>
+      <num>(B)</num>
+      <text>Benefits not subject to the requirements of this chapter if offered separately including:</text>
       <level>
-        <num>(A)</num>
-        <text>A federally qualified health maintenance organization;</text>
+        <num>(i)</num>
+        <text>Limited scope dental or vision benefits;</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>An organization recognized under the laws of the District of Columbia as a health maintenance organization; or</text>
+        <num>(ii)</num>
+        <text>Benefits for long-term care, nursing home care, home health care, community-based care, or any combination thereof; and</text>
       </level>
       <level>
-        <num>(C)</num>
-        <text>A similar organization regulated under the laws of the District of Columbia for solvency in the same manner and to the same extent as such a health maintenance organization.</text>
+        <num>(iii)</num>
+        <text>Such other similar, limited benefits as are specified in regulations;</text>
       </level>
     </level>
     <level>
-      <num>(24)</num>
-      <text>"Health status-related factor" means the following in relation to the individual or a dependent eligible for coverage under a group health plan or health insurance coverage offered by a health insurer:</text>
+      <num>(C)</num>
+      <text>Benefits not subject to the requirements of this chapter if offered as independent, noncoordinated benefits including:</text>
       <level>
-        <num>(A)</num>
-        <text>Health status;</text>
+        <num>(i)</num>
+        <text>Coverage only for a specified disease or illness; and</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>Medical condition (including both physical and mental illnesses);</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Claims experience;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Receipt of health care;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Medical history;</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Genetic information;</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>Evidence of insurability (including conditions arising out of acts of domestic violence); or</text>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>Disability.</text>
+        <num>(ii)</num>
+        <text>Hospital indemnity or other fixed indemnity insurance; and</text>
       </level>
     </level>
     <level>
-      <num>(25)</num>
-      <text>"High level policy form" means a policy or plan under which the actuarial value of the benefit under the coverage is:</text>
+      <num>(D)</num>
+      <text>Benefits not subject to the requirements of this chapter if offered as a separate insurance policy including:</text>
       <level>
-        <num>(A)</num>
-        <text>At least 15% greater than the actuarial value of the low level policy form coverage offered by the carrier in the District of Columbia; and</text>
+        <num>(i)</num>
+        <text>Medicare supplemental health insurance (as defined under section 1882(g)(1) of the Social Security Act, approved June 9, 1980 (72 Stat. 1445; 42 U.S.C. § 1395ss(g)(1));</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>At least 100%, but not greater than 120%, of the weighted average.</text>
-      </level>
-    </level>
-    <level>
-      <num>(26)</num>
-      <text>"Individual health insurance coverage" means health insurance coverage offered to individuals in the individual market, but does not include coverage defined as excepted benefits. The term "individual health insurance coverage" does not include short-term limited duration coverage.</text>
-    </level>
-    <level>
-      <num>(27)</num>
-      <text>"Individual market" means the market for health insurance coverage offered to individuals other than in connection with a group health plan.</text>
-    </level>
-    <level>
-      <num>(28)</num>
-      <text>"Initial enrollment period" means a period of at least 30 days.</text>
-    </level>
-    <level>
-      <num>(29)</num>
-      <text>"Large employer" means, in connection with a group health plan or health insurance coverage with respect to a calendar year and a plan year, an employer who employed an average of at least 51 employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year.</text>
-    </level>
-    <level>
-      <num>(30)</num>
-      <text>"Large group market" means the health insurance market under which individuals obtain health insurance coverage (directly or through any arrangement) on behalf of themselves (and their dependents) through a group health plan maintained by a large employer or through a health insurer.</text>
-    </level>
-    <level>
-      <num>(31)</num>
-      <text>"Late enrollee" means an eligible employee or dependent who requests enrollment in a group health benefit plan after the initial enrollment period provided under the terms of the group health benefit plan, or a participant or beneficiary who enrolls under the plan other than during (i) the first period in which the individual is eligible to enroll under the plan, or (ii) a special enrollment period as required pursuant to this statute. An eligible employee or dependent shall not be considered a late enrollee if all of the conditions set forth below in subparagraphs (A) through (D) of this paragraph are met, or one of the conditions set forth below in subparagraphs (E) or (F) of this paragraph is met:</text>
-      <level>
-        <num>(A)</num>
-        <text>The individual was covered under a public or private health benefit plan at the time the individual was eligible to enroll;</text>
+        <num>(ii)</num>
+        <text>Coverage supplemental to the coverage provided under Chapter 55 of Title 10, United States Code (10 U.S.C. § 1071 et seq.); and</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>The individual certified at the time of initial enrollment that coverage under another health benefit plan was the reason for declining enrollment;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The individual has lost coverage under a public or private health benefit plan as a result of termination of employment or employment status eligibility, the termination of the other plan's entire group coverage, death of a spouse, or divorce;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>The individual requests enrollment within 30 days after termination of coverage provided under a public or private health benefit plan;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>The individual is employed by a small employer that offers multiple health benefit plans and the individual elects a different plan offered by that small employer during an open enrollment period; or</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>A court has ordered that coverage be provided for a spouse or minor child under a covered employee's health benefit plan, the minor is eligible for coverage and is a dependent, and the request for enrollment is made within 30 days after issuance of such court order. However, such individual may be considered a late enrollee for benefit riders or enhanced coverage levels not covered under the enrollee's prior plan.</text>
-      </level>
-    </level>
-    <level>
-      <num>(32)</num>
-      <text>"Low level policy form" means a policy or plan under which the actuarial value of the benefit under the coverage is at least 85%, but not greater than 100%, of the weighted average.</text>
-    </level>
-    <level>
-      <num>(33)</num>
-      <text>"Medical care" means amounts paid for the diagnosis, cure, mitigation, treatment, or prevention of disease, or amounts paid for the purpose of affecting any structure or function of the body.</text>
-    </level>
-    <level>
-      <num>(34)</num>
-      <text>"Network plan" means health insurance coverage of a health insurer under which the financing and delivery of medical care (including items and services paid for as medical care) are provided, in whole or in part, through a defined set of providers under contract with the health insurer.</text>
-    </level>
-    <level>
-      <num>(35)</num>
-      <text>"Nonfederal governmental plan" means a governmental plan that is not a federal governmental plan.</text>
-    </level>
-    <level>
-      <num>(36)</num>
-      <text>"Participant" has the meaning given such term under section 3(7) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 834; 29 U.S.C. § 1002(7)).</text>
-    </level>
-    <level>
-      <num>(37)</num>
-      <text>"Placed for adoption", "placement", or "being placed for adoption", in connection with any placement for adoption of a child with any person, means the assumption and retention by such person of a legal obligation for total or partial support of such child in anticipation of adoption of such child. The child's placement with such person terminates upon the termination of such legal obligation.</text>
-    </level>
-    <level>
-      <num>(38)</num>
-      <text>"Plan sponsor" has the meaning given such term under section 3(16)(B) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 835; 29 U.S.C. § 1002(16)(B)).</text>
-    </level>
-    <level>
-      <num>(39)</num>
-      <text>"Preexisting condition exclusion" means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the first day of coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before that day. Genetic information shall not be treated as a preexisting condition in the absence of a diagnosis of the condition related to such information.</text>
-    </level>
-    <level>
-      <num>(40)</num>
-      <text>"Preexisting conditions provision" means a provision in a health benefit plan that limits, denies, or excludes benefits for an enrollee for expenses or services related to a preexisting condition.</text>
-    </level>
-    <level>
-      <num>(41)</num>
-      <text>"Premium" means all moneys paid by a small employer and eligible employees as a condition of coverage from a health insurer, including fees and other contributions associated with the health benefit plan.</text>
-    </level>
-    <level>
-      <num>(42)</num>
-      <text>"Small employer" means an employer who employed an average of at least 2, but not more than 50, employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year.</text>
-    </level>
-    <level>
-      <num>(43)</num>
-      <text>"State" means each of the several states, and the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.</text>
-    </level>
-    <level>
-      <num>(44)</num>
-      <text>"Waiting period" means, with respect to a group health plan or health insurance coverage provided by a health insurer and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.</text>
-    </level>
-    <level>
-      <num>(45)</num>
-      <level>
-        <num>(A)</num>
-        <text>"Weighted average" means the average actuarial value of the benefits provided by:</text>
-        <level>
-          <num>(i)</num>
-          <text>All the health insurance coverages issued (as elected by the health insurer) either by that health insurer or by all health insurers in the District of Columbia in the individual market during the previous calendar year (not including coverage issued under this section), weighted by enrollment for the different coverages; or</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>All the health insurance coverages issued by all health insurers in the District of Columbia in the individual market, if the data are available, during the previous calendar year, weighted by enrollment for the different coverages.</text>
-        </level>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The term "weighted average" does not include coverages issued pursuant to § 31-3302.01(d)(1).</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The health insurer shall elect biennially, as provided in § 31- 3302.01(d)(3), whether to calculate the weighted average using the methodology in subparagraph (A)(i) or (ii) of this paragraph.</text>
+        <num>(iii)</num>
+        <text>Similar supplemental coverage provided to coverage under a group health plan.</text>
       </level>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(16)</num>
+    <text>"Federal governmental plan" means a governmental plan established or maintained for its employees by the government of the United States or by an agency or instrumentality of such government.</text>
+  </level>
+  <level>
+    <num>(17)</num>
+    <text>"Governmental plan" has the meaning given such term under section 3(32) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 837; 29 U.S.C. § 1002(32)) and any federal governmental plan.</text>
+  </level>
+  <level>
+    <num>(18)</num>
+    <text>"Group health insurance coverage" means health insurance coverage offered in connection with a group health plan.</text>
+  </level>
+  <level>
+    <num>(19)</num>
+    <text>"Group health plan" means an employee welfare benefit plan (as defined in section 3(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. § 1002(1)), to the extent that the plan provides medical care and includes items and services paid for as medical care to employees or their dependents (as defined under the terms of the plan) directly or through insurance, reimbursement, or otherwise.</text>
+  </level>
+  <level>
+    <num>(20)</num>
+    <text>"Health benefit plan" means any accident and health insurance policy or certificate, hospital and medical services corporation contract, health maintenance organization subscriber contract, plan provided by a multiple employer welfare arrangement, or plan provided by another benefit arrangement. The term "health benefit plan" does not mean accident only, credit, or disability insurance; coverage of Medicare services or federal employee health plans, pursuant to contracts with the United States government; Medicare supplement or long-term care insurance; dental only or vision only insurance; specified disease insurance; hospital confinement indemnity coverage; limited benefit health coverage; coverage issued as a supplement to liability insurance; insurance arising out of a workers' compensation or similar law; automobile medical payment insurance; medical expense and loss of income benefits; or insurance under which benefits are payable with or without regard to fault and that is statutorily required to be contained in any liability insurance policy or equivalent self-insurance.</text>
+  </level>
+  <level>
+    <num>(21)</num>
+    <text>"Health insurance coverage" means benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise and includes items and services paid for as medical care) under any hospital or medical service policy or certificate, hospital, or medical service plan contract, or health maintenance organization contract offered by a health insurer.</text>
+  </level>
+  <level>
+    <num>(22)</num>
+    <text>"Health insurer" means any person that provides one or more health benefit plans or insurance in the District of Columbia, including an insurer, a hospital and medical services corporation, a fraternal benefit society, a health maintenance organization, a multiple employer welfare arrangement, or any other person providing a plan of health insurance subject to the authority of the Commissioner.</text>
+  </level>
+  <level>
+    <num>(23)</num>
+    <text>"Health maintenance organization" means:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>A federally qualified health maintenance organization;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>An organization recognized under the laws of the District of Columbia as a health maintenance organization; or</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>A similar organization regulated under the laws of the District of Columbia for solvency in the same manner and to the same extent as such a health maintenance organization.</text>
+    </level>
+  </level>
+  <level>
+    <num>(24)</num>
+    <text>"Health status-related factor" means the following in relation to the individual or a dependent eligible for coverage under a group health plan or health insurance coverage offered by a health insurer:</text>
+    <level>
+      <num>(A)</num>
+      <text>Health status;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Medical condition (including both physical and mental illnesses);</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Claims experience;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Receipt of health care;</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Medical history;</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>Genetic information;</text>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>Evidence of insurability (including conditions arising out of acts of domestic violence); or</text>
+    </level>
+    <level>
+      <num>(H)</num>
+      <text>Disability.</text>
+    </level>
+  </level>
+  <level>
+    <num>(25)</num>
+    <text>"High level policy form" means a policy or plan under which the actuarial value of the benefit under the coverage is:</text>
+    <level>
+      <num>(A)</num>
+      <text>At least 15% greater than the actuarial value of the low level policy form coverage offered by the carrier in the District of Columbia; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>At least 100%, but not greater than 120%, of the weighted average.</text>
+    </level>
+  </level>
+  <level>
+    <num>(26)</num>
+    <text>"Individual health insurance coverage" means health insurance coverage offered to individuals in the individual market, but does not include coverage defined as excepted benefits. The term "individual health insurance coverage" does not include short-term limited duration coverage.</text>
+  </level>
+  <level>
+    <num>(27)</num>
+    <text>"Individual market" means the market for health insurance coverage offered to individuals other than in connection with a group health plan.</text>
+  </level>
+  <level>
+    <num>(28)</num>
+    <text>"Initial enrollment period" means a period of at least 30 days.</text>
+  </level>
+  <level>
+    <num>(29)</num>
+    <text>"Large employer" means, in connection with a group health plan or health insurance coverage with respect to a calendar year and a plan year, an employer who employed an average of at least 51 employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year.</text>
+  </level>
+  <level>
+    <num>(30)</num>
+    <text>"Large group market" means the health insurance market under which individuals obtain health insurance coverage (directly or through any arrangement) on behalf of themselves (and their dependents) through a group health plan maintained by a large employer or through a health insurer.</text>
+  </level>
+  <level>
+    <num>(31)</num>
+    <text>"Late enrollee" means an eligible employee or dependent who requests enrollment in a group health benefit plan after the initial enrollment period provided under the terms of the group health benefit plan, or a participant or beneficiary who enrolls under the plan other than during (i) the first period in which the individual is eligible to enroll under the plan, or (ii) a special enrollment period as required pursuant to this statute. An eligible employee or dependent shall not be considered a late enrollee if all of the conditions set forth below in subparagraphs (A) through (D) of this paragraph are met, or one of the conditions set forth below in subparagraphs (E) or (F) of this paragraph is met:</text>
+    <level>
+      <num>(A)</num>
+      <text>The individual was covered under a public or private health benefit plan at the time the individual was eligible to enroll;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The individual certified at the time of initial enrollment that coverage under another health benefit plan was the reason for declining enrollment;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The individual has lost coverage under a public or private health benefit plan as a result of termination of employment or employment status eligibility, the termination of the other plan's entire group coverage, death of a spouse, or divorce;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>The individual requests enrollment within 30 days after termination of coverage provided under a public or private health benefit plan;</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>The individual is employed by a small employer that offers multiple health benefit plans and the individual elects a different plan offered by that small employer during an open enrollment period; or</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>A court has ordered that coverage be provided for a spouse or minor child under a covered employee's health benefit plan, the minor is eligible for coverage and is a dependent, and the request for enrollment is made within 30 days after issuance of such court order. However, such individual may be considered a late enrollee for benefit riders or enhanced coverage levels not covered under the enrollee's prior plan.</text>
+    </level>
+  </level>
+  <level>
+    <num>(32)</num>
+    <text>"Low level policy form" means a policy or plan under which the actuarial value of the benefit under the coverage is at least 85%, but not greater than 100%, of the weighted average.</text>
+  </level>
+  <level>
+    <num>(33)</num>
+    <text>"Medical care" means amounts paid for the diagnosis, cure, mitigation, treatment, or prevention of disease, or amounts paid for the purpose of affecting any structure or function of the body.</text>
+  </level>
+  <level>
+    <num>(34)</num>
+    <text>"Network plan" means health insurance coverage of a health insurer under which the financing and delivery of medical care (including items and services paid for as medical care) are provided, in whole or in part, through a defined set of providers under contract with the health insurer.</text>
+  </level>
+  <level>
+    <num>(35)</num>
+    <text>"Nonfederal governmental plan" means a governmental plan that is not a federal governmental plan.</text>
+  </level>
+  <level>
+    <num>(36)</num>
+    <text>"Participant" has the meaning given such term under section 3(7) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 834; 29 U.S.C. § 1002(7)).</text>
+  </level>
+  <level>
+    <num>(37)</num>
+    <text>"Placed for adoption", "placement", or "being placed for adoption", in connection with any placement for adoption of a child with any person, means the assumption and retention by such person of a legal obligation for total or partial support of such child in anticipation of adoption of such child. The child's placement with such person terminates upon the termination of such legal obligation.</text>
+  </level>
+  <level>
+    <num>(38)</num>
+    <text>"Plan sponsor" has the meaning given such term under section 3(16)(B) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 835; 29 U.S.C. § 1002(16)(B)).</text>
+  </level>
+  <level>
+    <num>(39)</num>
+    <text>"Preexisting condition exclusion" means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the first day of coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before that day. Genetic information shall not be treated as a preexisting condition in the absence of a diagnosis of the condition related to such information.</text>
+  </level>
+  <level>
+    <num>(40)</num>
+    <text>"Preexisting conditions provision" means a provision in a health benefit plan that limits, denies, or excludes benefits for an enrollee for expenses or services related to a preexisting condition.</text>
+  </level>
+  <level>
+    <num>(41)</num>
+    <text>"Premium" means all moneys paid by a small employer and eligible employees as a condition of coverage from a health insurer, including fees and other contributions associated with the health benefit plan.</text>
+  </level>
+  <level>
+    <num>(42)</num>
+    <text>"Small employer" means an employer who employed an average of at least 2, but not more than 50, employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year.</text>
+  </level>
+  <level>
+    <num>(43)</num>
+    <text>"State" means each of the several states, and the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.</text>
+  </level>
+  <level>
+    <num>(44)</num>
+    <text>"Waiting period" means, with respect to a group health plan or health insurance coverage provided by a health insurer and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.</text>
+  </level>
+  <level>
+    <num>(45)</num>
+    <level>
+      <num>(A)</num>
+      <text>"Weighted average" means the average actuarial value of the benefits provided by:</text>
+      <level>
+        <num>(i)</num>
+        <text>All the health insurance coverages issued (as elected by the health insurer) either by that health insurer or by all health insurers in the District of Columbia in the individual market during the previous calendar year (not including coverage issued under this section), weighted by enrollment for the different coverages; or</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>All the health insurance coverages issued by all health insurers in the District of Columbia in the individual market, if the data are available, during the previous calendar year, weighted by enrollment for the different coverages.</text>
+      </level>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The term "weighted average" does not include coverages issued pursuant to § 31-3302.01(d)(1).</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The health insurer shall elect biennially, as provided in § 31-3302.01(d)(3), whether to calculate the weighted average using the methodology in subparagraph (A)(i) or (ii) of this paragraph.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Apr. 13, 1999, D.C. Law 12-209, § 101, 45 DCR 8433; June 11, 2004, D.C. Law 15-166, § 4(s)(1), 51 DCR 2817; Sept. 12, 2008, D.C. Law 17-231, § 27(a), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1021.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-166, in par. (7), substituted "Commissioner of the Department of Insurance, Securities, and Banking" for "Commissioner of the Department of Insurance and Securities Regulation".</text>
-        <text>D.C. Law 17-231 added par. (9A).</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>Sections 101 through 314 of D.C. Law 12-27 and D.C. Law 12-154 enacted §§ 35- 1021 through 35-1044, comprising Chapter 10A of Title 35 [1981 Ed.].</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary addition of chapter, see §§ 101-314 of the Health Insurance Portability and Accountability Federal Law Conformity Emergency Act of 1997 (D.C. Act 12-96, July 2, 1997, 44 DCR 4000), §§ 101-314 of the Health Insurance Portability and Accountability Federal Law Conformity Congressional Recess Emergency Act of 1997 (D.C. Act 12-151, September 29, 1997, 44 DCR 5769), and §§ 101-314 of the Health Insurance Portability and Accountability Federal Law Conformity Emergency Amendment Act of 1998 (D.C. Act 12-339, May 4, 1998, 45 DCR 2947).</text>
-        <text>For temporary addition of chapter, see §§ 101-314 of the Health Insurance Portability and Accountability Federal Law Conformity, Motor Vehicle Insurance, Regulatory Reform, and Consumer Law Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-429, August 6, 1998, 45 DCR 5890).</text>
-        <text>For temporary (90 day) amendment of section, see § 4(s)(1) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
-        <text>For temporary (90 day) workers' compensation and health insurance and portability and accountability approval requirement, see § 1122 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004, 51 DCR 8236).</text>
-        <text>For temporary (90 day) workers' compensation and health insurance and portability and accountability approval requirement, see § 1122 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15- 594, October 26, 2004, 51 DCR 11725).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 12-209, the "Health Insurance Portability and Accountability Federal Law Conformity and No-Fault Motor Vehicle Insurance Act of 1998," was introduced in Council and assigned Bill No. 12-419, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second reading on July 7, 1998, and September 22, 1998, respectively. Signed by the Mayor on October 16, 1998, it was assigned Act No. 12-496, and transmitted to both Houses of Congress for its review. D.C. Law 12-209 became effective on April 13, 1999.</text>
-        <text>For Law 15-166, see notes following § 31-1004.</text>
-        <text>Law 15-205, the "Fiscal Year 2005 Budget Support Act of 2004", was introduced in Council and assigned Bill No. 15-768, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 14, 2004, and June 29, 2004, respectively. Signed by the Mayor on August 2, 2004, it was assigned Act No. 15-487 and transmitted to both Houses of Congress for its review. D.C. Law 15-205 became effective on December 7, 2004.</text>
-        <text>Law 17-231, the "Omnibus Domestic Partnership Equality Amendment Act of 2008", was introduced in Council and assigned Bill No. 17-135, which was referred to the Committee on Public Safety and the Judiciary. The Bill was adopted on first and second readings on April 1, 2008, and May 6, 2008, respectively. Signed by the Mayor on June 6, 2008, it was assigned Act No. 17-403 and transmitted to both Houses of Congress for its review. D.C. Law 17-231 became effective on September 12, 2008.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title of subtitle L of title I of Law 15-205: Section 1121 of D.C. Law 15-205 provided that subtitle L of title I of the act may be cited as the Workers' Compensation and Health Insurance Portability and Accountability Approval Requirement Act of 2004.</text>
-        <text>Section 1122 of D.C. Law 15-205 provides: "No funds shall be expended relating to the Health Insurance Portability and Accountability Act, approved August 21, 1996 (104 Pub. L. No. 191; 110 Stat. 1936), and the District's Workers' Compensation administration without affirmative approval of the expenditure by the Council."</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-851 and § 31-3302.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1021.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-166, in par. (7), substituted "Commissioner of the Department of Insurance, Securities, and Banking" for "Commissioner of the Department of Insurance and Securities Regulation".</text>
+      <text>D.C. Law 17-231 added par. (9A).</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>Sections 101 through 314 of D.C. Law 12-27 and D.C. Law 12-154 enacted §§ 35-1021 through 35-1044, comprising Chapter 10A of Title 35 (1981 Ed.).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary addition of chapter, see §§ 101-314 of the Health Insurance Portability and Accountability Federal Law Conformity Emergency Act of 1997 (D.C. Act 12-96, July 2, 1997, 44 DCR 4000), §§ 101-314 of the Health Insurance Portability and Accountability Federal Law Conformity Congressional Recess Emergency Act of 1997 (D.C. Act 12-151, September 29, 1997, 44 DCR 5769), and §§ 101-314 of the Health Insurance Portability and Accountability Federal Law Conformity Emergency Amendment Act of 1998 (D.C. Act 12-339, May 4, 1998, 45 DCR 2947).</text>
+      <text>For temporary addition of chapter, see §§ 101-314 of the Health Insurance Portability and Accountability Federal Law Conformity, Motor Vehicle Insurance, Regulatory Reform, and Consumer Law Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-429, August 6, 1998, 45 DCR 5890).</text>
+      <text>For temporary (90 day) amendment of section, see § 4(s)(1) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
+      <text>For temporary (90 day) workers' compensation and health insurance and portability and accountability approval requirement, see § 1122 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004, 51 DCR 8236).</text>
+      <text>For temporary (90 day) workers' compensation and health insurance and portability and accountability approval requirement, see § 1122 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004, 51 DCR 11725.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-209</heading>
+      <text>Law 12-209, the "Health Insurance Portability and Accountability Federal Law Conformity and No-Fault Motor Vehicle Insurance Act of 1998," was introduced in Council and assigned Bill No. 12-419, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second reading on July 7, 1998, and September 22, 1998, respectively. Signed by the Mayor on October 16, 1998, it was assigned Act No. 12-496, and transmitted to both Houses of Congress for its review. D.C. Law 12-209 became effective on April 13, 1999.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-166</heading>
+      <text>For Law 15-166, see notes following § 31-1004.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-205</heading>
+      <text>Law 15-205, the "Fiscal Year 2005 Budget Support Act of 2004", was introduced in Council and assigned Bill No. 15-768, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 14, 2004, and June 29, 2004, respectively. Signed by the Mayor on August 2, 2004, it was assigned Act No. 15-487 and transmitted to both Houses of Congress for its review. D.C. Law 15-205 became effective on December 7, 2004.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>Law 17-231, the "Omnibus Domestic Partnership Equality Amendment Act of 2008", was introduced in Council and assigned Bill No. 17-135, which was referred to the Committee on Public Safety and the Judiciary. The Bill was adopted on first and second readings on April 1, 2008, and May 6, 2008, respectively. Signed by the Mayor on June 6, 2008, it was assigned Act No. 17-403 and transmitted to both Houses of Congress for its review. D.C. Law 17-231 became effective on September 12, 2008.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title of subtitle L of title I of Law 15-205: Section 1121 of D.C. Law 15-205 provided that subtitle L of title I of the act may be cited as the Workers' Compensation and Health Insurance Portability and Accountability Approval Requirement Act of 2004.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 1122 of D.C. Law 15-205 provided: "No funds shall be expended relating to the Health Insurance Portability and Accountability Act, approved August 21, 1996 (104 Pub. L. No. 191; 110 Stat. 1936), and the District's Workers' Compensation administration without affirmative approval of the expenditure by the Council."</text>
     </level>
   </level>
 </level>

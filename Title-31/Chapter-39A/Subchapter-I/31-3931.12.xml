@@ -82,7 +82,7 @@
   </level>
   <level>
     <num>(i)</num>
-    <text>A captive insurer that is issued a certificate of authority during the last quarter of the calendar year may file a written request with the Commissioner for a reduction in the minimum premium tax obligation calculated pursuant to subsections (c) and (d) of this section. The Commissioner may grant the a request pursuant to an appropriate methodology adopted by rule.</text>
+    <text>A captive insurer that is issued a certificate of authority during the last quarter of the calendar year may file a written request with the Commissioner for a reduction in the minimum premium tax obligation calculated pursuant to subsections (c) and (d) of this section. The Commissioner may grant the a [sic] request pursuant to an appropriate methodology adopted by rule.</text>
   </level>
   <level>
     <num>(j)</num>
@@ -96,37 +96,48 @@
     <num>(l)</num>
     <text>Repealed.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 17, 2005, D.C. Law 15-262, § 13, 52 DCR 1205; Apr. 7, 2006, D.C. Law 16-91, § 102(b), 52 DCR 10637; Mar. 2, 2007, D.C. Law 16-191, § 54(c), 53 DCR 6794; Aug. 16, 2008, D.C. Law 17-219, § 2014, 55 DCR 7598.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-91, in subsec. (k), validated previously made technical corrections.</text>
-        <text>D.C. Law 16-191, in subsec. (k), validated a previously made technical correction.</text>
-        <text>D.C. Law 17-219 added subsec. (a-1); in subsec. (d), substituted "subsections (a-1) and (b)" for "subsections (a) and (b)" and substituted "$15,000" for "$10,000"; and repealed subsec. (l), which had read as follows:</text>
-        <text>"(l) In determining the amount of premium taxes payable under this section, any insurance contract entered into by a captive insurance company issued a certificate of authority pursuant to this chapter, regardless of the location of the risk or the domicile of the purchaser, shall be subject to the payment of premium taxes on that transaction to the District of Columbia; provided, that upon presentation of evidence that another jurisdiction has claimed, and the company has paid, premium taxes to that jurisdiction on the same transaction, the company may credit the amount paid to the other jurisdiction against premium taxes owed to the District of Columbia."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 13 of Captive Insurance Company Emergency Act of 2004 (D.C. Act 15-640, November 30, 2004, 52 DCR 1238).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-262, see notes following § 31-3931.01.</text>
-        <text>For Law 16-91, see notes following § 31-3931.02.</text>
-        <text>For Law 16-191, see notes following § 31-1131.02.</text>
-        <text>For Law 17-219, see notes following § 31-3403.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 2013 of D.C. Law 17-219 provided that subtitle F of title II of the act may be cited as the "Captive Insurance Company Adjustment Amendment Act of 2008".</text>
-        <text>Section 2015 of D.C. Law 17-219 provides that this subtitle shall apply as of January 1, 2008.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-3931.13 and § 31-3932.03.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-91, in subsec. (k), validated previously made technical corrections.</text>
+      <text>D.C. Law 16-191, in subsec. (k), validated a previously made technical correction.</text>
+      <text>D.C. Law 17-219 added subsec. (a-1); in subsec. (d), substituted "subsections (a-1) and (b)" for "subsections (a) and (b)" and substituted "$15,000" for "$10,000"; and repealed subsec. (l), which had read as follows: "(l) In determining the amount of premium taxes payable under this section, any insurance contract entered into by a captive insurance company issued a certificate of authority pursuant to this chapter, regardless of the location of the risk or the domicile of the purchaser, shall be subject to the payment of premium taxes on that transaction to the District of Columbia; provided, that upon presentation of evidence that another jurisdiction has claimed, and the company has paid, premium taxes to that jurisdiction on the same transaction, the company may credit the amount paid to the other jurisdiction against premium taxes owed to the District of Columbia."</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 13 of Captive Insurance Company Emergency Act of 2004 (D.C. Act 15-640, November 30, 2004, 52 DCR 1238).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-262</heading>
+      <text>For Law 15-262, see notes following § 31-3931.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-91</heading>
+      <text>For Law 16-91, see notes following § 31-3931.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 31-1131.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-219</heading>
+      <text>For Law 17-219, see notes following § 31-3403.01.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 2013 of D.C. Law 17-219 provided that subtitle F of title II of the act may be cited as the "Captive Insurance Company Adjustment Amendment Act of 2008".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 2015 of D.C. Law 17-219 provided that this subtitle shall apply as of January 1, 2008.</text>
     </level>
   </level>
 </level>

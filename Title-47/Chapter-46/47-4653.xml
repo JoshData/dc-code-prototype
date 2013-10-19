@@ -16,22 +16,18 @@
     <num>(b)</num>
     <text>All unpaid real property taxes, interest, penalties, fees, and other related charges assessed against real property located at Lot 0874, Square 5877, since June 1, 2009, through the first day of the month following [September 14, 2011], are forgiven, and any payment already made for this period shall be refunded.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 2011, D.C. Law 19-21, § 7132(b), 58 DCR 6226.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-21, see notes under § 47-305.02.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 7131 of D.C. Law 19-21 provided that subtitle N of title VII of the act may be cited as "Universal Holiness Church Real Property Tax Relief and Exemption Act of 2011".</text>
-      </level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 47-305.02.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 7131 of D.C. Law 19-21 provided that subtitle N of title VII of the act may be cited as "Universal Holiness Church Real Property Tax Relief and Exemption Act of 2011".</text>
     </level>
   </level>
 </level>

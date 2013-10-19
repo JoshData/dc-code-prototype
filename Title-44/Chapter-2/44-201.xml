@@ -1,149 +1,131 @@
 <level type="section">
   <num>44-201</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 32-1501</formerly-cited-as>
   <text>For the purposes of this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>Repealed.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Board" means the Laboratory Advisory Board established by § 44-206.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Clinical laboratory" means a facility for the biological, microbiological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological or other examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings. Such examination also includes one or more procedures to determine, measure, or otherwise describe the presence or absence of various substances or organisms in the human body. The term "clinical laboratory" shall include all independent, hospital, physician-operated, health-care, and District of Columbia government laboratories.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Repealed.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Cytotechnologist" means a person who meets qualifications for a cytotechnologist under 42 CFR § 493.1483.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Repealed.</text>
+  </level>
+  <level>
+    <num>(6A)</num>
+    <text>"Highly complex test" means a laboratory test that requires sophisticated techniques, interpretations of multiple signals, or proven technical skill. Highly complex tests may require:</text>
     <level>
-      <num>(1)</num>
-      <text>Repealed.</text>
+      <num>(A)</num>
+      <text>Highly skilled physical manipulation;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Board" means the Laboratory Advisory Board established by § 44-206.</text>
+      <num>(B)</num>
+      <text>Technique dependent steps in the testing, sampling, or reading of results;</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>"Clinical laboratory" means a facility for the biological, microbiological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological or other examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings. Such examination also includes one or more procedures to determine, measure, or otherwise describe the presence or absence of various substances or organisms in the human body. The term "clinical laboratory" shall include all independent, hospital, physician-operated, health-care, and District of Columbia government laboratories.</text>
+      <num>(C)</num>
+      <text>User Programming of a device;</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>Repealed.</text>
+      <num>(D)</num>
+      <text>Detailed calculation of the results;</text>
     </level>
     <level>
-      <num>(5)</num>
-      <text>"Cytotechnologist" means a person who meets qualifications for a cytotechnologist under 42 CFR § 493.1483.</text>
+      <num>(E)</num>
+      <text>Dilution of samples with chemically reactive substances; or</text>
     </level>
     <level>
-      <num>(6)</num>
-      <text>Repealed.</text>
-    </level>
-    <level>
-      <num>(6A)</num>
-      <text>"Highly complex test" means a laboratory test that requires sophisticated techniques, interpretations of multiple signals, or proven technical skill. Highly complex tests may require:</text>
-      <level>
-        <num>(A)</num>
-        <text>Highly skilled physical manipulation;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Technique dependent steps in the testing, sampling, or reading of results;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>User Programming of a device;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Detailed calculation of the results;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Dilution of samples with chemically reactive substances; or</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Preparation of reagents.</text>
-      </level>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"Laboratory director" means the person responsible for administration of the technical and scientific operation of a clinical laboratory, including supervision of procedures and reporting findings of tests.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Laboratory reference system" means a system of periodic testing of methods, procedures, and materials of laboratories, including the distribution of manuals of approved methods, inspection of facilities, and cooperative research.</text>
-    </level>
-    <level>
-      <num>(8A)</num>
-      <text>"Moderately complex test" means a laboratory test that requires a series of steps, reagents, additions, or instrumentation, the result of which is determined by a visual signal.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>Repealed.</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Proficiency testing program" means an external program approved by the Mayor to monitor proficiency in the performance of medical laboratory tests.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>Repealed.</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>"Specimen" means materials derived from the human body.</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>"Testing event" means a specific evaluation or set of evaluations offered or performed by a laboratory to test accuracy as part of required proficiency testing.</text>
-    </level>
-    <level>
-      <num>(14)</num>
-      <text>"Testing personnel" means an individual employed or otherwise engaged by a clinical laboratory to perform clinical laboratory tests or examinations.</text>
-    </level>
-    <level>
-      <num>(15)</num>
-      <text>"Waived test" means a test that is non-instrumental in nature, the result of which is determined by a visual signal.</text>
+      <num>(F)</num>
+      <text>Preparation of reagents.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(7)</num>
+    <text>"Laboratory director" means the person responsible for administration of the technical and scientific operation of a clinical laboratory, including supervision of procedures and reporting findings of tests.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Laboratory reference system" means a system of periodic testing of methods, procedures, and materials of laboratories, including the distribution of manuals of approved methods, inspection of facilities, and cooperative research.</text>
+  </level>
+  <level>
+    <num>(8A)</num>
+    <text>"Moderately complex test" means a laboratory test that requires a series of steps, reagents, additions, or instrumentation, the result of which is determined by a visual signal.</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>Repealed.</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"Proficiency testing program" means an external program approved by the Mayor to monitor proficiency in the performance of medical laboratory tests.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>Repealed.</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>"Specimen" means materials derived from the human body.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>"Testing event" means a specific evaluation or set of evaluations offered or performed by a laboratory to test accuracy as part of required proficiency testing.</text>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>"Testing personnel" means an individual employed or otherwise engaged by a clinical laboratory to perform clinical laboratory tests or examinations.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>"Waived test" means a test that is non-instrumental in nature, the result of which is determined by a visual signal.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1989, D.C. Law 7-182, § 2, 35 DCR 7718; Oct. 20, 2005, D.C. Law 16-33, § 5012(a), 52 DCR 7503.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-1501.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-33, repealed pars. (1), (4), (6), (9) and (11); added pars. (6A), (8A), (13), (14) and (15); and rewrote pars. (3), (5) and (7), which had read as follows:</text>
-        <text>"(1) 'Basic test' means a laboratory test that requires a series of steps, reagents, additions, or instrumentation, and the result of which is determined by a visual signal."</text>
-        <text>"(3) 'Clinical laboratory' means a facility for the microbiological, serological, chemical, hematological, biophysical, cytological, or pathological examination of materials derived from the human body, for the purpose of obtaining information for the diagnosis, prevention, or treatment of disease, or the assessment of health. The term "clinical laboratory" shall include all independent, hospital, and District of Columbia government laboratories.</text>
-        <text>"(4) 'Complex test' means a laboratory test that requires sophisticated techniques, interpretation of multiple signals, or proven technical skill. Complex tests may require:</text>
-        <text>"(A) Highly skilled physical manipulation;</text>
-        <text>"(B) Technique dependent steps in the testing, sampling, or reading of results;</text>
-        <text>"(C) User programming of the device or devices;</text>
-        <text>"(D) Detailed calculation of the results;</text>
-        <text>"(E) Dilution of samples with chemically reactive substances; or</text>
-        <text>"(F) Preparation of reagents."</text>
-        <text>"(5) 'Cytotechnologist' means a person who meets qualifications for a cytotechnologist under 42 C.F.R. § 405.1315(c) (1987).</text>
-        <text>"(6) 'Exempt test' means a laboratory test that shall not be performed in a physician's office laboratory including pap smear test and tests for drug abuse.</text>
-        <text>"(7) 'Laboratory director' means the person responsible for administration of the technical and scientific operation of clinical laboratory, including supervision of procedures and reporting of findings of tests."</text>
-        <text>"(9) 'Physician office laboratory' means a laboratory operated by a physician or a physician group that performs medical laboratory tests for the patients of the physician or physician group, and does not accept referral specimens."</text>
-        <text>"(11) 'Simple test' means a test that is noninstrumental in nature, and the result of which is determined by a visual signal."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 5012(a) of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 7-182, the "Clinical Laboratory Act of 1988", was introduced in Council and assigned Bill No. 7-373, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on July 12, 1988, and September 27, 1988, respectively. Signed by the Mayor on October 13, 1988, it was assigned Act No. 7-240 and transmitted to both Houses of Congress for its review.</text>
-        <text>For Law 16-33, see notes following § 44-504.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>The reference to "42 C.F.R. § 405.1315(c) (1987)", appearing in (5), does not appear in the 1990 edition of CFR.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title of subtitle B of title V of Law 16-33: Section 5011 of D.C. Law 16-33 provided that subtitle B of title V of the act may be cited as the Clinical Laboratory Amendment Act of 2005.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-1501.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-33, repealed pars. (1), (4), (6), (9) and (11); added pars. (6A), (8A), (13), (14) and (15); and rewrote pars. (3), (5) and (7).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 5012(a) of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-182</heading>
+      <text>Law 7-182, the "Clinical Laboratory Act of 1988", was introduced in Council and assigned Bill No. 7-373, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on July 12, 1988, and September 27, 1988, respectively. Signed by the Mayor on October 13, 1988, it was assigned Act No. 7-240 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-33</heading>
+      <text>For Law 16-33, see notes following § 44-504.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title of subtitle B of title V of Law 16-33: Section 5011 of D.C. Law 16-33 provided that subtitle B of title V of the act may be cited as the Clinical Laboratory Amendment Act of 2005.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>The reference to "42 C.F.R. § 405.1315(c) (1987)", appearing in (5), does not appear in the 1990 edition of CFR.</text>
     </level>
   </level>
 </level>

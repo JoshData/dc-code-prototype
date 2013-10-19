@@ -1,7 +1,6 @@
 <level type="section">
   <num>44-406</num>
   <heading>Certificate of need requirements.</heading>
-  <formerly-cited-as>DC ST 1981 § 32-356</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as provided in § 44-407, all persons proposing to offer or develop in the District a new institutional health service, or to obligate a capital expenditure to obtain an asset to be located in the District shall, prior to proceeding with that offering, development, or obligation, obtain from the SHPDA a certificate of need that demonstrates a public need for the new service or expenditure. Only those institutional health services or capital expenditures that are granted a certificate of need shall be offered, developed, or obligated within the District.</text>
@@ -124,34 +123,36 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>A conversion or acquiring of effective control, as defined in § 44- 401(1), of a nonprofit HCF shall not be approved by the Attorney General for the District of Columbia unless charitable assets of the HCF have been adequately protected pursuant to the provisions of the Healthcare Entity Conversion Act of 1997.</text>
+    <text>A conversion or acquiring of effective control, as defined in § 44-401(1), of a nonprofit HCF shall not be approved by the Attorney General for the District of Columbia unless charitable assets of the HCF have been adequately protected pursuant to the provisions of the Healthcare Entity Conversion Act of 1997.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 9, 1997, D.C. Law 11-191, § 7, 43 DCR 4535; June 3, 1997, D.C. Law 12-32, § 12(a)(2), 44 DCR 4819; Apr. 13, 2005, D.C. Law 15-354, § 64(a), 52 DCR 2638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-356.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-354 substituted "Attorney General for the District of Columbia" for "Corporation Counsel".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-191, see Historical and Statutory Notes following § 44-401.</text>
-        <text>For legislative history of D.C. Law 12-32, see Historical and Statutory Notes following § 44-401.</text>
-        <text>For Law 15-354, see notes following § 44-212.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>The "Healthcare Entity Conversion Act of 1997," referred to in (d), is D.C. Law 12-32.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-356.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-354 substituted "Attorney General for the District of Columbia" for "Corporation Counsel".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-191</heading>
+      <text>For legislative history of D.C. Law 11-191, see Historical and Statutory Notes following § 44-401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-32</heading>
+      <text>For legislative history of D.C. Law 12-32, see Historical and Statutory Notes following § 44-401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 44-212.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>The "Healthcare Entity Conversion Act of 1997," referred to in (d), is D.C. Law 12-32.</text>
     </level>
   </level>
 </level>

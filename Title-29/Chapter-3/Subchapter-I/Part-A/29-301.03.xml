@@ -1,112 +1,150 @@
 <level type="section">
   <num>29-301.03</num>
-  <heading>Notice.</heading>
+  <heading>Notice and other communications.</heading>
   <level>
     <num>(a)</num>
-    <text>Notice under this chapter shall be in the form of a record unless oral notice is authorized by this chapter or is reasonable under the circumstances.</text>
+    <text>Notice under this chapter must be in writing unless oral notice is reasonable under the circumstances. Unless otherwise agreed between the sender and the recipient, words in a notice or other communication under this chapter must be in English.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>Notice may be communicated in person or by delivery. If these forms of communication are impracticable, notice may be communicated by a newspaper of general circulation in the area where published, or by radio, television, or other form of public broadcast communication, including the Internet.</text>
+    <text>A notice or other communication may be given or sent by any method of delivery, except that electronic transmissions must be sent in accordance with this section. If these methods of communication are impracticable, a notice or other communication may be communicated by a newspaper of general circulation in the area where published, or by radio, television, or other form of public broadcast communication.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text>Notice in the form of a record by a domestic or qualified foreign corporation to a shareholder shall be effective:</text>
-    <level>
-      <num>(1)</num>
-      <text>Upon deposit in the United States mail or with a commercial delivery service, if the postage or delivery charge is paid and the notice is correctly addressed to the shareholder's address shown in the corporation's current record of shareholders; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>When given if the notice is delivered in any other manner that the member has authorized.</text>
-    </level>
+    <text>Notice or other communication to a domestic or a registered foreign corporation may be delivered to its registered agent at its registered office or to the secretary of the corporation at its principal office shown in its most recent annual report or, in the case of a foreign corporation that has not yet delivered an annual report, in its application for a certificate of registration.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text>Notice to a domestic or qualified foreign corporation may be delivered to its registered agent or to the corporation or its secretary at its principal office shown in its most recent biennial report or, in the case of a foreign corporation that has not yet delivered a biennial report, in its application for a certificate of registration.</text>
-  </level>
-  <level>
-    <num>(e)</num>
-    <text>Except as otherwise provided in subsection (c) of this section, notice shall be effective at the earliest of the following:</text>
+    <text>Notice or other communications may be delivered by electronic transmission if:</text>
     <level>
       <num>(1)</num>
-      <text>When received;</text>
+      <text>The recipient consents or if authorized by subsection (k) of this section;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>When left at the recipient's residence or usual place of business;</text>
+      <text>The electronic transmission contains or is accompanied by information from which the recipient can determine the date of the transmission; and</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>Five days after its deposit in the United States mail or with a commercial delivery service, if the postage or delivery charge is paid and the notice is correctly addressed; or</text>
+      <text>The transmission was authorized by the sender.</text>
+    </level>
+  </level>
+  <level>
+    <num>(e)</num>
+    <text>Consent under subsection (d) of this section may be revoked by giving written or electronic notice to the original recipient of the consent. Any such consent is deemed revoked if:</text>
+    <level>
+      <num>(1)</num>
+      <text>Two consecutive electronic transmissions are undeliverable; and</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>On the date shown on the return receipt, if sent by registered or certified mail, return receipt requested, or by commercial delivery service.</text>
+      <num>(2)</num>
+      <text>The secretary, assistant secretary, transfer agent, or other person responsible for the provision of notice or other communications knows of the delivery failure. Any inadvertent failure to treat such inability as a revocation shall not invalidate any meeting or other action.</text>
     </level>
   </level>
   <level>
     <num>(f)</num>
-    <text>Oral notice shall be effective when communicated, if communicated in a comprehensible manner.</text>
+    <text>Unless otherwise agreed between sender and recipient, an electronic transmission is considered received when:</text>
+    <level>
+      <num>(1)</num>
+      <text>It enters an information processing system that the recipient has designated or uses for the purposes of receiving electronic transmissions or information of the type sent, and from which the recipient is able to retrieve the electronic transmission; and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>It is in a form capable of being processed by that system.</text>
+    </level>
   </level>
   <level>
     <num>(g)</num>
-    <text>If this chapter prescribes notice requirements for particular circumstances, those requirements shall govern. If bylaws prescribe notice requirements not inconsistent with this section or other provisions of this chapter, those requirements shall govern.</text>
+    <text>Receipt of an electronic acknowledgment from an information processing system described in subsection (f )(1) of this section establishes that an electronic transmission was received but, by itself, does not establish that the content sent corresponds to the content received.</text>
   </level>
   <level>
     <num>(h)</num>
-    <text>With respect to electronic communications:</text>
+    <text>An electronic transmission is considered received under this section even if no individual is aware of its receipt.</text>
+  </level>
+  <level>
+    <num>(i)</num>
+    <text>Notice or other communication, if in a comprehensible form or manner, is effective at the earliest of the following:</text>
     <level>
       <num>(1)</num>
-      <text>Unless otherwise provided in the articles of incorporation or bylaws, or otherwise agreed between the sender and the recipient, an electronic communication is received when:</text>
+      <text>If in physical form, when it is left at:</text>
       <level>
         <num>(A)</num>
-        <text>It enters an information processing system that the recipient has designated or uses for the purpose of receiving electronic records or information of the type sent and from which the recipient is able to retrieve the electronic record; and</text>
+        <text>A shareholder's address shown on the corporation's record of shareholders maintained by the corporation under § 29-313.01(c);</text>
       </level>
       <level>
         <num>(B)</num>
-        <text>It is in a form capable of being processed by that system.</text>
+        <text>A director's residence or usual place of business; or</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The corporation's principal place of business;</text>
       </level>
     </level>
     <level>
       <num>(2)</num>
-      <text>An electronic communication is received under paragraph (1) of this subsection even if no individual is aware of its receipt.</text>
+      <text>If mailed postage prepaid and correctly addressed to a shareholder upon deposit in the United States mail;</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>Receipt of an electronic acknowledgment from an information processing system described in paragraph (1) of this subsection shall establish that a record was received but, by itself, shall not establish that the content sent corresponds to the content received.</text>
-    </level>
-  </level>
-  <level>
-    <num>(i)</num>
-    <text>An authorization by a member of delivery of notices or communications by email or similar electronic means may be revoked by the member by notice to the corporation in the form of a record. The authorization shall be deemed revoked if:</text>
-    <level>
+      <text>If mailed by United States mail postage prepaid and correctly addressed to a recipient other than a shareholder, the earliest of the following:</text>
       <level>
         <num>(A)</num>
-        <text>The corporation is unable to deliver 2 consecutive notices or other communications to the member in the manner authorized; and</text>
+        <text>If sent by registered or certified mail, return receipt requested, the date the return receipt is signed by or on behalf of the addressee; or</text>
       </level>
       <level>
         <num>(B)</num>
-        <text>The inability becomes known to the secretary or other person responsible for giving the notice or other communication, but the failure to treat the inability as a revocation shall not invalidate any meeting or other action.</text>
+        <text>5 days after it is deposited in the United States mail;</text>
       </level>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>If an electronic transmission, when it is received as provided in subsection (f) of this section; and</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>If oral, when communicated.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(j)</num>
+    <text>A notice or other communication may be in the form of an electronic transmission that cannot be directly reproduced in paper form by the recipient through an automated process used in conventional commercial practice only if:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <num>(1)</num>
+      <text>The electronic transmission is otherwise retrievable in perceivable form; and</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Former § 29-301.03 has been recodified as § 29A-301.03.</text>
-      </level>
+      <num>(2)</num>
+      <text>The sender and the recipient have consented in writing to the use of such form of electronic transmission.</text>
+    </level>
+  </level>
+  <level>
+    <num>(k)</num>
+    <text>If this title prescribes requirements for notices or other communications in particular circumstances, those requirements govern. If articles of incorporation or bylaws prescribe requirements for notices or other communications, not inconsistent with this section or other provisions of this title, those requirements govern. The articles of incorporation or bylaws may authorize or require delivery of notices of meetings of directors by electronic transmission.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(c)(2), 59 DCR 13171.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-305.24.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>Law 19-210, the "'District of Columbia Official Code Title 29 Technical and Harmonizing Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-532. The Bill was adopted on first and second readings on July 10, 2012, and Oct. 2, 2012, respectively. Signed by the Mayor on Oct. 31, 2012, it was assigned Act No. 19-512 and transmitted to Congress for its review. D.C. Law 19-210 became effective on Mar. 5, 2013.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

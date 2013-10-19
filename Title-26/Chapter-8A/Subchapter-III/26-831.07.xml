@@ -25,23 +25,22 @@
     <num>(f)</num>
     <text>A merchant bank may apply to the Commissioner for certification, chartering, or organization as any other type of financial institution authorized under the District of Columbia Banking Code.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-308, § 307, 48 DCR 3244; Oct. 19, 2002, D.C. Law 14-213, § 18(d), 49 DCR 8140.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-213, in subsec. (a), substituted "provided, that a merchant bank shall obtain certification as a universal bank before exercising those powers of a universal bank" for "provided, that a universal bank shall obtain certification as a universal bank before exercising those powers of a universal bank that a District-chartered bank or District-chartered savings and loan is not authorized to exercise".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-308, see notes following § 26-833.01.</text>
-        <text>For Law 14-213, see notes following § 26-131.02.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-213, in subsec. (a), substituted "provided, that a merchant bank shall obtain certification as a universal bank before exercising those powers of a universal bank" for "provided, that a universal bank shall obtain certification as a universal bank before exercising those powers of a universal bank that a District-chartered bank or District-chartered savings and loan is not authorized to exercise".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-308</heading>
+      <text>For Law 13-308, see notes following § 26-833.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-213</heading>
+      <text>For Law 14-213, see notes following § 26-131.02.</text>
     </level>
   </level>
 </level>

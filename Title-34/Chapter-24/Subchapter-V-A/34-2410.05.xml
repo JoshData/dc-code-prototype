@@ -20,18 +20,18 @@
     <num>(c)</num>
     <text>This section shall not apply to private fire hydrants on the property of non-residential institutions, including colleges and universities, or on the property of the federal government or a foreign government.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 31, 2011, D.C. Law 18-337, § 6, 58 DCR 609.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-337, see notes under § 34-2410.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 34-2410.04.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-337</heading>
+      <text>For history of Law 18-337, see notes under § 34-2410.01.</text>
     </level>
   </level>
 </level>

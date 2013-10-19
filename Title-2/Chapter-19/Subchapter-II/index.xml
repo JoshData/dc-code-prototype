@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Language Access.</heading>
+  <heading>Language Access</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1931.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1932.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1933.xml"/>

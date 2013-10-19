@@ -13,35 +13,46 @@
     <num>(c)</num>
     <text>For fiscal years 2011, 2012, and 2013, no officer or member of the Fire and Emergency Medical Services Department shall be detailed to Emergency Medical Technician classes for more than 60 days.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 30, 2004, D.C. Law 15-194, § 202, 51 DCR 9406; Apr. 24, 2007, D.C. Law 16-305, § 17, 53 DCR 6198; Apr. 15, 2008, D.C. Law 17-147, § 5, 55 DCR 2558; Sept. 24, 2010, D.C. Law 18-223, § 3024, 57 DCR 6242; Sept. 14, 2011, D.C. Law 19-21, § 3014, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 3024, 59 DCR 8025.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-305, in subsec. (a), substituted "persons with disabilities, the" for "the disabled".</text>
-        <text>D.C. Law 17-147 inserted ", in close coordination with the Medical Director," following "Fire Chief".</text>
-        <text>D.C. Law 18-223 added subsec. (c).</text>
-        <text>D.C. Law 19-21, in subsec. (c), substituted "fiscal years 2011 and 2012" for "fiscal year 2011".</text>
-        <text>D.C. Law 19-168, in subsec. (c), substituted "2011, 2012, and 2013" for "2011 and 2012".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 3024 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-194, see notes following § 5-105.01.</text>
-        <text>For Law 16-305, see notes following § 5-119.10.</text>
-        <text>For Law 17-147, see notes following § 5-401.</text>
-        <text>For Law 18-223, see notes following § 5-405.</text>
-        <text>For Law 19-21, see notes following § 5-405.</text>
-        <text>For history of Law 19-168, see notes under § 5-119.10.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-305, in subsec. (a), substituted "persons with disabilities, the" for "the disabled".</text>
+      <text>D.C. Law 17-147 inserted ", in close coordination with the Medical Director," following "Fire Chief".</text>
+      <text>D.C. Law 18-223 added subsec. (c).</text>
+      <text>D.C. Law 19-21, in subsec. (c), substituted "fiscal years 2011 and 2012" for "fiscal year 2011".</text>
+      <text>The 2012 amendment by D.C. Law 19-168 substituted "fiscal years 2011, 2012, and 2013" for "fiscal years 2011 and 2012" in (c).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 3024 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-194</heading>
+      <text>For Law 15-194, see notes following § 5-105.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-305</heading>
+      <text>For Law 16-305, see notes following § 5-119.10.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-147</heading>
+      <text>For Law 17-147, see notes following § 5-401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 5-405.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For Law 19-21, see notes following § 5-405.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>See note to § 5-401.</text>
     </level>
   </level>
 </level>

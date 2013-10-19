@@ -3,67 +3,57 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>"Established practices" means the practices used by an unincorporated nonprofit association without material change during the most recent 5 years of its existence or, if it has existed for less than 5 years, during its entire existence.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Governing principles" means the agreements, whether oral, in a record, or implied from its established practices, that govern the purpose or operation of an unincorporated nonprofit association and the rights and obligations of its members and managers. The term "governing principles" shall include any amendment or restatement of the agreements constituting the governing principles.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Manager" means a person that is responsible, alone or in concert with others, for the management of an unincorporated nonprofit association.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Member" means a person that, under the governing principles, may participate in the selection of persons authorized to manage the affairs of the unincorporated nonprofit association or in the development of the policies and activities of the association.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Unincorporated nonprofit association" means an unincorporated organization, consisting of 2 or more members joined under an agreement that is oral, in a record, or implied from conduct, for one or more common, nonprofit purposes. The term "unincorporated nonprofit association" shall not include:</text>
-      <level>
-        <num>(A)</num>
-        <text>A trust;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>A marriage, domestic partnership, common law domestic relationship, civil union, or other domestic living arrangement;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>An organization formed under any other statute that governs the organization and operation of unincorporated associations;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>A joint tenancy, tenancy in common, or tenancy by the entireties even if the co-owners share use of the property for a nonprofit purpose; or</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>A relationship under an agreement in a record that expressly provides that the relationship between the parties does not create an unincorporated nonprofit association.</text>
-      </level>
-    </level>
+    <num>(1)</num>
+    <text>"Established practices" means the practices used by an unincorporated nonprofit association without material change during the most recent 5 years of its existence or, if it has existed for less than 5 years, during its entire existence.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Governing principles" means the agreements, whether oral, in a record, or implied from its established practices, that govern the purpose or operation of an unincorporated nonprofit association and the rights and obligations of its members and managers. The term "governing principles" shall include any amendment or restatement of the agreements constituting the governing principles.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Manager" means a person that is responsible, alone or in concert with others, for the management of an unincorporated nonprofit association.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Member" means a person that, under the governing principles, may participate in the selection of persons authorized to manage the affairs of the unincorporated nonprofit association or in the development of the policies and activities of the association.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Unincorporated nonprofit association" means an unincorporated organization, consisting of 2 or more members joined under an agreement that is oral, in a record, or implied from conduct, for one or more common, nonprofit purposes. The term "unincorporated nonprofit association" shall not include:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>A trust;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>A marriage, domestic partnership, common law domestic relationship, civil union, or other domestic living arrangement;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>An organization formed under any other statute that governs the organization and operation of unincorporated associations;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>A joint tenancy, tenancy in common, or tenancy by the entireties even if the co-owners share use of the property for a nonprofit purpose; or</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>A relationship under an agreement in a record that expressly provides that the relationship between the parties does not create an unincorporated nonprofit association.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Former § 29-1102 has been recodified as § 29A-1102.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 2 of the Uniform Unincorporated Nonprofit Association Act (2008 Act) . See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 2 of the Uniform Unincorporated Nonprofit Association Act (2008 Act).</text>
     </level>
   </level>
 </level>

@@ -23,7 +23,7 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>Upon entry of an order under subsections (c) or (e) of this section, the Superior Court shall dismiss the petition to dissolve the corporation under § 29-312.20(a)(2), and the petitioning shareholder shall no longer have any rights or status as a shareholder of the corporation, except the right to receive the amounts awarded by the order of the court which enforceable in the same manner as any other judgment.</text>
+    <text>Upon entry of an order under subsections (c) or (e) of this section, the Superior Court shall dismiss the petition to dissolve the corporation under § 29-312.20(a)(2), and the petitioning shareholder shall no longer have any rights or status as a shareholder of the corporation, except the right to receive the amounts awarded by the order of the court which is enforceable in the same manner as any other judgment.</text>
   </level>
   <level>
     <num>(g)</num>
@@ -33,18 +33,18 @@
     <num>(h)</num>
     <text>Any payment by the corporation pursuant to an order under subsections (c) or (e) of this section, other than an award of expenses pursuant to subsection (e) of this section, shall be subject to § 29-304.60.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-312.21 and § 29-312.22.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

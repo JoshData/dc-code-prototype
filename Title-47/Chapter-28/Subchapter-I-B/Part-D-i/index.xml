@@ -1,0 +1,10 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>D-i</num>
+  <heading>Body Artists</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2853.76a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2853.76b.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2853.76c.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2853.76d.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2853.76e.xml"/>
+</level>

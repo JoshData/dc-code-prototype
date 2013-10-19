@@ -3,98 +3,92 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Certificate of occupancy" means:</text>
     <level>
-      <num>(1)</num>
-      <text>"Certificate of occupancy" means:</text>
-      <level>
-        <num>(A)</num>
-        <text>A permanent certificate of occupancy; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>A temporary certificate of occupancy which allows for the full operation of the intended residential or hotel purposes of the building for which the certificate of occupancy is issued.</text>
-      </level>
+      <num>(A)</num>
+      <text>A permanent certificate of occupancy; or</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Contribution period" means the period commencing on July 1, 2012, and ending on June 30, 2017.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Hotel" means a building which consists primarily of hotel rooms and related facilities and amenities.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <level>
-        <num>(A)</num>
-        <text>"Income-producing property" means a building or portions of a building or other improvement that is open for business and is operated as a store, shop, restaurant, office space, or rental apartment.</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The term "income-producing property" shall not include:</text>
-        <level>
-          <num>(i)</num>
-          <text>Common areas or public space, including building lobbies and plazas, in or appurtenant to a building or improvement which contains a use set forth in subparagraph (A) of this paragraph;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>A residential condominium;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Cultural improvements or facilities; or</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>A hotel.</text>
-        </level>
-      </level>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Owner" means an owner of real property or a lessee or user of real property subject to taxation under § 47-1005.01.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Project Developer" means Forest City SEFC, LLC, a District of Columbia limited liability company, its successors, or assigns.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"Required occupancy" means at least 60% occupancy, calculated on a gross square foot basis.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Residential condominium" means a for-sale residential condominium; provided, that the term "residential condominium" shall not include any common or public space in or appurtenant to the for-sale residential condominium project of which the residential condominium is a part.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Substantial completion" means, with respect to a residential condominium, that:</text>
-      <level>
-        <num>(A)</num>
-        <text>The inspecting architect for the residential condominium has certified in writing to the owner of, or lender for, the residential condominium that the residential condominium is substantially complete except for punch list items; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The Department of Consumer and Regulatory Affairs (or a successor agency) has issued a certificate of occupancy for the residential condominium.</text>
-      </level>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Waterfront Park Benefit District" means the special assessment district established by § 47-895.22.</text>
+      <num>(B)</num>
+      <text>A temporary certificate of occupancy which allows for the full operation of the intended residential or hotel purposes of the building for which the certificate of occupancy is issued.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Contribution period" means the period commencing on July 1, 2012, and ending on June 30, 2017.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Hotel" means a building which consists primarily of hotel rooms and related facilities and amenities.</text>
+  </level>
+  <level>
+    <num>(4)</num>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>"Income-producing property" means a building or portions of a building or other improvement that is open for business and is operated as a store, shop, restaurant, office space, or rental apartment.</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The term "income-producing property" shall not include:</text>
+      <level>
+        <num>(i)</num>
+        <text>Common areas or public space, including building lobbies and plazas, in or appurtenant to a building or improvement which contains a use set forth in subparagraph (A) of this paragraph;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>A residential condominium;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Cultural improvements or facilities; or</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>A hotel.</text>
+      </level>
+    </level>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Owner" means an owner of real property or a lessee or user of real property subject to taxation under § 47-1005.01.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Project Developer" means Forest City SEFC, LLC, a District of Columbia limited liability company, its successors, or assigns.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Required occupancy" means at least 60% occupancy, calculated on a gross square foot basis.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Residential condominium" means a for-sale residential condominium; provided, that the term "residential condominium" shall not include any common or public space in or appurtenant to the for-sale residential condominium project of which the residential condominium is a part.</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Substantial completion" means, with respect to a residential condominium, that:</text>
+    <level>
+      <num>(A)</num>
+      <text>The inspecting architect for the residential condominium has certified in writing to the owner of, or lender for, the residential condominium that the residential condominium is substantially complete except for punch list items; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The Department of Consumer and Regulatory Affairs (or a successor agency) has issued a certificate of occupancy for the residential condominium.</text>
+    </level>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"Waterfront Park Benefit District" means the special assessment district established by § 47-895.22.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Mar. 3, 2010, D.C. Law 18-105, § 7(b), 57 DCR 11.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 18-105, the "Waterfront Park at the Yards Act of 2009", was introduced in Council and assigned Bill No. 18-299, which was referred to the Committee on Finance and Revenue. The bill was adopted on first and second readings on November 3, 2009, and December 1, 2009, respectively. Signed by the Mayor on December 18, 2009, it was assigned Act No. 18-243 and transmitted to both Houses of Congress for its review. D.C. Law 18-105 became effective on March 3, 2010.</text>
-      </level>
+      <heading>Legislative History of Law 18-105</heading>
+      <text>Law 18-105, the "Waterfront Park at the Yards Act of 2009", was introduced in Council and assigned Bill No. 18-299, which was referred to the Committee on Finance and Revenue. The bill was adopted on first and second readings on November 3, 2009, and December 1, 2009, respectively. Signed by the Mayor on December 18, 2009, it was assigned Act No. 18-243 and transmitted to both Houses of Congress for its review. D.C. Law 18-105 became effective on March 3, 2010.</text>
     </level>
   </level>
 </level>

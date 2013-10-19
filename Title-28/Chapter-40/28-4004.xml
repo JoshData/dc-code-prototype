@@ -1,7 +1,6 @@
 <level type="section">
   <num>28-4004</num>
   <heading>Special provisions.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-4004</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>No registrant shall fit, offer for sale, or sell a hearing aid to a person unless, within the preceding three (3) months, the person has received a medical clearance after an examination by an otolaryngologist and a hearing test evaluation.</text>
@@ -12,7 +11,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>Sections 28-4004(a) and 28-4004(b) do not apply to --</text>
+    <text>Sections 28-4004(a) and 28-4004(b) do not apply to -</text>
     <level>
       <num>(1)</num>
       <text>the purchase of an identical hearing aid within two (2) years of the date that the purchaser receives the original aid; and</text>
@@ -25,11 +24,17 @@
   <level>
     <num>(d)</num>
     <text>If a prospective hearing aid user has a bona fide religious belief which precludes him or her from having a medical examination as required in section 28-4004(a), the prospective hearing aid user may waive the medical examination requirement; provided, that the prospective hearing aid user signs the following statement, printed in ten (10)-point type:</text>
-    <text>"My religious beliefs require that I waive the medical examination and the hearing aid evaluation required by the 'Hearing Aid Dealer and Consumers Act of 1977' for the purchase of a hearing aid. I voluntarily waive the medical examination, notwithstanding the fact that I have been advised by</text>
+    <level type="form">
+      <text/>
+      <text>
+ 
+ "My religious beliefs require that I waive the medical examination and the hearing aid evaluation required by the 'Hearing Aid Dealer and Consumers Act of 1977' for the purchase of a hearing aid. I voluntarily waive the medical examination, notwithstanding the fact that I have been advised by 
+ _____________________________________________________________________________</text>
+      <text class="centered"> HEARING AID DISPENSER'S NAME</text>
+      <text> 
+ that my best health interest would be served if I had a medical evaluation by a physician who is an ear specialist."</text>
+    </level>
   </level>
-  <text>_______________________________________________________________________________ </text>
-  <text>HEARING AID DISPENSER'S NAME</text>
-  <text>that my best health interest would be served if I had a medical evaluation by a physician who is an ear specialist."</text>
   <text>No registrant shall seek to induce a prospective hearing aid user to execute such a waiver.</text>
   <level>
     <num>(e)</num>
@@ -43,25 +48,31 @@
     <num>(g)</num>
     <text>No registrant or agent thereof shall visit the home or shall telephone any potential buyer for the purpose of inducing a sale of a hearing aid without having obtained, prior to the visit, the express written consent of the buyer to that visit. Any consent shall clearly and conspicuously state that the buyer is aware that the seller may attempt to sell a hearing aid during the visit.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Oct. 26, 1977, D.C. Law 2-33, § 5, 24 DCR 3726; enacted, Sept. 6, 1980, D.C. Law 3-85, § 3(b), (e), 27 DCR 2900; Dec. 10, 1987, D.C. Law 7-46, § 2(c), 34 DCR 6847.)</text>
+      <heading>History</heading>
+      <text>(Oct. 26, 1977, D.C. Law 2-33, § 5, 24 DCR 3726; enacted, Sept. 6, 1980, D.C. Law 3-85, § 3(b), (e), 27 DCR 2900; Dec. 10, 1987, D.C. Law 7-46,§ 2(c), 34 DCR 6847.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-4004.</text>
-        <text>1973 Ed., T. 28, Appx., § 55.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-33, see Historical and Statutory Notes following § 28-4001.</text>
-        <text>For legislative history of D.C. Law 3-85, see Historical and Statutory Notes following § 28-4001.</text>
-        <text>For legislative history of D.C. Law 7-46, see Historical and Statutory Notes following § 28-4001.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28-4005.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-4004.</text>
+      <text>1973 Ed., T. 28, Appx., § 55.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-33</heading>
+      <text>For legislative history of D.C. Law 2-33, see Historical and Statutory Notes following § 28-4001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-85</heading>
+      <text>For legislative history of D.C. Law 3-85, see Historical and Statutory Notes following § 28-4001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-46</heading>
+      <text>For legislative history of D.C. Law 7-46, see Historical and Statutory Notes following § 28-4001.</text>
     </level>
   </level>
 </level>

@@ -3,35 +3,29 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>"Basic skills deficient" means reading, writing or computing on a level no higher than 8th grade.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Federal Act" means the federal Workforce Investment Act of 1998, approved August 7, 1998 (112 Stat. 936; 29 U.S.C. § 2822).</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Self-sufficiency" means employment that pays a wage equal to the wage calculated by <text i="True">The Self-Sufficiency Standard for the Washington, DC Metropolitan Area,</text> for the appropriate family composition.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Service provider" and "provider" mean a provider of employment and training services including a private or public school or institution of higher education, a business, labor organization or a community-based organization.</text>
-    </level>
+    <num>(1)</num>
+    <text>"Basic skills deficient" means reading, writing or computing on a level no higher than 8th grade.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Federal Act" means the federal Workforce Investment Act of 1998, approved August 7, 1998 (112 Stat. 936; 29 U.S.C. § 2822).</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Self-sufficiency" means employment that pays a wage equal to the wage calculated by The Self-Sufficiency Standard for the Washington, DC Metropolitan Area, for the appropriate family composition.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Service provider" and "provider" mean a provider of employment and training services including a private or public school or institution of higher education, a business, labor organization or a community-based organization.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 18, 2000, D.C. Law 13-150, § 3, 47 DCR 4644.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-150, see notes following § 32-1601.</text>
-      </level>
+      <heading>Legislative History of Law 13-150</heading>
+      <text>For Law 13-150, see notes following § 32-1601.</text>
     </level>
   </level>
 </level>

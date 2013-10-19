@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-309.08</num>
   <heading>Boundary changes.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-259</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Petitions for changes in the boundaries of an Advisory Neighborhood Commission area or single-member district within any such area may be filed with the Council of the District of Columbia during the month of January of the year in which elections for Advisory Neighborhood Commissions are to be held. Such petitions must be signed by at least 5 percent of the registered qualified electors of such Advisory Neighborhood Commission area.</text>
@@ -14,25 +13,27 @@
     <num>(c)</num>
     <text>The Council shall accept or reject such a petition within 3 months after its receipt.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 10, 1975, D.C. Law 1-21, § 10, 22 DCR 2071; Oct. 30, 1975, D.C. Law 1-27, § 4, 22 DCR 2472; Sept. 26, 1984, D.C. Law 5-111, § 2(a), 31 DCR 3952.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-259.</text>
-        <text>1973 Ed., § 1-171g.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-21, see Historical and Statutory Notes following § 1-309.01.</text>
-        <text>For legislative history of D.C. Law 1-27, see Historical and Statutory Notes following § 1-207.38.</text>
-        <text>For legislative history of D.C. Law 5-111, see Historical and Statutory Notes following § 1-309.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-259.</text>
+      <text>1973 Ed., § 1-171g.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-21</heading>
+      <text>For legislative history of D.C. Law 1-21, see Historical and Statutory Notes following § 1-309.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-27</heading>
+      <text>For legislative history of D.C. Law 1-27, see Historical and Statutory Notes following § 1-207.38.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-111</heading>
+      <text>For legislative history of D.C. Law 5-111, see Historical and Statutory Notes following § 1-309.01.</text>
     </level>
   </level>
 </level>

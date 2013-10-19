@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>20</num>
-  <heading>Risk-Based Capital.</heading>
+  <heading>Risk-Based Capital</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2001.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2002.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2003.xml"/>

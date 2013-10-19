@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>2</num>
-  <heading>Street and Alley Closing and Acquisition Procedures.</heading>
-  <level>
-    <text>DC CODE D. I, T. 9, Subt. I, Ch. 2, Refs &amp; Annos</text>
-  </level>
+  <heading>Street and Alley Closing and Acquisition Procedures</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Unit-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Unit-B/index.xml"/>
 </level>

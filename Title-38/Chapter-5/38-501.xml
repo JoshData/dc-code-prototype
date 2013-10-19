@@ -1,79 +1,72 @@
 <level type="section">
   <num>38-501</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-501</formerly-cited-as>
   <text>For the purpose of this chapter:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The term "admit" or the term "admission" means the official enrollment at any level by a school of a student that entitles the student to attend the school regularly, whether full-time or part-time, and to participate fully in all the activities established for a student of his or her age, educational level, or other appropriate classification.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The term "certification of immunization" means written certification by a private physician, his or her representative, or the public health authorities that the student is immunized.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The term "student" means any person who seeks admission to school, or for whom admission to school is sought by a parent or guardian, and who will not have attained the age of 26 years by the start of the school term for which admission is sought.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The term "immunized" or the term "immunization" means initial immunization and any boosters or reimmunization required to maintain immunization against diphtheria, poliomyelitis, tetanus, rubella, measles, and mumps in accordance with the immunization standards issued by the public health authorities pursuant to this chapter.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>The term "Mayor" means the Mayor of the District of Columbia.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>The term "public health authorities" means the official or officials of the executive branch of the government of the District of Columbia designated by the Mayor pursuant to this chapter.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>The term "responsible person" means, in the case of a student under 18 years of age, a parent or guardian of the student, but in the case of a student 18 years of age or older, the student himself or herself.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>The term "school" means:</text>
-      <level>
-        <num>(A)</num>
-        <text>Any public school through the 12th grade operated under the authority of the Board of Education of the District of Columbia;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Any private or parochial school that offers instruction at any level or grade from kindergarten through 12th;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Any private or parochial nursery school or preschool, or any private or parochial day-care facility required to be licensed by the District of Columbia; and</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Any college or university created or incorporated by special act of Congress or the Council of the District of Columbia or required to be licensed by the District of Columbia.</text>
-      </level>
-    </level>
+    <num>(1)</num>
+    <text>The term "admit" or the term "admission" means the official enrollment at any level by a school of a student that entitles the student to attend the school regularly, whether full-time or part-time, and to participate fully in all the activities established for a student of his or her age, educational level, or other appropriate classification.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The term "certification of immunization" means written certification by a private physician, his or her representative, or the public health authorities that the student is immunized.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The term "student" means any person who seeks admission to school, or for whom admission to school is sought by a parent or guardian, and who will not have attained the age of 26 years by the start of the school term for which admission is sought.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The term "immunized" or the term "immunization" means initial immunization and any boosters or reimmunization required to maintain immunization against diphtheria, poliomyelitis, tetanus, rubella, measles, and mumps in accordance with the immunization standards issued by the public health authorities pursuant to this chapter.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>The term "Mayor" means the Mayor of the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>The term "public health authorities" means the official or officials of the executive branch of the government of the District of Columbia designated by the Mayor pursuant to this chapter.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>The term "responsible person" means, in the case of a student under 18 years of age, a parent or guardian of the student, but in the case of a student 18 years of age or older, the student himself or herself.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>The term "school" means:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Any public school through the 12th grade operated under the authority of the Board of Education of the District of Columbia;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Any private or parochial school that offers instruction at any level or grade from kindergarten through 12th;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Any private or parochial nursery school or preschool, or any private or parochial day-care facility required to be licensed by the District of Columbia; and</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Any college or university created or incorporated by special act of Congress or the Council of the District of Columbia or required to be licensed by the District of Columbia.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Sept. 28, 1979, D.C. Law 3-20, § 2, 26 DCR 380.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-501.</text>
-        <text>1973 Ed., § 31-2201.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 3-20 was introduced in Council and assigned Bill No. 3-66, which was referred to the Committee on Human Resources. The Bill was adopted on first, amended first, and second readings on May 22, 1979, June 5, 1979, and June 19, 1979, respectively. Signed by the Mayor on July 12, 1979, it was assigned Act No. 3-64 and transmitted to both Houses of Congress for its review.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of Authority to the Director of the Department of Health Immunization of School Students Act of 1979, see Mayor's Order 2009-149, September 3, 2009 (56 DCR 7520).</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-501.</text>
+      <text>1973 Ed., § 31-2201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-20</heading>
+      <text>Law 3-20 was introduced in Council and assigned Bill No. 3-66, which was referred to the Committee on Human Resources. The Bill was adopted on first, amended first, and second readings on May 22, 1979, June 5, 1979, and June 19, 1979, respectively. Signed by the Mayor on July 12, 1979, it was assigned Act No. 3-64 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of Authority to the Director of the Department of Health Immunization of School Students Act of 1979, see Mayor's Order 2009-149, September 3, 2009 (56 DCR 7520).</text>
     </level>
   </level>
 </level>

@@ -2,18 +2,14 @@
   <num>5-107.02</num>
   <heading>Mandatory continuing education program for sworn members of the Metropolitan Police Department.</heading>
   <text>The Department shall implement a program of continuing education for its sworn members, which shall consist of a minimum of 32 hours of training each year.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 4, 2000, D.C. Law 13-160, § 203, 47 DCR 4619.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-160, see notes following § 5-107.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-160</heading>
+      <text>For Law 13-160, see notes following § 5-107.01.</text>
     </level>
   </level>
 </level>

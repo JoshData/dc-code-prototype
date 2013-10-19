@@ -1,14 +1,13 @@
 <level type="section">
   <num>23-522</num>
   <heading>Applications for search warrants.</heading>
-  <formerly-cited-as>DC ST 1981 § 23-522</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Each application for a search warrant shall be made in writing, or by telephone or other appropriate means, including facsimile transmissions or other electronic communications, upon oath or affirmation to a judicial officer, pursuant to the Superior Court Rules of Criminal Procedure.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>Each application shall include --</text>
+    <text>Each application shall include -</text>
     <level>
       <num>(1)</num>
       <text>the name and title of the applicant;</text>
@@ -31,28 +30,39 @@
     <num>(c)</num>
     <text>The application may also contain a request that the search warrant be made executable at any hour of the day or night upon the ground that there is probable cause to believe that (1) it cannot be executed during the hours of daylight, (2) the property sought is likely to be removed or destroyed if not seized forthwith, or (3) the property sought is not likely to be found except at certain times or in certain circumstances. Any request made pursuant to this subsection must be accompanied and supported by allegations of fact supporting such request.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 29, 1970, 84 Stat. 615, Pub. L. 91-358, title II, § 210(a); Oct. 26, 1974, 88 Stat. 1455, Pub. L. 93-481, § 4(c); Oct. 17, 2002, D.C. Law 14- 194, § 802, 49 DCR 5306.)</text>
+      <heading>History</heading>
+      <text>(July 29, 1970, 84 Stat. 615, Pub. L. 91-358, title II, § 210(a); Oct. 26, 1974, 88 Stat. 1455, Pub. L. 93-481, § 4(c); Oct. 17, 2002, D.C. Law 14-194, § 802, 49 DCR 5306.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 23-522.</text>
-        <text>1973 Ed., § 23-522.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-194 rewrote subsec. (a) which had read as follows:</text>
-        <text>"(a) Each application for a search warrant shall be made in writing upon oath or affirmation to a judicial officer."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-194, see notes following § 23-113.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Alcoholic Beverage Control Act, search warrants, see § 25-803.</text>
+      <text>Businesses, examination of books and search of premises of certain businesses, see § 5-117.02.</text>
+      <text>Cruelty to animals, search warrants to prevent, see § 22-1005.</text>
+      <text>Gaming houses or bawdy houses, authorization of searches, see § 5-115.06.</text>
+      <text>Milk containers, search warrants to discover illegal use, see §§ 36-125 and 36-1555.</text>
+      <text>Pawned or pledged property, examination of property, see § 5-117.03.</text>
+      <text>Raids, prohibition of advance information of raids to attorneys or bondsmen, see § 23-1109.</text>
+      <text>Uniform Narcotic Drug Act, search warrants, see § 48-902.04.</text>
+      <text>Weights, Measures, and Markets, warrantless searches by Director, see § 37-201.24.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 23-521.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 23-522.</text>
+      <text>1973 Ed., § 23-522.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-194 rewrote subsec. (a) which had read as follows: "(a) Each application for a search warrant shall be made in writing upon oath or affirmation to a judicial officer."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-194</heading>
+      <text>For Law 14-194, see notes following § 23-113.</text>
     </level>
   </level>
 </level>

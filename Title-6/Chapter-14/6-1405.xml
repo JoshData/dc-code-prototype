@@ -1,7 +1,6 @@
 <level type="section">
   <num>6-1405</num>
   <heading>Conflicts.</heading>
-  <formerly-cited-as>DC ST 1981 § 5-1305</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>If conflict arises between the provisions of this chapter and the D.C. Supplement, the Model Codes, or their reference standards, the provisions of this chapter shall take precedence.</text>
@@ -30,26 +29,22 @@
       <text>The provisions of the Model Codes other than their reference standards shall take precedence over their reference standards.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 21, 1987, D.C. Law 6-216, § 6, 34 DCR 1072.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 5-1305.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-216, see Historical and Statutory Notes following § 6-1401.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Establishment of Building Code Advisory Committee: See Mayor's Order 89-257, November 7, 1989.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 5-1305.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-216</heading>
+      <text>For legislative history of D.C. Law 6-216, see Historical and Statutory Notes following § 6-1401.</text>
+    </level>
+    <level>
+      <heading>Mayor's orders</heading>
+      <text>Establishment of Building Code Advisory Committee: See Mayor's Order 89-257, November 7, 1989.</text>
     </level>
   </level>
 </level>

@@ -1,8 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Omitted and Repealed Provisions.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-631~24-643~P.xml"/>
+  <heading>Omitted and Repealed Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-631~24-643~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-644~P.xml"/>
 </level>

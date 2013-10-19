@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The Georgetown BID shall be comprised of all nonexempt real property zoned C or W under applicable District zoning law within the following areas: along the northern boundary of M Street, N.W., between the western terminus of the Rock Creek bridge on the east and the eastern boundary of Georgetown University on the west; along 28th Street, N.W., between M Street, N.W., and Olive Street, N.W.; along 29th Street, N.W., and 30th Street, N.W., in each instance between the M Street, N.W., and Olive Street, N.W.; along 31st Street, N.W., between M Street N.W., and N Street, N.W.; along Potomac Street, N.W., 33rd Street, N.W., Bank Street, N. W., 34th Street, N.W., and 35th Street, N.W., in each instance between M Street, N.W., and Prospect Street, N.W.; along Prospect Street, N.W., between Wisconsin Avenue, N.W., and Potomac Street, N.W.; along N Street, N. W., between 31st Street, N.W., and Potomac Street, N.W.; along O Street, N.W., between 31st Street, N.W., and Potomac Street, N.W.; along Dumbarton Street, N.W., between 31st Street, N.W., and Wisconsin Avenue, N.W.; along P Street, N.W., between 32nd Street, N.W., and 33rd Street, N.W.; along Volta Street, N.W., between Wisconsin Avenue, N.W., and 33rd Street, N.W.; along Q Street, N.W., between 32nd Street, N.W., and 33rd Street, N.W.; along 33rd Street, N.W., between Dent Place, N.W., and Wisconsin Avenue, N.W.; along Reservoir Road, N.W., between 32nd Street, N.W., and 34th Street, N.W.; along R Street, N.W., between 32nd Street, N.W., and 34th Street, N.W.; along Wisconsin Avenue, N.W., between M Street, N.W., and R Street, N.W., and within the area bounded on the north by the southern boundary of M Street, N.W., on the east by Rock Creek, on the west by Key Bridge, and on the south by the Potomac River, which area also includes that portion of Pennsylvania Avenue, N.W., between 29th Street, N.W., and Rock Creek.</text>
+    <text>The Georgetown BID shall be comprised of all nonexempt real property zoned C or W under applicable District zoning law within the following areas: along the northern boundary of M Street, N.W., between the western terminus of the Rock Creek bridge on the east and the eastern boundary of Georgetown University on the west; along 28th Street, N.W., between M Street, N.W., and Olive Street, N.W.; along 29th Street, N.W., and 30th Street, N.W., in each instance between the M Street, N.W., and Olive Street, N.W.; along 31st Street, N.W., between M Street N.W., and N Street, N.W.; along Potomac Street, N.W., 33rd Street, N.W., Bank Street, N.W., 34th Street, N.W., and 35th Street, N.W., in each instance between M Street, N.W., and Prospect Street, N.W.; along Prospect Street, N.W., between Wisconsin Avenue, N.W., and Potomac Street, N.W.; along N Street, N.W., between 31st Street, N.W., and Potomac Street, N.W.; along O Street, N.W., between 31st Street, N.W., and Potomac Street, N.W.; along Dumbarton Street, N.W., between 31st Street, N.W., and Wisconsin Avenue, N.W.; along P Street, N.W., between 32nd Street, N.W., and 33rd Street, N.W.; along Volta Street, N.W., between Wisconsin Avenue, N.W., and 33rd Street, N.W.; along Q Street, N.W., between 32nd Street, N.W., and 33rd Street, N.W.; along 33rd Street, N.W., between Dent Place, N.W., and Wisconsin Avenue, N.W.; along Reservoir Road, N.W., between 32nd Street, N.W., and 34th Street, N.W.; along R Street, N.W., between 32nd Street, N.W., and 34th Street, N.W.; along Wisconsin Avenue, N.W., between M Street, N.W., and R Street, N.W., and within the area bounded on the north by the southern boundary of M Street, N.W., on the east by Rock Creek, on the west by Key Bridge, and on the south by the Potomac River, which area also includes that portion of Pennsylvania Avenue, N.W., between 29th Street, N.W., and Rock Creek.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -44,27 +44,26 @@
       <text>A 5% annual increase in the BID taxes over the current tax year rates specified in subsection (a) of this section is hereby authorized and imposed subject to the requirements of § 2-1215.08(b).</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 29, 1996, D.C. Law 11-134, § 203, as added Mar. 17, 2005, D.C. Law 15-257, § 2(d), 52 DCR 1161; Apr. 7, 2006, D.C. Law 16-91, § 140(c), 52 DCR 10637.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-91 made a technical change in the enacting clause of D.C. Law 15- 257 which resulted in no change in text.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-257, see notes following § 2-1215.51.</text>
-        <text>For Law 16-91, see notes following § 2-218.54.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Extension of the term of the Georgetown Business Improvement District Pursuant to the Business Improvement Districts Act of 1996, effective May 29, 1996 (D.C. Law 11-134; D.C. Official Code § 2-1215.01 et seq. (2003 Supp.)), see Mayor's Order 2004-173, October 20, 2004 (51 DCR 10495).</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-91 made a technical change in the enacting clause of D.C. Law 15-257 which resulted in no change in text.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-257</heading>
+      <text>For Law 15-257, see notes following § 2-1215.51.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-91</heading>
+      <text>For Law 16-91, see notes following § 2-218.54.</text>
+    </level>
+    <level>
+      <heading>Mayor's orders</heading>
+      <text>Extension of the term of the Georgetown Business Improvement District Pursuant to the Business Improvement Districts Act of 1996, effective May 29, 1996 (D.C. Law 11-134; D.C. Official Code § 2-1215.01 et seq. (2003 Supp.)), see Mayor's Order 2004-173, October 20, 2004 (51 DCR 10495).</text>
     </level>
   </level>
 </level>

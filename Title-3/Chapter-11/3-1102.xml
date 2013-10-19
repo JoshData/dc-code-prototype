@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-1102</num>
-  <heading>Established; composition; officers; term of office; quorum; residency requirement; reimbursement of expenses; meetings; funding; duration.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-3102</formerly-cited-as>
+  <heading>Established; composition; officers; term of office; quorum; residency requirements; reimbursement of expenses; meetings; funding; duration.</heading>
   <level>
     <num>(a)</num>
     <text>There is established a District of Columbia Residential, Commercial, and Institutional Structures Fire Protection Study Commission to advise the Council by investigating and reporting on the feasibility of low-cost residential, commercial, and institutional sprinklers as a means of protecting the public from uncontrolled fires in residential, commercial, and institutional structures and by recommending to the Council comprehensive legislation to establish a residential, commercial, and institutional fire sprinkler program appropriate for the District of Columbia.</text>
@@ -65,22 +64,22 @@
     <num>(j)</num>
     <text>The Commission shall cease to exist 30 days after submitting the comprehensive report referred to in § 3-1103(p).</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1985, D.C. Law 5-183, § 3, 32 DCR 841.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-3102.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-183, see Historical and Statutory Notes following § 3-1101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 3-1101.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-3102.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-183</heading>
+      <text>For legislative history of D.C. Law 5-183, see Historical and Statutory Notes following § 3-1101.</text>
     </level>
   </level>
 </level>

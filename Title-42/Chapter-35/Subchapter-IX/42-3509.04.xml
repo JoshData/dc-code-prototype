@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-3509.04</num>
   <heading>Service.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2594</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Unless otherwise provided by Rental Housing Commission regulations, any information or document required to be served upon any person shall be served upon that person, or the representative designated by that person or by the law to receive service of the documents. When a party has appeared through a representative of record, service shall be made upon that representative. Service upon a person may be completed by any of the following ways:</text>
@@ -26,26 +25,31 @@
     <num>(b)</num>
     <text>No rent increases, whether under this chapter, the Rental Accommodations Act of 1975, the Rental Housing Act of 1977, the Rental Housing Act of 1980, or any administrative decisions issued under these acts, shall be effective until the first day on which rent is normally paid occurring more than 30 days after notice of the increase is given to the tenant.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 17, 1985, D.C. Law 6-10, § 904, 32 DCR 3089.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2594.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Termination of Law 6-10: See Historical and Statutory Notes following § 42- 3509.01.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Rental Accommodations Act of 1975, and the Rental Housing Acts of 1977 and 1980, definitions, see § 42-3501.03.</text>
+      <text>Rent increases above base rent, notice of increase in compliance with this section, see § 42-3502.08.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3502.08, § 42-3502.09, and § 42-3502.16.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2594.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-10</heading>
+      <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
+    </level>
+    <level>
+      <heading>Termination of law Termination of Law 6-10</heading>
+      <text>See Historical and Statutory Notes following § 42-3509.01.</text>
     </level>
   </level>
 </level>

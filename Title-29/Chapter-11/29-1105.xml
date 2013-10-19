@@ -17,26 +17,18 @@
     <num>(d)</num>
     <text>An unincorporated nonprofit association may engage in profit-making activities, but profits from any activities shall be used or set aside for the association's nonprofit purposes.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Former § 29-1105 has been recodified as § 29A-1105.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 5 of the Uniform Unincorporated Nonprofit Association Act (2008 Act) . See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 5 of the Uniform Unincorporated Nonprofit Association Act (2008 Act).</text>
     </level>
   </level>
 </level>

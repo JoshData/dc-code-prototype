@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Police Districts; Police Services Areas.</heading>
+  <heading>Police Districts; Police Services Areas</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-101.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-101.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-101.03.xml"/>

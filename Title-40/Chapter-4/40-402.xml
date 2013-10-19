@@ -9,18 +9,14 @@
     <num>(b)</num>
     <text>An occupant shall not use a leased space as a residence.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 6, 2004, D.C. Law 15-64, § 3, 50 DCR 9303.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-64, see notes following § 40-401.</text>
-      </level>
+      <heading>Legislative History of Law 15-64</heading>
+      <text>For Law 15-64, see notes following § 40-401.</text>
     </level>
   </level>
 </level>

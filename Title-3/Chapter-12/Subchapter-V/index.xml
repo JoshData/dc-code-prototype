@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>V</num>
-  <heading>Licensing, Registration, or Certification of Health Professionals.</heading>
+  <heading>Licensing, Registration, or Certification of Health Professionals</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1205.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1205.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1205.03.xml"/>
@@ -28,4 +28,5 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1205.21.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1205.22.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1205.23.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1205.24.xml"/>
 </level>

@@ -4,30 +4,30 @@
   <level>
     <num>(a)</num>
     <text>Upon written request from a patient or client, or person authorized to have access to the patient's record under a health care power of attorney for the patient or client, the health care provider having custody and control of the patient's or client's record shall furnish, within a reasonable period of time, a complete and current copy of that record. If the patient or client is deceased, the request may be made by:</text>
-  </level>
-  <level>
-    <num>(1)</num>
-    <text>A person authorized immediately prior to the decedent's death to have access to the patient's or client's record under a health care power of attorney for the patient;</text>
-  </level>
-  <level>
-    <num>(2)</num>
-    <text>The executor for the decedent's estate;</text>
-  </level>
-  <level>
-    <num>(3)</num>
-    <text>The temporary executor for the decedent's estate;</text>
-  </level>
-  <level>
-    <num>(4)</num>
-    <text>The administrator for the decedent's estate;</text>
-  </level>
-  <level>
-    <num>(5)</num>
-    <text>The temporary administrator for the decedent's estate; or</text>
-  </level>
-  <level>
-    <num>(6)</num>
-    <text>Any survivor of the decedent.</text>
+    <level>
+      <num>(1)</num>
+      <text>A person authorized immediately prior to the decedent's death to have access to the patient's or client's record under a health care power of attorney for the patient;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The executor for the decedent's estate;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The temporary executor for the decedent's estate;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>The administrator for the decedent's estate;</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>The temporary administrator for the decedent's estate; or</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Any survivor of the decedent.</text>
+    </level>
   </level>
   <level>
     <num>(b)</num>
@@ -44,22 +44,22 @@
     <num>(c)</num>
     <text>Medical or client records shall be maintained for a minimum period of 3 years from the date of last contact for an adult and a minimum period of 3 years after a minor reaches the age of majority.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1986, D.C. Law 6-99, § 1011, as added July 18, 2009, D.C. Law 18-26, § 2(k), 56 DCR 4043.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 2(k) of Health Occupations Revision General Amendment Emergency Act of 2009 (D.C. Act 18-146, July 28, 2009, 56 DCR 6308).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-26, see notes following § 3-1201.01.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Durable power of attorney for health care, see § 21-2205.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 2(k) of Health Occupations Revision General Amendment Emergency Act of 2009 (D.C. Act 18-146, July 28, 2009, 56 DCR 6308).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-26</heading>
+      <text>For Law 18-26, see notes following § 3-1201.01.</text>
     </level>
   </level>
 </level>

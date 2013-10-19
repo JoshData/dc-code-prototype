@@ -1,7 +1,6 @@
 <level type="section">
   <num>9-1007</num>
   <heading>Federal employees at the Metropolitan Washington Airports.</heading>
-  <formerly-cited-as>DC ST 1981 § 7-1507</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Not later than the date the lease under § 9-1004 takes effect, the Secretary shall ensure that the Airports Authority has established arrangements to protect the employment interests of employees during the 5-year period beginning on such date. These arrangements shall include provisions:</text>
@@ -34,7 +33,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The arrangements made pursuant to this section shall assure, during the 50- year lease term, the continuation of all collective bargaining rights enjoyed by transferred employees retained by the Airports Authority.</text>
+      <text>The arrangements made pursuant to this section shall assure, during the 50-year lease term, the continuation of all collective bargaining rights enjoyed by transferred employees retained by the Airports Authority.</text>
     </level>
   </level>
   <level>
@@ -57,22 +56,22 @@
     <num>(g)</num>
     <text>The Airports Authority shall allow representatives of the Secretary adequate access to employees and employee records of the Airports Authority when needed for the performance of functions related to the period before the date the lease under § 9-1004 takes effect. The Secretary shall provide the Airports Authority access to employee records of transferring employees for appropriate purposes.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 30, 1986, 100 Stat. 3341-376, Pub. L. 99-591, § 6008.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 7-1507.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: See Historical and Statutory Notes following § 9-1001.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 9-1004.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 7-1507.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: See Historical and Statutory Notes following § 9-1001.</text>
     </level>
   </level>
 </level>

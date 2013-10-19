@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>General Provisions.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 50, Subt. VII, Ch. 22, Subch. I, Refs &amp; Annos</text>
-  </level>
+  <heading>General Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-B/index.xml"/>
 </level>

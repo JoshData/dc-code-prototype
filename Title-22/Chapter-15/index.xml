@@ -1,14 +1,12 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>15</num>
-  <heading>Forgery; Frauds.</heading>
+  <heading>Forgery; Frauds</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1501~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1502.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1503~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1504~22-1505~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1504~22-1505~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1506~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1507~22-1509~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1507~22-1509~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1510.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1511.xml"/>

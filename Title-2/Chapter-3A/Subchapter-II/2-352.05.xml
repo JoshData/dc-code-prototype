@@ -42,7 +42,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Any District employee who is displaced as a result of a privatization contract, and is hired by the contractor who was awarded the privatization contract, shall be entitled to the benefits provided by the Service Contract Act of 1965, approved October 22, 1965 (79 Stat. 1034; 41 U.S.C. § 351 <text i="True">et seq.</text>);</text>
+      <text>Any District employee who is displaced as a result of a privatization contract, and is hired by the contractor who was awarded the privatization contract, shall be entitled to the benefits provided by the Service Contract Act of 1965, approved October 22, 1965 (79 Stat. 1034; 41 U.S.C. [§ 351 et seq.]);</text>
     </level>
     <level>
       <num>(4)</num>
@@ -81,18 +81,18 @@
     <num>(f)</num>
     <text>An agency shall not attempt to circumvent the requirements of this section by eliminating the provision of goods or services by the agency before procuring substantially the same goods or services from a person who is not part of the District government.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2011, D.C. Law 18-371, § 205, 58 DCR 1185.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-371, see notes under § 2-351.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-624.22, § 2-381.42, and § 44-1203.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-371</heading>
+      <text>For history of Law 18-371, see notes under § 2-351.01.</text>
     </level>
   </level>
 </level>

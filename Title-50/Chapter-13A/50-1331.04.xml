@@ -1,6 +1,6 @@
 <level type="section">
   <num>50-1331.04</num>
-  <heading>Department Authority to Designate Vehicles Salvage, Non-repairable, and Flood and to include certain information on a title.</heading>
+  <heading>Department authority to designate vehicles salvage, non-repairable, and flood and to include certain information on a title.</heading>
   <level>
     <num>(a)</num>
     <text>Upon application by the owner or lessor, or upon an inspection and determination by the Department that a motor vehicle is a Salvage Vehicle or Non-repairable Vehicle, the Department shall issue a Salvage Title or Non-repairable Vehicle Certificate, whichever is applicable.</text>
@@ -15,25 +15,24 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>Upon notification by an insurance company pursuant to § 50- 1331.02(d)(2)(B), or upon notification by the District of Columbia government of the government's satisfaction of a total loss claim for a vehicle titled in the District of Columbia, the Department may, 10 days after mailing notice to the address on record, revoke the existing title and reissue a salvage or non-repairable vehicle title, as applicable.</text>
+    <text>Upon notification by an insurance company pursuant to § 50-1331.02(d)(2)(B), or upon notification by the District of Columbia government of the government's satisfaction of a total loss claim for a vehicle titled in the District of Columbia, the Department may, 10 days after mailing notice to the address on record, revoke the existing title and reissue a salvage or non-repairable vehicle title, as applicable.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2005, D.C. Law 15-307, § 104, 52 DCR 1700; Mar. 14, 2007, D.C. Law 16-279, § 205(b), 54 DCR 903.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-279 added subsec. (d).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-307, see notes following § 50-1331.01.</text>
-        <text>For Law 16-279, see notes following § 50-312.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-279 added subsec. (d).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-307</heading>
+      <text>For Law 15-307, see notes following § 50-1331.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-279</heading>
+      <text>For Law 16-279, see notes following § 50-312.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>24-404</num>
   <heading>Authorization of parole; custody; discharge.</heading>
-  <formerly-cited-as>DC ST 1981 § 24-204</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Whenever it shall appear to the United States Parole Commission ("Commission") that there is a reasonable probability that a prisoner will live and remain at liberty without violating the law, that his or her release is not incompatible with the welfare of society, and that he or she has served the minimum sentence imposed or the prescribed portion of his or her sentence, as the case may be, the Commission may authorize his or her release on parole upon such terms and conditions as the Commission shall from time to time prescribe. While on parole, a parolee shall remain in the legal custody and under the control of the Attorney General of the United States or his or her authorized representative until:</text>
@@ -68,32 +67,35 @@
     <num>(b)</num>
     <text>Notwithstanding the provisions of subsections (a), (a-1), and (a-2) of this section, the Council of the District of Columbia may promulgate rules and regulations under which the Commission, in its discretion, may discharge a parolee from supervision prior to the expiration of the maximum term or terms for which he was sentenced.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 15, 1932, 47 Stat. 697, ch. 492, § 4; June 6, 1940, 54 Stat. 242, ch. 254, § 3; July 17, 1947, 61 Stat. 378, ch. 263, § 3; May 22, 1965, 79 Stat. 113, Pub. L. 89-24, § 1; May 20, 2009, D.C. Law 17-389, § 3(a), 56 DCR 1196.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 24-204.</text>
-        <text>1973 Ed., § 24-204.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-389 rewrote subsec. (a); added subsecs. (a-1) and (a-2); and, in subsec. (b), substituted "subsections (a), (a-1), and (a-2)" for "subsection (a)" and substituted "Commission" for "Board of Parole". Prior to amendment, subsec. (a) read as follows:</text>
-        <text>"(a) Whenever it shall appear to the Board of Parole that there is a reasonable probability that a prisoner will live and remain at liberty without violating the law, that his release is not incompatible with the welfare of society, and that he has served the minimum sentence imposed or the prescribed portion of his sentence, as the case may be, the Board may authorize his release on parole upon such terms and conditions as the Board shall from time to time prescribe. While on parole, a prisoner shall remain in the legal custody and under the control of the Attorney General of the United States or his authorized representative until the expiration of the maximum of the term or terms specified in his sentence without regard to good time allowance."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-389, see notes following § 24-221.03.</text>
-      </level>
-      <level>
-        <heading>Change in Government</heading>
-        <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(210) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Notice to chief of police of prisoner release, see § 5-113.05.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 5-113.05.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 24-204.</text>
+      <text>1973 Ed., § 24-204.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-389 rewrote subsec. (a); added subsecs. (a-1) and (a-2); and, in subsec. (b), substituted "subsections (a), (a-1), and (a-2)" for "subsection (a)" and substituted "Commission" for "Board of Parole". Prior to amendment, subsec. (a) read as follows: "(a) Whenever it shall appear to the Board of Parole that there is a reasonable probability that a prisoner will live and remain at liberty without violating the law, that his release is not incompatible with the welfare of society, and that he has served the minimum sentence imposed or the prescribed portion of his sentence, as the case may be, the Board may authorize his release on parole upon such terms and conditions as the Board shall from time to time prescribe. While on parole, a prisoner shall remain in the legal custody and under the control of the Attorney General of the United States or his authorized representative until the expiration of the maximum of the term or terms specified in his sentence without regard to good time allowance."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-389</heading>
+      <text>For Law 17-389, see notes following § 24-221.03.</text>
+    </level>
+    <level>
+      <heading>Change in Government</heading>
+      <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(210) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>District of Columbia Office of Documents.</heading>
+  <heading>District of Columbia Office of Documents</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-611.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-612.xml"/>
 </level>

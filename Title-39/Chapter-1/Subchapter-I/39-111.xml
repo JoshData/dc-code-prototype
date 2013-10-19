@@ -73,18 +73,18 @@
     <num>(b)</num>
     <text>The Task Force shall provide opportunity for public input into the development of the strategic plan after providing notice of the opportunity to the public, including posting information on the DCPL Internet site.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 3, 1896, 29 Stat. 244, ch. 315, § 11, as added Apr. 4, 2006, D.C. Law 16-78, § 2, 53 DCR 802.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-78, see notes following § 39-109.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 39-113.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-78</heading>
+      <text>For Law 16-78, see notes following § 39-109.</text>
     </level>
   </level>
 </level>

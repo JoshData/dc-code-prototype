@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-113.11</num>
   <heading>Citizen's right of action.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-995.11</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any person aggrieved by a violation of any requirement of this subchapter or rule issued pursuant to this subchapter may commence a civil action on his or her own behalf against any person who is alleged to be in violation.</text>
@@ -26,23 +25,22 @@
     <num>(f)</num>
     <text>An owner or operator who enters on the property of another person in order to investigate or remediate a leaking underground storage tank site shall be liable for any damages to person or property which result from the action of the owner or operator or the agents of the owner or operator.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 1991, D.C. Law 8-242, § 12, 38 DCR 344; Sept. 29, 1992, D.C. Law 9-159, § 2(i), 39 DCR 5690.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-995.11.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-242, see Historical and Statutory Notes following § 8-113.01.</text>
-        <text>For legislative history of D.C. Law 9-159, see Historical and Statutory Notes following § 8-113.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-995.11.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-242</heading>
+      <text>For legislative history of D.C. Law 8-242, see Historical and Statutory Notes following § 8-113.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-159</heading>
+      <text>For legislative history of D.C. Law 9-159, see Historical and Statutory Notes following § 8-113.01.</text>
     </level>
   </level>
 </level>

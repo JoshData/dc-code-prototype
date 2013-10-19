@@ -117,38 +117,35 @@
     </level>
   </level>
   <text>"After reasonable investigation, the undersigned has determined that CareFirst:</text>
-  <level>
-    <text>"(1) Has met and intends to continue to meet the requirements applicable to its receipt of tax benefits of the type and in the amount requested;</text>
-    <text>"(2) Is in compliance with terms of all public benefit agreements entered into with the District, including, but not limited to, the First Source Employment Agreement with the District of Columbia Department of Employment Services and the Memorandum of Understanding with the District of Columbia Office of Local Business Development;</text>
-    <text>"(3) Is not now receiving and does not now have pending any other application for abatement of real property tax liability or an allowance of tax credits in connection with a single property, qualified employee, or financial contribution made pursuant to any other provision of District law;</text>
-    <text>"(4) Is not delinquent in the payment of taxes, fees, or other indebtedness to the District; and</text>
-    <text>"(5) Is not in violation of the applicable laws and regulations of the District.".</text>
-  </level>
+  <text>"(1) Has met and intends to continue to meet the requirements applicable to its receipt of tax benefits of the type and in the amount requested;</text>
+  <text>"(2) Is in compliance with terms of all public benefit agreements entered into with the District, including, but not limited to, the First Source Employment Agreement with the District of Columbia Department of Employment Services and the Memorandum of Understanding with the District of Columbia Office of Local Business Development;</text>
+  <text>"(3) Is not now receiving and does not now have pending any other application for abatement of real property tax liability or an allowance of tax credits in connection with a single property, qualified employee, or financial contribution made pursuant to any other provision of District law;</text>
+  <text>"(4) Is not delinquent in the payment of taxes, fees, or other indebtedness to the District; and</text>
+  <text>"(5) Is not in violation of the applicable laws and regulations of the District.".</text>
   <level>
     <num>(c)</num>
-    <text>Gross receipts from the sales of tangible personal property to be incorporated or consumed in the course of construction of the CareFirst Project shall be exempt from the tax imposed by Chapter 20 of this title. The amount of all taxes, fees, and deposits exempted, abated, or waived under this subsection shall not exceed $ 2 million.</text>
+    <text>Gross receipts from the sales of tangible personal property to be incorporated or consumed in the course of construction of the CareFirst Project shall be exempt from the tax imposed by Chapter 20 of this title. The amount of all taxes, fees, and deposits exempted, abated, or waived under this subsection shall not exceed $2 million.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 5, 2005, D.C. Law 15-265, § 2, 52 DCR 464; Mar. 2, 2007, D.C. Law 16-191, §§ 84, 85, 53 DCR 6794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-191 substituted "of this title" for "[of this title]" following "Chapter 20"; and validated a previously made technical correction in the section heading.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 16 of Finance and Revenue Technical Amendments Second Emergency Amendment Act of 2006 (D.C. Act 16-585, December 28, 2006, 54 DCR 340).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 15-265, the "CareFirst Economic Assistance Act of 2004", was introduced in Council and assigned Bill No. 15-75, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on November 9, 2004, and December 7, 2004, respectively. Signed by the Mayor on January 3, 2005, it was assigned Act No. 15-650 and transmitted to both Houses of Congress for its review. D.C. Law 15-265 became effective on April 5, 2005.</text>
-        <text>For Law 16-191, see notes following § 47-2425.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-191 substituted "of this title" for "[of this title]" following "Chapter 20"; and validated a previously made technical correction in the section heading.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 16 of Finance and Revenue Technical Amendments Second Emergency Amendment Act of 2006 (D.C. Act 16-585, December 28, 2006, 54 DCR 340).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-265</heading>
+      <text>Law 15-265, the "CareFirst Economic Assistance Act of 2004", was introduced in Council and assigned Bill No. 15-75, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on November 9, 2004, and December 7, 2004, respectively. Signed by the Mayor on January 3, 2005, it was assigned Act No. 15-650 and transmitted to both Houses of Congress for its review. D.C. Law 15-265 became effective on April 5, 2005.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 47-2425.</text>
     </level>
   </level>
 </level>

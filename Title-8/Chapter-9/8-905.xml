@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-905</num>
   <heading>Forfeitures.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-2915</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>All motor vehicles which are used, or intended to be used, to transport, or in any manner to facilitate a violation of this chapter shall be subject to forfeiture, except that:</text>
@@ -96,27 +95,30 @@
     <num>(d)</num>
     <text>In the event of seizure pursuant to subsection (b) of this section, proceedings under subsection (c) of this section shall be instituted promptly.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 20, 1994, D.C. Law 10-117, § 6, 41 DCR 524.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-2915.</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>See Historical and Statutory Notes following § 8-901.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-62, see Historical and Statutory Notes following § 8-901.</text>
-        <text>For legislative history of D.C. Law 10-117, see Historical and Statutory Notes following § 8-901.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-902.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-2915.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>See Historical and Statutory Notes following § 8-901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-62</heading>
+      <text>For legislative history of D.C. Law 10-62, see Historical and Statutory Notes following § 8-901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-117</heading>
+      <text>For legislative history of D.C. Law 10-117, see Historical and Statutory Notes following § 8-901.</text>
     </level>
   </level>
 </level>

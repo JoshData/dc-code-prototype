@@ -1,23 +1,39 @@
 <level type="section">
   <num>16-4601.02</num>
   <heading>Proceedings governed by other law.</heading>
-  <text>This chapter does not govern a proceeding pertaining to the authorization of emergency medical care for a child.</text>
+  <text>This chapter does not govern a proceeding pertaining to:</text>
   <level>
-    <type>annotations</type>
+    <num>(1)</num>
+    <text>The authorization of emergency medical care for a child;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>An adoption proceeding pursuant to § 16-301; or</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>A proceeding to adjudicate the parentage of a child pursuant to § 16-909(b-2).</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Apr. 27, 2001, D.C. Law 13-293, § 2(d), 48 DCR 2214.)</text>
+      <heading>History</heading>
+      <text>(Apr. 27, 2001, D.C. Law 13-293, § 2(d), 48 DCR 2214; Mar. 19, 2013, D.C. Law 19-233, § 2(c), 59 DCR 14769.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-293, see notes following § 16-4601.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 103 of the Uniform Child Custody Jurisdiction and Enforcement Act (1997 Act). See 9, Part IA, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-233 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-293</heading>
+      <text>For D.C. Law 13-293, see notes following § 16-4601.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-233</heading>
+      <text>Law 19-233, the "Judicial Declaration of Parentage Amendment Act of 2011," was introduced in Council and assigned Bill No. 19-615. The Bill was adopted on first and second readings on Oct. 16, 2012, and Nov. 2, 2012, respectively. Signed by the Mayor on Nov. 20, 2012, it was assigned Act No. 19-550 and transmitted to Congress for its review. D.C. Law 19-233 became effective on Mar. 19, 2013.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 103 of the Uniform Child Custody Jurisdiction and Enforcement Act (1997 Act).</text>
     </level>
   </level>
 </level>

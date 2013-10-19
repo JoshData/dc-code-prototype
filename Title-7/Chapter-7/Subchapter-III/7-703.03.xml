@@ -2,30 +2,24 @@
   <num>7-703.03</num>
   <heading>Visits to the home of a resident.</heading>
   <text>The Ombudsman may communicate and visit with a resident who receives home care services; provided, that the Ombudsman obtains permission from the resident or a representative of the resident to enter the resident's home.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1989, D.C. Law 7-218, § 303, as added Mar. 14, 2012, D.C. Law 19-111, § 2(d), 59 DCR 455.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) repeal of section 3 of D.C. Law 19-111, see § 7013 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
-        <text>For temporary (90 day) repeal of section 3 of D.C. Law 19-111, see § 7013 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-111, see notes under § 7-701.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 3 of D.C. Law 19-111 provides:</text>
-        <text>"Sec. 3. Applicability.</text>
-        <text>"This act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan."</text>
-        <text>Section 7013 of D.C. Law 19-168 repealed section 3 of D.C. Law 19-111.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) repeal of section 3 of D.C. Law 19-111, see § 7013 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
+      <text>For temporary (90 day) repeal of section 3 of D.C. Law 19-111, see § 7013 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-111</heading>
+      <text>For history of Law 19-111, see notes under § 7-701.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 3 of D.C. Law 19-111 provided: "Sec. 3. Applicability. This act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan."</text>
+      <text>Section 3 of D.C. Law 19-111 provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan. D.C. Law 19-111, § 3, was repealed by D.C. Law 19-168, § 7013.</text>
     </level>
   </level>
 </level>

@@ -114,26 +114,24 @@
       <num>(9)</num>
       <text>The District pledges, which pledge the Corporation may include in any agreement with the holders of the Bonds, to the Corporation that the District will:</text>
       <level>
-        <level>
-          <num>(i)</num>
-          <text>Continue to diligently enforce the Model Statute against all tobacco product manufacturers selling tobacco products in the District that are not signatories to the Master Settlement Agreement;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Enforce the District's rights to receive the payments to be made to the District pursuant to the Master Settlement Agreement to the full extent permitted by the terms of the Master Settlement Agreement;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Not amend the Master Settlement Agreement in any way that would materially impair the rights of the holders of Bonds;</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>Not limit or alter rights vested in the Corporation to fulfill agreements made with holders of the Bonds; or</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>Not in any way impair the rights and remedies of the holders of the Bonds until the Bonds, together with the interest thereon, with interest on any unpaid installments of interest, and all costs and expenses in connection with any action or proceedings by or on behalf of the holders of the Bonds are fully met and discharged.</text>
-        </level>
+        <num>(i)</num>
+        <text>Continue to diligently enforce the Model Statute against all tobacco product manufacturers selling tobacco products in the District that are not signatories to the Master Settlement Agreement;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Enforce the District's rights to receive the payments to be made to the District pursuant to the Master Settlement Agreement to the full extent permitted by the terms of the Master Settlement Agreement;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Not amend the Master Settlement Agreement in any way that would materially impair the rights of the holders of Bonds;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>Not limit or alter rights vested in the Corporation to fulfill agreements made with holders of the Bonds; or</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>Not in any way impair the rights and remedies of the holders of the Bonds until the Bonds, together with the interest thereon, with interest on any unpaid installments of interest, and all costs and expenses in connection with any action or proceedings by or on behalf of the holders of the Bonds are fully met and discharged.</text>
       </level>
     </level>
     <level>
@@ -298,43 +296,52 @@
       <text>Bids shall be opened publicly at the time and place designated in the invitation for bids. Each bid, with the name of the bidder, shall be recorded and be open to public inspection. The contract shall be awarded with reasonable promptness by written notice to the responsive and responsible bidder whose bid will be most advantageous to the Corporation, considering price and other factors as set forth in paragraph (1) of this subsection.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 19, 2000, D.C. Law 13-172, § 3704, 47 DCR 6308; Oct. 21, 2000, D.C. Law 13-176, § 8(d)(3), 47 DCR 6835; July 25, 2006, D.C. Law 16-142, § 3(c), 53 DCR 4412; Mar. 14, 2007, D.C. Law 16-294, § 10, 54 DCR 1086; Sept. 26, 2012, D.C. Law 19-171, § 211, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-176, in par. (m)(2), substituted "10 working days" for "30 days".</text>
-        <text>Section 9 of D.C. Law 13-176 provides:</text>
-        <text>"Rule of construction.</text>
-        <text>"To the extent that provisions of this act conflict with any order of the Financial Responsibility and Management Assistance Authority ('Financial Authority'), issued pursuant to section 207(d) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995 the provisions of the Financial Authority Order shall govern."</text>
-        <text>D.C. Law 16-142, in subsec. (b), substituted "by the District and the Residual Bond, issuing" for "by the District), issuing", substituted "Purchase Agreement or the Residual Bond Purchase Agreement and" for "Purchase Agreement and", and substituted "including financing the costs of the National Capital Medical Center indebtedness of the District, to finance or refinance the National Capital Medical Center, healthcare related issues, or other capital projects or undertakings of the District, or other capital projects, repayment, refinancing," for "including repayment, refinancing,"; in par. (c)(1), substituted "to finance or refinance" for "to refinance", substituted "the financing or refinancing of the National Capital Medical Center, healthcare related issues, or other capital projects or undertakings" for "the refinancing of, capital projects and other undertakings" and deleted the last sentence which had read: 'The refinancing of capital projects and other undertakings of the District shall include the refinancing, repayment, or defeasance of general obligation debt of the District incurred for capital projects and other undertakings."; in subpar. (c)(2)(B)(i), substituted "Corporation;" for "Corporation; and"; in subpar. (c)(2)(B)(ii), substituted "taxable basis; and" for "taxable basis."; added subpar. (c)(2)(B)(iii); in par. (c)(3), substituted "subchapter II of this chapter, and the terms and conditions of the Remainder Certificate, if any, shall be consistent with the provisions of the Residual Bond Purchase Agreement and shall provide that the payments under the Master Settlement Agreement after payment in full of all Bonds outstanding shall be paid to the Tobacco Settlement Trust Fund established by subchapter II of this chapter." for "subchapter II of this chapter."; in par. (c)(6), substituted "The Bonds issued to purchase the District's right, title, and interest in the Master Settlement Agreement are special obligations of the Corporation payable solely from, and secured by, the payments received under the Master Settlement Agreement. The Bonds issued to purchase the Fund's right, title, and interest in the Residual Bond are obligations of the Corporation payable solely from, and secured by, the payments received under the Residual Bond." for "The Bonds are special obligations of the Corporation payable solely from, and secured by, the payments received under the Master Settlement Agreement.", and substituted "Settlement Agreement or under the Fund under the Residual Bond." for "Settlement Agreement." in the last sentence; and rewrote par. (c)(9), which had read as follows:</text>
-        <text>"(9) The District pledges to the Corporation and the holders of the Bonds that the District will not limit or alter rights vested in the Corporation to fulfill agreements made with holders of the Bonds, or in any way impair the rights and remedies of the holders of the Bonds until the Bonds, together with the interest thereon, with interest on any unpaid installments of interest, and all costs and expenses in connection with any action or proceedings by or on behalf of the holders of the Bonds are fully met and discharged. The Corporation may include this pledge of the District in any agreement with the holders of the Bonds."</text>
-        <text>D.C. Law 16-294, in subsec. (b), substituted "District) and the Residual Bond" for "District and the Residual Bond)".</text>
-        <text>D.C. Law 19-171, in subsec. (m)(1), substituted "§ 2-351.04(31)" for "§ 2- 301.07(25)" .</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of the Fiscal Year 2001 Budget Support Temporary Amendment Act of 2000, see §§ 2(d), 3(d) of (D.C. Law 13-197, October 21, 2000, law notification 47 DCR 8987).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) addition of section, see notes following § 7-1831.01.</text>
-        <text>For temporary (90-day) amendment of section, see §§ 2(c) and 3(c) of the Fiscal Year 2001 Budget Support Emergency Amendment Act of 2000 (D.C. Act 13-381, July 24, 2000, 47 DCR 6695).</text>
-        <text>For temporary (90 day) additions, see §§ 3702 to 3707 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-172, see notes following § 7-1811.01.</text>
-        <text>Law 13-176, the "State Education Office Establishment Act of 2000," was introduced in Council and assigned Bill No. 13-416, which was referred to the Committee on Education, Libraries and Recreation. The Bill was adopted on first and second readings on June 6, 2000, and July 11, 2000, respectively. Signed by the Mayor on July 26, 2000, it was assigned Act No. 13-187 and transmitted to both Houses of Congress for its review. D.C. Law 13-176 became effective on October 21, 2000.</text>
-        <text>For Law 16-142, see notes following § 7-1811.01.</text>
-        <text>Law 16-294, the "Second Technical Amendments Act of 2006", was introduced in Council and assigned Bill No. 16-996, which was referred to Committee on the Whole. The Bill was adopted on first and second readings on November 14, 2006, and December 5, 2006, respectively. Signed by the Mayor on December 28, 2006, it was assigned Act No. 16-653 and transmitted to both Houses of Congress for its review. D.C. Law 16-294 became effective on March 14, 2007.</text>
-        <text>For history of Law 19-171, see notes under § 7-242.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-1831.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-176, in par. (m)(2), substituted "10 working days" for "30 days".</text>
+      <text>Section 9 of D.C. Law 13-176 provided: "Rule of construction. "To the extent that provisions of this act conflict with any order of the Financial Responsibility and Management Assistance Authority ('Financial Authority'), issued pursuant to section 207(d) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995 the provisions of the Financial Authority Order shall govern."</text>
+      <text>D.C. Law 16-142, in subsec. (b), substituted "by the District and the Residual Bond, issuing" for "by the District), issuing", substituted "Purchase Agreement or the Residual Bond Purchase Agreement and" for "Purchase Agreement and", and substituted "including financing the costs of the National Capital Medical Center indebtedness of the District, to finance or refinance the National Capital Medical Center, healthcare related issues, or other capital projects or undertakings of the District, or other capital projects, repayment, refinancing," for "including repayment, refinancing,"; in par. (c)(1), substituted "to finance or refinance" for "to refinance", substituted "the financing or refinancing of the National Capital Medical Center, healthcare related issues, or other capital projects or undertakings" for "the refinancing of, capital projects and other undertakings" and deleted the last sentence which had read: 'The refinancing of capital projects and other undertakings of the District shall include the refinancing, repayment, or defeasance of general obligation debt of the District incurred for capital projects and other undertakings."; in subpar. (c)(2)(B)(i), substituted "Corporation;" for "Corporation; and"; in subpar. (c)(2)(B)(ii), substituted "taxable basis; and" for "taxable basis."; added subpar. (c)(2)(B)(iii); in par. (c)(3), substituted "subchapter II of this chapter, and the terms and conditions of the Remainder Certificate, if any, shall be consistent with the provisions of the Residual Bond Purchase Agreement and shall provide that the payments under the Master Settlement Agreement after payment in full of all Bonds outstanding shall be paid to the Tobacco Settlement Trust Fund established by subchapter II of this chapter." for "subchapter II of this chapter."; in par. (c)(6), substituted "The Bonds issued to purchase the District's right, title, and interest in the Master Settlement Agreement are special obligations of the Corporation payable solely from, and secured by, the payments received under the Master Settlement Agreement. The Bonds issued to purchase the Fund's right, title, and interest in the Residual Bond are obligations of the Corporation payable solely from, and secured by, the payments received under the Residual Bond." for "The Bonds are special obligations of the Corporation payable solely from, and secured by, the payments received under the Master Settlement Agreement.", and substituted "Settlement Agreement or under the Fund under the Residual Bond." for "Settlement Agreement." in the last sentence; and rewrote par. (c)(9), which had read as follows: "(9) The District pledges to the Corporation and the holders of the Bonds that the District will not limit or alter rights vested in the Corporation to fulfill agreements made with holders of the Bonds, or in any way impair the rights and remedies of the holders of the Bonds until the Bonds, together with the interest thereon, with interest on any unpaid installments of interest, and all costs and expenses in connection with any action or proceedings by or on behalf of the holders of the Bonds are fully met and discharged. The Corporation may include this pledge of the District in any agreement with the holders of the Bonds."</text>
+      <text>D.C. Law 16-294, in subsec. (b), substituted "District) and the Residual Bond" for "District and the Residual Bond)".</text>
+      <text>The 2012 amendment by D.C. Law 19-171 substituted "§ 2-351.04(31)" for "§ 2-301.07(25)" in (m)(1).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of the Fiscal Year 2001 Budget Support Temporary Amendment Act of 2000, see §§ 2(d), 3(d) of (D.C. Law 13-197, October 21, 2000, law notification 47 DCR 8987).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) addition of section, see notes following § 7-1831.01.</text>
+      <text>For temporary (90-day) amendment of section, see §§ 2(c) and 3(c) of the Fiscal Year 2001 Budget Support Emergency Amendment Act of 2000 (D.C. Act 13-381, July 24, 2000, 47 DCR 6695).</text>
+      <text>For temporary (90 day) additions, see §§ 3702 to 3707 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-172</heading>
+      <text>For Law 13-172, see notes following § 7-1811.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-176</heading>
+      <text>Law 13-176, the "State Education Office Establishment Act of 2000," was introduced in Council and assigned Bill No. 13-416, which was referred to the Committee on Education, Libraries and Recreation. The Bill was adopted on first and second readings on June 6, 2000, and July 11, 2000, respectively. Signed by the Mayor on July 26, 2000, it was assigned Act No. 13-187 and transmitted to both Houses of Congress for its review. D.C. Law 13-176 became effective on October 21, 2000.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-142</heading>
+      <text>For Law 16-142, see notes following § 7-1811.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-294</heading>
+      <text>Law 16-294, the "Second Technical Amendments Act of 2006", was introduced in Council and assigned Bill No. 16-996, which was referred to Committee on the Whole. The Bill was adopted on first and second readings on November 14, 2006, and December 5, 2006, respectively. Signed by the Mayor on December 28, 2006, it was assigned Act No. 16-653 and transmitted to both Houses of Congress for its review. D.C. Law 16-294 became effective on March 14, 2007.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
     </level>
   </level>
 </level>

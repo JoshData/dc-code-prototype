@@ -1,7 +1,6 @@
 <level type="section">
   <num>15-903</num>
   <heading>Determining money of the claim.</heading>
-  <formerly-cited-as>DC ST 1981 § 15-903</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The money in which the parties to a transaction have agreed that payment is to be made, is the proper money of the claim for payment.</text>
@@ -22,26 +21,22 @@
       <text>In which the loss was ultimately felt or will be incurred by the party claimant.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 10, 1996, D.C. Law 11-85, § 2, 42 DCR 6791.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 15-903.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-85, see Historical and Statutory Notes following § 15-901.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 4 of the Uniform Foreign-Money Claims Act. See 13 Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 15-903.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-85</heading>
+      <text>For legislative history of D.C. Law 11-85, see Historical and Statutory Notes following § 15-901.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 4 of the Uniform Foreign-Money Claims Act.</text>
     </level>
   </level>
 </level>

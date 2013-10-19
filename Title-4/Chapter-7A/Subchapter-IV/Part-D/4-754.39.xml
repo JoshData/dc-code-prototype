@@ -37,18 +37,18 @@
     <num>(g)</num>
     <text>No member of the provider's staff who was involved in the incident or incidents at issue in the mediation shall serve as a mediator during the proceedings.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2005, D.C. Law 16-35, § 25, 52 DCR 8113.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-35, see notes following § 4-751.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-754.32, § 4-754.38, and § 4-754.52.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-35</heading>
+      <text>For Law 16-35, see notes following § 4-751.01.</text>
     </level>
   </level>
 </level>

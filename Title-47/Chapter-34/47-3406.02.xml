@@ -1,10 +1,10 @@
 <level type="section">
   <num>47-3406.02</num>
   <heading>Federal contribution to operations of government of Nation's Capital.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-3406.2</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Findings.</text> -- Congress finds as follows:</text>
+    <heading>Findings</heading>
+    <text>Congress finds as follows:</text>
     <level>
       <num>(1)</num>
       <text>Congress has restricted the overall size of the District of Columbia's economy by limiting the height of buildings in the District and imposing other limitations relating to the Federal presence in the District.</text>
@@ -26,7 +26,8 @@
     <num>(b)</num>
     <level>
       <num>(1)</num>
-      <text><text i="True">Federal contribution.</text> -- There is authorized to be appropriated a Federal contribution towards the costs of the operation of the government of the Nation's capital:</text>
+      <heading>Federal contribution</heading>
+      <text>There is authorized to be appropriated a Federal contribution towards the costs of the operation of the government of the Nation's capital:</text>
       <level>
         <num>(A)</num>
         <text>For fiscal year 1998, $190,000,000; and</text>
@@ -41,31 +42,39 @@
       <text>In determining the amount appropriated pursuant to the authorization under this subsection, Congress shall take into account the findings described in subsection (a) of this section.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 5, 1997, 111 Stat. 778, Pub. L. 105-33, § 11601(c); Apr. 20, 1999, D.C. Law 12-264, § 52(y), 46 DCR 2118; Mar. 2, 2007, D.C. Law 16-191, § 82, 53 DCR 6794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-3406.2.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-191, in subsec. (b), designated pars. (1) and (2), and redesignated former pars. (1) and (2) as subpars. (b)(1)(A) and (B).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 14 of Finance and Revenue Technical Amendments Second Emergency Amendment Act of 2006 (D.C. Act 16-585, December 28, 2006, 54 DCR 340).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-264, see Historical and Statutory Notes following § 47-3401.01.</text>
-        <text>For Law 16-191, see notes following § 47-2425.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>District government, financial plan and budget, deposit of annual federal contribution with Authority into escrow account, see § 47-3406.</text>
+      <text>Taxation and fiscal affairs, failure to reimburse the Treasury, withholding federal payments, see § 47-3401.04.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-392.05 and § 47-3401.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-3406.2.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-191, in subsec. (b), designated pars. (1) and (2), and redesignated former pars. (1) and (2) as subpars. (b)(1)(A) and (B).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 14 of Finance and Revenue Technical Amendments Second Emergency Amendment Act of 2006 (D.C. Act 16-585, December 28, 2006, 54 DCR 340).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-264</heading>
+      <text>For legislative history of D.C. Law 12-264, see Historical and Statutory Notes following § 47-3401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 47-2425.</text>
     </level>
   </level>
 </level>

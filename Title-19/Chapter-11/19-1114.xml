@@ -3,31 +3,25 @@
   <heading>Expenses, compensation, and bond of custodial trustee.</heading>
   <text>Except as otherwise provided in the instrument creating the custodial trust, in an agreement with the beneficiary, or by court order, a custodial trustee:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Is entitled to reimbursement from custodial trust property for reasonable expenses incurred in the performance of fiduciary services;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Has a noncumulative election, to be made no later than 6 months after the end of each calendar year, to charge a reasonable compensation for fiduciary services performed during that year; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Need not furnish a bond or other security for the faithful performance of fiduciary duties.</text>
-    </level>
+    <num>(1)</num>
+    <text>Is entitled to reimbursement from custodial trust property for reasonable expenses incurred in the performance of fiduciary services;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Has a noncumulative election, to be made no later than 6 months after the end of each calendar year, to charge a reasonable compensation for fiduciary services performed during that year; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Need not furnish a bond or other security for the faithful performance of fiduciary duties.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 23, 2002, D.C. Law 14-177, § 2(b), 49 DCR 5092.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-177, see notes following § 19-1101.</text>
-      </level>
+      <heading>Legislative History of Law 14-177</heading>
+      <text>For Law 14-177, see notes following § 19-1101.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-623.21</num>
   <heading>Claim required; contents.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-624.21</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Compensation under this subchapter may be allowed only if an individual or someone on his or her behalf makes claim therefor. The claim shall:</text>
@@ -34,24 +33,23 @@
     <num>(b)</num>
     <text>The Mayor may waive paragraphs (3) through (6) of subsection (a) of this section for reasonable cause shown.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-139, § 2321, 25 DCR 5740; Aug. 7, 1980, D.C. Law 3-81, § 2(x), 27 DCR 2632.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-624.21.</text>
-        <text>1973 Ed., § 1-353.21.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-139, see Historical and Statutory Notes following § 1-601.01.</text>
-        <text>For legislative history of D.C. Law 3-81, see Historical and Statutory Notes following § 1-602.02.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-624.21.</text>
+      <text>1973 Ed., § 1-353.21.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-139</heading>
+      <text>For legislative history of D.C. Law 2-139, see Historical and Statutory Notes following § 1-601.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-81</heading>
+      <text>For legislative history of D.C. Law 3-81, see Historical and Statutory Notes following § 1-602.02.</text>
     </level>
   </level>
 </level>

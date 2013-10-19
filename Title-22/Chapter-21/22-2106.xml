@@ -1,7 +1,6 @@
 <level type="section">
   <num>22-2106</num>
   <heading>Murder of law enforcement officer.</heading>
-  <formerly-cited-as>DC ST 1981 § 22-2406</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Whoever, with deliberate and premeditated malice, and with knowledge or reason to know that the victim is a law enforcement officer or public safety employee, kills any law enforcement officer or public safety employee engaged in, or on account of, the performance of such officer's or employee's official duties, is guilty of murder of a law enforcement officer or public safety employee, and shall be sentenced to life without the possibility of release. It shall not be a defense to this charge that the victim was acting unlawfully by seizing or attempting to seize the defendant or another person.</text>
@@ -42,7 +41,7 @@
       <text>"Public safety employee" means:</text>
       <level>
         <num>(A)</num>
-        <text>A District of Columbia firefighter, emergency medical technician/ paramedic, emergency medical technician/intermediate paramedic, or emergency medical technician; and</text>
+        <text>A District of Columbia firefighter, emergency medical technician/paramedic, emergency medical technician/intermediate paramedic, or emergency medical technician; and</text>
       </level>
       <level>
         <num>(B)</num>
@@ -51,28 +50,42 @@
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(c)</num>
+    <text>In addition to any other penalty provided under this section, a person may be fined an amount not more than the amount set forth in § 22-3571.01.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 3, 1901, 31 Stat. 1321, ch. 854, § 802a, as added May 23, 1995, D.C. Law 10-256, § 2(d), 42 DCR 20; Oct. 17, 2002, D.C. Law 14-194, § 154, 49 DCR 5306.)</text>
+      <heading>History</heading>
+      <text>(Mar. 3, 1901, 31 Stat. 1321, ch. 854, § 802a, as added May 23, 1995, D.C. Law 10-256, § 2(d), 42 DCR 20; Oct. 17, 2002, D.C. Law 14-194, § 154, 49 DCR 5306; June 11, 2013, D.C. Law 19-317, § 303(c), 60 DCR 2064.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 22-2406.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-194 rewrote the section which had read as follows:</text>
-        <text>"(a) Whoever, with deliberate and premeditated malice, and with knowledge or reason to know that the victim is a law enforcement officer, kills any Metropolitan Police Officer or any other local, federal, or state law enforcement officer engaged in, or on account of, the performance of such officer's official duties and such killing results, is guilty of murder of a law enforcement officer, and shall be sentenced to life without parole. It shall not be a defense to this charge that the victim was acting unlawfully by seizing or attempting to seize the defendant or another person.</text>
-        <text>"(b) For purposes of subsection (a) of this section, the term 'local law enforcement officer' means the deputy and assistant; the Director, deputy directors, and officers of the District of Columbia Department of Corrections; the Director, members, and officers of the District of Columbia Board of Parole; any probation or pretrial services officer of the District of Columbia; and Metro Transit police officers. For the same purposes, the term 'state law enforcement officer' means a state, county, or municipal officer performing functions comparable to those performed by a Metropolitan Police Officer or by a 'local law enforcement officer,' as that term is defined in this subsection, and includes, but is not limited to, state, county, or municipal police officers, sheriffs, correctional officers, parole officers, and probation and pretrial services officers."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-256, see Historical and Statutory Notes following § 22-2104.</text>
-        <text>For Law 14-194, see notes following § 22-1319.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 22-3152, § 23-113, § 24-112, and § 24-403.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 22-2406.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-194 rewrote the section.</text>
+      <text>The 2013 amendment by D.C. Law 19-317 added (c).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-256</heading>
+      <text>For legislative history of D.C. Law 10-256, see Historical and Statutory Notes following § 22-2104.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-194</heading>
+      <text>For Law 14-194, see notes following § 22-1319.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-317</heading>
+      <text>See note to § 22-2104.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
     </level>
   </level>
 </level>

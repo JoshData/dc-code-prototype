@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-213</num>
   <heading>Reports of fetal deaths.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-213</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Each fetal death of 20 completed weeks gestation or more, calculated from the date that the last normal menstrual period began to the date of delivery, or a weight of 500 grams or more, which occurs in the District shall be reported as directed by the Registrar within 5 days after occurrence. For purposes of preparing and filing a fetal death report the following rules apply:</text>
@@ -34,22 +33,18 @@
     <num>(c)</num>
     <text>Each report required in this section is a statistical report to be used only for medical and health purposes and shall not be incorporated into the permanent official records of the system of vital records. A schedule for the disposition of these reports shall be provided for by regulation.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 8, 1981, D.C. Law 4-34, § 14, 28 DCR 3271.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-213.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-34, see Historical and Statutory Notes following § 7-201.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-213.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-34</heading>
+      <text>For legislative history of D.C. Law 4-34, see Historical and Statutory Notes following § 7-201.</text>
     </level>
   </level>
 </level>

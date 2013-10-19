@@ -1,10 +1,10 @@
 <level type="section">
   <num>42-2704.03</num>
   <heading>Terms for sale of bonds and notes; effect of resolution authorizing sale; pledge of agency and lien thereon; signature valid after officeholder vacates.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2133</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">General.</text> -- The Agency may stipulate by resolution the terms for sale of its bonds and notes in accordance with this chapter, including the following:</text>
+    <heading>General</heading>
+    <text>The Agency may stipulate by resolution the terms for sale of its bonds and notes in accordance with this chapter, including the following:</text>
     <level>
       <num>(1)</num>
       <text>The date a bond or note bears;</text>
@@ -40,11 +40,13 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Public or private sale.</text> -- The Agency may sell its bonds or notes at public or private sale and may determine the price for sale.</text>
+    <heading>Public or private sale</heading>
+    <text>The Agency may sell its bonds or notes at public or private sale and may determine the price for sale.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Additional provisions part of contract.</text> -- If the resolution authorizing the sale of bonds or notes contains any of the provisions listed below, the provisions must also be part of the contract with holders of the bonds or notes. The provisions in the resolution may include the following:</text>
+    <heading>Additional provisions part of contract</heading>
+    <text>If the resolution authorizing the sale of bonds or notes contains any of the provisions listed below, the provisions must also be part of the contract with holders of the bonds or notes. The provisions in the resolution may include the following:</text>
     <level>
       <num>(1)</num>
       <text>The custody, security, expenditure or application of proceeds of the sale of bonds or notes of the Agency (hereinafter "proceeds"), a pledge of the proceeds to secure payment, and the rank or priority of the pledge, subject to preexisting agreements with holders of bonds or notes;</text>
@@ -96,31 +98,35 @@
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Pledge of the Agency.</text> -- A pledge of the Agency is binding from the time it is made. Any funds or property pledged are subject to the lien of a pledge without physical delivery. The lien of a pledge is binding as against parties having any tort, contract or other claim against the Agency regardless of notice. Neither the resolution nor any other instrument creating a pledge need be recorded.</text>
+    <heading>Pledge of the Agency</heading>
+    <text>A pledge of the Agency is binding from the time it is made. Any funds or property pledged are subject to the lien of a pledge without physical delivery. The lien of a pledge is binding as against parties having any tort, contract or other claim against the Agency regardless of notice. Neither the resolution nor any other instrument creating a pledge need be recorded.</text>
   </level>
   <level>
     <num>(e)</num>
-    <text><text i="True">Signature.</text> -- The signature of any officer of the Agency which appears on a bond or note remains valid if that person ceases to hold that office.</text>
+    <heading>Signature</heading>
+    <text>The signature of any officer of the Agency which appears on a bond or note remains valid if that person ceases to hold that office.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-135, § 403, 25 DCR 5008; Aug. 5, 1981, D.C. Law 4-28, § 2(s), 28 DCR 2848; Apr. 20, 1999, D.C. Law 12-247, § 2(p), 46 DCR 1100.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2133.</text>
-        <text>1973 Ed., § 45-1918.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-135, see Historical and Statutory Notes following § 42-2701.01.</text>
-        <text>For legislative history of D.C. Law 4-28, see Historical and Statutory Notes following § 42-2701.02.</text>
-        <text>For legislative history of D.C. Law 12-247, see Historical and Statutory Notes following § 42-2701.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2133.</text>
+      <text>1973 Ed., § 45-1918.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-135</heading>
+      <text>For legislative history of D.C. Law 2-135, see Historical and Statutory Notes following § 42-2701.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-28</heading>
+      <text>For legislative history of D.C. Law 4-28, see Historical and Statutory Notes following § 42-2701.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-247</heading>
+      <text>For legislative history of D.C. Law 12-247, see Historical and Statutory Notes following § 42-2701.01.</text>
     </level>
   </level>
 </level>

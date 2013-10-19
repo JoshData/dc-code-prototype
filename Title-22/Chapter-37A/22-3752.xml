@@ -2,24 +2,26 @@
   <num>22-3752</num>
   <heading>Enumerated offenses.</heading>
   <text>The provisions of §§ 22-3751 and 22-3751.01 shall apply to the following offenses or any attempt or conspiracy to commit any of the following offenses: murder, manslaughter, aggravated assault, assault with a dangerous weapon, mayhem or maliciously disfiguring, threats to do bodily harm, first degree sexual abuse, second degree sexual abuse, third degree sexual abuse, fourth degree sexual abuse, misdemeanor sexual abuse, robbery, carjacking, and kidnapping.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-307, § 3, 48 DCR 600; July 23, 2008, D.C. Law 17-206, § 2(c), 55 DCR 5168.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-206 rewrote the section which had read as follows:</text>
-        <text>"The provisions of § 22-3751 shall apply to the following offenses: taking property from another by force or by threat of force, murder, attempted murder, first degree sexual abuse, second degree sexual abuse, attempted rape, carjacking, kidnapping, robbery, attempted robbery, assault with a dangerous weapon, and aggravated assault."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-307, see notes following § 22-3751.</text>
-        <text>For Law 17-206, see notes following § 22-3751.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 22-3751 and § 22-3751.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-206 rewrote the section which had read as follows: "The provisions of § 22-3751 shall apply to the following offenses: taking property from another by force or by threat of force, murder, attempted murder, first degree sexual abuse, second degree sexual abuse, attempted rape, carjacking, kidnapping, robbery, attempted robbery, assault with a dangerous weapon, and aggravated assault."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-307</heading>
+      <text>For Law 13-307, see notes following § 22-3751.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-206</heading>
+      <text>For Law 17-206, see notes following § 22-3751.</text>
     </level>
   </level>
 </level>

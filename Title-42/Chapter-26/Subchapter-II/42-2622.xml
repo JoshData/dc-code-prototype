@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-2622</num>
   <heading>Establishment; funding; annual audit.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2212</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There is established in the Department of Housing and Community Development, a Home Purchase Assistance Step Up Program to provide one-time housing assistance to residents of the District of Columbia in low- to moderate-income households, who own condominiums, cooperatives, or starter homes and seek to purchase single family housing in the District of Columbia that is larger, or otherwise more appropriate for their households.</text>
@@ -22,22 +21,18 @@
     <num>(e)</num>
     <text>An annual audit of the operations of the Fund shall be conducted by the Office of the Inspector General of the District of Columbia. Not later than 6 months after the end of the fiscal year, the Mayor shall submit to the Congress and to the Council of the District of Columbia a report on the financial condition of the Fund and the results of the operations for such fiscal year.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 1999, D.C. Law 12-266, § 3, 46 DCR 948.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2212.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-266, see Historical and Statutory Notes following § 42-2621.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2212.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-266</heading>
+      <text>For legislative history of D.C. Law 12-266, see Historical and Statutory Notes following § 42-2621.</text>
     </level>
   </level>
 </level>

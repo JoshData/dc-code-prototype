@@ -1,7 +1,6 @@
 <level type="section">
   <num>11-1906</num>
   <heading>Qualification of jurors.</heading>
-  <formerly-cited-as>DC ST 1981 § 11-1906</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The jury system plan shall provide for procedures for the random selection and qualification of grand and petit jurors from the master juror list. Such plan may provide for separate or joint qualification and summoning processes.</text>
@@ -10,7 +9,7 @@
     <num>(b)</num>
     <level>
       <num>(1)</num>
-      <text>An individual shall be qualified to serve as a juror if that individual --</text>
+      <text>An individual shall be qualified to serve as a juror if that individual -</text>
       <level>
         <num>(A)</num>
         <text>is a resident of the District of Columbia;</text>
@@ -30,7 +29,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>An individual shall not be qualified to serve as a juror --</text>
+      <text>An individual shall not be qualified to serve as a juror -</text>
       <level>
         <num>(A)</num>
         <text>if determined to be incapable by reason of physical or mental infirmity of rendering satisfactory jury service; or</text>
@@ -64,23 +63,23 @@
     <num>(d)</num>
     <text>An individual who intentionally misrepresents a material fact on a juror qualification form for the purpose of avoiding or securing service as a juror may be punished by a fine of not more than $300, by imprisonment for not more than 90 days, or both.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 515, Pub. L. 91-358, title I, § 111, Nov. 14, 1986, 100 Stat. 3635, Pub. L. 99-650, § 2; June 28, 1994, 108 Stat. 731, Pub. L. 103-269.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 11-1906.</text>
-        <text>1973 Ed., § 11-1901.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: See Historical and Statutory Notes following § 11-1901.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 11-1907 and § 11-1908.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 11-1906.</text>
+      <text>1973 Ed., § 11-1901.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: See Historical and Statutory Notes following § 11-1901.</text>
     </level>
   </level>
 </level>

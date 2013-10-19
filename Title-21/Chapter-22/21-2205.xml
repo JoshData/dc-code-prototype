@@ -1,7 +1,6 @@
 <level type="section">
   <num>21-2205</num>
   <heading>Durable power of attorney for health care.</heading>
-  <formerly-cited-as>DC ST 1981 § 21-2205</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A competent adult may designate, in writing, an individual who shall be empowered to make health-care decisions on behalf of the competent adult, if the competent adult becomes incapable, by reason of mental disability, of making or communicating a choice regarding a particular health-care decision.</text>
@@ -30,25 +29,39 @@
     <num>(e)</num>
     <text>Any durable power of attorney for health care executed prior to March 16, 1989, and specifically written to include health-care decision making after incompetency shall be effective, if the execution of the prior document meets the requirements of this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1989, D.C. Law 7-189, § 6, 35 DCR 8653; Feb. 5, 1994, D.C. Law 10-68, § 23(f), 40 DCR 6311; Apr. 9, 1997, D.C. Law 11-255, § 20(e), 44 DCR 1271; Mar. 24, 1998, D.C. Law 12-81, § 14(aa), 45 DCR 745.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 21-2205.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-189, see Historical and Statutory Notes following § 21-2201.</text>
-        <text>For legislative history of D.C. Law 10-68, see Historical and Statutory Notes following § 21-2201.</text>
-        <text>Law 11-255, the "Second Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-905, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-519 and transmitted to both Houses of Congress for its review. D.C. Law 11-255 became effective on April 9, 1997.</text>
-        <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 21-2201.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Forms for creating a durable power of attorney for health care, see § 21-2207.</text>
+      <text>Patient or client records, obtaining from health care providers, see § 3-1210.11.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-651.01, § 7-1231.02, § 7-1231.07, § 7-1301.03, § 7-1305.04, § 7-1305.06a, § 7-1305.06b, § 7-1305.07a, and § 21-2207.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 21-2205.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-189</heading>
+      <text>For legislative history of D.C. Law 7-189, see Historical and Statutory Notes following § 21-2201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-68</heading>
+      <text>For legislative history of D.C. Law 10-68, see Historical and Statutory Notes following § 21-2201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>Law 11-255, the "Second Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-905, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-519 and transmitted to both Houses of Congress for its review. D.C. Law 11-255 became effective on April 9, 1997.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-81</heading>
+      <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 21-2201.</text>
     </level>
   </level>
 </level>

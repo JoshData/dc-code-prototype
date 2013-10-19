@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Transitional Snap.</heading>
+  <heading>Transitional Snap</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-261.21.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-261.22.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-261.23.xml"/>

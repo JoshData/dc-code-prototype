@@ -1,7 +1,6 @@
 <level type="section">
   <num>50-2511</num>
   <heading>Parking districts.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-851</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -79,29 +78,32 @@
   </level>
   <level>
     <num>(i)</num>
-    <text>Property owners who fail to pay the special tax authorized by subsection (g) of this section shall be subject to interest and penalties for nonpayment of taxes pursuant to § 47-1813.04.</text>
+    <text>Property owners who fail to pay the special tax authorized by subsection (g) of this section shall be subject to interest and penalties for nonpayment of taxes pursuant to § 47-1813.04 [repealed].</text>
   </level>
   <level>
     <num>(j)</num>
     <text>On a date to be set by the Mayor, the Authority shall submit to the Mayor a budget, which shall be included in the annual or supplemental budget transmitted by the Mayor to the Council pursuant to § 47-204.42, covering all anticipated revenue, transfers, expenses, and capital outlays of the Authority.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 23, 1994, D.C. Law 10-153, § 12, 41 DCR 4652; Apr. 18, 1996, D.C. Law 11-110, § 45(a), 43 DCR 530.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-851.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-153, see Historical and Statutory Notes following § 50-2501.</text>
-        <text>Law 11-110, the "Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-485, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on December 5, 1995, and January 4, 1996, respectively. Signed by the Mayor on January 26, 1996, it was assigned Act No. 11-199 and transmitted to both Houses of Congress for its review. D.C. Law 11-110 became effective on April 18, 1996.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 50-2509 and § 50-2510.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-851.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-153</heading>
+      <text>For legislative history of D.C. Law 10-153, see Historical and Statutory Notes following § 50-2501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-110</heading>
+      <text>Law 11-110, the "Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-485, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on December 5, 1995, and January 4, 1996, respectively. Signed by the Mayor on January 26, 1996, it was assigned Act No. 11-199 and transmitted to both Houses of Congress for its review. D.C. Law 11-110 became effective on April 18, 1996.</text>
     </level>
   </level>
 </level>

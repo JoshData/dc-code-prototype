@@ -37,18 +37,14 @@
     <num>(g)</num>
     <text>The Mayor shall issue rules necessary to implement the provisions of this section, including the standards of education and experience required to qualify as a registered dental assistant and the duties that may be performed by a dental assistant.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 25, 1986, D.C. Law 6-99, § 905, as added July 7, 2009, D.C. Law 18- 15, § 2(e), 56 DCR 3616.)</text>
+      <heading>History</heading>
+      <text>(Mar. 25, 1986, D.C. Law 6-99, § 905, as added July 7, 2009, D.C. Law 18-15, § 2(e), 56 DCR 3616.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-15, see notes following § 3-1201.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-15</heading>
+      <text>For Law 18-15, see notes following § 3-1201.01.</text>
     </level>
   </level>
 </level>

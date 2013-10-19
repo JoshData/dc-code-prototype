@@ -1,10 +1,9 @@
 <level type="section">
   <num>9-1111.13</num>
   <heading>Requirement that local participating governments have stable and reliable source of revenue for contributions.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-2465</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>The Secretary of Transportation shall not make any grant under § 9- 1111.11(a) for the cost of construction of the adopted regional system, until the Secretary has determined that the local participating governments, or signatories (as defined in subparagraph (d) of paragraph 1 of Article I of Title III of the Washington Metropolitan Area Transit Authority Compact) to the Compact, have provided a stable and reliable source of revenue sufficient to meet both:</text>
+    <text>The Secretary of Transportation shall not make any grant under § 9-1111.11(a) for the cost of construction of the adopted regional system, until the Secretary has determined that the local participating governments, or signatories (as defined in subparagraph (d) of paragraph 1 of Article I of Title III of the Washington Metropolitan Area Transit Authority Compact) to the Compact, have provided a stable and reliable source of revenue sufficient to meet both:</text>
     <level>
       <num>(1)</num>
       <text>Their payments to the Transit Authority under subsections (a)(4) and (b)(4) of § 9-1111.12, relating to payment of the principal and interest on bonds issued by the Transit Authority; and</text>
@@ -26,18 +25,18 @@
       <text>For the cost of operating and maintaining the adopted regional system of the Washington Metropolitan Area Transit Authority.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 9, 1969, 83 Stat. 320, Pub. L. 91-143, § 16; Jan. 3, 1980, 93 Stat. 1320, Pub. L. 96-184, § 2.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-2465.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 9-1111.11.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-2465.</text>
     </level>
   </level>
 </level>

@@ -3,27 +3,21 @@
   <heading>Laundry.</heading>
   <text>An ALR shall provide an on-site laundry facility for use of staff for residents personal laundry. All laundry shall be processed and handled in a manner to prevent the spread of infection by:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Separate processing and storage of incontinent items; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Sanitizing by hot water and appropriate chemical agents.</text>
-    </level>
+    <num>(1)</num>
+    <text>Separate processing and storage of incontinent items; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Sanitizing by hot water and appropriate chemical agents.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 24, 2000, D.C. Law 13-127, § 1010, 47 DCR 2647.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-127, see notes following § 44-101.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-127</heading>
+      <text>For Law 13-127, see notes following § 44-101.01.</text>
     </level>
   </level>
 </level>

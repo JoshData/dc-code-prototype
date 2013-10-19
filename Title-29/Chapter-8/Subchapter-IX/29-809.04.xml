@@ -3,7 +3,7 @@
   <heading>Filings required for merger; effective date.</heading>
   <level>
     <num>(a)</num>
-    <text>After each constituent company has approved a merger, articles of merger shall be signed on behalf of each constituent company, as provided in § 29- 802.03(a).</text>
+    <text>After each constituent company has approved a merger, articles of merger shall be signed on behalf of each constituent company, as provided in § 29-802.03(a).</text>
   </level>
   <level>
     <num>(b)</num>
@@ -57,22 +57,22 @@
       <text>Subject to § 29-802.05(c) and subchapter II of Chapter 2 of this title, as specified in the articles of merger.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 1004 of the Uniform Limited Company Act (2006 Act). See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-809.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 1004 of the Uniform Limited Company Act (2006 Act).</text>
     </level>
   </level>
 </level>

@@ -1,17 +1,15 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>General Provisions.</heading>
+  <heading>General Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1501~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1502~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1503.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1503~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1504~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1505~47-1506~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1505~47-1506~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1507~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1508.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1509~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1510~47-1511~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1510~47-1511~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1512.xml"/>
 </level>

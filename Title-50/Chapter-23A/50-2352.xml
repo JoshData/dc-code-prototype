@@ -1,0 +1,27 @@
+<level type="section">
+  <num>50-2352</num>
+  <heading>Autonomous vehicles permitted.</heading>
+  <text>An autonomous vehicle may operate on a public roadway; provided, that the vehicle:</text>
+  <level>
+    <num>(1)</num>
+    <text>Has a manual override feature that allows a driver to assume control of the autonomous vehicle at any time;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>Has a driver seated in the control seat of the vehicle while in operation who is prepared to take control of the autonomous vehicle at any moment; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Is capable of operating in compliance with the District's applicable traffic laws and motor vehicle laws and traffic control devices.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Apr. 23, 2013, D.C. Law 19-278, § 3, 60 DCR 2119.)</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-278</heading>
+      <text>See note to § 50-2351.</text>
+    </level>
+  </level>
+</level>

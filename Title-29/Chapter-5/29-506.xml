@@ -1,41 +1,37 @@
 <level type="section">
   <num>29-506</num>
   <heading>Incorporation.</heading>
-  <formerly-cited-as>DC ST 1981 § 29-606</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 29-406</formerly-cited-as>
   <text>One or more individuals may incorporate a professional corporation by delivering articles of incorporation for filing to the Mayor. The articles of incorporation shall meet the requirements of Chapter 3 of this title and shall set forth:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The designation of the professional services to be rendered through the corporation;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The names and addresses, including street address, if any, of the original shareholders of the corporation; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>A statement that each of the original shareholders and directors named in the articles of incorporation is licensed to render a professional service for which the corporation is to be organized.</text>
-    </level>
+    <num>(1)</num>
+    <text>The designation of the professional services to be rendered through the corporation;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The names and addresses, including street address, if any, of the original shareholders of the corporation; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>A statement that each of the original shareholders and directors named in the articles of incorporation is licensed to render a professional service for which the corporation is to be organized.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 29-406.</text>
-        <text>1981 Ed., § 29-606.</text>
-        <text>1973 Ed., § 29-1106.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-503.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 29-406.</text>
+      <text>1981 Ed., § 29-606.</text>
+      <text>1973 Ed., § 29-1106.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

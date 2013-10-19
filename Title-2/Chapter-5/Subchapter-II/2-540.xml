@@ -1,25 +1,23 @@
 <level type="section">
   <num>2-540</num>
-  <heading>Short Title.</heading>
+  <heading>Short title.</heading>
   <text>This subchapter may be cited as the "Freedom of Information Act of 1976".</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 21, 1968, Pub. L. 90-614, title II, § 210, as added Mar. 13, 2004, D.C. Law 15-105, § 5, 51 DCR 881; Mar. 2, 2007, D.C. Law 16-191, § 10(b), 54 DCR 6794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-191 rewrote the section which had previously read as follows:</text>
-        <text>"This subchapter may be cited as the "Freedom of Information Act"."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-105, see notes following § 2-301.05.</text>
-        <text>For Law 16-191, see notes following § 2-218.02.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-191 rewrote the section which had previously read as follows: "This subchapter may be cited as the "Freedom of Information Act"."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>For Law 15-105, see notes following § 2-301.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 2-218.02.</text>
     </level>
   </level>
 </level>

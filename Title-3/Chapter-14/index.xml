@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>14</num>
-  <heading>Sports and Entertainment Commission. [Repealed]</heading>
+  <heading>Sports and Entertainment Commission</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1401~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1402~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1403~P.xml"/>
@@ -9,7 +9,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1405~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1406~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1407~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1408.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1408~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1409~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1410~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1411~P.xml"/>
@@ -20,6 +20,6 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1416~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1417~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1418~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1418.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1418.01~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1419~P.xml"/>
 </level>

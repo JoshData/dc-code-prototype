@@ -13,22 +13,18 @@
     <num>(c)</num>
     <text>A seller that has a proprietary system for determining the amount of tax due on transactions and has signed an agreement establishing a performance standard for that system shall be liable for the failure of the system to meet the performance standard.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 25, 2002, D.C. Law 14-156, § 9, 49 DCR 4272.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of § 1-301.141, see § 3102 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-156, see notes following § 1-301.121.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of § 1-301.141, see § 3102 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-156</heading>
+      <text>For Law 14-156, see notes following § 1-301.121.</text>
     </level>
   </level>
 </level>

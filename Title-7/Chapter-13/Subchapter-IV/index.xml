@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>IV</num>
-  <heading>Hearing and Review Procedures.</heading>
-  <level>
-    <text>DC CODE D. I, T. 7, Subt. D, Ch. 13, Subch. IV, Refs &amp; Annos</text>
-  </level>
+  <heading>Hearing and Review Procedures</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1304.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1304.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1304.03.xml"/>

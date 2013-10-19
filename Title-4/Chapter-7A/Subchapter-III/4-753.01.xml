@@ -94,37 +94,42 @@
     <num>(e)</num>
     <text>Pursuant to § 4-756.02, the Mayor shall issue rules on the administration of emergency assistance grants offered as crisis intervention services to individuals and families in need of cash assistance for mortgage, rent, or utility bills in arrears or for a security deposit or first month's rent.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2005, D.C. Law 16-35, § 7, 52 DCR 8113; Mar. 14, 2007, D.C. Law 16-296, § 2(e), 54 DCR 1097; Apr. 8, 2011, D.C. Law 18-367, § 2(b), 58 DCR 987.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-296 added subsec. (e).</text>
-        <text>D.C. Law 18-367 rewrote subsecs. (c) and (d), which had read as follows:</text>
-        <text>"(c) Whenever the actual or forecasted temperature, including the wind chill factor, falls below 32 degrees Fahrenheit, or whenever the actual or forecasted temperature or heat index rises above 95 degrees Fahrenheit, the District shall make available appropriate space in District of Columbia public or private buildings and facilities for any person in the District who is homeless and cannot access other shelter. In doing so, the District shall not use District of Columbia Public School buildings currently being used for educational purposes without the prior approval of the Board of Education.</text>
-        <text>"(d) The Mayor shall not place homeless families in non-apartment style shelters."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-35, see notes following § 4-751.01.</text>
-        <text>For Law 16-296, see notes following § 4-751.01.</text>
-        <text>For history of Law 18-367, see notes under § 4-751.01.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>Section 1016(5) of D.C. Law 16-33, referred to in par. (1) of subsec. (b), is published at 52 DCR 7503.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Establishment of Emergency Rental Assistance Program and Delegation of Authority Pursuant to D.C. Law 16-35, the Homeless Services Reform Act of 2005, see Mayor's Order 2006-115, August 30, 2006 (53 DCR 7550).</text>
-        <text>Establishment of a Disaster Relocation and Rental Assistance Program, see Mayor's Order 2008-63, April 10, 2008 (55 DCR 5516).</text>
-        <text>Extension of Disaster Relocation and Rental Assistance Program Benefits Pursuant to Mayor's Order 2008-63, effective April 10, 2008, see Mayor's Order 2010-96, June 4, 2010 (57 DCR 4917).</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-753.01a, § 4-753.04, and § 19-701.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-296 added subsec. (e).</text>
+      <text>D.C. Law 18-367 rewrote subsecs. (c) and (d).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-35</heading>
+      <text>For Law 16-35, see notes following § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-296</heading>
+      <text>For Law 16-296, see notes following § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-367</heading>
+      <text>For history of Law 18-367, see notes under § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>Section 1016(5) of D.C. Law 16-33, referred to in par. (1) of subsec. (b), is published at 52 DCR 7503.</text>
+    </level>
+    <level>
+      <heading>Mayor's orders</heading>
+      <text>Extension of Disaster Relocation and Rental Assistance Program Benefits Pursuant to Mayor's Order 2008-63, effective April 10, 2008, see Mayor's Order 2010-96, June 4, 2010 (57 DCR 4917).</text>
+      <text>Establishment of Emergency Rental Assistance Program and Delegation of Authority Pursuant to D.C. Law 16-35, the Homeless Services Reform Act of 2005, see Mayor's Order 2006-115, August 30, 2006 (53 DCR 7550).</text>
+      <text>Establishment of a Disaster Relocation and Rental Assistance Program, see Mayor's Order 2008-63, April 10, 2008 (55 DCR 5516).</text>
+      <text>Extension of Disaster Relocation and Rental Assistance Program Benefits Pursuant to Mayor's Order 2008-63, effective April 10, 2008, see Mayor's Order 2010-96, June 4, 2010 (57 DCR 4917).</text>
     </level>
   </level>
 </level>

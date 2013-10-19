@@ -1,7 +1,6 @@
 <level type="section">
   <num>28:5-113</num>
   <heading>Transfer by operation of law.</heading>
-  <formerly-cited-as>DC ST 1981 § 28:5-113</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A successor of a beneficiary may consent to amendments, sign and present documents, and receive payment or other items of value in the name of the beneficiary without disclosing its status as a successor.</text>
@@ -26,30 +25,36 @@
     <num>(f)</num>
     <text>A beneficiary whose name is changed after the issuance of a letter of credit has the same rights and obligations as a successor of a beneficiary under this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 30, 1963, 77 Stat. 713, Pub. L. 88-243, § 1; Mar. 16, 1982, D.C. Law 4-85, § 7, 29 DCR 309; Apr. 9, 1997, D.C. Law 11-238, § 2, 44 DCR 923; Apr. 9, 1997, D.C. Law 11-255, § 27(uu), 44 DCR 1271.)</text>
     </level>
     <level>
-      <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
-      <text>This section affirms the result in <text i="True">Pastor v. Nat. Republic Bank of Chicago</text>, 76 Ill.2d 139, 390 N.E.2d 894 (Ill.1979) and <text i="True">Federal Deposit Insurance Co. v. Bank of Boulder</text>, 911 F.2d 1466 (10th Cir.1990).</text>
-      <text>An issuer's requirements for recognition of a successor's status might include presentation of a certificate of merger, a court order appointing a bankruptcy trustee or receiver, a certificate of appointment as bankruptcy trustee, or the like. The issuer is entitled to rely upon such documents which on their face demonstrate that presentation is made by a successor of a beneficiary. It is not obliged to make an independent investigation to determine the fact of succession.</text>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28:5-108 and § 28:5-112.</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28:5-113.</text>
-        <text>1973 Ed., § 28:5-113.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-85, see Historical and Statutory Notes following § 28:5-112.</text>
-        <text>For legislative history of D.C. Law 11-238, see Historical and Statutory Notes following § 28:5-101.</text>
-        <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 28:5-101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28:5-113.</text>
+      <text>1973 Ed., § 28:5-113.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-85</heading>
+      <text>For legislative history of D.C. Law 4-85, see Historical and Statutory Notes following § 28:5-112.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-238</heading>
+      <text>For legislative history of D.C. Law 11-238, see Historical and Statutory Notes following § 28:5-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 28:5-101.</text>
+    </level>
+    <level>
+      <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
+      <text>This section affirms the result in Pastor v. Nat. Republic Bank of Chicago, 76 Ill.2d 139, 390 N.E.2d 894 (Ill.1979) and Federal Deposit Insurance Co. v. Bank of Boulder, 911 F.2d 1466 (10th Cir.1990).</text>
+      <text>An issuer's requirements for recognition of a successor's status might include presentation of a certificate of merger, a court order appointing a bankruptcy trustee or receiver, a certificate of appointment as bankruptcy trustee, or the like. The issuer is entitled to rely upon such documents which on their face demonstrate that presentation is made by a successor of a beneficiary. It is not obliged to make an independent investigation to determine the fact of succession.</text>
     </level>
   </level>
 </level>

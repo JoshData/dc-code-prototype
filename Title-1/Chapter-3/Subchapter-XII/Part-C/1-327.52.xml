@@ -9,27 +9,26 @@
     <num>(b)</num>
     <text>The Office shall be under the supervision of a Director, Office of Unified Communications, who shall carry out the functions and authorities assigned to the Office.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 7, 2004, D.C. Law 15-205, § 3203, 51 DCR 8441.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-205, see notes following § 1-327.51.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 3041 of D.C. Law 17-20 provided that subtitle E of title III of the act may be cited as the "Communications Reports Act of 2007".</text>
-        <text>Communications reports: Section 3042 of D.C. Law 17-20 provides:</text>
-        <text>"By October 1, 2008, the Office of the Attorney General, the Metropolitan Police Department, the Fire and Emergency Medical Services Department, the Department of Corrections, the Homeland Security and Emergency Management Agency, the Office of Administrative Hearings, and the Office of Unified Communications shall each provide a report to the Council on its efforts to identify efficiencies and reduce telephone and communications costs, including:</text>
-        <text>"(1) Identification of the number of active phone lines within the agency and used by the agency;</text>
-        <text>"(2) Identification of the service provider and the rate for each active phone line; and</text>
-        <text>"(3) Strategies to implement cost-savings."</text>
-      </level>
+      <heading>Legislative History of Law 15-205</heading>
+      <text>For Law 15-205, see notes following § 1-327.51.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 3041 of D.C. Law 17-20 provided that subtitle E of title III of the act may be cited as the "Communications Reports Act of 2007".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Communications reports: Section 3042 of D.C. Law 17-20 provided:</text>
+      <text>"By October 1, 2008, the Office of the Attorney General, the Metropolitan Police Department, the Fire and Emergency Medical Services Department, the Department of Corrections, the Homeland Security and Emergency Management Agency, the Office of Administrative Hearings, and the Office of Unified Communications shall each provide a report to the Council on its efforts to identify efficiencies and reduce telephone and communications costs, including:</text>
+      <text>"(1) Identification of the number of active phone lines within the agency and used by the agency;</text>
+      <text>"(2) Identification of the service provider and the rate for each active phone line; and</text>
+      <text>"(3) Strategies to implement cost-savings."</text>
     </level>
   </level>
 </level>

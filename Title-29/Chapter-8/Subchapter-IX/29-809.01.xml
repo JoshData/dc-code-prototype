@@ -3,55 +3,49 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Constituent company" means a limited liability company that is a party to a merger.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Domesticated company" means the company that exists after a domesticating foreign limited liability company or limited liability company effects a domestication pursuant to §§ 29-809.06 through 29-809.09.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Domesticating company" means the company that effects a domestication pursuant to §§ 29-809.06 through 29-809.09.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Governing statute" means the statute that governs the internal affairs of a foreign limited liability company or limited liability company.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Personal liability" means liability for a debt, obligation, or other liability of a foreign limited liability company or limited liability company which is imposed on a person that co-owns, has an interest in, or is a member of the company by the:</text>
     <level>
-      <num>(1)</num>
-      <text>"Constituent company" means a limited liability company that is a party to a merger.</text>
+      <num>(A)</num>
+      <text>Governing statute solely by reason of the person co-owning, having an interest in, or being a member of the company; or</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Domesticated company" means the company that exists after a domesticating foreign limited liability company or limited liability company effects a domestication pursuant to §§ 29-809.06 through 29-809.09.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Domesticating company" means the company that effects a domestication pursuant to §§ 29-809.06 through 29-809.09.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Governing statute" means the statute that governs the internal affairs of a foreign limited liability company or limited liability company.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Personal liability" means liability for a debt, obligation, or other liability of a foreign limited liability company or limited liability company which is imposed on a person that co-owns, has an interest in, or is a member of the company by the:</text>
-      <level>
-        <num>(A)</num>
-        <text>Governing statute solely by reason of the person co-owning, having an interest in, or being a member of the company; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Company's certificate or articles of organization and operating agreement, or comparable records as provided in its governing statute, under a provision of the governing statute authorizing those documents to make one or more specified persons liable for all or specified debts, obligations, or other liabilities of the company solely by reason of the person or persons co-owning, having an interest in, or being a member of the company.</text>
-      </level>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Surviving company" means a foreign limited liability company or limited liability company into which one or more other foreign limited liability companies or limited liability companies are merged whether the company preexisted the merger or was created by the merger.</text>
+      <num>(B)</num>
+      <text>Company's certificate or articles of organization and operating agreement, or comparable records as provided in its governing statute, under a provision of the governing statute authorizing those documents to make one or more specified persons liable for all or specified debts, obligations, or other liabilities of the company solely by reason of the person or persons co-owning, having an interest in, or being a member of the company.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(6)</num>
+    <text>"Surviving company" means a foreign limited liability company or limited liability company into which one or more other foreign limited liability companies or limited liability companies are merged whether the company preexisted the merger or was created by the merger.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 1001 of the Uniform Limited Company Act (2006 Act). See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 1001 of the Uniform Limited Company Act (2006 Act).</text>
     </level>
   </level>
 </level>

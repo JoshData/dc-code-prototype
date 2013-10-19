@@ -1,6 +1,6 @@
 <level type="section">
   <num>31-5602.03</num>
-  <heading>License and notice filing procedure</heading>
+  <heading>License and notice filing procedure.</heading>
   <level>
     <num>(a)</num>
     <text>A broker-dealer, agent, investment adviser, or investment adviser representative may obtain an initial or renewal license by filing with the Commissioner an application and the consent to service of process required under § 31-5607.06. The application shall contain whatever information the Commissioner may, by rule, require, including:</text>
@@ -31,7 +31,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>If no denial order is in effect and no proceeding is pending under § 31- 5602.07, the license shall become effective no later than noon on the 30th day after the application is filed. If the application is incomplete, the Commissioner may request additional information from the applicant and delay the effective date for 30 days from the date of receipt of the requested information. The Commissioner shall consider the application withdrawn if the requested information is not received by noon on the 90th day after the request.</text>
+    <text>If no denial order is in effect and no proceeding is pending under § 31-5602.07, the license shall become effective no later than noon on the 30th day after the application is filed. If the application is incomplete, the Commissioner may request additional information from the applicant and delay the effective date for 30 days from the date of receipt of the requested information. The Commissioner shall consider the application withdrawn if the requested information is not received by noon on the 90th day after the request.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -80,12 +80,12 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>A person acting as a federal covered adviser in the District, except a federal covered adviser whose only clients are those described in § 31- 5602.02(a), shall pay an initial and renewal notice filing fee as the Commissioner may, by rule, require.</text>
+      <text>A person acting as a federal covered adviser in the District, except a federal covered adviser whose only clients are those described in § 31-5602.02(a), shall pay an initial and renewal notice filing fee as the Commissioner may, by rule, require.</text>
     </level>
   </level>
   <level>
     <num>(f)</num>
-    <text>The Commissioner may, by rule or order, require a minimum net capital for a licensed broker-dealer, subject to the limitations of section 15 of the Securities Exchange Act of 1934, and establish minimum financial requirements for an investment adviser, subject to the limitations of section 222 of the Investment Advisers Act of 1940. The Commissioner may prescribe different requirements for those investment advisers who maintain custody of clients funds or securities or have discretionary authority over these funds or securities and those investment advisers who do not have such custody or authority.</text>
+    <text>The Commissioner may, by rule or order, require a minimum net capital for a licensed broker-dealer, subject to the limitations of section 15 of the Securities Exchange Act of 1934 [15 U.S.C. § 78o], and establish minimum financial requirements for an investment adviser, subject to the limitations of section 222 of the Investment Advisers Act of 1940 [15 U.S.C. § 80b-18a]. The Commissioner may prescribe different requirements for those investment advisers who maintain custody of clients funds or securities or have discretionary authority over these funds or securities and those investment advisers who do not have such custody or authority.</text>
   </level>
   <level>
     <num>(g)</num>
@@ -94,7 +94,7 @@
       <text>The Commissioner may, by rule or order:</text>
       <level>
         <num>(A)</num>
-        <text>Require a licensed broker-dealer or agent, or a licensed investment adviser or representative who has custody of or discretionary authority over client funds or securities, to post a surety bond or deposit cash or any other equivalent form of security in such amounts as the Commissioner may require, subject to the limitations of section 15 of the Securities Exchange Act of 1934 in the case of a broker-dealer, and section 222 of the Investment Advisers Act of 1940 in the case of an investment adviser; and</text>
+        <text>Require a licensed broker-dealer or agent, or a licensed investment adviser or representative who has custody of or discretionary authority over client funds or securities, to post a surety bond or deposit cash or any other equivalent form of security in such amounts as the Commissioner may require, subject to the limitations of section 15 of the Securities Exchange Act of 1934 [15 U.S.C. § 78o] in the case of a broker-dealer, and section 222 of the Investment Advisers Act of 1940 [15 U.S.C. § 80b-18a] in the case of an investment adviser; and</text>
       </level>
       <level>
         <num>(B)</num>
@@ -114,18 +114,18 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 26, 2000, D.C. Law 13-203, § 203, 47 DCR 7837.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-203, see notes following § 31-5601.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-5601.01, § 31-5602.02, and § 31-5606.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-203</heading>
+      <text>For Law 13-203, see notes following § 31-5601.01.</text>
     </level>
   </level>
 </level>

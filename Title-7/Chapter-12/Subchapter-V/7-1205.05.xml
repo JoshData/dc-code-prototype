@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-1205.05</num>
   <heading>Right to correct information.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-2045</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The mental health professional, mental health facility and data collector shall maintain the client's mental health information in an accurate and complete manner.</text>
@@ -22,23 +21,23 @@
     <num>(c)</num>
     <text>If the requested amendment was adopted, the mental health professional, mental health facility or data collector shall either promptly transmit the client's amended record or the requested amendment to all persons to whom the client's unamended mental health information had been disclosed or promptly inform the client of the names and addresses of such persons not receiving the amended record or the requested amendment. In any such disclosure made pursuant to this subsection, the mental health professional, mental health facility or data collector, as the case may be, may also include a statement of reasons for not adopting the requested amendment.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-136, § 505, 25 DCR 5055.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-2045.</text>
-        <text>1973 Ed., § 6-1637.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-136, see Historical and Statutory Notes following § 7-1201.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-1207.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-2045.</text>
+      <text>1973 Ed., § 6-1637.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-136</heading>
+      <text>For legislative history of D.C. Law 2-136, see Historical and Statutory Notes following § 7-1201.01.</text>
     </level>
   </level>
 </level>

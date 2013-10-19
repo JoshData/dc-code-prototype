@@ -1,7 +1,6 @@
 <level type="section">
   <num>26-710</num>
   <heading>Applicability.</heading>
-  <formerly-cited-as>DC ST 1981 § 26-809.1</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as expressly provided, the following laws shall not apply to national banks organized pursuant to 12 U.S.C. §§ 21 to 95, members of Federal Home Loan Banks as defined in 12 U.S.C. §§ 1422 to 1424, and Federal Credit Unions as defined in 12 U.S.C. § 1752, but shall apply to all banks, savings companies, trust companies, related holding companies, or other banking institutions in the District of Columbia:</text>
@@ -23,7 +22,7 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Sections 26-104, 26-107, 26-108, and 26-109;</text>
+      <text>Sections 26-104, 26-107, 26-108 [repealed], and 26-109;</text>
     </level>
     <level>
       <num>(6)</num>
@@ -48,24 +47,20 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The Superintendent shall not have the power to regulate the authority or activities of a bank holding company or bank in a manner which, directly or indirectly, cause it to operate its national banking subsidiary in a manner which violates federal requirements.</text>
+    <text>The Superintendent [Commissioner of the Department of Insurance, Securities, and Banking] shall not have the power to regulate the authority or activities of a bank holding company or bank in a manner which, directly or indirectly, cause it to operate its national banking subsidiary in a manner which violates federal requirements.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Nov. 23, 1985, D.C. Law 6-63, § 10a, as added Apr. 11, 1986, D.C. Law 6- 107, § 2(j), 33 DCR 1168.)</text>
+      <heading>History</heading>
+      <text>(Nov. 23, 1985, D.C. Law 6-63, § 10a, as added Apr. 11, 1986, D.C. Law 6-107, § 2(j), 33 DCR 1168.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 26-809.1.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-107, see Historical and Statutory Notes following § 26-702.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 26-809.1.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-107</heading>
+      <text>For legislative history of D.C. Law 6-107, see Historical and Statutory Notes following § 26-702.01.</text>
     </level>
   </level>
 </level>

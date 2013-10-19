@@ -1,14 +1,15 @@
 <level type="section">
   <num>47-3401.02</num>
   <heading>Short-term advances for seasonal cash-flow management.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-3401.2</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">In general.</text> -- If the conditions in subsection (b) of this section are satisfied, the Secretary shall make an advance of funds from time to time, out of any money in the Treasury not otherwise appropriated, for the purpose of assisting the District government in meeting its general expenditures, as authorized by Congress, at times of seasonal cash-flow deficiencies.</text>
+    <heading>In general</heading>
+    <text>If the conditions in subsection (b) of this section are satisfied, the Secretary shall make an advance of funds from time to time, out of any money in the Treasury not otherwise appropriated, for the purpose of assisting the District government in meeting its general expenditures, as authorized by Congress, at times of seasonal cash-flow deficiencies.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Conditions to making any short-term advance.</text> -- The Secretary shall make an advance under this section if:</text>
+    <heading>Conditions to making any short-term advance</heading>
+    <text>The Secretary shall make an advance under this section if:</text>
     <level>
       <num>(1)</num>
       <text>The Mayor delivers to the Secretary a requisition for an advance under this section;</text>
@@ -60,14 +61,16 @@
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Amount of any short-term advance.</text> --</text>
+    <heading>Amount of any short-term advance</heading>
     <level>
       <num>(1)</num>
-      <text><text i="True">In general.</text> -- Except as provided in paragraph (3) of this subsection, if the conditions in paragraph (2) of this subsection are satisfied, each advance made under this section shall be in the amount designated by the Mayor in the Mayor's requisition for such advance.</text>
+      <heading>In general</heading>
+      <text>Except as provided in paragraph (3) of this subsection, if the conditions in paragraph (2) of this subsection are satisfied, each advance made under this section shall be in the amount designated by the Mayor in the Mayor's requisition for such advance.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Conditions applicable to designated.</text> -- Paragraph (1) of this subsection applies if:</text>
+      <heading>Conditions applicable to designated</heading>
+      <text>Paragraph (1) of this subsection applies if:</text>
       <level>
         <num>(A)</num>
         <text>The Mayor determines that the amount designated in the Mayor's requisition for such advance is needed to accomplish the purpose described in subsection (a) of this section; and</text>
@@ -87,14 +90,16 @@
     </level>
     <level>
       <num>(3)</num>
-      <text><text i="True">Maximum amount outstanding.</text> --</text>
+      <heading>Maximum amount outstanding</heading>
       <level>
         <num>(A)</num>
-        <text><text i="True">In general.</text> -- Notwithstanding paragraph (1) of this subsection, the unpaid principal balance of all advances made under this section in any fiscal year of the District government shall not at any time be greater than 100% of applicable limit.</text>
+        <heading>In general</heading>
+        <text>Notwithstanding paragraph (1) of this subsection, the unpaid principal balance of all advances made under this section in any fiscal year of the District government shall not at any time be greater than 100% of applicable limit.</text>
       </level>
       <level>
         <num>(B)</num>
-        <text><text i="True">Special rule for Fiscal Year 1997.</text> -- The unpaid principal balance of all advances made under this section in Fiscal Year 1997 of the District government shall not at any time be greater than the difference between:</text>
+        <heading>Special rule for Fiscal Year 1997</heading>
+        <text>The unpaid principal balance of all advances made under this section in Fiscal Year 1997 of the District government shall not at any time be greater than the difference between:</text>
         <level>
           <num>(i)</num>
           <text>150% of the applicable limit for such fiscal year; and</text>
@@ -106,33 +111,39 @@
       </level>
       <level>
         <num>(C)</num>
-        <text><text i="True">Applicable limit defined.</text> -- In this paragraph, the "applicable limit" for a fiscal year is equal to 15% of the total anticipated revenues of the District government for such fiscal year, as certified by the Mayor at the time of the Mayor's requisition for an advance.</text>
+        <heading>Applicable limit defined</heading>
+        <text>In this paragraph, the "applicable limit" for a fiscal year is equal to 15% of the total anticipated revenues of the District government for such fiscal year, as certified by the Mayor at the time of the Mayor's requisition for an advance.</text>
       </level>
     </level>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Maturity of any short-term advance.</text> --</text>
+    <heading>Maturity of any short-term advance</heading>
     <level>
       <num>(1)</num>
-      <text><text i="True">In general.</text> -- Except as provided in paragraph (3) of this subsection, if the condition in paragraph (2) of this subsection is satisfied, each advance made under this section shall mature on the date designated by the Mayor in the Mayor's requisition for such advance.</text>
+      <heading>In general</heading>
+      <text>Except as provided in paragraph (3) of this subsection, if the condition in paragraph (2) of this subsection is satisfied, each advance made under this section shall mature on the date designated by the Mayor in the Mayor's requisition for such advance.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Condition applicable to designated maturity.</text> -- Paragraph (1) of this subsection applies if the Authority determines that the reimbursement obligation of the District government for an advance made under this section having the maturity date designated in the Mayor's requisition is consistent with the financial plan for the year.</text>
+      <heading>Condition applicable to designated maturity</heading>
+      <text>Paragraph (1) of this subsection applies if the Authority determines that the reimbursement obligation of the District government for an advance made under this section having the maturity date designated in the Mayor's requisition is consistent with the financial plan for the year.</text>
     </level>
     <level>
       <num>(3)</num>
-      <text><text i="True">Latest permissible maturity date.</text> -- Notwithstanding paragraph (1) of this subsection, the maturity date for any advance made under this section shall not be later than 11 months after the date on which such advance is made.</text>
+      <heading>Latest permissible maturity date</heading>
+      <text>Notwithstanding paragraph (1) of this subsection, the maturity date for any advance made under this section shall not be later than 11 months after the date on which such advance is made.</text>
     </level>
   </level>
   <level>
     <num>(e)</num>
-    <text><text i="True">Interest rate.</text> -- Each advance made under this section shall bear interest at an annual rate equal to a rate determined by the Secretary at the time that the Secretary makes such advance taking into consideration the prevailing yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the maturity of such advance, plus 1/8 of 1%.</text>
+    <heading>Interest rate</heading>
+    <text>Each advance made under this section shall bear interest at an annual rate equal to a rate determined by the Secretary at the time that the Secretary makes such advance taking into consideration the prevailing yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the maturity of such advance, plus 1/8 of 1%.</text>
   </level>
   <level>
     <num>(f)</num>
-    <text><text i="True">Ten-business-day zero balance requirement.</text> -- After the expiration of the 12-month period beginning on the date on which the first advance is made under this section, the Secretary shall not make any new advance under this section unless the District government has:</text>
+    <heading>Ten-business-day zero balance requirement</heading>
+    <text>After the expiration of the 12-month period beginning on the date on which the first advance is made under this section, the Secretary shall not make any new advance under this section unless the District government has:</text>
     <level>
       <num>(1)</num>
       <text>Reduced to zero at the same time the principal balance of all advances made under this section at least once during the previous 12-month period; and</text>
@@ -144,29 +155,42 @@
   </level>
   <level>
     <num>(g)</num>
-    <text><text i="True">Deposit of advances.</text> -- As provided in § 47-392.04(b), advances made under this section for the account of the District government shall be deposited by the Secretary into an escrow account held by the Authority.</text>
+    <heading>Deposit of advances</heading>
+    <text>As provided in § 47-392.04(b), advances made under this section for the account of the District government shall be deposited by the Secretary into an escrow account held by the Authority.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 26, 1939, 53 Stat. 1118, ch. 367, title VI, § 602, as added Apr. 17, 1995, 109 Stat. 120, Pub. L. 104-8, § 204(c); enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575, renumbered as § 603, Aug. 5, 1997, 111 Stat. 765, Pub. L. 105-33, §§ 11402(1), 11601(b)(4)(A), (B); Apr. 20, 1999, D.C. Law 12-264, § 52(w), 46 DCR 2118; Apr. 12, 2000, D.C. Law 13-91, § 160(b)(2), 47 DCR 520.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-3401.2.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-91 made a technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-264, see Historical and Statutory Notes following § 47-3401.01.</text>
-        <text>For Law 13-91, see notes following § 47-3401.01.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Budget and financial management, existing provisions and procedure and practice preserved, borrowing and spending limitations, see § 1-206.03.</text>
+      <text>Budget and financial management, suspension of activities upon payment of Authority obligations, see § 47-391.07.</text>
+      <text>District government, financial plan and budget, control periods described, initiation under certain sections, see § 47-392.09.</text>
+      <text>District government, financial plan and budget, deposit of annual federal contribution with Authority, exception, see § 47-392.05.</text>
+      <text>District government, financial plan and budget, restrictions on borrowing during control year, application to certain sections, see § 47-392.04.</text>
+      <text>District government, financial plan and budget, special rules for Fiscal Year 1996, prohibition against allocation of advances if certification in effect, see § 47-392.08.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-3401 and § 47-3401.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-3401.2.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-91 made a technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-264</heading>
+      <text>For legislative history of D.C. Law 12-264, see Historical and Statutory Notes following § 47-3401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-91</heading>
+      <text>For Law 13-91, see notes following § 47-3401.01.</text>
     </level>
   </level>
 </level>

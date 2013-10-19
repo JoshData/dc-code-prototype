@@ -1,7 +1,6 @@
 <level type="section">
   <num>28-3808</num>
   <heading>Assignees subject to defenses.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-3808</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>With respect to a consumer credit sale, an assignee of the rights of the seller or lessor is subject to all claims and defenses of the consumer or lessee arising out of the sale notwithstanding any terms or agreements to the contrary, but the assignee's liability under this section may not exceed the amount owing to the assignee at the time of the assignment.</text>
@@ -10,19 +9,15 @@
     <num>(b)</num>
     <text>Rights of the consumer or lessee can only be asserted as a matter of defense to or set-off against a claim by the assignee.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 17, 1971, 85 Stat. 670, Pub. L. 92-200, § 4.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-3808.</text>
-        <text>1973 Ed., § 28-3808.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-3808.</text>
+      <text>1973 Ed., § 28-3808.</text>
     </level>
   </level>
 </level>

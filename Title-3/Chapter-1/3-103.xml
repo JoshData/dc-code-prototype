@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-103</num>
-  <heading>Meetings and hearings</heading>
-  <formerly-cited-as>DC ST 1981 § 2-4203</formerly-cited-as>
+  <heading>Meetings and hearings.</heading>
   <level>
     <num>(a)</num>
     <text>The Commission shall meet as necessary to conduct its official business.</text>
@@ -22,31 +21,30 @@
     <num>(e)</num>
     <text>The Chairperson is authorized to administer an oath or affirmation to each witness.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 16, 1998, D.C. Law 12-167, § 4, 45 DCR 5180; Oct. 18, 2007, D.C. Law 17-25, § 2(d), 54 DCR 8014.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-4203.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-25, in subsec. (c), substituted "8" for "7".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(d) of District of Columbia Sentencing and Criminal Code Revision Commission Emergency Amendment Act of 2007 (D.C. Act 17-72, July 20, 2007, 54 DCR 7401).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-167, see Historical and Statutory Notes following § 3-101.</text>
-        <text>For Law 17-25, see notes following § 3-101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-4203.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-25, in subsec. (c), substituted "8" for "7".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(d) of District of Columbia Sentencing and Criminal Code Revision Commission Emergency Amendment Act of 2007 (D.C. Act 17-72, July 20, 2007, 54 DCR 7401).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-167</heading>
+      <text>For legislative history of D.C. Law 12-167, see Historical and Statutory Notes following § 3-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-25</heading>
+      <text>For Law 17-25, see notes following § 3-101.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-2885.18</num>
   <heading>Duties of Mayor.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-2018</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor shall:</text>
@@ -19,30 +18,30 @@
       <level>
         <num>(A)</num>
         <text>-(C) Repealed;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>The establishment of various classifications of pharmacies, including, but not limited to, retail, institutional, radio, or nuclear pharmacies;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>-(G) Repealed;</text>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>Establishment of minimum standards for the operation of pharmacies, including the minimum requirements for technical equipment and professional reference materials;</text>
-      </level>
-      <level>
-        <num>(I)</num>
-        <text>The safe and proper storage, and maintenance of drugs, and the disposal of drugs;</text>
-      </level>
-      <level>
-        <num>(J)</num>
-        <text>The requirements to assure that pharmacies shall be clean, in good repair, well ventilated and illuminated, and equipped with the necessary dispensing facilities, and adequate facilities for the purposes of cleansing hands, equipment and utensils, and the premises therein; such facilities may be located in areas adjacent to the pharmacy where only part of an establishment or institution is used as the pharmacy; and</text>
-      </level>
-      <level>
-        <num>(K)</num>
-        <text>The establishment of regulations covering the storage and dispensing of radiopharmaceuticals.</text>
+        <level>
+          <num>(D)</num>
+          <text>The establishment of various classifications of pharmacies, including, but not limited to, retail, institutional, radio, or nuclear pharmacies;</text>
+        </level>
+        <level>
+          <num>(E)</num>
+          <text>-(G) Repealed;</text>
+          <level>
+            <num>(H)</num>
+            <text>Establishment of minimum standards for the operation of pharmacies, including the minimum requirements for technical equipment and professional reference materials;</text>
+          </level>
+          <level>
+            <num>(I)</num>
+            <text>The safe and proper storage, and maintenance of drugs, and the disposal of drugs;</text>
+          </level>
+          <level>
+            <num>(J)</num>
+            <text>The requirements to assure that pharmacies shall be clean, in good repair, well ventilated and illuminated, and equipped with the necessary dispensing facilities, and adequate facilities for the purposes of cleansing hands, equipment and utensils, and the premises therein; such facilities may be located in areas adjacent to the pharmacy where only part of an establishment or institution is used as the pharmacy; and</text>
+          </level>
+          <level>
+            <num>(K)</num>
+            <text>The establishment of regulations covering the storage and dispensing of radiopharmaceuticals.</text>
+          </level>
+        </level>
       </level>
     </level>
   </level>
@@ -50,28 +49,30 @@
     <num>(b)</num>
     <text>Repealed.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 16, 1980, D.C. Law 3-98, § 19, 27 DCR 3528; Mar. 25, 1986, D.C. Law 6-99, § 1102(d), 33 DCR 729; Sept. 26, 2012, D.C. Law 19-171, § 302(b), 59 DCR 6190.)</text>
+      <heading>History</heading>
+      <text>(Sept. 16, 1980, D.C. Law 3-98, § 19, 27 DCR 3528; Mar. 25, 1986, D.C. Law 6-99, § 1102(d), 33 DCR 729; Sept. 26, 2012, D.C. Law 19-171, § 302, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-2018.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-171 enacted into law Part C of subchapter IV of Chapter 28 of Title 47.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-98, see Historical and Statutory Notes following § 47-2885.01.</text>
-        <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 47-2885.02.</text>
-        <text>For history of Law 19-171, see notes under § 47-2885.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-2018.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 19-171 enacted this subchapter into law.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-98</heading>
+      <text>For legislative history of D.C. Law 3-98, see Historical and Statutory Notes following § 47-2885.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-99</heading>
+      <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 47-2885.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 47-2881.</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>26</num>
-  <heading>Insurance Companies.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 47, Ch. 26, Refs &amp; Annos</text>
-  </level>
+  <heading>Insurance Companies</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2601.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2602.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2603.xml"/>

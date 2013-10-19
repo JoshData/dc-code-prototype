@@ -1,52 +1,45 @@
 <level type="placeholder">
   <reason>Expired</reason>
   <section>1-307.26</section>
-  <heading>Expiration.</heading>
-  <level>
-    <type>annotations</type>
+  <heading>Expiration date.</heading>
+  <text>Expired.</text>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 23, 1986, D.C. Law 6-155, § 7(b); Oct. 17, 2002, D.C. Law 14-196, § 2(b), 49 DCR 7640; Apr. 8, 2005, D.C. Law 15-298, § 2(b), 52 DCR 1488.)</text>
+      <heading>History</heading>
+      <text>(Sept. 23, 1986, D.C. Law 6-155, § 7(b); Oct. 17, 2002, D.C. Law 14-196,§ 2(b), 49 DCR 7640; Apr. 8, 2005, D.C. Law 15-298, § 2(b), 52 DCR 1488.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 2 of D.C. Law 17-50 substituted "the earlier of October 1, 2008, or the date that a captive insurance company, to be formed at the direction of the Department of Insurance, Securities, and Banking, certifies to the Mayor and the Council that it will offer medical liability insurance to free clinics" for "October 1, 2007".</text>
-        <text>Section 4(b) of D.C. Law 17-50 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition, see § 2 of Free Clinic Assistance Program Extension Temporary Amendment Act of 2004 (D.C. Law 15-210, December 7, 2004, law notification 52 DCR 454).</text>
-      </level>
-      <level>
-        <heading>Temporary Repeal of Section</heading>
-        <text>Section 17 of D.C. Law 17-63 repealed this section as of the date when the District of Columbia Free Clinic Captive Insurance Company becomes operational.</text>
-        <text>Section 19(b) of D.C. Law 17-63 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of § 1-307.25 and new codification of § 1- 307.26, see § 2(a) of Free Clinic Assistance Program Extension Emergency Amendment Act of 2002 (D.C. Act 14-407, July 10, 2002, 49 DCR 7109).</text>
-        <text>For temporary (90 day) addition of § 1-307.25 and new codification of § 1- 307.26, see § 2(a) of Free Clinic Assistance Program Extension Congressional Review Emergency Amendment Act of 2002 (D.C. Act 14-477, October 3, 2002, 49 DCR 9572).</text>
-        <text>For temporary (90 day) amendment of section, see § 2 of Free Clinic Assistance Program Extension Emergency Amendment Act of 2004 (D.C. Act 15-484, July 19, 2004, 51 DCR 7838).</text>
-        <text>For temporary (90 day) amendment of section, see § 2 of Free Clinic Assistance Program Extension Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-556, October 26, 2004, 51 DCR 10370).</text>
-        <text>For temporary (90 day) amendment of section, see § 2 of Free Clinic assistance Program Extension Emergency Amendment Act of 2007 (D.C. Act 17-79, July 26, 2007, 54 DCR 7634).</text>
-        <text>For temporary (90 day) amendment of section, see § 2 of Free Clinic Assistance Program Extension Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-233, December 27, 2007, 55 DCR 236).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-196, see notes following § 1-307.25.</text>
-        <text>For Law 15-298, see notes following § 1-307.23a.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Section 2 of D.C. Law 17-50 provided that this part shall expire the earlier of October 1, 2008, or the date that a captive insurance company, to be formed at the direction of the Department of Insurance, Securities, and Banking, certifies to the Mayor and the Council that it will offer medical liability insurance to free clinics. Sections 1-307.21 to 1-307.26 expired on June 6, 2008, upon the expiration of D.C. Law 17-50.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Repeal of Part B: Section 16 of D.C. Law 17-196 provides: "The Free Clinic Assistance Program Act of 1986, effective September 23, 1986 (D.C. Law 6-155; D.C. Official Code § 1-307.21 <text i="True">et seq.</text>), is repealed as of the date when the Agency becomes operational."</text>
-        <text>DC CODE § 1-307.26</text>
-      </level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 2 of D.C. Law 17-50 substituted "the earlier of October 1, 2008, or the date that a captive insurance company, to be formed at the direction of the Department of Insurance, Securities, and Banking, certifies to the Mayor and the Council that it will offer medical liability insurance to free clinics" for "October 1, 2007".</text>
+      <text>Section 4(b) of D.C. Law 17-50 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition, see § 2 of Free Clinic Assistance Program Extension Temporary Amendment Act of 2004 (D.C. Law 15-210, December 7, 2004, law notification 52 DCR 454).</text>
+      <text>Temporary Repeal of Section Section 17 of D.C. Law 17-63 repealed this section as of the date when the District of Columbia Free Clinic Captive Insurance Company becomes operational.</text>
+      <text>Section 19(b) of D.C. Law 17-63 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of § 1-307.25 and new codification of § 1-307.26, see § 2(a) of Free Clinic Assistance Program Extension Emergency Amendment Act of 2002 (D.C. Act 14-407, July 10, 2002, 49 DCR 7109).</text>
+      <text>For temporary (90 day) addition of § 1-307.25 and new codification of § 1-307.26, see § 2(a) of Free Clinic Assistance Program Extension Congressional Review Emergency Amendment Act of 2002 (D.C. Act 14-477, October 3, 2002, 49 DCR 9572).</text>
+      <text>For temporary (90 day) amendment of section, see § 2 of Free Clinic Assistance Program Extension Emergency Amendment Act of 2004 (D.C. Act 15-484, July 19, 2004, 51 DCR 7838).</text>
+      <text>For temporary (90 day) amendment of section, see § 2 of Free Clinic Assistance Program Extension Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-556, October 26, 2004, 51 DCR 10370).</text>
+      <text>For temporary (90 day) amendment of section, see § 2 of Free Clinic assistance Program Extension Emergency Amendment Act of 2007 (D.C. Act 17-79, July 26, 2007, 54 DCR 7634).</text>
+      <text>For temporary (90 day) amendment of section, see § 2 of Free Clinic Assistance Program Extension Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-233, December 27, 2007, 55 DCR 236).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-196</heading>
+      <text>For Law 14-196, see notes following § 1-307.25.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-298</heading>
+      <text>For Law 15-298, see notes following § 1-307.23a.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 2 of D.C. Law 17-50 provided that this part shall expire the earlier of October 1, 2008, or the date that a captive insurance company, to be formed at the direction of the Department of Insurance, Securities, and Banking, certifies to the Mayor and the Council that it will offer medical liability insurance to free clinics. Sections 1-307.21 to 1-307.26 expired on June 6, 2008, upon the expiration of D.C. Law 17-50.</text>
+      <text>Repeal of Part B: Section 16 of D.C. Law 17-196 provided: "The Free Clinic Assistance Program Act of 1986, effective September 23, 1986 (D.C. Law 6-155; D.C. Official Code § 1-307.21 et seq.), is repealed as of the date when the Agency becomes operational."</text>
     </level>
   </level>
 </level>

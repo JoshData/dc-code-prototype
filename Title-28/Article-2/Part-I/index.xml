@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>I</num>
+  <heading>Short Title, General Construction and Subject Matter</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2-101.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2-102.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2-103.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2-104.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2-105.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2-106.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2-107.xml"/>
+</level>

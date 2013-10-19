@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>8</num>
-  <heading>Sale of Public Lands.</heading>
-  <level>
-    <text>DC CODE D. I, T. 10, Subt. II, Ch. 8, Refs &amp; Annos</text>
-  </level>
+  <heading>Sale of Public Lands</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
 </level>

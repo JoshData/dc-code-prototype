@@ -3,146 +3,137 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>"Adjusted Maximum Special Assessment" means the Special Assessment determined in accordance with § 47-895.03.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Administrator" means the designee of the Chief Financial Officer for purposes of estimating the annual Special Assessment Requirement and the Special Assessment to be levied each fiscal year and for providing other services as required with respect to the administration of the Special Assessment.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Bonds" means the bonds, notes, or other obligations issued by the District pursuant to [D.C. Law 17-252].</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Chief Financial Officer" means the Chief Financial Officer of the District of Columbia established by § 1-204.24a(a).</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Debt Service" means the principal, interest and premium, if any, on the bonds.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Equivalent Unit" means the product resulting from the equivalent unit factor for each type of property and its application method to be used by the Chief Financial Officer in calculating the Maximum Special Assessment for each lot as follows:</text>
-    </level>
-  </level>
-  <text>
-    <text font="'monospace'"> Property Type Equivalent Unit Application Method </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Factor </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Commercial Retail 1.00 Per 1,000 sq. ft. </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Commercial Restaurants 1.00 Per 1,000 sq. ft. </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Hotel 0.29 Per room </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Commercial Office 0.25 Per 1,000 sq. ft. </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Rental Apartments 0.06 Per 1,000 sq. ft. </text>
-  </text>
-  <text>
-    <text font="'monospace'"> For sale condos </text>
-  </text>
-  <text>
-    <text font="'monospace'"> (Market rate designation) 0.09 Per unit </text>
-  </text>
-  <text>
-    <text font="'monospace'"> For sale condos </text>
-  </text>
-  <text>
-    <text font="'monospace'"> (Affordable designation) 0.02 Per unit </text>
-  </text>
-  <level>
-    <level>
-      <num>(7)</num>
-      <text>"Gross building area" or "GBA" means, with respect to a lot, the product of the land area of the lot multiplied by the maximum floor area ratio ("FAR") allowable under its zoning category, including additional FAR allowable as a matter of right if the additional FAR is dedicated to a particular use, such as an additional residential floor, as of the date of the 1st issuance of bonds, without including transfer development rights or bonus development rights .</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Indenture of Trust" means the indenture relating to the bonds, as modified, amended, or supplemented from time to time.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Land area" means, with respect to a lot, the ground square footage of the lot.</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Lot" means a tax lot, record lot, or other division of real property designated for assessment and taxation purposes in the Southwest Waterfront Improvement Benefit District. The term "lot" shall include a possessory interest as described in § 47-1005.01.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>"Master Developer" means the development entity to which the District transfers the leasehold interest in the Southwest Waterfront Improvement Benefit District and which is responsible for the planned development of the entire Southwest Waterfront Improvement Benefit District, including the project.</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>"Maximum Special Assessment" means the maximum special assessment determined in accordance with § 47-895.03.</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>"Owner" shall have the same meaning as provided in § 47-802(5) and shall include the holder of a possessory interest as described in § 47- 1005.01.</text>
-    </level>
-    <level>
-      <num>(14)</num>
-      <text>"PILOT Revenues" means the amount of the Southwest Waterfront PILOT Increment, as defined in [§ 2-1217.131(22)], paid or to be paid into the Southwest Waterfront Fund each fiscal year.</text>
-    </level>
-    <level>
-      <num>(15)</num>
-      <text>"Project" means the publicly owned infrastructure located within the Southwest Waterfront PILOT/TIF Area, including streets, parking facilities, sidewalks, walkways, streetscapes, parks, bulkheads, piers, curbs, gutters, and gas, electric, and water utility lines, and the acquisition, equipping, relocation, construction, and redevelopment of certain public facilities, including parks.</text>
-    </level>
-    <level>
-      <num>(16)</num>
-      <text>"Proportionately" means that the ratio of the Special Assessment to be collected as a percentage of the Adjusted Maximum Special Assessment is equal for each lot (excluding those lots for which the Adjusted Maximum Special Assessment is zero).</text>
-    </level>
-    <level>
-      <num>(17)</num>
-      <text>"Special Assessment" means the Special Assessment levied by the District each fiscal year to fund the Special Assessment Requirement.</text>
-    </level>
-    <level>
-      <num>(18)</num>
-      <text>"Special Assessment Credit" shall be the amount provided in § 47- 895.03; provided, that the term"Special Assessment Credit" means, with respect to a lot, the TIF Revenues and the PILOT Revenues related to the lot and included in calculating the Special Assessment Requirement.</text>
-    </level>
-    <level>
-      <num>(19)</num>
-      <text>"Special Assessment Requirement" shall have the same meaning as provided in § 47-895.03.</text>
-    </level>
-    <level>
-      <num>(20)</num>
-      <text>"Southwest Waterfront Improvement Benefit District" means the special assessment district established by § 47-895.02.</text>
-    </level>
-    <level>
-      <num>(21)</num>
-      <text>"Southwest Waterfront Fund" means the fund established by [§ 2- 1217.133].</text>
-    </level>
-    <level>
-      <num>(22)</num>
-      <text>"SWW Development" means an area of 50,400 square feet located on a portion of Lots 839, 831, and 84 in Square 473, and such other area of land that is contiguous to Lots 839, 831, and 84, Square 473, and within the boundaries of the Southwest Waterfront Improvement Benefit District, which shall be designated as the SWW Development in an instrument from the District conveying a ground lease of, or other possessory interest in, such area to the Master Developer or to the assignee or transferee of the Master Developer with the consent of the District.</text>
-    </level>
-    <level>
-      <num>(23)</num>
-      <text>"TIF Revenues" means the amount of the Available Sales Tax Revenues, as defined in [§ 2-1217.131(3)], paid or to be paid into the Southwest Waterfront Fund each fiscal year by the District pursuant to the requirements of the Southwest Waterfront Bond Financing Act of 2008 [D.C. Law 17-252].</text>
-    </level>
+    <num>(1)</num>
+    <text>"Adjusted Maximum Special Assessment" means the Special Assessment determined in accordance with § 47-895.03.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Administrator" means the designee of the Chief Financial Officer for purposes of estimating the annual Special Assessment Requirement and the Special Assessment to be levied each fiscal year and for providing other services as required with respect to the administration of the Special Assessment.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Bonds" means the bonds, notes, or other obligations issued by the District pursuant to [D.C. Law 17-252, codified as § 2-1217.131 et seq., this subchapter, and § 47-4616].</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Chief Financial Officer" means the Chief Financial Officer of the District of Columbia established by § 1-204.24a(a).</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Debt Service" means the principal, interest and premium, if any, on the bonds.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Equivalent Unit" means the product resulting from the equivalent unit factor for each type of property and its application method to be used by the Chief Financial Officer in calculating the Maximum Special Assessment for each lot as follows:</text>
+  </level>
+  <level type="table">
+    <text>Property
+Type Equivalent
+ Unit Factor Application
+ Method
+Commercial
+ Retail 1.00 Per 1,000
+ sq. ft.
+Commercial
+ Restaurants 1.00 Per 1,000
+ sq. ft.
+Hotel 0.29 Per room
+Commercial
+ Office 0.25 Per 1,000
+ sq. ft.
+Rental
+Apartments 0.06 Per 1,000
+ sq. ft.
+For sale
+condos
+(Market
+rate
+designation) 0.09 Per unit
+For sale
+condos
+(Affordable
+designation) 0.02 Per unit</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Gross building area" or "GBA" means, with respect to a lot, the product of the land area of the lot multiplied by the maximum floor area ratio ("FAR") allowable under its zoning category, including additional FAR allowable as a matter of right if the additional FAR is dedicated to a particular use, such as an additional residential floor, as of the date of the 1st issuance of bonds, without including transfer development rights or bonus development rights.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Indenture of Trust" means the indenture relating to the bonds, as modified, amended, or supplemented from time to time.</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Land area" means, with respect to a lot, the ground square footage of the lot.</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"Lot" means a tax lot, record lot, or other division of real property designated for assessment and taxation purposes in the Southwest Waterfront Improvement Benefit District. The term "lot" shall include a possessory interest as described in § 47-1005.01.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>"Master Developer" means the development entity to which the District transfers the leasehold interest in the Southwest Waterfront Improvement Benefit District and which is responsible for the planned development of the entire Southwest Waterfront Improvement Benefit District, including the project.</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>"Maximum Special Assessment" means the maximum special assessment determined in accordance with § 47-895.03.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>"Owner" shall have the same meaning as provided in § 47-802(5) and shall include the holder of a possessory interest as described in § 47-1005.01.</text>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>"PILOT Revenues" means the amount of the Southwest Waterfront PILOT Increment, as defined in [§ 2-1217.131(22)], paid or to be paid into the Southwest Waterfront Fund each fiscal year.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>"Project" means the publicly owned infrastructure located within the Southwest Waterfront PILOT/TIF Area, including streets, parking facilities, sidewalks, walkways, streetscapes, parks, bulkheads, piers, curbs, gutters, and gas, electric, and water utility lines, and the acquisition, equipping, relocation, construction, and redevelopment of certain public facilities, including parks.</text>
+  </level>
+  <level>
+    <num>(16)</num>
+    <text>"Proportionately" means that the ratio of the Special Assessment to be collected as a percentage of the Adjusted Maximum Special Assessment is equal for each lot (excluding those lots for which the Adjusted Maximum Special Assessment is zero).</text>
+  </level>
+  <level>
+    <num>(17)</num>
+    <text>"Special Assessment" means the Special Assessment levied by the District each fiscal year to fund the Special Assessment Requirement.</text>
+  </level>
+  <level>
+    <num>(18)</num>
+    <text>"Special Assessment Credit" shall be the amount provided in § 47-895.03; provided, that the term "Special Assessment Credit" means, with respect to a lot, the TIF Revenues and the PILOT Revenues related to the lot and included in calculating the Special Assessment Requirement.</text>
+  </level>
+  <level>
+    <num>(19)</num>
+    <text>"Special Assessment Requirement" shall have the same meaning as provided in § 47-895.03.</text>
+  </level>
+  <level>
+    <num>(20)</num>
+    <text>"Southwest Waterfront Improvement Benefit District" means the special assessment district established by § 47-895.02.</text>
+  </level>
+  <level>
+    <num>(21)</num>
+    <text>"Southwest Waterfront Fund" means the fund established by [§ 2-1217.133].</text>
+  </level>
+  <level>
+    <num>(22)</num>
+    <text>"SWW Development" means an area of 50,400 square feet located on a portion of Lots 839, 831, and 84 in Square 473, and such other area of land that is contiguous to Lots 839, 831, and 84, Square 473, and within the boundaries of the Southwest Waterfront Improvement Benefit District, which shall be designated as the SWW Development in an instrument from the District conveying a ground lease of, or other possessory interest in, such area to the Master Developer or to the assignee or transferee of the Master Developer with the consent of the District.</text>
+  </level>
+  <level>
+    <num>(23)</num>
+    <text>"TIF Revenues" means the amount of the Available Sales Tax Revenues, as defined in [§ 2-1217.131(3)], paid or to be paid into the Southwest Waterfront Fund each fiscal year by the District pursuant to the requirements of the Southwest Waterfront Bond Financing Act of 2008 Bill [D.C. Law 17-252, codified as § 2-1217.131 et seq., this subchapter, and § 47-4616].</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2008, D.C. Law 17-252, § 301(b), 55 DCR 9251.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 17-252, the "Southwest Waterfront Bond Financing Act of 2008", was introduced in Council and assigned Bill No. 17-591 which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on July 1, 2008, and July 15, 2008, respectively. Signed by the Mayor on August 4, 2008, it was assigned Act No. 17-499 and transmitted to both Houses of Congress for its review. D.C. Law 17-252 became effective on October 22, 2008.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1217.137.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-252</heading>
+      <text>Law 17-252, the "Southwest Waterfront Bond Financing Act of 2008", was introduced in Council and assigned Bill No. 17-591 which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on July 1, 2008, and July 15, 2008, respectively. Signed by the Mayor on August 4, 2008, it was assigned Act No. 17-499 and transmitted to both Houses of Congress for its review. D.C. Law 17-252 became effective on October 22, 2008.</text>
     </level>
   </level>
 </level>

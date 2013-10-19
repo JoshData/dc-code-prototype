@@ -1,20 +1,21 @@
 <level type="section">
   <num>38-1801.01</num>
   <heading>Long-term reform plan.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-2853.1</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">In general.</text> --</text>
+    <heading>In General</heading>
     <level>
       <num>(1)</num>
-      <text><text i="True">Plan.</text> -- The Superintendent, with the approval of the Board of Education, shall submit to the Mayor, the District of Columbia Council, the Authority, the Consensus Commission, and the appropriate congressional committees, a long-term reform plan, not later than 90 days after April 26, 1996, and each February 15 thereafter. The long-term reform plan shall be consistent with the financial plan and budget for the District of Columbia for fiscal year 1996, and each financial plan and budget for a subsequent fiscal year, as the case may be, required under § 47-392.01.</text>
+      <heading>Plan</heading>
+      <text>The Superintendent, with the approval of the Board of Education, shall submit to the Mayor, the District of Columbia Council, the Authority, the Consensus Commission, and the appropriate congressional committees, a long-term reform plan, not later than 90 days after April 26, 1996, and each February 15 thereafter. The long-term reform plan shall be consistent with the financial plan and budget for the District of Columbia for fiscal year 1996, and each financial plan and budget for a subsequent fiscal year, as the case may be, required under § 47-392.01.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Consultation.</text> --</text>
+      <heading>Consultation</heading>
       <level>
         <num>(A)</num>
-        <text><text i="True">In general.</text> -- In developing the long-term reform plan, the Superintendent:</text>
+        <heading>In general</heading>
+        <text>In developing the long-term reform plan, the Superintendent:</text>
         <level>
           <num>(i)</num>
           <text>Shall consult with the Board of Education, the Mayor, the District of Columbia Council, the Authority, and the Consensus Commission; and</text>
@@ -26,16 +27,18 @@
       </level>
       <level>
         <num>(B)</num>
-        <text><text i="True">Summary of recommendations.</text> -- The Superintendent shall include in the long-term plan a summary of the recommendations made under subparagraph (A)(ii) of this paragraph and the response of the Superintendent to the recommendations.</text>
+        <heading>Summary of recommendations</heading>
+        <text>The Superintendent shall include in the long-term plan a summary of the recommendations made under subparagraph (A)(ii) of this paragraph and the response of the Superintendent to the recommendations.</text>
       </level>
     </level>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Contents.</text> --</text>
+    <heading>Contents</heading>
     <level>
       <num>(1)</num>
-      <text><text i="True">Areas to be addressed.</text> -- The long-term reform plan shall describe how the District of Columbia public schools will become a world-class education system that prepares students for lifetime learning in the 21st century and which is on a par with the best education systems of other cities, States, and nations. The long-term reform plan shall include a description of how the District of Columbia public schools will accomplish the following:</text>
+      <heading>Areas to be addressed</heading>
+      <text>The long-term reform plan shall describe how the District of Columbia public schools will become a world-class education system that prepares students for lifetime learning in the 21st century and which is on a par with the best education systems of other cities, States, and nations. The long-term reform plan shall include a description of how the District of Columbia public schools will accomplish the following:</text>
       <level>
         <num>(A)</num>
         <text>Achievement at nationally and internationally competitive levels by students attending District of Columbia public schools;</text>
@@ -135,7 +138,8 @@
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Other information.</text> -- For each of the items described in subparagraphs (A) through (V) of paragraph (1), the long-term reform plan shall include:</text>
+      <heading>Other information</heading>
+      <text>For each of the items described in subparagraphs (A) through (V) of paragraph (1), the long-term reform plan shall include:</text>
       <level>
         <num>(A)</num>
         <text>A statement of measurable, objective performance goals;</text>
@@ -160,24 +164,29 @@
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Amendments.</text> -- The Superintendent, with the approval of the Board of Education, shall submit any amendment to the long-term reform plan to the Mayor, the District of Columbia Council, the Authority, the Consensus Commission, and the appropriate congressional committees. Any amendment to the long-term reform plan shall be consistent with the financial plan and budget for fiscal year 1996, and each financial plan and budget for a subsequent fiscal year, as the case may be, for the District of Columbia required under § 47-392.01.</text>
+    <heading>Amendments</heading>
+    <text>The Superintendent, with the approval of the Board of Education, shall submit any amendment to the long-term reform plan to the Mayor, the District of Columbia Council, the Authority, the Consensus Commission, and the appropriate congressional committees. Any amendment to the long-term reform plan shall be consistent with the financial plan and budget for fiscal year 1996, and each financial plan and budget for a subsequent fiscal year, as the case may be, for the District of Columbia required under § 47-392.01.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Apr. 26, 1996, 110 Stat. 1321 [231], Pub. L. 104-134, § 2101.)</text>
+      <heading>History</heading>
+      <text>(Apr. 26, 1996, 110 Stat. 1321 231, Pub. L. 104-134, § 2101.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-2853.1.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>See notes following § 38-1702.01.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Supervision of the adult education program, long-term reform plan, see § 38-1202.12.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-1800.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-2853.1.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>See notes following § 38-1702.01.</text>
     </level>
   </level>
 </level>

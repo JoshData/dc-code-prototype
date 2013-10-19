@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>5</num>
-  <heading>Board of Veterinary Examiners.</heading>
-  <level>
-    <text>DC CODE D. I, T. 3, Subt. I, Ch. 5, Refs &amp; Annos</text>
-  </level>
+  <heading>Board of Veterinary Examiners</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
 </level>

@@ -44,7 +44,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The court may appoint counsel for an indigent movant under this section pursuant to Chapter 26 of Title 11.</text>
+      <text>The court may appoint counsel for an indigent movant under this section pursuant to Chapter 26 of Title 11 [§ 11-2601 et seq.].</text>
     </level>
     <level>
       <num>(3)</num>
@@ -106,18 +106,18 @@
     <num>(i)</num>
     <text>An order entered on the motion is a final order for purposes of appeal.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2011, D.C. Law 18-284, § 3(h), 57 DCR 10477.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-284, see notes under § 16-2301.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-2335.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-284</heading>
+      <text>For history of Law 18-284, see notes under § 16-2301.</text>
     </level>
   </level>
 </level>

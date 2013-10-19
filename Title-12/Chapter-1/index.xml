@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>1</num>
-  <heading>Abatement and Revivor.</heading>
-  <level>
-    <text>DC CODE D. II, T. 12, Ch. 1, Refs &amp; Annos</text>
-  </level>
+  <heading>Abatement and Revivor</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="12-101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="12-102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="12-103.xml"/>

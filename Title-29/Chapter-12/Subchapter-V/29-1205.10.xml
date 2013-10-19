@@ -13,22 +13,22 @@
     <num>(c)</num>
     <text>If the governing instrument confers on a person a power to direct actions by a trustee or other person, the trustee or other person shall act in accordance with an exercise of the power, unless the direction is manifestly contrary to the terms of the governing instrument or the trustee knows or has reason to know that following the direction would constitute a serious breach of fiduciary duty by the trustee.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 510 of the Uniform Statutory Trust Entity Act . See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-1201.04.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 510 of the Uniform Statutory Trust Entity Act.</text>
     </level>
   </level>
 </level>

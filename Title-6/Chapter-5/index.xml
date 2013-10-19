@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>5</num>
-  <heading>Flood Hazards.</heading>
-  <level>
-    <text>DC CODE D. I, T. 6, Ch. 5, Refs &amp; Annos</text>
-  </level>
+  <heading>Flood Hazards</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-501.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-502.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-503.xml"/>

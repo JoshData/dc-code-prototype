@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>5A</num>
-  <heading>Department of General Services.</heading>
+  <heading>Department of General Services</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-551.03.xml"/>

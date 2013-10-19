@@ -13,7 +13,7 @@
       <text>A statutory or unearned premium reserve consisting of:</text>
       <level>
         <num>(A)</num>
-        <text>The amount of statutory or unearned premium reserve required by the laws of the domiciliary state of the insurer if the insurer is a foreign or non-U.S.title insurer; or</text>
+        <text>The amount of statutory or unearned premium reserve required by the laws of the domiciliary state of the insurer if the insurer is a foreign or non-U.S. title insurer; or</text>
       </level>
       <level>
         <num>(B)</num>
@@ -91,24 +91,20 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>A title insurer subject to the provisions of this chapter shall file with its annual statement required under Chapter 19 of this title a certification by a member in good standing of the American Academy of Actuaries. The actuarial certification required of a title insurer shall conform to the National Association of Insurance Commissioners' annual statement instructions for title insurers.</text>
+    <text>A title insurer subject to the provisions of this chapter shall file with its annual statement required under Chapter 19 of this title [§ 31-1901 et seq.], a certification by a member in good standing of the American Academy of Actuaries. The actuarial certification required of a title insurer shall conform to the National Association of Insurance Commissioners' annual statement instructions for title insurers.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 24, 2010, D.C. Law 18-223, § 2149, 57 DCR 6242.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 2149 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-223, see notes following § 31-5031.01.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 2149 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 31-5031.01.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-1522</num>
   <heading>Levy of annual tax on personal property.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-1522</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Each year the district shall levy a tax against every person on the tangible personal property owned or held in trust in that person's trade or business in the District. The rate of tax shall be $3.40 for each $100 of value of the taxable personal property, in excess of $225,000 in value.</text>
@@ -12,7 +11,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>Persons owning leased personal property having a taxable situs in the District shall be subject to the tax and to the filing requirement of § 47- 1524(b).</text>
+    <text>Persons owning leased personal property having a taxable situs in the District shall be subject to the tax and to the filing requirement of § 47-1524(b).</text>
   </level>
   <level>
     <num>(d)</num>
@@ -22,41 +21,43 @@
     <num>(e)</num>
     <text>Persons owning or holding in trust any tangible personal property located or having a taxable situs in the District on July 1st of the tax year that is used or available for use in a trade or business, whether or not operated for profit, shall file a return according to § 47-1524(b).</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 28, 1987, D.C. Law 6-212, § 3, 34 DCR 850; Sept. 10, 1992, D.C. Law 9-145, § 106, 39 DCR 4895; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Oct. 20, 1999, D.C. Law 13-38, § 2702(d), 46 DCR 6373; Mar. 20, 2008, D.C. Law 17-123, § 3(b), 55 DCR 1513.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-1522.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-123, in subsec. (a), substituted "$225,000" for "$50,000".</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 106 of Omnibus Budget Support Temporary Act of 1992 (D.C. Law 9-134, July 23, 1992, law notification 39 DCR 5815).</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-38 in subsec. (a) inserted the phrase ", in excess of $50,000 in value" immediately following the phrase "The rate of tax shall be $3.40 for each $100 of value of the taxable personal property".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) amendment of section, see §§ 2702(d) and 2703(b) of the Service Improvement and Fiscal Year 2000 Budget Support Emergency Act of 1999 (D.C. Act 13-110, July 28, 1999, 46 DCR 6320).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-212, see Historical and Statutory Notes following § 47-1521.</text>
-        <text>For legislative history of D.C. Law 9-145, see Historical and Statutory Notes following § 47-1508.</text>
-        <text>Law 13-38, the "Service Improvement and Fiscal Year 2000 Budget Support Act of 1999," was introduced in Council and assigned Bill No. 13-161, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 11, 1999, and June 22, 1999, respectively. Signed by the Mayor on July 8, 1999, it was assigned Act No. 13-111 and transmitted to both Houses of Congress for its review. D.C. Law 13-38 became effective on October 20, 1999.</text>
-        <text>For Law 17-123, see notes following § 47-812.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-1522.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-123, in subsec. (a), substituted "$225,000" for "$50,000".</text>
+      <text>D.C. Law 13-38 in subsec. (a) inserted the phrase ", in excess of $50,000 in value" immediately following the phrase "The rate of tax shall be $3.40 for each $100 of value of the taxable personal property".</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 106 of Omnibus Budget Support Temporary Act of 1992 (D.C. Law 9-134, July 23, 1992, law notification 39 DCR 5815).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) amendment of section, see §§ 2702(d) and 2703(b) of the Service Improvement and Fiscal Year 2000 Budget Support Emergency Act of 1999 (D.C. Act 13-110, July 28, 1999, 46 DCR 6320).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-212</heading>
+      <text>For legislative history of D.C. Law 6-212, see Historical and Statutory Notes following § 47-1521.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-145</heading>
+      <text>For legislative history of D.C. Law 9-145, see Historical and Statutory Notes following § 47-1508.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-38</heading>
+      <text>Law 13-38, the "Service Improvement and Fiscal Year 2000 Budget Support Act of 1999," was introduced in Council and assigned Bill No. 13-161, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 11, 1999, and June 22, 1999, respectively. Signed by the Mayor on July 8, 1999, it was assigned Act No. 13-111 and transmitted to both Houses of Congress for its review. D.C. Law 13-38 became effective on October 20, 1999.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-123</heading>
+      <text>For Law 17-123, see notes following § 47-812.</text>
     </level>
   </level>
 </level>

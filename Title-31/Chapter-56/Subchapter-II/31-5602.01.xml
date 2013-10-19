@@ -1,6 +1,6 @@
 <level type="section">
   <num>31-5602.01</num>
-  <heading>Licensing of broker-dealer and agent</heading>
+  <heading>Licensing of broker-dealer and agent.</heading>
   <level>
     <num>(a)</num>
     <text>No person shall transact business in the District of Columbia ("District") as a broker-dealer or agent unless the person is licensed or exempt from licensure under this chapter.</text>
@@ -21,19 +21,19 @@
     <num>(e)</num>
     <text>No broker-dealer licensed under this chapter shall transact business in the District unless it registers at least one agent with the Department.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 26, 2000, D.C. Law 13-203, § 201, 47 DCR 7837.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-203, see notes following § 31-5601.01.</text>
-        <text>For Law 13-203, see notes following § 31-5601.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-5605.01, § 31-5606.05, and § 31-5608.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-203</heading>
+      <text>For Law 13-203, see notes following § 31-5601.01.</text>
+      <text>For Law 13-203, see notes following § 31-5601.01.</text>
     </level>
   </level>
 </level>

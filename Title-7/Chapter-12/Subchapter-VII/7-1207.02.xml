@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-1207.02</num>
   <heading>Criminal penalties.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-2062</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except for violations of subchapter V of this chapter, any person who willfully violates the provisions of this chapter shall be guilty of a misdemeanor and such violator shall be fined not more than $1,000 or imprisoned for not more than 60 days, or both.</text>
@@ -10,23 +9,19 @@
     <num>(b)</num>
     <text>Any person who knowingly obtains mental health information from a mental health professional, mental health facility or data collector, under false pretenses or through deception, shall be guilty of a misdemeanor and shall be fined not more than $5,000 or imprisoned not more than 90 days, or both.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-136, § 702, 25 DCR 5055.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-2062.</text>
-        <text>1973 Ed., § 6-1642.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-136, see Historical and Statutory Notes following § 7-1201.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-2062.</text>
+      <text>1973 Ed., § 6-1642.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-136</heading>
+      <text>For legislative history of D.C. Law 2-136, see Historical and Statutory Notes following § 7-1201.01.</text>
     </level>
   </level>
 </level>

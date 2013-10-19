@@ -1,6 +1,6 @@
 <level type="section">
   <num>4-754.32</num>
-  <heading>Provider program Rules.</heading>
+  <heading>Provider Program Rules.</heading>
   <level>
     <num>(a)</num>
     <text>Pursuant to the limitations of subsections (b) and (c) of this section, providers may establish Program Rules related to the specific goals of their programs. The Program Rules shall include:</text>
@@ -10,7 +10,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Rules regarding client responsibilities, including those listed in § 4- 754.13;</text>
+      <text>Rules regarding client responsibilities, including those listed in § 4-754.13;</text>
     </level>
     <level>
       <num>(3)</num>
@@ -30,7 +30,7 @@
     </level>
     <level>
       <num>(7)</num>
-      <text>A description of any schedule of sanctions that a provider may apply to clients who are in violation of the Program Rules, as authorized by §§ 4- 754.34 through 4-754.38; and</text>
+      <text>A description of any schedule of sanctions that a provider may apply to clients who are in violation of the Program Rules, as authorized by §§ 4-754.34 through 4-754.38; and</text>
     </level>
     <level>
       <num>(8)</num>
@@ -65,18 +65,18 @@
       <text>The Mayor has approved the Program Rules pursuant to subsection (b) of this section.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2005, D.C. Law 16-35, § 18, 52 DCR 8113.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-35, see notes following § 4-751.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-751.01, § 4-753.02, § 4-754.12, § 4-754.13, and § 4-754.21.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-35</heading>
+      <text>For Law 16-35, see notes following § 4-751.01.</text>
     </level>
   </level>
 </level>

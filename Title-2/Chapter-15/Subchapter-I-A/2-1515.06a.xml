@@ -3,35 +3,29 @@
   <heading>Quarterly report on status of Medicaid eligibility.</heading>
   <text>Beginning February 1, 2012, the Department shall issue quarterly reports on the status of the Money Follows the Person program. The report shall include the following:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The number of applications submitted for Medicaid;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The number of applications approved for Medicaid; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The amount of money obtained from Medicaid.</text>
-    </level>
+    <num>(1)</num>
+    <text>The number of applications submitted for Medicaid;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The number of applications approved for Medicaid; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The amount of money obtained from Medicaid.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Apr. 12, 2005, D.C. Law 15-335, § 106a, as added Sept. 26, 2012, D.C. Law 19-171, § 22, 59 DCR 6190; Sept. 26, 2012, D.C. Law 19-171, § 23, 59 DCR 6190.)</text>
+      <heading>History</heading>
+      <text>(Apr. 12, 2005, D.C. Law 15-335, § 106a, as added Sept. 14, 2011, D.C. Law 19-21, § 5064, 58 DCR 6226; Sept. 26, 2012, D.C. Law 19-171, §§ 22, 23, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-171 substituted "the Department shall" for "DYRS shall".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-171, see notes under § 2-218.13.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-171 clarified that D.C. Law 19-21, § 5064, added D.C. Law 15-335, § 106a; and substituted "the Department shall" for "DYRS shall" in the introductory language.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 2-1515.06.</text>
     </level>
   </level>
 </level>

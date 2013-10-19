@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-5402</num>
   <heading>Coverage and limitations.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1942</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Coverage shall be provided for the policies and contracts issued to:</text>
@@ -132,22 +131,22 @@
     <num>(d)</num>
     <text>In no event shall the Association be liable to expend more than $300,000 in the aggregate with respect to any 1 individual.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 22, 1992, D.C. Law 9-129, § 3, 39 DCR 4036.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1942.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 9-129, see Historical and Statutory Notes following § 31-5401.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-5401, § 31-5405, and § 31-5416.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1942.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-129</heading>
+      <text>For legislative history of D.C. Law 9-129, see Historical and Statutory Notes following § 31-5401.</text>
     </level>
   </level>
 </level>

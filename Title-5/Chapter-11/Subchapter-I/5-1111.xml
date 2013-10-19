@@ -1,14 +1,13 @@
 <level type="section">
   <num>5-1111</num>
   <heading>Complaint investigation, findings, and determination.</heading>
-  <formerly-cited-as>DC ST 1981 § 4-921</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>If the Executive Director refers a complaint for investigation, the Executive Director shall assign an investigator to investigate the complaint.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>If the complainant refuses to cooperate in the investigation, the Executive Director may dismiss the complaint in accordance with §§ 5-1107 and 5- 1108.</text>
+    <text>If the complainant refuses to cooperate in the investigation, the Executive Director may dismiss the complaint in accordance with §§ 5-1107 and 5-1108.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -20,7 +19,7 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>When the investigator completes the investigation, the investigator shall summarize the results of the investigation in an investigative report which, along with the investigative file, shall be transmitted to the Executive Director. After reviewing the investigative report and the investigative file, the Executive Director may dismiss the complaint in accordance with §§ 5- 1107 and 5-1108, may direct the investigator to undertake additional investigation, or may refer the complaint to a complaint examiner designated by the Executive Director to determine the merits of the complaint.</text>
+    <text>When the investigator completes the investigation, the investigator shall summarize the results of the investigation in an investigative report which, along with the investigative file, shall be transmitted to the Executive Director. After reviewing the investigative report and the investigative file, the Executive Director may dismiss the complaint in accordance with §§ 5-1107 and 5-1108, may direct the investigator to undertake additional investigation, or may refer the complaint to a complaint examiner designated by the Executive Director to determine the merits of the complaint.</text>
   </level>
   <level>
     <num>(f)</num>
@@ -38,22 +37,18 @@
     <num>(i)</num>
     <text>If the complaint examiner determines that one or more allegations in the complaint is sustained, the Executive Director shall transmit the entire complaint file, including the merits determination of the complaint examiner, to the Police Chief for appropriate action. If the complaint examiner determines that no allegation in the complaint is sustained, the Executive Director shall dismiss the complaint and notify the parties and the Police Chief in writing of such dismissal with a copy of the merits determination.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 26, 1999, D.C. Law 12-208, § 12, 45 DCR 8107.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 4-921.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-208, see Historical and Statutory Notes following § 5-1101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 4-921.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-208</heading>
+      <text>For legislative history of D.C. Law 12-208, see Historical and Statutory Notes following § 5-1101.</text>
     </level>
   </level>
 </level>

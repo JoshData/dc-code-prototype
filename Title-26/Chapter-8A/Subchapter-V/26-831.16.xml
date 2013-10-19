@@ -42,7 +42,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The transfer or lien was received in good faith by a person who is not a described in subsection (a)(1) of this section and who gave value in exchange for the transfer or lien; or</text>
+      <text>The transfer or lien was received in good faith by a person who is not a [sic] described in subsection (a)(1) of this section and who gave value in exchange for the transfer or lien; or</text>
     </level>
     <level>
       <num>(3)</num>
@@ -53,18 +53,14 @@
     <num>(d)</num>
     <text>A person acting on behalf of the merchant bank who knowingly participated in making or implementing a voidable transfer or lien, and each person receiving property or assets, or the benefit of property or assets, of the merchant bank as a result of a voidable transfer or lien, shall be personally liable for the property, assets, or benefit received and shall account to the receiver for the benefit of the merchant bank.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-308, § 316, 48 DCR 3244.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-308, see notes following § 26-833.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-308</heading>
+      <text>For Law 13-308, see notes following § 26-833.01.</text>
     </level>
   </level>
 </level>

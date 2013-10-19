@@ -1,10 +1,9 @@
 <level type="section">
   <num>4-205.19g</num>
   <heading>Exemptions.</heading>
-  <formerly-cited-as>DC ST 1981 § 3-205.19g</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>The Mayor shall promulgate rules describing those categories of TANF applicants who are exempt from the requirements of § 4-205.19b(b). The rules promulgated by the Mayor shall require that notice be provided to TANF applicants of the exemptions from the requirements of § 4-205.19b. Exempt TANF applicants shall include, at a minimum:</text>
+    <text>The Mayor shall promulgate rules describing those categories of TANF applicants who are exempt from the requirements of § 4-205.19b(b) [(b) repealed]. The rules promulgated by the Mayor shall require that notice be provided to TANF applicants of the exemptions from the requirements of § 4-205.19b. Exempt TANF applicants shall include, at a minimum:</text>
     <level>
       <num>(1)</num>
       <text>Minors who are not the head of an assistance unit, including minors in payee-only cases;</text>
@@ -44,7 +43,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The Mayor shall promulgate rules describing those categories of TANF recipients who are exempt from the requirements of § 4-205.19d(b), (c), and (d). The rules promulgated by the Mayor shall require that notice be provided to TANF recipients of the exemptions from the requirements of § 4- 205.19d(b), (c), and (d). Exempt TANF recipients shall include, at a minimum:</text>
+    <text>The Mayor shall promulgate rules describing those categories of TANF recipients who are exempt from the requirements of § 4-205.19d(b) [(b) repealed], (c), and (d). The rules promulgated by the Mayor shall require that notice be provided to TANF recipients of the exemptions from the requirements of § 4-205.19d(b) [(b) repealed], (c), and (d). Exempt TANF recipients shall include, at a minimum:</text>
     <level>
       <num>(1)</num>
       <text>Minor who are not the heads of assistance units, including minors in payee-only cases;</text>
@@ -62,37 +61,40 @@
     <num>(c)</num>
     <text>Any TANF applicant or recipient who is exempt from mandatory participation in job search, job readiness, or work activities shall be permitted to participate in those activities on a voluntary basis to the extent that participation opportunities are available and the District's resources otherwise permit.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 6, 1982, D.C. Law 4-101, § 519g, as added Apr. 20, 1999, D.C. Law 12-241, § 2(w), 46 DCR 905; Apr. 24, 2007, D.C. Law 16-305, § 14(b), 53 DCR 6198.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 3-205.19g.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-305, in subsec. (a)(3), substituted "has a disability or is" for "is disabled or".</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition of section, see § 2(i) of Public Assistance Temporary Amendment Act of 1997 (D.C. Law 12-7, August 1, 1997, law notification 44 DCR 4639).</text>
-        <text>For temporary (225 day) addition of section, see § 2(i) of Public Assistance Temporary Amendment Act of 1998 (D.C. Law 12-130, July 24, 1998, law notification 45 DCR 6501).</text>
-        <text>For temporary (225 day) addition of section, see § 2(w) of Public Assistance Temporary Amendment Act of 1998 (D.C. Law 12-130, July 24, 1998, law notification 45 DCR 6501).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary addition of section, see note to § 4-205.19a.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-241, see Historical and Statutory Notes following § 4-201.01.</text>
-        <text>For Law 16-305, see notes following § 4-110.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-205.19a, § 4-205.19b, § 4-205.19c, § 4-205.19d, and § 4-754.13.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 3-205.19g.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-305, in subsec. (a)(3), substituted "has a disability or is" for "is disabled or".</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition of section, see § 2(i) of Public Assistance Temporary Amendment Act of 1997 (D.C. Law 12-7, August 1, 1997, law notification 44 DCR 4639).</text>
+      <text>For temporary (225 day) addition of section, see § 2(i) of Public Assistance Temporary Amendment Act of 1998 (D.C. Law 12-130, July 24, 1998, law notification 45 DCR 6501).</text>
+      <text>For temporary (225 day) addition of section, see § 2(w) of Public Assistance Temporary Amendment Act of 1998 (D.C. Law 12-130, July 24, 1998, law notification 45 DCR 6501).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary addition of section, see note to § 4-205.19a.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-241</heading>
+      <text>For legislative history of D.C. Law 12-241, see Historical and Statutory Notes following § 4-201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-305</heading>
+      <text>For Law 16-305, see notes following § 4-110.</text>
     </level>
   </level>
 </level>

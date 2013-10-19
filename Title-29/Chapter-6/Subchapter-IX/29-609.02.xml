@@ -1,8 +1,6 @@
 <level type="section">
   <num>29-609.02</num>
   <heading>Merger of partnerships.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-159.2</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-109.02</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Pursuant to a plan of merger approved as provided in subsection (c) of this section, a partnership may be merged with one or more partnerships.</text>
@@ -55,27 +53,23 @@
     <num>(f)</num>
     <text>A merger in which a partnership and another form of entity are parties shall be governed by Chapter 2 of this title.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 41-159.5.</text>
-        <text>2001 Ed., § 33-109.05.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 905 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 41-159.5.</text>
+      <text>2001 Ed., § 33-109.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 905 of the Uniform Partnership Act (1997 Act).</text>
     </level>
   </level>
 </level>

@@ -1,51 +1,51 @@
 <level type="section">
   <num>28-3312</num>
   <heading>Unlawful practices.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-3312</formerly-cited-as>
   <text>It shall be a violation of this chapter for any lender to:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>misrepresent as to a material fact;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>fail to state a material fact;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>disparage the services or business of another by false or misleading representations of material facts;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>advertise or offer services without the intent to provide them or without the intent to provide them as advertised or offered;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>include in the loan or financial transaction agreement an acceleration clause under which any part or all of the unpaid balance of the loan or financial transaction not yet matured may be declared due and payable for any reason other than due to default by the borrower in the payment or in accordance with another term of the agreement; or</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>include in the loan or financial transaction agreement any provision by which the borrower waives any right accruing to him under the provisions of this chapter.</text>
-    </level>
+    <num>(1)</num>
+    <text>misrepresent as to a material fact;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>fail to state a material fact;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>disparage the services or business of another by false or misleading representations of material facts;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>advertise or offer services without the intent to provide them or without the intent to provide them as advertised or offered;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>include in the loan or financial transaction agreement an acceleration clause under which any part or all of the unpaid balance of the loan or financial transaction not yet matured may be declared due and payable for any reason other than due to default by the borrower in the payment or in accordance with another term of the agreement; or</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>include in the loan or financial transaction agreement any provision by which the borrower waives any right accruing to him under the provisions of this chapter.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 1984, D.C. Law 5-62, § 4, 31 DCR 114; Apr. 9, 1997, D.C. Law 11-255, § 27(g), 44 DCR 1271.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-3312.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-62, see Historical and Statutory Notes following § 28-3301.</text>
-        <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 28-3307.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28-3301.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-3312.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-62</heading>
+      <text>For legislative history of D.C. Law 5-62, see Historical and Statutory Notes following § 28-3301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 28-3307.</text>
     </level>
   </level>
 </level>

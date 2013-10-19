@@ -1,10 +1,9 @@
 <level type="section">
   <num>23-555</num>
   <heading>Reports concerning intercepted wire or oral communications.</heading>
-  <formerly-cited-as>DC ST 1981 § 23-555</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>Within thirty days after the expiration of an order or an extension entered under section 23-547 or 23-548 or the denial of an order of approval, the issuing or denying court shall report to the chief judge of the District of Columbia Court of Appeals --</text>
+    <text>Within thirty days after the expiration of an order or an extension entered under section 23-547 or 23-548 or the denial of an order of approval, the issuing or denying court shall report to the chief judge of the District of Columbia Court of Appeals -</text>
     <level>
       <num>(1)</num>
       <text>that an order or extension was applied for;</text>
@@ -36,14 +35,14 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>In January of each year the United States Attorney for the District of Columbia shall report to the Congress of the United States and the chief judge of the District of Columbia Court of Appeals --</text>
+    <text>In January of each year the United States Attorney for the District of Columbia shall report to the Congress of the United States and the chief judge of the District of Columbia Court of Appeals -</text>
     <level>
       <num>(1)</num>
       <text>the information required by paragraphs (1) through (7) of subsection (a) of this section with respect to each application for an order or extension made during the immediately preceding calendar year;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>a general description of the interceptions made under such order or extension, including --</text>
+      <text>a general description of the interceptions made under such order or extension, including -</text>
       <level>
         <num>(A)</num>
         <text>the approximate character and frequency of incriminating communications intercepted;</text>
@@ -102,23 +101,23 @@
     <num>(c)</num>
     <text>Reports made pursuant to the section shall be made in accordance with regulations prescribed by the Director of the Administration Office of the United States Courts under section 2519(3) of Title 18, United States Code.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 626, Pub. L. 91-358, title II, § 210(a); June 3, 1997, D.C. Law 11-275, § 14(d), 44 DCR 1408.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 23-555.</text>
-        <text>1973 Ed., § 23-555.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-275, see Historical and Statutory Notes following § 23-523.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 23-556.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 23-555.</text>
+      <text>1973 Ed., § 23-555.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-275</heading>
+      <text>For legislative history of D.C. Law 11-275, see Historical and Statutory Notes following § 23-523.</text>
     </level>
   </level>
 </level>

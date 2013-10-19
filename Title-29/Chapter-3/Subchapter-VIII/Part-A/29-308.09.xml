@@ -2,18 +2,14 @@
   <num>29-308.09</num>
   <heading>Effect of amendment.</heading>
   <text>An amendment to the articles of incorporation shall not affect a cause of action existing against or in favor of the corporation, a proceeding to which the corporation is a party, or the existing rights of persons other than shareholders of the corporation. An amendment changing a corporation's name shall not abate a proceeding brought by or against the corporation in its former name.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

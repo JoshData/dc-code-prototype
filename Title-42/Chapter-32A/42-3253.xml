@@ -53,22 +53,18 @@
     <num>(d)</num>
     <text>Failure of an owner to comply with the provisions of this chapter upon a determination by the Mayor that a violation has occurred shall be punishable by a fine of $100 for each day of noncompliance.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2005, D.C. Law 15-303, § 4, 52 DCR 1690.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition, see § 4 of Multiple Dwelling Residence Water Lead Level Test Temporary Act of 2004 (D.C. Law 15-206, December 7, 2004, law notification 52 DCR 450).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-303, see notes following § 42-3251.</text>
-      </level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition, see § 4 of Multiple Dwelling Residence Water Lead Level Test Temporary Act of 2004 (D.C. Law 15-206, December 7, 2004, law notification 52 DCR 450).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-303</heading>
+      <text>For Law 15-303, see notes following § 42-3251.</text>
     </level>
   </level>
 </level>

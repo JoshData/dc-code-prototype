@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-1210.04</num>
   <heading>Filing false document or evidence; false statements.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-3310.4</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>No person shall file or attempt to file with any board or the Mayor any statement, diploma, certificate, credential, or other evidence if the person knows, or should know, that it is false or misleading.</text>
@@ -10,22 +9,18 @@
     <num>(b)</num>
     <text>No person shall knowingly make a false statement that is in fact material under oath or affirmation administered by any board or hearing officer.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1986, D.C. Law 6-99, § 1004, 33 DCR 729.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-3310.4.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-3310.4.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-99</heading>
+      <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
     </level>
   </level>
 </level>

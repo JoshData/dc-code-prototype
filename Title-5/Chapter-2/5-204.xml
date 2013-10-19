@@ -1,21 +1,16 @@
 <level type="section">
   <num>5-204</num>
   <heading>Medical attendance.</heading>
-  <formerly-cited-as>DC ST 1981 § 4-204</formerly-cited-as>
   <text>The park watchmen on April 28, 1902, provided by law and those that may thereafter be provided for by law for service in any of the public squares and reservations in the District of Columbia, shall receive free medical attendance, the same as the Metropolitan Police of said District.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 28, 1902, 32 Stat. 152, ch. 594.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 4-204.</text>
-        <text>1973 Ed., § 4-206.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 4-204.</text>
+      <text>1973 Ed., § 4-206.</text>
     </level>
   </level>
 </level>

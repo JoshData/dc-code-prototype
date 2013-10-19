@@ -1,10 +1,10 @@
 <level type="section">
   <num>11-902</num>
   <heading>Organization of the court.</heading>
-  <formerly-cited-as>DC ST 1981 § 11-902</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">In general.</text> -- The Superior Court shall consist of the following:</text>
+    <heading>In general</heading>
+    <text>The Superior Court shall consist of the following:</text>
     <level>
       <num>(1)</num>
       <text>The Civil Division.</text>
@@ -28,34 +28,33 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Branches.</text> -- The divisions of the Superior Court may be divided into such branches as the Superior Court may by rule prescribe.</text>
+    <heading>Branches</heading>
+    <text>The divisions of the Superior Court may be divided into such branches as the Superior Court may by rule prescribe.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Designation of presiding judge of family court.</text> -- The chief judge of the Superior Court shall designate one of the judges assigned to the Family Court of the Superior Court to serve as the presiding judge of the Family Court of the Superior Court.</text>
+    <heading>Designation of presiding judge of Family Court</heading>
+    <text>The chief judge of the Superior Court shall designate one of the judges assigned to the Family Court of the Superior Court to serve as the presiding judge of the Family Court of the Superior Court.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Jurisdiction described.</text> -- The Family Court shall have original jurisdiction over the actions, applications, determinations, adjudications, and proceedings described in section 11-1101. Actions, applications, determinations, adjudications, and proceedings being assigned to cross-jurisdictional units established by the Superior Court, including the Domestic Violence Unit, on the date of enactment of this section [January 8, 2002], may continue to be so assigned after the date of enactment of this section [January 8, 2002].</text>
+    <heading>Jurisdiction described</heading>
+    <text>The Family Court shall have original jurisdiction over the actions, applications, determinations, adjudications, and proceedings described in § 11-1101. Actions, applications, determinations, adjudications, and proceedings being assigned to cross-jurisdictional units established by the Superior Court, including the Domestic Violence Unit, on the date of enactment of this section [January 8, 2002], may continue to be so assigned after the date of enactment of this section [Jan. 8, 2002].</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 482, Pub. L. 91-358, title I, § 111; Jan. 8, 2002, 115 Stat. 2100, Pub. L. 107-114, § 2(a).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 11-902.</text>
-        <text>1973 Ed., § 11-902.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>Pub. L. 107-114 rewrote the section which had read:</text>
-        <text>"The Superior Court shall consist of the following divisions: Civil Division, Criminal Division, Family Division, Probate Division, and Tax Division. The divisions of the Superior Court may be divided into such branches as the Superior Court may by rule prescribe."</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 11-902.</text>
+      <text>1973 Ed., § 11-902.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>Pub. L. 107-114 rewrote the section which had read:</text>
+      <text>"The Superior Court shall consist of the following divisions: Civil Division, Criminal Division, Family Division, Probate Division, and Tax Division. The divisions of the Superior Court may be divided into such branches as the Superior Court may by rule prescribe."</text>
     </level>
   </level>
 </level>

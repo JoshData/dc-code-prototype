@@ -1,7 +1,6 @@
 <level type="section">
   <num>36-407</num>
   <heading>Effect on other law.</heading>
-  <formerly-cited-as>DC ST 1981 § 48-507</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as provided in subsection (b) of this section, this chapter supersedes conflicting tort, restitution and other law of the District of Columbia providing civil remedies for misappropriation of a trade secret.</text>
@@ -22,26 +21,22 @@
       <text>Criminal remedies, whether or not based upon misappropriation of a trade secret.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1989, D.C. Law 7-216, § 8, 36 DCR 519.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 48-507.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-216, see Historical and Statutory Notes following § 36-401.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 7 of the Uniform Trade Secrets Act. See 14 Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 48-507.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-216</heading>
+      <text>For legislative history of D.C. Law 7-216, see Historical and Statutory Notes following § 36-401.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 7 of the Uniform Trade Secrets Act.</text>
     </level>
   </level>
 </level>

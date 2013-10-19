@@ -17,7 +17,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>A contract between the District of Columbia and a health maintenance organization or a managed care organization that provides health care services to persons enrolled in the DC HealthCare Alliance shall, for fiscal year 2013, include coverage for all services, including hospital-based services, being provided to DC HealthCare Alliance enrollees as of January 1, 2012; provided, that for fiscal year 2013, the Department of Health Care Finance shall have the authority to exclude coverage for those hospital-based emergency services that are eligible for Medicaid reimbursement under section 401(b)(1)(A) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, approved August 21, 1996 (110 Stat. 502; 8 U.S.C. § 1611(b)(1)(A)), section 1903(v)(3) of the Social Security Amendments Act of 1965, approved July 30, 1965 (79 Stat. 286; 42 U. S.C. 1396b(v)(3)), and 42 C.F.R. § 440.255(c).</text>
+      <text>A contract between the District of Columbia and a health maintenance organization or a managed care organization that provides health care services to persons enrolled in the DC HealthCare Alliance shall, for fiscal year 2013, include coverage for all services, including hospital-based services, being provided to DC HealthCare Alliance enrollees as of January 1, 2012; provided, that for fiscal year 2013, the Department of Health Care Finance shall have the authority to exclude coverage for those hospital-based emergency services that are eligible for Medicaid reimbursement under 8 U.S.C. § 1611(b)(1)(A), 42 U.S.C. § 1396b(v)(3), and 42 C.F.R. § 440.255(c).</text>
     </level>
   </level>
   <level>
@@ -28,46 +28,54 @@
     <num>(e)</num>
     <text>A health maintenance organization or health insurer under contract to the District to deliver services to persons enrolled in the Alliance ("Contractor"), which shall include safety net clinics, shall have the option of paying the safety net clinics on a fee-for-service basis or a capitated basis. If the Contractor elects to pay on a fee-for-service basis, the Contractor shall pay the safety net clinics no less that $95 per visit. If the Contractor elects to pay the safety net clinics on a capitated basis, the Contractor shall pay the safety net clinics on the same terms and condition as other clinics.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 12, 2001, D.C. Law 14-18, § 7, 48 DCR 4047; Mar. 2, 2007, D.C. Law 16-192, § 5052, 53 DCR 6899; Aug. 16, 2008, D.C. Law 17-219, § 5035, 55 DCR 7598; Sept. 20, 2012, D.C. Law 19-168, § 5112, 59 DCR 8025.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-192 added subsecs. (c) and (d).</text>
-        <text>D.C. Law 17-219 added subsec. (e).</text>
-        <text>D.C. Law 19-168, in subsec. (c), designated the existing text as par. (1); in subsec. (c)(1), substituted "insurance laws and subject to paragraph (2) of this subsection, a health" for "insurance laws, a health"; and added subsec. (c)(2).</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2 of Health Care Privatization Benefit and Reimbursement Exemption Temporary Amendment of Act of 2006 (D.C. Law 16-155, September 19, 2006, law notification 53 DCR 7927).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2 of Health Care Privatization Benefit and Reimbursement Exemption Emergency Amendment Act of 2006 (D.C. Act 16-374, May 19, 2006, 53 DCR 4388).</text>
-        <text>For temporary (90 day) amendment of section, see § 5052 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006, 53 DCR 7068).</text>
-        <text>For temporary (90 day) amendment of section, see § 5052 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006, 53 DCR 8845).</text>
-        <text>For temporary (90 day) amendment of section, see § 5052 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007, 54 DCR 1165).</text>
-        <text>For temporary (90 day) amendment of section, see § 5112 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
-        <text>For temporary (90 day) amendment of section, see § 5112 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 14-18, see notes following § 7-1401.</text>
-        <text>For Law 16-192, see notes following § 7-751.16a.</text>
-        <text>For Law 17-219, see notes following § 7-651.17.</text>
-        <text>For history of Law 19-168, see notes under § 7-1131.02.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 5051 of D.C. Law 16-192 provided that subtitle E of title V of the act may be cited as the "Health Care Privatization Benefit Amendment Act of 2006".</text>
-        <text>Short title: Section 5034 of D.C. Law 17-219 provided that subtitle O of title V of the act may be cited as the "Safety Net Clinics Fee Amendment Act of 2008".</text>
-        <text>Short title: Section 5111 of D.C. Law 19-168 provided that subtitle L of title V of the act may be cited as "DC HealthCare Alliance Preservation Amendment Act of 2012".</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-1401 and § 44-407.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-192 added subsecs. (c) and (d).</text>
+      <text>D.C. Law 17-219 added subsec. (e).</text>
+      <text>The 2012 amendment by D.C. Law 19-168 added the (c)(1) designation; added "and subject to paragraph (2) of this subsection" in (c)(1); and added (c)(2).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2 of Health Care Privatization Benefit and Reimbursement Exemption Temporary Amendment of Act of 2006 (D.C. Law 16-155, September 19, 2006, law notification 53 DCR 7927).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2 of Health Care Privatization Benefit and Reimbursement Exemption Emergency Amendment Act of 2006 (D.C. Act 16-374, May 19, 2006, 53 DCR 4388).</text>
+      <text>For temporary (90 day) amendment of section, see § 5052 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006, 53 DCR 7068).</text>
+      <text>For temporary (90 day) amendment of section, see § 5052 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006, 53 DCR 8845).</text>
+      <text>For temporary (90 day) amendment of section, see § 5052 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007, 54 DCR 1165).</text>
+      <text>For temporary (90 day) amendment of section, see § 5112 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
+      <text>For temporary (90 day) amendment of section, see § 5112 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-18</heading>
+      <text>For D.C. Law 14-18, see notes following § 7-1401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-192</heading>
+      <text>For Law 16-192, see notes following § 7-751.16a.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-219</heading>
+      <text>For Law 17-219, see notes following § 7-651.17.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>Law 19-168, the "Fiscal Year 2013 Budget Support Act of 2012," was introduced in Council and assigned Bill No. 19-743. The Bill was adopted on first and second readings on May 15, 2012, and June 5, 2012, respectively. Signed by the Mayor on June 22, 2012, it was assigned Act No. 19-385 and transmitted to Congress for its review. D.C. Law 19-168 became effective on September 20, 2012.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 5051 of D.C. Law 16-192 provided that subtitle E of title V of the act may be cited as the "Health Care Privatization Benefit Amendment Act of 2006".</text>
+      <text>Short title: Section 5034 of D.C. Law 17-219 provided that subtitle O of title V of the act may be cited as the "Safety Net Clinics Fee Amendment Act of 2008".</text>
     </level>
   </level>
 </level>

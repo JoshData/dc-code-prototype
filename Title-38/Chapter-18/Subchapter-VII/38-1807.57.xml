@@ -3,7 +3,8 @@
   <heading>Preservation of school-based staff positions.</heading>
   <level>
     <num>(a)</num>
-    <text><text i="True">Findings.</text> -- The Council of the District of Columbia finds that:</text>
+    <heading>Findings</heading>
+    <text>The Council of the District of Columbia finds that:</text>
     <level>
       <num>(1)</num>
       <text>In Fiscal Year 2006, the District of Columbia Public Schools ("DCPS") will receive a core budget of $779,309,000 with additional funding in the amount of $21 million for the Superintendent's school reform initiatives.</text>
@@ -27,7 +28,8 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Restrictions on reductions of school-based employees.</text> -- To the extent that a reduction in the number of full-time equivalent positions for the District of Columbia public schools is required to remain within the budget established for the public schools in appropriations acts, no reductions shall be made from the full-time equivalent positions for school- based teachers, principals, counselors, librarians, or other school-based educational positions that were established as of the end of Fiscal Year 2005, unless the Board of Education makes a determination based on student enrollment that:</text>
+    <heading>Restrictions on reductions of school-based employees</heading>
+    <text>To the extent that a reduction in the number of full-time equivalent positions for the District of Columbia public schools is required to remain within the budget established for the public schools in appropriations acts, no reductions shall be made from the full-time equivalent positions for school-based teachers, principals, counselors, librarians, or other school-based educational positions that were established as of the end of Fiscal Year 2005, unless the Board of Education makes a determination based on student enrollment that:</text>
     <level>
       <num>(1)</num>
       <text>Fewer school-based positions are needed to maintain established pupil-to-staff ratios; or</text>
@@ -39,28 +41,25 @@
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Definition.</text> -- The term "school-based educational position" means a position located at a District of Columbia public school or other position providing direct support to students at such a school, including a position for a clerical, stenographic, or secretarial employee, but not including any part-time educational aide position.</text>
+    <heading>Definition</heading>
+    <text>The term "school-based educational position" means a position located at a District of Columbia public school or other position providing direct support to students at such a school, including a position for a clerical, stenographic, or secretarial employee, but not including any part-time educational aide position.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 26, 1996, 110 Stat. 1321 [271], Pub. L. 104-134, § 2757, as added Oct. 20, 2005, D.C. Law 16-33, § 4022(b), 52 DCR 7503.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 4022(b) of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-33, see notes following § 38-1306.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title of subtitle C of title IV of Law 16-33: Section 4021 of D.C. Law 16-33 provided that subtitle C of title IV of the act may be cited as the Preservation of School-Based Staff Positions Amendment Act of 2005.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 4022(b) of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-33</heading>
+      <text>For Law 16-33, see notes following § 38-1306.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title of subtitle C of title IV of Law 16-33: Section 4021 of D.C. Law 16-33 provided that subtitle C of title IV of the act may be cited as the Preservation of School-Based Staff Positions Amendment Act of 2005.</text>
     </level>
   </level>
 </level>

@@ -3,107 +3,105 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Affiliate" means a person that directly or indirectly through one or more intermediaries controls, is controlled by, or is under common control with another person or is a senior executive thereof. For the purposes of § 29-311.02(b)(4), a person shall be deemed to be an affiliate of its senior executives.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Beneficial shareholder" means a person that is the beneficial owner of shares held in a voting trust or by a nominee on the beneficial owner's behalf.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Corporation" means the issuer of the shares held by a shareholder demanding appraisal and, for matters covered in §§ 29-311.12 to 29-311.31, includes the surviving entity in a merger.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Fair value" means the value of the corporation's shares determined:</text>
     <level>
-      <num>(1)</num>
-      <text>"Affiliate" means a person that directly or indirectly through one or more intermediaries controls, is controlled by, or is under common control with another person or is a senior executive thereof. For the purposes of § 29- 311.02(b)(4), a person shall be deemed to be an affiliate of its senior executives.</text>
+      <num>(A)</num>
+      <text>Immediately before the effectuation of the corporate action to which the shareholder objects;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Beneficial shareholder" means a person that is the beneficial owner of shares held in a voting trust or by a nominee on the beneficial owner's behalf.</text>
+      <num>(B)</num>
+      <text>Using customary and current valuation concepts and techniques generally employed for similar businesses in the context of the transaction requiring appraisal; and</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>"Corporation" means the issuer of the shares held by a shareholder demanding appraisal and, for matters covered in §§ 29-311.12 to 29- 311.31, includes the surviving entity in a merger.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Fair value" means the value of the corporation's shares determined:</text>
-      <level>
-        <num>(A)</num>
-        <text>Immediately before the effectuation of the corporate action to which the shareholder objects;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Using customary and current valuation concepts and techniques generally employed for similar businesses in the context of the transaction requiring appraisal; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Without discounting for lack of marketability or minority status, except, if appropriate, for amendments to the articles pursuant to § 29- 311.02(a)(5).</text>
-      </level>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Interest" means interest from the effective date of the corporate action until the date of payment at the rate of interest on judgments in the District on the effective date of the corporate action.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Interested transaction" means a corporate action described in § 29- 311.02(a), other than a merger pursuant to § 29-309.05, involving an interested person in which any of the shares or assets of the corporation are being acquired or converted. For the purposes of this definition, the term:</text>
-      <level>
-        <num>(A)</num>
-        <text>"Interested person" means a person, or an affiliate of a person, who at any time during the one-year period immediately preceding approval by the board of directors of the corporate action:</text>
-        <level>
-          <num>(i)</num>
-          <text>Was the beneficial owner of 20% or more of the voting power of the corporation, other than as owner of excluded shares;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Had the power, contractually or otherwise, other than as owner of excluded shares, to cause the appointment or election of 25% or more of the directors to the board of directors of the corporation; or</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Was a senior executive or director of the corporation or a senior executive of any affiliate thereof, and that senior executive or director will receive, as a result of the corporate action, a financial benefit not generally available to other shareholders as such, other than:</text>
-          <level>
-            <num>(I)</num>
-            <text>Employment, consulting, retirement, or similar benefits established separately and not as part of or in contemplation of the corporate action;</text>
-          </level>
-          <level>
-            <num>(II)</num>
-            <text>Employment, consulting, retirement, or similar benefits established in contemplation of, or as part of, the corporate action that are not more favorable than those existing before the corporate action or, if more favorable, that have been approved on behalf of the corporation in the same manner as is provided in § 29-306.72; or</text>
-          </level>
-          <level>
-            <num>(III)</num>
-            <text>In the case of a director of the corporation, who will, in the corporate action, become a director of the acquiring entity in the corporate action or one of its affiliates, rights and benefits as a director that are provided on the same basis as those afforded by the acquiring entity generally to other directors of such entity or such affiliate.</text>
-          </level>
-        </level>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>"Beneficial owner" means any person that, directly or indirectly, through any contract, arrangement, or understanding, other than a revocable proxy, has or shares the power to vote, or to direct the voting of, shares; provided, that a member of a national securities exchange shall not deemed to be a beneficial owner of securities held directly or indirectly by it on behalf of another person solely because the member is the record holder of the securities if the member is precluded by the rules of the exchange from voting without instruction on contested matters or matters that may affect substantially the rights or privileges of the holders of the securities to be voted. When 2 or more persons agree to act together for the purpose of voting their shares of the corporation, each member of the group formed thereby shall be deemed to have acquired beneficial ownership, as of the date of the agreement, of all voting shares of the corporation beneficially owned by any member of the group.</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>"Excluded shares" means shares acquired pursuant to an offer for all shares having voting power if the offer was made within one year prior to the corporate action for consideration of the same kind and of a value equal to or less than that paid in connection with the corporate action.</text>
-      </level>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"Preferred shares" means a class or series of shares whose holders have preference over any other class or series with respect to distributions.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Record shareholder" means the person in whose name shares are registered in the records of the corporation or the beneficial owner of shares to the extent of the rights granted by a nominee certificate on file with the corporation.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Senior executive" means the chief executive officer, chief operating officer, chief financial officer, and anyone in charge of a principal business unit or function.</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Shareholder" means a record shareholder or a beneficial shareholder.</text>
+      <num>(C)</num>
+      <text>Without discounting for lack of marketability or minority status, except, if appropriate, for amendments to the articles pursuant to § 29-311.02(a)(5).</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(5)</num>
+    <text>"Interest" means interest from the effective date of the corporate action until the date of payment at the rate of interest on judgments in the District on the effective date of the corporate action.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Interested transaction" means a corporate action described in § 29-311.02(a), other than a merger pursuant to § 29-309.05, involving an interested person in which any of the shares or assets of the corporation are being acquired or converted. For the purposes of this definition, the term:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>"Interested person" means a person, or an affiliate of a person, who at any time during the one-year period immediately preceding approval by the board of directors of the corporate action:</text>
+      <level>
+        <num>(i)</num>
+        <text>Was the beneficial owner of 20% or more of the voting power of the corporation, other than as owner of excluded shares;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Had the power, contractually or otherwise, other than as owner of excluded shares, to cause the appointment or election of 25% or more of the directors to the board of directors of the corporation; or</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Was a senior executive or director of the corporation or a senior executive of any affiliate thereof, and that senior executive or director will receive, as a result of the corporate action, a financial benefit not generally available to other shareholders as such, other than:</text>
+        <level>
+          <num>(I)</num>
+          <text>Employment, consulting, retirement, or similar benefits established separately and not as part of or in contemplation of the corporate action;</text>
+        </level>
+        <level>
+          <num>(II)</num>
+          <text>Employment, consulting, retirement, or similar benefits established in contemplation of, or as part of, the corporate action that are not more favorable than those existing before the corporate action or, if more favorable, that have been approved on behalf of the corporation in the same manner as is provided in § 29-306.72; or</text>
+        </level>
+        <level>
+          <num>(III)</num>
+          <text>In the case of a director of the corporation, who will, in the corporate action, become a director of the acquiring entity in the corporate action or one of its affiliates, rights and benefits as a director that are provided on the same basis as those afforded by the acquiring entity generally to other directors of such entity or such affiliate.</text>
+        </level>
+      </level>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>"Beneficial owner" means any person that, directly or indirectly, through any contract, arrangement, or understanding, other than a revocable proxy, has or shares the power to vote, or to direct the voting of, shares; provided, that a member of a national securities exchange shall not deemed to be a beneficial owner of securities held directly or indirectly by it on behalf of another person solely because the member is the record holder of the securities if the member is precluded by the rules of the exchange from voting without instruction on contested matters or matters that may affect substantially the rights or privileges of the holders of the securities to be voted. When 2 or more persons agree to act together for the purpose of voting their shares of the corporation, each member of the group formed thereby shall be deemed to have acquired beneficial ownership, as of the date of the agreement, of all voting shares of the corporation beneficially owned by any member of the group.</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>"Excluded shares" means shares acquired pursuant to an offer for all shares having voting power if the offer was made within one year prior to the corporate action for consideration of the same kind and of a value equal to or less than that paid in connection with the corporate action.</text>
+    </level>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Preferred shares" means a class or series of shares whose holders have preference over any other class or series with respect to distributions.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Record shareholder" means the person in whose name shares are registered in the records of the corporation or the beneficial owner of shares to the extent of the rights granted by a nominee certificate on file with the corporation.</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Senior executive" means the chief executive officer, chief operating officer, chief financial officer, and anyone in charge of a principal business unit or function.</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"Shareholder" means a record shareholder or a beneficial shareholder.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-312.20.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

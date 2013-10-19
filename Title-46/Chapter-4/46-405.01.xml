@@ -1,24 +1,23 @@
 <level type="section">
   <num>46-405.01</num>
-  <heading>Recognition of Marriages from Other Jurisdictions.</heading>
+  <heading>Recognition of marriages from other jurisdictions.</heading>
   <text>A marriage legally entered into in another jurisdiction between 2 persons of the same sex that is recognized as valid in that jurisdiction, that is not expressly prohibited by §§ 46-401.01 through 46-404, and has not been deemed illegal under § 46-405, shall be recognized as a marriage in the District.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1901, 31 Stat. 1392, ch. 854, § 1287a, as added July 7, 2009, D.C. Law 18-9, § 3(b), 56 DCR 3797; Mar. 3, 2010, D.C. Law 18-110, § 2(c), 57 DCR 27.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-110 substituted "§§ 46-401.01" for "§§ 46-401".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-9, see notes following § 46-401.</text>
-        <text>For Law 18-110, see notes following § 46-401.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-110 substituted "§§ 46-401.01" for "§§ 46-401".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-9</heading>
+      <text>For Law 18-9, see notes following § 46-401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-110</heading>
+      <text>For Law 18-110, see notes following § 46-401.</text>
     </level>
   </level>
 </level>

@@ -1,27 +1,21 @@
 <level type="section">
   <num>29-509</num>
   <heading>Proxy prohibited.</heading>
-  <formerly-cited-as>DC ST 1981 § 29-610</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 29-410</formerly-cited-as>
   <text>A shareholder of a professional corporation shall not enter into a voting trust, proxy, or any other arrangement vesting another person, other than another shareholder of the same corporation, with the authority to exercise the voting power of any or all of his shares, and any such voting trust, proxy, or other arrangement shall be void.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 29-410.</text>
-        <text>1981 Ed., § 29-610.</text>
-        <text>1973 Ed., § 29-1110.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 29-410.</text>
+      <text>1981 Ed., § 29-610.</text>
+      <text>1973 Ed., § 29-1110.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

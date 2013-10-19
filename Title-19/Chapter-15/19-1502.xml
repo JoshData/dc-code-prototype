@@ -3,63 +3,57 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>"Disclaimant" means the person to whom a disclaimed interest or power would have passed had the disclaimer not been made.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Disclaimed interest" means the interest that would have passed to the disclaimant had the disclaimer not been made.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Disclaimer" means the refusal to accept an interest in or power over property.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Fiduciary" means a personal representative, trustee, agent acting under a power of attorney, or other person authorized to act as a fiduciary with respect to the property of another person.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Jointly held property" means property held in the name of 2 or more persons under an arrangement in which all holders have concurrent interests and under which the last surviving holder is entitled to the whole of the property.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, government; governmental subdivision, agency, or instrumentality; public corporation, or any other legal or commercial entity.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States. The term "state" includes an Indian tribe or band, or Alaskan native village, recognized by federal law or formally acknowledged by a state.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Trust" means:</text>
-      <level>
-        <num>(A)</num>
-        <text>An express trust, charitable or noncharitable, with additions thereto, whenever and however created; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>A trust created pursuant to a statute, judgment, or decree which requires the trust to be administered in the manner of an express trust.</text>
-      </level>
-    </level>
+    <num>(1)</num>
+    <text>"Disclaimant" means the person to whom a disclaimed interest or power would have passed had the disclaimer not been made.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Disclaimed interest" means the interest that would have passed to the disclaimant had the disclaimer not been made.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Disclaimer" means the refusal to accept an interest in or power over property.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Fiduciary" means a personal representative, trustee, agent acting under a power of attorney, or other person authorized to act as a fiduciary with respect to the property of another person.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Jointly held property" means property held in the name of 2 or more persons under an arrangement in which all holders have concurrent interests and under which the last surviving holder is entitled to the whole of the property.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, government; governmental subdivision, agency, or instrumentality; public corporation, or any other legal or commercial entity.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States. The term "state" includes an Indian tribe or band, or Alaskan native village, recognized by federal law or formally acknowledged by a state.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Trust" means:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>An express trust, charitable or noncharitable, with additions thereto, whenever and however created; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>A trust created pursuant to a statute, judgment, or decree which requires the trust to be administered in the manner of an express trust.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Mar. 2, 2007, D.C. Law 16-205, § 2(b), 53 DCR 9063.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-205, see notes following § 19-1501.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 2 of the Uniform Disclaimer of Property Interests Act (1999). See 8A, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 16-205</heading>
+      <text>For Law 16-205, see notes following § 19-1501.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 2 of the Uniform Disclaimer of Property Interests Act (1999).</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-702.06</num>
   <heading>Confidentiality of records and identities of residents.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-3516</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The program shall protect the confidentiality of the records (electronic or hard copy) of the residents and employees.</text>
@@ -22,29 +21,31 @@
     <num>(e)</num>
     <text>A communication between a resident and a person who has access under § 7-703.01 shall be confidential, unless the resident authorizes the release of the communication or unless disclosure is authorized under § 7-702.04(a)(1) or subsection (d) of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1989, D.C. Law 7-218, § 206, 36 DCR 534; Mar. 12, 2011, D.C. Law 18-321, § 2(c), 57 DCR 12438; Sept. 26, 2012, D.C. Law 19-171, § 54(b), 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-3516.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-321, in subsecs. (a) and (b), substituted "records (electronic or hard copy)" for "records"; in subsec. (c), substituted "Except as provided in subsection (d) of this section, the program" for "the program"; and added subsecs. (d) and (e).</text>
-        <text>D.C. Law 19-171, in subsec. (c), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-218, see Historical and Statutory Notes following § 7-701.01.</text>
-        <text>For history of Law 18-321, see notes under § 7-701.01.</text>
-        <text>For history of Law 19-171, see notes under § 7-242.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-3516.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-321, in subsecs. (a) and (b), substituted "records (electronic or hard copy)" for "records"; in subsec. (c), substituted "Except as provided in subsection (d) of this section, the program" for "the program"; and added subsecs. (d) and (e).</text>
+      <text>The 2012 amendment by D.C. Law 19-171 validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-218</heading>
+      <text>For legislative history of D.C. Law 7-218, see Historical and Statutory Notes following § 7-701.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-321</heading>
+      <text>For history of Law 18-321, see notes under § 7-701.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 7-702.04.</text>
     </level>
   </level>
 </level>

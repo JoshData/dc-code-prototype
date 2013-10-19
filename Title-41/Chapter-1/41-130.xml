@@ -1,7 +1,6 @@
 <level type="section">
   <num>41-130</num>
   <heading>Verified reports; examination of records; subpoenas.</heading>
-  <formerly-cited-as>DC ST 1981 § 42-230</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor may require that any person shall file a verified report stating whether or not the person is holding any unclaimed property reportable or deliverable under this chapter.</text>
@@ -26,28 +25,34 @@
     <num>(e)</num>
     <text>If any holder refuses to permit the holder's records to be examined, the Mayor may issue a subpoena to compel the holder to testify and produce the records pursuant to § 1-301.21.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 5, 1981, D.C. Law 3-160, § 130, 27 DCR 5150; June 4, 1982, D.C. Law 4-111, § 3(b), 29 DCR 1684; Sept. 29, 1992, D.C. Law 9-161, § 2(r), 39 DCR 5696.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 42-230.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-160, see Historical and Statutory Notes following § 41-101.</text>
-        <text>For legislative history of D.C. Law 4-111, see Historical and Statutory Notes following § 41-104.</text>
-        <text>For legislative history of D.C. Law 9-161, see Historical and Statutory Notes following § 41-103.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 30 of the Uniform Unclaimed Property Act (1981 Act). See 8B Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 41-136.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 42-230.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-160</heading>
+      <text>For legislative history of D.C. Law 3-160, see Historical and Statutory Notes following § 41-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-111</heading>
+      <text>For legislative history of D.C. Law 4-111, see Historical and Statutory Notes following § 41-104.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-161</heading>
+      <text>For legislative history of D.C. Law 9-161, see Historical and Statutory Notes following § 41-103.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 30 of the Uniform Unclaimed Property Act (1981 Act).</text>
     </level>
   </level>
 </level>

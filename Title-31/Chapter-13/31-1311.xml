@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1311</num>
   <heading>Rehabilitation orders.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-2811</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>An order to rehabilitate the business of a domestic insurer, or an alien insurer domiciled in the District, shall appoint the Commissioner and his or her successors in office the rehabilitator, and shall direct the rehabilitator forthwith to take possession of the assets of the insurer, and to administer them under the general supervision of the court. The filing or recording of the order with the clerk of the Superior Court of the District of Columbia shall impart the same notice as a deed, bill of sale, or other evidence of title duly filed or recorded with the recorder of deeds would have imparted. The order to rehabilitate the insurer shall by operation of law vest title to all assets of the insurer in the rehabilitator.</text>
@@ -14,24 +13,30 @@
     <num>(c)</num>
     <text>Entry of an order of rehabilitation shall not constitute an anticipatory breach of any contracts of the insurer nor shall it be grounds for retroactive revocation or retroactive cancellation of any contracts of the insurer, unless the revocation or cancellation is done by the rehabilitator pursuant to § 31-1312.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 15, 1993, D.C. Law 10-35, § 12, 40 DCR 5773; May 16, 1995, D.C. Law 10-255, § 27(b), 41 DCR 5193; May 21, 1997, D.C. Law 11-268, § 10(z)(2), 44 DCR 1730.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-2811.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-35, see Historical and Statutory Notes following § 31-1301.</text>
-        <text>For legislative history of D.C. Law 10-255, see Historical and Statutory Notes following § 31-1301.</text>
-        <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-1301.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1335.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-2811.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-35</heading>
+      <text>For legislative history of D.C. Law 10-35, see Historical and Statutory Notes following § 31-1301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-255</heading>
+      <text>For legislative history of D.C. Law 10-255, see Historical and Statutory Notes following § 31-1301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-1301.</text>
     </level>
   </level>
 </level>

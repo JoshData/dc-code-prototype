@@ -1,7 +1,6 @@
 <level type="section">
   <num>23-521</num>
   <heading>Nature and issuance of search warrants.</heading>
-  <formerly-cited-as>DC ST 1981 § 23-521</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Under circumstances described in this subchapter, a judicial officer may issue a search warrant upon application of a law enforcement officer or prosecutor. A warrant may authorize a search to be conducted anywhere in the District of Columbia and may be executed pursuant to its terms.</text>
@@ -32,7 +31,7 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>Property is subject to seizure pursuant to a search warrant if there is probable cause to believe that it --</text>
+    <text>Property is subject to seizure pursuant to a search warrant if there is probable cause to believe that it -</text>
     <level>
       <num>(1)</num>
       <text>is stolen or embezzled;</text>
@@ -56,7 +55,7 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>A search warrant shall contain --</text>
+    <text>A search warrant shall contain -</text>
     <level>
       <num>(1)</num>
       <text>the name of the issuing court, the name and signature of the issuing judicial officer, and the date of issuance;</text>
@@ -82,29 +81,44 @@
       <text>a direction that the warrant and an inventory of any property seized pursuant thereto be returned to the court on the next court day after its execution.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 29, 1970, 84 Stat. 614, Pub. L. 91-358, title II, § 210(a); Oct. 26, 1974, 88 Stat. 1455, Pub. L. 93-481, § 4(b); Apr. 30, 1988, D.C. Law 7- 104, § 7(a), 35 DCR 147; June 3, 2011, D.C. Law 18-376, § 4, 58 DCR 944.)</text>
+      <heading>History</heading>
+      <text>(July 29, 1970, 84 Stat. 614, Pub. L. 91-358, title II, § 210(a); Oct. 26, 1974, 88 Stat. 1455, Pub. L. 93-481, § 4(b); Apr. 30, 1988, D.C. Law 7-104, § 7(a), 35 DCR 147; June 3, 2011, D.C. Law 18-376, § 4, 58 DCR 944.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 23-521.</text>
-        <text>1973 Ed., § 23-521.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-376 rewrote subsec. (d)(4), which formerly read:</text>
-        <text>"(4) constitutes evidence of or tends to demonstrate the commission of an offense or the identity of a person participating in the commission of an offense."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 7-104, the "Technical Amendments Act of 1987," was introduced in Council and assigned Bill No. 7-346, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 24, 1987 and December 8, 1987, respectively. Signed by the Mayor on December 22, 1987, it was assigned Act No. 7-124 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 18-376, the "Attorney General Subpoena Authority Authorization Amendment Act of 2010", was introduced in Council and assigned Bill No. 18-1009, which was referred to the Committee on Public Safety and the Judiciary. The Bill was adopted on first and second readings on November 9, 2010, and December 7, 2010, respectively. Signed by the Mayor on January 20, 2011, it was assigned Act No. 18-712 and transmitted to both Houses of Congress for its review. D.C. Law 18- 376 became effective on June 3, 2011.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Alcoholic Beverage Control Act, search warrants, see § 25-803.</text>
+      <text>Businesses, examination of books and search of premises of certain businesses, see § 5-117.02.</text>
+      <text>Cruelty to animals, search warrants to prevent, see § 22-1005.</text>
+      <text>Gaming houses or bawdy houses, authorization of searches, see § 5-115.06.</text>
+      <text>Milk containers, search warrants to discover illegal use, see §§ 36-125 and 36-155.</text>
+      <text>Pawned or pledged property, examination of property, see § 5-117.03.</text>
+      <text>Raids, prohibition of advance information of raids to attorneys or bondsmen, see § 23-1109.</text>
+      <text>Uniform Narcotic Drug Act, search warrants, see § 48-902.04.</text>
+      <text>Weights, Measures, and Markets, warrantless searches by Director, see § 37-201.24.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-301.89a, § 23-522, § 23-523, and § 23-524.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 23-521.</text>
+      <text>1973 Ed., § 23-521.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-376 rewrote subsec. (d)(4), which formerly read:</text>
+      <text>"(4) constitutes evidence of or tends to demonstrate the commission of an offense or the identity of a person participating in the commission of an offense."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-104</heading>
+      <text>Law 7-104, the "Technical Amendments Act of 1987," was introduced in Council and assigned Bill No. 7-346, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 24, 1987 and December 8, 1987, respectively. Signed by the Mayor on December 22, 1987, it was assigned Act No. 7-124 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-376</heading>
+      <text>Law 18-376, the "Attorney General Subpoena Authority Authorization Amendment Act of 2010", was introduced in Council and assigned Bill No. 18-1009, which was referred to the Committee on Public Safety and the Judiciary. The Bill was adopted on first and second readings on November 9, 2010, and December 7, 2010, respectively. Signed by the Mayor on January 20, 2011, it was assigned Act No. 18-712 and transmitted to both Houses of Congress for its review. D.C. Law 18-376 became effective on June 3, 2011.</text>
     </level>
   </level>
 </level>

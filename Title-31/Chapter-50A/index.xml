@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>50A</num>
-  <heading>Title Insurance Insurers.</heading>
+  <heading>Title Insurance Insurers</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5031.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5031.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5031.03.xml"/>
@@ -13,7 +13,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5031.09.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5031.10.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5031.11.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5031.1.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5031.12.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5031.13.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5031.14.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5031.15.xml"/>

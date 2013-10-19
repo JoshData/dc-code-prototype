@@ -19,7 +19,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>If not otherwise fixed under § 29-305.03 or 29-305.07, the record date for determining shareholders entitled to demand a special meeting is the date the first shareholder signs the demand.</text>
+    <text>If not otherwise fixed under § 29-305.03 or [§] 29-305.07, the record date for determining shareholders entitled to demand a special meeting is the date the first shareholder signs the demand.</text>
   </level>
   <level>
     <num>(d)</num>
@@ -29,18 +29,18 @@
     <num>(e)</num>
     <text>Only business within the purpose or purposes described in the meeting notice required by § 29-305.05(c) may be conducted at a special shareholders' meeting.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-305.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

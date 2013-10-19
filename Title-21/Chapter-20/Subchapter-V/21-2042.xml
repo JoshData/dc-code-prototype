@@ -1,7 +1,6 @@
 <level type="section">
   <num>21-2042</num>
   <heading>Notice; guardianship proceeding.</heading>
-  <formerly-cited-as>DC ST 1981 § 21-2042</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>In a proceeding for the appointment of a guardian of an incapacitated individual, notice of a hearing shall be given to each of the following:</text>
@@ -34,27 +33,30 @@
     <num>(d)</num>
     <text>The individual alleged to be incapacitated may not waive notice.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 28, 1987, D.C. Law 6-204, § 2(a), 34 DCR 632; Mar. 24, 1998, D.C. Law 12-81, § 14(s), 45 DCR 745.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 21-2042.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-204, see Historical and Statutory Notes following § 21-2001.</text>
-        <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 21-2011.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 2-204 of the Uniform Guardianship and Protective Proceedings Act (1982 Act). See 8A Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 21-2041, § 21-2046, § 21-2053, and § 21-2068.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 21-2042.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-204</heading>
+      <text>For legislative history of D.C. Law 6-204, see Historical and Statutory Notes following § 21-2001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-81</heading>
+      <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 21-2011.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 2-204 of the Uniform Guardianship and Protective Proceedings Act (1982 Act).</text>
     </level>
   </level>
 </level>

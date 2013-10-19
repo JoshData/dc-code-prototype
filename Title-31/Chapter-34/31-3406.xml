@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-3406</num>
   <heading>Quality assurance program.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-4506</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A health maintenance organization shall establish procedures to assure that the health care services provided to enrollees shall be rendered under reasonable standards of quality of care consistent with prevailing professionally recognized standards of medical practice. Such procedures shall include mechanisms to assure availability, accessibility, and continuity of care.</text>
@@ -118,27 +117,30 @@
     <num>(j)</num>
     <text>The expense of the quality assurance examination shall be borne by the entity applying for the health maintenance organization certificate of authority or otherwise seeking to comply with this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 9, 1997, D.C. Law 11-235, § 7, 44 DCR 818; Mar. 27, 2003, D.C. Law 14-252, § 2(c), 50 DCR 225.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-4506.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-252 added subsecs. (i) and (j).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-235, see Historical and Statutory Notes following § 31-3401.</text>
-        <text>For Law 14-252, see notes following § 31-3402.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-3403 and § 31-3426.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-4506.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-252 added subsecs. (i) and (j).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-235</heading>
+      <text>For legislative history of D.C. Law 11-235, see Historical and Statutory Notes following § 31-3401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-252</heading>
+      <text>For Law 14-252, see notes following § 31-3402.</text>
     </level>
   </level>
 </level>

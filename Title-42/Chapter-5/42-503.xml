@@ -1,21 +1,16 @@
 <level type="section">
   <num>42-503</num>
-  <heading>Fee simple estates--Absolute or qualified.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-203</formerly-cited-as>
+  <heading>Fee simple estates - Absolute or qualified.</heading>
   <text>An estate in fee simple may be either absolute or qualified, as to one and his heirs during an existing condition of things of uncertain duration.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1901, 31 Stat. 1351, ch. 854, § 1013.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-203.</text>
-        <text>1973 Ed., § 45-803.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-203.</text>
+      <text>1973 Ed., § 45-803.</text>
     </level>
   </level>
 </level>

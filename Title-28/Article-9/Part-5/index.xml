@@ -1,7 +1,0 @@
-<level type="toc">
-  <prefix>Part</prefix>
-  <num>5</num>
-  <heading>Filing.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-1/index.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-2/index.xml"/>
-</level>

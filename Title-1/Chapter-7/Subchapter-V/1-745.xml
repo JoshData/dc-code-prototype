@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-745</num>
   <heading>Bonding.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-745</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -56,7 +55,7 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Any bond shall have as surety thereon a corporate surety company which is an acceptable surety on federal bonds under authority granted by the Secretary of the Treasury pursuant to §§ 6 through 13 of Title 6, United States Code. Any bond shall be in a form or of a type approved by the Council, including individual bonds or schedule or blanket forms of bonds which cover a group or class.</text>
+      <text>Any bond shall have as surety thereon a corporate surety company which is an acceptable surety on federal bonds under authority granted by the Secretary of the Treasury pursuant to §§ 6 through 13 of Title 6, United States Code [repealed]. Any bond shall be in a form or of a type approved by the Council, including individual bonds or schedule or blanket forms of bonds which cover a group or class.</text>
     </level>
   </level>
   <level>
@@ -75,23 +74,19 @@
     <num>(e)</num>
     <text>The Council shall prescribe such regulations as may be necessary to carry out the provisions of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Nov. 17, 1979, 93 Stat. 866, Pub. L. 96-122, § 185.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-745.</text>
-        <text>1973 Ed., § 1-1845.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>"Sections 6 through 13 of Title 6, United States Code," referred to in subsection (a)(5), were repealed by § 5(b) of the Act of September 13, 1982, Pub. L. 97-258, 96 Stat. 1068.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-745.</text>
+      <text>1973 Ed., § 1-1845.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>"Sections 6 through 13 of Title 6, United States Code," referred to in subsection (a)(5), were repealed by § 5(b) of the Act of September 13, 1982, Pub. L. 97-258, 96 Stat. 1068.</text>
     </level>
   </level>
 </level>

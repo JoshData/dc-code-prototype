@@ -1,25 +1,21 @@
 <level type="placeholder">
   <reason>Repealed</reason>
   <section>44-781</section>
-  <heading>Admission of pay patients to Glenn Dale Hospital.  </heading>
-  <level>
-    <type>annotations</type>
+  <heading>Admission of pay patients to Glenn Dale Hospital.</heading>
+  <text>Repealed.</text>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 7, 1924, 43 Stat. 568, ch. 302, § 1; Feb. 24, 1984, D.C. Law 5-48, § 12(g), 30 DCR 5778.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-111.</text>
-        <text>1973 Ed., § 32-310.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-48, see Historical and Statutory Notes following § 44-771.</text>
-        <text>DC CODE § 44-781</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-111.</text>
+      <text>1973 Ed., § 32-310.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-48</heading>
+      <text>For legislative history of D.C. Law 5-48, see Historical and Statutory Notes following § 44-771.</text>
     </level>
   </level>
 </level>

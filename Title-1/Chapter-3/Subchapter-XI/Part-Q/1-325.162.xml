@@ -29,18 +29,18 @@
       <text>Private gifts.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 12, 2010, D.C. Law 18-218, § 3, 57 DCR 5396.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-218, see notes following § 1-325.161.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-325.161.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-218</heading>
+      <text>For Law 18-218, see notes following § 1-325.161.</text>
     </level>
   </level>
 </level>

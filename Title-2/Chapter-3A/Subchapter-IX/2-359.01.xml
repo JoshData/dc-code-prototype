@@ -25,21 +25,17 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>The disciplinary action prescribed by this paragraph shall be in accordance with subchapter XVI-A of Chapter 6 of Title 1.</text>
+      <text>The disciplinary action prescribed by this paragraph shall be in accordance with subchapter XVI-A of Chapter 6 of Title 1 [§ 1-616.51 et seq.].</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2011, D.C. Law 18-371, § 901, 58 DCR 1185.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-371, see notes under § 2-351.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-371</heading>
+      <text>For history of Law 18-371, see notes under § 2-351.01.</text>
     </level>
   </level>
 </level>

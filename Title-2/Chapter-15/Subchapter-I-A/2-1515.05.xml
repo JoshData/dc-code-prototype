@@ -3,7 +3,7 @@
   <heading>Special authorities of the Department.</heading>
   <level>
     <num>(a)</num>
-    <text>When the Department has physical custody of a youth pursuant to § 16- 2320, it may:</text>
+    <text>When the Department has physical custody of a youth pursuant to § 16-2320, it may:</text>
     <level>
       <num>(1)</num>
       <text>Authorize a medical evaluation, emergency medical, surgical, or dental treatment, a psychiatric evaluation, or emergency outpatient psychiatric treatment, when reasonable efforts to secure the consent of the youth's parents or legal guardian have been made, but a parent or legal guardian cannot be consulted; and</text>
@@ -113,32 +113,35 @@
     <num>(k)</num>
     <text>The Department may expend funds from its operating budget, as considered necessary, to create, manage, operate, and implement programs and policies that further its objective to provide rehabilitative care and services to detained and committed youth in its care and custody, including spending appropriated funds for on-site employee meals.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 12, 2005, D.C. Law 15-335, § 105, 52 DCR 2025; Aug. 16, 2008, D.C. Law 17-219, § 5006, 55 DCR 7598.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-219 added subsec. (k).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 105 of Department of Youth Rehabilitation Services Establishment Emergency Act of 2004 (D.C. Act 15-657, December 29, 2004, 52 DCR 481).</text>
-        <text>For temporary (90 day) addition, see § 105 of Department of Youth Rehabilitation Services Establishment Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-58, March 17, 2005, 52 DCR 3182).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-335, see notes following § 2-1515.01.</text>
-        <text>For Law 17-219, see notes following § 2-218.75.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 5003 of D.C. Law 17-219 provided that subtitle C of title V of the act may be cited as the "On-site Meal Expenses Amendment Act of 2008".</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1515.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-219 added subsec. (k).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 105 of Department of Youth Rehabilitation Services Establishment Emergency Act of 2004 (D.C. Act 15-657, December 29, 2004, 52 DCR 481).</text>
+      <text>For temporary (90 day) addition, see § 105 of Department of Youth Rehabilitation Services Establishment Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-58, March 17, 2005, 52 DCR 3182).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-335</heading>
+      <text>For Law 15-335, see notes following § 2-1515.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-219</heading>
+      <text>For Law 17-219, see notes following § 2-218.75.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 5003 of D.C. Law 17-219 provided that subtitle C of title V of the act may be cited as the "On-site Meal Expenses Amendment Act of 2008".</text>
     </level>
   </level>
 </level>

@@ -1,12 +1,11 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>13</num>
-  <heading>Disturbances of the Public Peace.</heading>
+  <heading>Disturbances of the Public Peace</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1301.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1302~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1303~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1304~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1305~22-1306~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1305~22-1306~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1307.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1308.xml"/>
@@ -19,6 +18,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1314.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1314.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1315~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1316~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1317.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1318.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1319.xml"/>

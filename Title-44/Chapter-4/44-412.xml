@@ -1,7 +1,6 @@
 <level type="section">
   <num>44-412</num>
   <heading>Reconsideration of review decisions.</heading>
-  <formerly-cited-as>DC ST 1981 § 32-362</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>After a decision on an application for a new or renewal certificate of need is made by the SHPDA, the SHPDA shall notify the applicant, the SHCC, all previously appearing parties, and contiguous health planning agencies of the decision. The SHPDA shall give any person, for good cause shown, an opportunity within 30 days of the date of the notice to request reconsideration of a certificate of need decision at a public hearing before the SHPDA, which shall be held without charge. If a request demonstrates good cause, the SHPDA shall conduct a public hearing within 30 days of the request of reconsideration of the decision.</text>
@@ -34,22 +33,22 @@
     <num>(d)</num>
     <text>Upon reconsideration, the SHPDA shall issue finding giving the basis for its decision. The SHPDA may affirm, modify, or reverse its original decision. The SHPDA shall render its final decision in writing by issuing or denying a certificate of need within 15 days following the public hearing. The final decision shall not be reconsidered.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 9, 1997, D.C. Law 11-191, § 13, 43 DCR 4535.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-362.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-191, see Historical and Statutory Notes following § 44-401.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 44-413.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-362.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-191</heading>
+      <text>For legislative history of D.C. Law 11-191, see Historical and Statutory Notes following § 44-401.</text>
     </level>
   </level>
 </level>

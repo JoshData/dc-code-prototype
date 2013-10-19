@@ -1,14 +1,15 @@
 <level type="section">
   <num>38-1807.53</num>
   <heading>Development of fiscal year 1997 budget request.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-2853.73</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">In general.</text> -- The Board of Education shall develop its fiscal year 1997 gross operating budget and its fiscal year 1997 appropriated funds budget request in accordance with this section.</text>
+    <heading>In general</heading>
+    <text>The Board of Education shall develop its fiscal year 1997 gross operating budget and its fiscal year 1997 appropriated funds budget request in accordance with this section.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Fiscal Year 1996 Budget Revision.</text> -- Not later than 60 days after April 26, 1996, the Board of Education shall develop, approve, and submit to the Mayor, the District of Columbia Council, the Authority, and appropriate Congressional committees, a revised fiscal year 1996 gross operating budget that reflects the amount appropriated in the District of Columbia Appropriations Act, 1996, and which:</text>
+    <heading>Fiscal Year 1996 Budget Revision</heading>
+    <text>Not later than 60 days after April 26, 1996, the Board of Education shall develop, approve, and submit to the Mayor, the District of Columbia Council, the Authority, and appropriate Congressional committees, a revised fiscal year 1996 gross operating budget that reflects the amount appropriated in the District of Columbia Appropriations Act, 1996, and which:</text>
     <level>
       <num>(1)</num>
       <text>Is broken out on the basis of appropriated funds and nonappropriated funds, control center, responsibility center, agency reporting code, object class, and object; and</text>
@@ -20,11 +21,13 @@
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Zero-base budget.</text> -- For fiscal year 1997, the Board of Education shall build its gross operating budget and appropriated funds request from a zero-base, starting from the local school level through the central office level.</text>
+    <heading>Zero-Base budget</heading>
+    <text>For fiscal year 1997, the Board of Education shall build its gross operating budget and appropriated funds request from a zero-base, starting from the local school level through the central office level.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">School-by-school budgets.</text> -- The Board of Education's initial fiscal year 1997 gross operating budget and appropriated funds budget request submitted to the Mayor, the District of Columbia Council, and the Authority shall contain school-by-school budgets and shall also:</text>
+    <heading>School-by-school budgets</heading>
+    <text>The Board of Education's initial fiscal year 1997 gross operating budget and appropriated funds budget request submitted to the Mayor, the District of Columbia Council, and the Authority shall contain school-by-school budgets and shall also:</text>
     <level>
       <num>(1)</num>
       <text>Be broken out on the basis of appropriated funds and nonappropriated funds, control center, responsibility center, agency reporting code, object class, and object;</text>
@@ -38,18 +41,14 @@
       <text>Indicate the amount and reason for all changes made to the initial fiscal year 1997 gross operating budget and appropriated funds request from the revised fiscal year 1996 gross operating budget required by subsection (b) of this section.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 26, 1996, 110 Stat. 1321 [270], Pub. L. 104-134, § 2753.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-2853.73.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-2853.73.</text>
     </level>
   </level>
 </level>

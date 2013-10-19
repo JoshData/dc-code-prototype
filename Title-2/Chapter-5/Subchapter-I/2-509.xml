@@ -1,7 +1,6 @@
 <level type="section">
   <num>2-509</num>
   <heading>Contested cases.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-1509</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>In any contested case, all parties thereto shall be given reasonable notice of the afforded hearing by the Mayor or the agency, as the case may be. The notice shall state the time, place, and issues involved, but if, by reason of the nature of the proceeding, the Mayor or the agency determines that the issues cannot be fully stated in advance of the hearing, or if subsequent amendment of the issues is necessary, they shall be fully stated as soon as practicable, and opportunity shall be afforded all parties to present evidence and argument with respect thereto. The notice shall also state that if a party or witness is deaf, or because of a hearing impediment cannot readily understand or communicate the spoken English language, the party or witness may apply to the agency for the appointment of a qualified interpreter. Unless otherwise required by law, other than this subchapter, any contested case may be disposed of by stipulation, agreed settlement, consent order, or default.</text>
@@ -22,30 +21,70 @@
     <num>(e)</num>
     <text>Every decision and order adverse to a party to the case, rendered by the Mayor or an agency in a contested case, shall be in writing and shall be accompanied by findings of fact and conclusions of law. The findings of fact shall consist of a concise statement of the conclusions upon each contested issue of fact. Findings of fact and conclusions of law shall be supported by and in accordance with the reliable, probative, and substantial evidence. A copy of the decision and order and accompanying findings and conclusions shall be given by the Mayor or the agency, as the case may be, to each party or to his attorney of record.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Oct. 21, 1968, 82 Stat. 1208, Pub. L. 90-614, § 10; Oct. 8, 1975, D.C. Law 1-19, title I, § 102(gg)-(kk), 22 DCR 2054; Mar. 29, 1977, D.C. Law 1- 96, § 3(a), (c), 23 DCR 9532b; Feb. 11, 1982, D.C. Law 4-67, § 2(a), 28 DCR 5043; Jan. 28, 1988, D.C. Law 7-62, § 14(a), 34 DCR 7426.)</text>
+      <heading>History</heading>
+      <text>(Oct. 21, 1968, 82 Stat. 1208, Pub. L. 90-614, § 10; Oct. 8, 1975, D.C. Law 1-19, title I, § 102(gg)-(kk), 22 DCR 2054; Mar. 29, 1977, D.C. Law 1-96, § 3(a), (c), 23 DCR 9532b; Feb. 11, 1982, D.C. Law 4-67, § 2(a), 28 DCR 5043; Jan. 28, 1988, D.C. Law 7-62, § 14(a), 34 DCR 7426.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-1509.</text>
-        <text>1973 Ed., § 1-1509.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-19, see Historical and Statutory Notes following § 2-501.</text>
-        <text>For legislative history of D.C. Law 1-96, see Historical and Statutory Notes following § 2-531.</text>
-        <text>Law 4-67 was introduced in Council and assigned Bill No. 4-55, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on October 13, 1981 and October 27, 1981, respectively. Signed by the Mayor on November 9, 1981, it was assigned Act No. 4-113 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 7-62 was introduced in Council and assigned Bill No. 7-108, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on October 13, 1987 and October 27, 1987, respectively. Signed by the Mayor on November 5, 1987, it was assigned Act No. 7-95 and transmitted to both Houses of Congress for its review.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon §§ 9 and 10 of the Uniform Law Commissioners' Model State Administrative Procedure Act (1961 Act). See 15 Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Abandoned or unclaimed property, submission of claim for property, hearing following denial or failure to act on claim, see § 41-125.</text>
+      <text>Asbestos workers or businesses, reprimands and suspension or revocation of license or permit, grounds and procedure, see § 8-111.06.</text>
+      <text>Banks and banking, regional interstate banking, nonregional bank holding companies, hearing to determine compliance with orders as to commitments, see § 26-706.01.</text>
+      <text>Banks and banking, savings and loan acquisitions, hearing to determine compliance with orders as to commitments, see §§ 26-1204 and 26-1205.</text>
+      <text>Boxing and wrestling commission, permits and licenses, revocation and suspension, contested case provisions applicable to revocation and suspension proceedings, see § 3-606.</text>
+      <text>Child development facilities regulation, duty of mayor to develop administrative procedures for hearings, contested hearing procedure, see § 7-2036.</text>
+      <text>Compulsory/no-fault motor vehicle insurance, taxicab waiver, hearings to determine minimum liability insurance requirements during waiver period, see § 31-2411.</text>
+      <text>Consumer protection procedures, complaint procedure, application of Administrative Procedure Act, § 28-3905.</text>
+      <text>District of Columbia Court of Appeals, jurisdiction, administrative orders and decisions, see § 11-722.</text>
+      <text>Emergency executive orders, applicability of contested cases provision, see § 7-2308.</text>
+      <text>Employment services licensing and regulation, application for license, right to hearing when application rejected, see § 32-402.</text>
+      <text>Employment services, violations, cease and desist orders, hearing procedure, see § 32-412.</text>
+      <text>Environmental controls, underground storage tank management, proposed orders, finality of orders, requests for hearing, contested hearing procedure, see § 8-113.09.</text>
+      <text>Funeral directors, violations, contested hearing procedures applicable to hearing on written complaint, see § 3-409.</text>
+      <text>General license law, grounds for suspension or revocation of licenses, hearing procedure, see § 47-2844.</text>
+      <text>Hazardous waste management, hearing following adverse action, contested case procedure to apply, see § 8-1308.</text>
+      <text>Health services planning, administrative appeal, contested cases to be heard by Board of appeals and review, see § 44-413.</text>
+      <text>Insurance, insurance companies deemed to be in hazardous financial condition, corrective action, requests for hearing, hearing procedure, see § 31-2102.</text>
+      <text>Money lenders, complaints, investigations, right to contested hearing prior to suspension, revocation or denial of license, see § 26-906.</text>
+      <text>Motor vehicles and traffic, motor vehicle safety responsibility, hearing procedure applicable to administrative actions see § 50-1301.04.</text>
+      <text>Motor vehicles and traffic, operators' permits, application of Administrative Procedure Act to administrative actions affecting permits, see § 50-1403.01.</text>
+      <text>Public utilities, water and sewer services, right to contest water or sewer bill, hearing procedure, see § 34-2305.</text>
+      <text>Regional interstate banking, bank holding company, failure to fulfill express written commitments, compliance order, hearing to determine compliance, see § 26-704.</text>
+      <text>Rental housing conversion and sale, implementation and enforcement, administrative proceedings, hearing procedure, see § 42-3405.08.</text>
+      <text>Solid waste management, solid waste facility permits, hearing after adverse action, contested case procedures to apply, see § 8-1059.</text>
+      <text>Substance abuse and mental illness insurance coverage, rates and rating plans, adjustment of rates following contested hearing, see § 31-3109.</text>
+      <text>Substance abuse treatment and prevention, certification of treatment facilities, notice and hearing before suspension or revocation of license, see § 44-1204.</text>
+      <text>Veterinarians, contested case provisions applicable to hearings on written complaints, see § 3-510.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-1171.04, § 3-409, § 3-510, § 3-606, § 7-1231.12, § 7-2036, § 7-2308, § 8-111.06, § 8-113.09, § 8-231.15, § 8-1059, § 8-1308, § 25-354, § 26-704, § 26-706.01, § 26-906, § 26-1204, § 26-1205, § 28-3905, § 31-903, § 31-2102, § 31-2231.23, § 31-2411, § 31-3109, § 31-5238.02, § 31-5608.03, § 32-402, § 32-412, § 34-2305, § 41-125, § 42-3405.08, § 44-413, § 44-1204, § 46-225.01, § 46-226.03, § 47-2844, § 48-108.01, § 50-1301.04, and § 50-1403.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-1509.</text>
+      <text>1973 Ed., § 1-1509.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-19</heading>
+      <text>For legislative history of D.C. Law 1-19, see Historical and Statutory Notes following § 2-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-96</heading>
+      <text>For legislative history of D.C. Law 1-96, see Historical and Statutory Notes following § 2-531.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-67</heading>
+      <text>Law 4-67 was introduced in Council and assigned Bill No. 4-55, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on October 13, 1981 and October 27, 1981, respectively. Signed by the Mayor on November 9, 1981, it was assigned Act No. 4-113 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-62</heading>
+      <text>Law 7-62 was introduced in Council and assigned Bill No. 7-108, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on October 13, 1987 and October 27, 1987, respectively. Signed by the Mayor on November 5, 1987, it was assigned Act No. 7-95 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon §§ 9 and 10 of the Uniform Law Commissioners' Model State Administrative Procedure Act (1961 Act).</text>
     </level>
   </level>
 </level>

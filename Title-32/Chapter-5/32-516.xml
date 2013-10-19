@@ -1,34 +1,27 @@
 <level type="section">
   <num>32-516</num>
   <heading>Applicability.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-1316</formerly-cited-as>
   <text>The rights and responsibilities established by this chapter shall apply:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>During the 3-year period beginning 180 days from October 3, 1990, to any employer who employs 50 or more persons in the District; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>After the 3-year period beginning 180 days from October 3, 1990, to any employer who employs 20 or more persons in the District.</text>
-    </level>
+    <num>(1)</num>
+    <text>During the 3-year period beginning 180 days from October 3, 1990, to any employer who employs 50 or more persons in the District; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>After the 3-year period beginning 180 days from October 3, 1990, to any employer who employs 20 or more persons in the District.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 3, 1990, D.C. Law 8-181, § 17, 37 DCR 5043.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-1316.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-181, see Historical and Statutory Notes following § 32-501.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-1316.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-181</heading>
+      <text>For legislative history of D.C. Law 8-181, see Historical and Statutory Notes following § 32-501.</text>
     </level>
   </level>
 </level>

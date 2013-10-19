@@ -1,61 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>8</num>
-  <heading>Limited Liability Companies.</heading>
-  <level>
-    <text>
-      <text font="'monospace'"> -------------------------------------------------------------------------------</text>
-    </text>
-    <text>
-      <text font="'monospace'">-------------------------------------------------------------------------------</text>
-    </text>
-    <text>
-      <text font="'monospace'"> Jurisdiction Laws Effective Statutory Citation </text>
-    </text>
-    <text>
-      <text font="'monospace'"> Date </text>
-    </text>
-    <text>
-      <text font="'monospace'">-------------------------------------------------------------------------------</text>
-    </text>
-    <text>
-      <text font="'monospace'">District of </text>
-    </text>
-    <text>
-      <text font="'monospace'"> Columbia .... 2011, 18-378 7-2-2011 D.C. Official Code, 2001 Ed., §§ </text>
-    </text>
-    <text>
-      <text font="'monospace'"> 29-801.01 to 29-810.01. </text>
-    </text>
-    <text>
-      <text font="'monospace'">Idaho ......... 2008, c. 176 7-1-2008 I.C. §§ 30-6-101 to 30-6-1104. </text>
-    </text>
-    <text>
-      <text font="'monospace'">Iowa .......... 2008, H.F. 1-1-2009 I.C.A. §§ 489.101 to 489.1304. </text>
-    </text>
-    <text>
-      <text font="'monospace'"> 2633 </text>
-    </text>
-    <text>
-      <text font="'monospace'">Nebraska ...... 2010, L.B. 1-1-2011 R.R.S. 1943, §§ 21-101 to 21-197. </text>
-    </text>
-    <text>
-      <text font="'monospace'"> 888 </text>
-    </text>
-    <text>
-      <text font="'monospace'">Utah .......... 2011, c. 353 7-1-2012 UCA §§ 48-3-101 to 48-3-1405. </text>
-    </text>
-    <text>
-      <text font="'monospace'">Wyoming ....... 2010, c. 94 7-1-2010 Wyo.Stat.Ann. §§ 17-29-101 to </text>
-    </text>
-    <text>
-      <text font="'monospace'"> 17-29-1105. </text>
-    </text>
-    <text>
-      <text font="'monospace'">-------------------------------------------------------------------------------</text>
-    </text>
-    <text>DC CODE D. V, T. 29, Ch. 8, Refs &amp; Annos</text>
-  </level>
+  <heading>Limited Liability Companies</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-III/index.xml"/>

@@ -1,12 +1,12 @@
 <level type="section">
   <num>29-1113</num>
-  <heading>Member meeting, voting and notice requirements.</heading>
+  <heading>Procedural requirements for member meetings.</heading>
   <level>
     <num>(a)</num>
     <text>Unless an unincorporated nonprofit association's governing principles provide otherwise:</text>
     <level>
       <num>(1)</num>
-      <text>Approval of a matter by members shall require an affirmative majority of the votes cast at a meeting of members; and</text>
+      <text>Approval of a matter by the members shall require an affirmative majority of the votes cast at a meeting of members; and</text>
     </level>
     <level>
       <num>(2)</num>
@@ -15,24 +15,53 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>Notice and quorum requirements for member meetings and the conduct of meetings of members shall be determined by the governing principles.</text>
-  </level>
-  <level>
-    <type>annotations</type>
+    <text>The governing principles may provide for the:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <num>(1)</num>
+      <text>Calling, location, and timing of member meetings;</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 17 of the Uniform Unincorporated Nonprofit Association Act (2008 Act) . See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <num>(2)</num>
+      <text>Notice and quorum requirements for member meetings;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Conduct of member meetings;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Taking of action by the members by consent without a meeting or casting ballots; and</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Participation by members in a member meeting by telephone or other means of electronic communication.</text>
+    </level>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>If the governing principles do not provide for a matter described in subsection (b) of this section, customary usages and principles of parliamentary law and procedure apply.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(k)(4), 59 DCR 13171.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "Procedural requirements for member meetings" for "Member Meeting, voting and notice requirements" in the section heading; substituted "the members" for "members" in (a)(1); rewrote (b); and added (c).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-1106.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 17 of the Uniform Unincorporated Nonprofit Association Act (2008 Act).</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

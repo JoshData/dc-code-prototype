@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Wire Interception and Interception of Oral Communications.</heading>
-  <level>
-    <text>DC CODE D. IV, T. 23, Ch. 5, Subch. III, Refs &amp; Annos</text>
-  </level>
+  <heading>Wire Interception and Interception of Oral Communications</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-541.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-542.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-543.xml"/>

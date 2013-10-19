@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Procedure.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 47, Ch. 15, Subch. II, Refs &amp; Annos</text>
-  </level>
+  <heading>Procedure</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1521.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1522.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1523.xml"/>

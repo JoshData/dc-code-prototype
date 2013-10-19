@@ -25,18 +25,14 @@
     <num>(b)</num>
     <text>The Department of Health reserves the right to conduct regular participant surveys to ensure compliance with the terms and conditions of the Program.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2006, D.C. Law 16-71, § 13, 53 DCR 61.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-71, see notes following § 7-751.01.</text>
-      </level>
+      <heading>Legislative History of Law 16-71</heading>
+      <text>For Law 16-71, see notes following § 7-751.01.</text>
     </level>
   </level>
 </level>

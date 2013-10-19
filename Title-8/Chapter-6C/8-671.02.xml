@@ -11,14 +11,14 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>An environmental agency is bound by any obligation it assumes in an environmental covenant, but and environmental agency does not assume obligations merely by signing an environmental covenant. Any other person that signs an environmental covenant is bound by the obligations the person assumes in the covenant, but signing the covenant does not change obligations, rights, or protections granted or imposed under law other than this chapter except as provided in the covenant.</text>
+    <text>An environmental agency is bound by any obligation it assumes in an environmental covenant, but an environmental agency does not assume obligations merely by signing an environmental covenant. Any other person that signs an environmental covenant is bound by the obligations the person assumes in the covenant, but signing the covenant does not change obligations, rights, or protections granted or imposed under law other than this chapter except as provided in the covenant.</text>
   </level>
   <level>
     <num>(d)</num>
     <text>The following rules apply to interests in real property in existence at the time an environmental covenant is created or amended:</text>
     <level>
       <num>(1)</num>
-      <text>An interest that has priority under any other law is not affected by an environmental covenant unless the person that owns the interest subordinates that interest to the covenant.</text>
+      <text>An interest that has priority under other law is not affected by an environmental covenant unless the person that owns the interest subordinates that interest to the covenant.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -26,7 +26,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>A subordination agreement may be contained in an environmental covenant covering real property or in a separate record. If the environmental covenant covers commonly owned property in a common- interest community, the record may be signed by any person authorized by the governing board of the owners' association.</text>
+      <text>A subordination agreement may be contained in an environmental covenant covering real property or in a separate record. If the environmental covenant covers commonly owned property in a common-interest community, the record may be signed by any person authorized by the governing board of the owners' association.</text>
     </level>
     <level>
       <num>(4)</num>
@@ -37,22 +37,22 @@
     <num>(e)</num>
     <text>The Environmental Health Administration, or it successor, shall have regulatory authority over real property transfers from the federal government or a federal agency to a non-federal owner.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 12, 2006, D.C. Law 16-95, § 102, 53 DCR 1652.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-95, see notes following § 8-671.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 2 of the Uniform Environmental Covenants Act. See 13, Part 1, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-671.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-95</heading>
+      <text>For Law 16-95, see notes following § 8-671.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 2 of the Uniform Environmental Covenants Act.</text>
     </level>
   </level>
 </level>

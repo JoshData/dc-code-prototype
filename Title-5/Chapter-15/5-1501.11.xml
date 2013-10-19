@@ -6,7 +6,7 @@
     <text>There is established a Science Advisory Board, which shall consist of 9 voting members to be appointed pursuant to § 1-523.01(f), as follows:</text>
     <level>
       <num>(1)</num>
-      <text>Five scientists with experience in scientific research and methodology, who have published in peer-reviewed scientific journals, including:</text>
+      <text>Five scientists with experience in scientific research and methodology, who have published in peer-reviewed scientific journals, and who are not currently employed by the Department or by a law enforcement laboratory or agency, including:</text>
       <level>
         <num>(A)</num>
         <text>One statistician; and</text>
@@ -56,18 +56,30 @@
     <num>(g)</num>
     <text>Minutes shall be prepared for each meeting. A transcript or detailed summary shall meet this requirement.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Aug. 17, 2011, D.C. Law 19-18, § 12, 58 DCR 5403.)</text>
+      <heading>History</heading>
+      <text>(Aug. 17, 2011, D.C. Law 19-18, § 12, 58 DCR 5403; June 19, 2013, D.C. Law 19-320, § 507, 60 DCR 3390.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-18, see notes under § 5-1501.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-523.01 and § 5-1501.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-320 inserted "and who are not currently employed by the Department or by a law enforcement laboratory or agency" in (a)(1).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of (a)(1), see § 507 of the Omnibus Criminal Code Amendments Emergency Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013, 60 DCR 1017).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-18</heading>
+      <text>For history of Law 19-18, see notes under § 5-1501.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-320</heading>
+      <text>Law 19-320, the "Omnibus Criminal Code Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-645. The Bill was adopted on first and second readings on Dec. 4, 2012, and Dec. 18, 2012, respectively. Signed by the Mayor on Feb. 11, 2013, it was assigned Act No. 19-677 and transmitted to Congress for its review. D.C. Law 19-320 became effective on June 19, 2013.</text>
     </level>
   </level>
 </level>

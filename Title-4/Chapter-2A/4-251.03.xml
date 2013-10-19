@@ -62,6 +62,22 @@
     </level>
   </level>
   <level>
+    <num>(a-1)</num>
+    <text>The Mayor may waive the eligibility requirements established in subsection (a)(1) and (2) of this section if:</text>
+    <level>
+      <num>(1)</num>
+      <text>The Agency determines that the child is at risk of removal from the parent, guardian, or custodian pursuant to § 4-1301.07;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The parent, guardian, or custodian permits the grandparent to be the child's primary caregiver; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The parent, guardian, or custodian permits the child to reside with the grandparent.</text>
+    </level>
+  </level>
+  <level>
     <num>(b)</num>
     <level>
       <num>(1)</num>
@@ -79,7 +95,7 @@
       <text>The Mayor shall terminate subsidy payments to a grandparent at any time if:</text>
       <level>
         <num>(A)</num>
-        <text>The Mayor determines the grandparent no longer meets the eligibility requirements established by this section, or by rules issued under § 4- 251.06; or</text>
+        <text>The Mayor determines the grandparent no longer meets the eligibility requirements established by this section, or by rules issued under § 4-251.06; or</text>
       </level>
       <level>
         <num>(B)</num>
@@ -103,30 +119,37 @@
     <num>(f)</num>
     <text>Any statement under this section made with knowledge that the information set forth therein is false shall be subject to prosecution as a false statement under § 22-2405(a).</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 8, 2006, D.C. Law 16-69, § 103, 53 DCR 54; Sept. 20, 2007, D.C. Law 17-21, § 3(a), 54 DCR 6835.)</text>
+      <heading>History</heading>
+      <text>(Mar. 8, 2006, D.C. Law 16-69, § 103, 53 DCR 54; Sept. 20, 2007, D.C. Law 17-21, § 3(a), 54 DCR 6835; Apr. 20, 2013, D.C. Law 19-261, § 2, 60 DCR 1296.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-21, in subsec. (a), rewrote pars. (1) and (3) and added par. (8A); and added subsec. (f). Prior to amendment, pars. (1) and (3) of subsec. (a) read as follows:</text>
-        <text>"(1) The grandparent has an order granting him or her legal custody or standby guardianship pursuant to § 16-4806 of the child;"</text>
-        <text>"(3) The child's parent has not resided in the grandparent's home for at least the previous 6 months; provided, that a parent who has designated the grandparent to be the child's standby guardian pursuant to Chapter 48 of Title 16 may reside in the home without disqualifying the grandparent from receiving a subsidy;".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 103 of Grandparent Caregivers Pilot Program Establishment Emergency Act of 2006 (D.C. Act 16-278, February 22, 2006, 53 DCR 1459).</text>
-        <text>For temporary (90 day) amendment of section, see § 3(a) of Safe and Stable Homes for Children and Youth Emergency Amendment Act of 2007 (D.C. Act 17-69, July 9, 2007, 54 DCR 6826).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-69, see notes following § 4-251.01.</text>
-        <text>Law 17-21, the "Safe and Stable Homes for Children and Youth Amendment Act of 2007", was introduced in Council and assigned Bill No. 17-41 which was referred to the Committees of Human Services and Public Safety and Judiciary. The Bill was adopted on first and second readings on June 5, 2007, and June 21, 2007, respectively. Signed by the Mayor on July 9, 2007, it was assigned Act No. 17- 70 and transmitted to both Houses of Congress for its review. D.C. Law 17-21 became effective on September 20, 2007.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-251.05.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-21, in subsec. (a), rewrote pars. (1) and (3) and added par. (8A); and added subsec. (f).</text>
+      <text>The 2013 amendment by D.C. Law 19-261 added (a-1).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 103 of Grandparent Caregivers Pilot Program Establishment Emergency Act of 2006 (D.C. Act 16-278, February 22, 2006, 53 DCR 1459).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(a) of Safe and Stable Homes for Children and Youth Emergency Amendment Act of 2007 (D.C. Act 17-69, July 9, 2007, 54 DCR 6826).</text>
+      <text>For temporary addition of (a-1), see § 2 of the Grandparent Caregivers Program Emergency Amendment Act of 2012 (D.C. Act 19-571, December 20, 2012, 60 DCR 97.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-69</heading>
+      <text>For Law 16-69, see notes following § 4-251.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-21</heading>
+      <text>Law 17-21, the "Safe and Stable Homes for Children and Youth Amendment Act of 2007", was introduced in Council and assigned Bill No. 17-41 which was referred to the Committees of Human Services and Public Safety and Judiciary. The Bill was adopted on first and second readings on June 5, 2007, and June 21, 2007, respectively. Signed by the Mayor on July 9, 2007, it was assigned Act No. 17-70 and transmitted to both Houses of Congress for its review. D.C. Law 17-21 became effective on September 20, 2007.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-261</heading>
+      <text>Law 19-261, the "Grandparent Caregivers Program Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-1000. The Bill was adopted on first and second readings on Dec. 4, 2012, and Dec. 18, 2012, respectively. Signed by the Mayor on Jan. 14, 2013, it was assigned Act No. 19-613 and transmitted to Congress for its review. D.C. Law 19-261 became effective on Apr. 20, 2013.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-1009</num>
   <heading>Posting of act and regulations on premises; distribution of copies to employers.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-220.8</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Every employer who is subject to any provision of this subchapter or any regulation issued under this subchapter shall keep a copy or summary of this subchapter and any applicable regulation issued under this subchapter, in a form prescribed or approved by the Mayor, posted in a conspicuous and accessible place in or about the premises at which any employee covered by the regulation is employed.</text>
@@ -10,22 +9,22 @@
     <num>(b)</num>
     <text>Employers shall be furnished copies or summaries of this subchapter by the Mayor on request without charge.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1993, D.C. Law 9-248, § 10, 40 DCR 761.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-220.8.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 9-248, see Historical and Statutory Notes following § 32-1001.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-1010.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-220.8.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-248</heading>
+      <text>For legislative history of D.C. Law 9-248, see Historical and Statutory Notes following § 32-1001.</text>
     </level>
   </level>
 </level>

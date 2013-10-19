@@ -2,10 +2,9 @@
   <num>50-1301.77</num>
   <heading>Effect of headings.</heading>
   <text>Subchapter and section headings contained herein shall not be deemed to govern, limit, modify or in any manner affect the scope, meaning or intent of the provisions of any subchapter hereof.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 25, 1954, 68 Stat. 139, ch. 222, § 77.)</text>
     </level>
   </level>

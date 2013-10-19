@@ -1,17 +1,14 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>School Attendance.</heading>
-  <level>
-    <text>DC CODE D. VI, T. 38, Subt. I, Ch. 2, Subch. I, Refs &amp; Annos</text>
-  </level>
+  <heading>School Attendance</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-201.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-202.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-203.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-204.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-205.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-206.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-207.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-207~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-208~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-209.xml"/>
 </level>

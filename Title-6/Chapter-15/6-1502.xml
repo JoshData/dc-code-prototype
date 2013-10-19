@@ -1,7 +1,6 @@
 <level type="section">
   <num>6-1502</num>
   <heading>Requirements for new economic development zones.</heading>
-  <formerly-cited-as>DC ST 1981 § 5-1402</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor may recommend as an economic development zone eligible for tax and other development incentives any area within the District of Columbia in which exists pervasive poverty, unemployment, or general economic distress as evidenced by 1 or more of the following factors:</text>
@@ -50,22 +49,22 @@
       <text>The level of private sector commitments to an economic development zone.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 20, 1988, D.C. Law 7-177, § 3, 35 DCR 6158.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 5-1402.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-177, see Historical and Statutory Notes following § 6-1501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-1501.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 5-1402.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-177</heading>
+      <text>For legislative history of D.C. Law 7-177, see Historical and Statutory Notes following § 6-1501.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-2853.194</num>
   <heading>Fiduciary duties when representing a tenant.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-2853.194</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A licensee engaged by a tenant shall:</text>
@@ -22,7 +21,7 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>Disclosing to the tenant material facts related to the property or concerning the transaction of which the licensee has actual knowledge, provided that nothing in this section shall amend or limit in any way the provisions of § 42-1755(f); and</text>
+        <text>Disclosing to the tenant material facts related to the property or concerning the transaction of which the licensee has actual knowledge, provided that nothing in this section shall amend or limit in any way the provisions of § 42-1755(f) [repealed]; and</text>
       </level>
       <level>
         <num>(D)</num>
@@ -58,22 +57,18 @@
     <num>(e)</num>
     <text>Licensees shall disclose brokerage relationships pursuant to the provisions of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 20, 1999, D.C. Law 12-261, § 1002, 46 DCR 3142.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-2853.194.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-2853.194.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-261</heading>
+      <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
     </level>
   </level>
 </level>

@@ -1,43 +1,36 @@
 <level type="section">
   <num>20-743.01</num>
   <heading>Sale, encumbrance, or transaction involving conflict of interest; voidable; exceptions.</heading>
-  <formerly-cited-as>DC ST 1981 § 20-743.1</formerly-cited-as>
   <text>Any sale, lease, or encumbrance to the personal representative, the personal representative's spouse, agent or attorney, or any corporation, trust, or other entity in which such individual has a substantial beneficial interest, or any other transaction which is affected by a substantial conflict of interest on the part of the personal representative, may be set aside by the Court in proceedings initiated by any interested person except one who has consented after fair disclosure (and any person or entity claiming by or through such interested person) unless:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>the will authorized such dealings with the personal representative, either generally or with regard to a specific transaction or type of transaction;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>a contract entered into by the decedent authorized such a transaction; or</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>the transaction is approved by the Court after notice to the interested persons.</text>
-    </level>
+    <num>(1)</num>
+    <text>the will authorized such dealings with the personal representative, either generally or with regard to a specific transaction or type of transaction;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>a contract entered into by the decedent authorized such a transaction; or</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>the transaction is approved by the Court after notice to the interested persons.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 21, 1995, D.C. Law 10-241, § 3(bbb), 42 DCR 63.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 20-743.1.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-241, see Historical and Statutory Notes following § 20-701.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Application of Law 10-241: See Application of Law 10-241 and Emergency act amendment notes to § 20-701.01.</text>
-        <text>Section 32(e) of D.C. Law 15-354 provides that the section designation of § 20-743.1 of the District of Columbia Official Code is redesignated as § 20- 743.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 20-743.1.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-241</heading>
+      <text>For legislative history of D.C. Law 10-241, see Historical and Statutory Notes following § 20-701.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 10-241: See Application of Law 10-241 and Emergency act amendment notes to § 20-701.01.</text>
+      <text>Section 32(e) of D.C. Law 15-354 provided that the section designation of § 20-743.1 of the District of Columbia Official Code is redesignated as § 20-743.01.</text>
     </level>
   </level>
 </level>

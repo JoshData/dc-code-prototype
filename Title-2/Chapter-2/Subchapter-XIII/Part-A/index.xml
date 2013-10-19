@@ -1,18 +1,18 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>A</num>
-  <heading>General.</heading>
+  <heading>General</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.01~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.02~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.03~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.04~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.05~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.06~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.07~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.08~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.09~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.10~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.11.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.11~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.12~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.13~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-225.14~P.xml"/>

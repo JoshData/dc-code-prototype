@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>D</num>
-  <heading>Programs for Certified Business Enterprises.</heading>
+  <heading>Programs for Certified Business Enterprises</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-1/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-2/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-3/index.xml"/>

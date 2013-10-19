@@ -65,7 +65,7 @@
       </level>
       <level>
         <num>(I)</num>
-        <text>For elementary schools, whether your school participates in the Fresh Fruit and Vegetable Snack Program;</text>
+        <text>For elementary schools, whether the school participates in the Fresh Fruit and Vegetable Snack Program;</text>
       </level>
       <level>
         <num>(J)</num>
@@ -73,11 +73,11 @@
       </level>
       <level>
         <num>(K)</num>
-        <text>Whether the school has vending machines and if so, how many vending machines, the hours of operation of said vending machines, and what items are sold from the machines; and</text>
+        <text>Whether the schools has vending machines and if so, how many vending machines, the hours of operation of said vending machines, and what items are sold from the machines; and</text>
       </level>
       <level>
         <num>(L)</num>
-        <text>Whether the schools has a school store and if so, what food and beverages are sold and the hours of operation;</text>
+        <text>Whether the school has a school store and if so, what food and beverages are sold and the hours of operation;</text>
       </level>
     </level>
     <level>
@@ -121,33 +121,42 @@
     <num>(d)</num>
     <text>The Office of the State Superintendent of Education shall post the information required by subsection (a) of this section on its website within 30 days of receipt.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 27, 2010, D.C. Law 18-209, § 602, 57 DCR 4779; Oct. 20, 2011, D.C. Law 19-37, § 2(l), 58 DCR 6841; Sept. 20, 2012, D.C. Law 19-168, § 4062(m), 59 DCR 8025; Sept. 26, 2012, D.C. Law 19-171, § 94, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-37, in the lead-in language of subsec. (a), substituted "February 18" for "January 18"; in subsec. (a)(1)(D), substituted "certified or highly qualified health teacher" for "certified health teacher"; in subsec. (a)(2)(D), deleted "and" from the end; and added subsecs. (a)(2)(F) to (L).</text>
-        <text>D.C. Law 19-168, in subsec. (d), substituted "30" for "14".</text>
-        <text>D.C. Law 19-171, in subsecs. (a)(2)(H) to (L), substituted "Whether the school" for "Whether your school".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(l) of Healthy Schools Emergency Amendment Act of 2011 (D.C. Act 19-143, August 9, 2011, 58 DCR 6814).</text>
-        <text>For temporary (90 day) amendment of section, see § 4062(m) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
-        <text>For temporary (90 day) amendment of section, see § 4062(m) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-209, see notes following § 38-821.01.</text>
-        <text>For history of Law 19-37, see notes under § 38-821.01.</text>
-        <text>For history of Law 19-168, see notes under § 38-751.01.</text>
-        <text>For history of Law 19-171, see notes under § 38-192.01.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 19-37, in the lead-in language of subsec. (a), substituted "February 18" for "January 18"; in subsec. (a)(1)(D), substituted "certified or highly qualified health teacher" for "certified health teacher"; in subsec. (a)(2)(D), deleted "and" from the end; and added subsecs. (a)(2)(F) to (L).</text>
+      <text>The 2012 amendment by D.C. Law 19-168 substituted "30 days" for "14 days" in (d).</text>
+      <text>The 2012 amendment by D.C. Law 19-171 substituted "Whether the school" for "Whether your school" in (a)(2)(H) through (a)(2)(L).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(l) of Healthy Schools Emergency Amendment Act of 2011 (D.C. Act 19-143, August 9, 2011, 58 DCR 6814).</text>
+      <text>For temporary (90 day) amendment of section, see § 4062(m) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
+      <text>For temporary (90 day) amendment of section, see § 4062(m) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-209</heading>
+      <text>For Law 18-209, see notes following § 38-821.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-37</heading>
+      <text>For history of Law 19-37, see notes under § 38-821.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>See note to § 38-821.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 4063 of D.C. Law 19-168 provided that § 4062 of the act shall apply as of June 20, 2012.</text>
     </level>
   </level>
 </level>

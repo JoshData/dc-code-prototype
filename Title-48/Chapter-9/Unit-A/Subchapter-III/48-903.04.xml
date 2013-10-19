@@ -1,7 +1,6 @@
 <level type="section">
   <num>48-903.04</num>
-  <heading>Registration--Suspension; revocation; forfeiture of substances.</heading>
-  <formerly-cited-as>DC ST 1981 § 33-534</formerly-cited-as>
+  <heading>Registration - Suspension; revocation; forfeiture of substances.</heading>
   <level>
     <num>(a)</num>
     <text>A registration issued under § 48-903.03 to manufacture, distribute, or dispense a controlled substance may be suspended or revoked by the Mayor upon a finding that the registrant:</text>
@@ -38,23 +37,26 @@
     <num>(e)</num>
     <text>The Mayor shall promptly notify the D.E.A. of all orders suspending or revoking registration and all forfeitures of controlled substances.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 5, 1981, D.C. Law 4-29, § 304, 28 DCR 3081; July 24, 1998, D.C. Law 12-136, § 2(c), 45 DCR 2942.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 33-534.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-29, see Historical and Statutory Notes following § 48-901.02.</text>
-        <text>For legislative history of D.C. Law 12-136, see Historical and Statutory Notes following § 48-903.02.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 48-903.05.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 33-534.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-29</heading>
+      <text>For legislative history of D.C. Law 4-29, see Historical and Statutory Notes following § 48-901.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-136</heading>
+      <text>For legislative history of D.C. Law 12-136, see Historical and Statutory Notes following § 48-903.02.</text>
     </level>
   </level>
 </level>

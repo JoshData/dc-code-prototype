@@ -3,31 +3,25 @@
   <heading>Responsibilities of administering organization.</heading>
   <text>An administering organization shall:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Administer opportunity accounts in accordance with this part and all rules promulgated under this part and in conformity with the organization's application as approved by the Mayor;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Establish an opportunity account reserve fund account at a financial institution and deposit into that account sufficient funds to administer the organization's opportunity account program and to provide potential matching funds for opportunity accounts in the organization's opportunity account program; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Review and approve expenditures of opportunity account funds to ensure that the expenditures are used for a purpose permitted under this part.</text>
-    </level>
+    <num>(1)</num>
+    <text>Administer opportunity accounts in accordance with this part and all rules promulgated under this part and in conformity with the organization's application as approved by the Mayor;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Establish an opportunity account reserve fund account at a financial institution and deposit into that account sufficient funds to administer the organization's opportunity account program and to provide potential matching funds for opportunity accounts in the organization's opportunity account program; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Review and approve expenditures of opportunity account funds to ensure that the expenditures are used for a purpose permitted under this part.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 3, 2001, D.C. Law 13-266, § 5, 48 DCR 1240.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-266, see notes following § 1-307.61.</text>
-      </level>
+      <heading>Legislative History of Law 13-266</heading>
+      <text>For Law 13-266, see notes following § 1-307.61.</text>
     </level>
   </level>
 </level>

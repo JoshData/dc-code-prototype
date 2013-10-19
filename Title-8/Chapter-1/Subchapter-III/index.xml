@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Wastewater Control.</heading>
-  <level>
-    <text>DC CODE D. I, T. 8, Subt. A, Ch. 1, Subch. III, Refs &amp; Annos</text>
-  </level>
+  <heading>Wastewater Control</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-105.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-105.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-105.03.xml"/>

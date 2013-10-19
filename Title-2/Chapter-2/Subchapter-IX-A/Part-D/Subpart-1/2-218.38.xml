@@ -3,35 +3,33 @@
   <heading>Veteran-owned business enterprises.</heading>
   <text>A business enterprise shall be eligible for certification as a veteran-owned business enterprise if the business enterprise:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Meets the definition of a small business enterprise as described in § 2- 218.32;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Is not less than 51% owned and operated by one of more veterans (as defined in 38 U.S.C. § 101(2));</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>In the case of any publicly owned business, not less than 51% of the stock of which is owned by one or more veterans; and</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>One or more veterans control the management and daily operations.</text>
-    </level>
+    <num>(1)</num>
+    <text>Meets the definition of a small business enterprise as described in § 2-218.32;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Is not less than 51% owned and operated by one of more veterans (as defined in 38 U.S.C. § 101(2));</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>In the case of any publicly owned business, not less than 51% of the stock of which is owned by one or more veterans; and</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>One or more veterans control the management and daily operations.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 20, 2005, D.C. Law 16-33, § 2338, as added Apr. 20, 2010, D.C. Law 18-141, § 2(g), 57 DCR 1485.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-141, see notes following § 2-218.02.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-218.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-141</heading>
+      <text>For Law 18-141, see notes following § 2-218.02.</text>
     </level>
   </level>
 </level>

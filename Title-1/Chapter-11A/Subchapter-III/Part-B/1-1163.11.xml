@@ -3,47 +3,41 @@
   <heading>Specific requirements for statements of organization filed by political committees.</heading>
   <text>In addition to the statement of organization set forth in § 1-1163.07, each political committee shall also file the following information with the Director of Campaign Finance within 10 days after the political committee's organization:</text>
   <level>
+    <num>(1)</num>
+    <text>The names, addresses, and relationships of affiliated or connected organizations;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>The area, scope, or jurisdiction of the political committee;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The name, address, office sought, and party affiliation of:</text>
     <level>
-      <num>(1)</num>
-      <text>The names, addresses, and relationships of affiliated or connected organizations;</text>
+      <num>(A)</num>
+      <text>Each candidate whom the committee is supporting; and</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>The area, scope, or jurisdiction of the political committee;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The name, address, office sought, and party affiliation of:</text>
-      <level>
-        <num>(A)</num>
-        <text>Each candidate whom the committee is supporting; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Any other individual, if any, whom the committee is supporting for nomination for election or election, to any public office whatever; or, if the committee is supporting the entire ticket of any party, the name of the party; or, if the committee is supporting or opposing any initiative or referendum, the summary statement and short title of the initiative or referendum, prepared in accordance with § 1-1001.16 ; or, if the committee is supporting or opposing any recall measure, the name and office of the public official whose recall is sought or opposed in accordance with § 1-1001.17;</text>
-      </level>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>A statement whether the political committee is a continuing one; and</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>The disposition of residual funds which will be made in the event of dissolution.</text>
+      <num>(B)</num>
+      <text>Any other individual, if any, whom the committee is supporting for nomination for election or election, to any public office whatever; or, if the committee is supporting the entire ticket of any party, the name of the party; or, if the committee is supporting or opposing any initiative or referendum, the summary statement and short title of the initiative or referendum, prepared in accordance with § 1-1001.16; or, if the committee is supporting or opposing any recall measure, the name and office of the public official whose recall is sought or opposed in accordance with § 1-1001.17;</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(4)</num>
+    <text>A statement whether the political committee is a continuing one; and</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>The disposition of residual funds which will be made in the event of dissolution.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2012, D.C. Law 19-124, § 311, 59 DCR 1862.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
-      </level>
+      <heading>Legislative History of Law 19-124</heading>
+      <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
     </level>
   </level>
 </level>

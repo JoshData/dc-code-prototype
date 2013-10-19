@@ -1,135 +1,156 @@
 <level type="section">
   <num>42-148</num>
   <heading>Short forms.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-628</formerly-cited-as>
-  <text>The following short form certificates of notarial acts shall be sufficient for the purposes indicated, if completed with the information required by § 42- 147(a).</text>
+  <text>The following short form certificates of notarial acts shall be sufficient for the purposes indicated, if completed with the information required by § 42-147(a).</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>For an acknowledgment in an individual capacity:</text>
+    <num>(1)</num>
+    <text>For an acknowledgment in an individual capacity:</text>
+    <level type="form">
+      <text/>
+      <text>
+
+
+ District of Columbia 
+
+
+ This instrument was acknowledged before me on <span style="font-weight: bold; ">(date) </span> by <span style="font-weight: bold; ">(name(s) of person(s)). 
+
+</span>
+ ________________________________________ 
+
+
+ (Signature of notarial officer) 
+
+
+ (Seal, if any) 
+
+
+ ________________________________________ 
+
+
+ Title (and Rank) 
+
+
+ (My commission expires: ______________) 
+ 
+ (2) For an acknowledgment in a representative capacity: 
+
+
+ District of Columbia 
+
+
+ This instrument was acknowledged before me on <span style="font-weight: bold; ">(date) </span> by <span style="font-weight: bold; ">(name(s) of person(s)) </span> as <span style="font-weight: bold; ">(type of authority, e.g., officer, trustee, etc.) </span> of <span style="font-weight: bold; ">(name of party on behalf of whom instrument was executed). 
+
+</span>
+ ________________________________________ 
+
+
+ (Signature of notarial officer) 
+
+
+ (Seal, if any) 
+
+
+ ________________________________________ 
+
+
+ Title (and Rank) 
+
+
+ (My commission expires: ______________) 
+ 
+ (3) For a verification upon oath or affirmation: 
+
+
+ District of Columbia 
+
+
+ Signed and sworn to (or affirmed) before me on <span style="font-weight: bold; ">(date) </span> by <span style="font-weight: bold; ">(name(s) of person(s) making statement). 
+
+</span>
+ ________________________________________ 
+
+
+ (Signature of notarial officer) 
+
+
+ (Seal, if any) 
+
+
+ ________________________________________ 
+
+
+ Title (and Rank) 
+
+
+ (My commission expires: ______________)</text>
     </level>
-  </level>
-  <text>District of Columbia</text>
-  <text>This instrument was acknowledged before me on <text u="False">(date)</text> by <text u="False">(name(s) of person(s)).</text></text>
-  <text>
-    <text font="'monospace'"> ________________________________________ </text>
-  </text>
-  <text>
-    <text font="'monospace'"> (Signature of notarial officer) </text>
-  </text>
-  <text>
-    <text font="'monospace'">(Seal, if any) ________________________________________ </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Title (and Rank) </text>
-  </text>
-  <text>
-    <text font="'monospace'"> (My commission expires: _______________) </text>
-  </text>
-  <level>
-    <level>
-      <num>(2)</num>
-      <text>For an acknowledgment in a representative capacity:</text>
-    </level>
-  </level>
-  <text>District of Columbia</text>
-  <text>This instrument was acknowledged before me on <text u="False">(date)</text> by <text u="False">(name(s) of person(s))</text> as <text u="False">(type of authority, e.g., officer, trustee, etc.)</text> of <text u="False">(name of party on behalf of whom instrument was executed).</text></text>
-  <text>
-    <text font="'monospace'"> ________________________________________ </text>
-  </text>
-  <text>
-    <text font="'monospace'"> (Signature of notarial officer) </text>
-  </text>
-  <text>
-    <text font="'monospace'">(Seal, if any) ________________________________________ </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Title (and Rank) </text>
-  </text>
-  <text>
-    <text font="'monospace'"> (My commission expires: _______________) </text>
-  </text>
-  <level>
-    <level>
-      <num>(3)</num>
-      <text>For a verification upon oath or affirmation:</text>
-    </level>
-  </level>
-  <text>District of Columbia</text>
-  <text>Signed and sworn to (or affirmed) before me on <text u="False">(date)</text> by <text u="False">(name(s) of person(s) making statement).</text></text>
-  <text>
-    <text font="'monospace'"> ________________________________________ </text>
-  </text>
-  <text>
-    <text font="'monospace'"> (Signature of notarial officer) </text>
-  </text>
-  <text>
-    <text font="'monospace'">(Seal, if any) ________________________________________ </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Title (and Rank) </text>
-  </text>
-  <text>
-    <text font="'monospace'"> (My commission expires: _______________) </text>
-  </text>
-  <level>
     <level>
       <num>(4)</num>
       <text>For witnessing or attesting a signature:</text>
+      <level type="form">
+        <text/>
+        <text>
+
+
+ District of Columbia 
+
+
+ Signed or attested before me on <span style="font-weight: bold; ">(date) </span> by <span style="font-weight: bold; ">(name(s) of person(s)). 
+
+</span>
+ ________________________________________ 
+
+
+ (Signature of notarial officer) 
+
+
+ (Seal, if any) 
+
+
+ ________________________________________ 
+
+
+ Title (and Rank) 
+
+
+ (My commission expires: ______________)</text>
+      </level>
     </level>
-  </level>
-  <text>District of Columbia</text>
-  <text>Signed or attested before me on <text u="False">(date)</text> by <text u="False">(name(s) of person(s)).</text></text>
-  <text>
-    <text font="'monospace'"> ________________________________________ </text>
-  </text>
-  <text>
-    <text font="'monospace'"> (Signature of notarial officer) </text>
-  </text>
-  <text>
-    <text font="'monospace'">(Seal, if any) ________________________________________ </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Title (and Rank) </text>
-  </text>
-  <text>
-    <text font="'monospace'"> (My commission expires: _______________) </text>
-  </text>
-  <level>
     <level>
       <num>(5)</num>
       <text>Repealed.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 6, 1991, D.C. Law 8-205, § 9, 37 DCR 8444; Dec. 10, 1991, D.C. Law 9-52, § 2(b), 38 DCR 6585.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-628.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2(b) of Uniform Law on Notarial Acts Temporary Amendment Act of 1991 (D.C. Law 9-9, July 13, 1991, law notification 38 DCR 4812).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-205, see Historical and Statutory Notes following § 42-141.</text>
-        <text>For legislative history of D.C. Law 9-52, see Historical and Statutory Notes following § 42-147.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Application of Law 9-52: Section 3 of D.C. Law 9-52 provided that the act shall apply as of March 6, 1991.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 8 of the Uniform Law on Notarial Acts. See 14 Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-147.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-628.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2(b) of Uniform Law on Notarial Acts Temporary Amendment Act of 1991 (D.C. Law 9-9, July 13, 1991, law notification 38 DCR 4812).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-205</heading>
+      <text>For legislative history of D.C. Law 8-205, see Historical and Statutory Notes following § 42-141.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-52</heading>
+      <text>For legislative history of D.C. Law 9-52, see Historical and Statutory Notes following § 42-147.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 9-52: Section 3 of D.C. Law 9-52 provided that the act shall apply as of March 6, 1991.</text>
+      <text>Uniform Law: This section is based upon § 8 of the Uniform Law on Notarial Acts.</text>
     </level>
   </level>
 </level>

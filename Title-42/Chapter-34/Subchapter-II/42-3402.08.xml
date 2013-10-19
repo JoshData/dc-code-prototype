@@ -1,9 +1,9 @@
 <level type="section">
   <num>42-3402.08</num>
   <heading>Elderly or disabled tenancy.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-1616</formerly-cited-as>
   <level>
     <num>(a)</num>
+    <heading>Eviction limited</heading>
     <level>
       <num>(1)</num>
       <text>For the purposes of this subsection, the term "qualifying income" means a total annual household income, as determined by the Mayor, no greater than 95% of the area median income, as defined in § 42-2801(1).</text>
@@ -27,7 +27,7 @@
         <num>(D)</num>
         <level>
           <num>(i)</num>
-          <text>For the purposes of a single, scheduled tenant election under § 42- 3402.03, the tenant waives, in writing, his or her right to remain a tenant.</text>
+          <text>For the purposes of a single, scheduled tenant election under § 42-3402.03, the tenant waives, in writing, his or her right to remain a tenant.</text>
         </level>
         <level>
           <num>(ii)</num>
@@ -42,12 +42,15 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Rent level.</text> -- Any owner of a converted unit shall not charge an elderly or disabled tenant rent in excess of the lawful rent at the time of request for a tenant election for purposes of conversion plus annual increases on that basis authorized under the Rental Housing Act.</text>
+    <heading>Rent level</heading>
+    <text>Any owner of a converted unit shall not charge an elderly or disabled tenant rent in excess of the lawful rent at the time of request for a tenant election for purposes of conversion plus annual increases on that basis authorized under the Rental Housing Act.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Qualification.</text> -- (1) An elderly or disabled tenant shall qualify under this subchapter if, on the day a tenant election is held for the purposes of conversion, the elderly or disabled tenant:</text>
+    <heading>Qualification</heading>
     <level>
+      <num>(1)</num>
+      <text>An elderly or disabled tenant shall qualify under this subchapter if, on the day a tenant election is held for the purposes of conversion, the elderly or disabled tenant:</text>
       <level>
         <num>(A)</num>
         <text>Is entitled to the possession, occupancy, or the benefits of his or her rental unit; and</text>
@@ -96,47 +99,60 @@
       <text>The Mayor shall develop such forms and procedures as may be necessary to verify eligibility under this subsection.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 10, 1980, D.C. Law 3-86, § 208, 27 DCR 2975; Mar. 4, 1981, D.C. Law 3-131, § 801(d), 28 DCR 326; Nov. 5, 1983, D.C. Law 5-38, § 2(e), 30 DCR 4866; Nov. 16, 2006, D.C. Law 16-179, § 2(d), 53 DCR 6698; Mar. 8, 2007, D.C. Law 16-240, § 2, 54 DCR 597; Mar. 25, 2009, D.C. Law 17-354, § 2(b), 56 DCR 1155.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-1616.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-179 rewrote subsec. (a); in subsec. (b), substituted "elderly or disabled" for "elderly"; and rewrote subsec. (c). Prior to amendment, subsecs. (a) and (c) read as follows:</text>
-        <text>"(a) <text i="True">Eviction limited.</text> -- Notwithstanding any other provision of this subchapter, the Condominium Act, or the Rental Housing Act, an owner of a rental unit in a housing accommodation converted under the provisions of this chapter shall not evict or send notice to vacate to an elderly tenant with an annual household income, as determined by the Mayor, of less than $40,000 per year unless:</text>
-        <text>"(1) The tenant violates an obligation of the tenancy and fails to correct the violation within 30 days after receiving notice of the violation from the owner;</text>
-        <text>"(2) A court of competent jurisdiction has determined that the tenant has performed an illegal act within the rental unit or housing accommodation; or</text>
-        <text>"(3) The tenant fails to pay rent."</text>
-        <text>"(c) <text i="True">Definition.</text> -- For the purposes of this subchapter, the term 'elderly tenant' means a head of household who is 62 years of age or older. The number of elderly tenants qualifying under this section is that number on the day an owner requests a tenant election for purposes of conversion."</text>
-        <text>D.C. Law 16-240 rewrote subsec. (c)(1)(B)(ii), which had read as follows:</text>
-        <text>"(ii)(I) Has a medically determinable physical impairment, including blindness, which prohibits and incapacitates 75% of that person's ability to move about, to assist himself or herself, or to engage in an occupation.</text>
-        <text>"(II) In making a determination that a tenant qualifies under this sub-subparagraph, the Mayor shall limit the inquiry to the minimum information and documentation necessary to establish that the tenant meets the definition of disabled provided in sub-sub-subparagraph (I) of this sub-subparagraph, and shall not inquire further into the nature or severity of the disability. The Mayor shall not require the tenant to provide a description of the disability when making an eligibility determination; provided, that the Mayor may request that a physician or other licensed healthcare professional verify that a tenant meets the definition of disabled in sub-sub-subparagraph (I) of this sub-subparagraph. The Mayor shall not require the tenant to provide eligibility documentation in less than 30 days.</text>
-        <text>"(III) The Mayor shall not disclose information compiled under this sub-subparagraph unless the disclosure is required by law; provided, that the Mayor may provide a list of eligible voters upon request; provided further, that the Mayor may make a list of eligible voters available at the site of the tenant election."</text>
-        <text>D.C. Law 17-354 rewrote subsec.(a)(1), which had read as follows:</text>
-        <text>"(a) <text i="True">Eviction limited.</text> -- (1)(A) For the purposes of this subsection, the term 'qualifying income' means the applicable percentage for the household size, as set forth in subparagraph (B) of this paragraph, of the area median income for a household of 4 persons for the Washington-Arlington-Alexandria Metropolitan area, as established by the U.S. Department of Housing and Urban Development."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-86, see Historical and Statutory Notes following § 42-3401.01.</text>
-        <text>For legislative history of D.C. Law 3-131, see Historical and Statutory Notes following § 42-3401.03.</text>
-        <text>For legislative history of D.C. Law 5-38, see Historical and Statutory Notes following § 42-3405.03a.</text>
-        <text>For Law 16-179, see notes following § 42-3401.01.</text>
-        <text>Law 16-240, the "Definition of Persons with Disabilities A.D.A. Conforming Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-875, which was referred to Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 14, 2006, and December 5, 2006, respectively. Signed by the Mayor on December 28 2006, it was assigned Act No. 16-596 and transmitted to both Houses of Congress for its review. D.C. Law 16-240 became effective on March 8, 2007.</text>
-        <text>For Law 17-354, see notes following § 42-3402.04</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Declaration of continuing housing crisis: See Mayor's Order 83-239, October 7, 1983.</text>
-        <text>Reenactment of Law 3-86: See Historical and Statutory Notes following § 42- 3401.01.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Homestead housing preservation, transfers of real estate of elderly tenants, see § 42-2107.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-2107, § 42-3402.03, § 42-3402.04, and § 42-3402.10.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-1616.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-179 rewrote subsec. (a); in subsec. (b), substituted "elderly or disabled" for "elderly"; and rewrote subsec. (c).</text>
+      <text>D.C. Law 16-240 rewrote subsec. (c)(1)(B)(ii).</text>
+      <text>D.C. Law 17-354 rewrote subsec. (a)(1), which had read as follows: "(a) Eviction limited. - (1)(A) For the purposes of this subsection, the term 'qualifying income' means the applicable percentage for the household size, as set forth in subparagraph (B) of this paragraph, of the area median income for a household of 4 persons for the Washington-Arlington-Alexandria Metropolitan area, as established by the U.S. Department of Housing and Urban Development."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-86</heading>
+      <text>For legislative history of D.C. Law 3-86, see Historical and Statutory Notes following § 42-3401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-131</heading>
+      <text>For legislative history of D.C. Law 3-131, see Historical and Statutory Notes following § 42-3401.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-38</heading>
+      <text>For legislative history of D.C. Law 5-38, see Historical and Statutory Notes following § 42-3405.03a.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-179</heading>
+      <text>For Law 16-179, see notes following § 42-3401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-240</heading>
+      <text>Law 16-240, the "Definition of Persons with Disabilities A.D.A. Conforming Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-875, which was referred to Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 14, 2006, and December 5, 2006, respectively. Signed by the Mayor on December 28 2006, it was assigned Act No. 16-596 and transmitted to both Houses of Congress for its review. D.C. Law 16-240 became effective on March 8, 2007.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-354</heading>
+      <text>For Law 17-354, see notes following § 42-3402.04</text>
+    </level>
+    <level>
+      <heading>Mayor's orders</heading>
+      <text>Declaration of continuing housing crisis: See Mayor's Order 83-239, October 7, 1983.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Reenactment of Law 3-86: See Historical and Statutory Notes following § 42-3401.01.</text>
     </level>
   </level>
 </level>

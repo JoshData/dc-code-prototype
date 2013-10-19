@@ -6,7 +6,7 @@
     <text>Subject to § 29-1004.04 and subsections (c) and (d) of this section, an amendment to the articles of organization shall be approved by:</text>
     <level>
       <num>(1)</num>
-      <text>At least 2/3 of the voting power of members present at a members meeting called under § 29-1004.02; and</text>
+      <text>At least <span style="font-style: italic; ">2</span>/<span style="">3</span> of the voting power of members present at a members meeting called under § 29-1004.02; and</text>
     </level>
     <level>
       <num>(2)</num>
@@ -85,22 +85,22 @@
     <num>(g)</num>
     <text>If the articles of organization delegate amendment of bylaws to the board of directors, the board shall provide a description of any amendment of the bylaws made by the board to the members in a record not later than 30 days after the amendment, but the description may be provided at the next annual members meeting if the meeting is held within the 30-day period.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 405 of the Uniform Limited Cooperative Association Act . See Vol. 6A , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-1001.09, § 29-1004.02, § 29-1004.04, and § 29-1004.06.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 405 of the Uniform Limited Cooperative Association Act.</text>
     </level>
   </level>
 </level>

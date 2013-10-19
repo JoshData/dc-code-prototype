@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-708</num>
   <heading>Recordkeeping requirements.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-1407</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor shall maintain adequate records of declarations of domestic partnership, termination statements, and amendments to declarations of domestic partnership and termination statements.</text>
@@ -18,22 +17,22 @@
       <text>Utilization of domestic partnership benefits by District government employees.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 11, 1992, D.C. Law 9-114, § 9, 39 DCR 2861.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-1407.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 9-114, see Historical and Statutory Notes following § 32-701.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-702.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-1407.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-114</heading>
+      <text>For legislative history of D.C. Law 9-114, see Historical and Statutory Notes following § 32-701.</text>
     </level>
   </level>
 </level>

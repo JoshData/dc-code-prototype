@@ -1,7 +1,6 @@
 <level type="section">
   <num>2-359.08</num>
   <heading>Claims by contractors against the District government.</heading>
-  <formerly-cited-as>DC ST 2001 § 2-308.05</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>All claims by a contractor against the District government arising under or relating to a contract shall be in writing and shall be submitted to the contracting officer for a decision.</text>
@@ -25,22 +24,22 @@
       <text>Liability under this section shall be determined within 6 years of the commission of the misrepresentation of fact or fraud.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2011, D.C. Law 18-371, § 908, 58 DCR 1185.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 2-308.05. </text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-371, see notes under § 2-351.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-360.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 2-308.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-371</heading>
+      <text>For history of Law 18-371, see notes under § 2-351.01.</text>
     </level>
   </level>
 </level>

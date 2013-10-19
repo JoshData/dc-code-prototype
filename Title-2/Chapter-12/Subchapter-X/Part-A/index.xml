@@ -1,8 +1,8 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>A</num>
-  <heading>National Capital Revitalization Corporation. [Repealed]</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1219.01~P.xml"/>
+  <heading>National Capital Revitalization Corporation</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1219.01~2-1219.29~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1219.02~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1219.03~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1219.04~P.xml"/>
@@ -29,6 +29,6 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1219.25~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1219.26~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1219.27~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1219.28~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1219.29~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1219.28.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1219.29.xml"/>
 </level>

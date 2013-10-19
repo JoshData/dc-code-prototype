@@ -1,11 +1,11 @@
 <level type="toc">
   <prefix>Title</prefix>
   <num>7</num>
-  <heading>Human Health Care and Safety.</heading>
+  <heading>Human Health Care and Safety</heading>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>A</num>
-    <heading>General.</heading>
+    <heading>General</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2A/index.xml"/>
@@ -23,7 +23,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>B</num>
-    <heading>Child and Infant Screening; Early Intervention.</heading>
+    <heading>Child and Infant Screening; Early Intervention</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-8/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-8A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-8B/index.xml"/>
@@ -34,14 +34,14 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>B-I</num>
-    <heading>Blind and Physically Disabled Persons.</heading>
+    <heading>Blind and Physically Disabled Persons</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-9/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-10/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>C</num>
-    <heading>Mental Health.</heading>
+    <heading>Mental Health</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-11/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-11A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-11B/index.xml"/>
@@ -51,50 +51,50 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>D</num>
-    <heading>Citizens with Intellectual Disabilities.</heading>
+    <heading>Citizens with Intellectual Disabilities</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-13/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>E</num>
-    <heading>Health Care Safety Net.</heading>
+    <heading>Health Care Safety Net</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-14/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>F</num>
-    <heading>Anatomical Parts.</heading>
+    <heading>Anatomical Parts</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-15/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>G</num>
-    <heading>AIDS Health Care.</heading>
+    <heading>AIDS Health Care</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-16/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>G-I</num>
-    <heading>Vaccinations and Immunizations.</heading>
+    <heading>Vaccinations and Immunizations</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-16A/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
-    <num>G-Ii</num>
-    <heading>Use of Marijuana for Medical Treatment.</heading>
+    <num>G-II</num>
+    <heading>Use of Marijuana for Medical Treatment</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-16B/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>H</num>
-    <heading>Tobacco Smoking, Sales, Distribution, Regulation, and Settlement.</heading>
+    <heading>Tobacco Smoking, Sales, Distribution, Regulation, and Settlement</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-17/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-18/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>I</num>
-    <heading>Protection and Care Systems.</heading>
+    <heading>Protection and Care Systems</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-19/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-19A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-20/index.xml"/>
@@ -105,7 +105,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>J</num>
-    <heading>Public Safety.</heading>
+    <heading>Public Safety</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-22/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-23/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-23A/index.xml"/>
@@ -122,13 +122,13 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>K</num>
-    <heading>Health Care System Development Commission.</heading>
+    <heading>Health Care System Development Commission</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-29/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>L</num>
-    <heading>Substance Abuse.</heading>
+    <heading>Substance Abuse</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-30/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-31/index.xml"/>
   </level>

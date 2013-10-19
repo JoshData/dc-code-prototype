@@ -1,7 +1,6 @@
 <level type="section">
   <num>16-907</num>
   <heading>Parent and child relationship defined.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-907</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The term "legitimate" or "legitimated" means that the parent-child relationship exists for all rights, privileges, duties, and obligations under the laws of the District of Columbia.</text>
@@ -14,28 +13,27 @@
     <num>(c)</num>
     <text>A child born to parents in a domestic partnership shall be treated for all legal purposes as a child born in wedlock. For the purposes of this subsection, the term "domestic partnership" shall have the same meaning as provided in § 32-701(4), but shall exclude a domestic partnership where a domestic partner is the parent, grandparent, sibling, child, grandchild, niece, nephew, aunt, or uncle of a woman who gives birth to a child.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, Pub. L. 88-241, § 1, 77 Stat. 561; Apr. 7, 1977, D.C. Law 1-107, title I, § 104, 23 DCR 8737; July 18, 2008, D.C. Law 18-33, § 3(b), 56 DCR 4269.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-907.</text>
-        <text>1973 Ed., § 16-907.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-33 added subsec. (c).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-107, see Historical and Statutory Notes following § 16-902.</text>
-        <text>For Law 18-33, see notes following § 16-308.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-907.</text>
+      <text>1973 Ed., § 16-907.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-33 added subsec. (c).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-107</heading>
+      <text>For legislative history of D.C. Law 1-107, see Historical and Statutory Notes following § 16-902.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-33</heading>
+      <text>For Law 18-33, see notes following § 16-308.</text>
     </level>
   </level>
 </level>

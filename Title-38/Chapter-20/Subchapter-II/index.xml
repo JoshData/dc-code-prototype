@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Retirement After June 30, 1946.</heading>
-  <level>
-    <text>DC CODE D. VI, T. 38, Subt. V, Ch. 20, Subch. II, Refs &amp; Annos</text>
-  </level>
+  <heading>Retirement After June 30, 1946</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-B/index.xml"/>
 </level>

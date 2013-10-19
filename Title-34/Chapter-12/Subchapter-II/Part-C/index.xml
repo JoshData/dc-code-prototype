@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>C</num>
-  <heading>Other Cable Entities.</heading>
+  <heading>Other Cable Entities</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-1253.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-1253.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-1253.03.xml"/>

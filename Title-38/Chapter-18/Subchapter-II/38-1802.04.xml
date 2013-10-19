@@ -1,14 +1,15 @@
 <level type="section">
   <num>38-1802.04</num>
   <heading>Duties, powers, and other requirements, of public charter schools.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-2853.14</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Duties.</text> -- A public charter school shall comply with all of the terms and provisions of its charter.</text>
+    <heading>Duties</heading>
+    <text>A public charter school shall comply with all of the terms and provisions of its charter.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Powers.</text> -- A public charter school shall have the following powers:</text>
+    <heading>Powers</heading>
+    <text>A public charter school shall have the following powers:</text>
     <level>
       <num>(1)</num>
       <text>To adopt a name and corporate seal, but only if the name selected includes the words "public charter school";</text>
@@ -52,45 +53,51 @@
   </level>
   <level>
     <num>(b-1)</num>
-    <text><text i="True">Limitation on powers</text> -- Each power conferred upon a public charter school under subsection (b) of this section can only be used for the sole purpose of operating the public charter school.</text>
+    <heading>Limitation on powers</heading>
+    <text>Each power conferred upon a public charter school under subsection (b) of this section can only be used for the sole purpose of operating the public charter school.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Prohibitions and other requirements.</text> --</text>
+    <heading>Prohibitions and other requirements</heading>
     <level>
       <num>(1)</num>
-      <text><text i="True">Contracting authority.</text> --</text>
+      <heading>Contracting authority</heading>
       <level>
         <num>(A)</num>
-        <text><text i="True">Notice requirement for procurement contracts.</text> --</text>
+        <heading>Notice requirement for procurement contracts</heading>
         <level>
           <num>(i)</num>
-          <text><text i="True">In general.</text> -- Except in the case of an emergency (as determined by the eligible chartering authority of a public charter school), with respect to any procurement contract proposed to be awarded by the public charter school and having a value equal to or exceeding $25,000, the school shall publish a notice of a request for proposals in the District of Columbia Register and newspapers of general circulation not less than 7 days prior to the award of the contract.</text>
+          <heading>In general</heading>
+          <text>Except in the case of an emergency (as determined by the eligible chartering authority of a public charter school), with respect to any procurement contract proposed to be awarded by the public charter school and having a value equal to or exceeding $25,000, the school shall publish a notice of a request for proposals in the District of Columbia Register and newspapers of general circulation not less than 7 days prior to the award of the contract.</text>
         </level>
         <level>
           <num>(ii)</num>
-          <text><text i="True">Exception for certain contracts.</text> -- The notice requirement of sub-subparagraph (i) of this subparagraph shall not apply with respect to any contract for the lease or purchase of real property by a public charter school, any employment contract for a staff member of a public charter school, or any management contract entered into by a public charter school and the management company designated in its charter or its petition for a revised charter.</text>
+          <heading>Exception for certain contracts</heading>
+          <text>The notice requirement of sub-subparagraph (i) of this subparagraph shall not apply with respect to any contract for the lease or purchase of real property by a public charter school, any employment contract for a staff member of a public charter school, or any management contract entered into by a public charter school and the management company designated in its charter or its petition for a revised charter.</text>
         </level>
       </level>
       <level>
         <num>(B)</num>
-        <text><text i="True">Submission to the eligible chartering authority.</text> --</text>
+        <heading>Submission to the eligible chartering authority</heading>
         <level>
           <num>(i)</num>
-          <text><text i="True">Deadline for submission.</text> -- With respect to any contract described in subparagraph (A) of this paragraph that is awarded by a public charter school, the school shall submit to the eligible chartering authority, not later than 3 days after the date on which the award is made, all bids for the contract received by the school, the name of the contractor who is awarded the contract, and the rationale for the award of the contract.</text>
+          <heading>Deadline for submission</heading>
+          <text>With respect to any contract described in subparagraph (A) of this paragraph that is awarded by a public charter school, the school shall submit to the eligible chartering authority, not later than 3 days after the date on which the award is made, all bids for the contract received by the school, the name of the contractor who is awarded the contract, and the rationale for the award of the contract.</text>
         </level>
         <level>
           <num>(ii)</num>
-          <text><text i="True">Effective date of contract.</text> -- A contract described in subparagraph (A) of this paragraph shall become effective on the date that is 10 days after the date the school makes the submission under sub-subparagraph (i) of this subparagraph with respect to the contract, or the effective date specified in the contract, whichever is later.</text>
+          <heading>Effective date of contract</heading>
+          <text>A contract described in subparagraph (A) of this paragraph shall become effective on the date that is 10 days after the date the school makes the submission under sub-subparagraph (i) of this subparagraph with respect to the contract, or the effective date specified in the contract, whichever is later.</text>
         </level>
       </level>
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Tuition, fees, and payments.</text> --</text>
+      <heading>Tuition, fees, and payments</heading>
       <level>
         <num>(A)</num>
-        <text><text i="True">Prohibition.</text> -- A public charter school may not, with respect to any student other than a nonresident student, charge tuition, impose fees, or otherwise require payment for participation in any program, educational offering, or activity that:</text>
+        <heading>Prohibition</heading>
+        <text>A public charter school may not, with respect to any student other than a nonresident student, charge tuition, impose fees, or otherwise require payment for participation in any program, educational offering, or activity that:</text>
         <level>
           <num>(i)</num>
           <text>Enrolls students in any grade from kindergarten through grade 12; or</text>
@@ -102,12 +109,14 @@
       </level>
       <level>
         <num>(B)</num>
-        <text><text i="True">Exception.</text> -- A public charter school may impose fees or otherwise require payment, at rates established by the Board of Trustees of the school, for any program, educational offering, or activity not described in subsubparagraph (i) or (ii) of subparagraph (A), including adult education programs, or for field trips or similar activities.</text>
+        <heading>Exception</heading>
+        <text>A public charter school may impose fees or otherwise require payment, at rates established by the Board of Trustees of the school, for any program, educational offering, or activity not described in subsubparagraph (i) or (ii) of subparagraph (A), including adult education programs, or for field trips or similar activities.</text>
       </level>
     </level>
     <level>
       <num>(3)</num>
-      <text><text i="True">Control.</text> -- A public charter school:</text>
+      <heading>Control</heading>
+      <text>A public charter school:</text>
       <level>
         <num>(A)</num>
         <text>Shall exercise exclusive control over its expenditures, administration, personnel, and instructional methods, within the limitations imposed in this subchapter; and</text>
@@ -119,7 +128,7 @@
     </level>
     <level>
       <num>(4)</num>
-      <text><text i="True">Health and safety.</text> --</text>
+      <heading>Health and safety</heading>
       <level>
         <num>(A)</num>
         <text>A public charter school shall maintain the health and safety of all students attending such school.</text>
@@ -131,38 +140,46 @@
     </level>
     <level>
       <num>(5)</num>
-      <text><text i="True">Civil rights and idea.</text> -- The Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), § 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.), and the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), shall apply to a public charter school.</text>
+      <heading>Civil rights and idea</heading>
+      <text>The Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), § 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.), and the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), shall apply to a public charter school.</text>
     </level>
     <level>
       <num>(6)</num>
-      <text><text i="True">Governance.</text> -- A public charter school shall be governed by a Board of Trustees in a manner consistent with the charter granted to the school and the provisions of this subchapter.</text>
+      <heading>Governance</heading>
+      <text>A public charter school shall be governed by a Board of Trustees in a manner consistent with the charter granted to the school and the provisions of this subchapter.</text>
     </level>
     <level>
       <num>(7)</num>
-      <text><text i="True">Other staff.</text> -- No employee of the District of Columbia public schools may be required to accept employment with, or be assigned to, a public charter school.</text>
+      <heading>Other staff</heading>
+      <text>No employee of the District of Columbia public schools may be required to accept employment with, or be assigned to, a public charter school.</text>
     </level>
     <level>
       <num>(8)</num>
-      <text><text i="True">Other students.</text> -- No student enrolled in a District of Columbia public school, may be required to attend a public charter school; provided, that this paragraph shall not apply to students with special needs.</text>
+      <heading>Other students</heading>
+      <text>No student enrolled in a District of Columbia public school, may be required to attend a public charter school; provided, that this paragraph shall not apply to students with special needs.</text>
     </level>
     <level>
       <num>(9)</num>
-      <text><text i="True">Taxes or bonds.</text> -- A public charter school shall not levy taxes or issue bonds.</text>
+      <heading>Taxes or bonds</heading>
+      <text>A public charter school shall not levy taxes or issue bonds.</text>
     </level>
     <level>
       <num>(10)</num>
-      <text><text i="True">Charter revision.</text> -- A public charter school seeking to revise its charter shall prepare a petition for approval of the revision and file the petition with the eligible chartering authority that granted the charter. The provisions of § 38-1802.03 shall apply to such a petition in the same manner as such provisions apply to a petition to establish a public charter school.</text>
+      <heading>Charter revision</heading>
+      <text>A public charter school seeking to revise its charter shall prepare a petition for approval of the revision and file the petition with the eligible chartering authority that granted the charter. The provisions of § 38-1802.03 shall apply to such a petition in the same manner as such provisions apply to a petition to establish a public charter school.</text>
     </level>
     <level>
       <num>(11)</num>
-      <text><text i="True">Annual report.</text> --</text>
+      <heading>Annual report</heading>
       <level>
         <num>(A)</num>
-        <text><text i="True">In general.</text> -- A public charter school shall submit an annual report to the eligible chartering authority that approved its charter. The school shall permit a member of the public to review any such report upon request.</text>
+        <heading>In general</heading>
+        <text>A public charter school shall submit an annual report to the eligible chartering authority that approved its charter. The school shall permit a member of the public to review any such report upon request.</text>
       </level>
       <level>
         <num>(B)</num>
-        <text><text i="True">Contents.</text> -- A report submitted under subparagraph (A) of this paragraph shall include the following data:</text>
+        <heading>Contents</heading>
+        <text>A report submitted under subparagraph (A) of this paragraph shall include the following data:</text>
         <level>
           <num>(i)</num>
           <text>A report on the extent to which the school is meeting its mission and goals as stated in the petition for the charter school;</text>
@@ -210,20 +227,24 @@
       </level>
       <level>
         <num>(C)</num>
-        <text><text i="True">Nonidentifying data.</text> -- Data described in sub-subparagraphs (i) through (ix) of subparagraph (B) of this paragraph that are included in an annual report shall not identify the individuals to whom the data pertain.</text>
+        <heading>Nonidentifying data</heading>
+        <text>Data described in sub-subparagraphs (i) through (ix) of subparagraph (B) of this paragraph that are included in an annual report shall not identify the individuals to whom the data pertain.</text>
       </level>
     </level>
     <level>
       <num>(12)</num>
-      <text><text i="True">Census.</text> -- A public charter school shall provide to the Board of Education student enrollment data necessary for the Board of Education to comply with § 38-204.</text>
+      <heading>Census</heading>
+      <text>A public charter school shall provide to the Board of Education student enrollment data necessary for the Board of Education to comply with § 38-204.</text>
     </level>
     <level>
       <num>(13)</num>
-      <text><text i="True">Complaint resolution process.</text> -- A public charter school shall establish an informal complaint resolution process.</text>
+      <heading>Complaint resolution process</heading>
+      <text>A public charter school shall establish an informal complaint resolution process.</text>
     </level>
     <level>
       <num>(14)</num>
-      <text><text i="True">Program of education.</text> -- A public charter school shall provide a program of education which shall include one or more of the following:</text>
+      <heading>Program of education</heading>
+      <text>A public charter school shall provide a program of education which shall include one or more of the following:</text>
       <level>
         <num>(A)</num>
         <text>Preschool;</text>
@@ -247,18 +268,21 @@
     </level>
     <level>
       <num>(15)</num>
-      <text><text i="True">Nonsectarian nature of schools.</text> -- A public charter school shall be nonsectarian and shall not be affiliated with a sectarian school or religious institution.</text>
+      <heading>Nonsectarian nature of schools</heading>
+      <text>A public charter school shall be nonsectarian and shall not be affiliated with a sectarian school or religious institution.</text>
     </level>
     <level>
       <num>(16)</num>
-      <text><text i="True">Nonprofit status of school.</text> -- A public charter school shall be organized under Chapter 4 of Title 29 and its sole purpose shall be the operation of the public charter school.</text>
+      <heading>Nonprofit status of school</heading>
+      <text>A public charter school shall be organized under Chapter 4 of Title 29 and its sole purpose shall be the operation of the public charter school.</text>
     </level>
     <level>
       <num>(17)</num>
-      <text><text i="True">Immunity from civil liability.</text> --</text>
+      <heading>Immunity from civil liability</heading>
       <level>
         <num>(A)</num>
-        <text><text i="True">In general.</text> -- A public charter school, and its incorporators, Board of Trustees, officers, employees, and volunteers, shall be immune from civil liability, both personally and professionally, for any act or omission within the scope of their official duties unless the act or omission:</text>
+        <heading>In general</heading>
+        <text>A public charter school, and its incorporators, Board of Trustees, officers, employees, and volunteers, shall be immune from civil liability, both personally and professionally, for any act or omission within the scope of their official duties unless the act or omission:</text>
         <level>
           <num>(i)</num>
           <text>Constitutes gross negligence;</text>
@@ -274,82 +298,93 @@
       </level>
       <level>
         <num>(B)</num>
-        <text><text i="True">Common law immunity preserved.</text> -- Subparagraph (A) of this paragraph shall not be construed to abrogate any immunity under common law of a person described in such subparagraph.</text>
+        <heading>Common law immunity preserved</heading>
+        <text>Subparagraph (A) of this paragraph shall not be construed to abrogate any immunity under common law of a person described in such subparagraph.</text>
       </level>
     </level>
     <level>
       <num>(18)</num>
-      <text><text i="True">Licensing as child development center.</text> -- A public charter school which offers a preschool or prekindergarten program shall be subject to the same child care licensing requirements (if any) which apply to a District of Columbia public school which offers such a program.</text>
+      <heading>Licensing as child development center</heading>
+      <text>A public charter school which offers a preschool or prekindergarten program shall be subject to the same child care licensing requirements (if any) which apply to a District of Columbia public school which offers such a program.</text>
     </level>
     <level>
       <num>(19)</num>
-      <text><text i="True">Participation in educational data warehouse.</text> -- A public charter school shall participate in the longitudinal education data warehouse system established by the Office of the State Superintendent of Education and shall provide data to the OSSE upon request.</text>
+      <heading>Participation in education data warehouse</heading>
+      <text>A public charter school shall participate in the longitudinal education data warehouse system established by the Office of the State Superintendent of Education and shall provide data to the OSSE upon request.</text>
     </level>
     <level>
       <num>(20)</num>
-      <text><text i="True">Cooperation with the Office of Ombudsman for Public Education.</text> -- A public charter school shall cooperate with the Office of Ombudsman for Public Education and shall comply with the disclosure protections of Chapter 3A of this title.</text>
+      <heading>Cooperation with the Office of Ombudsman for Public Education</heading>
+      <text>A public charter school shall cooperate with the Office of Ombudsman for Public Education and shall comply with the disclosure protections of Chapter 3A of this title [§ 38-351 et seq.].</text>
     </level>
     <level>
       <num>(21)</num>
-      <text><text i="True">Distribution of funds.</text> -- Funds that have not been provided for in an approved financial plan shall not be distributed to any public charter school.</text>
+      <heading>Distribution of funds</heading>
+      <text>Funds that have not been provided for in an approved financial plan shall not be distributed to any public charter school.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 26, 1996, 110 Stat. 1321 [238], Pub. L. 104-134, § 2204; Sept. 9, 1996, 110 Stat. 2356 [2376], Pub. L. 104-194, § 145; Oct. 19, 2000, D.C. Law 13-172, §§ 2803 and 2812, 47 DCR 6308; Nov. 22, 2000, 114 Stat. 2440, Pub. L. 106-522, § 120(a), (c)(1); Oct. 20, 2005, D.C. Law 16-33, § 4013, 52 DCR 7503; Mar. 14, 2007, D.C. Law 16-268, § 4(c), 54 DCR 833; June 12, 2007, D.C. Law 17-9, § 802(c), 54 DCR 4102; Sept. 18, 2007, D.C. Law 17-20, § 4032(b), 54 DCR 7052; Aug. 16, 2008, D.C. Law 17-219, § 4023, 55 DCR 7598; July 2, 2011, D.C. Law 18-378, § 3(dd)(2), 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-2853.14.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>Section 120 (a) of Public Law 106-522 substituted for "authority' the words " eligible chartering authority" in the heading to subsec. (c)(1)(B) and cl. (i) thereunder; and rewrote subsec. (c)(1)(A) and (c)(1)(B)(ii) which formerly provided:</text>
-        <text>"(A) Notice requirement.--Except in the case of an emergency (as determined by the eligible chartering authority of a public charter school), with respect to any contract proposed to be awarded by the public charter school and having a value equal to or exceeding $10,000, the school shall publish a notice of a request for proposals in the District of Columbia Register and newspapers of general circulation not less than 30 days prior to the award of the contract.</text>
-        <text>"(ii) Effective date of contract.--</text>
-        <text>[(B)]</text>
-        <text>"(I) In general.--Subject to clause (II) of this sub-subparagraph, a contract described in subparagraph (A) of this paragraph shall become effective on the date that is 15 days after the date the school makes the submission under sub-subparagraph (i) of this subparagraph with respect to the contract, or the effective date specified in the contract, whichever is later.</text>
-        <text>"(II) Exception.--A contract described in subparagraph (A) of this paragraph shall be considered null and void if the Authority determines, within 12 days of the date the school makes the submission under sub-subparagraph (i) of this subparagraph with respect to the contract, that the contract endangers the economic viability of the public charter school."</text>
-        <text>Section (c)(1) of Public Law 106-522 added par. (18) pertaining to licensing as child development center.</text>
-        <text>D.C. Law 13-172 added at the end of subsec. (c)(8) "; provided, that this paragraph shall not apply to students with special needs."</text>
-        <text>D.C. Law 16-33, rewrote subsec. (c)(11)(B)(ix), which had read as follows:</text>
-        <text>"(ix) A financial statement audited by an independent certified public accountant in accordance with Government auditing standards for financial audits issued by the Comptroller General of the United States;"</text>
-        <text>D.C. Law 16-268 added subsec. (b-1); and in subsec. (c)(16), inserted "and its sole purpose shall be the operation of the public charter school" following "shall be organized under subchapter I of Chapter 3 of Title 29".</text>
-        <text>D.C. Law 17-9, in subsec. (c), added pars. (19) and (20).</text>
-        <text>D.C. Law 17-20 rewrote subsec. (c)(19), which had read as follows:</text>
-        <text>"(19) <text i="True">Participation in education data warehouse.</text> -- A public charter school shall participate in the longitudinal education data warehouse system and shall provide data to the Office of the State Superintendent of Education upon request."</text>
-        <text>D.C. Law 17-219, in subsec. (c), added par. (21).</text>
-        <text>D.C. Law 18-378, in subsec. (c)(16), substituted "Chapter 4 of Title 29" for "subchapter I of Chapter 3 of Title 29".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) amendment of section, see §§ 2803 and 2812 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000, 47 DCR 6574).</text>
-        <text>For temporary (90 day) amendment of section, see §§ 2803 and 2812 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
-        <text>For temporary (90 day) amendment of section, see § 4013 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
-        <text>For temporary (90 day) amendment of section, see § 4032(c) of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
-        <text>For temporary (90 day) repeal of section 804 of D.C. Law 17-9, see § 4043(b) of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
-        <text>For temporary (90 day) amendment, see § 4023 of Fiscal Year 2009 Budget Support Emergency Act of 2008 (D.C. Act 17-468, July 28, 2008, 55 DCR 8746).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-172, see notes following § 38-1802.01.</text>
-        <text>For Law 16-33, see notes following § 38-1306.</text>
-        <text>For Law 16-268, see notes following § 38-1701.01.</text>
-        <text>For Law 17-9, see notes under § 38-103.</text>
-        <text>For Law 17-20, see notes following § 38-451.</text>
-        <text>For Law 17-219, see notes following § 38-251.</text>
-        <text>For history of Law 18-378, see notes under § 38-1202.08.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 133 of Pub. L. 109-115, Nov. 30, 2005, 119 Stat. 2522, provides: "Section 4013 of the Uniform Per Student Funding Formula for Public Schools and Public Charter Schools Amendment Act of 2005, passed on first reading on May 10, 2005 (engrossed version of Bill 16-200) [D.C. Law 16-33, § 4013], is hereby enacted into law."</text>
-        <text>Applicability: Section 804 of D.C. Law 17-9 provides that section 802 shall apply upon enactment by Congress. Section 804 of D.C. Law 17-9 was repealed by section 4043(b) of D.C. Law 17-20.</text>
-        <text>Short title: Section 4022 of D.C. Law 17-219 provided that subtitle K of title IV of the act may be cited as the "Public Charter School Board Fiscal Responsibility Amendment Act of 2008".</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-1802.11.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-2853.14.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>Section 120 (a) of Public Law 106-522 substituted for "authority" the words "eligible chartering authority" in the heading to subsec. (c)(1)(B) and cl. (i) thereunder; and rewrote subsec. (c)(1)(A) and (c)(1)(B)(ii).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) amendment of section, see §§ 2803 and 2812 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000, 47 DCR 6574).</text>
+      <text>For temporary (90 day) amendment of section, see §§ 2803 and 2812 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
+      <text>For temporary (90 day) amendment of section, see § 4013 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+      <text>For temporary (90 day) amendment of section, see § 4032(c) of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
+      <text>For temporary (90 day) repeal of section 804 of D.C. Law 17-9, see § 4043(b) of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
+      <text>For temporary (90 day) amendment, see § 4023 of Fiscal Year 2009 Budget Support Emergency Act of 2008 (D.C. Act 17-468, July 28, 2008, 55 DCR 8746).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-172</heading>
+      <text>For Law 13-172, see notes following § 38-1802.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-33</heading>
+      <text>For Law 16-33, see notes following § 38-1306.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-268</heading>
+      <text>For Law 16-268, see notes following § 38-1701.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-9</heading>
+      <text>For Law 17-9, see notes under § 38-103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-20</heading>
+      <text>For Law 17-20, see notes following § 38-451.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-219</heading>
+      <text>For Law 17-219, see notes following § 38-251.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 38-1202.08.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 4022 of D.C. Law 17-219 provided that subtitle K of title IV of the act may be cited as the "Public Charter School Board Fiscal Responsibility Amendment Act of 2008".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 133 of Pub. L. 109-115, Nov. 30, 2005, 119 Stat. 2522, provided: "Section 4013 of the Uniform Per Student Funding Formula for Public Schools and Public Charter Schools Amendment Act of 2005, passed on first reading on May 10, 2005 (engrossed version of Bill 16-200) D.C. Law 16-33, § 4013, is hereby enacted into law."</text>
+      <text>Applicability: Section 804 of D.C. Law 17-9 provided that section 802 shall apply upon enactment by Congress. Section 804 of D.C. Law 17-9 was repealed by section 4043(b) of D.C. Law 17-20.</text>
     </level>
   </level>
 </level>

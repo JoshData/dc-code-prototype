@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>1</num>
-  <heading>General Provisions.</heading>
-  <level>
-    <text>DC CODE D. III, T. 20, Ch. 1, Refs &amp; Annos</text>
-  </level>
+  <heading>General Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-103.xml"/>

@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>5</num>
-  <heading>Automobile Consumer Protection.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 50, Subt. II, Ch. 5, Refs &amp; Annos</text>
-  </level>
+  <heading>Automobile Consumer Protection</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-501.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-502.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-503.xml"/>

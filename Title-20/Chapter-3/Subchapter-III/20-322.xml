@@ -1,42 +1,39 @@
 <level type="section">
   <num>20-322</num>
   <heading>When mandatory.</heading>
-  <formerly-cited-as>DC ST 1981 § 20-322</formerly-cited-as>
   <text>A proceeding for standard probate shall be instituted:</text>
   <level>
+    <num>(a)</num>
+    <text>if, at any time before abbreviated probate,</text>
     <level>
-      <num>(a)</num>
-      <text>if, at any time before abbreviated probate,</text>
-      <level>
-        <num>(1)</num>
-        <text>an interested person or creditor makes a request; or</text>
-      </level>
-      <level>
-        <num>(2)</num>
-        <text>it appears to the Court that the petition for abbreviated probate is materially incomplete or incorrect in any respect; or</text>
-      </level>
+      <num>(1)</num>
+      <text>an interested person or creditor makes a request; or</text>
     </level>
     <level>
-      <num>(b)</num>
-      <text>in accordance with the provisions of section 20-331.</text>
+      <num>(2)</num>
+      <text>it appears to the Court that the petition for abbreviated probate is materially incomplete or incorrect in any respect; or</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(b)</num>
+    <text>in accordance with the provisions of section 20-331.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 24, 1980, D.C. Law 3-72, § 101, 27 DCR 2155.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 20-322.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-301.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 20-312.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 20-322.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-72</heading>
+      <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-301.</text>
     </level>
   </level>
 </level>

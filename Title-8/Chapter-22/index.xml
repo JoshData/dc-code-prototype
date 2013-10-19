@@ -1,16 +1,16 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>22</num>
-  <heading>Wildlife Protection.</heading>
+  <heading>Wildlife Protection</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2201.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2202.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2203.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2204.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2205.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2206.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2207.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2208.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2209.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2204~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2205~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2206~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2207~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2208~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2209~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2210.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2211.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-2212.xml"/>

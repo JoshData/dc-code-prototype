@@ -1,0 +1,15 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>III</num>
+  <heading>Territorial Applicability and General Rules</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_1-301.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_1-302.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_1-303.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_1-304.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_1-305.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_1-306.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_1-307.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_1-308.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_1-309.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_1-310.xml"/>
+</level>

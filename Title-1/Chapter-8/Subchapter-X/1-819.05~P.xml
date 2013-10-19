@@ -1,17 +1,11 @@
 <level type="placeholder">
   <reason>Reserved</reason>
   <section>1-819.05</section>
-  <formerly-cited-as>DC ST 1981 § 1-769.5</formerly-cited-as>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 1-817.05.</text>
-        <text>1981 Ed., § 1-769.5.</text>
-        <text>DC CODE § 1-819.05</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 1-817.05.</text>
+      <text>1981 Ed., § 1-769.5.</text>
     </level>
   </level>
 </level>

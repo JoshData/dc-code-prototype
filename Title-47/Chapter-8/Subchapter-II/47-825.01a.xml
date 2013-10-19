@@ -26,7 +26,7 @@
         </level>
         <level>
           <num>(iv)</num>
-          <text>Eight part-time Commissioners.</text>
+          <text>Six part-time Commissioners,</text>
         </level>
       </level>
       <level>
@@ -84,23 +84,23 @@
         <level>
           <num>(iii)</num>
           <text>At a minimum, the performance record shall contain, for the immediate prior term:</text>
-          <level>
-            <num>(I)</num>
-            <text>All the decisions authored by the Commissioner or to which he or she was a signatory;</text>
-          </level>
-          <level>
-            <num>(II)</num>
-            <text>Data on how the Commissioner met applicable objective performance measures;</text>
-          </level>
-          <level>
-            <num>(III)</num>
-            <text>The recommendation of the Chairperson or Vice-Chairperson, whichever is applicable, as to whether the reappointment should be made; and</text>
-          </level>
-          <level>
-            <num>(IV)</num>
-            <text>Any other information requested by the Mayor.</text>
-          </level>
         </level>
+      </level>
+      <level>
+        <num>(I)</num>
+        <text>All the decisions authored by the Commissioner or to which he or she was a signatory;</text>
+      </level>
+      <level>
+        <num>(II)</num>
+        <text>Data on how the Commissioner met applicable objective performance measures;</text>
+      </level>
+      <level>
+        <num>(III)</num>
+        <text>The recommendation of the Chairperson or Vice-Chairperson, whichever is applicable, as to whether the reappointment should be made; and</text>
+      </level>
+      <level>
+        <num>(IV)</num>
+        <text>Any other information requested by the Mayor.</text>
         <level>
           <num>(iv)</num>
           <text>The Chairperson or the Vice-Chairperson, whichever is applicable, shall submit the performance record to the Mayor within 60 days of the filing of the reappointment statement.</text>
@@ -119,7 +119,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>A Commissioner shall be prohibited from reviewing an appeal involving real property with which the Commissioner has had any financial dealings in the 2- year period prior to the filing date of the appeal. For the purposes of this subsection, the term "financial dealings" shall include the assessment, appraisal, purchase, sale, or rental of the real property in question.</text>
+        <text>A Commissioner shall be prohibited from reviewing an appeal involving real property with which the Commissioner has had any financial dealings in the 2-year period prior to the filing date of the appeal. For the purposes of this subsection, the term "financial dealings" shall include the assessment, appraisal, purchase, sale, or rental of the real property in question.</text>
       </level>
       <level>
         <num>(C)</num>
@@ -185,7 +185,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Pursuant to subchapter I of Chapter 5 of Title 2, the Commission shall issue rules of organization and procedure which shall be consistent with all applicable provisions of subchapter I of Chapter 5 of Title 2.</text>
+      <text>Pursuant to subchapter I of Chapter 5 of Title 2 [§ 2-501 et seq.], the Commission shall issue rules of organization and procedure which shall be consistent with all applicable provisions of subchapter I of Chapter 5 of Title 2 [§ 2-501 et seq.].</text>
     </level>
     <level>
       <num>(3)</num>
@@ -243,7 +243,7 @@
     </level>
     <level>
       <num>(6)</num>
-      <text>All meetings of the Commission, including hearings of individual appeals, shall be open to the public. All information presented at Commission meetings, including individual appeals, shall be available for public inspection. Notwithstanding the foregoing, valuation records protected under § 47- 821(d), tax returns, and information that is personal in nature shall not be available for public inspection and discussion of same during a hearing shall be <text i="True">in camera.</text></text>
+      <text>All meetings of the Commission, including hearings of individual appeals, shall be open to the public. All information presented at Commission meetings, including individual appeals, shall be available for public inspection. Notwithstanding the foregoing, valuation records protected under § 47-821(d), tax returns, and information that is personal in nature shall not be available for public inspection and discussion of same during a hearing shall be <span style="font-style: italic; ">in camera</span>.</text>
     </level>
     <level>
       <num>(7)</num>
@@ -253,10 +253,10 @@
       <num>(8)</num>
       <text>Any appraisal submitted to the Commission by the owner or OTR shall be subject to full disclosure to the Commission, the owner, and OTR. Information provided under this subparagraph shall be subject to the nondisclosure of valuation records provided in § 47-821(d)(2).</text>
     </level>
-    <level>
-      <num>(d)</num>
-      <text>A petition to the Office of Tax and Revenue for an administrative review shall proceed as follows:</text>
-    </level>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>A petition to the Office of Tax and Revenue for an administrative review shall proceed as follows:</text>
     <level>
       <num>(1)</num>
       <text>On or before April 1 of the immediately preceding tax year, an owner may petition OTR for an administrative review of the real property's assessed value or its classification that shall be in effect for the tax year at issue.</text>
@@ -297,26 +297,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <level>
-          <num>(i)</num>
-          <text>If an owner is aggrieved by a notice of final determination issued pursuant to § 42-3131.15 or a notice of final determination issued under § 47-813(d-1)(4A), the owner may file an appeal on the determination of vacancy with the Commission within 45 days after the date of the notice. Notwithstanding any other provision of this section, the Commission shall render a decision on the appeal within 120 days after the filing.</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>An appeal to the Commission under this subparagraph shall be on the same terms and under the same conditions, to the extent reasonable, as if the appeal were brought under subparagraph (A) of this paragraph; except, that no worksheet shall be required to be mailed, the Department of Consumer and Regulatory Affairs ("DCRA") shall be the responsible agency, and any supplemental filing shall be provided to the Commission and DCRA.</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>A response from DCRA shall be available for inspection at least 7 days before the scheduled hearing.</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>DCRA shall have the authority, as provided to OTR under subsection (f) of this section, to make redeterminations of vacancy and blight and any reclassifications that may be necessary.</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>DCRA shall be entitled to a rehearing to establish the proper status, vacant or blight, and tax classification of the real property under the same conditions and to the same extent under paragraph (6) of this subsection; provided, that paragraph (6)(D) of this subsection shall not apply.</text>
-        </level>
+        <text>If an owner is aggrieved by a notice of final determination issued pursuant to § 42-3131.15 or a notice of final determination issued under § 47-813(d-1)(4A), the owner may file an appeal on the determination of vacancy with the Commission within 45 days after the date of the notice. Notwithstanding any other provision of this section, the Commission shall render a decision on the appeal within 120 days after the filing.</text>
       </level>
     </level>
     <level>
@@ -567,64 +548,66 @@
       <text>The District of Columbia Auditor shall perform a management audit of the activities of the Commission at least once every 3 fiscal years (or sooner as considered appropriate by the Auditor) or upon request of a Councilmember, and report the findings to the Council.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2011, D.C. Law 18-363, § 2(b)(3), 58 DCR 963; July 13, 2012, D.C. Law 19-155, § 2(a), 59 DCR 5590; Sept. 26, 2012, D.C. Law 19-171, § 114(k), 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-155, in subsec. (a)(1)(A), inserted the following sentence: "The Commission shall have jurisdiction over any appeal timely filed with the Board of Real Property Assessments and Appeals in accordance with the provisions of § 47-825.01(f-1)." ; rewrote subsec. (a)(1)(B)(iv); in subsec. (a)(1)(G), inserted the following sentence: "A Commissioner's unexcused failure to meet annual performance measures in any 2 years within a 3-year period shall be among the grounds constituting cause for removal."; added subsec. (a)(1)(H); rewrote subsec. (c)(7); in subsec. (e)(1)(A), substituted "20 days after the filing of the appeal; provided, that a hearing shall not occur within 20 days from the date of the delivery of the supplemental filing" for "10 days after the filing of the appeal"; rewrote subsec. (e)(1)(B); and, in subsec. (g), substituted ""tax year; provided, that the owner shall have in good faith first appealed the assessed value or classification to the Commission immediately preceding the appeal to the Superior Court of the District of Columbia." for ""tax year." Prior to amendment, subsecs. (a)(1)(B)(iv), (c)(7), and (e)(1)(B) read as follows:</text>
-        <text>"(iv) Six part-time Commissioners,"</text>
-        <text>"(7) By appealing to the Commission, a real property owner consents to disclosure of tax information to the Commission as considered necessary by the Commission or OTR."</text>
-        <text>"(B) If an owner is aggrieved by a notice of final determination issued pursuant to § 42-3131.15 or a notice of final determination issued under § 47- 813(d-1)(4A), the owner may file an appeal on the determination of vacancy with the Commission within 45 days after the date of the notice. Notwithstanding any other provision of this section, the Commission shall render a decision on the appeal within 120 days after the filing."</text>
-        <text>D.C. Law 19-171, in subsec. (c)(1)(A)(i), substituted "request a multi-Commissioner" for "request the a multi-Commissioner"; and, in subsec. (g), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 2 of D.C. Law 19-56, in subsec. (a)(1)(A), added the following sentence at the end: "The Commission shall have jurisdiction over any appeal timely filed with the Board of Real Property Assessments and Appeals in accordance with § 47-825.01(f-1)."; and in subsec. (a)(1)(B)(iv), substituted "Eight" for "Six".</text>
-        <text>Section 4(b) of D.C. Law 19-56 provides that the act shall expire after 225 days of its having taken effect.</text>
-        <text>Section 5 of D.C. Law 19-75 rewrote subsec. (b)(1) to read as follows:</text>
-        <text>"(b)(1)(A) Except as provided in subparagraph (B) of this paragraph and subsection (c) of this section, a majority of the Commission shall constitute a quorum for transacting business.</text>
-        <text>"(B) Upon Council approval and appointment by the Mayor of a full-time Chairperson and a full-time Vice Chairperson pursuant to subsection (a)(1)(F) of this section, the Chairperson and the Vice-Chairperson shall constitute a quorum for transacting business; provided, that upon Council approval and appointment by the Mayor of additional members of the Commission, a majority of those appointed shall constitute a quorum until all members of the Commission have been appointed.".</text>
-        <text>Section 8(b) of D.C. Law 19-75 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>Section 2 of D.C. Law 19-75 added a section to D.C. Law 18-363 to read as follows:</text>
-        <text>"Sec. 3a. Applicability; transition.</text>
-        <text>"(a) Sections 2 and 3 shall apply upon Council approval and appointment by the Mayor of a full-time Chairperson and a full-time Vice Chairperson to the Real Property Tax Appeals Commission for the District of Columbia.</text>
-        <text>"(b) Notwithstanding subsection (a) of this section, the Mayor shall appoint the members of the Real Property Tax Appeals Commission for the District of Columbia with the advice and consent of the Council in accordance with the provisions of section 2(b)(3).".</text>
-        <text>Section 8(b) of D.C. Law 19-75 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section 3a of D.C. Law 18-363, see § 2 of Real Property Tax Appeals Commission Establishment Clarification Emergency Amendment Act of 2011 (D.C. Act 19-169, October 11, 2011, 58 DCR 8905).</text>
-        <text>For temporary (90 day) amendment of section, see § 5 of Real Property Tax Appeals Commission Establishment Clarification Emergency Amendment Act of 2011 (D.C. Act 19-169, October 11, 2011, 58 DCR 8905).</text>
-        <text>For temporary (90 day) amendment of section, see § 2 of Real Property Tax Appeals Commission Establishment Congressional Review Emergency Act of 2011 (D.C. Act 19-217, October 31, 2011, 58 DCR 9351).</text>
-        <text>For temporary (90 day) addition of section 3a of D.C. Law 18-363, see § 2 of Real Property Tax Appeals Commission Establishment Clarification Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-256, December 21, 2011, 58 DCR 11219).</text>
-        <text>For temporary (90 day) amendment of section, see § 5 of Real Property Tax Appeals Commission Establishment Clarification Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-256, December 21, 2011, 58 DCR 11219).</text>
-        <text>For temporary (90 day) repeal of D.C. Law 19-9, see § 6 of Real Property Tax Appeals Commission Establishment Clarification Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-256, December 21, 2011, 58 DCR 11219).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-363, see notes under § 47-412.01.</text>
-        <text>Law 19-155, the "Real Property Tax Appeals Commission Establishment Act of 2012", was introduced in Council and assigned Bill No. 19-271, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on April 17, 2012, and May 1, 2012, respectively. Signed by the Mayor on May 15, 2012, it was assigned Act No. 19-362 and transmitted to both Houses of Congress for its review. D.C. Law 19-155 became effective on July 13, 2012.</text>
-        <text>For history of Law 19-171, see notes under § 47-369.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 4 of D.C. Law 19-155 added a section to D.C. Law 18-363 to read as follows:</text>
-        <text>"Sec. 3a. Applicability; transition.</text>
-        <text>"(a) Sections 2 and 3 shall apply upon Council approval and appointment by the Mayor of a full-time Chairperson and a full-time Vice Chairperson to the Real Property Tax Appeals Commission for the District of Columbia.</text>
-        <text>"(b) Notwithstanding subsection (a) of this section, the Mayor shall appoint the members of the Real Property Tax Appeals Commission for the District of Columbia with the advice and consent of the Council in accordance with the provisions of section 2(b)(3)).".</text>
-        <text>Section 5 of D.C. Law 19-155 provides:</text>
-        <text>"Sec. 5. Applicability.</text>
-        <text>"This act shall apply upon Council approval and appointment by the Mayor of a full-time Chairperson and a full-time Vice Chairperson to the Real Property Tax Appeals Commission for the District of Columbia."</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-811.02, § 47-820, § 47-835, and § 47-863.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 19-155, in subsec. (a)(1)(A), inserted the following sentence: "The Commission shall have jurisdiction over any appeal timely filed with the Board of Real Property Assessments and Appeals in accordance with the provisions of § 47-825.01(f-1)."; rewrote subsec. (a)(1)(B)(iv); in subsec. (a)(1)(G), inserted the following sentence: "A Commissioner's unexcused failure to meet annual performance measures in any 2 years within a 3-year period shall be among the grounds constituting cause for removal."; added subsec. (a)(1)(H); rewrote subsec. (c)(7); in subsec. (e)(1)(A), substituted "20 days after the filing of the appeal; provided, that a hearing shall not occur within 20 days from the date of the delivery of the supplemental filing" for "10 days after the filing of the appeal"; rewrote subsec. (e)(1)(B); and, in subsec. (g), substituted "tax year; provided, that the owner shall have in good faith first appealed the assessed value or classification to the Commission immediately preceding the appeal to the Superior Court of the District of Columbia." for "tax year."</text>
+      <text>The 2012 amendment by D.C. Law 19-171 substituted "request a multi-Commissioner" for "request the a [sic] multi-Commissioner" in (c)(1)(A)(i); and validated a previously made technical correction in (g).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 2 of D.C. Law 19-56, in subsec. (a)(1)(A), added the following sentence at the end: "The Commission shall have jurisdiction over any appeal timely filed with the Board of Real Property Assessments and Appeals in accordance with § 47-825.01(f-1)."; and in subsec. (a)(1)(B)(iv), substituted "Eight" for "Six".</text>
+      <text>Section 4(b) of D.C. Law 19-56 provided that the act shall expire after 225 days of its having taken effect.</text>
+      <text>Section 5 of D.C. Law 19-75 rewrote subsec. (b)(1) to read as follows:</text>
+      <text>"(b)(1)(A) Except as provided in subparagraph (B) of this paragraph and subsection (c) of this section, a majority of the Commission shall constitute a quorum for transacting business.</text>
+      <text>"(B) Upon Council approval and appointment by the Mayor of a full-time Chairperson and a full-time Vice Chairperson pursuant to subsection (a)(1)(F) of this section, the Chairperson and the Vice-Chairperson shall constitute a quorum for transacting business; provided, that upon Council approval and appointment by the Mayor of additional members of the Commission, a majority of those appointed shall constitute a quorum until all members of the Commission have been appointed.".</text>
+      <text>Section 8(b) of D.C. Law 19-75 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>Section 2 of D.C. Law 19-75 added a section to D.C. Law 18-363 to read as follows:</text>
+      <text>"Sec. 3a. Applicability; transition.</text>
+      <text>"(a) Sections 2 and 3 shall apply upon Council approval and appointment by the Mayor of a full-time Chairperson and a full-time Vice Chairperson to the Real Property Tax Appeals Commission for the District of Columbia.</text>
+      <text>"(b) Notwithstanding subsection (a) of this section, the Mayor shall appoint the members of the Real Property Tax Appeals Commission for the District of Columbia with the advice and consent of the Council in accordance with the provisions of section 2(b)(3).".</text>
+      <text>Section 8(b) of D.C. Law 19-75 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section 3a of D.C. Law 18-363, see § 2 of Real Property Tax Appeals Commission Establishment Clarification Emergency Amendment Act of 2011 (D.C. Act 19-169, October 11, 2011, 58 DCR 8905).</text>
+      <text>For temporary (90 day) amendment of section, see § 5 of Real Property Tax Appeals Commission Establishment Clarification Emergency Amendment Act of 2011 (D.C. Act 19-169, October 11, 2011, 58 DCR 8905).</text>
+      <text>For temporary (90 day) amendment of section, see § 2 of Real Property Tax Appeals Commission Establishment Congressional Review Emergency Act of 2011 (D.C. Act 19-217, October 31, 2011, 58 DCR 9351).</text>
+      <text>For temporary (90 day) addition of section 3a of D.C. Law 18-363, see § 2 of Real Property Tax Appeals Commission Establishment Clarification Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-256, December 21, 2011, 58 DCR 11219).</text>
+      <text>For temporary (90 day) amendment of section, see § 5 of Real Property Tax Appeals Commission Establishment Clarification Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-256, December 21, 2011, 58 DCR 11219).</text>
+      <text>For temporary (90 day) repeal of D.C. Law 19-9, see § 6 of Real Property Tax Appeals Commission Establishment Clarification Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-256, December 21, 2011, 58 DCR 11219).</text>
+      <text>For temporary addition of a salary schedule for the Real Property Tax Appeals Commission, effective as of the first full pay period beginning in fiscal year 2013, see §§ 201 and 202 of the Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 12, 2012, 59 DCR 12478).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-363</heading>
+      <text>For history of Law 18-363, see notes under § 47-412.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-155</heading>
+      <text>Law 19-155, the "Real Property Tax Appeals Commission Establishment Act of 2012", was introduced in Council and assigned Bill No. 19-271, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on April 17, 2012, and May 1, 2012, respectively. Signed by the Mayor on May 15, 2012, it was assigned Act No. 19-362 and transmitted to both Houses of Congress for its review. D.C. Law 19-155 became effective on July 13, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 47-821.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 4 of D.C. Law 19-155 added a section to D.C. Law 18-363 to read as follows:</text>
+      <text>"Sec. 3a. Applicability; transition.</text>
+      <text>"(a) Sections 2 and 3 shall apply upon Council approval and appointment by the Mayor of a full-time Chairperson and a full-time Vice Chairperson to the Real Property Tax Appeals Commission for the District of Columbia.</text>
+      <text>"(b) Notwithstanding subsection (a) of this section, the Mayor shall appoint the members of the Real Property Tax Appeals Commission for the District of Columbia with the advice and consent of the Council in accordance with the provisions of section 2(b)(3)).".</text>
+      <text>Section 5 of D.C. Law 19-155 provided: "Sec. 5. Applicability. This act shall apply upon Council approval and appointment by the Mayor of a full-time Chairperson and a full-time Vice Chairperson to the Real Property Tax Appeals Commission for the District of Columbia."</text>
     </level>
   </level>
 </level>

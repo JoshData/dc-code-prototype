@@ -1,75 +1,124 @@
 <level type="section">
   <num>42-601</num>
   <heading>Deed, mortgage, and lease forms.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-501</formerly-cited-as>
-  <text>The following forms or forms to the like effect shall be sufficient, and any covenant, limitation, restriction, or proviso allowed by law may be added, annexed to, or introduced in the said forms. Any other form conforming to the rules herein laid down shall be sufficient:</text>
-  <text>FEE SIMPLE DEED</text>
-  <text>This deed, made this ___ day of ___, in the year ___, by me, ___, of ___, witnesseth, that in consideration of (here insert consideration), I, the said ___, do grant unto (here insert grantee's name), of ___, all that (here describe the property).</text>
-  <text>
-    <text font="'monospace'"> Witness my hand and seal. _________________________ [Seal.]</text>
-  </text>
-  <text>DEED BY SPOUSE OR DOMESTIC PARTNER</text>
-  <text>This deed, made this ___ day of ___, in the year ___, by us, ___ and ___, his or her spouse or domestic partner, of ___, witnesseth, that in consideration of ___, we, the said ___ and his or her spouse or domestic partner, do grant unto ___, of ___, and so forth.</text>
-  <text>
-    <text font="'monospace'"> Witness our hands and seals. _________________________ [Seal.]</text>
-  </text>
-  <text>
-    <text font="'monospace'"> _________________________ [Seal.]</text>
-  </text>
-  <text>DEED OF LIFE ESTATE</text>
-  <text>This deed, made this ___ day of ___, in the year ___, by me, ___, of ___, witnesseth, that in consideration of ___, I, the said ___, do grant unto ___, of ___, all that (here describe the property), to hold during his life and no longer.</text>
-  <text>
-    <text font="'monospace'"> Witness my hand and seal. _________________________ [Seal.]</text>
-  </text>
-  <text>DEED OF TRUST TO SECURE DEBTS, SURETIES, OR FOR OTHER PURPOSES</text>
-  <text>This deed, made this ___ day of ___, in the year ___, by me, ___, of ___, witnesseth, that whereas (here insert the consideration for the deed), I, the said ___, do grant unto ___, of ___, as trustee, the following property (here describe it) in trust for the following purposes (here insert the trusts and any covenant that may be agreed upon).</text>
-  <text>
-    <text font="'monospace'"> Witness my hand and seal. _________________________ [Seal.]</text>
-  </text>
-  <text>FORM OF TRUSTEE'S DEED UNDER A DECREE</text>
-  <text>This deed, made this ___ day of ___, in the year ___, by me, ___, trustee, of ___, witnesseth: Whereas by a decree of (here insert court) passed on the ___ day of ___, in the cause of ___ versus ___, I, the said ___, was appointed trustee to sell the land decreed to be sold, and have sold the same to ___; and said sale has been ratified by said court, and said ___ has fully paid the purchase money due on said sale; now, therefore, in consideration of the premises, I, the said ___, do grant unto ___, of ___, all the right and title of all the parties to the aforesaid cause, in and to all that (here describe property).</text>
-  <text>
-    <text font="'monospace'"> Witness my hand and seal. _________________________ [Seal.]</text>
-  </text>
-  <text>EXECUTOR'S DEED</text>
-  <text>This deed, made this ___ day of ___, in the year ___, witnesseth, that I, ___, of ___, executor of the last will of ___, late of ___, deceased, under a power in said will contained, in consideration of ___, have sold and do hereby grant to ___, of ___, all that (here describe the property).</text>
-  <text>
-    <text font="'monospace'"> Witness my hand and seal. _________________________ [Seal.]</text>
-  </text>
-  <text>FORM OF MORTGAGE, WITH OR WITHOUT POWER OF SALE</text>
-  <text>This mortgage, made this ___ day of ___, in the year ___, witnesseth, that whereas I, ___, of ___, am indebted unto ___, of ___, in the sum of ___, payable ___, for which I have given to said ___ my (here describe obligation). Now, in consideration thereof, I hereby grant unto the said ___ all that (here describe property), provided that if I shall punctually pay said (notes or other instruments) according to the tenor thereof then this mortgage shall be void. And if I shall make default in such payment the said ___ is hereby authorized and empowered to sell said property at public auction on the following terms (here insert them), and out of the proceeds of sale to retain whatever shall remain unpaid of my said indebtedness and the costs of such sale, and the surplus, if any, to pay to me.</text>
-  <text>
-    <text font="'monospace'"> Given under my hand and seal. _________________________ [Seal.]</text>
-  </text>
-  <text>FORM OF LEASE</text>
-  <text>This lease, made this ___ of ___, in the year ___, between ___, of ___, and ___, of ___, witnesseth, that the said ___ doth lease unto the said ___, his executor, administrator, and assigns, all that (here describe the property) for the term of ___ years, beginning on the ___ day of ___, in the year ___, and ending on the ___ day of __________, in the year ___, the said ___ paying therefor the sum of ___ on the ___ day of ___ in each and every year (or month, as the case may be).</text>
-  <text>
-    <text font="'monospace'"> Witness our hands and seals. _________________________ [Seal.]</text>
-  </text>
-  <text>
-    <text font="'monospace'"> _________________________ [Seal.]</text>
-  </text>
-  <level>
-    <type>annotations</type>
+  <level type="form">
+    <text> The following forms or forms to the like effect shall be sufficient, and any covenant, limitation, restriction, or proviso allowed by law may be added, annexed to, or introduced in the said forms. Any other form conforming to the rules herein laid down shall be sufficient: 
+
+
+
+
+ 
+
+ FEE SIMPLE DEED 
+
+
+ This deed, made this _____________ day of __________, in the year ____________, by me, ____________, of ____________, witnesseth, that in consideration of (here insert consideration), I, the said ____________, do grant unto (here insert grantee's name), of ____________, all that (here describe the property). 
+
+
+ Witness my hand and seal. ______________________________ [Seal.] 
+
+
+ 
+
+ DEED BY SPOUSE OR DOMESTIC PARTNER 
+
+
+ This deed, made this ____________ day of ____________, in the year ____________, by us, ____________ and ____________, his or her spouse or domestic partner, of ____________, witnesseth, that in consideration of ____________, we, the said ____________ and his or her spouse or domestic partner, do grant unto ____________, of ____________, and so forth. 
+
+
+ Witness our hands and seals. ______________________________ [Seal.] 
+
+
+ ______________________________ [Seal.] 
+
+
+ 
+
+ DEED OF LIFE ESTATE 
+
+
+ This deed, made this _____________ day of __________, in the year __________, by me, _____________, of _____________, witnesseth, that in consideration of ____________, I, the said ____________, do grant unto ____________, of ____________, all that (here describe the property), to hold during his life and no longer. 
+
+
+ Witness my hand and seal. ______________________________ [Seal.] 
+
+
+ 
+
+ DEED OF TRUST TO SECURE DEBTS, SURETIES, OR FOR OTHER PURPOSES 
+
+
+ This deed, made this _____________ day of __________, in the year ____________, by me, ____________, of ____________, witnesseth, that whereas (here insert the consideration for the deed), I, the said ____________, do grant unto ____________, of ____________, as trustee, the following property (here describe it) in trust for the following purposes (here insert the trusts and any covenant that may be agreed upon). 
+
+
+ Witness my hand and seal. ______________________________ [Seal.] 
+
+
+ 
+
+ FORM OF TRUSTEE'S DEED UNDER A DECREE 
+
+
+ This deed, made this _____________ day of __________, in the year ____________, by me, ____________, trustee, of ____________, witnesseth: Whereas by a decree of (here insert court) passed on the ____________ day of ____________, in the cause of ____________ versus ____________, I, the said ____________, was appointed trustee to sell the land decreed to be sold, and have sold the same to ____________; and said sale has been ratified by said court, and said ____________ has fully paid the purchase money due on said sale; now, therefore, in consideration of the premises, I, the said __________, do grant unto __________, of ____________, all the right and title of all the parties to the aforesaid cause, in and to all that (here describe property). 
+
+
+ Witness my hand and seal. ______________________________ [Seal.] 
+
+
+ 
+
+ EXECUTOR'S DEED 
+
+
+ This deed, made this ____________ day of ____________, in the year ____________, witnesseth, that I, ____________, of ____________, executor of the last will of ____________, late of ____________, deceased, under a power in said will contained, in consideration of ____________, have sold and do hereby grant to ____________, of ____________, all that (here describe the property). 
+
+
+ Witness my hand and seal. ______________________________ [Seal.] 
+
+
+ 
+
+ FORM OF MORTGAGE, WITH OR WITHOUT POWER OF SALE 
+
+
+ This mortgage, made this ____________ day of ____________, in the year ____________, witnesseth, that whereas I, ____________, of __________, am indebted unto ____________, of __________, in the sum of ____________, payable ____________, for which I have given to said ____________ my (here describe obligation). Now, in consideration thereof, I hereby grant unto the said ____________ all that (here describe property), provided that if I shall punctually pay said (notes or other instruments) according to the tenor thereof then this mortgage shall be void. And if I shall make default in such payment the said ____________ is hereby authorized and empowered to sell said property at public auction on the following terms (here insert them), and out of the proceeds of sale to retain whatever shall remain unpaid of my said indebtedness and the costs of such sale, and the surplus, if any, to pay to me. 
+
+
+ Given under my hand and seal. ______________________________ [Seal.] 
+
+
+ 
+
+ FORM OF LEASE 
+
+
+ This lease, made this ________________ of __________, in the year ____________, between ____________, of ____________, and ____________, of ____________, witnesseth, that the said ____________ doth lease unto the said ____________, his executor, administrator, and assigns, all that (here describe the property) for the term of ____________ years, beginning on the ____________ day of ____________, in the year ____________, and ending on the ____________ day of __________________, in the year __________, the said __________ paying therefor the sum of ____________ on the __________ day of ____________ in each and every year (or month, as the case may be). 
+
+
+ Witness our hands and seals. ______________________________ [Seal.] 
+ ______________________________ [Seal.]</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1901, 31 Stat. 1277, ch. 854, ch. 16, subch. 5; June 30, 1902, 32 Stat. 533, ch. 1329; Sept. 12, 2008, D.C. Law 17-231, § 33(b), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-501.</text>
-        <text>1973 Ed., § 45-301.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-231 deleted the Deed by Husband and Wife form and inserted the Deed by Spouse or Domestic Partner form.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-231, see notes following § 42-516.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Sales and conveyances of public property, see § 10-801 et seq.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-501.</text>
+      <text>1973 Ed., § 45-301.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-231 deleted the Deed by Husband and Wife form and inserted the Deed by Spouse or Domestic Partner form.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 42-516.</text>
     </level>
   </level>
 </level>

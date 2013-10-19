@@ -1,21 +1,20 @@
 <level type="placeholder">
   <reason>Repealed</reason>
   <section>8-115.07a</section>
-  <heading>Clearance report required.</heading>
-  <level>
-    <type>annotations</type>
+  <heading>Clearance report required; Record keeping requirements.</heading>
+  <text>Repealed.</text>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 9, 1997, D.C. Law 11-221, § 8a, as added Apr. 12, 2005, D.C. Law 15-347, § 2(i), 52 DCR 2627, Mar. 31, 2009, D.C. Law 17-381, § 21(a), 56 DCR 1596.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-347, see notes following § 8-115.01.</text>
-        <text>For Law 17-381, see notes following § 8-115.01.</text>
-        <text>DC CODE § 8-115.07a</text>
-      </level>
+      <heading>Legislative History of Law 15-347</heading>
+      <text>For Law 15-347, see notes following § 8-115.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-381</heading>
+      <text>For Law 17-381, see notes following § 8-115.01.</text>
     </level>
   </level>
 </level>

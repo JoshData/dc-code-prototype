@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-529.04</num>
   <heading>Enrollment in health benefits plan.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-3004</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For purposes of this section, "former spouse" means a living person:</text>
@@ -15,7 +14,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Who was enrolled as a family member in a health benefits plan approved under the Federal Health Benefits Program or in a plan approved under §§ 1- 621.05 through 1-621.13 at any time during the 18-month period before the dissolution of the marriage by divorce, annulment, or legal separation; and</text>
+      <text>Who was enrolled as a family member in a health benefits plan approved under the Federal Health Benefits Program or in a plan approved under §§ 1-621.05 through 1-621.13 at any time during the 18-month period before the dissolution of the marriage by divorce, annulment, or legal separation; and</text>
     </level>
     <level>
       <num>(4)</num>
@@ -34,26 +33,22 @@
     <num>(d)</num>
     <text>Only former spouses whose marriages were dissolved after March 16, 1989 through divorce, annulment, or legal separation shall be eligible to enroll in the health benefits plans.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1989, D.C. Law 7-214, § 6, 36 DCR 513.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-3004.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-214, see Historical and Statutory Notes following § 1-529.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Law 17-358 amended this section subject to congressional enactment.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-3004.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-214</heading>
+      <text>For legislative history of D.C. Law 7-214, see Historical and Statutory Notes following § 1-529.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Law 17-358 amended this section subject to congressional enactment.</text>
     </level>
   </level>
 </level>

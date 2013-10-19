@@ -17,18 +17,14 @@
       <text>On a second or subsequent offense, a fine of not more than $10,000 or imprisonment for not more than 90 days, or both.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 4, 2001, D.C. Law 13-272, § 5, 48 DCR 1633.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-272, see notes following § 7-2851.</text>
-      </level>
+      <heading>Legislative History of Law 13-272</heading>
+      <text>For D.C. Law 13-272, see notes following § 7-2851.</text>
     </level>
   </level>
 </level>

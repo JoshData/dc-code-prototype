@@ -1,7 +1,6 @@
 <level type="section">
   <num>2-1211.03</num>
   <heading>Commission established.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-2253</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There is established the District of Columbia Enterprise Zone Study Commission ("Commission").</text>
@@ -54,22 +53,18 @@
     <num>(d)</num>
     <text>Vacancies in the commission shall be filled in the same manner as the original appointment.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 24, 1987, D.C. Law 6-171, § 4, 33 DCR 7205.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-2253.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-171, see Historical and Statutory Notes following § 2-1211.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-2253.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-171</heading>
+      <text>For legislative history of D.C. Law 6-171, see Historical and Statutory Notes following § 2-1211.01.</text>
     </level>
   </level>
 </level>

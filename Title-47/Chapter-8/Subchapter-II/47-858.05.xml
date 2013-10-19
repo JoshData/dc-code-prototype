@@ -1,6 +1,6 @@
 <level type="section">
   <num>47-858.05</num>
-  <heading>Tax abatements for homeowners in enterprise zones -- Applicability date; Mayoral certification; computation of abatement.</heading>
+  <heading>Tax abatements for homeowners in enterprise zones - Applicability date; Mayoral certification; computation of abatement.</heading>
   <level>
     <num>(a)</num>
     <text>Sections 47-858.01 through 47-858.04 shall apply for tax years beginning on or after October 1, 2002.</text>
@@ -13,18 +13,14 @@
     <num>(c)</num>
     <text>The abatement shall be computed by the Office of Tax and Revenue by comparing the current assessment of the qualified property for the first year that the property is qualified or the assessment in any succeeding year and comparing it to the assessment in the base year. The abatement percentage shall be applied to the difference between base year assessment and the current year's assessment for each tax year. The Mayor shall certify to the Office of Tax and Revenue that each property owner and each property qualifies for the program annually regarding income levels.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 19, 2002, D.C. Law 14-114, § 701(b), 49 DCR 1468.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-114, see notes following § 47-857.01.</text>
-      </level>
+      <heading>Legislative History of Law 14-114</heading>
+      <text>For Law 14-114, see notes following § 47-857.01.</text>
     </level>
   </level>
 </level>

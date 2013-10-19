@@ -3,106 +3,110 @@
   <heading>Client rights.</heading>
   <text>Clients served within the Continuum of Care shall have the right to:</text>
   <level>
+    <num>(1)</num>
+    <text>At all times, be treated by providers and the Department with dignity and respect;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>Access services within the Continuum of Care free from discrimination on the basis of race, color, religion, national origin, language, culture, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, familial status, family responsibilities, matriculation, political affiliation, disability, and source of income, and in accordance with Unit A of Chapter 14 of Title 2, the Americans with Disabilities Act of 1990, approved July 26, 1990 (104 Stat. 328; 42 U.S.C. § 12101 et seq.), the Rehabilitation Act of 1973, approved August 7, 1998 (112 Stat. 1095; 29 U.S.C. § 701 et seq.), Title II of the Civil Rights Act of 1964, approved July 2, 1964 (78 Stat. 243; 42 U.S.C. § 2000a et seq.), and subchapter II of Chapter 19 of Title 2 [§ 2-1931 et seq.];</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Receive reasonable modifications to policies, practices, or procedures when the modifications are necessary to avoid discrimination on the basis of disability, unless the client's provider demonstrates that the modifications would fundamentally alter the nature of the services;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Access services within the Continuum of Care free from verbal, emotional, sexual, financial, and physical abuse and exploitation;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Shelter in severe weather conditions;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>At a reasonable time and with reasonable prior notice, view and copy, or have an authorized representative view and copy, all records and information that are related to the client and maintained by the client's provider, including any relevant personal, social, legal, financial, educational, and medical records and information, subject to the provisions of paragraph (7) of this subsection;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>Confidential treatment by the Department and providers of personal, social, legal, financial, educational, and medical records and information related to a client or any member of a client's family, whether obtained from the client or from any other source, in a manner consistent with the confidentiality requirements of District and federal law;</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>Engage in or abstain from the practice of religion, including the religion of a particular provider or other clients;</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>Upon request, be told the name and job title of any provider staff member delivering services;</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>Provide input and feedback to providers on their delivery of services;</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>File complaints with, testify before, or provide information to a provider or the Mayor regarding the provider's delivery of services or treatment of the client;</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>Participate actively in development of any service plan for the client, be told of the progress made toward the goals of that service plan, and receive a review of the service plan upon request;</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>Be free from testing for drugs or alcohol except when:</text>
     <level>
-      <num>(1)</num>
-      <text>At all times, be treated by providers and the Department with dignity and respect;</text>
+      <num>(A)</num>
+      <text>Program guidelines prohibit intoxication and a licensed social worker with experience identifying indications of drug or alcohol use or a certified addiction counselor determines that there is reasonable cause to believe that the client is engaging in drug or alcohol use; or</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>Access services within the Continuum of Care free from discrimination on the basis of race, color, religion, national origin, language, culture, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, familial status, family responsibilities, matriculation, political affiliation, disability, and source of income, and in accordance with Unit A of Chapter 14 of Title 2, the Americans with Disabilities Act of 1990, approved July 26, 1990 (104 Stat. 328; 42 U.S.C. § 12101 <text i="True">et seq.</text>), the Rehabilitation Act of 1973, approved August 7, 1998 (112 Stat. 1095; 29 U.S.C. § 701 <text i="True">et seq.</text>), Title II of the Civil Rights Act of 1964, approved July 2, 1964 (78 Stat. 243; 42 U.S.C. § 2000a <text i="True">et seq.</text>), and subchapter II of Chapter 19 of Title 2;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Receive reasonable modifications to policies, practices, or procedures when the modifications are necessary to avoid discrimination on the basis of disability, unless the client's provider demonstrates that the modifications would fundamentally alter the nature of the services;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Access services within the Continuum of Care free from verbal, emotional, sexual, financial, and physical abuse and exploitation;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Shelter in severe weather conditions;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>At a reasonable time and with reasonable prior notice, view and copy, or have an authorized representative view and copy, all records and information that are related to the client and maintained by the client's provider, including any relevant personal, social, legal, financial, educational, and medical records and information, subject to the provisions of paragraph (7) of this subsection;</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>Confidential treatment by the Department and providers of personal, social, legal, financial, educational, and medical records and information related to a client or any member of a client's family, whether obtained from the client or from any other source, in a manner consistent with the confidentiality requirements of District and federal law;</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>Engage in or abstain from the practice of religion, including the religion of a particular provider or other clients;</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>Upon request, be told the name and job title of any provider staff member delivering services;</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>Provide input and feedback to providers on their delivery of services;</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>File complaints with, testify before, or provide information to a provider or the Mayor regarding the provider's delivery of services or treatment of the client;</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>Participate actively in development of any service plan for the client, be told of the progress made toward the goals of that service plan, and receive a review of the service plan upon request;</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>Be free from testing for drugs or alcohol except when:</text>
-      <level>
-        <num>(A)</num>
-        <text>Program guidelines prohibit intoxication and a licensed social worker with experience identifying indications of drug or alcohol use or a certified addiction counselor determines that there is reasonable cause to believe that the client is engaging in drug or alcohol use; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>A client consents to drug or alcohol testing as part of the client's case management plan developed in accordance with paragraph (12) of this subsection;</text>
-      </level>
-    </level>
-    <level>
-      <num>(14)</num>
-      <text>Meet and communicate privately with attorneys, advocates, clergy, physicians, and other professionals;</text>
-    </level>
-    <level>
-      <num>(15)</num>
-      <text>Timely notice, where required by § 4-754.33, of any decision by the Department or a provider that adversely affects the client's receipt of services within the Continuum of Care;</text>
-    </level>
-    <level>
-      <num>(16)</num>
-      <text>Appeal, where permitted by §§4-754.41 and 4-754.42, of any decision by the Department or a provider that adversely affects the client's receipt of services within the Continuum of Care;</text>
-    </level>
-    <level>
-      <num>(17)</num>
-      <text>Be free from retaliation, punishment, or sanction for exercising any rights provided under this chapter; and</text>
-    </level>
-    <level>
-      <num>(18)</num>
-      <text>Continuation of shelter and supportive housing services without change, other than transfer pursuant to § 4-754.34 or emergency transfer, suspension, or termination pursuant to § 4-754.38, pending the outcome of any fair hearing requested within 15 calendar days of receipt of written notice of a suspension or termination.</text>
+      <num>(B)</num>
+      <text>A client consents to drug or alcohol testing as part of the client's case management plan developed in accordance with paragraph (12) of this subsection;</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(14)</num>
+    <text>Meet and communicate privately with attorneys, advocates, clergy, physicians, and other professionals;</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>Timely notice, where required by § 4-754.33, of any decision by the Department or a provider that adversely affects the client's receipt of services within the Continuum of Care;</text>
+  </level>
+  <level>
+    <num>(16)</num>
+    <text>Appeal, where permitted by §§ 4-754.41 and 4-754.42, of any decision by the Department or a provider that adversely affects the client's receipt of services within the Continuum of Care;</text>
+  </level>
+  <level>
+    <num>(17)</num>
+    <text>Be free from retaliation, punishment, or sanction for exercising any rights provided under this chapter; and</text>
+  </level>
+  <level>
+    <num>(18)</num>
+    <text>Continuation of shelter and supportive housing services without change, other than transfer pursuant to § 4-754.34 or emergency transfer, suspension, or termination pursuant to § 4-754.38, pending the outcome of any fair hearing requested within 15 calendar days of receipt of written notice of a suspension or termination.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2005, D.C. Law 16-35, § 9, 52 DCR 8113; Mar. 14, 2007, D.C. Law 16-296, § 2(g), 54 DCR 1097; June 25, 2008, D.C. Law 17-177, § 7(b), 55 DCR 3696.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-296, in par. (11), inserted "testify before, or provide information to" following "File complaints with".</text>
-        <text>D.C. Law 17-177, in par. (2), substituted "sexual orientation, gender identity or expression" for "sexual orientation".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-35, see notes following § 4-751.01.</text>
-        <text>For Law 16-296, see notes following § 4-751.01.</text>
-        <text>For Law 17-177, see notes following § 4-751.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-754.12, § 4-754.31, § 4-754.32, § 4-754.33, § 4-754.38, § 4-754.41, § 4-754.52, and § 4-755.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-296, in par. (11), inserted "testify before, or provide information to" following "File complaints with".</text>
+      <text>D.C. Law 17-177, in par. (2), substituted "sexual orientation, gender identity or expression" for "sexual orientation".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-35</heading>
+      <text>For Law 16-35, see notes following § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-296</heading>
+      <text>For Law 16-296, see notes following § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-177</heading>
+      <text>For Law 17-177, see notes following § 4-751.01.</text>
     </level>
   </level>
 </level>

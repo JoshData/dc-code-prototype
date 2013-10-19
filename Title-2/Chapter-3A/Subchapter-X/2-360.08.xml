@@ -1,7 +1,6 @@
 <level type="section">
   <num>2-360.08</num>
   <heading>Protest procedures.</heading>
-  <formerly-cited-as>DC ST 2001 § 2-309.08</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>This section shall apply to a protest of a solicitation or award of a contract addressed to the Board by any actual or prospective bidder, offeror, or contractor who is aggrieved in connection with the solicitation or award of a contract.</text>
@@ -98,22 +97,18 @@
     <num>(h)</num>
     <text>The Board shall adopt rules for exercising its authority under this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2011, D.C. Law 18-371, § 1008, 58 DCR 1185.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 2-309.08. </text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-371, see notes under § 2-351.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 2-309.08.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-371</heading>
+      <text>For history of Law 18-371, see notes under § 2-351.01.</text>
     </level>
   </level>
 </level>

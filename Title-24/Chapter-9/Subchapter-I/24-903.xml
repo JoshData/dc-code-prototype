@@ -1,7 +1,6 @@
 <level type="section">
   <num>24-903</num>
   <heading>Sentencing alternatives.</heading>
-  <formerly-cited-as>DC ST 1981 § 24-803</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -65,27 +64,30 @@
     <num>(f)</num>
     <text>Subsections (a) through (e) of this section provide sentencing alternatives in addition to the options already available to the court.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 7, 1985, D.C. Law 6-69, § 4, 32 DCR 4587; Jan. 31, 1990, D.C. Law 8-61, § 2, 36 DCR 5798.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 24-803.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-69, see Historical and Statutory Notes following § 24-901.</text>
-        <text>Law 8-61, the "Youth Offender Community Service Amendment Act of 1989," was introduced in Council and assigned Bill No. 8-138, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on June 27, 1989, and July 11, 1989, respectively. Signed by the Mayor on August 1, 1989, it was assigned Act No. 8-84 and transmitted to both Houses of Congress for its review.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority pursuant to Law 6-69, see Mayor's Order 87-61, March 10, 1987.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 24-403.01 and § 24-403.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 24-803.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-69</heading>
+      <text>For legislative history of D.C. Law 6-69, see Historical and Statutory Notes following § 24-901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-61</heading>
+      <text>Law 8-61, the "Youth Offender Community Service Amendment Act of 1989," was introduced in Council and assigned Bill No. 8-138, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on June 27, 1989, and July 11, 1989, respectively. Signed by the Mayor on August 1, 1989, it was assigned Act No. 8-84 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority pursuant to Law 6-69, see Mayor's Order 87-61, March 10, 1987.</text>
     </level>
   </level>
 </level>

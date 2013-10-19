@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>3</num>
-  <heading>Museum of the City of Washington.</heading>
-  <level>
-    <text>DC CODE D. VI, T. 39, Subt. II, Ch. 3, Refs &amp; Annos</text>
-  </level>
+  <heading>Museum of the City of Washington</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-301.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-302.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-303.xml"/>

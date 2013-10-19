@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>IV</num>
-  <heading>Administrative Review.</heading>
+  <heading>Administrative Review</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2304.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2304.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-2304.03.xml"/>

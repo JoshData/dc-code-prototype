@@ -17,18 +17,14 @@
     <num>(d)</num>
     <text>The Department shall enter into a "business associate" agreement with the Ombudsman Program that gives the program access to information about the Medicaid eligibility status of consumers whom it serves and requires the program to safeguard that information pursuant to the Health Insurance Portability and Accountability Act Privacy Regulation (45 C.F.R. Parts 160 and 164).</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 12, 2005, D.C. Law 15-331, § 8, 52 DCR 1981.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-331, see notes following § 7-2071.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-331</heading>
+      <text>For Law 15-331, see notes following § 7-2071.01.</text>
     </level>
   </level>
 </level>

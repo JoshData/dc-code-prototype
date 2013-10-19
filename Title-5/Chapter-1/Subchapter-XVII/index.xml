@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>XVII</num>
-  <heading>Miscellaneous.</heading>
+  <heading>Miscellaneous</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-133.01~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-133.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-133.03.xml"/>
@@ -22,6 +22,6 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-133.17.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-133.18.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-133.19.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-133.20.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-133.20~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-133.21.xml"/>
 </level>

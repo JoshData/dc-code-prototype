@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1356</num>
   <heading>Interstate priorities.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-2856</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>In a liquidation proceeding in the District involving 1 or more reciprocal states, the order of distribution of the domiciliary state shall control as to all claims of residents of this and reciprocal states. All claims of residents of reciprocal states shall be given equal priority of payment from general assets regardless of where the assets are located.</text>
@@ -14,22 +13,18 @@
     <num>(c)</num>
     <text>The owner of a secure claim against an insurer for which a liquidator has been appointed in this or any other state may surrender his or her security and file his or her claim as a general creditor, or the claim may be discharged by resort to the security in accordance with § 31-1339, in which case the deficiency, if any, shall be treated as a claim against the general assets of the insurer on the same basis as claims of unsecured creditors.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 15, 1993, D.C. Law 10-35, § 57, 40 DCR 5773.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-2856.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-35, see Historical and Statutory Notes following § 31-1301.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-2856.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-35</heading>
+      <text>For legislative history of D.C. Law 10-35, see Historical and Statutory Notes following § 31-1301.</text>
     </level>
   </level>
 </level>

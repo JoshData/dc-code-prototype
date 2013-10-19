@@ -3,43 +3,37 @@
   <heading>Retaliation unlawful.</heading>
   <text>No employer or employment agency shall:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Interfere with, restrain, or deny the exercise of, or the attempted exercise of, any right provided under this chapter; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Fail or refuse to hire, or discharge, any employee or potential employee because the employee or potential employee:</text>
-      <level>
-        <num>(A)</num>
-        <text>Opposed any practice made unlawful by this chapter;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Has filed any charge, or has instituted or caused to be instituted any proceeding, relating to any right provided under this chapter;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Has given, or is about to give, any information in connection with any inquiry or proceeding relating to any right provided under this chapter; or</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Has testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this chapter.</text>
-      </level>
-    </level>
+    <num>(1)</num>
+    <text>Interfere with, restrain, or deny the exercise of, or the attempted exercise of, any right provided under this chapter; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Fail or refuse to hire, or discharge, any employee or potential employee because the employee or potential employee:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Opposed any practice made unlawful by this chapter;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Has filed any charge, or has instituted or caused to be instituted any proceeding, relating to any right provided under this chapter;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Has given, or is about to give, any information in connection with any inquiry or proceeding relating to any right provided under this chapter; or</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Has testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this chapter.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(May 31, 2012, D.C. Law 19-132, § 4, 59 DCR 2391.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-132, see notes under § 32-1361.</text>
-      </level>
+      <heading>Legislative History of Law 19-132</heading>
+      <text>For history of Law 19-132, see notes under § 32-1361.</text>
     </level>
   </level>
 </level>

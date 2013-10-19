@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>7</num>
-  <heading>Drug Manufacture and Distribution Licensure.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 48, Subt. II, Ch. 7, Refs &amp; Annos</text>
-  </level>
+  <heading>Drug Manufacture and Distribution Licensure</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-701.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-702.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-703.xml"/>

@@ -30,23 +30,23 @@
     <text>In a member-managed limited liability company, the following rules shall apply:</text>
     <level>
       <num>(1)</num>
-      <text>The management and conduct of the company shall be vested in the members.</text>
+      <text>Except as otherwise expressly provided in this chapter, the management and conduct of the company shall be vested in the members.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Each member shall have equal rights in the management and conduct of the company's activities.</text>
+      <text>Each member shall have equal rights in the management and conduct of the company's activities and affairs.</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>A difference arising among members as to a matter in the ordinary course of the activities of the company may be decided by a majority of the members.</text>
+      <text>A difference arising among members as to a matter in the ordinary course of the activities and affairs of the company may be decided by a majority of the members.</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>An act outside the ordinary course of the activities of the company shall be undertaken only with the consent of all members.</text>
+      <text>An act outside the ordinary course of the activities and affairs of the company may be undertaken only with the consent of all members.</text>
     </level>
     <level>
       <num>(5)</num>
-      <text>The operating agreement shall be amended only with the consent of all members.</text>
+      <text>The operating agreement may be amended only with the consent of all members.</text>
     </level>
   </level>
   <level>
@@ -54,22 +54,22 @@
     <text>In a manager-managed limited liability company, the following rules apply:</text>
     <level>
       <num>(1)</num>
-      <text>Except as otherwise expressly provided in this chapter, any matter relating to the activities of the company shall be decided exclusively by the managers.</text>
+      <text>Except as otherwise expressly provided in this chapter, any matter relating to the activities and affairs of the company shall be decided exclusively by the managers.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Each manager shall have equal rights in the management and conduct of the activities of the company.</text>
+      <text>Each manager shall have equal rights in the management and conduct of the activities and affairs of the company.</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>A difference arising among managers as to a matter in the ordinary course of the activities of the company may be decided by a majority of the managers.</text>
+      <text>A difference arising among managers as to a matter in the ordinary course of the activities and affairs of the company may be decided by a majority of the managers.</text>
     </level>
     <level>
       <num>(4)</num>
       <text>The consent of all members shall be required to:</text>
       <level>
         <num>(A)</num>
-        <text>Sell, lease, exchange, or otherwise dispose of all, or substantially all, of the company's property, with or without the good will, outside the ordinary course of the company's activities;</text>
+        <text>Sell, lease, exchange, or otherwise dispose of all, or substantially all, of the company's property, with or without the good will, outside the ordinary course of the company's activities and affairs;</text>
       </level>
       <level>
         <num>(B)</num>
@@ -77,7 +77,7 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>Undertake any other act outside the ordinary course of the company's activities; and</text>
+        <text>Undertake any other act outside the ordinary course of the company's activities and affairs; and</text>
       </level>
       <level>
         <num>(D)</num>
@@ -107,24 +107,41 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>This chapter shall not entitle a member to remuneration for services performed for a member-managed limited liability company, except for reasonable compensation for services rendered in winding up the activities of the company.</text>
+    <text>This chapter shall not entitle a member to remuneration for services performed for a member-managed limited liability company, except for reasonable compensation for services rendered in winding up the activities and affairs of the company.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(g)</num>
+    <text>A limited liability company shall reimburse a member for an advance to the company beyond the amount of capital the member agreed to contribute.</text>
+  </level>
+  <level>
+    <num>(h)</num>
+    <text>A payment or advance made by a member which gives rise to an obligation of the limited liability company under subsection (g) of this section or under § 29-804.08(a) constitutes a loan to the company which accrues interest from the date of the payment or advance.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(h)(5)(F), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 407 of the Uniform Limited Company Act (2006 Act). See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-801.02, § 29-802.06, and § 29-807.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "Except as otherwise expressly provided in this chapter, the" for "The" at the beginning of (b)(1); substituted "activities and affairs" for "activities" in (b), (c) and (f); substituted "activities and affairs of the company may" for "activities of the company shall" in (b)(4); substituted "may" for "shall" in (b)(5); and added (g) and (h).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-801.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 407 of the Uniform Limited Company Act (2006 Act).</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

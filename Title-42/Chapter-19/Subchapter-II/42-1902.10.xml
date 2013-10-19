@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-1902.10</num>
   <heading>Contents of declaration; where condominium contains convertible land; expandable, contractable and leasehold condominiums; easements; additionally required descriptions.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-1820</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The declaration for every condominium shall contain:</text>
@@ -214,24 +213,27 @@
     <num>(g)</num>
     <text>Wherever this section requires a legally sufficient description of land that is submitted to this chapter or that may be added to or withdrawn from the condominium, an added requirement shall be a separate legally sufficient description of all lands in which the unit owners shall or may be tenants in common or joint tenants with any other persons, and a separate legally sufficient description of all lands in which the unit owners shall or may be life tenants. No units shall be situated on any such lands, however, and the declaration shall describe the nature of the unit owners' estates therein. No such lands shall be shown on the same plat or plats showing other portions of the condominium, but shall be shown instead on separate plats.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 29, 1977, D.C. Law 1-89, title II, § 210, 23 DCR 9532b; Mar. 8, 1991, D.C. Law 8-233, § 2(n), 38 DCR 261.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-1820.</text>
-        <text>1973 Ed., § 5-1220.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-89, see Historical and Statutory Notes following § 42-1901.01.</text>
-        <text>For legislative history of D.C. Law 8-233, see Historical and Statutory Notes following § 42-1901.07.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-1902.12, § 42-1902.13, § 42-1902.15, § 42-1902.19, § 42-1902.20, and § 42-1903.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-1820.</text>
+      <text>1973 Ed., § 5-1220.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-89</heading>
+      <text>For legislative history of D.C. Law 1-89, see Historical and Statutory Notes following § 42-1901.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-233</heading>
+      <text>For legislative history of D.C. Law 8-233, see Historical and Statutory Notes following § 42-1901.07.</text>
     </level>
   </level>
 </level>

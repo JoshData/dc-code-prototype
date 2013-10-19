@@ -17,22 +17,18 @@
     <num>(d)</num>
     <text>The Mayor shall develop a procedure by which the responsible person may request that a minor student not receive treatment in emergency circumstances.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 2, 2008, D.C. Law 17-107, § 7, 54 DCR 12230.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-107, see notes following § 38-651.01.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of Authority to the Student Access to Treatment Act of 2007, see Mayor's Order 2008-85, June 11, 2008 (55 DCR 9362).</text>
-      </level>
+      <heading>Legislative History of Law 17-107</heading>
+      <text>For Law 17-107, see notes following § 38-651.01.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of Authority to the Student Access to Treatment Act of 2007, see Mayor's Order 2008-85, June 11, 2008 (55 DCR 9362).</text>
     </level>
   </level>
 </level>

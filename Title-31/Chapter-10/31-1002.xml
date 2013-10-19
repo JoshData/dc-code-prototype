@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1002</num>
   <heading>Acquisition and disposition of assets.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-4102</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>No acquisition or disposition of assets need be reported pursuant to § 31-1001 if the acquisitions or dispositions are not material. For purposes of this chapter, a material acquisition (or the aggregate of any series of related acquisitions during any 30-day period) or disposition (or the aggregate of any series of related dispositions during any 30-day period) is one that is nonrecurring and not in the ordinary course of business and involves more than 5% of the reporting insurer's total admitted assets as reported in its most recent statutory statement filed with the insurance department of the insurer's state of domicile.</text>
@@ -65,22 +64,18 @@
       <text>The net income of the business not subject to the pooling arrangement represents less than 5% of the insurer's capital and surplus.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 24, 1996, D.C. Law 11-123, § 3, 43 DCR 1542.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-4102.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-123, see Historical and Statutory Notes following § 31-1001.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-4102.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-123</heading>
+      <text>For legislative history of D.C. Law 11-123, see Historical and Statutory Notes following § 31-1001.</text>
     </level>
   </level>
 </level>

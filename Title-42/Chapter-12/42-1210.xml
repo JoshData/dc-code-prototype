@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-1210</num>
   <heading>Fees of Recorder of Deeds.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-909</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The legal fees for the services of the Recorder shall be as follows:</text>
@@ -43,7 +42,7 @@
     </level>
     <level>
       <num>(10)</num>
-      <text>For filing and recording a certified copy of a judgment, decree, or entry or order of forfeiture of a recognizance, filed and recorded under § 15- 102(a), $1;</text>
+      <text>For filing and recording a certified copy of a judgment, decree, or entry or order of forfeiture of a recognizance, filed and recorded under § 15-102(a), $1;</text>
     </level>
     <level>
       <num>(11)</num>
@@ -70,19 +69,26 @@
       <text>For each undertaking of lienee, $.75.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1901, 31 Stat. 1276, ch. 854, § 552; Feb. 4, 1905, 33 Stat. 689, ch. 299; June 17, 1935, 49 Stat. 384, ch. 265; June 5, 1952, 66 Stat. 128, ch. 370, § 5; July 5, 1966, 80 Stat. 265, Pub. L. 89-493, § 15(c); Nov. 2, 1966, 80 Stat. 1178, Pub. L. 89-745, § 6.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-909.</text>
-        <text>1973 Ed., § 45-708.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Cooperative associations, articles of incorporation, filing fees, see § 29-906.</text>
+      <text>Motor vehicle lien law, fees, see § 50-1212.</text>
+      <text>Recordation of instruments relating to personal property, see §§ 28:9-301 et seq., 50-1501.01 et seq.</text>
+      <text>Recording fees under money lenders law, see § 26-905.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-1218.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-909.</text>
+      <text>1973 Ed., § 45-708.</text>
     </level>
   </level>
 </level>

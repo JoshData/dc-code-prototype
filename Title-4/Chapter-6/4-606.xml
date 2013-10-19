@@ -1,7 +1,6 @@
 <level type="section">
   <num>4-606</num>
   <heading>Notice.</heading>
-  <formerly-cited-as>DC ST 1981 § 3-506</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any individual or institutional health-care provider that bills the District for health-care assistance furnished to a beneficiary shall provide the Mayor with written notice of any known or suspected third-party liability as soon as the health-care provider acquires knowledge of or suspects the existence of that liability. The written notice shall include the beneficiary's name and, if known, the name of the third party and a description of the circumstances allegedly creating a liability.</text>
@@ -18,22 +17,22 @@
     <num>(d)</num>
     <text>If a beneficiary retains private counsel, counsel shall be responsible for giving all notices required by this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 14, 1984, D.C. Law 5-86, § 7, 31 DCR 2098.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 3-506.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-86, see Historical and Statutory Notes following § 4-601.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-608.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 3-506.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-86</heading>
+      <text>For legislative history of D.C. Law 5-86, see Historical and Statutory Notes following § 4-601.</text>
     </level>
   </level>
 </level>

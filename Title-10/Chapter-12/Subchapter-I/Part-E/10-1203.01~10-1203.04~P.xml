@@ -1,7 +1,12 @@
 <level type="placeholder">
-  <reason>Omitted</reason>
   <section-start>10-1203.01</section-start>
   <section-end>10-1203.04</section-end>
   <section-range-type>range</section-range-type>
-  <text>DC CODE § 10-1203.01</text>
+  <heading>[Omitted]</heading>
+  <level type="annotations">
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>These sections were omitted from the D.C. Code because D.C. Law 10-188, §§ 301 through 304 were not statutes in their own right, but rather amended §§ 47-1807.02, 47-1807.02a, 47-1808.03, 47-1808.03a, 47-2002, and 47-2002.02.</text>
+    </level>
+  </level>
 </level>

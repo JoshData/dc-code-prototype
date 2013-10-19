@@ -1,38 +1,31 @@
 <level type="section">
   <num>38-1806.06</num>
   <heading>Report.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-2853.66</formerly-cited-as>
   <text>The private, nonprofit corporation shall prepare and submit to the appropriate congressional committees on a quarterly basis, or, with respect to fiscal year 1997, on a semiannual basis, a report which shall contain:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The activities the corporation has carried out, including the duties of the corporation described in § 38-1806.04, for the 3-month period ending on the date of the submission of the report, or, with respect to fiscal year 1997, the 6-month period ending on the date of the submission of the report;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>An assessment of the use of funds or other resources donated to the corporation;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The results of the assessment carried out under § 38-1806.04(b)(3); and</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>A description of the goals and priorities of the corporation for the 3- month period beginning on the date of the submission of the report, or, with respect to fiscal year 1997, the 6-month period beginning on the date of the submission of the report.</text>
-    </level>
+    <num>(1)</num>
+    <text>The activities the corporation has carried out, including the duties of the corporation described in § 38-1806.04, for the 3-month period ending on the date of the submission of the report, or, with respect to fiscal year 1997, the 6-month period ending on the date of the submission of the report;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>An assessment of the use of funds or other resources donated to the corporation;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The results of the assessment carried out under § 38-1806.04(b)(3); and</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>A description of the goals and priorities of the corporation for the 3-month period beginning on the date of the submission of the report, or, with respect to fiscal year 1997, the 6-month period beginning on the date of the submission of the report.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 26, 1996, 110 Stat. 1321 [268], Pub. L. 104-134, § 2606.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-2853.66.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-2853.66.</text>
     </level>
   </level>
 </level>

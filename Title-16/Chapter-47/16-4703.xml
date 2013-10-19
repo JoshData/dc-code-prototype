@@ -1,7 +1,6 @@
 <level type="section">
   <num>16-4703</num>
   <heading>Compelled disclosure permitted.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-4703</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A court may compel disclosure of news or information otherwise protected from disclosure under section 16-4702(2) if the court finds that the party seeking the news or information established by clear and convincing evidence that:</text>
@@ -22,22 +21,22 @@
     <num>(b)</num>
     <text>A court may not compel disclosure of the source of any information protected under section 16-4702.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 26, 1992, D.C. Law 9-156, § 2, 39 DCR 5682.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-4703.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 9-156, see Historical and Statutory Notes following § 16-4701.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-4702.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-4703.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-156</heading>
+      <text>For legislative history of D.C. Law 9-156, see Historical and Statutory Notes following § 16-4701.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>38-2023.14</num>
   <heading>Computation of interest.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-1244</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For purposes of determining the amount available to purchase an annuity under subsection (b) of § 38-2021.01, interest shall be deemed to accrue on deposits at the following rates for the following periods:</text>
@@ -15,7 +14,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>After October 1, 1981, interest shall accrue at an annual rate which (as determined by the District of Columbia Retirement Board) is equal to the average annual rate of return on investment (adjusted to the nearest 1/8 of 1%) for the District of Columbia Teachers' Retirement Fund established by § 1- 713.</text>
+      <text>After October 1, 1981, interest shall accrue at an annual rate which (as determined by the District of Columbia Retirement Board) is equal to the average annual rate of return on investment (adjusted to the nearest 1/8 of 1%) for the District of Columbia Teachers' Retirement Fund established by § 1-713.</text>
     </level>
   </level>
   <level>
@@ -66,27 +65,27 @@
       <text>If a teacher elects to make his deposit in installments, each payment shall include interest on that portion of the refund which is then being redeposited.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Nov. 17, 1979, 93 Stat. 866, Pub. L. 96-122, § 253(a)(6); Apr. 13, 2005, D.C. Law 15-354, § 3(f), 52 DCR 2638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-1244.</text>
-        <text>1973 Ed., § 31-739e.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-354 substituted "District of Columbia Retirement Board" for "Mayor of the District of Columbia".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-354, see notes following § 38-101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-2021.01a, § 38-2021.02, and § 38-2061.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-1244.</text>
+      <text>1973 Ed., § 31-739e.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-354 substituted "District of Columbia Retirement Board" for "Mayor of the District of Columbia".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 38-101.</text>
     </level>
   </level>
 </level>

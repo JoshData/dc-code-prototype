@@ -3,31 +3,29 @@
   <heading>Derivative action.</heading>
   <text>A member may maintain a derivative action in the Superior Court to enforce a right of a limited liability company if:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The member first makes a demand on the other members in a member-managed limited liability company, or the managers of a manager-managed limited liability company, requesting that they cause the company to bring an action to enforce the right, and the managers or other members do not bring the action within a reasonable time; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>A demand under paragraph (1) of this section would be futile.</text>
-    </level>
+    <num>(1)</num>
+    <text>The member first makes a demand on the other members in a member-managed limited liability company, or the managers of a manager-managed limited liability company, requesting that they cause the company to bring an action to enforce the right, and the managers or other members do not bring the action within a reasonable time; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>A demand under paragraph (1) of this section would be futile.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 902 of the Uniform Limited Company Act (2006 Act). See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-808.04 and § 29-808.06.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 902 of the Uniform Limited Company Act (2006 Act).</text>
     </level>
   </level>
 </level>

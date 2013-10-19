@@ -79,18 +79,18 @@
     <num>(i)</num>
     <text>A tier one renewable source or tier two renewable source that creates a renewable energy credit shall comply with all applicable environmental and administrative requirements, including air quality, water quality, solid waste, and right-to-know provisions, permit conditions, and administrative orders.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 12, 2005, D.C. Law 15-340, § 5, 52 DCR 2285.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-340, see notes following § 34-1431.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 34-1431 and § 34-1438.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-340</heading>
+      <text>For Law 15-340, see notes following § 34-1431.</text>
     </level>
   </level>
 </level>

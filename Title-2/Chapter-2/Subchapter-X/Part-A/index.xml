@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>A</num>
-  <heading>General.</heading>
+  <heading>General</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-219.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-219.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-219.03.xml"/>

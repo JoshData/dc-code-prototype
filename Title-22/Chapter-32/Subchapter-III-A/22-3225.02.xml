@@ -1,120 +1,121 @@
 <level type="section">
   <num>22-3225.02</num>
   <heading>Insurance fraud in the first degree.</heading>
-  <formerly-cited-as>DC ST 1981 § 22-3825.2</formerly-cited-as>
   <text>A person commits the offense of insurance fraud in the first degree if that person knowingly engages in the following conduct with the intent to defraud or to fraudulently obtain property of another and thereby obtains property of another or causes another to lose property and the value of the property obtained or lost is $1,000 or more:</text>
   <level>
+    <num>(1)</num>
+    <text>Presenting false information or knowingly conceals information regarding a material fact in any of the following transactions:</text>
     <level>
-      <num>(1)</num>
-      <text>Presenting false information or knowingly conceals information regarding a material fact in any of the following transactions:</text>
-      <level>
-        <num>(A)</num>
-        <text>Application for, rating of, or renewal of an insurance policy or reinsurance contract;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Claim for payment or benefit pursuant to an insurance policy or reinsurance contract;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Premiums paid on an insurance policy or reinsurance contract;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Payment made in accordance with the terms of an insurance policy or reinsurance contract;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Application used in a premium finance transaction;</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Solicitation for sale of an insurance policy;</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>Application for a license or certificate of authority filed with the Commissioner or the chief insurance regulatory official of another jurisdiction;</text>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>Financial statement or condition of any insurer or reinsurer;</text>
-      </level>
-      <level>
-        <num>(I)</num>
-        <text>Acquisition, formation, merger, affiliation, reconsolidation, dissolution, or withdrawal from one or more lines of insurance or reinsurance in the District by an insurer or reinsurer;</text>
-      </level>
-      <level>
-        <num>(J)</num>
-        <text>Issuance of written evidence of insurance; or</text>
-      </level>
-      <level>
-        <num>(K)</num>
-        <text>Application for reinstatement of an insurance policy;</text>
-      </level>
+      <num>(A)</num>
+      <text>Application for, rating of, or renewal of an insurance policy or reinsurance contract;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>Soliciting or accepting insurance or renewal of insurance by or for an insurer which the person knows is insolvent or has a strong likelihood of insolvency;</text>
+      <num>(B)</num>
+      <text>Claim for payment or benefit pursuant to an insurance policy or reinsurance contract;</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>Removal or tampering with the records of transaction, documentation, and other material assets of an insurer from the insurer or from the Department of Insurance and Securities Regulation;</text>
+      <num>(C)</num>
+      <text>Premiums paid on an insurance policy or reinsurance contract;</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>Diversion, misappropriation, conversion, or embezzlement of funds of an insurer, an insured, claimant or applicant regarding any of the following:</text>
-      <level>
-        <num>(A)</num>
-        <text>Insurance transaction;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Other insurance business activities by an insurer or insurance professional; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Acquisition, formation, merger, affiliation or dissolution of an insurer.</text>
-      </level>
+      <num>(D)</num>
+      <text>Payment made in accordance with the terms of an insurance policy or reinsurance contract;</text>
     </level>
     <level>
-      <num>(5)</num>
-      <text>Transaction of the business of insurance in violation of laws requiring a license, certificate of authority, or other legal authority for the transaction of the business of insurance; or</text>
+      <num>(E)</num>
+      <text>Application used in a premium finance transaction;</text>
     </level>
     <level>
-      <num>(6)</num>
-      <text>Employing or using any other person or acting as the agent of any other person to procure a client, patient, or customer for the purpose of falsely or fraudulently obtaining benefits under a contract of insurance or asserting a false or fraudulent claim against an insured or insurer.</text>
+      <num>(F)</num>
+      <text>Solicitation for sale of an insurance policy;</text>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>Application for a license or certificate of authority filed with the Commissioner or the chief insurance regulatory official of another jurisdiction;</text>
+    </level>
+    <level>
+      <num>(H)</num>
+      <text>Financial statement or condition of any insurer or reinsurer;</text>
+    </level>
+    <level>
+      <num>(I)</num>
+      <text>Acquisition, formation, merger, affiliation, reconsolidation, dissolution, or withdrawal from one or more lines of insurance or reinsurance in the District by an insurer or reinsurer;</text>
+    </level>
+    <level>
+      <num>(J)</num>
+      <text>Issuance of written evidence of insurance; or</text>
+    </level>
+    <level>
+      <num>(K)</num>
+      <text>Application for reinstatement of an insurance policy;</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Soliciting or accepting insurance or renewal of insurance by or for an insurer which the person knows is insolvent or has a strong likelihood of insolvency;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Removal or tampering with the records of transaction, documentation, and other material assets of an insurer from the insurer or from the Department of Insurance and Securities Regulation;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Diversion, misappropriation, conversion, or embezzlement of funds of an insurer, an insured, claimant or applicant regarding any of the following:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Insurance transaction;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Other insurance business activities by an insurer or insurance professional; or</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Acquisition, formation, merger, affiliation or dissolution of an insurer.</text>
+    </level>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Transaction of the business of insurance in violation of laws requiring a license, certificate of authority, or other legal authority for the transaction of the business of insurance; or</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Employing or using any other person or acting as the agent of any other person to procure a client, patient, or customer for the purpose of falsely or fraudulently obtaining benefits under a contract of insurance or asserting a false or fraudulent claim against an insured or insurer.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Dec. 1, 1982, D.C. Law 4-164, § 125b, as added Apr. 27, 1999, D.C. Law 12-273, § 2, 46 DCR 1132; July 25, 2006, D.C. Law 16-144, § 2(a), 53 DCR 2838; June 3, 2011, D.C. Law 18-377, § 12(b), 58 DCR 1174.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 22-3825.2.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-144 rewrote the lead-in language and par. (6), which had read as follows:</text>
-        <text>"A person commits the offense of insurance fraud in the first degree if, knowingly and with intent to defraud, that person makes an act or omission concerning any of the following:"</text>
-        <text>"(6) Attempt to commit, aiding and abetting in the commission of, or conspiracy to commit the acts or omissions specified in this section."</text>
-        <text>D.C. Law 18-377 substituted "$1,000" for "$250".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 512(b) of Public Safety Legislation Sixty-Day Layover Emergency Amendment Act of 2010 (D.C. Act 18-693, January 18, 2011, 58 DCR 640).</text>
-        <text>For temporary (90 day) amendment of section, see § 512(b) of Public Safety Legislation Sixty-Day Layover Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-45, April 20, 2011, 58 DCR 3701).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-273, see Historical and Statutory Notes following § 22-3225.01.</text>
-        <text>Law 16-144, the "White Collar Insurance Fraud Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-208 which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on February 7, 2006, and March 7, 2006, respectively. Signed by the Mayor on March 30, 2006, it was assigned Act No. 16-340 and transmitted to both Houses of Congress for its review. D.C. Law 16-144 became effective on July 25, 2006.</text>
-        <text>For history of Law 18-377, see notes under § 22-303.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-801, § 22-3225.03, § 22-3225.03a, and § 22-3225.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 22-3825.2.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-144 rewrote the lead-in language and par. (6), which had read as follows: "A person commits the offense of insurance fraud in the first degree if, knowingly and with intent to defraud, that person makes an act or omission concerning any of the following:" "(6) Attempt to commit, aiding and abetting in the commission of, or conspiracy to commit the acts or omissions specified in this section."</text>
+      <text>D.C. Law 18-377 substituted "$1,000" for "$250".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 512(b) of Public Safety Legislation Sixty-Day Layover Emergency Amendment Act of 2010 (D.C. Act 18-693, January 18, 2011, 58 DCR 640).</text>
+      <text>For temporary (90 day) amendment of section, see § 512(b) of Public Safety Legislation Sixty-Day Layover Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-45, April 20, 2011, 58 DCR 3701).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-273</heading>
+      <text>For legislative history of D.C. Law 12-273, see Historical and Statutory Notes following § 22-3225.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-144</heading>
+      <text>Law 16-144, the "White Collar Insurance Fraud Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-208 which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on February 7, 2006, and March 7, 2006, respectively. Signed by the Mayor on March 30, 2006, it was assigned Act No. 16-340 and transmitted to both Houses of Congress for its review. D.C. Law 16-144 became effective on July 25, 2006.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-377</heading>
+      <text>For history of Law 18-377, see notes under § 22-303.</text>
     </level>
   </level>
 </level>

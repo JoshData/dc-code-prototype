@@ -25,18 +25,14 @@
     <num>(c)</num>
     <text>The functions described in subsection (b) of this section may be provided by the Office directly or under contract with a qualified provider.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 20, 2003, 117 Stat. 130, Pub. L. 108-7, § 143(a); Oct. 18, 2004, 118 Stat. 1348, Pub. L. 108-335, 340(b).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>Pub. L. 108-335, in subsec. (a), substituted "under the authority of the Mayor" for "under the authority of the Department of Banking and Financial Institutions".</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>Pub. L. 108-335, in subsec. (a), substituted "under the authority of the Mayor" for "under the authority of the Department of Banking and Financial Institutions".</text>
     </level>
   </level>
 </level>

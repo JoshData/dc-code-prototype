@@ -44,7 +44,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>An insurer shall not acquire, directly or indirectly through an investment subsidiary, an investment under § 31-1373.04, § 31-1373.07, or § 31- 1373.10, or counterparty exposure under § 31-1373.11(d) if, as a result of and after giving effect to the investment:</text>
+      <text>An insurer shall not acquire, directly or indirectly through an investment subsidiary, an investment under § 31-1373.04, § 31-1373.07, or § 31-1373.10, or counterparty exposure under § 31-1373.11(d) if, as a result of and after giving effect to the investment:</text>
       <level>
         <num>(A)</num>
         <text>The aggregate amount of medium and lower grade investments issued, assumed, guaranteed, accepted, or insured by any one person or, as to asset-backed securities secured by or evidencing an interest in a single asset or pool of assets, held by the insurer would exceed one percent of its admitted assets; or</text>
@@ -70,7 +70,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>The aggregate amount of Canadian investments not acquired under § 31- 1373.04(b) held by the insurer would exceed 25% of its admitted assets.</text>
+        <text>The aggregate amount of Canadian investments not acquired under § 31-1373.04(b) held by the insurer would exceed 25% of its admitted assets.</text>
       </level>
     </level>
     <level>
@@ -86,18 +86,18 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 11, 2003, D.C. Law 14-297, § 303, 50 DCR 330.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-297, see notes following § 31-1371.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1373.04, § 31-1373.05, § 31-1373.06, § 31-1373.07, § 31-1373.08, § 31-1373.09, § 31-1373.10, § 31-1373.11, and § 31-1373.12.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-297</heading>
+      <text>For Law 14-297, see notes following § 31-1371.01.</text>
     </level>
   </level>
 </level>

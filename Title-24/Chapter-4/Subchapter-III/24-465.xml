@@ -1,7 +1,6 @@
 <level type="section">
   <num>24-465</num>
   <heading>Conditions for geriatric release.</heading>
-  <formerly-cited-as>DC ST 1981 § 24-265</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A geriatric inmate who is 65 years of age or older, has a chronic infirmity, illness, or disease, and who poses a low risk to the community, may be eligible for parole as determined by the Board.</text>
@@ -50,22 +49,18 @@
     <num>(e)</num>
     <text>The Board shall make a determination whether to grant geriatric parole within 30 days of receipt of the application and supporting documentation from the Department.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 15, 1993, D.C. Law 9-271, § 6, 40 DCR 792.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 24-265.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 9-271, see Historical and Statutory Notes following § 24-461.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 24-265.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-271</heading>
+      <text>For legislative history of D.C. Law 9-271, see Historical and Statutory Notes following § 24-461.</text>
     </level>
   </level>
 </level>

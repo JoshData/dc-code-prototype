@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-3302.04</num>
   <heading>Market requirements.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1025</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The provisions of this chapter shall not be construed to require that a health insurer offering health insurance coverage only in connection with group health plans or through one or more bona fide associations, or both, offer such health insurance coverage in the individual market.</text>
@@ -14,30 +13,26 @@
     <num>(c)</num>
     <text>A health insurer offering individual health insurance coverage solely because such insurer offers any insurance coverage for children as a participant in a pilot program relating to insurance coverage for children shall not be deemed to be a health insurer offering individual health insurance coverage.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 13, 1999, D.C. Law 12-209, § 204, 45 DCR 8433.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1025.</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>See Historical and Statutory Notes following § 31-3301.01.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>See notes to § 31-3301.01.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-209, see Historical and Statutory Notes following § 31-3301.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1025.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>See Historical and Statutory Notes following § 31-3301.01.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>See notes to § 31-3301.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-209</heading>
+      <text>For legislative history of D.C. Law 12-209, see Historical and Statutory Notes following § 31-3301.01.</text>
     </level>
   </level>
 </level>

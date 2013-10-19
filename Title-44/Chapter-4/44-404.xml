@@ -1,7 +1,6 @@
 <level type="section">
   <num>44-404</num>
   <heading>Health systems plan; development, publication, updating, and implementation.</heading>
-  <formerly-cited-as>DC ST 1981 § 32-354</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The SHPDA, with the advice and recommendation of the SHCC, shall develop a proposed HSP, which shall be adopted in accordance with rules issued pursuant to § 44-421, to guide health policy in the District of Columbia. The HSP shall present data collected pursuant to § 44-405 to:</text>
@@ -58,34 +57,30 @@
     <num>(e)</num>
     <text>The HSP shall be reviewed annually, and amended as necessary, except that a new HSP shall be issued every 5 years. Upon the completion and promulgation of any new HSP, or any annual amendment to the HSP, the SHPDA shall submit copies to the Council and the District of Columbia Public Library, and shall publish a notice of its completion and issuance in the District of Columbia Register.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 9, 1997, D.C. Law 11-191, § 5, 43 DCR 4535; Apr. 22, 2004, D.C. Law 15-149, § 2(c), 51 DCR 2802.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-354.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-149 rewrote subsecs. (a), (b), and (e) which had read as follows:</text>
-        <text>"(a) The SHPDA, with the advice and recommendation of the SHCC, shall develop a proposed comprehensive HSP which shall be adopted in accordance with rules issued pursuant to § 44-421. The HSP shall:</text>
-        <text>"(1) Articulate the policy of the District with respect to maintaining and improving the health of District residents and the health care delivery system in the District;</text>
-        <text>"(2) Project current and future health care trends;</text>
-        <text>"(3) Identify the health needs of District residents and recommend alternatives to address those health needs; and</text>
-        <text>"(4) Prioritize health issues.</text>
-        <text>"(b) The HSP shall serve as the basis for allocating public and private health resources in the District of Columbia."</text>
-        <text>"(e) The HSP shall be reviewed annually, and amended as necessary, except that a new HSP shall be issued every 5 years."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-191, see Historical and Statutory Notes following § 44-401.</text>
-        <text>For Law 15-149, see notes following § 44-401.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 44-402.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-354.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-149 rewrote subsecs. (a), (b), and (e).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-191</heading>
+      <text>For legislative history of D.C. Law 11-191, see Historical and Statutory Notes following § 44-401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-149</heading>
+      <text>For Law 15-149, see notes following § 44-401.</text>
     </level>
   </level>
 </level>

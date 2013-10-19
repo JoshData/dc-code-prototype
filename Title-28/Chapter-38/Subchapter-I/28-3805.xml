@@ -1,7 +1,6 @@
 <level type="section">
   <num>28-3805</num>
   <heading>Debts secured by cross-collateral.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-3805</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>If debts arising from two or more consumer credit sales other than sales pursuant to a revolving charge account (section 28-3701), are secured by cross-collateral, or consolidated into one debt payable on a single schedule of payments, and the debt is secured by security interests taken with respect to one or more of the sales, payments received by the seller after the taking of the cross-collateral or the consolidation are deemed, for the purpose of determining the amount of the debt secured by the various security interests, to have been first applied to the payment of the debts arising from the sales first made. To the extent debts are paid according to this section, security interests in items of property terminate as the debts originally incurred with respect to each item are paid.</text>
@@ -14,23 +13,27 @@
     <num>(c)</num>
     <text>If the debts consolidated arose from two or more sales made on the same day, payments received by the seller are deemed, for the purpose of determining the amount of the debt secured by the various security interests, to have been applied first to the payment of the smallest debt.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 17, 1971, 85 Stat. 670, Pub. L. 92-200, § 4; Apr. 9, 1997, D.C. Law 11-255, § 27(n), 44 DCR 1271.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-3805.</text>
-        <text>1973 Ed., § 28-3805.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 28-3802.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Consumer protection procedures, restraining prohibited acts, see § 28-3909.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28-3909.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-3805.</text>
+      <text>1973 Ed., § 28-3805.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 28-3802.</text>
     </level>
   </level>
 </level>

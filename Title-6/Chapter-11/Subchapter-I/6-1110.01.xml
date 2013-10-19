@@ -41,30 +41,39 @@
     <num>(c)</num>
     <text>The Mayor shall include in the budget estimates of the District of Columbia for each fiscal year such amount as may be necessary for capitalization of the HLP Fund.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-144, § 11a, as added Nov. 16, 2006, D.C. Law 16-185, § 2(p), 53 DCR 6712; Sept. 14, 2011, D.C. Law 19-21, § 2012, 58 DCR 6226; Sept. 26, 2012, D.C. Law 19-171, § 41, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-21, in subsec. (b), deleted "and" from the end of par. (5 ), substituted "; and" for a period the end of par. (6), and added par. (7).</text>
-        <text>D.C. Law 19-171, in subsec. (b)(7), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-185, see notes following § 6-1101.</text>
-        <text>For history of Law 19-21, see notes under § 6-226.</text>
-        <text>For history of Law 19-171, see notes under § 6-225.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 2011 of D.C. Law 19-21 provided that subtitle B of title II of the act may be cited as "Historic Preservation Fee Authorization Clarification Amendment Act of 2011".</text>
-        <text>Section 2015 of D.C. Law 19-21 provides that this subtitle shall apply as of October 1, 2000.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-1110.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 19-21, in subsec. (b), deleted "and" from the end of par. (5 ), substituted "; and" for a period the end of par. (6), and added par. (7).</text>
+      <text>The 2012 amendment by D.C. Law 19-171 substituted "10-C DCMR § 205" for "10 DCMR § C 205" in (b)(7).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-185</heading>
+      <text>For Law 16-185, see notes following § 6-1101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 6-226.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 2011 of D.C. Law 19-21 provided that subtitle B of title II of the act may be cited as "Historic Preservation Fee Authorization Clarification Amendment Act of 2011".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 2015 of D.C. Law 19-21 provided that this subtitle shall apply as of October 1, 2000.</text>
     </level>
   </level>
 </level>

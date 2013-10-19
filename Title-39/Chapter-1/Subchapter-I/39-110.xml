@@ -72,18 +72,14 @@
     <num>(e)</num>
     <text>The DCPL shall provide staffing for the Task Force.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 13, 1896, 29 Stat. 244, ch. 315, § 10, as added Apr. 4, 2006, D.C. Law 16-78, § 2, 53 DCR 802.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-78, see notes following § 39-109.</text>
-      </level>
+      <heading>Legislative History of Law 16-78</heading>
+      <text>For Law 16-78, see notes following § 39-109.</text>
     </level>
   </level>
 </level>

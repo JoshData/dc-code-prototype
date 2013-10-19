@@ -3,31 +3,29 @@
   <heading>Notice.</heading>
   <text>Each recipient and subcontractor of a recipient shall provide to each affiliated employee covered by this subchapter a fact sheet concerning the payment and enforcement requirements under §§ 2-220.03 and 2-220.08, and shall also post a notice concerning these requirements in a conspicuous site in its place of business. The Mayor shall provide the fact sheet and notice to each recipient which shall include:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Notice of the living wage hourly rate;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>A summary of the requirements under §§ 2-220.03 and 2-220.07; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Information concerning the enforcement of this subchapter including the name, address, and telephone number of the individual or entity to which complaints of noncompliance should be made.</text>
-    </level>
+    <num>(1)</num>
+    <text>Notice of the living wage hourly rate;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>A summary of the requirements under §§ 2-220.03 and 2-220.07; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Information concerning the enforcement of this subchapter including the name, address, and telephone number of the individual or entity to which complaints of noncompliance should be made.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 8, 2006, D.C. Law 16-118, § 106, 53 DCR 2602.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-118, see notes following § 2-220.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-220.04.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-118</heading>
+      <text>For Law 16-118, see notes following § 2-220.01.</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>8</num>
-  <heading>Unsafe Structures.</heading>
-  <level>
-    <text>DC CODE D. I, T. 6, Ch. 8, Refs &amp; Annos</text>
-  </level>
+  <heading>Unsafe Structures</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-801.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-802.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-803.xml"/>

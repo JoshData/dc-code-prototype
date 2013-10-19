@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>42</num>
-  <heading>Definitions.</heading>
+  <heading>General Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-4201.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-4202.xml"/>
 </level>

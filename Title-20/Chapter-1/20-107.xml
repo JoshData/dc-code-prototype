@@ -1,7 +1,6 @@
 <level type="section">
   <num>20-107</num>
   <heading>Right to seek Court resolution.</heading>
-  <formerly-cited-as>DC ST 1981 § 20-107</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>An interested person, the beneficiary of a trust, or the Register may, at any time, petition the Court for an order, following notice to interested persons and with or without a hearing, to resolve a question or controversy arising in the course of a supervised or unsupervised administration of a decedent's estate.</text>
@@ -14,27 +13,30 @@
     <num>(c)</num>
     <text>Any request filed by an interested person, including any pleading described in this title as a petition, need not be in any particular format. It will be sufficient for the purpose intended as long as it is in writing and specifically identifies the particular issue or concern which the interested person wishes the Court to review or resolve.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 24, 1980, D.C. Law 3-72, § 101, 27 DCR 2155; Mar. 21, 1995, D.C. Law 10-241, § 3(g), 42 DCR 63.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 20-107.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-101.</text>
-        <text>For legislative history of D.C. Law 10-241, see Historical and Statutory Notes following § 20-108.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Application of Law 10-241: See Application of Law 10-241 and Emergency act amendment notes to § 20-108.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 20-406.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 20-107.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-72</heading>
+      <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-241</heading>
+      <text>For legislative history of D.C. Law 10-241, see Historical and Statutory Notes following § 20-108.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 10-241: See Application of Law 10-241 and Emergency act amendment notes to § 20-108.01.</text>
     </level>
   </level>
 </level>

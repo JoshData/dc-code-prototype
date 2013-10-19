@@ -1,11 +1,11 @@
 <level type="toc">
   <prefix>Title</prefix>
   <num>44</num>
-  <heading>Charitable and Curative Institutions.</heading>
+  <heading>Charitable and Curative Institutions</heading>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>I</num>
-    <heading>Health Related Institutions.</heading>
+    <heading>Health Related Institutions</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
@@ -27,7 +27,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>II</num>
-    <heading>Special Institutions.</heading>
+    <heading>Special Institutions</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-13/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-14/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-15/index.xml"/>
@@ -35,20 +35,20 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>III</num>
-    <heading>Management of Institutional Funds.</heading>
+    <heading>Management of Institutional Funds</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-16/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-16A/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>IV</num>
-    <heading>Charitable Solicitations.</heading>
+    <heading>Charitable Solicitations</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-17/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>V</num>
-    <heading>Repealed Provisions.</heading>
+    <heading>Repealed Provisions</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-18/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-19/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-20/index.xml"/>

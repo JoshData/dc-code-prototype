@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>IX</num>
-  <heading>Tax on Estates and Trusts.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 47, Ch. 18, Subch. IX, Refs &amp; Annos</text>
-  </level>
+  <heading>Tax on Estates and Trusts</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1809.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1809.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1809.03.xml"/>

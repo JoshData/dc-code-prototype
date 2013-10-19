@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-3502.08</num>
   <heading>Increases above base rent.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2518</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -38,7 +37,7 @@
     <text>A housing accommodation and each of the rental units in the housing accommodation shall be considered to be in substantial compliance with the housing regulations if:</text>
     <level>
       <num>(1)</num>
-      <text>For purposes of the adjustments made in the rent charged in §§ 42- 3502.06 and 42-3502.07, all substantial violations cited at the time of the last inspection of the housing accommodation by the Department of Consumer and Regulatory Affairs before the effective date of the increase were abated within a 45-day period following the issuance of the citations or that time granted by the Department of Consumer and Regulatory Affairs, and the Department of Consumer and Regulatory Affairs has certified the abatement, or the housing provider or the tenant has certified the abatement and has presented evidence to substantiate the certification. No certification of abatement shall establish compliance with the housing regulations unless the tenants have been given a 10-day notice and an opportunity to contest the certification; and</text>
+      <text>For purposes of the adjustments made in the rent charged in §§ 42-3502.06 and 42-3502.07 [repealed], all substantial violations cited at the time of the last inspection of the housing accommodation by the Department of Consumer and Regulatory Affairs before the effective date of the increase were abated within a 45-day period following the issuance of the citations or that time granted by the Department of Consumer and Regulatory Affairs, and the Department of Consumer and Regulatory Affairs has certified the abatement, or the housing provider or the tenant has certified the abatement and has presented evidence to substantiate the certification. No certification of abatement shall establish compliance with the housing regulations unless the tenants have been given a 10-day notice and an opportunity to contest the certification; and</text>
     </level>
     <level>
       <num>(2)</num>
@@ -70,7 +69,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>If the rental unit becomes vacant within 12 months of an increase in the amount of rent charged, other than a vacancy increase pursuant to § 42- 3502.13, the housing provider may increase the amount of rent charged pursuant to § 42-3502.13; and</text>
+      <text>If the rental unit becomes vacant within 12 months of an increase in the amount of rent charged, other than a vacancy increase pursuant to § 42-3502.13, the housing provider may increase the amount of rent charged pursuant to § 42-3502.13; and</text>
     </level>
     <level>
       <num>(3)</num>
@@ -88,39 +87,42 @@
       <text>Unless the increase in the amount of rent charged is implemented pursuant to § 42-3502.10, § 42-3502.11, § 42-3502.12, § 42-3502.14, or § 42-3502.15, an increase in the amount of rent charged while the unit is occupied shall not exceed, taken as a percentage of the current allowable amount of rent charged for the unit, 2% plus the adjustment of general applicability; provided, that the total increase shall not exceed 10%; provided further, that the amount of any such increase in the rent charged for a unit occupied by an elderly or disabled tenant without regard to income but otherwise as defined in § 42-3502.06(f) shall not exceed the lesser of 5% or the adjustment of general applicability.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 17, 1985, D.C. Law 6-10, § 208, 32 DCR 3089; Mar. 16, 1993, D.C. Law 9-191, § 2, 39 DCR 9005; Aug. 5, 2006, D.C. Law 16-145, § 2(a), (e), 53 DCR 4889.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2518.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-145 substituted "rent charged" for "rent ceiling"; and rewrote subsecs. (g) and (h), which had read as follows:</text>
-        <text>"(g) No adjustments in rent under this chapter may be implemented until a full 180 days have elapsed since any prior adjustment.</text>
-        <text>"(h)(1) One year from March 16, 1993, unless otherwise ordered by the Rent Administrator, each adjustment in rent charged permitted by this section may implement not more than 1 authorized and previously unimplemented rent charged adjustment. If the difference between the rent charged and the rent charged for the rental unit consists of all or a portion of 1 previously unimplemented rent charged adjustment, the housing provider may elect to implement all or a portion of the difference.</text>
-        <text>"(2) Nothing in this subsection shall be construed to prevent a housing provider, at his or her election, from delaying the implementation of any rent charged adjustment, or from implementing less than the full amount of any rent charged adjustment. A rent charged adjustment, or portion thereof, which remains unimplemented shall not expire and shall not be deemed forfeited or otherwise diminished."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(a), (e) of Rent Control Reform Emergency Amendment Act of 2006 (D.C. Act 16-470, July 31, 2006, 53 DCR 6772).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
-        <text>Law 9-191, the "Unitary Rent Ceiling Adjustment Amendment Act of 1992," was introduced in Council and assigned Bill No. 9-305, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on October 6, 1992, and November 4, 1992, respectively. Signed by the Mayor on November 23, 1992, it was assigned Act No. 9-312 and transmitted to both Houses of Congress for its review. D.C. Law 9-191 became effective on March 16, 1993.</text>
-        <text>For Law 16-145, see notes following § 42-3502.02.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Termination of Law 6-10: See Historical and Statutory Notes following § 42- 3502.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3502.05, § 42-3502.06, and § 42-3502.09.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2518.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-145 substituted "rent charged" for "rent ceiling"; and rewrote subsecs. (g) and (h).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(a), (e) of Rent Control Reform Emergency Amendment Act of 2006 (D.C. Act 16-470, July 31, 2006, 53 DCR 6772).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-10</heading>
+      <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-191</heading>
+      <text>Law 9-191, the "Unitary Rent Ceiling Adjustment Amendment Act of 1992," was introduced in Council and assigned Bill No. 9-305, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on October 6, 1992, and November 4, 1992, respectively. Signed by the Mayor on November 23, 1992, it was assigned Act No. 9-312 and transmitted to both Houses of Congress for its review. D.C. Law 9-191 became effective on March 16, 1993.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-145</heading>
+      <text>For Law 16-145, see notes following § 42-3502.02.</text>
+    </level>
+    <level>
+      <heading>Termination of law Termination of Law 6-10</heading>
+      <text>See Historical and Statutory Notes following § 42-3502.01.</text>
     </level>
   </level>
 </level>

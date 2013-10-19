@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-3426</num>
   <heading>Confidentiality of medical information and limitation of liability.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-4526</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any data or information pertaining to the diagnosis, treatment, or health of any enrollee or applicant obtained from such person or from any provider by any health maintenance organization shall be held in confidence and shall not be disclosed to any person except to the extent that it may be necessary to carry out the purposes of this chapter:</text>
@@ -45,22 +44,22 @@
     <num>(e)</num>
     <text>To fulfill its obligations under § 31-3406, a health maintenance organization shall have access to treatment records and other information pertaining to the diagnosis, treatment, or health status of any enrollee.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 9, 1997, D.C. Law 11-235, § 28, 44 DCR 818.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-4526.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-235, see Historical and Statutory Notes following § 31-3401.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-1371.06 and § 16-1054.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-4526.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-235</heading>
+      <text>For legislative history of D.C. Law 11-235, see Historical and Statutory Notes following § 31-3401.</text>
     </level>
   </level>
 </level>

@@ -66,35 +66,35 @@
       <level>
         <num>(E)</num>
         <text>One representative concerned with pediatric trauma care;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>One representative of a commercial ambulance service; and</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Four community representatives, including at least one person representing each of the following:</text>
         <level>
-          <num>(i)</num>
-          <text>Seniors or elders;</text>
+          <num>(E)</num>
+          <text>One representative of a commercial ambulance service; and</text>
         </level>
         <level>
-          <num>(ii)</num>
-          <text>Persons with disabilities;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>The Latino community; and</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>The Gay, Lesbian, Bisexual, and Transgendered community.</text>
+          <num>(F)</num>
+          <text>Four community representatives, including at least one person representing each of the following:</text>
+          <level>
+            <num>(i)</num>
+            <text>Seniors or elders;</text>
+          </level>
+          <level>
+            <num>(ii)</num>
+            <text>Persons with disabilities;</text>
+          </level>
+          <level>
+            <num>(iii)</num>
+            <text>The Latino community; and</text>
+          </level>
+          <level>
+            <num>(iv)</num>
+            <text>The Gay, Lesbian, Bisexual, and Transgendered community.</text>
+          </level>
         </level>
       </level>
     </level>
     <level>
       <num>(2)</num>
-      <text>The 6 non-voting, <text i="True">ex officio</text> members shall be:</text>
+      <text>The 6 non-voting, ex officio members shall be:</text>
       <level>
         <num>(A)</num>
         <text>The Director of the Department of Health, or his or her designee;</text>
@@ -125,18 +125,14 @@
       <text>Members of EMSAC shall serve without compensation.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 2009, D.C. Law 17-357, § 23, 56 DCR 1167.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-357, see notes following § 7-2341.01.</text>
-      </level>
+      <heading>Legislative History of Law 17-357</heading>
+      <text>For Law 17-357, see notes following § 7-2341.01.</text>
     </level>
   </level>
 </level>

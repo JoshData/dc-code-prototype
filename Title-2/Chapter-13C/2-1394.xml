@@ -11,7 +11,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>There shall be 11 <text i="True">ex-officio</text> nonvoting members, including the following Directors or their designees:</text>
+    <text>There shall be 11 ex-officio nonvoting members, including the following Directors or their designees:</text>
     <level>
       <num>(1)</num>
       <text>Department of Employment Services;</text>
@@ -59,7 +59,7 @@
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Ex-officio</text> members shall develop and implement policies and programs in their agencies to ensure that the purposes of this chapter are fulfilled. They shall meet with the Director at least quarterly each year to assist the Director in coordinating plans and policies which are beneficial to the African communities of the District.</text>
+    <text>Ex-officio members shall develop and implement policies and programs in their agencies to ensure that the purposes of this chapter are fulfilled. They shall meet with the Director at least quarterly each year to assist the Director in coordinating plans and policies which are beneficial to the African communities of the District.</text>
   </level>
   <level>
     <num>(e)</num>
@@ -73,23 +73,22 @@
     <num>(g)</num>
     <text>The Commission shall meet at least every other month. The meetings shall be held in the District and shall be open to the public. A quorum to transact business shall consist of a majority plus one of the voting members.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 8, 2006, D.C. Law 16-111, § 5, 53 DCR 2532; Mar. 25, 2009, D.C. Law 17-353, § 104, 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (d).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-111, see notes following § 2-1391.</text>
-        <text>For Law 17-353, see notes following § 2-218.42.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (d).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-111</heading>
+      <text>For Law 16-111, see notes following § 2-1391.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 2-218.42.</text>
     </level>
   </level>
 </level>

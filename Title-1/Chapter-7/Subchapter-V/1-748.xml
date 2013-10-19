@@ -1,43 +1,36 @@
 <level type="section">
   <num>1-748</num>
   <heading>Claims procedure.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-748</formerly-cited-as>
   <text>In accordance with regulations issued by the Board, the Board shall provide to any participant or beneficiary who has a claim for benefits under a retirement program denied:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Adequate written notice of such denial, setting forth the specific reasons for such denial in a manner calculated to be understood by such participant or beneficiary; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>A reasonable opportunity for a full and fair review of the decision denying such claim.</text>
-    </level>
+    <num>(1)</num>
+    <text>Adequate written notice of such denial, setting forth the specific reasons for such denial in a manner calculated to be understood by such participant or beneficiary; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>A reasonable opportunity for a full and fair review of the decision denying such claim.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Nov. 17, 1979, 93 Stat. 866, Pub. L. 96-122, § 188; Apr. 13, 2005, D.C. Law 15-354, § 3(d), 52 DCR 2638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-748.</text>
-        <text>1973 Ed., § 1-1848.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-354 substituted "In accordance with regulations issued by the Board, the Board shall" for "In accordance with regulations of the Council, the Mayor shall".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-354, see notes following § 1-523.01.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority under Law 4-123, see Mayor's Order 83-245, October 14, 1983.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-748.</text>
+      <text>1973 Ed., § 1-1848.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-354 substituted "In accordance with regulations issued by the Board, the Board shall" for "In accordance with regulations of the Council, the Mayor shall".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 1-523.01.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority under Law 4-123, see Mayor's Order 83-245, October 14, 1983.</text>
     </level>
   </level>
 </level>

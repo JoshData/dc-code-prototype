@@ -21,18 +21,18 @@
     <num>(e)</num>
     <text>The Executive Director may appoint a Director of Programming to be the station manager of the government channels.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 21, 1982, D.C. Law 4-142, § 201, as added Oct. 9, 2002, D.C. Law 14-193, § 2(b), 49 DCR 7334.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-193, see notes following § 34-1251.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 34-1251.03 and § 34-1252.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-193</heading>
+      <text>For Law 14-193, see notes following § 34-1251.01.</text>
     </level>
   </level>
 </level>

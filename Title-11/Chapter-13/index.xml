@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>13</num>
-  <heading>Small Claims and Conciliation Branch of the Superior Court.</heading>
-  <level>
-    <text>DC CODE D. II, T. 11, Ch. 13, Refs &amp; Annos</text>
-  </level>
+  <heading>Small Claims and Conciliation Branch of the Superior Court</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
 </level>

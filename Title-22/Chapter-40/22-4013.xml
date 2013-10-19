@@ -17,18 +17,14 @@
     <num>(d)</num>
     <text>Nothing in this section shall be construed as limiting any other defense or immunity that would otherwise be available to the District of Columbia government, its agencies, officials, employees, or agents or the United States government, its agencies, officials, employees, or agents, or to obligate the District of Columbia government or the United States government to represent or indemnify any official, employee, or agent where such person acts beyond the scope of his or her authority.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 11, 2000, D.C. Law 13-137, § 14, 47 DCR 797.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-137, see notes following § 22-4001.</text>
-      </level>
+      <heading>Legislative History of Law 13-137</heading>
+      <text>For Law 13-137, see notes following § 22-4001.</text>
     </level>
   </level>
 </level>

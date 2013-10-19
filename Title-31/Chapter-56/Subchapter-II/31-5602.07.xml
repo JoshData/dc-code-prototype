@@ -1,6 +1,6 @@
 <level type="section">
   <num>31-5602.07</num>
-  <heading>Grounds for denial, suspension, or revocation</heading>
+  <heading>Grounds for denial, suspension, or revocation.</heading>
   <level>
     <num>(a)</num>
     <text>The Commissioner may, by order, deny, suspend, or revoke a license if the Commissioner finds that the order is in the public interest and the applicant or licensed person or, in the case of a broker-dealer or investment adviser, a partner, officer, or director, or a person occupying a similar status or performing similar functions, or a person directly or indirectly controlling the broker-dealer or investment adviser:</text>
@@ -81,24 +81,26 @@
     <num>(c)</num>
     <text>If the Commissioner finds that an applicant or licensed person is no longer in existence, has ceased to do business as a broker-dealer, agent, investment adviser, or investment adviser representative, is adjudicated mentally incompetent or subjected to the control of a committee, conservator, or guardian, or cannot be located after reasonable search, the Commissioner may, by order, deny the application or revoke the license.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 26, 2000, D.C. Law 13-203, § 207, 47 DCR 7837; June 25, 2002, D.C. Law 14-150, § 2(b), 49 DCR 4238.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-150, in subsec. (a)(11), substituted "established by the New York Stock Exchange, other self-regulatory agency, or" for "established by the"; and rewrote subsec. (a)(10) which had read as follows:</text>
-        <text>"(10) Is insolvent, either because liabilities exceed assets or because obligations cannot be met as they mature, but the Commissioner may not enter an order against a broker-dealer or investment adviser under this paragraph without a finding of insolvency as to the broker-dealer or investment adviser;"</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-203, see notes following § 31-5601.01.</text>
-        <text>For Law 14-150, see notes following § 31-5601.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-5602.03, § 31-5602.09, and § 31-5602.10.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-150, in subsec. (a)(11), substituted "established by the New York Stock Exchange, other self-regulatory agency, or" for "established by the"; and rewrote subsec. (a)(10) which had read as follows: "(10) Is insolvent, either because liabilities exceed assets or because obligations cannot be met as they mature, but the Commissioner may not enter an order against a broker-dealer or investment adviser under this paragraph without a finding of insolvency as to the broker-dealer or investment adviser;"</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-203</heading>
+      <text>For Law 13-203, see notes following § 31-5601.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-150</heading>
+      <text>For Law 14-150, see notes following § 31-5601.01.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>16-1022</num>
   <heading>Prohibited acts.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-1022</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>No parent, or any person acting pursuant to directions from the parent, may intentionally conceal a child from the child's other parent.</text>
@@ -42,23 +41,26 @@
       <text>After issuance of a temporary or final order specifying joint custody rights, take or entice a child from the other joint custodian in violation of the custody order.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 23, 1986, D.C. Law 6-115, § 3, 33 DCR 2424; May 10, 1989, D.C. Law 7-231, § 25(c), 36 DCR 492.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-1022.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-115, see Historical and Statutory Notes following § 16-1021.</text>
-        <text>For legislative history of D.C. Law 7-231, see Historical and Statutory Notes following § 16-1021.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-1023, § 16-1024, and § 23-563.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-1022.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-115</heading>
+      <text>For legislative history of D.C. Law 6-115, see Historical and Statutory Notes following § 16-1021.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-231</heading>
+      <text>For legislative history of D.C. Law 7-231, see Historical and Statutory Notes following § 16-1021.</text>
     </level>
   </level>
 </level>

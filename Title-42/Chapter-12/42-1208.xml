@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-1208</num>
   <heading>Purchase of typewriting machines; preference for typewritten records.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-907</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Recorder of Deeds is authorized and empowered to purchase and use in his office, for the recording of deeds and other instruments of writing required by law to be recorded in said office, typewriting machines, to be paid for as appropriations may be made from time to time; and all deeds and other instruments of writing entitled by law to be recorded in said office which shall be recorded by typewriting machines are hereby declared to be legally recorded.</text>
@@ -10,24 +9,20 @@
     <num>(b)</num>
     <text>The recording of all instruments filed for record in the Office of the Recorder of Deeds shall be done with book typewriter, except in those cases where, on account of the character of the work, the use of a pen shall be found by the Recorder to be necessary.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1901, 31 Stat. 1276, ch. 854, § 551; June 27, 1906, 34 Stat. 489, ch. 3553.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-907.</text>
-        <text>1973 Ed., § 45-706.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Installation and operation of automated system: Section 4 of D.C. Law 11-257 provides that upon installation and operation of an automated system, this section shall no longer apply.</text>
-        <text>Installation and operation of automated system: Section 4 of D.C. Law 11-257 provides that upon installation and operation of an automated system [pursuant to § 42-1214(b)], this section shall no longer apply.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-907.</text>
+      <text>1973 Ed., § 45-706.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Installation and operation of automated system: Section 4 of D.C. Law 11-257 provided that upon installation and operation of an automated system, this section shall no longer apply.</text>
+      <text>Installation and operation of automated system: Section 4 of D.C. Law 11-257 provided that upon installation and operation of an automated system pursuant to § 42-1214(b), this section shall no longer apply.</text>
     </level>
   </level>
 </level>

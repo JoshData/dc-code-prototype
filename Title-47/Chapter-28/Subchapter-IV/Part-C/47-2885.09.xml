@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-2885.09</num>
   <heading>Operation of pharmacy.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-2009</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A pharmacy shall be operated only by a licensed pharmacist. During all times when the pharmacy is open for business a pharmacist shall be on duty. The pharmacist on duty shall post his or her license in a conspicuous place during the time he or she is on duty. The hours that the pharmacy is open for business shall be conspicuously displayed on the outside of the pharmacy.</text>
@@ -33,27 +32,26 @@
     <num>(d)</num>
     <text>Burglaries and damage to the pharmacy or its contents by fire, flood, or other causes shall be reported immediately to the Mayor. Neither drugs nor other merchandise shall be dispensed, sold, held for sale, or given away in any pharmacy damaged by fire, flood, or other causes until the Mayor has determined that the merchandise is not adulterated or otherwise unfit for sale, use, or consumption. Damaged premises shall be inspected by the Mayor to determine their continued suitability for pharmacy operations.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 16, 1980, D.C. Law 3-98, § 10, 27 DCR 3528; Sept. 26, 2012, D.C. Law 19-171, § 302(b), 59 DCR 6190.)</text>
+      <heading>History</heading>
+      <text>(Sept. 16, 1980, D.C. Law 3-98, § 10, 27 DCR 3528; Sept. 26, 2012, D.C. Law 19-171, § 302, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-2009.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-171 enacted into law Part C of subchapter IV of Chapter 28 of Title 47.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-98, see Historical and Statutory Notes following § 47-2885.01.</text>
-        <text>For history of Law 19-171, see notes under § 47-2885.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-2009.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>Section 302 of D.C. Law 19-171 enacted this subchapter into law.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-98</heading>
+      <text>For legislative history of D.C. Law 3-98, see Historical and Statutory Notes following § 47-2885.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 47-2881.</text>
     </level>
   </level>
 </level>

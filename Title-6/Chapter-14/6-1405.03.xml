@@ -140,22 +140,22 @@
     <num>(g)</num>
     <text>This section shall not relieve a person who prepares and submits construction documents of any obligations or liabilities, otherwise existing under law, and shall not relieve the District of its obligation to review all construction documents in the manner otherwise prescribed by law.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 21, 1987, D.C. Law 6-216, § 6c, as added June 25, 2002, D.C. Law 14-162, § 101, 49 DCR 4438.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-162, see notes following § 6-1401.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 301 of D.C. Law 14-162 provides: "Pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <text i="True">et seq.</text>), the Mayor may issue rules to implement the provisions of this act."</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-1405.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-162</heading>
+      <text>For Law 14-162, see notes following § 6-1401.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 301 of D.C. Law 14-162 provided: "Pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), the Mayor may issue rules to implement the provisions of this act."</text>
     </level>
   </level>
 </level>

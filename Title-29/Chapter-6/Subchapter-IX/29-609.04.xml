@@ -1,8 +1,6 @@
 <level type="section">
   <num>29-609.04</num>
   <heading>Statement of merger.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-159.4</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-109.04</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>After a merger, the surviving partnership may file a statement that the parties to the merger have merged into the surviving partnership.</text>
@@ -35,27 +33,23 @@
     <num>(e)</num>
     <text>A filed and, if appropriate, recorded statement of merger, executed and declared to be accurate pursuant to § 29-601.05(c), stating the name of a partnership that is a party to the merger in whose name property was held before the merger and the name of the surviving partnership, but not containing all of the other information required by subsection (b) of this section, shall operate with respect to the partnerships named to the extent provided in subsections (c) and (d) of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 41-159.7.</text>
-        <text>2001 Ed., § 33-109.07.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 907 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 41-159.7.</text>
+      <text>2001 Ed., § 33-109.07.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 907 of the Uniform Partnership Act (1997 Act).</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>VI</num>
-  <heading>Office of Employee Appeals.</heading>
-  <level>
-    <text>DC CODE D. I, T. 1, Ch. 6, Subch. VI, Refs &amp; Annos</text>
-  </level>
+  <heading>Office of Employee Appeals</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-606.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-606.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-606.03.xml"/>

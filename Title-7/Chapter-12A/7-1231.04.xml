@@ -68,27 +68,26 @@
       <text>Reasonable opportunities for regular physical exercise and freedom to go outdoors at regular and frequent intervals.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 18, 2001, D.C. Law 14-56, § 204, 48 DCR 7674; June 25, 2008, D.C. Law 17-177, § 9(b), 55 DCR 3696.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-177, in subsec. (b), substituted "sexual orientation, gender identity or expression" for "sexual orientation".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 204 of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-56, see notes following § 7-1231.01.</text>
-        <text>For Law 17-177, see notes following § 7-1231.01.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-177, in subsec. (b), substituted "sexual orientation, gender identity or expression" for "sexual orientation".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 204 of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-56</heading>
+      <text>For Law 14-56, see notes following § 7-1231.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-177</heading>
+      <text>For Law 17-177, see notes following § 7-1231.01.</text>
     </level>
   </level>
 </level>

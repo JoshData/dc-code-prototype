@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-103</num>
   <heading>Functions and duties.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-123</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The functions and duties contained and referenced herein are transferred to the Department and shall be performed by the following major organizational components of the Department.</text>
@@ -11,7 +10,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>All functions and duties assigned to the Public Service Commission in Chapter 36 of Title 3 and Chapter 37 of Title 3, shall be assumed by the Commissioner who shall exercise those regulatory responsibilities through the Securities and Banking Bureau.</text>
+      <text>All functions and duties assigned to the Public Service Commission in Chapter 36 [repealed] of Title 3 and Chapter 37 [repealed] of Title 3, shall be assumed by the Commissioner, who shall exercise those regulatory responsibilities through the Securities and Banking Bureau.</text>
     </level>
     <level>
       <num>(3)</num>
@@ -22,36 +21,41 @@
     <num>(b)</num>
     <text>The Mayor, at his or her discretion, may transfer the regulatory functions and duties of other executive offices and agencies to the Department.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 21, 1997, D.C. Law 11-268, § 4, 44 DCR 1730; June 11, 2004, D.C. Law 15-166, § 3(c), 51 DCR 2817; Apr. 13, 2005, D.C. Law 15-354, § 40(b), 52 DCR 2638; Sept. 24, 2010, D.C. Law 18-223, § 2112(b), 57 DCR 6242.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-123.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-166, in subsec. (a), deleted "of Insurance and Securities" following "Commissioner" in par. (2), and added par. (3).</text>
-        <text>D.C. Law 15-354, in subsec. (a)(3), substituted "Banking Code, as defined in § 26-551.02(14)" for "Banking Code".</text>
-        <text>D.C. Law 18-223, in subsec. (a)(2), substituted "Securities and Banking Bureau" for "Securities Bureau"; and, in subsec. (a)(3), substituted "Securities and Banking Bureau" for "Banking Bureau".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 3(c) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
-        <text>For temporary (90 day) amendment of section, see § 2112(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-101.</text>
-        <text>For Law 15-166, see notes following § 31-101.</text>
-        <text>For Law 15-354, see notes following § 31-101.</text>
-        <text>For Law 18-223, see notes following § 31-101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-123.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-166, in subsec. (a), deleted "of Insurance and Securities" following "Commissioner" in par. (2), and added par. (3).</text>
+      <text>D.C. Law 15-354, in subsec. (a)(3), substituted "Banking Code, as defined in § 26-551.02(14)" for "Banking Code".</text>
+      <text>D.C. Law 18-223, in subsec. (a)(2), substituted "Securities and Banking Bureau" for "Securities Bureau"; and, in subsec. (a)(3), substituted "Securities and Banking Bureau" for "Banking Bureau".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 3(c) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
+      <text>For temporary (90 day) amendment of section, see § 2112(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-166</heading>
+      <text>For Law 15-166, see notes following § 31-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 31-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 31-101.</text>
     </level>
   </level>
 </level>

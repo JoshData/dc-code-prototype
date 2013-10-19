@@ -1,39 +1,32 @@
 <level type="section">
   <num>8-1810</num>
   <heading>Education and incentive program.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-1010</formerly-cited-as>
   <text>The Mayor shall implement an education and incentive program, which shall include the following:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Low cost spay and neuter clinic services; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Program for education of animal owners.</text>
-    </level>
+    <num>(1)</num>
+    <text>Low cost spay and neuter clinic services; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Program for education of animal owners.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 18, 1979, D.C. Law 3-30, § 11, 26 DCR 765.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-1010.</text>
-        <text>1973 Ed., § 6-2410.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-30, see Historical and Statutory Notes following § 8-1801.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority pursuant to law 3-30, see Mayor's Order 83-206, August 2, 1983.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-1010.</text>
+      <text>1973 Ed., § 6-2410.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-30</heading>
+      <text>For legislative history of D.C. Law 3-30, see Historical and Statutory Notes following § 8-1801.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority pursuant to law 3-30, see Mayor's Order 83-206, August 2, 1983.</text>
     </level>
   </level>
 </level>

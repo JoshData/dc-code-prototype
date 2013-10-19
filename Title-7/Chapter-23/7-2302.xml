@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-2302</num>
   <heading>Establishment of program of public emergency preparedness; publication.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-1502</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor may establish a program of public emergency preparedness that utilizes the services of all appropriate agencies (including the Homeland Security and Emergency Management Agency) and the program shall include, but not be limited to:</text>
@@ -46,35 +45,44 @@
     <num>(e)</num>
     <text>Neither the District of Columbia, its independent agencies, employees, officers, or agents shall be held liable for damages for any actions taken within the scope of the individual's employment or voluntary service to implement the provisions of the District of Columbia response plan, except in instances of gross negligence.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 5, 1981, D.C. Law 3-149, § 3, 27 DCR 4886; Oct. 17, 2002, D.C. Law 14-194, § 202(b), 49 DCR 5306; Mar. 13, 2004, D.C. Law 15-105, § 47(a), 51 DCR 881; Mar. 14, 2007, D.C. Law 16-262, § 408, 54 DCR 794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-1502.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-194, in subsec. (a), substituted "District of Columbia Emergency Management Agency" for "Office of Emergency Preparedness"; in subsec. (a)(1), substituted "District of Columbia response plan" for "emergency operations plan"; in subsec. (b), substituted "Except as provided in subsection (c) of this section, the Mayor shall publish in" for "The Mayor shall publish in 2 consecutive editions of"; and added subsecs. (c), (d), and (e).</text>
-        <text>D.C. Law 15-105, in subsec. (a)(1), validated a previously made technical correction.</text>
-        <text>D.C. Law 16-262, in subsec. (a), in the introductory paragraph, substituted "Homeland Security and Emergency Management Agency" for "District of Columbia Emergency Management Agency".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-149, see Historical and Statutory Notes following § 7-2301.</text>
-        <text>For Law 14-194, see notes following § 7-132.</text>
-        <text>For Law 15-105, see notes following § 7-136.</text>
-        <text>For Law 16-262, see notes following § 7-2202.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>Pursuant to Mayor's Order 98-198 (46 DCR 240) pub. January 8, 1999, the name of the Office of Emergency Preparedness has been changed to the D.C. Emergency Management Agency.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-2301.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-1502.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-194, in subsec. (a), substituted "District of Columbia Emergency Management Agency" for "Office of Emergency Preparedness"; in subsec. (a)(1), substituted "District of Columbia response plan" for "emergency operations plan"; in subsec. (b), substituted "Except as provided in subsection (c) of this section, the Mayor shall publish in" for "The Mayor shall publish in 2 consecutive editions of"; and added subsecs. (c), (d), and (e).</text>
+      <text>D.C. Law 15-105, in subsec. (a)(1), validated a previously made technical correction.</text>
+      <text>D.C. Law 16-262, in subsec. (a), in the introductory paragraph, substituted "Homeland Security and Emergency Management Agency" for "District of Columbia Emergency Management Agency".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-149</heading>
+      <text>For legislative history of D.C. Law 3-149, see Historical and Statutory Notes following § 7-2301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-194</heading>
+      <text>For Law 14-194, see notes following § 7-132.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>For Law 15-105, see notes following § 7-136.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-262</heading>
+      <text>For Law 16-262, see notes following § 7-2202.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>Pursuant to Mayor's Order 98-198 (46 DCR 240) pub. January 8, 1999, the name of the Office of Emergency Preparedness has been changed to the D.C. Emergency Management Agency.</text>
     </level>
   </level>
 </level>

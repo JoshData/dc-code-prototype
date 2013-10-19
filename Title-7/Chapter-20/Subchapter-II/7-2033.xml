@@ -1,63 +1,59 @@
 <level type="section">
   <num>7-2033</num>
   <heading>Exemptions.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-3623</formerly-cited-as>
   <text>The provisions of this subchapter shall not apply to the following:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Occasional babysitting in a babysitter's home for the children of one family;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Informal parent-supervised neighborhood play groups;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Care furnished in places of worship during religious services;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Care given by an individual who is related to the child, infant, or toddler;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Child development facilities operated by the federal government on federal government property; however, a private child care provider utilizing space in or on federal government property is not exempt unless federal law specifically exempts the facility from the District's regulatory authority; or</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Pre-kindergarten education programs licensed pursuant to Chapter 2A of Title 38.</text>
-    </level>
+    <num>(1)</num>
+    <text>Occasional babysitting in a babysitter's home for the children of one family;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Informal parent-supervised neighborhood play groups;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Care furnished in places of worship during religious services;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Care given by an individual who is related to the child, infant, or toddler;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Child development facilities operated by the federal government on federal government property; however, a private child care provider utilizing space in or on federal government property is not exempt unless federal law specifically exempts the facility from the District's regulatory authority; or</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Pre-kindergarten education programs licensed pursuant to Chapter 2A of Title 38.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 13, 1999, D.C. Law 12-215, § 4, 46 DCR 274; July 18, 2008, D.C. Law 17-202, § 603(b), 55 DCR 6297.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-3623.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-202, in par. (4), deleted "or" from the end; in par. (5), substituted "; or" for a period at the end; and added par. (6).</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>See notes to § 7-2031.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary addition of subchapter, see notes to § 7-2031.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-215, see Historical and Statutory Notes following § 7-2031.</text>
-        <text>For Law 17-202, see notes following § 7-863.03a.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-3623.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-202, in par. (4), deleted "or" from the end; in par. (5), substituted "; or" for a period at the end; and added par. (6).</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>See notes to § 7-2031.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary addition of subchapter, see notes to § 7-2031.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-215</heading>
+      <text>For legislative history of D.C. Law 12-215, see Historical and Statutory Notes following § 7-2031.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-202</heading>
+      <text>For Law 17-202, see notes following § 7-863.03a.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-5313</num>
   <heading>Benefits.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1243</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A society may provide the following contractual benefits in any form:</text>
@@ -38,22 +37,22 @@
     <num>(b)</num>
     <text>A society shall specify in its rules those persons who may be issued, or covered by, the contractual benefits in subsection (a) of this section, consistent with providing benefits to members and their dependents. A society may provide benefits on the lives of children under the minimum age for adult membership upon application of an adult person.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 29, 1998, D.C. Law 12-86, § 1214, 45 DCR 1172.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1243.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-86, see Historical and Statutory Notes following § 31-5301.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-5301 and § 31-5302.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1243.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-86</heading>
+      <text>For legislative history of D.C. Law 12-86, see Historical and Statutory Notes following § 31-5301.</text>
     </level>
   </level>
 </level>

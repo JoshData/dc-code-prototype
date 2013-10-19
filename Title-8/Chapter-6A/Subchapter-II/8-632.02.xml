@@ -64,7 +64,7 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>Be subject to the requirements of subsection (1)(3) of this section; and</text>
+        <text>Be subject to the requirements of subsection (1)(3) [sic] of this section; and</text>
       </level>
       <level>
         <num>(D)</num>
@@ -72,42 +72,41 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 13, 2001, D.C. Law 13-312, § 202, 48 DCR 3804; Apr. 8, 2011, D.C. Law 18-369, § 2(d), 58 DCR 996.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-369 rewrote the section, which formerly read:</text>
-        <text>"A person shall not be liable pursuant to § 8-632.01(b), if the person establishes by a preponderance of the evidence, that the release or contamination was caused by any of the following:</text>
-        <text>"(1) An act of God;</text>
-        <text>"(2) An act of war;</text>
-        <text>"(3) The migration, flow, or movement of hazardous substances from property owned by a person unrelated to the person asserting the defense;</text>
-        <text>"(4) An act or omission of an unrelated third party, where reasonable precautions were taken to prevent foreseeable releases;</text>
-        <text>"(5) An act or omission of a third party where the act or omission was reasonably outside the scope of a prior or an existing contractual relationship, and the person asserting the defense could not have reasonably foreseen or prevented the act or omission; or</text>
-        <text>"(6) An act or omission that occurred prior to the acquisition of the property where due diligence had been exercised in investigating the possible existence of a release or contamination, except that if the property was acquired by inheritance or bequest, or through a foreclosure for tax delinquency or condemnation for blight or other threats to public health, safety, and welfare."</text>
-        <text>D.C. Law 18-369 rewrote the section, which formerly read:</text>
-        <text>"A person shall not be liable pursuant to § 8-632.01(b), if the person establishes by a preponderance of the evidence, that the release or contamination was caused by any of the following:</text>
-        <text>"(1) An act of God;</text>
-        <text>"(2) An act of war;</text>
-        <text>"(3) The migration, flow, or movement of hazardous substances from property owned by a person unrelated to the person asserting the defense;</text>
-        <text>"(4) An act or omission of an unrelated third party, where reasonable precautions were taken to prevent foreseeable releases;</text>
-        <text>"(5) An act or omission of a third party where the act or omission was reasonably outside the scope of a prior or an existing contractual relationship, and the person asserting the defense could not have reasonably foreseen or prevented the act or omission; or</text>
-        <text>"(6) An act or omission that occurred prior to the acquisition of the property where due diligence had been exercised in investigating the possible existence of a release or contamination, except that if the property was acquired by inheritance or bequest, or through a foreclosure for tax delinquency or condemnation for blight or other threats to public health, safety, and welfare."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(d) of Brownfield Revitalization Emergency Amendment Act of 2010 (D.C. Act 18-667, December 28, 2010, 58 DCR 95).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-312, see notes following § 8-631.01.</text>
-        <text>For history of Law 18-369, see notes under § 8-631.02.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-369 rewrote the section, which formerly read:</text>
+      <text>"A person shall not be liable pursuant to § 8-632.01(b), if the person establishes by a preponderance of the evidence, that the release or contamination was caused by any of the following:</text>
+      <text>"(1) An act of God;</text>
+      <text>"(2) An act of war;</text>
+      <text>"(3) The migration, flow, or movement of hazardous substances from property owned by a person unrelated to the person asserting the defense;</text>
+      <text>"(4) An act or omission of an unrelated third party, where reasonable precautions were taken to prevent foreseeable releases;</text>
+      <text>"(5) An act or omission of a third party where the act or omission was reasonably outside the scope of a prior or an existing contractual relationship, and the person asserting the defense could not have reasonably foreseen or prevented the act or omission; or</text>
+      <text>"(6) An act or omission that occurred prior to the acquisition of the property where due diligence had been exercised in investigating the possible existence of a release or contamination, except that if the property was acquired by inheritance or bequest, or through a foreclosure for tax delinquency or condemnation for blight or other threats to public health, safety, and welfare."</text>
+      <text>D.C. Law 18-369 rewrote the section, which formerly read:</text>
+      <text>"A person shall not be liable pursuant to § 8-632.01(b), if the person establishes by a preponderance of the evidence, that the release or contamination was caused by any of the following:</text>
+      <text>"(1) An act of God;</text>
+      <text>"(2) An act of war;</text>
+      <text>"(3) The migration, flow, or movement of hazardous substances from property owned by a person unrelated to the person asserting the defense;</text>
+      <text>"(4) An act or omission of an unrelated third party, where reasonable precautions were taken to prevent foreseeable releases;</text>
+      <text>"(5) An act or omission of a third party where the act or omission was reasonably outside the scope of a prior or an existing contractual relationship, and the person asserting the defense could not have reasonably foreseen or prevented the act or omission; or</text>
+      <text>"(6) An act or omission that occurred prior to the acquisition of the property where due diligence had been exercised in investigating the possible existence of a release or contamination, except that if the property was acquired by inheritance or bequest, or through a foreclosure for tax delinquency or condemnation for blight or other threats to public health, safety, and welfare."</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(d) of Brownfield Revitalization Emergency Amendment Act of 2010 (D.C. Act 18-667, December 28, 2010, 58 DCR 95).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-312</heading>
+      <text>For Law 13-312, see notes following § 8-631.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-369</heading>
+      <text>For history of Law 18-369, see notes under § 8-631.02.</text>
     </level>
   </level>
 </level>

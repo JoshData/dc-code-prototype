@@ -1,102 +1,50 @@
 <level type="section">
   <num>47-2711</num>
   <heading>Riparian permits.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-2711</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The schedule of fees to be charged by the District of Columbia for the issuance of riparian permits is hereby established and set out as follows:</text>
   </level>
-  <text>Riparian Permits Schedule</text>
+  <text class="centered">Riparian Permits Schedule</text>
   <text>Fees required by the Rules and Regulations for the Government of Riparian Rights and Water Privileges in the District of Columbia.</text>
-  <text>Fees for permits to fill or dredge, construct, reconstruct or repair any structure shall be as follows:</text>
-  <text>
-    <text font="'monospace'"> Fee</text>
-  </text>
-  <text>
-    <text font="'monospace'"> Work costing up to $500 ....................................... $ 9.00</text>
-  </text>
-  <text>
-    <text font="'monospace'"> Work costing from $501 to $1,000 ............................... 14.00</text>
-  </text>
-  <text>
-    <text font="'monospace'"> Each additional $1,000 of increased cost ....................... 14.00</text>
-  </text>
-  <level>
-    <num>(b)</num>
-    <text><text i="True">Refunds:</text> A refund of permit fee shall be made as follows:</text>
+  <level type="form">
+    <text> Fees for permits to fill or dredge, construct, reconstruct or repair any structure shall be as follows:</text>
+    <text> Fee 
+ Work costing up to $500 ...................................................$ 9.00 
+ Work costing from $501 to $1,000 ................................... 14.00 
+ Each additional $1,000 of increased cost .......................... 14.00 
+ 
+ (b) Refunds: A refund of permit fee shall be made as follows: 
+ 
+ (1) When no work has been done under authority of permit the fee in excess of the cost of inspection to verify no work having been done, based on $10 per inspector hour, the cost of any engineering examination time previously devoted to approval of plans, based on $15 per hour, plus $14 administrative 
+costs of "issuance and refund", shall be refunded ......................14.00 
+ 
+ (2) When work authorized by permit has been only partially done and when the District is satisfied that no more work will be done under the permit, the fee in excess of the cost of any engineering plans examination based on $15 per hour, inspections costs based on $10 per hour, plus $14 
+administrative costs of "issuance and refund", shall be refunded ......14.00 
+ 
+ (3) Provided: That request for refund shall be made within 6 months from date of issuance and the permit and receipt are returned to the Permit Branch. 
+ 
+ (c) Penalty: The penalty for a permit to abate notice of doing work without a permit shall be 50% of the fee. 
+ 
+ (d) Waiver of permit fees: No permit fee shall be charged when supported by evidence indicating that the applicant is under contract or subcontract to perform the following: 
+ 
+ (1) Work done exclusively for the District of Columbia. 
+ 
+ (2) Work done under contract for the District.</text>
   </level>
-  <text>
-    <text font="'monospace'"> (1) When no work has been done under authority of permit the fee in </text>
-  </text>
-  <text>
-    <text font="'monospace'"> excess of the cost of inspection to verify no work having been </text>
-  </text>
-  <text>
-    <text font="'monospace'"> done, based on $10 per inspector hour, the cost of any </text>
-  </text>
-  <text>
-    <text font="'monospace'"> engineering examination time previously devoted to approval of </text>
-  </text>
-  <text>
-    <text font="'monospace'"> plans, based on $15 per hour, plus $14 administrative costs of </text>
-  </text>
-  <text>
-    <text font="'monospace'"> "issuance and refund", shall be refunded ......................... 14.00</text>
-  </text>
-  <text>
-    <text font="'monospace'"> (2) When work authorized by permit has been only partially done and </text>
-  </text>
-  <text>
-    <text font="'monospace'"> when the District is satisfied that no more work will be done </text>
-  </text>
-  <text>
-    <text font="'monospace'"> under the permit, the fee in excess of the cost of any </text>
-  </text>
-  <text>
-    <text font="'monospace'"> engineering plans examination based on $15 per hour, inspections </text>
-  </text>
-  <text>
-    <text font="'monospace'"> costs based on $10 per hour, plus $14 administrative costs of </text>
-  </text>
-  <text>
-    <text font="'monospace'"> "issuance and refund", shall be refunded ......................... 14.00</text>
-  </text>
-  <level>
-    <text><text i="True">Provided:</text> That request for refund shall be made within 6 months from date of issuance and the permit and receipt are returned to the Permit Branch.</text>
-  </level>
-  <level>
-    <num>(c)</num>
-    <text><text i="True">Penalty:</text> The penalty for a permit to abate notice of doing work without a permit shall be 50% of the fee.</text>
-  </level>
-  <level>
-    <num>(d)</num>
-    <text><text i="True">Waiver of permit fees:</text> No permit fee shall be charged when supported by evidence indicating that the applicant is under contract or subcontract to perform the following:</text>
+  <level type="annotations">
     <level>
-      <num>(1)</num>
-      <text>Work done exclusively for the District of Columbia.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Work done under contract for the District.</text>
-    </level>
-  </level>
-  <level>
-    <type>annotations</type>
-    <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 1976, D.C. Law 1-82, title II, § 201, 23 DCR 2461; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-2711.</text>
-        <text>1973 Ed., § 47-2211.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-82, see Historical and Statutory Notes following § 47-2702.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-2711.</text>
+      <text>1973 Ed., § 47-2211.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-82</heading>
+      <text>For legislative history of D.C. Law 1-82, see Historical and Statutory Notes following § 47-2702.</text>
     </level>
   </level>
 </level>

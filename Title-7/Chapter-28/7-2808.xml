@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-2808</num>
   <heading>Standards for security and fire alarm systems.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-3108</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>No person shall install or maintain an audible alarm system which creates a sound capable of being mistakenly identified as that of an emergency vehicle siren or a civil defense warning siren.</text>
@@ -14,23 +13,22 @@
     <num>(c)</num>
     <text>No person shall install or maintain an alarm system which does not have some safeguard which allows reasonable delay to halt or recall an accidental alarm activation before the alarm is communicated to the Metropolitan Police Department or District of Columbia Fire Department for response to the scene.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 26, 1980, D.C. Law 3-107, § 9, 27 DCR 3760; Mar. 29, 1988, D.C. Law 7-99, § 2(j), 35 DCR 1051.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-3108.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-107, see Historical and Statutory Notes following § 7-2801.</text>
-        <text>For legislative history of D.C. Law 7-99, see Historical and Statutory Notes following § 7-2801.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-3108.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-107</heading>
+      <text>For legislative history of D.C. Law 3-107, see Historical and Statutory Notes following § 7-2801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-99</heading>
+      <text>For legislative history of D.C. Law 7-99, see Historical and Statutory Notes following § 7-2801.</text>
     </level>
   </level>
 </level>

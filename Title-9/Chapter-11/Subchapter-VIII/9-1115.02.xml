@@ -1,7 +1,6 @@
 <level type="section">
   <num>9-1115.02</num>
   <heading>Preamble to Compact.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-2482</formerly-cited-as>
   <level>
     <num>(1)</num>
     <text>Whereas, traffic congestion imposes serious economic burdens in the Washington, D.C., metropolitan area, costing commuters an estimated $1,000 each per year.</text>
@@ -50,22 +49,18 @@
     <num>(12)</num>
     <text>Whereas, a coordinated approach without regard to political and legal jurisdictional boundaries, through the cooperation of the State of Maryland, the Commonwealth of Virginia, and the District of Columbia by and through a common agency similar to other Washington, D.C., area authorities, is a proper and necessary step looking toward the alleviation of traffic problems related to the inadequacy of the existing Woodrow Wilson Memorial Bridge.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 28, 1996, D.C. Law 11-96, § 3, 42 DCR 7185.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-2482.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-96, see Historical and Statutory Notes following § 9-1115.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-2482.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-96</heading>
+      <text>For legislative history of D.C. Law 11-96, see Historical and Statutory Notes following § 9-1115.01.</text>
     </level>
   </level>
 </level>

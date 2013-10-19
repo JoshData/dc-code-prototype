@@ -42,36 +42,41 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>TheChief Financial Officer may require taxpayers subject to the sales taxes and fees imposed by §§ 47-2002.05 and 47-2762 and all sales taxes described in [§ 2-1217.12], to make payments of those taxes electronically.</text>
+    <text>Except in the case of street vendors described in § 47-2002.01, the Chief Financial Officer may require taxpayers subject to the sales taxes and fees imposed by §§ 47-2002.05 and 47-2762 and all sales taxes described in [§ 2-1217.12], to make payments of those taxes electronically.</text>
   </level>
   <level>
     <num>(f)</num>
     <text>The Chief Financial Officer or his delegate shall promulgate such regulations as may be necessary and appropriate to carry out provisions of this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2005, D.C. Law 15-320, § 110(f), 52 DCR 1757; Nov. 30, 2005, D.C. Law 16-91, § 204, 52 DCR 10637; July 13, 2012, D.C. Law 19-149, § 2(b), 59 DCR 5129.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-91 rewrote subsec. (c), which had read as follows:</text>
-        <text>"(c) On or before December 1 of each year, the Chief Financial Officer shall certify to the Council the amount of revenue received by the District from imposition of the ballpark fee during the immediately preceding fiscal year and provide an estimate of the amount of revenue expected to be received from the ballpark fee in the then current fiscal year. If the amount estimated to be collected is less than $26 million, for the allocation of monies for payments of the bonds, as provided by [§ 10-1601.03(b)], the Chief Financial Officer shall compute the amount of the ballpark fee under the schedule set forth in subsection (b) of this section needed to provide estimated revenue in the next fiscal year equal to $26 million by applying the same percentage increase to each amount of the then-current ballpark fee under the schedule set forth in subsection (b) of this section. The Chief Financial Officer shall notify the Council, the Mayor, and the taxpayers of the new schedule and, upon such notice, the amount of the ballpark fee under the schedule set forth in subsection (b) of this section shall be increased as of October 1 of the following year."</text>
-        <text>D.C. Law 19-149, in subsec. (e), substituted "The" for "Except in the case of street vendors described in § 47-2002.01, the".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-320, see notes following § 47-2761 .</text>
-        <text>Law 16-91, the "Technical Amendments Act of 2005", was introduced in Council and assigned Bill No. 16-477, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 1, 2005, and November 15, 2005, respectively. Signed by the Mayor on November 30, 2005, it was assigned Act No. 16-212 and transmitted to both Houses of Congress for its review. Title II of D.C. Law 16-91 became effective on November 30, 2005, pursuant to Pub. L. 109-115, Div. B, § 136.</text>
-        <text>For history of Law 19-149, see notes under § 47-2002.01.</text>
-      </level>
-      <level>
-        <heading>Effective Dates</heading>
-        <text>Section 136 of Pub. L. 109-115, Nov. 30, 2005, 119 Stat. 2522, provides: 'Notwithstanding section 602(c)(1) of the District of Columbia Home Rule Act, amendments to the Ballpark Technical Amendments Act of 2005 shall take effect on the date of the enactment by the District of Columbia [Nov. 30, 2005]."</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 10-1601.06 and § 47-2763.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-91 rewrote subsec. (c), which had read as follows: "(c) On or before December 1 of each year, the Chief Financial Officer shall certify to the Council the amount of revenue received by the District from imposition of the ballpark fee during the immediately preceding fiscal year and provide an estimate of the amount of revenue expected to be received from the ballpark fee in the then current fiscal year. If the amount estimated to be collected is less than $26 million, for the allocation of monies for payments of the bonds, as provided by § 10-1601.03(b), the Chief Financial Officer shall compute the amount of the ballpark fee under the schedule set forth in subsection (b) of this section needed to provide estimated revenue in the next fiscal year equal to $26 million by applying the same percentage increase to each amount of the then-current ballpark fee under the schedule set forth in subsection (b) of this section. The Chief Financial Officer shall notify the Council, the Mayor, and the taxpayers of the new schedule and, upon such notice, the amount of the ballpark fee under the schedule set forth in subsection (b) of this section shall be increased as of October 1 of the following year."</text>
+      <text>D.C. Law 19-149, in subsec. (e), substituted "The" for "Except in the case of street vendors described in § 47-2002.01, the".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-320</heading>
+      <text>For Law 15-320, see notes following § 47-2761.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-91</heading>
+      <text>Law 16-91, the "Technical Amendments Act of 2005", was introduced in Council and assigned Bill No. 16-477, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 1, 2005, and November 15, 2005, respectively. Signed by the Mayor on November 30, 2005, it was assigned Act No. 16-212 and transmitted to both Houses of Congress for its review. Title II of D.C. Law 16-91 became effective on November 30, 2005, pursuant to Pub. L. 109-115, Div. B, § 136.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-149</heading>
+      <text>For history of Law 19-149, see notes under § 47-2002.01.</text>
+    </level>
+    <level>
+      <heading>Effective Dates</heading>
+      <text>Section 136 of Pub. L. 109-115, Nov. 30, 2005, 119 Stat. 2522, provided: "Notwithstanding section 602(c)(1) of the District of Columbia Home Rule Act, amendments to the Ballpark Technical Amendments Act of 2005 shall take effect on the date of the enactment by the District of Columbia [Nov. 30, 2005]."</text>
     </level>
   </level>
 </level>

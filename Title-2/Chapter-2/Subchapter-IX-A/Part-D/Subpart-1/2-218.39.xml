@@ -3,35 +3,33 @@
   <heading>Local manufacturing business enterprises.</heading>
   <text>A business enterprise shall be eligible for certification as a local manufacturing business enterprise if the business enterprise:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Meets the definition of a local business enterprise as described in § 2- 218.31;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Makes a product through a process involving raw materials, components, or assemblies, usually on a large scale, with different operations divided among different workers;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Has an annual revenue of $2 million in the manufactured product; and</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Has its principal location of manufacturing in the District of Columbia.</text>
-    </level>
+    <num>(1)</num>
+    <text>Meets the definition of a local business enterprise as described in § 2-218.31;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Makes a product through a process involving raw materials, components, or assemblies, usually on a large scale, with different operations divided among different workers;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Has an annual revenue of $2 million in the manufactured product; and</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Has its principal location of manufacturing in the District of Columbia.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 20, 2005, D.C. Law 16-33, § 2339, as added Apr. 20, 2010, D.C. Law 18-141, § 2(g), 57 DCR 1485.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-141, see notes following § 2-218.02.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-218.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-141</heading>
+      <text>For Law 18-141, see notes following § 2-218.02.</text>
     </level>
   </level>
 </level>

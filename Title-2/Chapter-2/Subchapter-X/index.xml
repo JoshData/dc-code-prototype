@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>X</num>
-  <heading>First Source Employment.</heading>
-  <level>
-    <text>DC CODE D. I, T. 2, Ch. 2, Subch. X, Refs &amp; Annos</text>
-  </level>
+  <heading>First Source Employment</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-B/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-C/index.xml"/>

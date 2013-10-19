@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Release and Pretrial Detention.</heading>
-  <level>
-    <text>DC CODE D. IV, T. 23, Ch. 13, Subch. II, Refs &amp; Annos</text>
-  </level>
+  <heading>Release and Pretrial Detention</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-1321.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-1322.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-1323.xml"/>

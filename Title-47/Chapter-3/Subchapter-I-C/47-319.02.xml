@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-319.02</num>
   <heading>Composition.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-319.2</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Committee shall consist of 9 members as follows:</text>
@@ -50,26 +49,22 @@
     <num>(c)</num>
     <text>Four members of the Committee shall constitute a quorum.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 5, 1996, D.C. Law 11-98, § 702, 42 DCR 5; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-319.2.</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>See Historical and Statutory Notes following § 47-319.01.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-98, see Historical and Statutory Notes following § 47-319.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-319.2.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>See Historical and Statutory Notes following § 47-319.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-98</heading>
+      <text>For legislative history of D.C. Law 11-98, see Historical and Statutory Notes following § 47-319.01.</text>
     </level>
   </level>
 </level>

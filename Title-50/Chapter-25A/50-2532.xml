@@ -37,18 +37,14 @@
     <num>(g)</num>
     <text>Within the first 30 days of implementation of the Ballpark Performance Parking Pilot Zone, the Mayor may issue warning citations for curbside parking violations related to the pilot program in the zone.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Nov. 25, 2008, D.C. Law 17-279, § 3, 55 DCR 11059.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-279, see notes following § 50-2531.</text>
-      </level>
+      <heading>Legislative History of Law 17-279</heading>
+      <text>For Law 17-279, see notes following § 50-2531.</text>
     </level>
   </level>
 </level>

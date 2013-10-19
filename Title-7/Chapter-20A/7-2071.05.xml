@@ -3,43 +3,37 @@
   <heading>Public outreach.</heading>
   <text>The Ombudsman Program shall implement innovative strategies and tools to maximize its outreach to consumers, including provision of the following accessible information sources and services:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>A toll-free 1-800 telephone number that operates in the District metropolitan area;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>A website on the Internet;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>In-person counseling;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Establishing relationships with organizations in each ward of the city to provide outreach and receive referrals;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Active liaison, partnership, and information sharing with community, consumer, health, disability, religious, ethnic-based organizations, and other organizations; and</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>A one-page, easy-to-read flyer describing the Ombudsman Program's services that shall be available to the public.</text>
-    </level>
+    <num>(1)</num>
+    <text>A toll-free 1-800 telephone number that operates in the District metropolitan area;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>A website on the Internet;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>In-person counseling;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Establishing relationships with organizations in each ward of the city to provide outreach and receive referrals;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Active liaison, partnership, and information sharing with community, consumer, health, disability, religious, ethnic-based organizations, and other organizations; and</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>A one-page, easy-to-read flyer describing the Ombudsman Program's services that shall be available to the public.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 12, 2005, D.C. Law 15-331, § 6, 52 DCR 1981.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-331, see notes following § 7-2071.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-331</heading>
+      <text>For Law 15-331, see notes following § 7-2071.01.</text>
     </level>
   </level>
 </level>

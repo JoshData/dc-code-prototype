@@ -1,7 +1,6 @@
 <level type="section">
   <num>37-201.11</num>
   <heading>Sale of coal, charcoal, or coke.</heading>
-  <formerly-cited-as>DC ST 1981 § 10-112</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>It shall be unlawful to sell or offer for sale in the District of Columbia any coal, charcoal, or coke in any manner other than by weight. No person shall sell or deliver or attempt to deliver to any purchaser within the District of Columbia any coal, charcoal, or coke unless the quantity so sold or delivered or attempted to be delivered to each purchaser shall have been weighed separately. No person shall deliver to any purchaser within the District of Columbia any coal, charcoal, or coke unless the same shall have been kept separated from any other coal, charcoal, coke, or other commodity after same has been weighed as aforesaid until final delivery thereof.</text>
@@ -42,23 +41,19 @@
     <num>(f)</num>
     <text>Every vendor of coal, charcoal, or coke shall cause his name and address to be distinctly and conspicuously displayed in letters and figures at least 4 inches high on both sides of every vehicle used by or for him for the sale or delivery of coal, charcoal, or coke. In case of an estate, the trustee, administrator, or executor, or other person in charge of the affairs of such estate shall be deemed to be the vendor.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1921, 41 Stat. 1219, ch. 118, § 11; Apr. 27, 1945, 59 Stat. 97, ch. 99, § 3; Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 10-112.</text>
-        <text>1973 Ed., § 10-111.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § 37-201.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 10-112.</text>
+      <text>1973 Ed., § 10-111.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § 37-201.01.</text>
     </level>
   </level>
 </level>

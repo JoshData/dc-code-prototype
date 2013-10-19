@@ -6,7 +6,15 @@
     <text>Within 30 days of the effective date of the franchise agreement, the franchisee shall file with the District of Columbia and shall maintain throughout the life of the franchise agreement, liability insurance policies and performance bonds acceptable to the Mayor in the minimum amounts as follows:</text>
     <level>
       <num>(1)</num>
-      <text>For bodily injury, including death, (A) $250,000 for any one person, and (B) $1,000,000 for any one accident;</text>
+      <text>For bodily injury, including death,</text>
+      <level>
+        <num>(A)</num>
+        <text>$250,000 for any one person, and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>$1,000,000 for any one accident;</text>
+      </level>
     </level>
     <level>
       <num>(2)</num>
@@ -21,10 +29,9 @@
     <num>(b)</num>
     <text>The franchisee shall assure any legal responsibility for, and shall hold the District of Columbia and/or the Washington Metropolitan Area Transit Authority harmless from, any liability that arises because of injury to persons or property, including sidewalks, curbs, streets and structures by reason of the construction, operation, or maintenance of the bus shelters installed or moved pursuant to the franchise agreement.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 10, 1980, D.C. Law 3-67, § 7, 27 DCR 1266.)</text>
     </level>
   </level>

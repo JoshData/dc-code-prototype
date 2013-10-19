@@ -1,36 +1,32 @@
 <level type="section">
   <num>36-501</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 29-721</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 29-501</formerly-cited-as>
   <text>For the purposes of this chapter, the term:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>"Private corporation" means any corporation, other than a public corporation, organized for the purpose of establishing, operating, and maintaining a foreign trade zone.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Public corporation" means the District of Columbia government or an agency of the District of Columbia government or similar organization that is financed in whole or in part by public funds.</text>
-    </level>
+    <num>(1)</num>
+    <text>"Private corporation" means any corporation, other than a public corporation, organized for the purpose of establishing, operating, and maintaining a foreign trade zone.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Public corporation" means the District of Columbia government or an agency of the District of Columbia government or similar organization that is financed in whole or in part by public funds.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 14, 1995, D.C. Law 11-28, § 2, 42 DCR 2569.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 29-501.</text>
-        <text>1981 Ed., § 29-721.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 11-28, the "Foreign Trade Zones Act of 1995," was introduced in Council and assigned Bill No. 11-97, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on April 4, 1995, and May 18, 1995, respectively. Signed by the Mayor on March 22, 1995, it was assigned Act No. 11-56 and transmitted to both Houses of Congress for its review. D.C. Law 11-28 became effective on July 14, 1995.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-808.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 29-501.</text>
+      <text>1981 Ed., § 29-721.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-28</heading>
+      <text>Law 11-28, the "Foreign Trade Zones Act of 1995," was introduced in Council and assigned Bill No. 11-97, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on April 4, 1995, and May 18, 1995, respectively. Signed by the Mayor on March 22, 1995, it was assigned Act No. 11-56 and transmitted to both Houses of Congress for its review. D.C. Law 11-28 became effective on July 14, 1995.</text>
     </level>
   </level>
 </level>

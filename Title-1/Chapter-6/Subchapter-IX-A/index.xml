@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>IX-A</num>
-  <heading>Management Supervisory Service.</heading>
+  <heading>Management Supervisory Service</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-609.51.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-609.52.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-609.53.xml"/>

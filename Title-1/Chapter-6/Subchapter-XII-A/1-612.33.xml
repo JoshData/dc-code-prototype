@@ -41,18 +41,14 @@
       <text>Certification from a physician or other licensed healthcare professional that the recipient employee has experienced a serious health condition or that the recipient employee's immediate relative requires personal care, except that no certification shall be required in cases of pregnancy, the recent adoption of a child, or care of a newborn child.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-139, § 1233, as added Feb. 6, 2004, D.C. Law 15-68, § 2, 50 DCR 9819.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-68, see notes following § 1-612.31.</text>
-      </level>
+      <heading>Legislative History of Law 15-68</heading>
+      <text>For Law 15-68, see notes following § 1-612.31.</text>
     </level>
   </level>
 </level>

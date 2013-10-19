@@ -45,18 +45,18 @@
     <num>(d)</num>
     <text>The Inspection Agency shall keep and maintain records of all inspections made of a private fire hydrant and shall make the records available to the owner of the private fire hydrant upon request. The records shall be kept and maintained for not less than 10 years.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 31, 2011, D.C. Law 18-337, § 5, 58 DCR 609.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-337, see notes under § 34-2410.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 34-2410.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-337</heading>
+      <text>For history of Law 18-337, see notes under § 34-2410.01.</text>
     </level>
   </level>
 </level>

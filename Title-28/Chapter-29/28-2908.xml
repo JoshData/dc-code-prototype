@@ -1,7 +1,6 @@
 <level type="section">
   <num>28-2908</num>
   <heading>Territorial application.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-2908</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The rights and duties of a corporation and its transfer agents in registering a security in the name of a fiduciary or in making a transfer of a security pursuant to an assignment by a fiduciary are governed by the law of the jurisdiction under whose laws the corporation is organized.</text>
@@ -10,23 +9,19 @@
     <num>(b)</num>
     <text>This chapter applies to the rights and duties of a person other than the corporation and its transfer agents with regard to acts and omissions in the District of Columbia in connection with the acquisition, disposition, assignment or transfer of a security by or to a fiduciary and of a person who guarantees in the District of Columbia the signature of a fiduciary in connection with such a transaction.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 30, 1964, 78 Stat. 674, Pub. L. 88-509, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-2908.</text>
-        <text>1973 Ed., § 28-2908.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 8 of the Uniform Act for Simplification of Fiduciary Security Transfers. See 7C Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-2908.</text>
+      <text>1973 Ed., § 28-2908.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 8 of the Uniform Act for Simplification of Fiduciary Security Transfers.</text>
     </level>
   </level>
 </level>

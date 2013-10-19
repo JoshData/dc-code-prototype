@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>9</num>
-  <heading>Lie Detectors.</heading>
-  <level>
-    <text>DC CODE D. V, T. 32, Ch. 9, Refs &amp; Annos</text>
-  </level>
+  <heading>Lie Detectors</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-901.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-902.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-903.xml"/>

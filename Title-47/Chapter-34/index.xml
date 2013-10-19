@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>34</num>
-  <heading>Miscellaneous Provisions.</heading>
+  <heading>Miscellaneous Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3401.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3401.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3401.02.xml"/>
@@ -13,7 +13,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3404.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3405~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3406~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3406.01~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3406.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3406.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3407.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3408.xml"/>

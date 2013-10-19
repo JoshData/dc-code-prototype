@@ -49,26 +49,22 @@
       <text>The development shall include no less than 4000 square feet of community and nonprofit incubator space at no cost to the community.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2011, D.C. Law 18-370, § 798(b), 58 DCR 1008.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of § 47-4652, see § 798(b) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011, 58 DCR 662).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-370, see notes under § 47-143.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 797 of D.C. Law 18-370 provided that subtitle L of title VII of the act may be cited as "Adams Morgan Hotel Real Property Tax Abatement Act of 2010".</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of § 47-4652, see § 798(b) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011, 58 DCR 662).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-370</heading>
+      <text>For history of Law 18-370, see notes under § 47-143.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 797 of D.C. Law 18-370 provided that subtitle L of title VII of the act may be cited as "Adams Morgan Hotel Real Property Tax Abatement Act of 2010".</text>
     </level>
   </level>
 </level>

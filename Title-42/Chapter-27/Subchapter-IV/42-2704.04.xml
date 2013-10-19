@@ -1,37 +1,38 @@
 <level type="section">
   <num>42-2704.04</num>
   <heading>Trust indenture to secure bonds or notes; provisions protecting holders; expenses treated as operating expenses.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2134</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Authority.</text> -- The Agency may secure bonds, notes, or other obligations by a trust indenture between the Agency and a corporate trustee which has the authority to exercise corporate trust powers within the District.</text>
+    <heading>Authority</heading>
+    <text>The Agency may secure bonds, notes, or other obligations by a trust indenture between the Agency and a corporate trustee which has the authority to exercise corporate trust powers within the District.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Provisions.</text> -- A trust indenture of the Agency may contain provisions for protecting and enforcing the rights and remedies of holders of bonds or notes in accordance with the provisions of the resolution authorizing the sale of bonds or notes.</text>
+    <heading>Provisions</heading>
+    <text>A trust indenture of the Agency may contain provisions for protecting and enforcing the rights and remedies of holders of bonds or notes in accordance with the provisions of the resolution authorizing the sale of bonds or notes.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Expenses.</text> -- The Agency may treat expenses incurred in carrying out a trust indenture as operating expenses.</text>
+    <heading>Expenses</heading>
+    <text>The Agency may treat expenses incurred in carrying out a trust indenture as operating expenses.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-135, § 404, 25 DCR 5008; Apr. 20, 1999, D.C. Law 12-247, § 2(q), 46 DCR 1100.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2134.</text>
-        <text>1973 Ed., § 45-1919.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-135, see Historical and Statutory Notes following § 42-2701.01.</text>
-        <text>For legislative history of D.C. Law 12-247, see Historical and Statutory Notes following § 42-2701.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2134.</text>
+      <text>1973 Ed., § 45-1919.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-135</heading>
+      <text>For legislative history of D.C. Law 2-135, see Historical and Statutory Notes following § 42-2701.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-247</heading>
+      <text>For legislative history of D.C. Law 12-247, see Historical and Statutory Notes following § 42-2701.01.</text>
     </level>
   </level>
 </level>

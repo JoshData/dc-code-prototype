@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-412</num>
   <heading>Enforcement.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-751.12</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For the purpose of carrying out the provisions of this chapter, the Mayor may enter upon any public or private land in a reasonable and lawful manner during normal business hours for purposes of sampling, inspection, and observation.</text>
@@ -14,22 +13,18 @@
     <num>(c)</num>
     <text>The Mayor, or any person, may bring an action in the Superior Court of the District of Columbia to enjoin the violation or threatened violation of any provision of this chapter or of any rules or regulation promulgated thereto.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 18, 1978, D.C. Law 2-70, § 13, 24 DCR 6867.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-751.12.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-70, see Historical and Statutory Notes following § 8-401.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-751.12.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-70</heading>
+      <text>For legislative history of D.C. Law 2-70, see Historical and Statutory Notes following § 8-401.</text>
     </level>
   </level>
 </level>

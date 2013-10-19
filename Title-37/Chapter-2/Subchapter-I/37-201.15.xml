@@ -1,7 +1,6 @@
 <level type="section">
   <num>37-201.15</num>
   <heading>Standard containers for sale of fruits, vegetables, and other dry commodities; no sales except in standard containers or by weight or count.</heading>
-  <formerly-cited-as>DC ST 1981 § 10-116</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Standard containers for the sale of fruits, vegetables, and other dry commodities in the District of Columbia shall be as follows:</text>
@@ -30,7 +29,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>The 6-basket carrier crate for fruits and vegetables shall contain 6 4- quart baskets, each basket having a capacity of two hundred and sixty-eight and eight-tenths cubic inches.</text>
+      <text>The 6-basket carrier crate for fruits and vegetables shall contain 6 4-quart baskets, each basket having a capacity of two hundred and sixty-eight and eight-tenths cubic inches.</text>
     </level>
     <level>
       <num>(4)</num>
@@ -70,7 +69,7 @@
       <num>(8)</num>
       <level>
         <num>(A)</num>
-        <text>The standard round-stave baskets for fruits and vegetables shall be the one-half-bushel basket, 1-bushel basket, one and one-half-bushel basket, and 2- bushel basket.</text>
+        <text>The standard round-stave baskets for fruits and vegetables shall be the one-half-bushel basket, 1-bushel basket, one and one-half-bushel basket, and 2-bushel basket.</text>
       </level>
       <level>
         <num>(B)</num>
@@ -98,19 +97,15 @@
     <num>(c)</num>
     <text>All kale, spinach, and other similar leaf vegetables shall be sold at retail by net weight.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1921, 41 Stat. 1221, ch. 118, § 15.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 10-116.</text>
-        <text>1973 Ed., § 10-115.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 10-116.</text>
+      <text>1973 Ed., § 10-115.</text>
     </level>
   </level>
 </level>

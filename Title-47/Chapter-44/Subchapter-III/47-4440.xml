@@ -37,23 +37,26 @@
     <num>(e)</num>
     <text>The Mayor may enter into agreements with the chief taxing official of a state, local or municipal government with respect to the operation of this section, including safeguards against the disclosure or inappropriate use of any information which personally identifies the taxpayer.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-305, § 405(b), 48 DCR 334; Mar. 14, 2007, D.C. Law 16-292, § 2(h), 54 DCR 1080.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-292 substituted "spouse (or domestic partner)" for ''spouse".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-305, see notes under § 47-4401.</text>
-        <text>For Law 16-292, see notes following § 47-1801.04.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-4431.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-292 substituted "spouse (or domestic partner)" for "spouse".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-305</heading>
+      <text>For Law 13-305, see notes under § 47-4401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-292</heading>
+      <text>For Law 16-292, see notes following § 47-1801.04.</text>
     </level>
   </level>
 </level>

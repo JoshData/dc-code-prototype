@@ -1,7 +1,6 @@
 <level type="section">
   <num>2-553</num>
   <heading>District of Columbia Register.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-1533</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The District of Columbia Office of Documents shall also supervise, manage, and direct the preparation, editing, and publishing of the District of Columbia Register which shall serve as the only official legal bulletin in the District of Columbia government and the temporary supplement of the District of Columbia Municipal Regulations.</text>
@@ -78,35 +77,36 @@
     <num>(i)</num>
     <text>All documents published in the District of Columbia Register shall be formulated in accordance with the requirements of § 2-632.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 21, 1968, Pub. L. 90-614, title III, § 303, as added Mar. 6, 1979, D.C. Law 2-153, § 4, 25 DCR 6960; Sept. 29, 2006, D.C. Law 16-169, § 5(b), 53 DCR 6223; Sept. 24, 2010, D.C. Law 18-223, § 1083(b), 57 DCR 6242.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-1533.</text>
-        <text>1973 Ed., § 1-1533.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-169 adds subsec. (i).</text>
-        <text>D.C. Law 18-223, in subsec. (g), deleted 'quarterly" following "shall publish"; and rewrote subsec. (h), which had read as follows:</text>
-        <text>"(h) On each document published in the District of Columbia Register there shall appear the date upon which such document was filed with the Administrator pursuant to § 2-554. On each issue of the District of Columbia Register there shall appear on its cover the actual date such issue was generally circulated to the public for review and comment: Provided, that should the District of Columbia Register be generally circulated after the cover date shown, a notice stating the correct date shall be attached thereto. All time computations based upon publication in the District of Columbia Register shall commence from the cover date, or, if corrected, the date of notice thereof. The provisions of this subsection shall apply to any and all supplemental editions to the District of Columbia Register."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 1083(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-153, see Historical and Statutory Notes following § 2-505.</text>
-        <text>For Law 16-169, see notes following § 2-552.</text>
-        <text>For Law 18-223, see notes following § 2-218.76.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-1533.</text>
+      <text>1973 Ed., § 1-1533.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-169 adds subsec. (i).</text>
+      <text>D.C. Law 18-223, in subsec. (g), deleted 'quarterly" following "shall publish"; and rewrote subsec. (h), which had read as follows: "(h) On each document published in the District of Columbia Register there shall appear the date upon which such document was filed with the Administrator pursuant to § 2-554. On each issue of the District of Columbia Register there shall appear on its cover the actual date such issue was generally circulated to the public for review and comment: Provided, that should the District of Columbia Register be generally circulated after the cover date shown, a notice stating the correct date shall be attached thereto. All time computations based upon publication in the District of Columbia Register shall commence from the cover date, or, if corrected, the date of notice thereof. The provisions of this subsection shall apply to any and all supplemental editions to the District of Columbia Register."</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 1083(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-153</heading>
+      <text>For legislative history of D.C. Law 2-153, see Historical and Statutory Notes following § 2-505.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-169</heading>
+      <text>For Law 16-169, see notes following § 2-552.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 2-218.76.</text>
     </level>
   </level>
 </level>

@@ -17,18 +17,14 @@
     <num>(d)</num>
     <text>A provider that has a governing body shall include at least one resident as a full and regular member of the governing body who shall be selected by vote of the residents of the facility.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 5, 2005, D.C. Law 15-270, § 110, 52 DCR 799.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-270, see notes following § 44-151.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-270</heading>
+      <text>For Law 15-270, see notes following § 44-151.01.</text>
     </level>
   </level>
 </level>

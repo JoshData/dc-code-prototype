@@ -26,11 +26,15 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Address of the employer; and</text>
+      <text>Address of the employer;</text>
     </level>
     <level>
       <num>(6)</num>
-      <text>Employer identification number issued to the employer under section 6109 of the Internal Revenue Code of 1986, approved October 22, 1986 (75 Stat. 828; 26 U.S.C. § 6109).</text>
+      <text>Employer identification number issued to the employer under section 6109 of the Internal Revenue Code of 1986, approved October 22, 1986 (75 Stat. 828; 26 U.S.C. § 6109); and</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>Date of hire of the employee, defined as the first day that the employee performed services for compensation.</text>
     </level>
   </level>
   <level>
@@ -50,11 +54,11 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>Date of birth of the employee;</text>
+      <text>Date of birth of the employee; and</text>
     </level>
     <level>
       <num>(5)</num>
-      <text>Date of hire of the employee, defined as the first day that the employee performed services for compensation; and</text>
+      <text>Repealed;</text>
     </level>
     <level>
       <num>(6)</num>
@@ -66,7 +70,7 @@
     <text>Each report required by subsection (b) of this section shall be:</text>
     <level>
       <num>(1)</num>
-      <text>Made on a Internal Revenue Service W-4 form, or, at the option of the employer, an equivalent form;</text>
+      <text>Made on an Internal Revenue Service W-4 form, or, at the option of the employer, an equivalent form;</text>
     </level>
     <level>
       <num>(2)</num>
@@ -114,7 +118,7 @@
     <text>For purposes of this section, the term:</text>
     <level>
       <num>(1)</num>
-      <text>"Employee" means a person who is an employee within the meaning of chapter 24 of the Internal Revenue Code of 1986, approved August 16, 1954 (68A Stat. 455; 26 U.S.C. § 3401 <text i="True">et. seq</text>), but does not include an employee of a federal or state agency performing intelligence or counterintelligence functions if the head of the agency has determined that reporting pursuant to this section could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission.</text>
+      <text>"Employee" means a person who is an employee within the meaning of chapter 24 of the Internal Revenue Code of 1986, approved August 16, 1954 (68A Stat. 455; 26 U.S.C. § 3401 et seq.), but does not include an employee of a federal or state agency performing intelligence or counterintelligence functions if the head of the agency has determined that reporting pursuant to this section could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -145,59 +149,72 @@
       <text>Verify eligibility for public assistance programs.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Feb. 24, 1987, D.C. Law 6-166, § 27f, as added Apr. 3, 2001, D.C. Law 13-269, § 108(z), 48 DCR 1270; Dec. 7, 2004, D.C. Law 15-205, § 3403(r), 51 DCR 8441; Apr. 13, 2005, D.C. Law 15-354, § 71, 52 DCR 2638; May 12, 2006, D.C. Law 16-100, § 3(cc), 53 DCR 1886; Mar. 3, 2007, D.C. Law 16-191, § 48(g), 54 DCR 6794.)</text>
+      <heading>History</heading>
+      <text>(Feb. 24, 1987, D.C. Law 6-166, § 27f, as added Apr. 3, 2001, D.C. Law 13-269, § 108(z), 48 DCR 1270; Dec. 7, 2004, D.C. Law 15-205, § 3403(r), 51 DCR 8441; Apr. 13, 2005, D.C. Law 15-354, § 71, 52 DCR 2638; May 12, 2006, D.C. Law 16-100, § 3(cc), 53 DCR 1886; Mar. 3, 2007, D.C. Law 16-191,§ 48(g), 54 DCR 6794; Mar. 19, 2013, D.C. Law 19-225, § 2, 59 DCR 13551.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-205, in subsec. (f), substituted "Court" for "IV-D agency".</text>
-        <text>D.C. Law 15-354 substituted "Attorney General for the District of Columbia" for "Corporation Counsel".</text>
-        <text>D.C. Law 16-100, in subsecs. (i) and (k), deleted "Superior" preceding "Court"; and rewrote subsec. (f), which had read as follows:</text>
-        <text>"(f) Within 2 business days after the date a report under subsection (b) of this section is entered into the District of Columbia Directory of New Hires, the Court shall transmit a notice to the employer of the employee directing the employer to withhold from the income of the employee an amount equal to the monthly (or other periodic) support obligation (including any past due support obligation of the employee) unless the employee's income is not subject to withholding."</text>
-        <text>D.C. Law 16-191, in subsec. (f), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 3(dd) of D.C. Law 16-42, in subsec. (i), added "of the District of Columbia" after "Superior Court"; and rewrote subsec. (f) to read as follows:</text>
-        <text>"(f) Within 2 business days after the date a report under subsection (b) of this section is entered into the District of Columbia Directory of New Hires, the IV-D agency shall transmit an order to withhold to the employer in accordance with this act, unless the employee's income is not subject to withholding."</text>
-        <text>Section 5(b) of D.C. Law 16-42 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition of section, see § 7(y) of Child Support and Welfare Reform Compliance Temporary Amendment Act of 1998 (D.C. Law 12-210, April 13, 1999, law notification 46 DCR 3832).</text>
-        <text>For temporary (225 day) addition of section, see § 107(z) of Child Support and Welfare Reform Compliance Temporary Amendment Act of 1999 (D.C. Law 13-57, March 7, 2000, law notification 47 DCR 1979).</text>
-        <text>For temporary (225 day) addition of section, see § 107(z) of Child Support and Welfare Reform Compliance Temporary Amendment Act of 2000 (D.C. Law 13-207, March 31, 2001, law notification 48 DCR 3238).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary addition of section, see § 7(o) of the Child Support and Welfare Reform Compliance Emergency Amendment Act of 1997 (D.C. Act 12-222, December 23, 1997, 44 DCR 114).</text>
-        <text>For temporary addition of section, see § 7(y) of the Child Support and Welfare Reform Compliance Second Emergency Amendment Act of 1998 (D.C. Act 12-309, March 20, 1998, 45 DCR 1923), § 7(y) of the Child Support and Welfare Reform Compliance Second Emergency Amendment Act of 1998 (D.C. Act 12-439, August 12, 1998, 45 DCR 6110), § 7(y) of the Child Support and Welfare Reform Compliance Legislative Review Emergency Amendment Act of 1998 (D.C. Act 12-503, October 27, 1998, 45 DCR 8495), and § 7(y) of the Child Support and Welfare Reform Compliance Second Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-600, January 20, 1999, 46 DCR 1239).</text>
-        <text>For temporary (90-day) addition of section, see § 107(z) of the Child Support and Welfare Reform Compliance Emergency Amendment Act of 1999 (D.C. Act 13-126, August 4, 1999, 46 DCR 6606).</text>
-        <text>For temporary (90-day) addition of section, see § 107(z) of the Child Support and Welfare Reform Compliance Emergency Amendment Act of 1999 (D.C. Act 13-126, August 4, 1999, 46 DCR 6606).</text>
-        <text>For temporary (90-day) addition of section, see § 107(z) of the Child Support and Welfare Reform Compliance Legislative Review Emergency mendment Act of 1999 (D.C. Act 13-177, November 2, 1999, 46 DCR 9678).</text>
-        <text>For temporary (90-day) addition of sectiom, see § 107(z) of the Child Support and Welfare Reform Compliance Legislative Review Emergency Amendment Act of 1999 (D.C. Act 13-177, November 2, 1999, 46 DCR 9678).</text>
-        <text>For temporary (90-day) addition of section, see § 107(z) of the Child Support and Welfare Reform Compliance Congressional Review Emergency Amendment Act of 1999 (D.C. Act 13-241, January 11, 2000, 47 DCR 581).</text>
-        <text>For temporary (90-day) addition of section, see § 107(z) of the Child Support and Welfare Reform Compliance Congressional Review Emergency Amendment Act of 1999 (D.C. Act 13-241, January 11, 2000, 47 DCR 581).</text>
-        <text>For temporary (90 day) addition of this section, see § 107(z) of the Child Support and Welfare Reform Compliance Emergency Act of 2000 (D.C. Act 13-446, November 7, 2000, 47 DCR 9213).</text>
-        <text>For temporary (90 day) addition of section, see § 108(z) of Child Support and Welfare Reform Compliance Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-5, February 13, 2001, 48 DCR 2440).</text>
-        <text>For temporary (90 day) amendment of section, see § 3403(r) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004, 51 DCR 8236).</text>
-        <text>For temporary (90 day) amendment of section, see § 3403(r) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004, 51 DCR 11725).</text>
-        <text>For temporary (90 day) amendment of section, see § 3(dd) of Income Withholding Transfer and Revision Emergency Amendment Act of 2005 (D.C. Act 16-167, July 26, 2005, 52 DCR 7648).</text>
-        <text>For temporary (90 day) amendment of section, see § 3(dd) of Income Withholding Transfer and Revision Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-200, November 17, 2005, 52 DCR 10490).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-269, see notes following § 46-201.</text>
-        <text>For Law 15-205, see notes following § 46-202.01.</text>
-        <text>For Law 15-354, see notes following § 46-226.03.</text>
-        <text>For Law 16-100, see notes following § 46-201.</text>
-        <text>For Law 16-191, see notes following § 46-202.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 46-207.01, § 46-216, and § 46-251.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-205, in subsec. (f), substituted "Court" for "IV-D agency".</text>
+      <text>D.C. Law 15-354 substituted "Attorney General for the District of Columbia" for "Corporation Counsel".</text>
+      <text>D.C. Law 16-100, in subsecs. (i) and (k), deleted "Superior" preceding "Court"; and rewrote subsec. (f), which had read as follows: "(f) Within 2 business days after the date a report under subsection (b) of this section is entered into the District of Columbia Directory of New Hires, the Court shall transmit a notice to the employer of the employee directing the employer to withhold from the income of the employee an amount equal to the monthly (or other periodic) support obligation (including any past due support obligation of the employee) unless the employee's income is not subject to withholding."</text>
+      <text>D.C. Law 16-191, in subsec. (f), validated a previously made technical correction.</text>
+      <text>The 2013 amendment by D.C. Law 19-225 added (b)(7); repealed (c)(5), which read: "Date of hire of the employee, defined as the first day that the employee performed services for compensation; and"; and made related changes.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 3(dd) of D.C. Law 16-42, in subsec. (i), added "of the District of Columbia" after "Superior Court"; and rewrote subsec. (f) to read as follows:</text>
+      <text>"(f) Within 2 business days after the date a report under subsection (b) of this section is entered into the District of Columbia Directory of New Hires, the IV-D agency shall transmit an order to withhold to the employer in accordance with this act, unless the employee's income is not subject to withholding."</text>
+      <text>Section 5(b) of D.C. Law 16-42 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition of section, see § 7(y) of Child Support and Welfare Reform Compliance Temporary Amendment Act of 1998 (D.C. Law 12-210, April 13, 1999, law notification 46 DCR 3832).</text>
+      <text>For temporary (225 day) addition of section, see § 107(z) of Child Support and Welfare Reform Compliance Temporary Amendment Act of 1999 (D.C. Law 13-57, March 7, 2000, law notification 47 DCR 1979).</text>
+      <text>For temporary (225 day) addition of section, see § 107(z) of Child Support and Welfare Reform Compliance Temporary Amendment Act of 2000 (D.C. Law 13-207, March 31, 2001, law notification 48 DCR 3238).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary addition of section, see § 7(o) of the Child Support and Welfare Reform Compliance Emergency Amendment Act of 1997 (D.C. Act 12-222, December 23, 1997, 44 DCR 114).</text>
+      <text>For temporary addition of section, see § 7(y) of the Child Support and Welfare Reform Compliance Second Emergency Amendment Act of 1998 (D.C. Act 12-309, March 20, 1998, 45 DCR 1923), § 7(y) of the Child Support and Welfare Reform Compliance Second Emergency Amendment Act of 1998 (D.C. Act 12-439, August 12, 1998, 45 DCR 6110), § 7(y) of the Child Support and Welfare Reform Compliance Legislative Review Emergency Amendment Act of 1998 (D.C. Act 12-503, October 27, 1998, 45 DCR 8495), and § 7(y) of the Child Support and Welfare Reform Compliance Second Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-600, January 20, 1999, 46 DCR 1239).</text>
+      <text>For temporary (90-day) addition of section, see § 107(z) of the Child Support and Welfare Reform Compliance Emergency Amendment Act of 1999 (D.C. Act 13-126, August 4, 1999, 46 DCR 6606).</text>
+      <text>For temporary (90-day) addition of section, see § 107(z) of the Child Support and Welfare Reform Compliance Legislative Review Emergency Amendment Act of 1999 (D.C. Act 13-177, November 2, 1999, 46 DCR 9678).</text>
+      <text>For temporary (90-day) addition of section, see § 107(z) of the Child Support and Welfare Reform Compliance Congressional Review Emergency Amendment Act of 1999 (D.C. Act 13-241, January 11, 2000, 47 DCR 581).</text>
+      <text>For temporary (90 day) addition of section, see § 107(z) of the Child Support and Welfare Reform Compliance Emergency Amendment Act of 2000 (D.C. Act 13-446, November 7, 2000, 47 DCR 9213).</text>
+      <text>For temporary (90 day) addition of section, see § 108(z) of Child Support and Welfare Reform Compliance Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-5, February 13, 2001, 48 DCR 2440).</text>
+      <text>For temporary (90 day) amendment of section, see § 3403(r) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004, 51 DCR 8236).</text>
+      <text>For temporary (90 day) amendment of section, see § 3403(r) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004, 51 DCR 11725).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(dd) of Income Withholding Transfer and Revision Emergency Amendment Act of 2005 (D.C. Act 16-167, July 26, 2005, 52 DCR 7648).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(dd) of Income Withholding Transfer and Revision Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-200, November 17, 2005, 52 DCR 10490).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-269</heading>
+      <text>For D.C. Law 13-269, see notes following § 46-201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-205</heading>
+      <text>For Law 15-205, see notes following § 46-202.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 46-226.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-100</heading>
+      <text>For Law 16-100, see notes following § 46-201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 46-202.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-225</heading>
+      <text>Law 19-225, the "Hire Date Reporting Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-739. The Bill was adopted on first and second readings on Oct. 16, 2012, and Nov. 1, 2012, respectively. Signed by the Mayor on Nov. 15, 2012, it was assigned Act No. 19-536 and transmitted to Congress for its review. D.C. Law 19-225 became effective on Mar. 19, 2013.</text>
     </level>
   </level>
 </level>

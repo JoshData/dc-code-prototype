@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-505</num>
   <heading>Employment and benefits protection.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-1305</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any employee who takes family or medical leave under this chapter shall not lose any employment benefit or seniority accrued before the date on which the family or medical leave commenced.</text>
@@ -83,22 +82,22 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 3, 1990, D.C. Law 8-181, § 6, 37 DCR 5043.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-1305.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-181, see Historical and Statutory Notes following § 32-501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-504 and § 32-506.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-1305.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-181</heading>
+      <text>For legislative history of D.C. Law 8-181, see Historical and Statutory Notes following § 32-501.</text>
     </level>
   </level>
 </level>

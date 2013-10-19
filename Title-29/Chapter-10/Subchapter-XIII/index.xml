@@ -1,10 +1,11 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>XIII</num>
-  <heading>Action by Member.</heading>
+  <heading>Action by Member</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1013.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1013.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1013.03.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1013.04.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1013.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1013.06.xml"/>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>41-111</num>
   <heading>Property held by fiduciaries.</heading>
-  <formerly-cited-as>DC ST 1981 § 42-211</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>All intangible personal property and any income or increment thereon, held in a fiduciary capacity for the benefit of another person, is presumed abandoned unless the owner, within 3 years after it becomes payable or distributable, has increased or decreased the principal, accepted payment of principal or income, corresponded in writing concerning the property, or otherwise indicated an interest as evidenced by a memorandum on file with the fiduciary.</text>
@@ -14,39 +13,51 @@
     <num>(c)</num>
     <text>For the purposes of this chapter, if a person is deemed to hold property in a fiduciary capacity for a business association alone, that person is the holder of the property only insofar as the interest of the business association in the property is concerned and the business association is the holder of the property insofar as the interest of any other person in the property is concerned.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 5, 1981, D.C. Law 3-160, § 111, 27 DCR 5150; Sept. 29, 1992, D.C. Law 9-161, § 2(i), 39 DCR 5696; Mar. 20, 1998, D.C. Law 12-60, § 1701(g), 44 DCR 7378.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 42-211.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 1701(g) of D.C. Law 12-59 substituted "3 years" for "5 years" in (a).</text>
-        <text>Section 2001(b) of D.C. Law 12-59 provided that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of section, see § 1701(g) of the Fiscal Year 1998 Revised Budget Support Emergency Act of 1997 (D.C. Act 12-152, October 17, 1997, 44 DCR 6196), and see § 1701(g) of the Fiscal Year 1998 Revised Budget Support Congressional Review Emergency Act of 1997 (D.C. Act 12-239, January 13, 1998, 45 DCR 508).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-160, see Historical and Statutory Notes following § 41-101.</text>
-        <text>For legislative history of D.C. Law 9-64, see Historical and Statutory Notes following § 41-103.</text>
-        <text>For legislative history of D.C. Law 9-161, see Historical and Statutory Notes following § 41-103.</text>
-        <text>For legislative history of D.C. Law 12-59, see Historical and Statutory Notes following § 41-102.</text>
-        <text>For legislative history of D.C. Law 12-60, see Historical and Statutory Notes following § 41-102.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 12 of the Uniform Unclaimed Property Act (1981 Act). See 8B Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 41-130.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 42-211.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 1701(g) of D.C. Law 12-59 substituted "3 years" for "5 years" in (a).</text>
+      <text>Section 2001(b) of D.C. Law 12-59 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 1701(g) of the Fiscal Year 1998 Revised Budget Support Emergency Act of 1997 (D.C. Act 12-152, October 17, 1997, 44 DCR 6196), and see § 1701(g) of the Fiscal Year 1998 Revised Budget Support Congressional Review Emergency Act of 1997 (D.C. Act 12-239, January 13, 1998, 45 DCR 508).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-160</heading>
+      <text>For legislative history of D.C. Law 3-160, see Historical and Statutory Notes following § 41-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-64</heading>
+      <text>For legislative history of D.C. Law 9-64, see Historical and Statutory Notes following § 41-103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-161</heading>
+      <text>For legislative history of D.C. Law 9-161, see Historical and Statutory Notes following § 41-103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-59</heading>
+      <text>For legislative history of D.C. Law 12-59, see Historical and Statutory Notes following § 41-102.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-60</heading>
+      <text>For legislative history of D.C. Law 12-60, see Historical and Statutory Notes following § 41-102.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 12 of the Uniform Unclaimed Property Act (1981 Act).</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-403</num>
   <heading>Bonding requirements.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-1003</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Every applicant for a license to operate an employment agency, employment counseling service, or job listing service, prior to receiving a license, shall file with the Mayor a bond signed by the applicant as principal and by a surety company authorized to do business in the District as a surety.</text>
@@ -37,22 +36,18 @@
     <num>(f)</num>
     <text>The Mayor may accept an irrevocable letter of credit from a financial institution authorized to do business in the District, or evidence of cash deposited in an escrow account in a financial institution in the District in the name of the licensee and the District in lieu of the bond required by this section. The letter of credit or escrow account shall be in the amounts required by subsection (b) of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 13, 1985, D.C. Law 5-136, § 4, 31 DCR 5727.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-1003.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-136, see Historical and Statutory Notes following § 32-401.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-1003.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-136</heading>
+      <text>For legislative history of D.C. Law 5-136, see Historical and Statutory Notes following § 32-401.</text>
     </level>
   </level>
 </level>

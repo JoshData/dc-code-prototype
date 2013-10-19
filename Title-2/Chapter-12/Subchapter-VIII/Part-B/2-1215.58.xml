@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The Capitol Riverfront BID shall be comprised of the geographic area bounded by a line beginning at the intersection of an extension south of the center line of 2nd Street, S.W., and the northern bank of the Anacostia River; continuing north along extension of the center line of 2nd Street, S.W., to the center line of 2nd Street, S.W.; continuing north along the center line of 2nd Street, S.W., to the center line of Q Street, S. W.; continuing east along the center line of Q Street, S.W., to the center line of Half Street, S.W.; continuing north along the center line of Half Street, S.W., to the center line of P Street, S.W.; continuing east along the center line of P Street, S.W., to the center line of South Capitol Street; continuing north along the center line of South Capitol Street to the southern boundary of the Southeast-Southwest Freeway (I-395); continuing southeast along the southern boundary of the Southeast-Southwest Freeway (I-395) to the intersection of an extension south of the center line of 15th Street, S.E.; continuing south along the extension of the center line of 15th Street, S.E., to the northern bank of the Anacostia River; continuing southwest along the northern bank of the Anacostia River to the center line of 2nd Street, S.W.</text>
+    <text>The Capitol Riverfront BID shall be comprised of the geographic area bounded by a line beginning at the intersection of an extension south of the center line of 2nd Street, S.W., and the northern bank of the Anacostia River; continuing north along extension of the center line of 2nd Street, S.W., to the center line of 2nd Street, S.W.; continuing north along the center line of 2nd Street, S.W., to the center line of Q Street, S.W.; continuing east along the center line of Q Street, S.W., to the center line of Half Street, S.W.; continuing north along the center line of Half Street, S.W., to the center line of P Street, S.W.; continuing east along the center line of P Street, S.W., to the center line of South Capitol Street; continuing north along the center line of South Capitol Street to the southern boundary of the Southeast-Southwest Freeway (I-395); continuing southeast along the southern boundary of the Southeast-Southwest Freeway (I-395) to the intersection of an extension south of the center line of 15th Street, S.E.; continuing south along the extension of the center line of 15th Street, S.E., to the northern bank of the Anacostia River; continuing southwest along the northern bank of the Anacostia River to the center line of 2nd Street, S.W.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -49,39 +49,45 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>For the purposes of this subsection, the real property located in Square 770, Lot 802, designated as the DOT PILOT Area under the DOT Pilot Revision Emergency Approval Resolution of 2006, effective October 18, 2006 (Res. 16- 845; 53 DCR 8970), shall be deemed a nonexempt real property.</text>
+      <text>For the purposes of this subsection, the real property located in Square 770, Lot 802, designated as the DOT PILOT Area under the DOT Pilot Revision Emergency Approval Resolution of 2006, effective October 18, 2006 (Res. 16-845; 53 DCR 8970), shall be deemed a nonexempt real property.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 29, 1996, D.C. Law 11-134, § 208, as added Oct. 18, 2007, D.C. Law 17-27, § 2(c), 54 DCR 8020; Mar. 25, 2009, D.C. Law 17-353, §§ 179, 219, 56 DCR 1117; July 13, 2012, D.C. Law 19-161, § 2, 59 DCR 5704.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (c)(3).</text>
-        <text>D.C. Law 19-161 rewrote subsec. (c)(1), which formerly read:</text>
-        <text>"(c)(1) The BID taxes for the nonexempt real properties in the Capitol Riverfront BID shall be:</text>
-        <text>"(A) The amount of $0.09 per $100 of the assessed value of real property containing less than 50,000 square feet of gross building area;</text>
-        <text>"(B) The amount of $0.04 per $100 of the assessed value of land and buildings which have a certificate of occupancy or other District license indicating that the land or building has an existing active industrial, utility, or storage use;</text>
-        <text>" (C) The amount of $0.02 per $100 of assessed value of land and buildings located, in whole or in part, within the right-of-way for the realignment of the Frederick Douglass Memorial Bridge;</text>
-        <text>"(D) The amount of $0.12 per square foot of commercial buildings containing 50,000 square feet of gross building area or more; provided, that the BID tax imposed on any such real property shall not exceed $75,000 annually;</text>
-        <text>"(E) The amount of $72 per hotel room annually; and </text>
-        <text>"(F) The amount of $96 per unit annually for nonexempt residential properties; provided, that if a residential unit is restricted to residents based upon income pursuant to a federal or District affordable housing program, the BID tax due on the unit shall be computed by applying the percentage of area median income that an eligible household must meet to participate in the affordable housing program for the unit to the amount of the BID tax which would otherwise be due."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 2(c) of Capitol Riverfront Business Improvement District Emergency Amendment Act of 2007 (D.C. Act 17-78, July 27, 2007, 54 DCR 7631).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-27, see notes following § 2-1215.02.</text>
-        <text>For Law 17-353, see notes following § 2-218.42.</text>
-        <text>Law 19-161, the "Capitol Riverfront BID Amendment Act of 2012", was introduced in Council and assigned Bill No. 19-707, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on April 17, 2012, and May 1, 2012, respectively. Signed by the Mayor on May 15, 2012, it was assigned Act No. 19-369 and transmitted to both Houses of Congress for its review. D.C. Law 19-161 became effective on July 13, 2012.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-857.11.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (c)(3).</text>
+      <text>D.C. Law 19-161 rewrote subsec. (c)(1), which formerly read:</text>
+      <text>"(c)(1) The BID taxes for the nonexempt real properties in the Capitol Riverfront BID shall be:</text>
+      <text>"(A) The amount of $0.09 per $100 of the assessed value of real property containing less than 50,000 square feet of gross building area;</text>
+      <text>"(B) The amount of $0.04 per $100 of the assessed value of land and buildings which have a certificate of occupancy or other District license indicating that the land or building has an existing active industrial, utility, or storage use;</text>
+      <text>"(C) The amount of $0.02 per $100 of assessed value of land and buildings located, in whole or in part, within the right-of-way for the realignment of the Frederick Douglass Memorial Bridge;</text>
+      <text>"(D) The amount of $0.12 per square foot of commercial buildings containing 50,000 square feet of gross building area or more; provided, that the BID tax imposed on any such real property shall not exceed $75,000 annually;</text>
+      <text>"(E) The amount of $72 per hotel room annually; and</text>
+      <text>"(F) The amount of $96 per unit annually for nonexempt residential properties; provided, that if a residential unit is restricted to residents based upon income pursuant to a federal or District affordable housing program, the BID tax due on the unit shall be computed by applying the percentage of area median income that an eligible household must meet to participate in the affordable housing program for the unit to the amount of the BID tax which would otherwise be due."</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 2(c) of Capitol Riverfront Business Improvement District Emergency Amendment Act of 2007 (D.C. Act 17-78, July 27, 2007, 54 DCR 7631).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-27</heading>
+      <text>For Law 17-27, see notes following § 2-1215.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 2-218.42.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-161</heading>
+      <text>Law 19-161, the "Capitol Riverfront BID Amendment Act of 2012", was introduced in Council and assigned Bill No. 19-707, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on April 17, 2012, and May 1, 2012, respectively. Signed by the Mayor on May 15, 2012, it was assigned Act No. 19-369 and transmitted to both Houses of Congress for its review. D.C. Law 19-161 became effective on July 13, 2012.</text>
     </level>
   </level>
 </level>

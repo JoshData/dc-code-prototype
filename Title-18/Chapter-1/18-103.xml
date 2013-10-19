@@ -1,31 +1,28 @@
 <level type="section">
   <num>18-103</num>
   <heading>Execution of written will; attestation.</heading>
-  <formerly-cited-as>DC ST 1981 § 18-103</formerly-cited-as>
   <text>A will or testament, other than a will executed in the manner provided by section 18-107, is void unless it is:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>in writing and signed by the testator, or by another person in his presence and by his express direction; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>attested and subscribed in the presence of the testator, by at least two credible witnesses.</text>
-    </level>
+    <num>(1)</num>
+    <text>in writing and signed by the testator, or by another person in his presence and by his express direction; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>attested and subscribed in the presence of the testator, by at least two credible witnesses.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 1965, 79 Stat. 686, Pub. L. 89-183, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 18-103.</text>
-        <text>1973 Ed., § 18-103.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-1001.06a, § 18-105, and § 18-109.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 18-103.</text>
+      <text>1973 Ed., § 18-103.</text>
     </level>
   </level>
 </level>

@@ -1,21 +1,16 @@
 <level type="section">
   <num>42-406</num>
   <heading>First recorded deed preferred.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-802</formerly-cited-as>
   <text>When 2 or more deeds of the same property are made to bona fide purchasers for value without notice, the deed or deeds which are first recorded according to law shall be preferred.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1901, 31 Stat. 1268, ch. 854, § 500.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-802.</text>
-        <text>1973 Ed., § 45-502.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-802.</text>
+      <text>1973 Ed., § 45-502.</text>
     </level>
   </level>
 </level>

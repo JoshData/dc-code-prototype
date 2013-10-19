@@ -13,23 +13,26 @@
     <num>(c)</num>
     <text>A custodial trustee of custodial trust property held for more than one beneficiary shall separately account to each beneficiary pursuant to sections 19-1108 and 19-1115 for the administration of the custodial trust.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 23, 2002, D.C. Law 14-177, § 2(b), 49 DCR 5092; Sept. 12, 2008, D.C. Law 17-231, § 21(b), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-231, in subsec. (a), substituted "spouses or domestic partners" for "husband and wife".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-177, see notes following § 19-1101.</text>
-        <text>For Law 17-231, see notes following § 19-1101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 19-1117.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-231, in subsec. (a), substituted "spouses or domestic partners" for "husband and wife".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-177</heading>
+      <text>For Law 14-177, see notes following § 19-1101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 19-1101.</text>
     </level>
   </level>
 </level>

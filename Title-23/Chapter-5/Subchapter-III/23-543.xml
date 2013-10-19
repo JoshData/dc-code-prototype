@@ -1,17 +1,16 @@
 <level type="section">
   <num>23-543</num>
   <heading>Possession, sale, distribution, manufacture, assembly, and advertising of wire or oral communication intercepting devices prohibited.</heading>
-  <formerly-cited-as>DC ST 1981 § 23-543</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>Except as otherwise specifically provided in subsection (b) of this section, any person who in the District of Columbia --</text>
+    <text>Except as otherwise specifically provided in subsection (b) of this section, any person who in the District of Columbia -</text>
     <level>
       <num>(1)</num>
       <text>willfully possesses, sells, distributes, manufactures, or assembles an intercepting device, the design of which renders it primarily useful for the purpose of the surreptitious interception of a wire or oral communication; or</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>willfully places in any newspaper, magazine, handbill, or other publication any advertisement of --</text>
+      <text>willfully places in any newspaper, magazine, handbill, or other publication any advertisement of -</text>
       <level>
         <num>(A)</num>
         <text>any intercepting device, the design of which renders it primarily useful for the purpose of the surreptitious interception of a wire or oral communication; or</text>
@@ -22,10 +21,10 @@
       </level>
     </level>
   </level>
-  <text>shall be fined not more than $10,000 or imprisoned not more than five years, or both.</text>
+  <text>shall be fined not more than the amount set forth in [§ 22-3571.01] or imprisoned not more than five years, or both.</text>
   <level>
     <num>(b)</num>
-    <text>It shall not be unlawful under this section for --</text>
+    <text>It shall not be unlawful under this section for -</text>
     <level>
       <num>(1)</num>
       <text>a communication common carrier or an officer, agent, or employee of, or a person under contract with a communication common carrier, in the usual course of the communication common carrier's business; or</text>
@@ -36,19 +35,31 @@
     </level>
   </level>
   <text>to possess, sell, distribute, manufacture or assemble, or advertise any intercepting device, while acting in furtherance of the appropriate activities of the United States, a State or political subdivision thereof, the District of Columbia, or a communication common carrier.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 29, 1970, 84 Stat. 618, Pub. L. 91-358, title II, § 210(a).)</text>
+      <heading>History</heading>
+      <text>(July 29, 1970, 84 Stat. 618, Pub. L. 91-358, title II, § 210(a); June 11, 2013, D.C. Law 19-317, § 283(b), 60 DCR 2064.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 23-543.</text>
-        <text>1973 Ed., § 23-543.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 23-544 and § 23-556.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 23-543.</text>
+      <text>1973 Ed., § 23-543.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-317 substituted "not more than the amount set forth in [§ 22-3571.01]" for "not more than $10,000" in (a).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-317</heading>
+      <text>See note to § 23-542.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
     </level>
   </level>
 </level>

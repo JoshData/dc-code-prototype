@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-1202.07</num>
   <heading>Board of Optometry.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-3302.7</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There is established a Board of Optometry to consist of 5 members appointed by the Mayor.</text>
@@ -50,24 +49,30 @@
       <text>Passed an examination administered or approved by the Board on the use of therapeutic pharmaceutical agents.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1986, D.C. Law 6-99, § 207, 33 DCR 729; Mar. 23, 1995, D.C. Law 10-247, § 2(f), 42 DCR 457; July 24, 1998, D.C. Law 12-139, § 2(b), 45 DCR 2975.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-3302.7.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
-        <text>For legislative history of D.C. Law 10-247, see Historical and Statutory Notes following § 3-1201.01.</text>
-        <text>Law 12-139, the "Definition of Optometry Amendment Act of 1998," was introduced in Council and assigned Bill No. 12-152, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on March 17, 1998, and April 7, 1998, respectively. Signed by the Mayor on April 22, 1998, it was assigned Act No. 12-341 and transmitted to both Houses of Congress for its review. D.C. Law 12-139 became effective on July 24, 1998.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-523.01 and § 3-1201.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-3302.7.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-99</heading>
+      <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-247</heading>
+      <text>For legislative history of D.C. Law 10-247, see Historical and Statutory Notes following § 3-1201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-139</heading>
+      <text>Law 12-139, the "Definition of Optometry Amendment Act of 1998," was introduced in Council and assigned Bill No. 12-152, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on March 17, 1998, and April 7, 1998, respectively. Signed by the Mayor on April 22, 1998, it was assigned Act No. 12-341 and transmitted to both Houses of Congress for its review. D.C. Law 12-139 became effective on July 24, 1998.</text>
     </level>
   </level>
 </level>

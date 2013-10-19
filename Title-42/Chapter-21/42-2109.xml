@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-2109</num>
   <heading>Proposals to develop a Technical Training Program.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2709</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor shall issue a RFP inviting organizations to submit proposals for the development and implementation of a Technical Training Program consistent with this chapter and rules promulgated pursuant to this chapter.</text>
@@ -26,28 +25,34 @@
       <text>Providing individuals with such other skills and information as may be required by rule.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Aug. 9, 1986, D.C. Law 6-135, § 10, 33 DCR 3771; Feb. 24, 1987, D.C. Law 6-192, § 5(g), 33 DCR 7836; Apr. 19, 2002, D.C. Law 14-114, § 801(i), 49 DCR 1468.</text>
+      <heading>History</heading>
+      <text>(Aug. 9, 1986, D.C. Law 6-135, § 10, 33 DCR 3771; Feb. 24, 1987, D.C. Law 6-192, § 5(g), 33 DCR 7836; Apr. 19, 2002, D.C. Law 14-114, § 801(i), 49 DCR 1468.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2709.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-114, in subsec. (a), substituted "Mayor" for "Administrator"; and, in subsec. (b)(1), deleted "of cooperative and other forms" before "of homeownership".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-135, see Historical and Statutory Notes following § 42-2101.</text>
-        <text>For legislative history of D.C. Law 6-192, see Historical and Statutory Notes following § 42-2103.</text>
-        <text>For Law 14-114, see notes following § 42-2102.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-2104 and § 42-2108.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2709.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-114, in subsec. (a), substituted "Mayor" for "Administrator"; and, in subsec. (b)(1), deleted "of cooperative and other forms" before "of homeownership".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-135</heading>
+      <text>For legislative history of D.C. Law 6-135, see Historical and Statutory Notes following § 42-2101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-192</heading>
+      <text>For legislative history of D.C. Law 6-192, see Historical and Statutory Notes following § 42-2103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-114</heading>
+      <text>For Law 14-114, see notes following § 42-2102.</text>
     </level>
   </level>
 </level>

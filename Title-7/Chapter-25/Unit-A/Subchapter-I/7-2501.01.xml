@@ -1,408 +1,378 @@
 <level type="section">
   <num>7-2501.01</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-2302</formerly-cited-as>
   <text>As used in this unit the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Acts of Congress" means:</text>
     <level>
-      <num>(1)</num>
-      <text>"Acts of Congress" means:</text>
-      <level>
-        <num>(A)</num>
-        <text>Chapter 45 of Title 22;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Omnibus Crime Control and Safe Streets Act of 1968, as amended (title VII, Unlawful Possession or Receipt of Firearms (82 Stat. 1236; 18 U.S.C. Appendix)); and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>An Act to Amend Title 18, United States Code, To Provide for Better Control of the Interstate Traffic in Firearms Act of 1968 (82 Stat. 1213; 18 U.S.C. § 921 et seq.).</text>
-      </level>
+      <num>(A)</num>
+      <text>Chapter 45 of Title 22;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Ammunition" means cartridge cases, shells, projectiles (including shot), primers, bullets (including restricted pistol bullets), propellant powder, or other devices or materials designed, redesigned, or intended for use in a firearm or destructive device.</text>
+      <num>(B)</num>
+      <text>Omnibus Crime Control and Safe Streets Act of 1968, as amended (title VII, Unlawful Possession or Receipt of Firearms (82 Stat. 1236; 18 U.S.C. Appendix)); and</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>"Antique firearm" means:</text>
-      <level>
-        <num>(A)</num>
-        <text>Any firearm (including any firearm with a matchlock, flintlock, percussion cap, or similar type of ignition system) manufactured in or before 1898; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Any replica of any firearm described in subparagraph (A) if such replica:</text>
-        <level>
-          <num>(i)</num>
-          <text>Is not designed or redesigned for using rim-fire or conventional center-fire fixed ammunition; or</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Uses rim-fire or conventional ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade.</text>
-        </level>
-      </level>
+      <num>(C)</num>
+      <text>An Act to Amend Title 18, United States Code, To Provide for Better Control of the Interstate Traffic in Firearms Act of 1968 (82 Stat. 1213; 18 U.S.C. § 921 et seq.).</text>
+    </level>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Ammunition" means cartridge cases, shells, projectiles (including shot), primers, bullets (including restricted pistol bullets), propellant powder, or other devices or materials designed, redesigned, or intended for use in a firearm or destructive device.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Antique firearm" means:</text>
+    <level>
+      <num>(A)</num>
+      <text>Any firearm (including any firearm with a matchlock, flintlock, percussion cap, or similar type of ignition system) manufactured in or before 1898; and</text>
     </level>
     <level>
-      <num>(3A)</num>
+      <num>(B)</num>
+      <text>Any replica of any firearm described in subparagraph (A) if such replica:</text>
       <level>
-        <num>(A)</num>
-        <text>"Assault weapon" means:</text>
-        <level>
-          <num>(i)</num>
-          <text>The following semiautomatic firearms:</text>
-          <level>
-            <num>(I)</num>
-            <text>All of the following specified rifles:</text>
-            <level>
-              <num>(aa)</num>
-              <text>All AK series including, but not limited to, the models identified as follows:</text>
-              <level>
-                <num>(1)</num>
-                <text>Made in China AK, AKM, AKS, AK47, AK47S, 56, 56S, 84S, and 86S;</text>
-              </level>
-              <level>
-                <num>(2)</num>
-                <text>Norinco (all models);</text>
-              </level>
-              <level>
-                <num>(3)</num>
-                <text>Poly Technologies (all models);</text>
-              </level>
-              <level>
-                <num>(4)</num>
-                <text>MAADI AK47 and ARM; and</text>
-              </level>
-              <level>
-                <num>(5)</num>
-                <text>Mitchell (all models).</text>
-              </level>
-            </level>
-            <level>
-              <num>(bb)</num>
-              <text>UZI and Galil;</text>
-            </level>
-            <level>
-              <num>(cc)</num>
-              <text>Beretta AR-70;</text>
-            </level>
-            <level>
-              <num>(dd)</num>
-              <text>CETME Sporter;</text>
-            </level>
-            <level>
-              <num>(ee)</num>
-              <text>Colt AR-15 series;</text>
-            </level>
-            <level>
-              <num>(ff)</num>
-              <text>Daewoo K-1, K-2, Max 1, Max 2, AR 100, and AR110 C;</text>
-            </level>
-            <level>
-              <num>(gg)</num>
-              <text>Fabrique Nationale FAL, LAR, FNC, 308 Match, and Sporter;</text>
-            </level>
-            <level>
-              <num>(hh)</num>
-              <text>MAS 223.</text>
-            </level>
-            <level>
-              <num>(ii)</num>
-              <text>HK-91, HK-93, HK-94, and HK-PSG-1;</text>
-            </level>
-            <level>
-              <num>(jj)</num>
-              <text>The following MAC types:</text>
-              <level>
-                <num>(1)</num>
-                <text>RPB Industries Inc. sM10 and sM11; and</text>
-              </level>
-              <level>
-                <num>(2)</num>
-                <text>SWD Incorporated M11;</text>
-              </level>
-            </level>
-            <level>
-              <num>(kk)</num>
-              <text>SKS with detachable magazine;</text>
-            </level>
-            <level>
-              <num>(ll)</num>
-              <text>SIG AMT, PE-57, SG 550, and SG 551;</text>
-            </level>
-            <level>
-              <num>(mm)</num>
-              <text>Springfield Armory BM59 and SAR-48;</text>
-            </level>
-            <level>
-              <num>(nn)</num>
-              <text>Sterling MK-6;</text>
-            </level>
-            <level>
-              <num>(oo)</num>
-              <text>Steyer AUG, Steyr AUG;</text>
-            </level>
-            <level>
-              <num>(pp)</num>
-              <text>Valmet M62S, M71S, and M78S;</text>
-            </level>
-            <level>
-              <num>(qq)</num>
-              <text>Armalite AR-180;</text>
-            </level>
-            <level>
-              <num>(rr)</num>
-              <text>Bushmaster Assault Rifle;</text>
-            </level>
-            <level>
-              <num>(ss)</num>
-              <text>Calico --900;</text>
-            </level>
-            <level>
-              <num>(tt)</num>
-              <text>J&amp;R ENG --68; and</text>
-            </level>
-            <level>
-              <num>(uu)</num>
-              <text>Weaver Arms Nighthawk.</text>
-            </level>
-          </level>
-          <level>
-            <num>(II)</num>
-            <text>All of the following specified pistols:</text>
-            <level>
-              <num>(aa)</num>
-              <text>UZI;</text>
-            </level>
-            <level>
-              <num>(bb)</num>
-              <text>Encom MP-9 and MP-45;</text>
-            </level>
-            <level>
-              <num>(cc)</num>
-              <text>The following MAC types:</text>
-              <level>
-                <num>(1)</num>
-                <text>RPB Industries Inc. sM10 and sM11;</text>
-              </level>
-              <level>
-                <num>(2)</num>
-                <text>SWD Incorporated -11;</text>
-              </level>
-              <level>
-                <num>(3)</num>
-                <text>Advance Armament Inc. --11; and</text>
-              </level>
-              <level>
-                <num>(4)</num>
-                <text>Military Armament Corp. Ingram M-11;</text>
-              </level>
-            </level>
-            <level>
-              <num>(dd)</num>
-              <text>Intratec TEC-9 and TEC-DC9;</text>
-            </level>
-            <level>
-              <num>(ee)</num>
-              <text>Sites Spectre;</text>
-            </level>
-            <level>
-              <num>(ff)</num>
-              <text>Sterling MK-7;</text>
-            </level>
-            <level>
-              <num>(gg)</num>
-              <text>Calico M-950; and</text>
-            </level>
-            <level>
-              <num>(hh)</num>
-              <text>Bushmaster Pistol.</text>
-            </level>
-          </level>
-          <level>
-            <num>(III)</num>
-            <text>All of the following specified shotguns:</text>
-            <level>
-              <num>(aa)</num>
-              <text>Franchi SPAS 12 and LAW 12; and</text>
-            </level>
-            <level>
-              <num>(bb)</num>
-              <text>Striker 12. The Streetsweeper type S/S Inc. SS/12;</text>
-            </level>
-          </level>
-          <level>
-            <num>(IV)</num>
-            <text>A semiautomatic, rifle that has the capacity to accept a detachable magazine and any one of the following:</text>
-            <level>
-              <num>(aa)</num>
-              <text>A pistol grip that protrudes conspicuously beneath the action of the weapon;</text>
-            </level>
-            <level>
-              <num>(bb)</num>
-              <text>A thumbhole stock;</text>
-            </level>
-            <level>
-              <num>(cc)</num>
-              <text>A folding or telescoping stock;</text>
-            </level>
-            <level>
-              <num>(dd)</num>
-              <text>A grenade launcher or flare launcher;</text>
-            </level>
-            <level>
-              <num>(ee)</num>
-              <text>A flash suppressor; or</text>
-            </level>
-            <level>
-              <num>(ff)</num>
-              <text>A forward pistol grip;</text>
-            </level>
-          </level>
-          <level>
-            <num>(V)</num>
-            <text>A semiautomatic pistol that has the capacity to accept a detachable magazine and any one of the following:</text>
-            <level>
-              <num>(aa)</num>
-              <text>A threaded barrel, capable of accepting a flash suppressor, forward handgrip, or silencer;</text>
-            </level>
-            <level>
-              <num>(bb)</num>
-              <text>A second handgrip;</text>
-            </level>
-            <level>
-              <num>(cc)</num>
-              <text>A shroud that is attached to, or partially or completely encircles, the barrel that allows the bearer to fire the weapon without burning his or her hand, except a slide that encloses the barrel; or</text>
-            </level>
-            <level>
-              <num>(dd)</num>
-              <text>The capacity to accept a detachable magazine at some location outside of the pistol grip;</text>
-            </level>
-          </level>
-          <level>
-            <num>(VI)</num>
-            <text>A semiautomatic shotgun that has one or more of the following:</text>
-            <level>
-              <num>(aa)</num>
-              <text>A folding or telescoping stock;</text>
-            </level>
-            <level>
-              <num>(bb)</num>
-              <text>A pistol grip that protrudes conspicuously beneath the action of the weapon;</text>
-            </level>
-            <level>
-              <num>(cc)</num>
-              <text>A thumbhole stock; or</text>
-            </level>
-            <level>
-              <num>(dd)</num>
-              <text>A vertical handgrip; and</text>
-            </level>
-          </level>
-          <level>
-            <num>(VII)</num>
-            <text>A semiautomatic shotgun that has the ability to accept a detachable magazine; and</text>
-          </level>
-          <level>
-            <num>(VIII)</num>
-            <text>All other models within a series that are variations, with minor differences, of those models listed in subparagraph (A) of this paragraph, regardless of the manufacturer;</text>
-          </level>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Any shotgun with a revolving cylinder; provided, that this sub-subparagraph shall not apply to a weapon with an attached tubular device designed to accept, and capable of operating only with, .22 caliber rimfire ammunition; and</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Any firearm that the Chief may designate as an assault weapon by rule, based on a determination that the firearm would reasonably pose the same or similar danger to the health, safety, and security of the residents of the District as those weapons enumerated in this paragraph.</text>
-        </level>
+        <num>(i)</num>
+        <text>Is not designed or redesigned for using rim-fire or conventional center-fire fixed ammunition; or</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>The term "assault weapon" shall not include:</text>
-        <level>
-          <num>(i)</num>
-          <text>Any antique firearm; or</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Any of the following pistols, which are designed expressly for use in Olympic target shooting events, sanctioned by the International Olympic Committee and by USA Shooting, the national governing body for international shooting competition in the United States, and used for Olympic target shooting purposes:</text>
-        </level>
+        <num>(ii)</num>
+        <text>Uses rim-fire or conventional ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade.</text>
       </level>
     </level>
   </level>
-  <text>
-    <text font="'monospace'"> MANUFACTURER MODEL CALIBER </text>
-  </text>
-  <text>
-    <text font="'monospace'"> BENELLI MP90 .22LR </text>
-  </text>
-  <text>
-    <text font="'monospace'"> BENELLI MP90 .32 S&amp;W LONG</text>
-  </text>
-  <text>
-    <text font="'monospace'"> BENELLI MP95 .22LR </text>
-  </text>
-  <text>
-    <text font="'monospace'"> BENELLI MP95 .32 S&amp;W LONG</text>
-  </text>
-  <text>
-    <text font="'monospace'"> HAMMERLI 280 .22LR </text>
-  </text>
-  <text>
-    <text font="'monospace'"> HAMMERLI 280 .32 S&amp;W LONG</text>
-  </text>
-  <text>
-    <text font="'monospace'"> HAMMERLI SP20 .22LR </text>
-  </text>
-  <text>
-    <text font="'monospace'"> HAMMERLI SP20 .32 S&amp;W LONG</text>
-  </text>
-  <text>
-    <text font="'monospace'"> PARDINI GPO .22 SHORT </text>
-  </text>
-  <text>
-    <text font="'monospace'"> PARDINI GP-SCHUMANN .22 SHORT </text>
-  </text>
-  <text>
-    <text font="'monospace'"> PARDINI HP .32 S&amp;W LONG</text>
-  </text>
-  <text>
-    <text font="'monospace'"> PARDINI MP .32 S&amp;W LONG</text>
-  </text>
-  <text>
-    <text font="'monospace'"> PARDINI SP .22LR </text>
-  </text>
-  <text>
-    <text font="'monospace'"> PARDINI SPE .22LR </text>
-  </text>
-  <text>
-    <text font="'monospace'"> WALTHER GSP .22LR </text>
-  </text>
-  <text>
-    <text font="'monospace'"> WALTHER GSP .32 S&amp;W LONG</text>
-  </text>
-  <text>
-    <text font="'monospace'"> WALTHER OSP .22 SHORT </text>
-  </text>
-  <text>
-    <text font="'monospace'"> WALTHER OSP-2000 .22 SHORT </text>
-  </text>
   <level>
+    <num>(3A)</num>
     <level>
+      <num>(A)</num>
+      <text>"Assault weapon" means:</text>
       <level>
-        <num>(C)</num>
-        <text>The Chief may exempt, by rule, new models of competitive pistols that would otherwise fall within the definition of "assault weapon" pursuant to this section from being classified as an assault weapon. The exemption of competitive pistols shall be based either on recommendations by USA Shooting consistent with the regulations contained in the USA Shooting Official Rules or on the recommendation or rules of any other organization that the Chief considers relevant.</text>
+        <num>(i)</num>
+        <text>The following semiautomatic firearms:</text>
+        <level>
+          <num>(I)</num>
+          <text>All of the following specified rifles:</text>
+          <level>
+            <num>(aa)</num>
+            <text>All AK series including, but not limited to, the models identified as follows:</text>
+            <level>
+              <num>(1)</num>
+              <text>Made in China AK, AKM, AKS, AK47, AK47S, 56, 56S, 84S, and 86S;</text>
+            </level>
+            <level>
+              <num>(2)</num>
+              <text>Norinco (all models);</text>
+            </level>
+            <level>
+              <num>(3)</num>
+              <text>Poly Technologies (all models);</text>
+            </level>
+            <level>
+              <num>(4)</num>
+              <text>MAADI AK47 and ARM; and</text>
+            </level>
+            <level>
+              <num>(5)</num>
+              <text>Mitchell (all models).</text>
+            </level>
+          </level>
+          <level>
+            <num>(bb)</num>
+            <text>UZI and Galil;</text>
+          </level>
+          <level>
+            <num>(cc)</num>
+            <text>Beretta AR-70;</text>
+          </level>
+          <level>
+            <num>(dd)</num>
+            <text>CETME Sporter;</text>
+          </level>
+          <level>
+            <num>(ee)</num>
+            <text>Colt AR-15 series;</text>
+          </level>
+          <level>
+            <num>(ff)</num>
+            <text>Daewoo K-1, K-2, Max 1, Max 2, AR 100, and AR110 C;</text>
+          </level>
+          <level>
+            <num>(gg)</num>
+            <text>Fabrique Nationale FAL, LAR, FNC, 308 Match, and Sporter;</text>
+          </level>
+          <level>
+            <num>(hh)</num>
+            <text>MAS 223.</text>
+          </level>
+          <level>
+            <num>(ii)</num>
+            <text>HK-91, HK-93, HK-94, and HK-PSG-1;</text>
+          </level>
+          <level>
+            <num>(jj)</num>
+            <text>The following MAC types:</text>
+            <level>
+              <num>(1)</num>
+              <text>RPB Industries Inc. sM10 and sM11; and</text>
+            </level>
+            <level>
+              <num>(2)</num>
+              <text>SWD Incorporated M11;</text>
+            </level>
+          </level>
+          <level>
+            <num>(kk)</num>
+            <text>SKS with detachable magazine;</text>
+          </level>
+          <level>
+            <num>(ll)</num>
+            <text>SIG AMT, PE-57, SG 550, and SG 551;</text>
+          </level>
+          <level>
+            <num>(mm)</num>
+            <text>Springfield Armory BM59 and SAR-48;</text>
+          </level>
+          <level>
+            <num>(nn)</num>
+            <text>Sterling MK-6;</text>
+          </level>
+          <level>
+            <num>(oo)</num>
+            <text>Steyer AUG, Steyr AUG;</text>
+          </level>
+          <level>
+            <num>(pp)</num>
+            <text>Valmet M62S, M71S, and M78S;</text>
+          </level>
+          <level>
+            <num>(qq)</num>
+            <text>Armalite AR-180;</text>
+          </level>
+          <level>
+            <num>(rr)</num>
+            <text>Bushmaster Assault Rifle;</text>
+          </level>
+          <level>
+            <num>(ss)</num>
+            <text>Calico - 900;</text>
+          </level>
+          <level>
+            <num>(tt)</num>
+            <text>J&amp;R ENG - 68; and</text>
+          </level>
+          <level>
+            <num>(uu)</num>
+            <text>Weaver Arms Nighthawk.</text>
+          </level>
+        </level>
+        <level>
+          <num>(II)</num>
+          <text>All of the following specified pistols:</text>
+          <level>
+            <num>(aa)</num>
+            <text>UZI;</text>
+          </level>
+          <level>
+            <num>(bb)</num>
+            <text>Encom MP-9 and MP-45;</text>
+          </level>
+          <level>
+            <num>(cc)</num>
+            <text>The following MAC types:</text>
+            <level>
+              <num>(1)</num>
+              <text>RPB Industries Inc. sM10 and sM11;</text>
+            </level>
+            <level>
+              <num>(2)</num>
+              <text>SWD Incorporated -11;</text>
+            </level>
+            <level>
+              <num>(3)</num>
+              <text>Advance Armament Inc. - 11; and</text>
+            </level>
+            <level>
+              <num>(4)</num>
+              <text>Military Armament Corp. Ingram M-11;</text>
+            </level>
+          </level>
+          <level>
+            <num>(dd)</num>
+            <text>Intratec TEC-9 and TEC-DC9;</text>
+          </level>
+          <level>
+            <num>(ee)</num>
+            <text>Sites Spectre;</text>
+          </level>
+          <level>
+            <num>(ff)</num>
+            <text>Sterling MK-7;</text>
+          </level>
+          <level>
+            <num>(gg)</num>
+            <text>Calico M-950; and</text>
+          </level>
+          <level>
+            <num>(hh)</num>
+            <text>Bushmaster Pistol.</text>
+          </level>
+        </level>
+        <level>
+          <num>(III)</num>
+          <text>All of the following specified shotguns:</text>
+          <level>
+            <num>(aa)</num>
+            <text>Franchi SPAS 12 and LAW 12; and</text>
+          </level>
+          <level>
+            <num>(bb)</num>
+            <text>Striker 12. The Streetsweeper type S/S Inc. SS/12;</text>
+          </level>
+        </level>
+        <level>
+          <num>(IV)</num>
+          <text>A semiautomatic, rifle that has the capacity to accept a detachable magazine and any one of the following:</text>
+          <level>
+            <num>(aa)</num>
+            <text>A pistol grip that protrudes conspicuously beneath the action of the weapon;</text>
+          </level>
+          <level>
+            <num>(bb)</num>
+            <text>A thumbhole stock;</text>
+          </level>
+          <level>
+            <num>(cc)</num>
+            <text>A folding or telescoping stock;</text>
+          </level>
+          <level>
+            <num>(dd)</num>
+            <text>A grenade launcher or flare launcher;</text>
+          </level>
+          <level>
+            <num>(ee)</num>
+            <text>A flash suppressor; or</text>
+          </level>
+          <level>
+            <num>(ff)</num>
+            <text>A forward pistol grip;</text>
+          </level>
+        </level>
+        <level>
+          <num>(V)</num>
+          <text>A semiautomatic pistol that has the capacity to accept a detachable magazine and any one of the following:</text>
+          <level>
+            <num>(aa)</num>
+            <text>A threaded barrel, capable of accepting a flash suppressor, forward handgrip, or silencer;</text>
+          </level>
+          <level>
+            <num>(bb)</num>
+            <text>A second handgrip;</text>
+          </level>
+          <level>
+            <num>(cc)</num>
+            <text>A shroud that is attached to, or partially or completely encircles, the barrel that allows the bearer to fire the weapon without burning his or her hand, except a slide that encloses the barrel; or</text>
+          </level>
+          <level>
+            <num>(dd)</num>
+            <text>The capacity to accept a detachable magazine at some location outside of the pistol grip;</text>
+          </level>
+        </level>
+        <level>
+          <num>(VI)</num>
+          <text>A semiautomatic shotgun that has one or more of the following:</text>
+          <level>
+            <num>(aa)</num>
+            <text>A folding or telescoping stock;</text>
+          </level>
+          <level>
+            <num>(bb)</num>
+            <text>A pistol grip that protrudes conspicuously beneath the action of the weapon;</text>
+          </level>
+          <level>
+            <num>(cc)</num>
+            <text>A thumbhole stock; or</text>
+          </level>
+          <level>
+            <num>(dd)</num>
+            <text>A vertical handgrip; and</text>
+          </level>
+        </level>
+        <level>
+          <num>(VII)</num>
+          <text>A semiautomatic shotgun that has the ability to accept a detachable magazine; and</text>
+        </level>
+        <level>
+          <num>(VIII)</num>
+          <text>All other models within a series that are variations, with minor differences, of those models listed in subparagraph (A) of this paragraph, regardless of the manufacturer;</text>
+        </level>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Any shotgun with a revolving cylinder; provided, that this sub-subparagraph shall not apply to a weapon with an attached tubular device designed to accept, and capable of operating only with, .22 caliber rimfire ammunition; and</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Any firearm that the Chief may designate as an assault weapon by rule, based on a determination that the firearm would reasonably pose the same or similar danger to the health, safety, and security of the residents of the District as those weapons enumerated in this paragraph.</text>
       </level>
     </level>
+    <level>
+      <num>(B)</num>
+      <text>The term "assault weapon" shall not include:</text>
+      <level>
+        <num>(i)</num>
+        <text>Any antique firearm; or</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Any of the following pistols, which are designed expressly for use in Olympic target shooting events, sanctioned by the International Olympic Committee and by USA Shooting, the national governing body for international shooting competition in the United States, and used for Olympic target shooting purposes:</text>
+      </level>
+    </level>
+  </level>
+  <level type="table">
+    <text> 
+MANUFACTURER MODEL CALIBER
+ 
+BENELLI MP90 .22LR
+BENELLI MP90 .32 S&amp;W
+ LONG
+BENELLI MP95 .22LR
+BENELLI MP95 .32 S&amp;W
+ LONG
+HAMMERLI 280 .22LR
+HAMMERLI 280 .32 S&amp;W
+ LONG
+HAMMERLI SP20 .22LR
+HAMMERLI SP20 .32 S&amp;W
+ LONG
+PARDINI GPO .22
+ SHORT
+PARDINI GP-SCHUMANN .22
+ SHORT
+PARDINI HP .32 S&amp;W
+ LONG
+PARDINI MP .32 S&amp;W
+ LONG
+PARDINI SP .22LR
+PARDINI SPE .22LR
+WALTHER GSP .22LR
+WALTHER GSP .32 S&amp;W
+ LONG
+WALTHER OSP .22
+ SHORT
+WALTHER OSP-2000 .22
+ SHORT</text>
+  </level>
+  <level>
+    <num>(C)</num>
+    <text>The Chief may exempt, by rule, new models of competitive pistols that would otherwise fall within the definition of "assault weapon" pursuant to this section from being classified as an assault weapon. The exemption of competitive pistols shall be based either on recommendations by USA Shooting consistent with the regulations contained in the USA Shooting Official Rules or on the recommendation or rules of any other organization that the Chief considers relevant.</text>
     <level>
       <num>(4)</num>
       <text>"Chief" means the Chief of Police of the Metropolitan Police Department of the District of Columbia or his designated agent.</text>
     </level>
     <level>
       <num>(5)</num>
-      <text>"Crime of violence" shall have the same meaning as provided in § 23- 1331(4).</text>
+      <text>"Crime of violence" shall have the same meaning as provided in D.C. Official Code § 23-1331(4).</text>
     </level>
     <level>
       <num>(6)</num>
@@ -490,7 +460,7 @@
     </level>
     <level>
       <num>(9B)</num>
-      <text>"Intrafamily offense" shall have the same meaning as provided in § 16- 1001(8).</text>
+      <text>"Intrafamily offense" shall have the same meaning as provided in § 16-1001(8).</text>
     </level>
     <level>
       <num>(10)</num>
@@ -514,7 +484,42 @@
     </level>
     <level>
       <num>(13A)</num>
-      <text>"Restricted pistol bullet" means any bullet designed for use in a pistol which, when fired from a pistol with a barrel of 5 inches or less in length, is capable of penetrating commercially available body armor with a penetration resistance equal to or greater than that of 18 layers of kevlar.</text>
+      <level>
+        <num>(A)</num>
+        <text>"Restricted pistol bullet" means:</text>
+        <level>
+          <num>(i)</num>
+          <text>A projectile or projectile core which may be used in a pistol and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>A full jacketed projectile larger than .22 caliber designed and intended for use in a pistol and whose jacket has a weight of more than 25% of the total weight of the projectile; or</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Ammunition for a .50 BMG rifle.</text>
+        </level>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The term "restricted pistol bullet" does not include:</text>
+        <level>
+          <num>(i)</num>
+          <text>Shotgun shot required by federal or state environmental or game regulations for hunting purposes;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>A frangible projectile designed for target shooting;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>A projectile which the Attorney General of the United States finds is primarily intended to be used for sporting purposes; or</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>Any other projectile or projectile core which the Attorney General of the United States finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.</text>
+        </level>
+      </level>
     </level>
     <level>
       <num>(14)</num>
@@ -537,49 +542,62 @@
       <text>"Weapons offense" means any violation in any jurisdiction of any law which involves the sale, purchase, transfer in any manner, receipt, acquisition, possession, having under control, use, repair, manufacture, carrying, or transportation of any firearm, ammunition, or destructive device.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 24, 1976, D.C. Law 1-85, title I, § 101, 23 DCR 2464; Mar. 16, 1978, D.C. Law 2-62, § 2, 24 DCR 5780; Aug. 2, 1983, D.C. Law 5-19, § 2, 30 DCR 3328; Mar. 31, 2009, D.C. Law 17-372, § 3(a), 56 DCR 1365; Sept. 26, 2012, D.C. Law 19-170, § 2(a), 59 DCR 5691.)</text>
+      <heading>History</heading>
+      <text>(Sept. 24, 1976, D.C. Law 1-85, title I, § 101, 23 DCR 2464; Mar. 16, 1978, D.C. Law 2-62, § 2, 24 DCR 5780; Aug. 2, 1983, D.C. Law 5-19, § 2, 30 DCR 3328; Mar. 31, 2009, D.C. Law 17-372, § 3(a), 56 DCR 1365; Sept. 29, 2012, D.C. Law 19-170, § 2(a), 59 DCR 5691; Apr. 27, 2013, D.C. Law 19-295, § 2(a), 60 DCR 2623.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-2302.</text>
-        <text>1973 Ed., § 6-1802.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-372 added pars. (3A), (8A), (9A), and (12A); in par. (9), substituted "any weapon, regardless of operability, which will, or is designed or redesigned, made or remade, readily converted, restored, or repaired, or is intended to," for "any weapon which will, or is designed or redesigned, made or remade, readily converted or restored, and intended to,"; rewrote par. (10); in par. (12), substituted "hand or with a barrel less than 12 inches in length" for "hand"; and, in par. (15), substituted "18 inches in length" for "20 inches in length" in two places. Prior to amendment, par. (10) read as follows:</text>
-        <text>"(10) 'Machine gun' means any firearm which shoots, is designed to shoot, or can be readily converted or restored to shoot:</text>
-        <text>"(A) Automatically, more than 1 shot by a single function of the trigger;</text>
-        <text>"(B) Semiautomatically, more than 12 shots without manual reloading."</text>
-        <text>D.C. Law 19-170 rewrote par. (5); redesignated former par. (9A) as par. (9B); added par. (9A); and redesignated par. (13a) as par. (13A). Prior to amendment, par. (5) read as follows:</text>
-        <text>"(5) 'Crime of violence' means a crime of violence as defined in § 22-4501, committed in any jurisdiction, but does not include larceny or attempted larceny."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(a) of Second Firearms Control Emergency Amendment Act of 2008 (D.C. Act 17-502, September 16, 2008, 55 DCR 9904).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(a) of Second Firearms Control Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-601, December 12, 2008, 56 DCR 9).</text>
-        <text>For temporary (90 day) amendment of section, see § 3(a) of Firearms Registration Emergency Amendment Act of 2008 (D.C. Act 17-651, January 6, 2009, 56 DCR 911).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(a) of Firearms Emergency Amendment Act of 2012 (D.C. Act 19-352, May 11, 2012, 59 DCR 5116).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(a) of the Firearms Amendments Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19- 394, July 18, 2012, 59 DCR 8694).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(a) of the Firearms Second Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-510, October 26, 2012, 59 DCR 12808).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 1-85, the 'Firearms Control Regulations Act of 1975,' was introduced in Council and assigned Bill No. 1-164, which was referred to the Committee on the Judiciary and the Committee on Criminal Law. The Bill was adopted on first, amended first, and second readings, and reconsideration of second reading, on May 3, 1976, May 18, 1976, June 15, 1976, and June 29, 1976, respectively. Signed by the Mayor on July 23, 1976, it was assigned Act No. 1-142 and transmitted to both Houses of Congress for review</text>
-        <text>Law 2-62, the "Firearms Control Regulations Act Technical Amendments Act of 1977," was introduced in Council and assigned Bill No. 2-194, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on October 11, 1977 and October 25, 1977, respectively. Signed by the Mayor on January 3, 1978, it was assigned Act No. 2-129 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 5-19, the "Firearms Control Regulations Act of 1975 Amendments Act of 1983," was introduced in Council and assigned Bill No. 5-110, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on May 24, 1983 and June 7, 1983, respectively. Signed by the Mayor on June 9, 1983, it was assigned Act No. 5-36 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 17-372, the "Firearms Control Amendment Act of 2008", was introduced in Council and assigned Bill No. 17-843 which was referred to the Committee on Public Safety and the Judiciary. The Bill was adopted on first and second readings on December 2, 2008, and December 16, 2008, respectively. Signed by the Mayor on January 28, 2009, it was assigned Act No. 17-708 and transmitted to both Houses of Congress for its review. D.C. Law 17-372 became effective on March 31, 2009.</text>
-        <text>Law 19-170, the "Firearms Amendment Act of 2012", was introduced in Council and assigned Bill No. 19-614, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on March 6, 2012, and April 17, 2012, respectively. Signed by the Mayor on May 15, 2012, it was assigned Act No. 19-366 and transmitted to both Houses of Congress for its review. D.C. Law 19-170 became effective on September 26, 2012.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>"An Act to Amend Title 18, United States Code, to Provide for Better Control of the Interstate Traffic in Firearms Act of 1968," referred to in subparagraph (C) of paragraph (1), is the Gun Control Act of 1968, Pub. L. 90-618.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-2502.13, § 7-2507.06a, § 7-2531.01, § 7-2551.01, § 16-2301, § 16-2333, § 22-4501, and § 42-3101.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-2302.</text>
+      <text>1973 Ed., § 6-1802.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-372 added pars. (3A), (8A), (9A), and (12A); in par. (9), substituted "any weapon, regardless of operability, which will, or is designed or redesigned, made or remade, readily converted, restored, or repaired, or is intended to," for "any weapon which will, or is designed or redesigned, made or remade, readily converted or restored, and intended to,"; rewrote par. (10); in par. (12), substituted "hand or with a barrel less than 12 inches in length" for "hand"; and, in par. (15), substituted "18 inches in length" for "20 inches in length" in two places. Prior to amendment, par. (10) read as follows: "(10) 'Machine gun' means any firearm which shoots, is designed to shoot, or can be readily converted or restored to shoot: (A) Automatically, more than 1 shot by a single function of the trigger; (B) Semiautomatically, more than 12 shots without manual reloading."</text>
+      <text>The 2012 amendment by D.C. Law 19-170 rewrote (5); added (9A); redesignated former (9A) and (13a) as (9B) and (13A); and made a stylistic change.</text>
+      <text>The 2013 amendment by D.C. Law 19-295 rewrote (13A).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(a) of Second Firearms Control Emergency Amendment Act of 2008 (D.C. Act 17-502, September 16, 2008, 55 DCR 9904).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(a) of Second Firearms Control Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-601, December 12, 2008, 56 DCR 9).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(a) of Firearms Registration Emergency Amendment Act of 2008 (D.C. Act 17-651, January 6, 2009, 56 DCR 911).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(a) of Firearms Emergency Amendment Act of 2012 (D.C. Act 19-352, May 11, 2012, 59 DCR 5116).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(a) of the Firearms Amendments Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-394, July 18, 2012, 59 DCR 8694).</text>
+      <text>For temporary amendment of (5), (9A) and (13a), see § 2(a) of the Firearms Second Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-510, October 26, 2012, 59 DCR 12808).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-85</heading>
+      <text>Law 1-85, the 'Firearms Control Regulations Act of 1975,' was introduced in Council and assigned Bill No. 1-164, which was referred to the Committee on the Judiciary and the Committee on Criminal Law. The Bill was adopted on first, amended first, and second readings, and reconsideration of second reading, on May 3, 1976, May 18, 1976, June 15, 1976, and June 29, 1976, respectively. Signed by the Mayor on July 23, 1976, it was assigned Act No. 1-142 and transmitted to both Houses of Congress for review</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-62</heading>
+      <text>Law 2-62, the "Firearms Control Regulations Act Technical Amendments Act of 1977," was introduced in Council and assigned Bill No. 2-194, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on October 11, 1977 and October 25, 1977, respectively. Signed by the Mayor on January 3, 1978, it was assigned Act No. 2-129 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-19</heading>
+      <text>Law 5-19, the "Firearms Control Regulations Act of 1975 Amendments Act of 1983," was introduced in Council and assigned Bill No. 5-110, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on May 24, 1983 and June 7, 1983, respectively. Signed by the Mayor on June 9, 1983, it was assigned Act No. 5-36 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-372</heading>
+      <text>Law 17-372, the "Firearms Control Amendment Act of 2008", was introduced in Council and assigned Bill No. 17-843 which was referred to the Committee on Public Safety and the Judiciary. The Bill was adopted on first and second readings on December 2, 2008, and December 16, 2008, respectively. Signed by the Mayor on January 28, 2009, it was assigned Act No. 17-708 and transmitted to both Houses of Congress for its review. D.C. Law 17-372 became effective on March 31, 2009.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-170</heading>
+      <text>Law 19-170, the "Firearms Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-614. The Bill was adopted on first and second readings on Mar. 6, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 15, 2012, it was assigned Act No. 19-366 and transmitted to Congress for its review. D.C. Law 19-170 became effective on Sept. 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-295</heading>
+      <text>Law 19-295, the "Administrative Disposition for Weapons Offenses Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-888. The Bill was adopted on first and second readings on Dec. 4, 2012, and Dec. 18, 2012, respectively. Signed by the Mayor on Feb. 4, 2013, it was assigned Act No. 19-663 and transmitted to Congress for its review. D.C. Law 19-295 became effective on Apr. 27, 2013.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>"An Act to Amend Title 18, United States Code, to Provide for Better Control of the Interstate Traffic in Firearms Act of 1968," referred to in subparagraph (C) of paragraph (1), is the Gun Control Act of 1968, Pub. L. 90-618.</text>
     </level>
   </level>
 </level>

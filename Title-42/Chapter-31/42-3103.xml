@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-3103</num>
   <heading>Complaint.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-3303</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The complaint or an affidavit attached thereto shall describe the adverse impact of the drug-, firearm-, or prostitution-related nuisance upon the surrounding community.</text>
@@ -18,37 +17,43 @@
     <num>(d)</num>
     <text>A copy of the summons and complaint shall be served upon the defendant at least 5 business days prior to the first hearing on the action. Service shall be made in accordance with the Rules of the Superior Court of the District of Columbia or by posting a conspicuous notice at the property indicating the nature of the proceedings, a copy of the summons, and the time and place of the hearing. If service is made by posting at the property, a copy of the summons and complaint shall be sent, by first class mail, postage prepaid, to the last known mailing address, if any, of the defendant. If the defendant is not the owner of the property, a copy of the summons and complaint shall be mailed to the last known mailing address of the owner.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 26, 1999, D.C. Law 12-194, § 4, 45 DCR 7982; Apr. 4, 2006, D.C. Law 16-81, § 3(b), 53 DCR 1050; Nov. 6, 2010, D.C. Law 18-259, § 7(b), 57 DCR 5591.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-3303.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-81 substituted "drug or prostitution-related" for "drug-related".</text>
-        <text>D.C. Law 18-259 substituted "drug-, firearm-, or prostitution-related" for "drug or prostitution-related".</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>See Historical and Statutory Notes following § 42-3101.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary addition of chapter, see notes to § 42-3101.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-194, see Historical and Statutory Notes following § 42-3101.</text>
-        <text>For Law 16-81, see notes following § 42-3101.</text>
-        <text>For history of Law 18-259, see notes under § 42-3101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3108 and § 42-3111.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-3303.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-81 substituted "drug or prostitution-related" for "drug-related".</text>
+      <text>D.C. Law 18-259 substituted "drug-, firearm-, or prostitution-related" for "drug or prostitution-related".</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>See Historical and Statutory Notes following § 42-3101.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary addition of chapter, see notes to § 42-3101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-194</heading>
+      <text>For legislative history of D.C. Law 12-194, see Historical and Statutory Notes following § 42-3101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-81</heading>
+      <text>For Law 16-81, see notes following § 42-3101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-259</heading>
+      <text>For history of Law 18-259, see notes under § 42-3101.</text>
     </level>
   </level>
 </level>

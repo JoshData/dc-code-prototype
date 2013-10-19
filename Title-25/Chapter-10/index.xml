@@ -1,14 +1,14 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>10</num>
-  <heading>Limitations on Consumers.</heading>
+  <heading>Limitations on Consumers</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1001.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1002.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1003.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1004.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1005.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1006.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1007.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1008.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1009.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1004~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1005~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1006~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1007~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1008~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-1009~P.xml"/>
 </level>

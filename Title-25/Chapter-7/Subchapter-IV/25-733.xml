@@ -37,29 +37,27 @@
     <num>(f)</num>
     <text>Repealed.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959; Mar. 25, 2009, D.C. Law 17-361, § 2(c)(4), 56 DCR 1204.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <text>D.C. Law 13-298 amended and enacted into law Title 25 of the District of Columbia Official Code.</text>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-361, in subsec. (b)(3), substituted "presented for payment, when such dishonored checks, drafts, or other orders for payment exceed $15,000" for "presented for payment"; and repealed subsecs. (d), (e), and (f), which had read as follows:</text>
-        <text>"(d) Before March 2, June 2, September 2, and January 2 of each year, each manufacturer and wholesaler shall submit to the Board, on a form prescribed by the Board, a list of the following:</text>
-        <text>"(1) All retailers that have been required to make payment in cash for alcoholic beverages under 25-731(c), during the preceding 90 days; and</text>
-        <text>"(2) All accounts that have been delinquent during the preceding 90 days, including the amount of the delinquency.</text>
-        <text>"(e) Each manufacturer and wholesaler shall, within 24 hours of receipt from the bank or other depository of notice of dishonor of a check, draft, or other order for payment which the manufacturer or wholesaler received from a retailer, notify in writing the Board of the notice of dishonor.</text>
-        <text>"(f) Failure to file timely a report required by this section shall constitute a violation of this chapter."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-298, see notes following § 25-101.</text>
-        <text>For Law 17-361, see notes following § 25-113.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-361, in subsec. (b)(3), substituted "presented for payment, when such dishonored checks, drafts, or other orders for payment exceed $15,000" for "presented for payment"; and repealed subsecs. (d), (e), and (f), which had read as follows:</text>
+      <text>"(d) Before March 2, June 2, September 2, and January 2 of each year, each manufacturer and wholesaler shall submit to the Board, on a form prescribed by the Board, a list of the following:</text>
+      <text>"(1) All retailers that have been required to make payment in cash for alcoholic beverages under 25-731(c), during the preceding 90 days; and</text>
+      <text>"(2) All accounts that have been delinquent during the preceding 90 days, including the amount of the delinquency.</text>
+      <text>"(e) Each manufacturer and wholesaler shall, within 24 hours of receipt from the bank or other depository of notice of dishonor of a check, draft, or other order for payment which the manufacturer or wholesaler received from a retailer, notify in writing the Board of the notice of dishonor.</text>
+      <text>"(f) Failure to file timely a report required by this section shall constitute a violation of this chapter."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-298</heading>
+      <text>For D.C. Law 13-298, see notes following § 25-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-361</heading>
+      <text>For Law 17-361, see notes following § 25-113.</text>
     </level>
   </level>
 </level>

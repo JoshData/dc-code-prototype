@@ -3,17 +3,19 @@
   <heading>Private school program.</heading>
   <level>
     <num>(a)</num>
-    <text><text i="True">Grants.</text> --</text>
+    <heading>Grants</heading>
     <level>
       <num>(1)</num>
-      <text><text i="True">In general.</text> -- From amounts appropriated under subsection (f) the Mayor shall award grants to eligible institutions that enroll eligible students to pay the cost of tuition and fees at the eligible institutions on behalf of each eligible student enrolled in an eligible institution. The Mayor may prescribe such regulations as may be necessary to carry out this section.</text>
+      <heading>In general</heading>
+      <text>From amounts appropriated under subsection (f) the Mayor shall award grants to eligible institutions that enroll eligible students to pay the cost of tuition and fees at the eligible institutions on behalf of each eligible student enrolled in an eligible institution. The Mayor may prescribe such regulations as may be necessary to carry out this section.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Maximum student amounts.</text> -- An eligible student shall have paid on the student's behalf under this section:</text>
+      <heading>Maximum student amounts</heading>
+      <text>An eligible student shall have paid on the student's behalf under this section:</text>
       <level>
         <num>(A)</num>
-        <text>Not more than $2,500 for any 1 award year (as defined in section 481 of the Higher Education Act of 1965 (20 U.S.C. 1088)); and</text>
+        <text>Not more than $2,500 for any 1 award year (as defined in section 481 of the Higher Education Act of 1965 (20 U.S.C. § 1088)); and</text>
       </level>
       <level>
         <num>(B)</num>
@@ -22,15 +24,17 @@
     </level>
     <level>
       <num>(3)</num>
-      <text><text i="True">Proration.</text> -- The Mayor shall prorate payments under this section for students who attend an eligible institution on less than a full-time basis.</text>
+      <heading>Proration</heading>
+      <text>The Mayor shall prorate payments under this section for students who attend an eligible institution on less than a full-time basis.</text>
     </level>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Reduction for insufficient appropriations.</text> --</text>
+    <heading>Reduction for insufficient appropriations</heading>
     <level>
       <num>(1)</num>
-      <text><text i="True">In general.</text> -- If the funds appropriated pursuant to subsection (f) for any fiscal year are insufficient to award a grant in the amount determined under subsection (a) on behalf of each eligible student enrolled in an eligible institution, then the Mayor shall:</text>
+      <heading>In general</heading>
+      <text>If the funds appropriated pursuant to subsection (f) for any fiscal year are insufficient to award a grant in the amount determined under subsection (a) on behalf of each eligible student enrolled in an eligible institution, then the Mayor shall:</text>
       <level>
         <num>(A)</num>
         <text>First, ratably reduce the amount of the tuition and fee payment made on behalf of each eligible student who has not received funds under this section for a preceding year; and</text>
@@ -42,7 +46,8 @@
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Adjustments.</text> -- The Mayor may adjust the amount of tuition and fee payments made under paragraph (1) based on:</text>
+      <heading>Adjustments</heading>
+      <text>The Mayor may adjust the amount of tuition and fee payments made under paragraph (1) based on:</text>
       <level>
         <num>(A)</num>
         <text>The financial need of the eligible students to avoid undue hardship to the eligible students; or</text>
@@ -54,20 +59,23 @@
     </level>
     <level>
       <num>(3)</num>
-      <text><text i="True">Further adjustments.</text> -- Notwithstanding paragraphs (1) and (2), the Mayor may prioritize the making or amount of tuition and fee payments under this subsection based on the income and need of eligible students.</text>
+      <heading>Further adjustments</heading>
+      <text>Notwithstanding paragraphs (1) and (2), the Mayor may prioritize the making or amount of tuition and fee payments under this subsection based on the income and need of eligible students.</text>
     </level>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Definitions.</text> -- In this section:</text>
+    <heading>Definitions</heading>
+    <text>In this section:</text>
     <level>
       <num>(1)</num>
-      <text><text i="True">Eligible institution.</text> -- The term "eligible institution" means an institution that:</text>
+      <heading>Eligible institution</heading>
+      <text>The term "eligible institution" means an institution that:</text>
       <level>
         <num>(A)</num>
         <level>
           <num>(i)</num>
-          <text>Is a private, nonprofit, associate or baccalaureate degree-granting, institution of higher education, as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)), the main campus of which is located:</text>
+          <text>Is a private, nonprofit, associate or baccalaureate degree-granting, institution of higher education, as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. § 1001(a)), the main campus of which is located:</text>
           <level>
             <num>(I)</num>
             <text>In the District of Columbia;</text>
@@ -83,7 +91,7 @@
         </level>
         <level>
           <num>(ii)</num>
-          <text>Is eligible to participate in the student financial assistance programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.); and</text>
+          <text>Is eligible to participate in the student financial assistance programs under title IV of the Higher Education Act of 1965 (20 U.S.C. § 1070 et seq.); and</text>
         </level>
         <level>
           <num>(iii)</num>
@@ -92,40 +100,47 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>Is a private historically Black college or university (for purposes of this subparagraph such term shall have the meaning given the term "part B institution" in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)).</text>
+        <text>Is a private historically Black college or university (for purposes of this subparagraph such term shall have the meaning given the term "part B institution" in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. § 1061(2)).</text>
       </level>
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Eligible student.</text> -- The term "eligible student" means an individual who meets the requirements of subparagraphs (A) through (G) of § 38-2702(c)(2).</text>
+      <heading>Eligible student</heading>
+      <text>The term "eligible student" means an individual who meets the requirements of subparagraphs (A) through (G) of § 38-2702(c)(2).</text>
     </level>
     <level>
       <num>(3)</num>
-      <text><text i="True">Mayor.</text> -- The term "Mayor" means the Mayor of the District of Columbia.</text>
+      <heading>Mayor</heading>
+      <text>The term "Mayor" means the Mayor of the District of Columbia.</text>
     </level>
     <level>
       <num>(4)</num>
-      <text><text i="True">Secretary.</text> -- The term "Secretary" means the Secretary of Education.</text>
+      <heading>Secretary</heading>
+      <text>The term "Secretary" means the Secretary of Education.</text>
     </level>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Application.</text> -- Each eligible student desiring a tuition and fee payment under this section shall submit an application to the eligible institution at such time, in such manner, and accompanied by such information as the eligible institution may require.</text>
+    <heading>Application</heading>
+    <text>Each eligible student desiring a tuition and fee payment under this section shall submit an application to the eligible institution at such time, in such manner, and accompanied by such information as the eligible institution may require.</text>
   </level>
   <level>
     <num>(e)</num>
-    <text><text i="True">Administration of program.</text> --</text>
+    <heading>Administration of program</heading>
     <level>
       <num>(1)</num>
-      <text><text i="True">In general.</text> -- The Mayor shall carry out the program under this section in consultation with the Secretary. The Mayor may enter into a grant, contract, or cooperative agreement with another public or private entity to administer the program under this section if the Mayor determines that doing so is a more efficient way of carrying out the program.</text>
+      <heading>In general</heading>
+      <text>The Mayor shall carry out the program under this section in consultation with the Secretary. The Mayor may enter into a grant, contract, or cooperative agreement with another public or private entity to administer the program under this section if the Mayor determines that doing so is a more efficient way of carrying out the program.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Policies and procedures.</text> -- The Mayor, in consultation with institutions of higher education eligible for participation in the program authorized under this section, shall develop policies and procedures for the administration of the program.</text>
+      <heading>Policies and procedures</heading>
+      <text>The Mayor, in consultation with institutions of higher education eligible for participation in the program authorized under this section, shall develop policies and procedures for the administration of the program.</text>
     </level>
     <level>
       <num>(3)</num>
-      <text><text i="True">Memorandum of agreement.</text> -- The Mayor and the Secretary shall enter into a Memorandum of Agreement that describes:</text>
+      <heading>Memorandum of agreement</heading>
+      <text>The Mayor and the Secretary shall enter into a Memorandum of Agreement that describes:</text>
       <level>
         <num>(A)</num>
         <text>The manner in which the Mayor shall consult with the Secretary with respect to administering the program under this section; and</text>
@@ -138,26 +153,28 @@
   </level>
   <level>
     <num>(f)</num>
-    <text><text i="True">Authorization of appropriations.</text> -- There are authorized to be appropriated to the District of Columbia to carry out this section $5,000,000 for fiscal year 2000 and (subject to § 38-2706) such sums as may be necessary for each of the 12 succeeding fiscal years. Such funds shall remain available until expended.</text>
+    <heading>Authorization of appropriations</heading>
+    <text>There are authorized to be appropriated to the District of Columbia to carry out this section $5,000,000 for fiscal year 2000 and (subject to § 38-2706) such sums as may be necessary for each of the 12 succeeding fiscal years. Such funds shall remain available until expended.</text>
   </level>
   <level>
     <num>(g)</num>
-    <text><text i="True">Effective date.</text> -- This section shall take effect with respect to payments for periods of instruction that begin on or after January 1, 2000.</text>
+    <heading>Effective Date</heading>
+    <text>This section shall take effect with respect to payments for periods of instruction that begin on or after January 1, 2000.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Nov. 12, 1999, 113 Stat. 1327, Pub. L. 106-98, § 5; Apr. 4, 2002, 116 Stat. 119, Pub. L. 107-157, §§ 3, 5(b)(2); Dec. 17, 2004, 118 Stat. 3637, Pub. L. 108-457, § 1(b); Oct. 24, 2007, 121 Stat. 1013, Pub. L. 110-97, §§ 1(b), 2(b).)</text>
+      <heading>History</heading>
+      <text>(Nov. 12, 1999, 113 Stat. 1327, Pub. L. 106-98, § 5; Apr. 4, 2002, 116 Stat. 119, Pub. L. 107-157, §§ 3, 5(b)(2); Dec. 17, 2004, 118 Stat. 3637, Pub. L. 108-457, § 1(b); Oct. 24, 2007, 121 Stat. 1013, Pub. L. 110-97,§§ 1(b), 2(b).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 107-157, in subsec. (c)(1)(B), deleted "the main campus of which is located in the State of Maryland or the Commonwealth of Virginia" at the end of the subparagraph; and, in subsec. (f), substituted "and (subject to § 38-2706) such sums" for "and such sums".</text>
-        <text>Pub. L. 108-457, in subsec. (f), substituted "7" for "five".</text>
-        <text>Pub. L. 110-97, in subsec. (c)(2), substituted "through (G)" for "through (F)"; and, in subsec. (f), substituted "12 succeeding fiscal years" for "7 succeeding fiscal years".</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-2705 and § 38-2706.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 107-157, in subsec. (c)(1)(B), deleted "the main campus of which is located in the State of Maryland or the Commonwealth of Virginia" at the end of the subparagraph; and, in subsec. (f), substituted "and (subject to § 38-2706) such sums" for "and such sums".</text>
+      <text>Pub. L. 108-457, in subsec. (f), substituted "7" for "five".</text>
+      <text>Pub. L. 110-97, in subsec. (c)(2), substituted "through (G)" for "through (F)"; and, in subsec. (f), substituted "12 succeeding fiscal years" for "7 succeeding fiscal years".</text>
     </level>
   </level>
 </level>

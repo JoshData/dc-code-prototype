@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-3303.07</num>
   <heading>Limitation on preexisting condition exclusion period.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1037</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Subject to subsection (b) of this section, a health insurer offering group health insurance coverage may, with respect to a participant or beneficiary, impose a preexisting limitation only if (i) such exclusion relates to a condition (whether physical or mental), regardless of the cause of the condition, for which medical advice, diagnosis, care, or treatment was recommended or received within the 6-month period ending on the enrollment date, (ii) such exclusion extends for a period of not more than 12 months (or 18 months in the case of a late enrollee) after the enrollment date, and (iii) the period of any such preexisting condition exclusion is reduced by the aggregate of the periods of creditable coverage, if any, applicable to the participant or beneficiary as of the enrollment date.</text>
@@ -152,35 +151,38 @@
       <text>In the case of a dependent's adoption or placement for adoption, the date of such adoption or placement for adoption.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 13, 1999, D.C. Law 12-209, § 307, 45 DCR 8433; Sept. 12, 2008, D.C. Law 17-231, § 27(b), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1037.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-231, in subsecs. (k) and (l)(1), substituted "marriage or domestic partnership" for "marriage".</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>See Historical and Statutory Notes following § 31-3301.01.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>See notes to § 31-3301.01.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-209, see Historical and Statutory Notes following § 31-3301.01.</text>
-        <text>For Law 17-231, see notes following § 31-3301.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-3302.06.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1037.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-231, in subsecs. (k) and (l)(1), substituted "marriage or domestic partnership" for "marriage".</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>See Historical and Statutory Notes following § 31-3301.01.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>See notes to § 31-3301.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-209</heading>
+      <text>For legislative history of D.C. Law 12-209, see Historical and Statutory Notes following § 31-3301.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 31-3301.01.</text>
     </level>
   </level>
 </level>

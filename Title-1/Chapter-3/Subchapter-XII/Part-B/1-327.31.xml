@@ -2,22 +2,18 @@
   <num>1-327.31</num>
   <heading>Short title.</heading>
   <text>This part may be cited as the "Customer Service Operations Establishment Act of 2002".</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 1, 2002, D.C. Law 14-190, § 1201, 49 DCR 6968.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 1-328.01.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-190, see notes following § 1-301.131.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 1-328.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-190</heading>
+      <text>For Law 14-190, see notes following § 1-301.131.</text>
     </level>
   </level>
 </level>

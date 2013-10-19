@@ -1,7 +1,6 @@
 <level type="section">
   <num>50-311</num>
   <heading>Full Commission meetings; annual report.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-1711</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The chairperson shall be responsible for, and shall assure coordination and communication between, both panels of the Commission, and shall have authority to resolve disputes and issues of jurisdiction arising between panels. All members of the Commission shall be kept apprised of the business of the full Commission.</text>
@@ -12,7 +11,7 @@
   </level>
   <level>
     <num>(b-1)</num>
-    <text>The Commission may spend, from the Taxicab Driver Security Revolving Fund, established in § 50-321, an amount not to exceed $1,200 per fiscal year for nominal refreshments, food, or additional supplies necessary to hold regular meetings, including work sessions.</text>
+    <text>The Commission may spend, from the Taxicab Driver Security Revolving Fund, established in § 50-321 [repealed], an amount not to exceed $1,200 per fiscal year for nominal refreshments, food, or additional supplies necessary to hold regular meetings, including work sessions.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -22,39 +21,38 @@
     <num>(d)</num>
     <text>The full Commission shall periodically evaluate program development and implementation at the hacker's license training course and may issue policy directives pertaining to program content and program direction.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1986, D.C. Law 6-97, § 12, 33 DCR 703; Oct. 1, 2002, D.C. Law 14-190, § 2602(b), 49 DCR 6968.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-1711.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-190 added subsec. (b-1)</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2502(b) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-97, see Historical and Statutory Notes following § 50-301.</text>
-        <text>For Law 14-190, see notes following § 51-101.</text>
-      </level>
-      <level>
-        <heading>Effective Dates</heading>
-        <text>Section 24(b) of D.C. Law 6-97 provided that sections 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, and 23 shall take effect 1 year after March 25, 1986.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Law 19-184 amended this section only "upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register." As of the most recent updated publication of this section, the certification required for Law 19-184 has not been made. Therefore the amendments have not been incorporated into this section.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-1711.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-190 added subsec. (b-1)</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2502(b) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-97</heading>
+      <text>For legislative history of D.C. Law 6-97, see Historical and Statutory Notes following § 50-301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-190</heading>
+      <text>For Law 14-190, see notes following § 51-101.</text>
+    </level>
+    <level>
+      <heading>Effective Dates</heading>
+      <text>Section 24(b) of D.C. Law 6-97 provided that sections 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, and 23 shall take effect 1 year after March 25, 1986.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>D.C. Law 19-184, effective October 22, 2012, amended this section subject to the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register. As of April 1, 2013, this certification has not occurred; therefore the amendment has not been implemented.</text>
     </level>
   </level>
 </level>

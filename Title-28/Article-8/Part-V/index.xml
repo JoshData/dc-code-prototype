@@ -1,0 +1,16 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>V</num>
+  <heading>Security Entitlements</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-501.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-502.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-503.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-504.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-505.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-506.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-507.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-508.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-509.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-510.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-511.xml"/>
+</level>

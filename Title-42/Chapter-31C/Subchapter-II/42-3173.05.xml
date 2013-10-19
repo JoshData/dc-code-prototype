@@ -84,18 +84,18 @@
       <text>File the notice with the Recorder of Deeds.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2001, D.C. Law 13-281, § 445, as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-114, see notes following § 42-3171.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3173.01, § 42-3173.02, § 42-3173.03, § 42-3173.04, § 42-3173.06, and § 42-3173.07.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-114</heading>
+      <text>For Law 14-114, see notes following § 42-3171.01.</text>
     </level>
   </level>
 </level>

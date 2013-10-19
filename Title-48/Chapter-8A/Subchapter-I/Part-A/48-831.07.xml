@@ -18,7 +18,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Prescription drugs dispensed to low-income elderly pursuant to § 48- 831.23.</text>
+      <text>Prescription drugs dispensed to low-income elderly pursuant to § 48-831.23.</text>
     </level>
   </level>
   <level>
@@ -29,18 +29,14 @@
     <num>(e)</num>
     <text>The Department shall collect utilization data from participating retail pharmacies submitting claims necessary to calculate the amount of the rebate from the manufacturer or labeler. The Department shall protect the confidentiality of all information subject to confidentiality protection under District or federal law, rule or regulation.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 18, 2004, D.C. Law 15-164, § 107, 51 DCR 3688.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-164, see notes following § 48-831.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-164</heading>
+      <text>For Law 15-164, see notes following § 48-831.01.</text>
     </level>
   </level>
 </level>

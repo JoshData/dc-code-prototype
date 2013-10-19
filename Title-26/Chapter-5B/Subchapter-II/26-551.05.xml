@@ -108,25 +108,31 @@
     <num>(f)</num>
     <text>The Commission may establish and modify fees to implement the District of Columbia Banking Code.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-308, § 105, 48 DCR 3244; Apr. 13, 2005, D.C. Law 15-354, § 35(b), 52 DCR 2638; June 20, 2012, D.C. Law 19-143, § 201(b), 59 DCR 4069.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-354, in subsec. (a)(12), substituted "Commissioner" for "Department of Banking and Financial Institutions".</text>
-        <text>D.C. Law 19-143 added subsec. (b-1).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-308, see notes following § 26-551.01.</text>
-        <text>Law 15-354, the "Technical Amendments Act of 2004", was introduced in Council and assigned Bill No. 15-1130 which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on December 7, 2004, and December 21, 2004, respectively. Signed by the Mayor on February 9, 2005, it was assigned Act No. 15-770 and transmitted to both Houses of Congress for its review. D.C. Law 15-354 became effective on April 13, 2005.</text>
-        <text>For history of Law 19-143, see notes under § 26-551.02.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-103.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-354, in subsec. (a)(12), substituted "Commissioner" for "Department of Banking and Financial Institutions".</text>
+      <text>D.C. Law 19-143 added subsec. (b-1).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-308</heading>
+      <text>For Law 13-308, see notes following § 26-551.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>Law 15-354, the "Technical Amendments Act of 2004", was introduced in Council and assigned Bill No. 15-1130 which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on December 7, 2004, and December 21, 2004, respectively. Signed by the Mayor on February 9, 2005, it was assigned Act No. 15-770 and transmitted to both Houses of Congress for its review. D.C. Law 15-354 became effective on April 13, 2005.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-143</heading>
+      <text>For history of Law 19-143, see notes under § 26-551.02.</text>
     </level>
   </level>
 </level>

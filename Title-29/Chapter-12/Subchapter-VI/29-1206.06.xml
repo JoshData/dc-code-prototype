@@ -1,50 +1,63 @@
 <level type="section">
   <num>29-1206.06</num>
-  <heading>Charging order.</heading>
+  <heading>Transfer of beneficial interest.</heading>
   <level>
     <num>(a)</num>
-    <text>If a beneficial interest is not freely transferable by a beneficial owner so that the transferee has all rights of the transferor, a judgment creditor of a beneficial owner may satisfy the judgment against the beneficial owner's beneficial interest only as provided in this section.</text>
+    <text>For the purposes of this section, "covered creditor" means a judgment creditor of a beneficial owner or a person to which a beneficial interest has been transferred by operation of law.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>On application by a judgment creditor of a beneficial owner, the Superior Court may issue a charging order against the beneficial owner's right to distributions from the trust for the unsatisfied part of the judgment and:</text>
-    <level>
-      <num>(1)</num>
-      <text>Appoint a receiver of the distributions subject to the charging order, with the power to enforce the beneficial owner's right to a distribution; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Make other orders necessary to give effect to the charging order.</text>
-    </level>
+    <text>Except as otherwise provided in the governing instrument, a beneficial interest in a statutory trust is freely transferable.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text>A charging order issued under subsection (b) of this section shall be a lien on the beneficial owner's right to distributions and requires the statutory trust to pay over to the judgment creditor any distribution that would otherwise be paid to the beneficial owner until the judgment has been satisfied.</text>
+    <text>The governing instrument may not limit the transferability of a beneficial interest if the same person is the sole trustee and sole beneficial owner.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text>A statutory trust or beneficial owner that is not subject to a charging order issued under subsection (b) of this section shall pay to the judgment creditor the full amount due under the judgment lien and thereby succeed to the rights of the judgment creditor, including the charging order.</text>
-  </level>
-  <level>
-    <num>(e)</num>
-    <text>This chapter shall not deprive a beneficial owner or a transferee of the beneficial interest of any exemption applicable to the beneficial interest.</text>
-  </level>
-  <level>
-    <type>annotations</type>
+    <text>If a beneficial interest is not freely transferable by a beneficial owner such that a transferee may become a beneficial owner without further requirement except notice to the statutory trust, the following rules apply:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <num>(1)</num>
+      <text>On petition by a covered creditor, the Superior Court may authorize the petitioner to reach the beneficial owner's interest by attachment of present or future distributions to or for the benefit of the beneficial owner or by other means. The court may limit the award to relief that is appropriate under the circumstances.</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <num>(2)</num>
+      <text>On petition by a covered creditor, to the extent a trustee has not complied with a standard of distribution provided in the governing instrument or has abused the trustee's discretion to make a distribution, the Superior Court:</text>
       <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+        <num>(A)</num>
+        <text>May order a distribution to the benefit of the petitioner; and</text>
       </level>
       <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 606 of the Uniform Statutory Trust Entity Act . See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
+        <num>(B)</num>
+        <text>If a distribution is ordered, shall direct the trustee to pay to the petitioner an equitable amount but not more than the amount the trustee would have been required to distribute to or for the benefit of the beneficial owner if the trustee had complied with the standard or had not abused the discretion.</text>
       </level>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(l)(7)(E), 59 DCR 13171.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-1201.04.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-1201.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 606 of the Uniform Statutory Trust Entity Act.</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

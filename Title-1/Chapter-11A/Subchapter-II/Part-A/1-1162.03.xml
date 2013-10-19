@@ -104,18 +104,14 @@
       <text>If less than 2/3rds of the Council votes to remove a member, the member shall not be removed.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2012, D.C. Law 19-124, § 203, 59 DCR 1862.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
-      </level>
+      <heading>Legislative History of Law 19-124</heading>
+      <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
     </level>
   </level>
 </level>

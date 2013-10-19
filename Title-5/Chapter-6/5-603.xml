@@ -1,7 +1,6 @@
 <level type="section">
   <num>5-603</num>
   <heading>Enforcement of right.</heading>
-  <formerly-cited-as>DC ST 1981 § 4-503</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>To enforce such right, the District of Columbia may:</text>
@@ -18,23 +17,23 @@
     <num>(b)</num>
     <text>Any employee of the District of Columbia who is required to appear as a party or witness in the prosecution of said action or proceeding is, when directed to participate in the preparation for trial or the trial thereof and while so engaged, in an active duty status.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 17, 1978, D.C. Law 2-100, § 4, 25 DCR 288.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 4-503.</text>
-        <text>1973 Ed., § 4-1003.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-100, see Historical and Statutory Notes following § 5-601.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 5-606.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 4-503.</text>
+      <text>1973 Ed., § 4-1003.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-100</heading>
+      <text>For legislative history of D.C. Law 2-100, see Historical and Statutory Notes following § 5-601.</text>
     </level>
   </level>
 </level>

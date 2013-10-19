@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-2802.01</num>
   <heading>Housing Production Trust Fund Board.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-3102.1</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There is hereby established a Housing Production Trust Fund Board. The Board shall advise the Mayor on the development, financing, and operation of the Fund and other matters related to the production of housing for low-income, very low-income, and extremely low-income households. The Board may review the uses of the Fund for their conformity with the purposes of this chapter and the Board shall have reasonable access to records related to the Fund to perform this review.</text>
@@ -54,34 +53,44 @@
     <num>(f)</num>
     <text>The Chairperson of the Board shall be designated by the Mayor with the advice and consent of the Council.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 16, 1989, D.C. Law 7-202, § 3a, as added June 8, 1990, D.C. Law 8- 133, § 2, 37 DCR 2369; Apr. 19, 2002, D.C. Law 14-114, § 501(c), 49 DCR 1468; Oct. 19, 2002, D.C. Law 14-213, § 28(b), 49 DCR 8140; Apr. 24, 2007, D.C. Law 16-305, § 63, 53 DCR 6198.)</text>
+      <heading>History</heading>
+      <text>(Mar. 16, 1989, D.C. Law 7-202, § 3a, as added June 8, 1990, D.C. Law 8-133, § 2, 37 DCR 2369; Apr. 19, 2002, D.C. Law 14-114, § 501(c), 49 DCR 1468; Oct. 19, 2002, D.C. Law 14-213, § 28(b), 49 DCR 8140; Apr. 24, 2007, D.C. Law 16-305, § 63, 53 DCR 6198.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-3102.1.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-114 rewrote this section which had read as follows:</text>
-        <text>"Any nongovernment member of a board established by the Mayor to administer or provide advice on the administration of the Housing Production Trust Fund shall be appointed by the Mayor with the advice and consent of the Council of the District of Columbia."</text>
-        <text>D.C. Law 14-213, in subsec. (c), validated a previously made technical correction; and in subsec. (d), substituted "9" for "11".</text>
-        <text>D.C. Law 16-305, in subsec. (b)(6), substituted "people with disabilities" for "the disabled".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>See Note to § 42-2801.</text>
-        <text>Law 8-88, the "Housing Production Trust Fund Board Amendment Temporary Act of 1989," was introduced in Council and assigned Bill No. 8-474. The Bill was adopted on first and second readings on November 21, 1989, and December 5, 1989, respectively. Approved without the signature of the Mayor on January 3, 1990, it was assigned Act No. 8-139 and transmitted to both Houses of Congress for its review. D.C. Law 8-88 became effective on March 15, 1990.</text>
-        <text>Law 8-133, the "Housing Production Trust Fund Board Amendment Act of 1990," was introduced in Council and assigned Bill No. 8-475, which was referred to the Committee on Housing and Economic Development. The Bill was adopted on first and second readings on February 27, 1990, and March 13, 1990, respectively. Approved without the signature of the Mayor on April 2, 1990, it was assigned Act No. 8-187 and transmitted to both Houses of Congress for its review. D.C. Law 8-133 became effective on March 15, 1990.</text>
-        <text>For Law 14-114, see notes following § 42-2102.</text>
-        <text>For Law 14-213, see notes following § 42-1102.</text>
-        <text>For Law 16-305, see notes following § 42-820.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-2801.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-3102.1.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-114 rewrote this section which had read as follows: "Any nongovernment member of a board established by the Mayor to administer or provide advice on the administration of the Housing Production Trust Fund shall be appointed by the Mayor with the advice and consent of the Council of the District of Columbia."</text>
+      <text>D.C. Law 14-213, in subsec. (c), validated a previously made technical correction; and in subsec. (d), substituted "9" for</text>
+      <text>See Note to § 42-2801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-88</heading>
+      <text>Law 8-88, the "Housing Production Trust Fund Board Amendment Temporary Act of 1989," was introduced in Council and assigned Bill No. 8-474. The Bill was adopted on first and second readings on November 21, 1989, and December 5, 1989, respectively. Approved without the signature of the Mayor on January 3, 1990, it was assigned Act No. 8-139 and transmitted to both Houses of Congress for its review. D.C. Law 8-88 became effective on March 15, 1990.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-133</heading>
+      <text>Law 8-133, the "Housing Production Trust Fund Board Amendment Act of 1990," was introduced in Council and assigned Bill No. 8-475, which was referred to the Committee on Housing and Economic Development. The Bill was adopted on first and second readings on February 27, 1990, and March 13, 1990, respectively. Approved without the signature of the Mayor on April 2, 1990, it was assigned Act No. 8-187 and transmitted to both Houses of Congress for its review. D.C. Law 8-133 became effective on March 15, 1990.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-114</heading>
+      <text>For Law 14-114, see notes following § 42-2102.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-213</heading>
+      <text>For Law 14-213, see notes following § 42-1102.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-305</heading>
+      <text>For Law 16-305, see notes following § 42-820.</text>
     </level>
   </level>
 </level>

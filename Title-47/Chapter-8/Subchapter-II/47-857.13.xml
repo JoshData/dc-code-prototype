@@ -1,6 +1,6 @@
 <level type="section">
   <num>47-857.13</num>
-  <heading>Tax abatements for nonprofit organizations locating in emerging commercial neighborhoods--Application and certification of eligibility.</heading>
+  <heading>Tax abatements for nonprofit organizations locating in emerging commercial neighborhoods - Application and certification of eligibility.</heading>
   <level>
     <num>(a)</num>
     <text>To be eligible to receive a tax abatement under § 47-857.12, a qualified nonprofit organization shall submit to the Mayor an application and the Mayor shall determine whether the organization is eligible to receive the real property tax abatement. The Mayor shall approve the applications by the eligible qualified nonprofit organizations in the order in which they are received subject to the provisions of this section and the caps established by § 47-857.15.</text>
@@ -49,22 +49,22 @@
     <num>(e)</num>
     <text>A qualified nonprofit organization shall not receive a real property tax abatement under § 47-857.11 through 47-857.16 if it has not received a certification of eligibility from the Mayor under this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 24, 2010, D.C. Law 18-223, § 7042(b), 57 DCR 6242.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 7042(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-223, see notes following § 47-355.05.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-857.12.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 7042(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 47-355.05.</text>
     </level>
   </level>
 </level>

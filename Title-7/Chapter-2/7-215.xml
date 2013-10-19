@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-215</num>
   <heading>Marriage registration.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-215</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Each completed application and completed license for each marriage performed in the District on or after the effective date of this chapter shall be filed with the Registrar and shall be registered if it has been completed and filed in accordance with this chapter.</text>
@@ -14,22 +13,18 @@
     <num>(c)</num>
     <text>A marriage record not filed within the required time may be registered according to regulations issued by the Registrar.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 8, 1981, D.C. Law 4-34, § 16, 28 DCR 3271.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-215.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-34, see Historical and Statutory Notes following § 7-201.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-215.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-34</heading>
+      <text>For legislative history of D.C. Law 4-34, see Historical and Statutory Notes following § 7-201.</text>
     </level>
   </level>
 </level>

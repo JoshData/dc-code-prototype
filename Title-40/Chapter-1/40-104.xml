@@ -1,35 +1,28 @@
 <level type="section">
   <num>40-104</num>
   <heading>Application of proceeds of sale.</heading>
-  <formerly-cited-as>DC ST 1981 § 38-204</formerly-cited-as>
   <text>The proceeds of such sale shall be applied:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>To the expenses of such sales and the discharge of such lien;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>To payment of other liens, if any, in the order of their priority; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>To the owner of the property.</text>
-    </level>
+    <num>(1)</num>
+    <text>To the expenses of such sales and the discharge of such lien;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>To payment of other liens, if any, in the order of their priority; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>To the owner of the property.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 3, 1952, 66 Stat. 97, ch. 361, § 4.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 38-204.</text>
-        <text>1973 Ed., § 38-207.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 38-204.</text>
+      <text>1973 Ed., § 38-207.</text>
     </level>
   </level>
 </level>

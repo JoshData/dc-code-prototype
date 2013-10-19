@@ -25,18 +25,14 @@
     <num>(c)</num>
     <text>In addition to those individuals required to complete the training program, the Department of Health may make the program available to any interested individual, including school personnel, parents, students, and athletes.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 20, 2011, D.C. Law 19-22, § 4, 58 DCR 6506.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-22, see notes under § 7-2871.01.</text>
-      </level>
+      <heading>Legislative History of Law 19-22</heading>
+      <text>For history of Law 19-22, see notes under § 7-2871.01.</text>
     </level>
   </level>
 </level>

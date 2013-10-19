@@ -3,43 +3,37 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>"Department of Health" means the District of Columbia Department of Health.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Engineered sharps injury protection" means a physical attribute built into a sharp that effectively reduces the risk of an exposure incident by a mechanism such as a barrier creation, blunting, encapsulation, withdrawal, retraction, destruction, or other effective mechanisms.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Exposure incident" means contact with blood or other potentially infectious materials that results from a sharp injury.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Person" means any individual, corporation, or other such entity that sells, distributes, uses, or possesses sharps.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Sharp" means any medical device that is or contains a needle.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Sharps injury" means any injury caused by a sharp, including cuts, abrasions, or needlesticks.</text>
-    </level>
+    <num>(1)</num>
+    <text>"Department of Health" means the District of Columbia Department of Health.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Engineered sharps injury protection" means a physical attribute built into a sharp that effectively reduces the risk of an exposure incident by a mechanism such as a barrier creation, blunting, encapsulation, withdrawal, retraction, destruction, or other effective mechanisms.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Exposure incident" means contact with blood or other potentially infectious materials that results from a sharp injury.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Person" means any individual, corporation, or other such entity that sells, distributes, uses, or possesses sharps.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Sharp" means any medical device that is or contains a needle.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Sharps injury" means any injury caused by a sharp, including cuts, abrasions, or needlesticks.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 4, 2001, D.C. Law 13-272, § 2, 48 DCR 1633.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 13-272, the "Safe Needle Act of 2000", was introduced in Council and assigned Bill No. 13-266, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on December 5, 2000, and December 19, 2000, respectively. Signed by the Mayor on January 16, 2001, it was assigned Act No. 13-565 and transmitted to both Houses of Congress for its review. D.C. Law 13-272 became effective on April 4, 2001.</text>
-      </level>
+      <heading>Legislative History of Law 13-272</heading>
+      <text>Law 13-272, the "Safe Needle Act of 2000", was introduced in Council and assigned Bill No. 13-266, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on December 5, 2000, and December 19, 2000, respectively. Signed by the Mayor on January 16, 2001, it was assigned Act No. 13-565 and transmitted to both Houses of Congress for its review. D.C. Law 13-272 became effective on April 4, 2001.</text>
     </level>
   </level>
 </level>

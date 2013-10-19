@@ -3,11 +3,11 @@
   <heading>Judicial review and administrative appeals.</heading>
   <level>
     <num>(a)</num>
-    <text>An order of the Office shall be effective upon its issuance, unless stayed by an Administrative Law Judge <text i="True">sua sponte</text> or upon motion of any party. Any party may file a motion for reconsideration of an order or a motion for a new trial within 10 calendar days of service of an order. Unless otherwise ordered by an Administrative Law Judge, the filing of such a motion shall not stay the effectiveness of an order. If such a motion is timely filed, the order shall not be final for purposes of judicial review until the motion is ruled upon by the Administrative Law Judge or is denied by operation of law.</text>
+    <text>An order of the Office shall be effective upon its issuance, unless stayed by an Administrative Law Judge <span style="font-style: italic; ">sua sponte </span>or upon motion of any party. Any party may file a motion for reconsideration of an order or a motion for a new trial within 10 calendar days of service of an order. Unless otherwise ordered by an Administrative Law Judge, the filing of such a motion shall not stay the effectiveness of an order. If such a motion is timely filed, the order shall not be final for purposes of judicial review until the motion is ruled upon by the Administrative Law Judge or is denied by operation of law.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>Any agency, board, commission, or body of an agency identified in subchapter III of this chapter, other than the Board of Appeals and Review, shall retain jurisdiction to entertain and determine appeals from orders of Administrative Law Judges, as granted in that chapter. The Rental Housing Commission shall have jurisdiction to review orders of the Office in all adjudicated cases brought pursuant to Chapter 35 of Title 42. A board or commission that delegates a matter pursuant to § 2-1831.03(i) shall have jurisdiction of any appeal by any party from an order of an Administrative Law Judge issued in that matter.</text>
+    <text>Any agency, board, commission, or body of an agency identified in subchapter III of this chapter, other than the Board of Appeals and Review, shall retain jurisdiction to entertain and determine appeals from orders of Administrative Law Judges, as granted in that chapter. The Rental Housing Commission shall have jurisdiction to review orders of the Office in all adjudicated cases brought pursuant to Chapter 35 of Title 42 [§ 42-501.01 et seq.]. A board or commission that delegates a matter pursuant to § 2-1831.03(i) shall have jurisdiction of any appeal by any party from an order of an Administrative Law Judge issued in that matter.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -33,33 +33,39 @@
     <num>(h)</num>
     <text>Notwithstanding any other provision of law, neither the Office nor an Administrative Law Judge shall be a party in any proceeding brought by a party in any court seeking judicial review of any order of the Office, or of any order of an agency head or governing board, commission, or body of an agency that decides any appeal from any order of the Office. Only the parties before the Office or any other party permitted to participate by the reviewing court shall be parties in any such proceeding for judicial review.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 6, 2002, D.C. Law 14-76, § 19, 48 DCR 11442; Dec. 7, 2004, D.C. Law 15-217, § 3(c), 51 DCR 9126; Apr. 4, 2006, D.C. Law 16-83, § 2(e), 53 DCR 1059.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-217 added the last sentence to subsec. (b).</text>
-        <text>D.C. Law 16-83, in subsec. (b), substituted "The Rental Housing Commission shall have jurisdiction to review orders of the Office in all adjudicated cases brought pursuant to Chapter 35 of Title 42." for "The Rental Housing Commission shall have jurisdiction to review orders of the Office in all adjudicated cases in which the Rent Administrator, or his or her designee, would have had jurisdiction but for the enactment of this chapter."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Office of Administrative Hearings Establishment Emergency Amendment Act of 2004 (D.C. Act 15-513, August 2, 2004, 51 DCR 8976).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Office of Administrative Hearings Establishment Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-553, October 26, 2004, 51 DCR 10359).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Administrative Hearings Rental Housing Emergency Amendment Act of 2005 (D.C. Act 16-181, October 4, 2005, 52 DCR 9085).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(e) of Second Office of Administrative Hearings Rental Housing Emergency Amendment Act of 2005 (D.C. Act 16-246, December 22, 2005, 53 DCR 274).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(e) of Office of Administrative Hearings Rental Housing Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-333, March 23, 2006, 53 DCR 2596).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-76, see notes following § 2-1831.01.</text>
-        <text>For Law 15-217, see notes following § 2-1831.03.</text>
-        <text>For Law 16-83, see notes following § 2-1831.03.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1803.01, § 2-1803.02, § 2-1831.03, § 47-2885.21, and § 47-4312.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-217 added the last sentence to subsec. (b).</text>
+      <text>D.C. Law 16-83, in subsec. (b), substituted "The Rental Housing Commission shall have jurisdiction to review orders of the Office in all adjudicated cases brought pursuant to Chapter 35 of Title 42." for "The Rental Housing Commission shall have jurisdiction to review orders of the Office in all adjudicated cases in which the Rent Administrator, or his or her designee, would have had jurisdiction but for the enactment of this chapter."</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Office of Administrative Hearings Establishment Emergency Amendment Act of 2004 (D.C. Act 15-513, August 2, 2004, 51 DCR 8976).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Office of Administrative Hearings Establishment Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-553, October 26, 2004, 51 DCR 10359).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Administrative Hearings Rental Housing Emergency Amendment Act of 2005 (D.C. Act 16-181, October 4, 2005, 52 DCR 9085).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(e) of Second Office of Administrative Hearings Rental Housing Emergency Amendment Act of 2005 (D.C. Act 16-246, December 22, 2005, 53 DCR 274).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(e) of Office of Administrative Hearings Rental Housing Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-333, March 23, 2006, 53 DCR 2596).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-76</heading>
+      <text>For Law 14-76, see notes following § 2-1831.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-217</heading>
+      <text>For Law 15-217, see notes following § 2-1831.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-83</heading>
+      <text>For Law 16-83, see notes following § 2-1831.03.</text>
     </level>
   </level>
 </level>

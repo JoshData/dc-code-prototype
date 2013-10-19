@@ -2,18 +2,14 @@
   <num>5-133.04a</num>
   <heading>Watchmen at Municipal Building.</heading>
   <text>Policemen shall not be detailed for duty as watchmen at the Municipal Building.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 3, 1909, 35 Stat. 689, ch. 250, as added June 16, 2006, D.C. Law 16- 127, § 2, 53 DCR 4712.)</text>
+      <heading>History</heading>
+      <text>(Mar. 3, 1909, 35 Stat. 689, ch. 250, as added June 16, 2006, D.C. Law 16-127, § 2, 53 DCR 4712.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 16-127, the "Government Facility Security Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-388 which was referred to the Committees on the Judiciary and Government Operations. The Bill was adopted on first and second readings on March 7, 2006, and April 4, 2006, respectively. Signed by the Mayor on April 21, 2006, it was assigned Act No. 16-345 and transmitted to both Houses of Congress for its review. D.C. Law 16-127 became effective on June 16, 2006.</text>
-      </level>
+      <heading>Legislative History of Law 16-127</heading>
+      <text>Law 16-127, the "Government Facility Security Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-388 which was referred to the Committees on the Judiciary and Government Operations. The Bill was adopted on first and second readings on March 7, 2006, and April 4, 2006, respectively. Signed by the Mayor on April 21, 2006, it was assigned Act No. 16-345 and transmitted to both Houses of Congress for its review. D.C. Law 16-127 became effective on June 16, 2006.</text>
     </level>
   </level>
 </level>

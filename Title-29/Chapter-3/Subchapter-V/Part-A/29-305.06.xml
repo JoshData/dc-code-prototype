@@ -3,7 +3,7 @@
   <heading>Waiver of notice.</heading>
   <level>
     <num>(a)</num>
-    <text>A shareholder may waive any notice required by this chapter, the articles of incorporation, or bylaws before or after the date and time stated in the notice. The waiver shall be in writing, be signed by the shareholder entitled to the notice, and be delivered to the corporation for inclusion in the minutes or filing with the corporate records.</text>
+    <text>A shareholder may waive any notice required by this chapter, the articles of incorporation, or bylaws before or after the date and time stated in the notice. The waiver shall be in a record, be signed by the shareholder entitled to the notice, and be delivered to the corporation for inclusion in the minutes or filing with the corporate records.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -17,18 +17,26 @@
       <text>Consideration of a particular matter at the meeting that is not within the purpose described in the meeting notice, unless the shareholder objects to considering the matter when it is presented.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(c)(9), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "in a record" for "in writing" in (a).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-301.03.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

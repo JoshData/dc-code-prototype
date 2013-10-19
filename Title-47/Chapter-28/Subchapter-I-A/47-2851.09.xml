@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-2851.09</num>
   <heading>License expiration date.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-2851.9</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -10,7 +9,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Notwithstanding any other provision of law, every license issued in accordance with this subchapter shall be valid for 2 years from the date of issue, unless earlier revoked or voluntarily relinquished, and licenses shall be issued on a staggered basis, using as the renewal date the date of incorporation, if the business is incorporated, the date of organization, if the business is unincorporated, or the birth date of the principal if the business is a sole proprietorship.</text>
+      <text>Notwithstanding any other provision of law, every license issued in accordance with this subchapter shall be valid for either 2 or 4 years from the date of issue, depending on which license term the applicant selects, unless earlier revoked or voluntarily relinquished, and licenses shall be issued on a staggered basis, using as the renewal date the date of incorporation if the business is incorporated, the date of organization if the business is unincorporated, or the birth date of the principal if the business is a sole proprietorship. The fee charged for a 4-year license renewal shall be twice that of a 2-year license renewal.</text>
     </level>
     <level>
       <num>(3)</num>
@@ -21,32 +20,43 @@
     <num>(b)</num>
     <text>All renewable licenses endorsed on a basic business license shall be renewed by the Center under conditions originally imposed unless a regulatory agency advises the Center of conditions or denials to be imposed before the endorsement is renewed.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Apr. 29, 1998, D.C. Law 12-86, § 101(b), 45 DCR 1172; Apr. 20, 1999, D.C. Law 12-261, § 2002(b), 46 DCR 3142; Oct. 28, 2003, D.C. Law 15-38, § 2(k), 50 DCR 6913.)</text>
+      <heading>History</heading>
+      <text>(Apr. 29, 1998, D.C. Law 12-86, § 101(b), 45 DCR 1172; Apr. 20, 1999, D.C. Law 12-261, § 2002(b), 46 DCR 3142; Oct. 28, 2003, D.C. Law 15-38, § 2(k), 50 DCR 6913; Apr. 23, 2013, D.C. Law 19-277, § 2(a), 60 DCR 2117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-2851.9.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-38 substituted "basic" for "master" throughout the section.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(k) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003, 50 DCR 6896).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-86, see Historical and Statutory Notes following § 47-2851.01.</text>
-        <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
-        <text>For Law 15-38, see notes following § 47-2404.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-2805.01, § 47-2851.05, and § 47-2851.15.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-2851.9.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-38 substituted "basic" for "master" throughout the section.</text>
+      <text>The 2013 amendment by D.C. Law 19-277 rewrote (a)(2).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(k) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003, 50 DCR 6896).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-86</heading>
+      <text>For legislative history of D.C. Law 12-86, see Historical and Statutory Notes following § 47-2851.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-261</heading>
+      <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-38</heading>
+      <text>For Law 15-38, see notes following § 47-2404.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-277</heading>
+      <text>Law 19-277, the "Basic Business License Renewal Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-825. The Bill was adopted on first and second readings on Dec. 4, 2012 and Dec. 18, 2012, respectively. Signed by the Mayor on Jan. 25, 2013, it was assigned Act No. 19-642 and transmitted to Congress for its review. D.C. Law 19-277 became effective on April 23, 2013.</text>
     </level>
   </level>
 </level>

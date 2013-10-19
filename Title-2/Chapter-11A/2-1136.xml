@@ -34,7 +34,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Such changes are supported by a majority of the voting members of the Regional Authority, notwithstanding the quorum requirements of § 2- 1133(e)(5).</text>
+      <text>Such changes are supported by a majority of the voting members of the Regional Authority, notwithstanding the quorum requirements of § 2-1133(e)(5).</text>
     </level>
   </level>
   <level>
@@ -117,18 +117,18 @@
       <text>Any additional powers granted to it by act.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 13, 2002, D.C. Law 14-63, § 7, 48 DCR 10549.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-63, see notes following § 2-1131.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1135 and § 2-1137.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-63</heading>
+      <text>For Law 14-63, see notes following § 2-1131.</text>
     </level>
   </level>
 </level>

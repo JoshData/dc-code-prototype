@@ -3,59 +3,53 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Foreign jurisdiction" means a state other than the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Foreign subpoena" means a subpoena issued under authority of a court of record of a foreign jurisdiction.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government, or governmental subdivision, agency or instrumentality, or any other legal or commercial entity.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Subpoena" means a document, however denominated, issued under authority of a court of record requiring a person to:</text>
     <level>
-      <num>(1)</num>
-      <text>"Foreign jurisdiction" means a state other than the District of Columbia.</text>
+      <num>(A)</num>
+      <text>Attend and give testimony at a deposition;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Foreign subpoena" means a subpoena issued under authority of a court of record of a foreign jurisdiction.</text>
+      <num>(B)</num>
+      <text>Produce and permit inspection and copying of designated books, documents, records, electronically stored information, or tangible things in the possession, custody, or control of the person; or</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>"Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government, or governmental subdivision, agency or instrumentality, or any other legal or commercial entity.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Subpoena" means a document, however denominated, issued under authority of a court of record requiring a person to:</text>
-      <level>
-        <num>(A)</num>
-        <text>Attend and give testimony at a deposition;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Produce and permit inspection and copying of designated books, documents, records, electronically stored information, or tangible things in the possession, custody, or control of the person; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Permit inspection of premises under the control of the person.</text>
-      </level>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Superior Court" means the Superior Court of the District of Columbia.</text>
+      <num>(C)</num>
+      <text>Permit inspection of premises under the control of the person.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(6)</num>
+    <text>"Superior Court" means the Superior Court of the District of Columbia.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 22, 2010, D.C. Law 18-147, § 2(b), 57 DCR 2552.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-147, see notes following § 13-441.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 2 of the Uniform Interstate Depositions and Discovery Act. See Vol. 13, Pt. II, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 18-147</heading>
+      <text>For Law 18-147, see notes following § 13-441.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 2 of the Uniform Interstate Depositions and Discovery Act.</text>
     </level>
   </level>
 </level>

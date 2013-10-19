@@ -9,18 +9,14 @@
     <num>(b)</num>
     <text>A cable operator shall exercise its best efforts to design, construct, operate, and maintain the system at all times so that signals carried are delivered to subscribers without material degradation in quality.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 21, 1982, D.C. Law 4-142, § 702, as added Oct. 9, 2002, D.C. Law 14-193, § 2(b), 49 DCR 7334.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-193, see notes following § 34-1251.01.</text>
-      </level>
+      <heading>Legislative History of Law 14-193</heading>
+      <text>For Law 14-193, see notes following § 34-1251.01.</text>
     </level>
   </level>
 </level>

@@ -1,35 +1,28 @@
 <level type="section">
   <num>6-504</num>
   <heading>Review of excavation, grading, filling, or construction permit applications; mudslide hazards.</heading>
-  <formerly-cited-as>DC ST 1981 § 5-304</formerly-cited-as>
   <text>The Mayor shall review each permit application for any excavation, grading, fill, or construction to determine whether the proposed site and improvements will be reasonably safe from mudslides. If a proposed site and improvements are in a location that may have mudslide hazards, a further review shall be made by persons qualified in geology and soils engineering; and the proposed new construction, substantial improvement, or grading must:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Be adequately protected against mudslide damage; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Not aggravate the existing hazard.</text>
-    </level>
+    <num>(1)</num>
+    <text>Be adequately protected against mudslide damage; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Not aggravate the existing hazard.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 26, 1976, D.C. Law 1-64, § 5, 22 DCR 7146.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 5-304.</text>
-        <text>1973 Ed., § 5-1104.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-64, see Historical and Statutory Notes following § 6-501.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 5-304.</text>
+      <text>1973 Ed., § 5-1104.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-64</heading>
+      <text>For legislative history of D.C. Law 1-64, see Historical and Statutory Notes following § 6-501.</text>
     </level>
   </level>
 </level>

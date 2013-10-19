@@ -2,25 +2,27 @@
   <num>50-1608</num>
   <heading>Child safety helmet assistance program.</heading>
   <text>The District Department of Transportation shall adopt a helmet assistance program which shall include grants and discount programs to assist indigent parents and guardians of children under 16 years of age in obtaining safety helmets.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1985, D.C. Law 5-179, § 9, 32 DCR 764, as added May 23, 2000, D.C. Law 13-112, § 2(b), 47 DCR 1985; July 18, 2008, D.C. Law 17-184, § 2(d), 55 DCR 6101; Mar. 25, 2009, D.C. Law 17-353, § 238(d), 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-184 substituted "District Department of Transportation" for "District of Columbia Department of Public Works".</text>
-        <text>D.C. Law 17-353 validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-112, see notes following § 50-1601.</text>
-        <text>For Law 17-184, see notes following § 50-1603.</text>
-        <text>For Law 17-353, see notes following § 50-324.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-184 substituted "District Department of Transportation" for "District of Columbia Department of Public Works".</text>
+      <text>D.C. Law 17-353 validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-112</heading>
+      <text>For Law 13-112, see notes following § 50-1601.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-184</heading>
+      <text>For Law 17-184, see notes following § 50-1603.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 50-324.</text>
     </level>
   </level>
 </level>

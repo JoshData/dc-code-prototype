@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-204.31</num>
   <heading>Judicial powers.</heading>
-  <formerly-cited-as>DC ST 1981 § 431</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The judicial power of the District is vested in the District of Columbia Court of Appeals and the Superior Court of the District of Columbia. The Superior Court has jurisdiction of any civil action or other matter (at law or in equity) brought in the District and of any criminal case under any law applicable exclusively to the District. The Superior Court has no jurisdiction over any civil or criminal matter over which a United States court has exclusive jurisdiction pursuant to an Act of Congress. The Court of Appeals has jurisdiction of appeals from the Superior Court and, to the extent provided by law, to review orders and decisions of the Mayor, the Council, or any agency of the District. The District of Columbia courts shall also have jurisdiction over any other matters granted to the District of Columbia courts by other provisions of law.</text>
@@ -12,7 +11,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>A judge of a District of Columbia court appointed on or after the date of enactment of the District of Columbia Court Reorganization Act of 1970 [July 29, 1970] shall be appointed for a term of fifteen years subject to mandatory retirement at age seventy-four or removal, suspension, or involuntary retirement pursuant to § 1-204.32 and upon completion of such term, such judge shall continue to serve until reappointed or a successor is appointed and qualifies. A judge may be reappointed as provided in subsection (c) of § 1- 204.33.</text>
+    <text>A judge of a District of Columbia court appointed on or after the date of enactment of the District of Columbia Court Reorganization Act of 1970 [July 29, 1970] shall be appointed for a term of fifteen years subject to mandatory retirement at age seventy-four or removal, suspension, or involuntary retirement pursuant to § 1-204.32 and upon completion of such term, such judge shall continue to serve until reappointed or a successor is appointed and qualifies. A judge may be reappointed as provided in subsection (c) of § 1-204.33.</text>
   </level>
   <level>
     <num>(d)</num>
@@ -37,7 +36,7 @@
     <num>(e)</num>
     <level>
       <num>(1)</num>
-      <text>No person may be appointed to the Tenure Commission unless such person --</text>
+      <text>No person may be appointed to the Tenure Commission unless such person -</text>
       <level>
         <num>(A)</num>
         <text>is a citizen of the United States;</text>
@@ -48,7 +47,7 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>is not an officer or employee of the legislative branch or of an executive or military department or agency of the United States (listed in sections 101 and 102 of title 5 of the United States Code); and (except with respect to the person appointed or designated according to paragraph (3) (E)) is not an officer or employee of the judicial branch of the United States, or an officer or employee of the District government (including its judicial branch).</text>
+        <text>is not an officer or employee of the legislative branch or of an executive or military department or agency of the United States (listed in sections 101 and 102 of title 5 of the United States Code); and (except with respect to the person appointed or designated according to paragraph (3)(E)) is not an officer or employee of the judicial branch of the United States, or an officer or employee of the District government (including its judicial branch).</text>
       </level>
     </level>
     <level>
@@ -89,19 +88,19 @@
     <num>(g)</num>
     <text>The Tenure Commission shall have the power to suspend, retire, or remove a judge of a District of Columbia court as provided in § 1-204.32 and to make recommendations regarding the appointment of senior judges of the District of Columbia courts as provided in § 11-1504.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 24, 1973, 87 Stat. 792, Pub. L. 93-198, title IV, § 431; Oct. 13, 1977, 91 Stat. 1155, Pub. L. 95-131, § 3(a); Oct. 30, 1984, 98 Stat. 3142, Pub. L. 98-598, § 2(b); Oct. 28, 1986, 100 Stat. 3228, Pub. L. 99-573, § 4; June 13, 1994, Pub. L. 103-266, §§ 2(b)(1), 2(b)(2), 2(b)(3), 108 Stat. 713.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., Title 11, appx., § 431.</text>
-        <text>1973 Ed., Title 11, appx., § 431.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 11-908A.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., Title 11, appx., § 431.</text>
+      <text>1973 Ed., Title 11, appx., § 431.</text>
     </level>
   </level>
 </level>

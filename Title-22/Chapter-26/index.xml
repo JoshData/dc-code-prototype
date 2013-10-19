@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>26</num>
-  <heading>Prison Misconduct.</heading>
-  <level>
-    <text>DC CODE D. IV, T. 22, Subt. I, Ch. 26, Refs &amp; Annos</text>
-  </level>
+  <heading>Prison Misconduct</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-III/index.xml"/>

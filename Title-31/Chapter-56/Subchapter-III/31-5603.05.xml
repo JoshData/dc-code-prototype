@@ -1,12 +1,12 @@
 <level type="section">
   <num>31-5603.05</num>
-  <heading>Offer and sale of an indefinite amount of securities</heading>
+  <heading>Offer and sale of an indefinite amount of securities.</heading>
   <level>
     <num>(a)</num>
     <text>A face-amount certificate company, an open-end management company, a closed-end management company that is not a federal covered security under section 18(b)(1) of the Securities Act of 1933, or a unit investment trust, as those terms are defined in the Investment Company Act of 1940, shall comply with the requirements of this section if the company or trust files:</text>
     <level>
       <num>(1)</num>
-      <text>A notice under § 31-5603.08 of the offer or sale in the District of an indefinite amount of federal covered securities specified in section 18(b)(2) of the Securities Act of 1933; or</text>
+      <text>A notice under § 31-5603.08 of the offer or sale in the District of an indefinite amount of federal covered securities specified in section 18(b)(2) of the Securities Act of 1933 [15 U.S.C. § 77r]; or</text>
     </level>
     <level>
       <num>(2)</num>
@@ -51,11 +51,11 @@
     <num>(c)</num>
     <level>
       <num>(1)</num>
-      <text>At the time of the filing, a unit investment trust or a closed-end management company that is not a federal covered security under section 18(b)(1) of the Securities Act of 1933 shall pay an initial fee established by rule.</text>
+      <text>At the time of the filing, a unit investment trust or a closed-end management company that is not a federal covered security under section 18(b)(1) of the Securities Act of 1933 [15 U.S.C. § 77r] shall pay an initial fee established by rule.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Within 60 days after the anniversary of the date on which the issuer's offer became effective or its notice filed under § 31-5603.08 was accepted, a unit investment trust or closed-end management fund that is not a federal covered security under section 18(b)(1) of the Securities Act of 1933 shall:</text>
+      <text>Within 60 days after the anniversary of the date on which the issuer's offer became effective or its notice filed under § 31-5603.08 was accepted, a unit investment trust or closed-end management fund that is not a federal covered security under section 18(b)(1) of the Securities Act of 1933 [15 U.S.C. § 77r] shall:</text>
       <level>
         <num>(A)</num>
         <text>Pay a fee in an amount established by rule; or</text>
@@ -92,23 +92,26 @@
       <text>If the Commissioner extends a renewal period in excess of one year, the fee shall be prorated for the extended renewal period.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 26, 2000, D.C. Law 13-203, § 305, 47 DCR 7837; June 25, 2002, D.C. Law 14-150, § 2(h), 49 DCR 4238.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-150, in subsec. (a), substituted "open-end" for "open"; and in subsec. (c)(3)(B)(iii), substituted "(C) If" for "(iii) If".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-203, see notes following § 31-5601.01.</text>
-        <text>For Law 14-150, see notes following § 31-5601.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-5603.07 and § 31-5606.05.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-150, in subsec. (a), substituted "open-end" for "open"; and in subsec. (c)(3)(B)(iii), substituted "(C) If" for "(iii) If".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-203</heading>
+      <text>For Law 13-203, see notes following § 31-5601.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-150</heading>
+      <text>For Law 14-150, see notes following § 31-5601.01.</text>
     </level>
   </level>
 </level>

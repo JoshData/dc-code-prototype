@@ -32,23 +32,22 @@
     <num>(d)</num>
     <text>A purported waiver of rights to legal action by a consumer within an assistive technology device purchase agreement or assistive technology device lease agreement shall be void.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 26, 2010, D.C. Law 18-241, § 3, 57 DCR 7550; Sept. 26, 2012, D.C. Law 19-171, § 83(d), 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-171 enacted into law Chapter 40A of Title 28.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-241, see notes under § 28-4031.</text>
-        <text>For history of Law 19-171, see notes under § 28-3814.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-171 made a technical correction to D.C. Law 18-241 which did not affect this section as codified.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-241</heading>
+      <text>For history of Law 18-241, see notes under § 28-4031.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 28-4031.</text>
     </level>
   </level>
 </level>

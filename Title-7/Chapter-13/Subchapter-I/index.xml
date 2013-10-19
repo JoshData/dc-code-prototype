@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Statement of Purpose; Definitions.</heading>
-  <level>
-    <text>DC CODE D. I, T. 7, Subt. D, Ch. 13, Subch. I, Refs &amp; Annos</text>
-  </level>
+  <heading>Statement of Purpose; Definitions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1301.01~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1301.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1301.03.xml"/>

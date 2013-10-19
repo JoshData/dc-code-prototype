@@ -112,27 +112,36 @@
       <text>A 2-year District Green Building Plan updated annually, with goals and associated projections of expenditures for the upcoming fiscal year, produced in consultation with the GBAC.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2007, D.C. Law 16-234, § 10, 54 DCR 377; Mar. 31, 2011, D.C. Law 18-349, § 2(f), 58 DCR 724; June 5, 2012, D.C. Law 19-139, § 2(h), 59 DCR 2555; Sept. 26, 2012, D.C. Law 19-171, § 46, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-349 substituted "DDOE" for "The Department of the Environment" or "the Department of the Environment ".</text>
-        <text>D.C. Law 19-139, in subsec. (c)(1)(C), substituted "Department of General Services" for "Office of Property Management"; in subsec. (c)(1)(G), substituted "building permit" for "building construction permit"; and added subsec. (g).</text>
-        <text>D.C. Law 19-171, in subsec. (c)(1)(C), "Department of General Services" for "Office of Property Management".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-234, see notes following § 6-1451.01.</text>
-        <text>For history of Law 18-349, see notes under § 6-1451.01.</text>
-        <text>For history of Law 19-139, see notes under § 6-1412.</text>
-        <text>For history of Law 19-171, see notes under § 6-225.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-1451.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-349 substituted "DDOE" for "The Department of the Environment" or "the Department of the Environment ".</text>
+      <text>D.C. Law 19-139, in subsec. (c)(1)(C), substituted "Department of General Services" for "Office of Property Management"; in subsec. (c)(1)(G), substituted "building permit" for "building construction permit"; and added subsec. (g).</text>
+      <text>The 2012 amendment by D.C. Law 19-171 substituted "Department of General Services" for "Office of Property Management" in (c)(1)(C).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-234</heading>
+      <text>For Law 16-234, see notes following § 6-1451.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-349</heading>
+      <text>For history of Law 18-349, see notes under § 6-1451.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-139</heading>
+      <text>For history of Law 19-139, see notes under § 6-1412.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 6-1451.03.</text>
     </level>
   </level>
 </level>

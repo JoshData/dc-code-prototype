@@ -1,7 +1,6 @@
 <level type="section">
   <num>50-505</num>
   <heading>Disclosure of damages or defects in used motor vehicles; violations; penalties.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-1305</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>No motor vehicle dealer may offer for sale any used motor vehicle without first providing:</text>
@@ -38,23 +37,26 @@
     <num>(e)</num>
     <text>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this chapter, or the rules or regulations issued under the authority of this chapter, pursuant to Chapter 18 of Title 2. Adjudication of any infraction shall be pursuant to Chapter 18 of Title 2.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 1985, D.C. Law 5-162, § 6, 32 DCR 160; Oct. 5, 1985, D.C. Law 6-42, § 402, 32 DCR 4450.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-1305.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-162, see Historical and Statutory Notes following § 50-501.</text>
-        <text>For legislative history of D.C. Law 6-42, see Historical and Statutory Notes following § 50-607.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 50-501 and § 50-503.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-1305.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-162</heading>
+      <text>For legislative history of D.C. Law 5-162, see Historical and Statutory Notes following § 50-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-42</heading>
+      <text>For legislative history of D.C. Law 6-42, see Historical and Statutory Notes following § 50-607.</text>
     </level>
   </level>
 </level>

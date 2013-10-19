@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>17P</num>
-  <heading>Smart Lighting.</heading>
+  <heading>Smart Lighting</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1776.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1776.02.xml"/>
 </level>

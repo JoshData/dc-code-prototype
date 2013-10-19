@@ -9,18 +9,14 @@
     <num>(b)</num>
     <text>The compilation, including any supplements or revisions, shall be made available to the public at a price fixed by the Mayor.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 15, 2006, D.C. Law 16-51, § 114, 52 DCR 10812.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-51, see notes following § 8-151.01.</text>
-      </level>
+      <heading>Legislative History of Law 16-51</heading>
+      <text>For Law 16-51, see notes following § 8-151.01.</text>
     </level>
   </level>
 </level>

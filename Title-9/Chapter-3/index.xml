@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>3</num>
-  <heading>Bridges, Viaducts, and Subways.</heading>
-  <level>
-    <text>DC CODE D. I, T. 9, Subt. I, Ch. 3, Refs &amp; Annos</text>
-  </level>
+  <heading>Bridges, Viaducts, and Subways</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-301.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-302.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-303.xml"/>

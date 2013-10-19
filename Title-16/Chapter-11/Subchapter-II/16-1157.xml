@@ -1,36 +1,29 @@
 <level type="section">
   <num>16-1157</num>
   <heading>Preservation of life tenants' rights if living at time of return.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-1157</formerly-cited-as>
   <text>When a guardian, trustee, or other person holding an estate or interest determinable upon the life of another person, shows by affidavit or otherwise to the satisfaction of the court, that:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>he has used his utmost efforts to procure the tenant for life to appear in the court or elsewhere, according to the order of the court;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>he can not procure or compel him so to appear; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>the tenant for life is or was living at the time of the return made and filed, as prescribed by this subchapter --</text>
-    </level>
+    <num>(1)</num>
+    <text>he has used his utmost efforts to procure the tenant for life to appear in the court or elsewhere, according to the order of the court;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>he can not procure or compel him so to appear; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>the tenant for life is or was living at the time of the return made and filed, as prescribed by this subchapter -</text>
   </level>
   <text>he may continue in the possession of the estate, and receive the rents and profits for and during the infancy of the infant, or for and during the life of any other person on whose life the estate or interest depends.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, 77 Stat. 570, Pub. L. 88-241, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-1157.</text>
-        <text>1973 Ed., § 16-1157.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-1157.</text>
+      <text>1973 Ed., § 16-1157.</text>
     </level>
   </level>
 </level>

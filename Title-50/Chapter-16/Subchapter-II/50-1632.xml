@@ -1,7 +1,6 @@
 <level type="section">
   <num>50-1632</num>
   <heading>Licensing; violations; identification numbers.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-1412</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as provided in subsection (e) of this section, no commercial bicycle operator shall operate within the District of Columbia without a license issued by the Mayor. A commercial bicycle operator shall pass a bicycle safety test developed by the Mayor in order to receive a commercial bicycle operator's license.</text>
@@ -58,26 +57,26 @@
     <num>(e)</num>
     <text>Commercial bicycle operators operating in the District of Columbia as of March 29, 1988 shall obtain a license from the Mayor within 180 days of March 29, 1988.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 29, 1988, D.C. Law 7-97, § 3, 35 DCR 1045.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-1412.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-97, see Historical and Statutory Notes following § 50-1631.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority pursuant to D.C. Law 7-97, "Commercial Bicycle Operators Licensing Act of 1987.", see Mayor's Order 88-174, July 29, 1988.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 50-1631 and § 50-1634.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-1412.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-97</heading>
+      <text>For legislative history of D.C. Law 7-97, see Historical and Statutory Notes following § 50-1631.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority pursuant to D.C. Law 7-97, "Commercial Bicycle Operators Licensing Act of 1987.", see Mayor's Order 88-174, July 29, 1988.</text>
     </level>
   </level>
 </level>

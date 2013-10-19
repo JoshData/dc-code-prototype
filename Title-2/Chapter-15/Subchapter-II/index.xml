@@ -1,8 +1,8 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Commission on Youth Affairs. [Repealed]</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1521~P.xml"/>
+  <heading>Commission on Youth Affairs</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1521.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1522~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1523~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1524~P.xml"/>

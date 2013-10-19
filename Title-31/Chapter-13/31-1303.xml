@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1303</num>
   <heading>Jurisdiction and venue.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-2803</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>No delinquency proceeding shall be commenced under this chapter by anyone other than the Commissioner of the Department of Insurance, Securities, and Banking and no court shall have jurisdiction to entertain, hear, or determine any proceeding commenced by any other person.</text>
@@ -42,32 +41,34 @@
     <num>(e)</num>
     <text>All action authorized in this section shall be brought in the Superior Court of the District of Columbia.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 15, 1993, D.C. Law 10-35, § 4, 40 DCR 5773; May 21, 1997, D.C. Law 11-268, § 10(z)(2), 44 DCR 1730; June 11, 2004, D.C. Law 15-166, § 4(i)(2), 51 DCR 2817.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-2803.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-166, in subsec. (a), substituted "Commissioner of the Department of Insurance, Securities, and Banking" for "Commissioner of Insurance and Securities".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 4(i)(2) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-35, see Historical and Statutory Notes following § 31-1301.</text>
-        <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-1301.</text>
-        <text>For Law 15-166, see notes following § 31-1004.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-2803.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-166, in subsec. (a), substituted "Commissioner of the Department of Insurance, Securities, and Banking" for "Commissioner of Insurance and Securities".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 4(i)(2) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-35</heading>
+      <text>For legislative history of D.C. Law 10-35, see Historical and Statutory Notes following § 31-1301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-1301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-166</heading>
+      <text>For Law 15-166, see notes following § 31-1004.</text>
     </level>
   </level>
 </level>

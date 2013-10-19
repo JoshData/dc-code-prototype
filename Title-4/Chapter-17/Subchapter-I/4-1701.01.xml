@@ -3,99 +3,113 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Adequate notice" means written notice of termination from eligible employment provided within 15 days of termination and separate written confirmation by the provider of eligible employment.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Adjusted gross income" shall have the same meaning as provided in § 47-1803.02(b).</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Administrator" means the entity designated to administer the LRAP, established pursuant to § 4-1704.01.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Applicant" means an individual who applies for assistance from the LRAP.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"ATJ" means the Access to Justice Grant Funding for Civil Legal Services.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Bar Foundation" means the District of Columbia Bar Foundation.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Deputy Mayor" means the Deputy Mayor for Public Safety and Justice or the Office of the Deputy Mayor for Public Safety and Justice, as the context requires.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Eligible debt" means outstanding principal, interest, and related expenses from loans obtained for reasonable educational expenses associated with obtaining a law degree made by government and commercial lending institutions or educational institutions, but does not include loans extended by a private individual or group of individuals, including families.</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Eligible employment" means those areas of legal practice certified by the Administrator to serve the public interest, including employment with legal organizations that qualify for District of Columbia Bar Foundation funding, but does not include employment with the District of Columbia government or federal government or with or as the Administrator; and</text>
     <level>
-      <num>(1)</num>
-      <text>"Adequate notice" means written notice of termination from eligible employment provided within 15 days of termination and separate written confirmation by the provider of eligible employment.</text>
+      <num>(A)</num>
+      <text>Working not less than 35 hours per week where such hours are fully devoted to eligible employment, hereinafter "full-time employment"; or</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Adjusted gross income" shall have the same meaning as provided in § 47- 1803.02(b).</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Administrator" means the entity designated to administer the LRAP, established pursuant to § 4-1704.01.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Applicant" means an individual who applies for assistance from the LRAP.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"ATJ" means the Access to Justice Grant Funding for Civil Legal Services.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Bar Foundation" means the District of Columbia Bar Foundation.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"Deputy Mayor" means the Deputy Mayor for Public Safety and Justice or the Office of the Deputy Mayor for Public Safety and Justice, as the context requires.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Eligible debt" means outstanding principal, interest, and related expenses from loans obtained for reasonable educational expenses associated with obtaining a law degree made by government and commercial lending institutions or educational institutions, but does not include loans extended by a private individual or group of individuals, including families.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Eligible employment" means those areas of legal practice certified by the Administrator to serve the public interest, including employment with legal organizations that qualify for District of Columbia Bar Foundation funding, but does not include employment with the District of Columbia government or federal government or with or as the Administrator.</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Full-time employment" means not less than 35 hours of work per week.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>"Initiative" means the Access to Justice Initiative established pursuant to § 4-1702.01.</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>"Involuntary termination" means termination for budgetary or inadequate funding reasons, as confirmed, in writing, by the eligible employer.</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>"Lawyer" means a graduate of an accredited law school who is:</text>
-      <level>
-        <num>(A)</num>
-        <text>Licensed to practice in the District of Columbia;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Authorized under the provisions of Rule 49(c)(9) of the District of Columbia Court of Appeals to practice law before that court; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>A member in good standing of the highest court of any state who has submitted an application for admission to the District of Columbia Bar.</text>
-      </level>
-    </level>
-    <level>
-      <num>(14)</num>
-      <text>"LRAP" means the District of Columbia Poverty Lawyer Loan Repayment Assistance Program.</text>
-    </level>
-    <level>
-      <num>(15)</num>
-      <text>"Participant" means an eligible lawyer whose application to the LRAP has been approved.</text>
-    </level>
-    <level>
-      <num>(16)</num>
-      <text>"Reasonable educational expenses" means the cost of tuition for law school as well as the costs of education considered to be required by the school's degree program, such as fees for housing, transportation and commuting costs, books, supplies, and educational equipment and materials that are part of the estimated student budget of the school in which the participant was enrolled.</text>
-    </level>
-    <level>
-      <num>(17)</num>
-      <text>"Service obligation" means the period of eligible employment necessary to sustain participation in the LRAP, which shall not be less than 45 weeks within the 12-month period for which the participant applied for assistance.</text>
+      <num>(B)</num>
+      <text>Working not less than 17 hours per week where such hours are fully devoted to eligible employment, hereinafter "part-time employment."</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(10)</num>
+    <text>"Full-time employment" means not less than 35 hours of work per week.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>"Initiative" means the Access to Justice Initiative established pursuant to § 4-1702.01.</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>"Involuntary termination" means termination for budgetary or inadequate funding reasons, as confirmed, in writing, by the eligible employer.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>"Lawyer" means a graduate of an accredited law school who is:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 24, 2010, D.C. Law 18-223, § 101, as added Sept. 14, 2011, D.C. Law 19-21, § 3002(b), 58 DCR 6226.)</text>
+      <num>(A)</num>
+      <text>Licensed to practice in the District of Columbia;</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 19-21, the "Fiscal Year 2012 Budget Support Act of 2011", was introduced in Council and assigned Bill No. 19-203, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 25, 2011, and June 14, 2011, respectively. Signed by the Mayor on July 22, 2011, it was assigned Act No. 19-98 and transmitted to both Houses of Congress for its review. D.C. Law 19-21 became effective on September 14, 2011.</text>
-      </level>
+      <num>(B)</num>
+      <text>Authorized under the provisions of Rule 49(c)(9) of the District of Columbia Court of Appeals to practice law before that court; or</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>A member in good standing of the highest court of any state who has submitted an application for admission to the District of Columbia Bar.</text>
+    </level>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>"LRAP" means the District of Columbia Poverty Lawyer Loan Repayment Assistance Program.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>"Participant" means an eligible lawyer whose application to the LRAP has been approved.</text>
+  </level>
+  <level>
+    <num>(16)</num>
+    <text>"Reasonable educational expenses" means the cost of tuition for law school as well as the costs of education considered to be required by the school's degree program, such as fees for housing, transportation and commuting costs, books, supplies, and educational equipment and materials that are part of the estimated student budget of the school in which the participant was enrolled.</text>
+  </level>
+  <level>
+    <num>(17)</num>
+    <text>"Service obligation" means the period of eligible employment necessary to sustain participation in the LRAP, which shall not be less than 45 weeks within the 12-month period for which the participant applied for assistance.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Sept. 24, 2010, D.C. Law 18-223, § 101, as added Sept. 14, 2011, D.C. Law 19-21, § 3002(b), 58 DCR 6226; June 19, 2013, D.C. Law 19-320, § 504(a), 60 DCR 3390.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-320 added the semicolon and "and" to the end of (9); and added (9)(A) and (9)(B).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of (9), see § 504(a) of the Omnibus Public Safety and Justice Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013, 60 DCR 1017).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>Law 19-21, the "Fiscal Year 2012 Budget Support Act of 2011", was introduced in Council and assigned Bill No. 19-203, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 25, 2011, and June 14, 2011, respectively. Signed by the Mayor on July 22, 2011, it was assigned Act No. 19-98 and transmitted to both Houses of Congress for its review. D.C. Law 19-21 became effective on September 14, 2011.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-320</heading>
+      <text>Law 19-320, the "Omnibus Criminal Code Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-645. The Bill was adopted on first and second readings on Dec. 4, 2012, and Dec. 18, 2012, respectively. Signed by the Mayor on Feb. 11, 2013, it was assigned Act No. 19-677 and transmitted to Congress for its review. D.C. Law 19-320 became effective on June 19, 2013.</text>
     </level>
   </level>
 </level>

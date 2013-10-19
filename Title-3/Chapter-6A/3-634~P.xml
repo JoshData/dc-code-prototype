@@ -2,19 +2,15 @@
   <reason>Expired</reason>
   <section>3-634</section>
   <heading>Duties.</heading>
-  <level>
-    <type>annotations</type>
+  <text>Expired.</text>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 19, 2006, D.C. Law 16-151, § 5, 53 DCR 5368.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-151, see notes following § 16-631.</text>
-        <text>DC CODE § 3-634</text>
-      </level>
+      <heading>Legislative History of Law 16-151</heading>
+      <text>For Law 16-151, see notes following § 16-631.</text>
     </level>
   </level>
 </level>

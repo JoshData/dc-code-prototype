@@ -1,21 +1,16 @@
 <level type="section">
   <num>50-610</num>
   <heading>Severability.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-1110</formerly-cited-as>
   <text>If any provision of this chapter or the application thereof to any person or circumstance is held invalid, such invalidity shall not effect other provisions or the application of this chapter which can be effected without the invalid provision or application, and to this end the provisions of this chapter are severable.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 22, 1960, 74 Stat. 73, Pub. L. 86-431, § 11.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-1110.</text>
-        <text>1973 Ed., § 40-910.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-1110.</text>
+      <text>1973 Ed., § 40-910.</text>
     </level>
   </level>
 </level>

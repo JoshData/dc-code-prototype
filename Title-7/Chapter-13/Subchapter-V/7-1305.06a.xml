@@ -22,39 +22,46 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>In an emergency in which a individual is experiencing a mental health crisis and in which the immediate provision of mental health treatment, including medication, is, in the written opinion of the attending physician, necessary to prevent serious injury to the individual or others, the provider may administer medication without seeking the individual's prior informed consent only to the extent necessary to terminate the emergency.</text>
+      <text>In an emergency in which an individual is experiencing a mental health crisis and in which the immediate provision of mental health treatment, including medication, is, in the written opinion of the attending physician, necessary to prevent serious injury to the individual or others, the provider may administer medication without seeking the individual's prior informed consent only to the extent necessary to terminate the emergency.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-137, § 506a, as added Oct. 22, 2008, D.C. Law 17-249, § 5(d), 55 DCR 9206; Sept. 26, 2012, D.C. Law 19-169, § 17(ii), 59 DCR 5567.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-169 substituted "individual" for "customer" and "individual's" for "customer's".</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition, see § 4(d) of Health-Care Decisions for Persons with Mental Retardation and Developmental Disabilities Temporary Amendment Act of 2006 (D.C. Law 16-194, March 2, 2007, law notification 54 DCR 2492).</text>
-        <text>For temporary (225 day) addition, see § 4(d) of Health-Care Decisions for Persons with Mental Retardation and Developmental Disabilities Temporary Amendment Act of 2007 (D.C. Law 17-100, February 2, 2008, law notification 55 DCR 3407).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 4(d) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Amendment Act of 2006 (D.C. Act 16-480, September 25, 2006, 53 DCR 7940).</text>
-        <text>For temporary (90 day) addition, see § 4(d) of Health-Care Decisions for Persons with Developmental Disabilities Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-566, December 19, 2006, 53 DCR 10272).</text>
-        <text>For temporary (90 day) addition, see § 4(d) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Act of 2007 (D.C. Act 17-161, October 18, 2007, 54 DCR 10932).</text>
-        <text>For temporary (90 day) addition, see § 4(d) of Health-Care Decisions for Persons with Developmental Disabilities Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-245, January 23, 2008, 55 DCR 1230).</text>
-        <text>For temporary (90 day) addition, see § 5(d) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Act of 2008 (D.C. Act 17-492, August 4, 2008, 55 DCR 9167).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-249, see notes following § 7-1203.03.</text>
-        <text>For history of Law 19-169, see notes under § 7-761.02. </text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-1305.06b.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-169 substituted "individual" for "customer" or variants throughout the section.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition, see § 4(d) of Health-Care Decisions for Persons with Mental Retardation and Developmental Disabilities Temporary Amendment Act of 2006 (D.C. Law 16-194, March 2, 2007, law notification 54 DCR 2492).</text>
+      <text>For temporary (225 day) addition, see § 4(d) of Health-Care Decisions for Persons with Mental Retardation and Developmental Disabilities Temporary Amendment Act of 2007 (D.C. Law 17-100, February 2, 2008, law notification 55 DCR 3407).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 4(d) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Amendment Act of 2006 (D.C. Act 16-480, September 25, 2006, 53 DCR 7940).</text>
+      <text>For temporary (90 day) addition, see § 4(d) of Health-Care Decisions for Persons with Developmental Disabilities Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-566, December 19, 2006, 53 DCR 10272).</text>
+      <text>For temporary (90 day) addition, see § 4(d) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Act of 2007 (D.C. Act 17-161, October 18, 2007, 54 DCR 10932).</text>
+      <text>For temporary (90 day) addition, see § 4(d) of Health-Care Decisions for Persons with Developmental Disabilities Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-245, January 23, 2008, 55 DCR 1230).</text>
+      <text>For temporary (90 day) addition, see § 5(d) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Act of 2008 (D.C. Act 17-492, August 4, 2008, 55 DCR 9167).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-249</heading>
+      <text>For Law 17-249, see notes following § 7-1203.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-169</heading>
+      <text>See note to § 7-1305.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 35 of D.C. Law 19-169 provided that no provision of the act shall impair any right or obligation existing under law.</text>
     </level>
   </level>
 </level>

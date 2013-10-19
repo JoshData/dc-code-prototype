@@ -1,30 +1,36 @@
 <level type="section">
   <num>29-808.03</num>
   <heading>Proper plaintiff.</heading>
+  <text>A derivative action to enforce a right of a limited liability company may be maintained only by a person that is a member at the time the action is commenced and:</text>
   <level>
-    <num>(a)</num>
-    <text>Except as otherwise provided in subsection (b) of this section, a derivative action under § 29-808.02 shall be maintained only by a person that is a member at the time the action is commenced and remains a member while the action continues.</text>
+    <num>(1)</num>
+    <text>Was a member when the conduct giving rise to the action occurred; or</text>
   </level>
   <level>
-    <num>(b)</num>
-    <text>If the sole plaintiff in a derivative action dies while the action is pending, the Superior Court may permit another member of the limited liability company to be substituted as plaintiff.</text>
+    <num>(2)</num>
+    <text>Whose status as a member was derived, by operation of law or pursuant to the terms of the operating agreement, from a person that was a member at the time the conduct giving rise to the action occurred.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(h)(9)(A), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 903 of the Uniform Limited Company Act (2006 Act). See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-801.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 903 of the Uniform Limited Company Act (2006 Act).</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

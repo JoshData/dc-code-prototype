@@ -3,75 +3,69 @@
   <heading>Human impact statement.</heading>
   <text>Within 60 days of January 19, 2011, the Auditor shall conduct an assessment of the impact of reductions in assistance pursuant to this chapter on families and their children and issue a human impact statement, which shall include:</text>
   <level>
+    <num>(1)</num>
+    <text>The number of families affected;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>The number of children affected in the following age categories;</text>
     <level>
-      <num>(1)</num>
-      <text>The number of families affected;</text>
+      <num>(A)</num>
+      <text>Infant - 3 years old;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>The number of children affected in the following age categories;</text>
-      <level>
-        <num>(A)</num>
-        <text>Infant - 3 years old;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>4 - 9 year olds;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>10 - 13 years old; and</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>14 - 18 years old;</text>
-      </level>
+      <num>(B)</num>
+      <text>4-9 years olds;</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>A sample of a least 35 families, including a consideration of the children regarding:</text>
-      <level>
-        <num>(A)</num>
-        <text>Changes in school performance;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Changes in after-school performance;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Changes in health status; and</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>New interactions with Court Social Services or Department of Youth Rehabilitative Services; and</text>
-      </level>
+      <num>(C)</num>
+      <text>10-13 years old; and</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>The number of service providers providing training programs based on specific performance-based measures, including:</text>
-      <level>
-        <num>(A)</num>
-        <text>A description of programs being offered; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The enrollment figures in each program.</text>
-      </level>
+      <num>(D)</num>
+      <text>14-18 years old;</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(3)</num>
+    <text>A sample of a least 35 families, including a consideration of the children regarding:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Changes in school performance;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Changes in after-school performance;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Changes in health status; and</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>New interactions with Court Social Services or Department of Youth Rehabilitative Services; and</text>
+    </level>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The number of service providers providing training programs based on specific performance-based measures, including:</text>
+    <level>
+      <num>(A)</num>
+      <text>A description of programs being offered; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The enrollment figures in each program.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Apr. 6, 1982, D.C. Law 4-101, § 511c, as added Apr. 8, 2011, D.C. Law 18-370, § 522(b), 58 DCR 1008.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-370, see notes under § 4-202.05.</text>
-      </level>
+      <heading>Legislative History of Law 18-370</heading>
+      <text>For history of Law 18-370, see notes under § 4-202.05.</text>
     </level>
   </level>
 </level>

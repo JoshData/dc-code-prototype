@@ -3,99 +3,97 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>"Community partner" means a provider of one or more eligible services.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Community school" means a public and private partnership to coordinate educational, developmental, family, health, and after-school-care programs during school and non-school hours for students, families, and local communities at a public school or public charter school with the objectives of improving academic achievement, reducing absenteeism, building stronger relationships between students, parents, and communities, and improving the skills, capacity, and well-being of the surrounding community residents.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Eligible consortium" means a partnership established between a local education agency and one or more community partners for purposes of establishing, operating, and sustaining a community school.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Eligible services" means:</text>
-      <level>
-        <num>(A)</num>
-        <text>Primary medical and dental care that will be available to students and community residents;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Mental health prevention and treatment services that will be available to students and community residents;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Academic-enrichment activities designed to promote a student's cognitive development and provide opportunities to practice and apply academic skills;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Programs designed to increase attendance, including reducing early chronic absenteeism rates;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Youth development programs designed to promote young people's social, emotional, physical, and moral development, including arts, sports, physical fitness, youth leadership, community service, and service-learning opportunities;</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Early childhood education, including Head Start and Early Head Start programs;</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>Programs designed to:</text>
-        <level>
-          <num>(i)</num>
-          <text>Facilitate parental involvement in, and engagement with, their children's education, including parental activities that involve supporting, monitoring, and advocating for their children's education;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Promote parental leadership in the life of the school; and</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Build parenting skills;</text>
-        </level>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>School-age child-care services, including before-school and after-school services and full-day programming that operates during school holidays, summers, vacations, and weekends;</text>
-      </level>
-      <level>
-        <num>(I)</num>
-        <text>Programs that provide assistance to students who have been truant, suspended, or expelled and that offer multiple pathways to high school graduation or General Educational Development completion;</text>
-      </level>
-      <level>
-        <num>(J)</num>
-        <text>Youth and adult job-training services and career-counseling services;</text>
-      </level>
-      <level>
-        <num>(K)</num>
-        <text>Nutrition-education services;</text>
-      </level>
-      <level>
-        <num>(L)</num>
-        <text>Adult education, including instruction in English as a second language, adult literacy, computer literacy, financial literacy, and hard-skills training; or</text>
-      </level>
-      <level>
-        <num>(M)</num>
-        <text>Programs that provide remedial education and enrichment activities.</text>
-      </level>
-    </level>
+    <num>(1)</num>
+    <text>"Community partner" means a provider of one or more eligible services.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Community school" means a public and private partnership to coordinate educational, developmental, family, health, and after-school-care programs during school and non-school hours for students, families, and local communities at a public school or public charter school with the objectives of improving academic achievement, reducing absenteeism, building stronger relationships between students, parents, and communities, and improving the skills, capacity, and well-being of the surrounding community residents.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Eligible consortium" means a partnership established between a local education agency and one or more community partners for purposes of establishing, operating, and sustaining a community school.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Eligible services" means:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Primary medical and dental care that will be available to students and community residents;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Mental health prevention and treatment services that will be available to students and community residents;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Academic-enrichment activities designed to promote a student's cognitive development and provide opportunities to practice and apply academic skills;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Programs designed to increase attendance, including reducing early chronic absenteeism rates;</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Youth development programs designed to promote young people's social, emotional, physical, and moral development, including arts, sports, physical fitness, youth leadership, community service, and service-learning opportunities;</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>Early childhood education, including Head Start and Early Head Start programs;</text>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>Programs designed to:</text>
+      <level>
+        <num>(i)</num>
+        <text>Facilitate parental involvement in, and engagement with, their children's education, including parental activities that involve supporting, monitoring, and advocating for their children's education;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Promote parental leadership in the life of the school; and</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Build parenting skills;</text>
+      </level>
+    </level>
+    <level>
+      <num>(H)</num>
+      <text>School-age child-care services, including before-school and after-school services and full-day programming that operates during school holidays, summers, vacations, and weekends;</text>
+    </level>
+    <level>
+      <num>(I)</num>
+      <text>Programs that provide assistance to students who have been truant, suspended, or expelled and that offer multiple pathways to high school graduation or General Educational Development completion;</text>
+    </level>
+    <level>
+      <num>(J)</num>
+      <text>Youth and adult job-training services and career-counseling services;</text>
+    </level>
+    <level>
+      <num>(K)</num>
+      <text>Nutrition-education services;</text>
+    </level>
+    <level>
+      <num>(L)</num>
+      <text>Adult education, including instruction in English as a second language, adult literacy, computer literacy, financial literacy, and hard-skills training; or</text>
+    </level>
+    <level>
+      <num>(M)</num>
+      <text>Programs that provide remedial education and enrichment activities.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(June 19, 2012, D.C. Law 19-142, § 402, 59 DCR 3642.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-142, see notes under § 38-751.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-754.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-142</heading>
+      <text>For history of Law 19-142, see notes under § 38-751.01.</text>
     </level>
   </level>
 </level>

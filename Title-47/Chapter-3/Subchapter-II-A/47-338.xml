@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-338</num>
   <heading>Duties of the Committee.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-338</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Committee shall review the size and condition of the District general obligation bonds and capital lease financings on a continuing basis.</text>
@@ -130,22 +129,18 @@
     <num>(h)</num>
     <text>The allocation of financing recommended by the Committee is advisory and does not bind the Mayor or the Council.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 24, 1994, D.C. Law 10-126, § 4, 41 DCR 1814; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-338.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-126, see Historical and Statutory Notes following § 47-336.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-338.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-126</heading>
+      <text>For legislative history of D.C. Law 10-126, see Historical and Statutory Notes following § 47-336.</text>
     </level>
   </level>
 </level>

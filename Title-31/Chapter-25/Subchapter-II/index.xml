@@ -1,14 +1,14 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Powers and Duties of the Commissioner.</heading>
+  <heading>Powers and Duties of the Commissioner</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.03.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.04.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.05~31-2502.07~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.05~31-2502.07~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.05~31-2502.07~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.05~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.06~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.07~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.08~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.09.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.10~P.xml"/>
@@ -25,7 +25,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.20a.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.21.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.22.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.23.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.23~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.24.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.25.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.26~P.xml"/>
@@ -34,15 +34,13 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.27.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.28.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.29.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.30~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.30.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.31.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.32~31-2502.37~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.32~31-2502.37~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.38.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.39.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.40.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.41.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.42.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.43~31-2502.45~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-2502.43~31-2502.45~P.xml"/>
 </level>

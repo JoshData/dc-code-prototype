@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>8</num>
-  <heading>Mortgages and Deeds of Trust.</heading>
-  <level>
-    <text>DC CODE D. VII, T. 42, Subt. I, Ch. 8, Refs &amp; Annos</text>
-  </level>
+  <heading>Mortgages and Deeds of Trust</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-801.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-802.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-803.xml"/>

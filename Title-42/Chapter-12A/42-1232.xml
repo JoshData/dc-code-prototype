@@ -13,22 +13,18 @@
     <num>(c)</num>
     <text>A requirement that a document or a signature associated with a document be notarized, acknowledged, verified, witnessed, or made under oath is satisfied if the electronic signature of the person authorized to perform that act, and all other information required to be included, is attached to or logically associated with the document or signature. A physical or electronic image of a stamp, impression, or seal is not required to accompany an electronic signature.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 18, 2005, D.C. Law 16-25, § 3, 52 DCR 8084.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-25, see notes following § 42-1231.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 3 of the Uniform Real Property Electronic Recording Act. See 7B, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 16-25</heading>
+      <text>For Law 16-25, see notes following § 42-1231.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 3 of the Uniform Real Property Electronic Recording Act.</text>
     </level>
   </level>
 </level>

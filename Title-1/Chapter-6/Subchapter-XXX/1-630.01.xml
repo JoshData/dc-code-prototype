@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-630.01</num>
   <heading>Policy; agency may not require bonds.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-631.1</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>No agency may require or obtain surety bonds for any employee in connection with the performance of official duties.</text>
@@ -18,23 +17,19 @@
     <num>(d)</num>
     <text>The restorations and adjustments provided for by subsection (c) of this section shall be made in accordance with rules and regulations issued by the Mayor.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-139, § 3001, 25 DCR 5740.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-631.1.</text>
-        <text>1973 Ed., § 1-360.1.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-139, see Historical and Statutory Notes following § 1-601.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-631.1.</text>
+      <text>1973 Ed., § 1-360.1.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-139</heading>
+      <text>For legislative history of D.C. Law 2-139, see Historical and Statutory Notes following § 1-601.01.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-617.02</num>
   <heading>Labor-management relations program established; contents; impasse resolution.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-618.2</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Public Employee Relations Board (hereinafter in this subchapter referred to as the "Board") shall issue rules and regulations establishing a labor-management relations program to implement the policy set forth in this subchapter.</text>
@@ -90,23 +89,23 @@
       <text>The need to maintain personnel policies that are fair, reasonable, and consistent with the objectives of this chapter.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-139, § 1702, 25 DCR 5740.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-618.2.</text>
-        <text>1973 Ed., § 1-347.2.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-139, see Historical and Statutory Notes following § 1-601.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-605.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-618.2.</text>
+      <text>1973 Ed., § 1-347.2.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-139</heading>
+      <text>For legislative history of D.C. Law 2-139, see Historical and Statutory Notes following § 1-601.01.</text>
     </level>
   </level>
 </level>

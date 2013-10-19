@@ -2,18 +2,14 @@
   <num>50-1731.08</num>
   <heading>Education.</heading>
   <text>The Director of the Department of Motor Vehicles shall include educational information on the use of mobile telephones and other electronic devices while driving in the District's Driver and Motorcycle Operator's Study Guide. The Director shall also include questions pertaining to distracted driving and mobile telephone usage while driving on the driver's license exam.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 30, 2004, D.C. Law 15-124, § 8, 51 DCR 1541.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-124, see notes following § 50-1731.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-124</heading>
+      <text>For Law 15-124, see notes following § 50-1731.01.</text>
     </level>
   </level>
 </level>

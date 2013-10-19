@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Repealed Provisions.</heading>
+  <heading>Repealed Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2411.01~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2411.02~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2411.03~P.xml"/>
@@ -9,6 +9,5 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2411.05~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2411.06~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2411.07~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2411.08~38-2411.09~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2411.08~38-2411.09~P.xml"/>
 </level>

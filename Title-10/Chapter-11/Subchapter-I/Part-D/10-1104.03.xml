@@ -1,7 +1,6 @@
 <level type="section">
   <num>10-1104.03</num>
   <heading>Service of orders and notices.</heading>
-  <formerly-cited-as>DC ST 1981 § 7-1018</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any order or notice required by this subchapter to be served shall be deemed to have been served when served by any of the following methods:</text>
@@ -42,19 +41,15 @@
     <num>(b)</num>
     <text>In case such order or notice is served by any method other than personal service, notice shall also be sent to the owner by ordinary mail.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 17, 1968, 82 Stat. 1163, Pub. L. 90-596, title IV, § 403.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 7-1018.</text>
-        <text>1973 Ed., § 7-919.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 7-1018.</text>
+      <text>1973 Ed., § 7-919.</text>
     </level>
   </level>
 </level>

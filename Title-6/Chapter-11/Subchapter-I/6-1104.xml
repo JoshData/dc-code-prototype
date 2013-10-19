@@ -1,7 +1,6 @@
 <level type="section">
   <num>6-1104</num>
   <heading>Demolitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 5-1004</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Before the Mayor may issue a permit to demolish an historic landmark or a building or structure in an historic district, the Mayor shall review the permit application in accordance with this section and place notice of the application in the District of Columbia Register.</text>
@@ -89,28 +88,31 @@
     <num>(h)</num>
     <text>In those cases in which the Mayor finds that the demolition is necessary to allow the construction of a project of special merit, no demolition permit shall be issued unless a permit for new construction is issued simultaneously under § 6-1107 and the owner demonstrates the ability to complete the project.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-144, § 5, 25 DCR 6939; Nov. 16, 2006, D.C. Law 16-185, § 2(d), 53 DCR 6712.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 5-1004.</text>
-        <text>1973 Ed., § 5-824.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-185, in subsec. (c), substituted "if the Review Board or Commission of Fine Arts has advised" for "if the Review Board has advised".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-144, see Historical and Statutory Notes following § 6-1101.</text>
-        <text>For Law 16-185, see notes following § 6-1101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-1102, § 6-1103, § 6-1105, § 6-1106, § 6-1108, § 6-1108.01, § 6-1110, § 6-1113, § 42-3173.04, and § 42-3173.05.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 5-1004.</text>
+      <text>1973 Ed., § 5-824.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-185, in subsec. (c), substituted "if the Review Board or Commission of Fine Arts has advised" for "if the Review Board has advised".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-144</heading>
+      <text>For legislative history of D.C. Law 2-144, see Historical and Statutory Notes following § 6-1101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-185</heading>
+      <text>For Law 16-185, see notes following § 6-1101.</text>
     </level>
   </level>
 </level>

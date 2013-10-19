@@ -1,7 +1,6 @@
 <level type="section">
   <num>2-709</num>
   <heading>Unintentional violations.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-1709</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any person who by reason of ignorance, forgetfulness, or misunderstanding improperly or unlawfully uses official mail shall be liable to the District for double the cost of the postage.</text>
@@ -10,23 +9,19 @@
     <num>(b)</num>
     <text>Any person who willfully violates provisions of this chapter shall be subject to a fine not exceeding $1,000 or imprisonment not exceeding 1 year, plus double the amount of money incidental to the unlawful mailing.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 7, 1977, D.C. Law 1-118, § 10, 23 DCR 8746.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-1709.</text>
-        <text>1973 Ed., § 1-1709.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-118, see Historical and Statutory Notes following § 2-701.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-1709.</text>
+      <text>1973 Ed., § 1-1709.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-118</heading>
+      <text>For legislative history of D.C. Law 1-118, see Historical and Statutory Notes following § 2-701.</text>
     </level>
   </level>
 </level>

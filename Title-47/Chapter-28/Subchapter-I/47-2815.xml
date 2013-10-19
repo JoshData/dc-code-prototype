@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-2815</num>
   <heading>Pyroxylin.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-2815</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Owners or managers of establishments where pyroxylin is kept or stored for painting or spraying shall pay a license fee of $50 per annum. No license shall issue hereunder without the approval of the Fire Marshal of the District of Columbia.</text>
@@ -10,33 +9,39 @@
     <num>(b)</num>
     <text>Any license issued pursuant to this section shall be issued as an Environmental Materials endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 1, 1902, 32 Stat. 624, ch. 1352, § 7, par. 15; July 1, 1932, 47 Stat. 552, ch. 366; Sept. 14, 1976, D.C. Law 1-82, title I, § 104(h), 23 DCR 2461; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Apr. 20, 1999, D.C. Law 12-261, § 2003(pp)(12), 46 DCR 3142; Oct. 28, 2003, D.C. Law 15-38, § 3(hh)(4)(E), 50 DCR 6913.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-2815.</text>
-        <text>1973 Ed., § 47-2315.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-38, in subsec. (b), substituted "an Environmental Materials endorsement to a basic business license under the basic" for "a Class A Environmental Materials endorsement to a master business license under the master".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 3(hh)(4)(E) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003, 50 DCR 6896).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-82, see Historical and Statutory Notes following § 47-2808.</text>
-        <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
-        <text>For Law 15-38, see notes following § 47-2404.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Mayor, Council and other offices, application of certain sections to boards, commissions and committees, see § 1-321.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-2815.</text>
+      <text>1973 Ed., § 47-2315.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-38, in subsec. (b), substituted "an Environmental Materials endorsement to a basic business license under the basic" for "a Class A Environmental Materials endorsement to a master business license under the master".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 3(hh)(4)(E) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003, 50 DCR 6896).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-82</heading>
+      <text>For legislative history of D.C. Law 1-82, see Historical and Statutory Notes following § 47-2808.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-261</heading>
+      <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-38</heading>
+      <text>For Law 15-38, see notes following § 47-2404.</text>
     </level>
   </level>
 </level>

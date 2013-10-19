@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>General Provisions.</heading>
-  <level>
-    <text>DC CODE D. I, T. 6, Ch. 11, Subch. I, Refs &amp; Annos</text>
-  </level>
+  <heading>General Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1103.xml"/>

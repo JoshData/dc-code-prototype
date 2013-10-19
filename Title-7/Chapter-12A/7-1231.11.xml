@@ -2,22 +2,18 @@
   <num>7-1231.11</num>
   <heading>Evaluation of mental health services and supports.</heading>
   <text>Consumers shall have an opportunity to participate in periodic evaluation of mental health services and mental health supports, including evaluation of providers. The opportunity shall extend to members of the consumer's family or personal representative.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 18, 2001, D.C. Law 14-56, § 211, 48 DCR 7674.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 211 of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-56, see notes following § 7-1231.01.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 211 of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-56</heading>
+      <text>For Law 14-56, see notes following § 7-1231.01.</text>
     </level>
   </level>
 </level>

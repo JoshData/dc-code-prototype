@@ -57,22 +57,22 @@
       <text>The documents required to terminate a guardianship or conservatorship in the District of Columbia.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Nov. 25, 2008, D.C. Law 17-270, § 2(b), 55 DCR 11018.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-270, see notes following § 21-2401.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 301 of the Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act. See Vol. 8A, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 21-2402.01, § 21-2402.04, and § 21-2403.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-270</heading>
+      <text>For Law 17-270, see notes following § 21-2401.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 301 of the Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act.</text>
     </level>
   </level>
 </level>

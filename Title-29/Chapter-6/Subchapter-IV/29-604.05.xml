@@ -1,65 +1,39 @@
 <level type="section">
   <num>29-604.05</num>
-  <heading>Actions by partnership and partners.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-154.5</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-104.05</formerly-cited-as>
+  <heading>Distributions in kind; sharing of and right to distribution before dissolution.</heading>
   <level>
     <num>(a)</num>
-    <text>A partnership may maintain an action against a partner for a breach of the partnership agreement, or for the violation of a duty to the partnership, causing harm to the partnership.</text>
+    <text>Any distributions made by a partnership before its dissolution and winding up must be in equal shares among partners, except to the extent necessary to comply with a transfer effective under § 29-605.03 or charging order in effect under § 29-605.04.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>A partner may maintain an action against the partnership or another partner for legal or equitable relief, with or without an accounting as to partnership business, to enforce the:</text>
-    <level>
-      <num>(1)</num>
-      <text>Partner's rights under the partnership agreement;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Partner's rights under this chapter, including:</text>
-      <level>
-        <num>(A)</num>
-        <text>The partner's rights under § 29-604.01, § 29-604.03, or § 29- 604.04 ;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The partner's right on dissociation to have the partner's interest in the partnership purchased pursuant to § 29-607.01 or enforce any other right under subchapter VI or VII of this chapter; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The partner's right to compel a dissolution and winding up of the partnership business under § 29-608.01 or enforce any other right under subchapter VIII of this chapter; or</text>
-      </level>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Rights and otherwise protect the interests of the partner, including rights and interests arising independently of the partnership relationship.</text>
-    </level>
+    <text>A person has a right to a distribution before the dissolution and winding up of a partnership only if the partnership decides to make an interim distribution.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text>The accrual of, and any time limitation on, a right of action for a remedy under this section shall be governed by other law. A right to an accounting upon a dissolution and winding up shall not revive a claim barred by law.</text>
+    <text>A person does not have a right to demand or receive a distribution from a partnership in any form other than money. Except as otherwise provided in § 29-608.09, a partnership may distribute an asset in kind only if each part of the asset is fungible with each other part and each person receives a percentage of the asset equal in value to the person's share of distributions.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(d)</num>
+    <text>If a partner or transferee becomes entitled to receive a distribution, the partner or transferee has the status of, and is entitled to all remedies available to, a creditor of the partnership with respect to the distribution. However, the partnership's obligation to make a distribution is subject to offset for any amount owed to the partnership by the partner or a person dissociated as partner on whose account the distribution is made.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(Mar. 5, 2013, D.C. Law 19-210, § 2(f)(4)(D), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 41-154.5.</text>
-        <text>2001 Ed., § 33-104.05.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 405 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-607.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-601.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 2(f)(4)(C) of D.C. Law 19-210 redesignated former § 20-604.05 as § 29-604.08.</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

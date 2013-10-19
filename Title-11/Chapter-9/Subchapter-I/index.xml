@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Continuation and Organization.</heading>
+  <heading>Continuation and Organization</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-901.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-902.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-903.xml"/>

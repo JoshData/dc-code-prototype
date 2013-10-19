@@ -3,47 +3,41 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>"Child" or "Children" means an individual or individuals under the age of 6 years.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Elevated blood lead level" means an excessive absorption of lead concentration in whole blood of 10 mg/dL (micrograms of lead per deciliter) or greater.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Health care facility" means any institution providing individual care or treatment of diseases or other medical, physiological, or psychological conditions, including, but not limited to, hospitals, clinics, laboratories, nursing homes, or homes for the aged or chronically ill, but excluding private medical offices.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Health care provider" means a physician, clinic, hospital, or neighborhood health center, licensed by the District of Columbia, that is responsible for providing primary care and coordinating referrals, when necessary, to other health care providers.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Lead-poisoned child" means a child with a confirmed blood lead level equal to or greater than 15 micrograms of lead per deciliter of blood, or such other lower threshold as the United States Centers for Disease Control and Prevention may establish.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Person" means an individual, a corporation, a partnership, firm, conservator, receiver, trustee, executor, or legal representative.</text>
-    </level>
+    <num>(1)</num>
+    <text>"Child" or "Children" means an individual or individuals under the age of 6 years.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Elevated blood lead level" means an excessive absorption of lead concentration in whole blood of 10 mg/dL (micrograms of lead per deciliter) or greater.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Health care facility" means any institution providing individual care or treatment of diseases or other medical, physiological, or psychological conditions, including, but not limited to, hospitals, clinics, laboratories, nursing homes, or homes for the aged or chronically ill, but excluding private medical offices.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Health care provider" means a physician, clinic, hospital, or neighborhood health center, licensed by the District of Columbia, that is responsible for providing primary care and coordinating referrals, when necessary, to other health care providers.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Lead-poisoned child" means a child with a confirmed blood lead level equal to or greater than 15 micrograms of lead per deciliter of blood, or such other lower threshold as the United States Centers for Disease Control and Prevention may establish.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Person" means an individual, a corporation, a partnership, firm, conservator, receiver, trustee, executor, or legal representative.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 1, 2002, D.C. Law 14-190, § 2002, 49 DCR 6968.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 7-1032.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-190, see notes following § 7-871.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 7-1032.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-190</heading>
+      <text>For Law 14-190, see notes following § 7-871.01.</text>
     </level>
   </level>
 </level>

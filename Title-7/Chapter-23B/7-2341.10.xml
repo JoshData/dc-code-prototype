@@ -25,18 +25,14 @@
     <num>(d)</num>
     <text>Provisional licenses or certifications issued pursuant to this section may be granted for a period of time up to and including 180 days, and may be renewed no more than once.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 2009, D.C. Law 17-357, § 11, 56 DCR 1167.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-357, see notes following § 7-2341.01.</text>
-      </level>
+      <heading>Legislative History of Law 17-357</heading>
+      <text>For Law 17-357, see notes following § 7-2341.01.</text>
     </level>
   </level>
 </level>

@@ -1,11 +1,11 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>F</num>
-  <heading>Independent Agencies and Authorities.</heading>
+  <heading>Independent Agencies and Authorities</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-204.91~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-204.92~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-204.93.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-204.94~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-204.95~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-204.95.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-204.96.xml"/>
 </level>

@@ -3,31 +3,25 @@
   <heading>Governing law.</heading>
   <text>The law of the District shall govern the:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Internal affairs of a limited cooperative association; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Liability of a member as member and a director as director for the debts, obligations, or other liabilities of a limited cooperative association.</text>
-    </level>
+    <num>(1)</num>
+    <text>Internal affairs of a limited cooperative association; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Liability of a member as member and a director as director for the debts, obligations, or other liabilities of a limited cooperative association.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 107 of the Uniform Limited Cooperative Association Act . See Vol. 6A , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 107 of the Uniform Limited Cooperative Association Act.</text>
     </level>
   </level>
 </level>

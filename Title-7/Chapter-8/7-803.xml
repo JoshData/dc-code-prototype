@@ -1,21 +1,16 @@
 <level type="section">
   <num>7-803</num>
   <heading>Treatment by other than registered physician.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-303</formerly-cited-as>
   <text>No person other than a registered physician shall treat any case of inflammation of the eyes, attended by a discharge therefrom, of a newborn child for any period longer than may be necessary to obtain the services of a registered physician.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 1937, 50 Stat. 120, ch. 144, § 3.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-303.</text>
-        <text>1973 Ed., § 6-203.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-303.</text>
+      <text>1973 Ed., § 6-203.</text>
     </level>
   </level>
 </level>

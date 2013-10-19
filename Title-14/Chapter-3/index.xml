@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>3</num>
-  <heading>Competency of Witnesses.</heading>
-  <level>
-    <text>DC CODE D. II, T. 14, Ch. 3, Refs &amp; Annos</text>
-  </level>
+  <heading>Competency of Witnesses</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-301.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-302.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-303.xml"/>

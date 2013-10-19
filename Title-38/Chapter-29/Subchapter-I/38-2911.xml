@@ -1,7 +1,6 @@
 <level type="section">
   <num>38-2911</num>
   <heading>Periodic revision of Formula.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-2911</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor and Council, in consultation with representatives of DCPS and of the Public Charter Schools, shall review and revise this Formula within 2 years of its establishment, within 2 years after this initial review and revision, and once every 4 years subsequently. Revisions shall be based upon information and data including study of actual costs of education in the District of Columbia, consideration of performance incentives created by the Formula in practice, research in education and education finance, and public comment.</text>
@@ -30,39 +29,45 @@
     <num>(c)</num>
     <text>The State Education Office shall make recommendations to revise and review the formula as described in subsection (a) of this section for submission to the Mayor and the Council.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 26, 1999, D.C. Law 12-207, § 112, 45 DCR 8095; Mar. 2, 2007, D.C. Law 16-192, § 4002(i), 53 DCR 6899.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-2911.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-192 added subsec. (c).</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>See Historical and Statutory Notes following § 38-2901.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary addition of chapter, see note to § 38-2901.</text>
-        <text>For temporary (90 day) amendment of section, see § 4002(i) of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006, 53 DCR 7068).</text>
-        <text>For temporary (90 day) amendment of section, see § 4002(i) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006, 53 DCR 8845).</text>
-        <text>For temporary (90 day) amendment of section, see § 4002(i) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007, 54 DCR 1165).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-180, see Historical and Statutory Notes following § 38-2901.</text>
-        <text>For legislative history of D.C. Law 12-207, see Historical and Statutory Notes following § 38-2901.</text>
-        <text>For Law 16-192, see notes following § 38-2731.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-2602 and § 38-2903.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-2911.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-192 added subsec. (c).</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>See Historical and Statutory Notes following § 38-2901.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary addition of chapter, see note to § 38-2901.</text>
+      <text>For temporary (90 day) amendment of section, see § 4002(i) of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006, 53 DCR 7068).</text>
+      <text>For temporary (90 day) amendment of section, see § 4002(i) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006, 53 DCR 8845).</text>
+      <text>For temporary (90 day) amendment of section, see § 4002(i) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007, 54 DCR 1165).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-180</heading>
+      <text>For legislative history of D.C. Law 12-180, see Historical and Statutory Notes following § 38-2901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-207</heading>
+      <text>For legislative history of D.C. Law 12-207, see Historical and Statutory Notes following § 38-2901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-192</heading>
+      <text>For Law 16-192, see notes following § 38-2731.</text>
     </level>
   </level>
 </level>

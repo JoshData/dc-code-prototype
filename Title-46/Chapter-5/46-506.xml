@@ -1,7 +1,6 @@
 <level type="section">
   <num>46-506</num>
   <heading>Enforcement.</heading>
-  <formerly-cited-as>DC ST 1981 § 30-146</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A premarital agreement is not enforceable if the party against whom enforcement is sought proves that:</text>
@@ -34,34 +33,35 @@
     <num>(c)</num>
     <text>An issue of unconscionability of a premarital agreement shall be decided by the court as a matter of law.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 9, 1996, D.C. Law 11-82, § 7, 42 DCR 6770; Apr. 4, 2006, D.C. Law 16-79, § 8(e), 53 DCR 1035; Sept. 12, 2008, D.C. Law 17-231, § 40(b), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 30-146.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-79 rewrote subsec. (b) which had read as follows:</text>
-        <text>"(b) If a provision of a premarital agreement modifies or eliminates spousal support and that modification or elimination causes 1 party to the agreement to be eligible for support under a program of public assistance at the time of separation or marital dissolution, a court, notwithstanding the terms of the agreement, may require the other party to provide support to the extent necessary to avoid that eligibility."</text>
-        <text>D.C. Law 17-231, in subsec. (b), substituted "pursuant to § 32-702(d)," for "under § 32-702,".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-82, see Historical and Statutory Notes following § 46-501.</text>
-        <text>For Law 16-79, see notes following § 46-501.</text>
-        <text>For Law 17-231, see notes following § 46-503.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 6 of the Uniform Premarital Agreement Act. See 9C Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 30-146.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-79 rewrote subsec. (b) which had read as follows: "(b) If a provision of a premarital agreement modifies or eliminates spousal support and that modification or elimination causes 1 party to the agreement to be eligible for support under a program of public assistance at the time of separation or marital dissolution, a court, notwithstanding the terms of the agreement, may require the other party to provide support to the extent necessary to avoid that eligibility."</text>
+      <text>D.C. Law 17-231, in subsec. (b), substituted "pursuant to § 32-702(d)," for "under § 32-702,".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-82</heading>
+      <text>For legislative history of D.C. Law 11-82, see Historical and Statutory Notes following § 46-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-79</heading>
+      <text>For Law 16-79, see notes following § 46-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 46-503.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 6 of the Uniform Premarital Agreement Act.</text>
     </level>
   </level>
 </level>

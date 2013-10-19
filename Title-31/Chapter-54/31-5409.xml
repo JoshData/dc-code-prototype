@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-5409</num>
   <heading>Prevention of insolvencies.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1949</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>To aid in the detection and prevention of insurer impairments or insolvencies, the Mayor shall:</text>
@@ -93,22 +92,22 @@
       <text>Cooperate with the boards of directors of guaranty associations in other states in preparing reports on the history and causes of insolvency of a particular insurer. The Association may adopt by reference any report prepared by other associations.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 22, 1992, D.C. Law 9-129, § 10, 39 DCR 4036.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1949.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 9-129, see Historical and Statutory Notes following § 31-5401.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-5406.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1949.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-129</heading>
+      <text>For legislative history of D.C. Law 9-129, see Historical and Statutory Notes following § 31-5401.</text>
     </level>
   </level>
 </level>

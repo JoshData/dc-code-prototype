@@ -10,7 +10,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The Mayor shall transmit to the Council for a 60-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess, a proposed resolution providing for the disposition of the property. The proposed resolution shall contain a description of the property to be disposed of and the proposed method and terms and conditions of the disposition. If the Council does not approve or disapprove the proposed resolution within the 60- day period, the proposed resolution shall be deemed approved.</text>
+      <text>The Mayor shall transmit to the Council for a 60-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess, a proposed resolution providing for the disposition of the property. The proposed resolution shall contain a description of the property to be disposed of and the proposed method and terms and conditions of the disposition. If the Council does not approve or disapprove the proposed resolution within the 60-day period, the proposed resolution shall be deemed approved.</text>
     </level>
   </level>
   <level>
@@ -64,40 +64,48 @@
       <text>The transferee shall complete rehabilitation of the property within 18 months after the property is transferred.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2001, D.C. Law 13-281, § 433, as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468; Oct. 1, 2002, D.C. Law 14-190, § 1002(b), 49 DCR 6968; Oct. 19, 2002, D.C. Law 14-213, § 29(b), 49 DCR 8140; Aug. 16, 2008, D.C. Law 17-219, § 2012, 55 DCR 7598.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-190 made nonsubstantive changes in subsec. (a)(1).</text>
-        <text>D.C. Law 14-213 redesignated subsec. (d) as subsec. (c).</text>
-        <text>D.C. Law 17-219, in subsec. (a), inserted ", or acquired by any other means," following "acquired under § 42-3171.02".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 1002(b) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-114, see notes following § 42-3171.01.</text>
-        <text>For Law 14-190, see notes following § 42-204.</text>
-        <text>For Law 14-213, see notes following § 42-1102.</text>
-        <text>For Law 17-219, see notes following § 42-1103.</text>
-      </level>
-      <level>
-        <heading>Resolutions</heading>
-        <text>Resolution 17-220, the "Blighted Real Property Disposition Emergency Approval Resolution of 2007", was approved effective July 5, 2007.</text>
-        <text>Resolution 17-222, the "Second Blighted Real Property Disposition Emergency Approval Resolution of 2007", was approved effective July 5, 2007.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 2011 of D.C. Law 17-219 provided that subtitle E of title II of the act may be cited as the "Disposition of Abandoned and Deteriorated Property Amendment Act of 2008".</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 10-831.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-190 made nonsubstantive changes in subsec. (a)(1).</text>
+      <text>D.C. Law 14-213 redesignated subsec. (d) as subsec. (c).</text>
+      <text>D.C. Law 17-219, in subsec. (a), inserted ", or acquired by any other means," following "acquired under § 42-3171.02".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 1002(b) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-114</heading>
+      <text>For Law 14-114, see notes following § 42-3171.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-190</heading>
+      <text>For Law 14-190, see notes following § 42-204.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-213</heading>
+      <text>For Law 14-213, see notes following § 42-1102.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-219</heading>
+      <text>For Law 17-219, see notes following § 42-1103.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 2011 of D.C. Law 17-219 provided that subtitle E of title II of the act may be cited as the "Disposition of Abandoned and Deteriorated Property Amendment Act of 2008".</text>
+    </level>
+    <level>
+      <heading>Resolutions</heading>
+      <text>Resolution 17-220, the "Blighted Real Property Disposition Emergency Approval Resolution of 2007", was approved effective July 5, 2007.</text>
     </level>
   </level>
 </level>

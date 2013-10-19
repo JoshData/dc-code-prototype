@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>8</num>
-  <heading>Litter Control Administration.</heading>
-  <level>
-    <text>DC CODE D. I, T. 8, Subt. B, Ch. 8, Refs &amp; Annos</text>
-  </level>
+  <heading>Litter Control Administration</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-801.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-802.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-803.xml"/>

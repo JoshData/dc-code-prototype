@@ -49,18 +49,14 @@
     <num>(f)</num>
     <text>Incapacity of a beneficiary does not terminate the custodial trust, any designation of a successor custodial trustee, rights or powers of the custodial trustee, or any immunities of third persons acting on instructions of the custodial trustee.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 23, 2002, D.C. Law 14-177, § 2(b), 49 DCR 5092.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-177, see notes following § 19-1101.</text>
-      </level>
+      <heading>Legislative History of Law 14-177</heading>
+      <text>For Law 14-177, see notes following § 19-1101.</text>
     </level>
   </level>
 </level>

@@ -3,74 +3,68 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Constituent statutory trust" means a statutory trust that is party to a merger.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Governing law" means the law that governs the organization's internal affairs.</text>
+  </level>
+  <level>
+    <num>(3)</num>
     <level>
-      <num>(1)</num>
-      <text>"Constituent statutory trust" means a statutory trust that is party to a merger.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Governing law" means the law that governs the organization's internal affairs.</text>
-    </level>
-    <level>
-      <num>(3)</num>
+      <num>(A)</num>
+      <text>"Organization" means:</text>
       <level>
-        <num>(A)</num>
-        <text>"Organization" means:</text>
-        <level>
-          <num>(i)</num>
-          <text>A common-law trust that does not have a predominantly donative purpose;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>General partnership, including a limited liability partnership;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Limited partnership, including a limited liability limited partnership;</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>Limited liability company;</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>Corporation; or</text>
-        </level>
-        <level>
-          <num>(vi)</num>
-          <text>Foreign statutory trust.</text>
-        </level>
+        <num>(i)</num>
+        <text>A common-law trust that does not have a predominantly donative purpose;</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>The term "organization" shall include a domestic or foreign organization whether or not organized for profit.</text>
+        <num>(ii)</num>
+        <text>General partnership, including a limited liability partnership;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Limited partnership, including a limited liability limited partnership;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>Limited liability company;</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>Corporation; or</text>
+      </level>
+      <level>
+        <num>(vi)</num>
+        <text>Foreign statutory trust.</text>
       </level>
     </level>
     <level>
-      <num>(4)</num>
-      <text>"Organizational documents" means the records that create an organization and determine its internal governance and the relations among the persons that own it, have an interest in it, or are members of it.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Surviving organization" means an organization into which one or more other organizations are merged, whether the surviving organization preexisted the merger or was created by the merger.</text>
+      <num>(B)</num>
+      <text>The term "organization" shall include a domestic or foreign organization whether or not organized for profit.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(4)</num>
+    <text>"Organizational documents" means the records that create an organization and determine its internal governance and the relations among the persons that own it, have an interest in it, or are members of it.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Surviving organization" means an organization into which one or more other organizations are merged, whether the surviving organization preexisted the merger or was created by the merger.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 701 of the Uniform Statutory Trust Entity Act . See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 701 of the Uniform Statutory Trust Entity Act.</text>
     </level>
   </level>
 </level>

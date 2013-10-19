@@ -3,10 +3,11 @@
   <heading>Evaluations.</heading>
   <level>
     <num>(a)</num>
-    <text>IN GENERAL. --</text>
+    <heading>In general</heading>
     <level>
       <num>(1)</num>
-      <text>DUTIES OF THE SECRETARY AND THE MAYOR. -- The Secretary and the Mayor of the District of Columbia shall--</text>
+      <heading>Duties of the Secretary and the Mayor</heading>
+      <text>The Secretary and the Mayor of the District of Columbia shall -</text>
       <level>
         <num>(A)</num>
         <text>jointly enter into an agreement with the Institute of Education Sciences of the Department of Education to evaluate annually the performance of students who received scholarships under the 5-year program under this chapter;</text>
@@ -22,10 +23,11 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>DUTIES OF THE SECRETARY. -- The Secretary, through a grant, contract, or cooperative agreement, shall--</text>
+      <heading>Duties of the Secretary</heading>
+      <text>The Secretary, through a grant, contract, or cooperative agreement, shall -</text>
       <level>
         <num>(A)</num>
-        <text>ensure that the evaluation under paragraph (1)(A)--</text>
+        <heading>ensure that the evaluation under paragraph (1)(A) -</heading>
         <level>
           <num>(i)</num>
           <text>is conducted using the strongest possible research design for determining the effectiveness of the opportunity scholarship program under this chapter; and</text>
@@ -37,7 +39,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>disseminate information on the impact of the program--</text>
+        <text>disseminate information on the impact of the program -</text>
         <level>
           <num>(i)</num>
           <text>in increasing the academic growth and achievement of participating eligible students; and</text>
@@ -50,7 +52,8 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>DUTIES OF THE INSTITUTE OF EDUCATION SCIENCES. -- The Institute of Education Sciences of the Department of Education shall--</text>
+      <heading>Duties of the Institute of Education Sciences</heading>
+      <text>The Institute of Education Sciences of the Department of Education shall -</text>
       <level>
         <num>(A)</num>
         <text>use a grade appropriate, nationally norm-referenced standardized test each school year to assess participating eligible students in a manner consistent with § 38-1853.08(h);</text>
@@ -66,7 +69,8 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>ISSUES TO BE EVALUATED. -- The issues to be evaluated under paragraph (1)(A) shall include the following:</text>
+      <heading>Issues to be evaluated</heading>
+      <text>The issues to be evaluated under paragraph (1)(A) shall include the following:</text>
       <level>
         <num>(A)</num>
         <text>A comparison of the academic growth and achievement of participating eligible students in the measurements described in paragraph (3) to the academic growth and achievement of the eligible students in the same grades who sought to participate in the scholarship program under this chapter but were not selected.</text>
@@ -93,20 +97,22 @@
       </level>
       <level>
         <num>(G)</num>
-        <text>An analysis of the issues described in subparagraphs (A) through (F) by applying such subparagraphs by substituting ''the subgroup of participating eligible students who have used each opportunity scholarship awarded to such students under this chapter to attend a participating school" for ''participating eligible students" each place such term appears.</text>
+        <text>An analysis of the issues described in subparagraphs (A) through (F) by applying such subparagraphs by substituting "the subgroup of participating eligible students who have used each opportunity scholarship awarded to such students under this chapter to attend a participating school" for "participating eligible students" each place such term appears.</text>
       </level>
     </level>
     <level>
       <num>(5)</num>
-      <text>PROHIBITION. -- Personally identifiable information regarding the results of the measurements used for the evaluations may not be disclosed, except to the parents of the student to whom the information relates.</text>
+      <heading>Prohibition</heading>
+      <text>Personally identifiable information regarding the results of the measurements used for the evaluations may not be disclosed, except to the parents of the student to whom the information relates.</text>
     </level>
   </level>
   <level>
     <num>(b)</num>
-    <text>REPORTS. -- The Secretary shall submit to the Committees on Appropriations, Education and the Workforce, and Oversight and Government Reform of the House of Representatives and the Committees on Appropriations, Health, Education, Labor, and Pensions, and Homeland Security and Governmental Affairs of the Senate--</text>
+    <heading>Reports</heading>
+    <text>The Secretary shall submit to the Committees on Appropriations, Education and the Workforce, and Oversight and Government Reform of the House of Representatives and the Committees on Appropriations, Health, Education, Labor, and Pensions, and Homeland Security and Governmental Affairs of the Senate -</text>
     <level>
       <num>(1)</num>
-      <text>annual interim reports, not later than April 1 of the year following the year of the date of enactment of this chapter, and each subsequent year through the year in which the final report is submitted under paragraph (2), on the progress and preliminary results of the evaluation of the opportunity scholarship program funded under this chapter; and</text>
+      <text>annual interim reports, not later than April 1 of the year following the year of the date of enactment of this chapter [April 15, 2011], and each subsequent year through the year in which the final report is submitted under paragraph (2), on the progress and preliminary results of the evaluation of the opportunity scholarship program funded under this chapter; and</text>
     </level>
     <level>
       <num>(2)</num>
@@ -115,24 +121,26 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>PUBLIC AVAILABILITY. -- All reports and underlying data gathered pursuant to this section shall be made available to the public upon request, in a timely manner following submission of the applicable report under subsection (b), except that personally identifiable information shall not be disclosed or made available to the public.</text>
+    <heading>Public availability</heading>
+    <text>All reports and underlying data gathered pursuant to this section shall be made available to the public upon request, in a timely manner following submission of the applicable report under subsection (b), except that personally identifiable information shall not be disclosed or made available to the public.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text>LIMIT ON AMOUNT EXPENDED. -- The amount expended by the Secretary to carry out this section for any fiscal year may not exceed 5 percent of the total amount appropriated under § 38-1853.14(a)(1) for the fiscal year.</text>
+    <heading>Limit on amount expended</heading>
+    <text>The amount expended by the Secretary to carry out this section for any fiscal year may not exceed 5 percent of the total amount appropriated under § 38-1853.14(a)(1) for the fiscal year.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 15, 2011, 125 Stat. 206, Pub. L. 112-10, Div. C, § 3009; Feb. 1, 2012, 126 Stat. 6, Pub. L. 112-92, § 4.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>Pub. L. 112-92, in subsec. (a)(3)(A), inserted 'in a manner consistent with § 38-1853.08(h)'; and, in subsec. (a)(3)(C), inserted 'if requested by the Institute of Education Sciences,'.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-1853.05, § 38-1853.06, § 38-1853.08, § 38-1853.11, and § 38-1853.12.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>Pub. L. 112-92, in subsec. (a)(3)(A), inserted "in a manner consistent with § 38-1853.08(h)"; and, in subsec. (a)(3)(C), inserted "if requested by the Institute of Education Sciences,".</text>
     </level>
   </level>
 </level>

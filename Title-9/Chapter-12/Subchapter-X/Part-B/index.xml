@@ -1,20 +1,15 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>B</num>
-  <heading>Repealed Provisions.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.11~9-1219.18~P.xml"/>
+  <heading>Repealed Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.11~9-1219.18~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.19~9-1219.22~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.19~9-1219.22~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.23~9-1219.28~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.23~9-1219.28~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.29~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.30~9-1219.31~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.30~9-1219.31~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.32~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.33~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.34~9-1219.39~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.34~9-1219.39~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.40.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.40~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1219.41~P.xml"/>
 </level>

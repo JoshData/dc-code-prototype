@@ -1,108 +1,117 @@
 <level type="section">
   <num>41-104</num>
   <heading>General rules for taking custody of unclaimed intangible property.</heading>
-  <formerly-cited-as>DC ST 1981 § 42-204</formerly-cited-as>
   <text>Unless otherwise provided by statute of the District of Columbia, intangible personal property is subject to a presumption of abandonment under this chapter if the conditions leading to a presumption of abandonment as described in §§ 41-103 and 41-105 through 41-116 are satisfied, and any one of the following conditions is met:</text>
   <level>
+    <num>(1)</num>
+    <text>The last known address of the apparent owner, as shown on the records of the holder, is in the District;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>The records of the holder do not reflect the identity of the person entitled to the property and it is established that the property was owned or payable to a person whose last known address is in the District;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The records of the holder do not reflect the last known address of the apparent owner, and it is established that:</text>
     <level>
-      <num>(1)</num>
-      <text>The last known address of the apparent owner, as shown on the records of the holder, is in the District;</text>
+      <num>(A)</num>
+      <text>The last known address of the person entitled to the property is in the District; or</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>The records of the holder do not reflect the identity of the person entitled to the property and it is established that the property was owned or payable to a person whose last known address is in the District;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The records of the holder do not reflect the last known address of the apparent owner, and it is established that:</text>
-      <level>
-        <num>(A)</num>
-        <text>The last known address of the person entitled to the property is in the District; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The holder is either domiciled in the District or is the District government and has not previously paid or delivered the property to the state of the last known address of the apparent owner or other person entitled to the property;</text>
-      </level>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The last known address, as shown on the records of the holder, of the apparent owner is in a state that does not provide an escheat or abandoned property law applicable to the property in question and the holder is:</text>
-      <level>
-        <num>(A)</num>
-        <text>Domiciled in the District; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The District government;</text>
-      </level>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>The last known address of the apparent owner, as shown on the record of the holder, is in a foreign nation and the holder is:</text>
-      <level>
-        <num>(A)</num>
-        <text>Domiciled in the District; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The District government;</text>
-      </level>
-    </level>
-    <level>
-      <num>(6)</num>
-      <level>
-        <num>(A)</num>
-        <text>The transaction out of which the property arose occurred in the District;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <level>
-          <num>(i)</num>
-          <text>The identity of the person entitled to the property is unknown;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>The last known address of the apparent owner or other person entitled to the property is unknown; or</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>The last known address of the apparent owner is in a state that does not provide an escheat or unclaimed property law applicable to the property; and</text>
-        </level>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The holder is domiciled in a state that does not provide an escheat or abandoned property law applicable to the property; or</text>
-      </level>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>The holder is domiciled in the District and has not previously paid or delivered the property to a state.</text>
+      <num>(B)</num>
+      <text>The holder is either domiciled in the District or is the District government and has not previously paid or delivered the property to the state of the last known address of the apparent owner or other person entitled to the property;</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(4)</num>
+    <text>The last known address, as shown on the records of the holder, of the apparent owner is in a state that does not provide an escheat or abandoned property law applicable to the property in question and the holder is:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Domiciled in the District; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The District government;</text>
+    </level>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>The last known address of the apparent owner, as shown on the record of the holder, is in a foreign nation and the holder is:</text>
+    <level>
+      <num>(A)</num>
+      <text>Domiciled in the District; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The District government;</text>
+    </level>
+  </level>
+  <level>
+    <num>(6)</num>
+    <level>
+      <num>(A)</num>
+      <text>The transaction out of which the property arose occurred in the District;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <level>
+        <num>(i)</num>
+        <text>The identity of the person entitled to the property is unknown;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>The last known address of the apparent owner or other person entitled to the property is unknown; or</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>The last known address of the apparent owner is in a state that does not provide an escheat or unclaimed property law applicable to the property; and</text>
+      </level>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The holder is domiciled in a state that does not provide an escheat or abandoned property law applicable to the property; or</text>
+    </level>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>The holder is domiciled in the District and has not previously paid or delivered the property to a state.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Mar. 5, 1981, D.C. Law 3-160, § 104, 27 DCR 5150; June 4, 1982, D.C. Law 4-111, § 3(a), 29 DCR 1684; Sept. 29, 1992, D.C. Law 9-161, § 2(b), 39 DCR 5696; Apr. 9, 1997, D.C. Law 11-255, § 44(a), 44 DCR 1271.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 42-204.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-160, see Historical and Statutory Notes following § 41-101.</text>
-        <text>Law 4-111 was introduced in Council and assigned Bill No. 4-374, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on March 9, 1982 and March 23, 1982, respectively. Signed by the Mayor on April 12, 1982, it was assigned Act No. 4-174 and transmitted to both Houses of Congress for its review.</text>
-        <text>For legislative history of D.C. Law 9-64, see Historical and Statutory Notes following § 41-103.</text>
-        <text>For legislative history of D.C. Law 9-161, see Historical and Statutory Notes following § 41-103.</text>
-        <text>Law 11-255, the "Second Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-905, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-519 and transmitted to both Houses of Congress for its review. D.C. Law 11-255 became effective on April 9, 1997.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 3 of the Uniform Unclaimed Property Act (1981 Act). See 8B Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 41-105, § 41-109, and § 41-126.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 42-204.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-160</heading>
+      <text>For legislative history of D.C. Law 3-160, see Historical and Statutory Notes following § 41-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-111</heading>
+      <text>Law 4-111 was introduced in Council and assigned Bill No. 4-374, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on March 9, 1982 and March 23, 1982, respectively. Signed by the Mayor on April 12, 1982, it was assigned Act No. 4-174 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-64</heading>
+      <text>For legislative history of D.C. Law 9-64, see Historical and Statutory Notes following § 41-103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-161</heading>
+      <text>For legislative history of D.C. Law 9-161, see Historical and Statutory Notes following § 41-103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>Law 11-255, the "Second Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-905, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-519 and transmitted to both Houses of Congress for its review. D.C. Law 11-255 became effective on April 9, 1997.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 3 of the Uniform Unclaimed Property Act (1981 Act).</text>
     </level>
   </level>
 </level>

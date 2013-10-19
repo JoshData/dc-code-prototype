@@ -25,18 +25,18 @@
     <num>(c)</num>
     <text>If approved by the Board of Medicine, the PE program may be used to satisfy continuing education requirements for the practice of medicine.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 26, 2008, D.C. Law 17-131, § 403, 55 DCR 1659.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-131, see notes following § 48-843.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 48-844.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-131</heading>
+      <text>For Law 17-131, see notes following § 48-843.01.</text>
     </level>
   </level>
 </level>

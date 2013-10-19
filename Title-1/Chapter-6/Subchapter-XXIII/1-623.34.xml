@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-623.34</num>
   <heading>Funeral expenses; transportation of body.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-624.34</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>If death results from an injury sustained in the performance of duty, the District of Columbia government shall pay, to the personal representative of the deceased or otherwise, funeral and burial expenses not to exceed $5,000, at the discretion of the Mayor.</text>
@@ -27,28 +26,31 @@
     </level>
   </level>
   <text>If the relatives do not request the return of the body of the employee, the Mayor may provide for its disposition and incur and pay from the Employees' Compensation Fund the necessary and reasonable transportation, funeral and burial expenses.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-139, § 2334, 25 DCR 5740; Mar. 6, 1991, D.C. Law 8-198, § 3(f), 37 DCR 6890.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-624.34.</text>
-        <text>1973 Ed., § 1-353.34.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-139, see Historical and Statutory Notes following § 1-601.01.</text>
-        <text>For legislative history of D.C. Law 8-198, see Historical and Statutory Notes following § 1-623.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Mayor authorized to issue rules: See Historical and Statutory Notes following § 1-623.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-623.09 and § 1-623.33.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-624.34.</text>
+      <text>1973 Ed., § 1-353.34.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-139</heading>
+      <text>For legislative history of D.C. Law 2-139, see Historical and Statutory Notes following § 1-601.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-198</heading>
+      <text>For legislative history of D.C. Law 8-198, see Historical and Statutory Notes following § 1-623.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Mayor authorized to issue rules: See Historical and Statutory Notes following § 1-623.01.</text>
     </level>
   </level>
 </level>

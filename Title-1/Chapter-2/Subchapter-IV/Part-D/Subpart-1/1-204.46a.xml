@@ -3,7 +3,8 @@
   <heading>Permitting increase in amount appropriated as local funds during a fiscal year.</heading>
   <level>
     <num>(a)</num>
-    <text><text i="True">In general.</text> -- Notwithstanding the fourth sentence of § 1-204.46, to account for an unanticipated growth of revenue collections, the amount appropriated as District of Columbia funds under budget approved by Act of Congress as provided in such section may be increased --</text>
+    <heading>In General</heading>
+    <text>Notwithstanding the fourth sentence of § 1-204.46, to account for an unanticipated growth of revenue collections, the amount appropriated as District of Columbia funds under budget approved by Act of Congress as provided in such section may be increased -</text>
     <level>
       <num>(1)</num>
       <text>by an aggregate amount of not more than 25 percent, in the case of amounts allocated under the budget as "Other-Type Funds"; and</text>
@@ -15,10 +16,11 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Conditions.</text> -- The District of Columbia may obligate and expend any increase in the amount of funds authorized under this section only in accordance with the following conditions:</text>
+    <heading>Conditions</heading>
+    <text>The District of Columbia may obligate and expend any increase in the amount of funds authorized under this section only in accordance with the following conditions:</text>
     <level>
       <num>(1)</num>
-      <text>The Chief Financial Officer of the District of Columbia shall certify--</text>
+      <text>The Chief Financial Officer of the District of Columbia shall certify -</text>
       <level>
         <num>(A)</num>
         <text>the increase in revenue; and</text>
@@ -43,20 +45,21 @@
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Effective date.</text> -- This section shall apply with respect to fiscal years 2006 through 2007.</text>
+    <heading>Effective Date</heading>
+    <text>This section shall apply with respect to fiscal years 2006 through 2007.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 24, 1973, 87 Stat. 801, Pub. L. 93-198, title IV, § 446a, as added Oct. 16, 2006, 120 Stat. 2020, Pub. L. 109-356, § 101(a).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>For additional similar authority, see § 47-369.02.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-204.46.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>For additional similar authority, see § 47-369.02.</text>
     </level>
   </level>
 </level>

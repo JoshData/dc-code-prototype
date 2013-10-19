@@ -10,7 +10,7 @@
     <text>To be eligible for post-employment health benefits, the annuitant must:</text>
     <level>
       <num>(1)</num>
-      <text>Retire with at least: </text>
+      <text>Retire with at least:</text>
       <level>
         <num>(A)</num>
         <text>10 years of creditable District service if the annuitant retired under the District Retirement Benefit Program, the Teachers' Retirement System, the Judges' Retirement System, or the Teachers' Insurance and Annuity Association programs; or</text>
@@ -30,11 +30,11 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Have been continuously enrolled in a health benefit plan under § 1- 621.05 for a period of at least 5 years preceding the annuitant's retirement date; and</text>
+      <text>Have been continuously enrolled in a health benefit plan under § 1-621.05 for a period of at least 5 years preceding the annuitant's retirement date; and</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>Remain continuously covered under a health benefit plan under § 1- 621.05.</text>
+      <text>Remain continuously covered under a health benefit plan under § 1-621.05.</text>
     </level>
   </level>
   <level>
@@ -49,36 +49,35 @@
     <num>(d)</num>
     <text>Upon the death of an annuitant who is enrolled in a health benefit plan under § 1-621.05 with family coverage, the annuitant's surviving spouse and dependent children who are covered under the health benefit plan at the time of death may continue enrollment in a health benefit plan under § 1-621.05.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-139, § 2117, as added Mar. 3, 2010, D.C. Law 18-111, § 1201(d), 57 DCR 181; D.C. Law 18-223, § 1092(c), Sept. 24, 2010, 57 DCR 6242.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-223 rewrote subsec. (b)(1); and added subsec. (b-1). Prior to amendment, subsec. (b)(1) read as follows:</text>
-        <text>"(1) Retire with at least 10 years of creditable District service;"</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 1201(d) of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
-        <text>For temporary (90 day) addition, see § 1201(d) of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-111, see notes following § 1-301.181.</text>
-        <text>For Law 18-223, see notes following § 1-301.78.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 1093 of D.C. Law 18-223 provides:</text>
-        <text>"Sec. 1093. Applicability.</text>
-        <text>"(a) Section 1092(a) and (c) shall apply as of October 1, 2011 "</text>
-        <text>"(b) This subtitle shall apply subject to its inclusion in an approved budget and financial plan."</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>National Capital Revitalization Corporation, health, life and retirement benefit plans for officers and employees, see § 2-1219.05.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-223 rewrote subsec. (b)(1); and added subsec. (b-1).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 1201(d) of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
+      <text>For temporary (90 day) addition, see § 1201(d) of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-111</heading>
+      <text>For Law 18-111, see notes following § 1-301.181.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 1-301.78.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 1093 of D.C. Law 18-223 provided: "Sec. 1093. Applicability. (a) Section 1092(a) and (c) shall apply as of October 1, 2011. (b) This subtitle shall apply subject to its inclusion in an approved budget and financial plan."</text>
     </level>
   </level>
 </level>

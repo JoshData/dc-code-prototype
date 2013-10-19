@@ -1,7 +1,6 @@
 <level type="section">
   <num>28:5-112</num>
   <heading>Transfer of letter of credit.</heading>
-  <formerly-cited-as>DC ST 1981 § 28:5-112</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as otherwise provided in § 28:5-113, unless a letter of credit provides that it is transferable, the right of a beneficiary to draw or otherwise demand performance under a letter of credit may not be transferred.</text>
@@ -18,32 +17,31 @@
       <text>The transferor or transferee has failed to comply with any requirement stated in the letter of credit or any other requirement relating to transfer imposed by the issuer which is within the standard practice referred to in § 28:5-108(e) or is otherwise reasonable under the circumstances.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 30, 1963, 77 Stat. 713, Pub. L. 88-243, § 1; Mar. 16, 1982, D.C. Law 4-85, § 7, 29 DCR 309; renumbered and amended Apr. 9, 1997, D.C. Law 11-238, § 2, 44 DCR 923.)</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28:5-112.</text>
+      <text>1973 Ed., § 28:5-112.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-85</heading>
+      <text>Law 4-85, the "Uniform Commercial Code Amendments Act of 1981," was introduced in Council and assigned Bill No. 4-89, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on November 24, 1981, and December 8, 1981, respectively. Signed by the Mayor on January 18, 1982, it was assigned Act No. 4-139 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-238</heading>
+      <text>For legislative history of D.C. Law 11-238, see Historical and Statutory Notes following § 28:5-101.</text>
     </level>
     <level>
       <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
       <text>1. In order to protect the applicant's reliance on the designated beneficiary, letter of credit law traditionally has forbidden the beneficiary to convey to third parties its right to draw or demand payment under the letter of credit. Subsection (a) codifies that rule. The term "transfer" refers to the beneficiary's conveyance of that right. Absent incorporation of the UCP (which make elaborate provision for partial transfer of a commercial letter of credit) or similar trade practice and absent other express indication in the letter of credit that the term is used to mean something else, a term in the letter of credit indicating that the beneficiary has the right to transfer should be taken to mean that the beneficiary may convey to a third party its right to draw or demand payment. Even in that case, the issuer or other person controlling the transfer may make the beneficiary's right to transfer subject to conditions, such as timely notification, payment of a fee, delivery of the letter of credit to the issuer or other person controlling the transfer, or execution of appropriate forms to document the transfer. A nominated person who is not a confirmer has no obligation to recognize a transfer.</text>
       <text>The power to establish "requirements" does not include the right absolutely to refuse to recognize transfers under a transferable letter of credit. An issuer who wishes to retain the right to deny all transfers should not issue transferable letters of credit or should incorporate the UCP. By stating its requirements in the letter of credit an issuer may impose any requirement without regard to its conformity to practice or reasonableness. Transfer requirements of issuers and nominated persons must be made known to potential transferors and transferees to enable those parties to comply with the requirements. A common method of making such requirements known is to use a form that indicates the information that must be provided and the instructions that must be given to enable the issuer or nominated person to comply with a request to transfer.</text>
-      <text>2. The issuance of a transferable letter of credit with the concurrence of the applicant is <text i="True">ipso facto</text> an agreement by the issuer and applicant to permit a beneficiary to transfer its drawing right and permit a nominated person to recognize and carry out that transfer without further notice to them. In international commerce, transferable letters of credit are often issued under circumstances in which a nominated person or adviser is expected to facilitate the transfer from the original beneficiary to a transferee and to deal with that transferee. In those circumstances it is the responsibility of the nominated person or adviser to establish procedures satisfactory to protect itself against double presentation or dispute about the right to draw under the letter of credit. Commonly such a person will control the transfer by requiring that the original letter of credit be given to it or by causing a paper copy marked as an original to be issued where the original letter of credit was electronic. By keeping possession of the original letter of credit the nominated person or adviser can minimize or entirely exclude the possibility that the original beneficiary could properly procure payment from another bank. If the letter of credit requires presentation of the original letter of credit itself, no other payment could be procured. In addition to imposing whatever requirements it considers appropriate to protect itself against double payment the person that is facilitating the transfer has a right to charge an appropriate fee for its activity.</text>
+      <text>2. The issuance of a transferable letter of credit with the concurrence of the applicant is ipso facto an agreement by the issuer and applicant to permit a beneficiary to transfer its drawing right and permit a nominated person to recognize and carry out that transfer without further notice to them. In international commerce, transferable letters of credit are often issued under circumstances in which a nominated person or adviser is expected to facilitate the transfer from the original beneficiary to a transferee and to deal with that transferee. In those circumstances it is the responsibility of the nominated person or adviser to establish procedures satisfactory to protect itself against double presentation or dispute about the right to draw under the letter of credit. Commonly such a person will control the transfer by requiring that the original letter of credit be given to it or by causing a paper copy marked as an original to be issued where the original letter of credit was electronic. By keeping possession of the original letter of credit the nominated person or adviser can minimize or entirely exclude the possibility that the original beneficiary could properly procure payment from another bank. If the letter of credit requires presentation of the original letter of credit itself, no other payment could be procured. In addition to imposing whatever requirements it considers appropriate to protect itself against double payment the person that is facilitating the transfer has a right to charge an appropriate fee for its activity.</text>
       <text>"Transfer" of a letter of credit should be distinguished from "assignment of proceeds." The former is analogous to a novation or a substitution of beneficiaries. It contemplates not merely payment to but also performance by the transferee. For example, under the typical terms of transfer for a commercial letter of credit, a transferee could comply with a letter of credit transferred to it by signing and presenting its own draft and invoice. An assignee of proceeds, on the other hand, is wholly dependent on the presentation of a draft and invoice signed by the beneficiary.</text>
       <text>By agreeing to the issuance of a transferable letter of credit, which is not qualified or limited, the applicant may lose control over the identity of the person whose performance will earn payment under the letter of credit.</text>
-    </level>
-    <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28:5-112.</text>
-        <text>1973 Ed., § 28:5-112.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 4-85, the "Uniform Commercial Code Amendments Act of 1981," was introduced in Council and assigned Bill No. 4-89, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on November 24, 1981, and December 8, 1981, respectively. Signed by the Mayor on January 18, 1982, it was assigned Act No. 4-139 and transmitted to both Houses of Congress for its review.</text>
-        <text>For legislative history of D.C. Law 11-238, see Historical and Statutory Notes following § 28:5-101.</text>
-      </level>
     </level>
   </level>
 </level>

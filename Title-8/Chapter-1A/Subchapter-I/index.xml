@@ -1,9 +1,9 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>General.</heading>
+  <heading>General</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-151.01.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-151.0.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-151.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-151.03.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-151.04.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-151.05.xml"/>

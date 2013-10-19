@@ -3,31 +3,25 @@
   <heading>Report to the Council.</heading>
   <text>On or before March 1 of each year, the Central Collection Unit shall issue a report to the Mayor and the Council that includes:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The amount of delinquent debt collected in the preceding fiscal year;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The amount of uncollected delinquent debt owed to the District; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>A summary of the efforts made to collect delinquent debt owed to the District and the challenges that remain for collecting it.</text>
-    </level>
+    <num>(1)</num>
+    <text>The amount of delinquent debt collected in the preceding fiscal year;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The amount of uncollected delinquent debt owed to the District; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>A summary of the efforts made to collect delinquent debt owed to the District and the challenges that remain for collecting it.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 20, 2012, D.C. Law 19-168, § 1052, 59 DCR 8025.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-168, see notes under § 1-350.01.</text>
-      </level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>See note to § 1-350.01.</text>
     </level>
   </level>
 </level>

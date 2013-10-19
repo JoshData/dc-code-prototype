@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-4705.02</num>
-  <heading>Standard nonforfeiture law--In general.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-507</formerly-cited-as>
+  <heading>Standard nonforfeiture law - In general.</heading>
   <level>
     <num>(a)</num>
     <level>
@@ -520,7 +519,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>For uniform amounts of insurance, a cash surrender value available after a default on a premium due on a policy anniversary shall not differ by more than 1/5 of 1% of the amount of insurance from the sum of the following:</text>
+      <text>For uniform amounts of insurance, a cash surrender value available after a default on a premium due on a policy anniversary shall not differ by more than <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the amount of insurance from the sum of the following:</text>
       <level>
         <num>(A)</num>
         <text>Either zero or the basic cash value, whichever is greater.</text>
@@ -532,7 +531,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>For insurance amounts not treated in paragraph (2) of this subsection, a cash surrender value available after a default on a premium due on a policy anniversary shall not differ by more than 1/5 of 1% of the average insurance amounts at the beginning of the first 10 policy years from the sum of the following:</text>
+      <text>For insurance amounts not treated in paragraph (2) of this subsection, a cash surrender value available after a default on a premium due on a policy anniversary shall not differ by more than <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the average insurance amounts at the beginning of the first 10 policy years from the sum of the following:</text>
       <level>
         <num>(A)</num>
         <text>Either zero or the basic cash value, whichever is greater.</text>
@@ -566,24 +565,24 @@
       <level>
         <num>(B)</num>
         <text>Except as provided in paragraph (6) of this subsection, the adjusted premium percentage shall comply with the following:</text>
-        <level>
-          <num>(i)</num>
-          <text>Except as provided in subparagraph (B)(ii) of this paragraph, the percentage cannot change during policy years between the 2nd policy anniversary and the 5th policy anniversary.</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Unless the 5th anniversary precedes an anniversary when a cash surrender value without paid-up additions and without indebtedness deductions equal at least 1/5 of 1% of the amount described in subparagraph (iii) of this paragraph, the percentage cannot change during policy years between the 2nd anniversary and an anniversary with a cash surrender value, without the additions and the deductions, equaling at least 1/5 of 1% of the subparagraph (iii) amount.</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>The average amount of insurance at the beginning of the first 10 policy years.</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>After the latest anniversary referred to in subparagraph (B)(ii) of this paragraph, or the 5th policy anniversary if later, no percentage may apply to fewer than 5 consecutive policy years.</text>
-        </level>
       </level>
     </level>
+  </level>
+  <level>
+    <num>(i)</num>
+    <text>Except as provided in subparagraph (B)(ii) of this paragraph, the percentage cannot change during policy years between the 2nd policy anniversary and the 5th policy anniversary.</text>
+  </level>
+  <level>
+    <num>(ii)</num>
+    <text>Unless the 5th anniversary precedes an anniversary when a cash surrender value without paid-up additions and without indebtedness deductions equal at least <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the amount described in subparagraph (iii) of this paragraph, the percentage cannot change during policy years between the 2nd anniversary and an anniversary with a cash surrender value, without the additions and the deductions, equaling at least <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the subparagraph (iii) amount.</text>
+  </level>
+  <level>
+    <num>(iii)</num>
+    <text>The average amount of insurance at the beginning of the first 10 policy years.</text>
+  </level>
+  <level>
+    <num>(iv)</num>
+    <text>After the latest anniversary referred to in subparagraph (B)(ii) of this paragraph, or the 5th policy anniversary if later, no percentage may apply to fewer than 5 consecutive policy years.</text>
     <level>
       <num>(6)</num>
       <text>The basic cash value shall exceed the amount that would result in the paragraph (4) formula by replacing the nonforfeiture factors with adjusted premiums.</text>
@@ -608,96 +607,108 @@
       <level>
         <num>(B)</num>
         <text>The cash surrender values and the paid up nonforfeiture benefits granted with additional benefits shall conform with this subsection.</text>
+        <level>
+          <num>(i)</num>
+          <level>
+            <num>(1)</num>
+            <text>After February 19, 1948, a company, in writing, may inform the Commissioner of the company's election to comply with this section after an expressly selected date before January 1, 1950.</text>
+          </level>
+          <level>
+            <num>(2)</num>
+            <text>After filing the notice described in paragraph (1) of this subsection, this section shall govern the policies and the contracts issued by the company after the date.</text>
+          </level>
+          <level>
+            <num>(3)</num>
+            <text>Except as provided in paragraph (4) of this subsection and if a company does not choose a date, then, beginning January 1, 1950, this section shall govern the company.</text>
+          </level>
+          <level>
+            <num>(4)</num>
+            <text>Subsection (d)(6) and (7) of this section and subsection (e) of this section expressly establish dates when those provisions govern a company.</text>
+          </level>
+        </level>
+        <level>
+          <num>(j)</num>
+          <level>
+            <num>(1)</num>
+            <text>This section shall not apply to the following:</text>
+            <level>
+              <num>(A)</num>
+              <text>Reinsurance.</text>
+            </level>
+            <level>
+              <num>(B)</num>
+              <text>Group insurance.</text>
+            </level>
+            <level>
+              <num>(C)</num>
+              <text>Pure endowment.</text>
+            </level>
+            <level>
+              <num>(D)</num>
+              <text>Annuity or reversionary annuity contract.</text>
+            </level>
+            <level>
+              <num>(E)</num>
+              <text>Uniform amounts of term policy, with no guaranteed nonforfeiture or endowment benefits and with no renewal of guaranteed nonforfeiture or endowment benefits, for a term that lasts no more than 20 years and that expires before the insured becomes age 71, and with premiums payable throughout the policy term.</text>
+            </level>
+            <level>
+              <num>(F)</num>
+              <text>Decreasing amounts of term policy with no guaranteed nonforfeiture or endowment benefits, with adjusted premiums under subsections (d) and (e) of this section exceeded by adjusted premiums for uniform amounts of term policy, for a term that lasts no more than 20 years and that expires before the insured becomes age 71, and for a policy issued at the same age and for the same initial amount of insurance as originally provided by the policy.</text>
+            </level>
+            <level>
+              <num>(G)</num>
+              <text>A policy with guaranteed nonforfeiture or endowment benefits with no cash value or present value of a paid-up nonforfeiture benefit at the beginning of a policy year exceeding 2 1/2% of the amount of insurance at the beginning of the policy year.</text>
+            </level>
+            <level>
+              <num>(H)</num>
+              <text>A policy delivered outside the District of Columbia by an agent of the company.</text>
+            </level>
+          </level>
+          <level>
+            <num>(2)</num>
+            <text>For this section, the expiration age for joint term life insurance shall be the age of the oldest life when the insurance expires.</text>
+          </level>
+        </level>
       </level>
     </level>
   </level>
-  <level>
-    <num>(i)</num>
+  <level type="annotations">
     <level>
-      <num>(1)</num>
-      <text>After February 19, 1948, a company, in writing, may inform the Commissioner of the company's election to comply with this section after an expressly selected date before January 1, 1950.</text>
+      <heading>History</heading>
+      <text>(June 19, 1934, ch. 672, ch. V, § 5b; Feb. 19, 1948, 62 Stat. 30, ch. 66, § 4; June 27, 1960, 74 Stat. 228, Pub. L. 86-530, § 2; Oct. 3, 1962, 76 Stat. 712, Pub. L. 87-738, § 2; Oct. 13, 1978, D.C. Law 2-120, §§ 6 to 8, 25 DCR 1519; Mar. 14, 1985, D.C. Law 5-160, § 3(f), 32 DCR 39; Feb. 24, 1987, D.C. Law 6-192, § 25(e)-(g), 33 DCR 7836; May 21, 1997, D.C. Law 11-268, § 10(j), 44 DCR 1730; Mar. 24, 1998, D.C. Law 12-81, § 23(a), 45 DCR 745.)</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>After filing the notice described in paragraph (1) of this subsection, this section shall govern the policies and the contracts issued by the company after the date.</text>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-4701, § 31-4703, § 31-4705.01, § 31-4705.04, and § 31-4722.</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>Except as provided in paragraph (4) of this subsection and if a company does not choose a date, then, beginning January 1, 1950, this section shall govern the company.</text>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-507.</text>
+      <text>1973 Ed., § 35-705b.</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>Subsection (d)(6) and (7) of this section and subsection (e) of this section expressly establish dates when those provisions govern a company.</text>
-    </level>
-  </level>
-  <level>
-    <num>(j)</num>
-    <level>
-      <num>(1)</num>
-      <text>This section shall not apply to the following:</text>
-      <level>
-        <num>(A)</num>
-        <text>Reinsurance.</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Group insurance.</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Pure endowment.</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Annuity or reversionary annuity contract.</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Uniform amounts of term policy, with no guaranteed nonforfeiture or endowment benefits and with no renewal of guaranteed nonforfeiture or endowment benefits, for a term that lasts no more than 20 years and that expires before the insured becomes age 71, and with premiums payable throughout the policy term.</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Decreasing amounts of term policy with no guaranteed nonforfeiture or endowment benefits, with adjusted premiums under subsections (d) and (e) of this section exceeded by adjusted premiums for uniform amounts of term policy, for a term that lasts no more than 20 years and that expires before the insured becomes age 71, and for a policy issued at the same age and for the same initial amount of insurance as originally provided by the policy.</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>A policy with guaranteed nonforfeiture or endowment benefits with no cash value or present value of a paid-up nonforfeiture benefit at the beginning of a policy year exceeding 2 1/2% of the amount of insurance at the beginning of the policy year.</text>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>A policy delivered outside the District of Columbia by an agent of the company.</text>
-      </level>
+      <heading>Legislative History of Law 2-120</heading>
+      <text>For legislative history of D.C. Law 2-120, see Historical and Statutory Notes following § 31-4701.</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>For this section, the expiration age for joint term life insurance shall be the age of the oldest life when the insurance expires.</text>
-    </level>
-  </level>
-  <level>
-    <type>annotations</type>
-    <level>
-      <heading>CREDIT(S)</heading>
-      <text>(June 19, 1934, ch. 672, ch. V, § 5b; Feb. 19, 1948, 62 Stat. 30, ch. 66, § 4; June 27, 1960, 74 Stat. 228, Pub. L. 86-530, § 2; Oct. 3, 1962, 76 Stat. 712, Pub. L. 87-738, § 2; Oct. 13, 1978, D.C. Law 2-120, §§ 6 to 8, 25 DCR 1519; Mar. 14, 1985, D.C. Law 5-160, § 3(f), 32 DCR 39; Feb. 24, 1987, D.C. Law 6-192, § 25(e)-(g), 33 DCR 7836; May 21, 1997, D.C. Law 11- 268, § 10(j), 44 DCR 1730; Mar. 24, 1998, D.C. Law 12-81, § 23(a), 45 DCR 745.)</text>
+      <heading>Legislative History of Law 5-160</heading>
+      <text>For legislative history of D.C. Law 5-160, see Historical and Statutory Notes following § 31-4725.</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-507.</text>
-        <text>1973 Ed., § 35-705b.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-120, see Historical and Statutory Notes following § 31-4701.</text>
-        <text>For legislative history of D.C. Law 5-160, see Historical and Statutory Notes following § 31-4725.</text>
-        <text>For legislative history of D.C. Law 6-192, see Historical and Statutory Notes following § 31-4703.</text>
-        <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-4701.</text>
-        <text>Law 12-81, the "Technical Amendments Act of 1998," was introduced in Council and assigned Bill No. 12-408, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 4, 1997, and December 4, 1997, respectively. Signed by the Mayor on December 22, 1997, it was assigned Act No. 12-246 and transmitted to both Houses of Congress for its review. D.C. Law 12-81 became effective on March 24, 1998.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>"The Life Insurance Amendments Reform Act of 1984," referred to in subparagraph (A) of paragraph (7) of subsection (h), is D.C. Law 5-160, codified primarily within Chapters 43, 44, and 47 of Title 31.</text>
-      </level>
+      <heading>Legislative History of Law 6-192</heading>
+      <text>For legislative history of D.C. Law 6-192, see Historical and Statutory Notes following § 31-4703.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-4701.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-81</heading>
+      <text>Law 12-81, the "Technical Amendments Act of 1998," was introduced in Council and assigned Bill No. 12-408, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 4, 1997, and December 4, 1997, respectively. Signed by the Mayor on December 22, 1997, it was assigned Act No. 12-246 and transmitted to both Houses of Congress for its review. D.C. Law 12-81 became effective on March 24, 1998.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>"The Life Insurance Amendments Reform Act of 1984," referred to in subparagraph (A) of paragraph (7) of subsection (h), is D.C. Law 5-160, codified primarily within Chapters 43, 44, and 47 of Title 31.</text>
     </level>
   </level>
 </level>

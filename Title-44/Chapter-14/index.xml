@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>14</num>
-  <heading>Forest Haven.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 44, Subt. II, Ch. 14, Refs &amp; Annos</text>
-  </level>
+  <heading>Forest Haven</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-1401.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-1402.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-1403.xml"/>

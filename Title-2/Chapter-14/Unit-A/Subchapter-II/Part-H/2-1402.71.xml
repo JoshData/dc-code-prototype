@@ -1,48 +1,56 @@
 <level type="section">
   <num>2-1402.71</num>
   <heading>Prohibitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-2533</formerly-cited-as>
   <text>It is unlawful discriminatory practice for an insurer authorized to sell motor vehicle insurance in the District of Columbia to do any of the following acts, wholly or partially for a discriminatory reason based on actual or perceived: race, color, religion, national origin, sex, marital status, personal appearance, sexual orientation, gender identity or expression, family responsibilities, disability, matriculation, political affiliation, lawful occupation, or location within the geographical area of the District of Columbia of any individual:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>To fail or refuse to issue a policy of motor vehicle insurance;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>To fail or refuse to renew a policy of motor vehicle insurance; or</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>To cancel a policy of motor vehicle insurance.</text>
-    </level>
+    <num>(1)</num>
+    <text>To fail or refuse to issue a policy of motor vehicle insurance;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>To fail or refuse to renew a policy of motor vehicle insurance; or</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>To cancel a policy of motor vehicle insurance.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 13, 1977, D.C. Law 2-38, § 271, as added Sept. 18, 1982, D.C. Law 4-155, § 14(b), 29 DCR 3491; June 28, 1994, D.C. Law 10-129, § 2(g), 41 DCR 2583; Oct. 21, 1995, D.C. Law 11-64, § 2(a), 42 DCR 4322; Oct. 1, 2002, D.C. Law 14-189, § 2(f), 49 DCR 6523; Mar. 8, 2006, D.C. Law 16-58, § 2(g), 53 DCR 14.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-2533.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-189 substituted "actual or perceived: race" for "race".</text>
-        <text>D.C. Law 16-58 substituted "sexual orientation, gender identity or expression," for "sexual orientation,".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-38, see Historical and Statutory Notes following § 2-1401.01.</text>
-        <text>Law 4-155 was introduced in Council and assigned Bill No. 4-140, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first, amended first, second amended first, and second readings on May 11, 1982, May 25, 1982, June 8, 1982, and June 22, 1982, respectively. Deemed approved without Mayoral signature upon expiration of the Mayoral review period on July 22, 1982, it was assigned Act No. 4-226 and transmitted to both Houses of Congress for its review.</text>
-        <text>For legislative history of D.C. Law 10-129, see Historical and Statutory Notes following § 2-1401.01.</text>
-        <text>For legislative history of D.C. Law 11-64, see Historical and Statutory Notes following § 2-1401.01.</text>
-        <text>For Law 14-189, see notes following § 2-1401.02.</text>
-        <text>For Law 16-58, see notes following § 2-1401.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-2533.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-189 substituted "actual or perceived: race" for "race".</text>
+      <text>D.C. Law 16-58 substituted "sexual orientation, gender identity or expression," for "sexual orientation,".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-38</heading>
+      <text>For legislative history of D.C. Law 2-38, see Historical and Statutory Notes following § 2-1401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-155</heading>
+      <text>Law 4-155 was introduced in Council and assigned Bill No. 4-140, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first, amended first, second amended first, and second readings on May 11, 1982, May 25, 1982, June 8, 1982, and June 22, 1982, respectively. Deemed approved without Mayoral signature upon expiration of the Mayoral review period on July 22, 1982, it was assigned Act No. 4-226 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-129</heading>
+      <text>For legislative history of D.C. Law 10-129, see Historical and Statutory Notes following § 2-1401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-64</heading>
+      <text>For legislative history of D.C. Law 11-64, see Historical and Statutory Notes following § 2-1401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-189</heading>
+      <text>For Law 14-189, see notes following § 2-1401.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-58</heading>
+      <text>For Law 16-58, see notes following § 2-1401.01.</text>
     </level>
   </level>
 </level>

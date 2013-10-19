@@ -1,13 +1,13 @@
 <level type="section">
   <num>29-1012.10</num>
-  <heading>Judicial proceeding.</heading>
+  <heading>Court proceedings.</heading>
   <level>
     <num>(a)</num>
-    <text>Upon application by a dissolved limited cooperative association that has published a notice under § 29-1012.09, the Superior Court may determine the amount and form of security to be provided for payment of claims against the association that are contingent, have not been made known to the association, or are based on an event occurring after the effective date of dissolution, but that, based on the facts known to the association, are reasonably anticipated to arise after the effective date of dissolution.</text>
+    <text>Upon application by a dissolved limited cooperative association that has published a notice under § 29-1012.09, the Superior Court may determine the amount and form of security to be provided for payment of claims against the association that are contingent, have not been made known to the association, or are based on an event occurring after the effective date of dissolution, but that, based on the facts known to the association, are reasonably anticipated to arise after the effective date of dissolution. The court need not require security for any claim that is barred under § 29-1012.08 or § 29-1012.09 or that is reasonably anticipated to be barred under that section.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>Not later than 10 days after filing an application under subsection (a) of this section, a dissolved limited cooperative association shall give notice of the proceeding to each known claimant holding a contingent claim.</text>
+    <text>Not later than 10 days after filing an application under subsection (a) of this section, a dissolved limited cooperative association shall give notice of the proceeding to each known claimant holding a contingent claim as shown on the records of the dissolved association.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -15,24 +15,33 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>Provision by the dissolved limited cooperative association for security in the amount and the form ordered by the Superior Court shall satisfy the association's obligations with respect to claims that are contingent, have not been made known to the association, or are based on an event occurring after the effective date of dissolution, and the claims shall not be enforced against a member that received a distribution.</text>
+    <text>Provision by the dissolved limited cooperative association for security in the amount and the form ordered by the Superior Court shall satisfy the association's obligations with respect to claims that are contingent, have not been made known to the association, or are based on an event occurring after the effective date of dissolution. The association's obligations with respect to claims that are contingent may not be enforced against a member or holder of financial rights that received assets in liquidation.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(8)(E), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 1210 of the Uniform Limited Cooperative Association Act . See Vol. 6A , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-1010.07 and § 29-1012.09.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "Court proceedings" for "Judicial proceeding" in the section heading; added the second sentence of (a); added "as shown on the records of the dissolved association" at the end of (b); and substituted a closing period and "The association's obligations with respect to claims that are contingent may not be enforced against a member or holder of financial rights that received assets in liquidation" for "and the claims shall not be enforced against a member that received a distribution" in (d).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-1001.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 1210 of the Uniform Limited Cooperative Association Act.</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

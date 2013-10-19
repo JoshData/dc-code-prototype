@@ -1,14 +1,13 @@
 <level type="section">
   <num>23-524</num>
   <heading>Execution of search warrants.</heading>
-  <formerly-cited-as>DC ST 1981 § 23-524</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>An officer executing a warrant directing a search of a dwelling house or other building or a vehicle shall execute such warrant in accordance with section 3109 of Title 18, United States Code.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>An officer executing a warrant directing a search of a person shall give, or make reasonable effort to give, notice of his identity and purpose to the person, and, if such person thereafter resists or refuses to permit the search, such person shall be subject to arrest by such officer pursuant to section 23-581 (a) for violation of section 432 of the Revised Statutes of the United States relating to the District of Columbia (D.C. Official Code, sec. 22- 405) (resisting a police officer) or other applicable provision of law.</text>
+    <text>An officer executing a warrant directing a search of a person shall give, or make reasonable effort to give, notice of his identity and purpose to the person, and, if such person thereafter resists or refuses to permit the search, such person shall be subject to arrest by such officer pursuant to section 23-581(a) for violation of section 432 of the Revised Statutes of the United States relating to the District of Columbia (D.C. Official Code, sec. 22-405) (resisting a police officer) or other applicable provision of law.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -41,19 +40,20 @@
     <num>(g)</num>
     <text>An officer executing a warrant directing a search of premises or a vehicle may search any person therein (1) to the extent reasonably necessary to protect himself or others from the use of any weapon which may be concealed upon the person, or (2) to the extent reasonably necessary to find property enumerated in the warrant which may be concealed upon the person.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 615, Pub. L. 91-358, title II, § 210(a); Oct. 26, 1974, 88 Stat. 1456, Pub. L. 93-481, § 4(d).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 23-524.</text>
-        <text>1973 Ed., § 23-524.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Execution of warrants by police force, see § 5-127.05.</text>
+      <text>Search warrants in narcotic drug cases, see § 48-902.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 23-524.</text>
+      <text>1973 Ed., § 23-524.</text>
     </level>
   </level>
 </level>

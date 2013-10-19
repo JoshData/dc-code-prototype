@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1804</num>
   <heading>Books and records; reinsurance intermediary brokers.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-3104</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For at least 10 years after expiration of each contract of reinsurance transacted by the reinsurance broker, the reinsurance broker will keep a complete record for each transaction showing:</text>
@@ -62,22 +61,22 @@
     <num>(b)</num>
     <text>The insurer will have access and the right to copy and audit all accounts and records maintained by the reinsurance broker related to its business in a form usable by the insurer.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 21, 1993, D.C. Law 10-47, § 5, 40 DCR 6093.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-3104.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-47, see Historical and Statutory Notes following § 31-1801.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1803.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-3104.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-47</heading>
+      <text>For legislative history of D.C. Law 10-47, see Historical and Statutory Notes following § 31-1801.</text>
     </level>
   </level>
 </level>

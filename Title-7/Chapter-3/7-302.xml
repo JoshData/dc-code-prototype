@@ -1,40 +1,40 @@
 <level type="section">
   <num>7-302</num>
   <heading>Confidentiality.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-1202</formerly-cited-as>
   <text>The Commissioner of Public Health shall use the records incident to a reported case of cancer for statistical and public health purposes only, and identifying information contained in these records shall be disclosed only when essential to safeguard the physical health of others. No person shall otherwise disclose or redisclose identifying information derived from these records unless:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The person reported gives his or her prior written permission;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>A court finds, upon clear and convincing evidence and after granting the person reported an opportunity to contest the disclosure, that disclosure is essential to safeguard the physical health of others; or</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The identifying information is exchanged with a cancer registry that is maintained by a state and the Commissioner of Public Health receives a satisfactory assurance from the cancer registry that the confidentiality of the identifying information shall be preserved.</text>
-    </level>
+    <num>(1)</num>
+    <text>The person reported gives his or her prior written permission;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>A court finds, upon clear and convincing evidence and after granting the person reported an opportunity to contest the disclosure, that disclosure is essential to safeguard the physical health of others; or</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The identifying information is exchanged with a cancer registry that is maintained by a state and the Commissioner of Public Health receives a satisfactory assurance from the cancer registry that the confidentiality of the identifying information shall be preserved.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 27, 1951, 65 Stat. 124, ch. 241, § 2; Feb. 21, 1986, D.C. Law 6-83, § 2(b), 32 DCR 7276; Sept. 11, 1990, D.C. Law 8-157, § 2, 37 DCR 4165.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-1202.</text>
-        <text>1973 Ed., § 6-1302.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-83, see Historical and Statutory Notes following § 7-301.</text>
-        <text>Law 8-157, the "Preventive Health Services Amendment Act of 1990," was introduced in Council and assigned Bill No. 8-385, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on May 29, 1990, and June 12, 1990, respectively. Signed by the Mayor on June 18, 1990, it was assigned Act No. 8-219 and transmitted to both Houses of Congress for its review.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-304.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-1202.</text>
+      <text>1973 Ed., § 6-1302.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-83</heading>
+      <text>For legislative history of D.C. Law 6-83, see Historical and Statutory Notes following § 7-301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-157</heading>
+      <text>Law 8-157, the "Preventive Health Services Amendment Act of 1990," was introduced in Council and assigned Bill No. 8-385, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on May 29, 1990, and June 12, 1990, respectively. Signed by the Mayor on June 18, 1990, it was assigned Act No. 8-219 and transmitted to both Houses of Congress for its review.</text>
     </level>
   </level>
 </level>

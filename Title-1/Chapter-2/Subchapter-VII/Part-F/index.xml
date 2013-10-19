@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>F</num>
-  <heading>Rules of Construction.</heading>
+  <heading>Rules of Construction</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-207.61.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-207.62.xml"/>
 </level>

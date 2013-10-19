@@ -3,79 +3,73 @@
   <heading>Evaluation of family team meetings and 72-hour time period for commencement of shelter care hearing.</heading>
   <text>At intervals no later than 6 months, 18 months, and 30 months after [April 12, 2005], the Agency shall commission an independent process and impact evaluation of the family team meetings authorized in section 16-2312(a-1) and the 72-hour period authorized in section 16-2312(a)(1). Each evaluation shall, at a minimum, assess the following processes and outcomes of the family team meetings:</text>
   <level>
+    <num>(1)</num>
+    <text>Rates of participation in the meetings for different types of participants, including parents, children, and relatives;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>Demographic information about children and families who participated in the meetings;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The percentage of meetings resulting in approved safety plans;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The supports and services included in approved safety plans;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>The extent to which supports and services included in approved safety plans actually were provided;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>The percentage of meetings that resulted in the filing of a petition in the Family Court to remove a child from the home, and the percentage of meetings that resulted in a decision not to file a petition in Family Court;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>The placement outcomes for children who were the subject of the meetings, including:</text>
     <level>
-      <num>(1)</num>
-      <text>Rates of participation in the meetings for different types of participants, including parents, children, and relatives;</text>
+      <num>(A)</num>
+      <text>The percentage of children living with parents;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>Demographic information about children and families who participated in the meetings;</text>
+      <num>(B)</num>
+      <text>The percentage of children living with relatives;</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>The percentage of meetings resulting in approved safety plans;</text>
+      <num>(C)</num>
+      <text>The percentage of children who have been adopted;</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>The supports and services included in approved safety plans;</text>
+      <num>(D)</num>
+      <text>The percentage of children living in foster care; and</text>
     </level>
     <level>
-      <num>(5)</num>
-      <text>The extent to which supports and services included in approved safety plans actually were provided;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>The percentage of meetings that resulted in the filing of a petition in the Family Court to remove a child from the home, and the percentage of meetings that resulted in a decision not to file a petition in Family Court;</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>The placement outcomes for children who were the subject of the meetings, including:</text>
-      <level>
-        <num>(A)</num>
-        <text>The percentage of children living with parents;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The percentage of children living with relatives;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The percentage of children who have been adopted;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>The percentage of children living in foster care; and</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Other applicable placements;</text>
-      </level>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>The percentage of children who received a permanent placement and whose cases were closed;</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>The percentage of children who were the subject of subsequent reports to the Agency's abuse and neglect reporting line; and</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>The effect of the 72-hour time frame for the commencement of a Family Court hearing on families' legal protections and due-process rights.</text>
+      <num>(E)</num>
+      <text>Other applicable placements;</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(8)</num>
+    <text>The percentage of children who received a permanent placement and whose cases were closed;</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>The percentage of children who were the subject of subsequent reports to the Agency's abuse and neglect reporting line; and</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>The effect of the 72-hour time frame for the commencement of a Family Court hearing on families' legal protections and due-process rights.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 12, 2005, D.C. Law 15-341, § 5(a), 52 DCR 2315.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-341, see notes following § 16-2312.</text>
-      </level>
+      <heading>Legislative History of Law 15-341</heading>
+      <text>For Law 15-341, see notes following § 16-2312.</text>
     </level>
   </level>
 </level>

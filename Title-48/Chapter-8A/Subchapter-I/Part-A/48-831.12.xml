@@ -2,18 +2,14 @@
   <num>48-831.12</num>
   <heading>Method of prescribing or ordering drugs.</heading>
   <text>The method of prescribing or ordering drugs may include, but is not limited to, the use of standard or larger prescription refill sizes in order to minimize operational costs and maximize economy. Unless the prescribing physician indicates otherwise, the use of the lowest cost generic or chemically equivalent drugs is required; provided, that these drugs are of the same quality and have the same mode of delivery as is provided to the general public, consistent with good pharmaceutical practice.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 18, 2004, D.C. Law 15-164, § 112, 51 DCR 3688.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-164, see notes following § 48-831.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-164</heading>
+      <text>For Law 15-164, see notes following § 48-831.01.</text>
     </level>
   </level>
 </level>

@@ -1,16 +1,11 @@
 <level type="placeholder">
   <reason>Omitted</reason>
   <section>1-204.94</section>
-  <heading>Armory Board amendments.</heading>
-  <level>
-    <type>annotations</type>
+  <heading>Armory Board amendments</heading>
+  <level type="annotations">
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>The text of § 1-204.94 is omitted because the corresponding text of section 494 of Public Law 93-198 amended another law.</text>
-        <text>DC CODE § 1-204.94</text>
-      </level>
+      <heading>Editor’s Notes</heading>
+      <text>The text of § 1-204.94 is omitted because the corresponding text of section 494 of Public Law 93-198 amended another law.</text>
     </level>
   </level>
 </level>

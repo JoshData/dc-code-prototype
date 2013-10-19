@@ -1,10 +1,13 @@
 <level type="section">
   <num>5-113.04</num>
   <heading>Participation of District of Columbia Metropolitan Police Department in the National Crime Information System.</heading>
-  <formerly-cited-as>DC ST 1981 § 4-133.1</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Dissemination of adult arrest records to law enforcement agents. -- </text>(1) Notwithstanding any other provision of law, the Metropolitan Police Department of the District of Columbia shall disseminate its unexpurgated adult arrest records to members of the court and law enforcement agents, including the Identification Division of the Federal Bureau of Investigation. Such dissemination shall be done without cost and without the authorization of the persons to whom such records relate.</text>
+    <heading>Dissemination of adult arrest records to law enforcement agents</heading>
+    <level>
+      <num>(1)</num>
+      <text>Notwithstanding any other provision of law, the Metropolitan Police Department of the District of Columbia shall disseminate its unexpurgated adult arrest records to members of the court and law enforcement agents, including the Identification Division of the Federal Bureau of Investigation. Such dissemination shall be done without cost and without the authorization of the persons to whom such records relate.</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>Any records disseminated under this section shall be used in a manner that complies with applicable federal law and regulations.</text>
@@ -12,7 +15,8 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Definitions. -- </text>For purposes of this section:</text>
+    <heading>Definitions</heading>
+    <text>For purposes of this section:</text>
     <level>
       <num>(1)</num>
       <text>The term "member of the court" shall include judges, prosecutors, defense attorneys (with respect to the records of their client defendants), clerks of the court, and penal and probation officers.</text>
@@ -26,18 +30,14 @@
       <text>The term "unexpurgated adult arrest records" shall include arrest fingerprint cards.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 12, 1989, 103 Stat. 1903, Pub. L. 101-223, § 7.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 4-133.1.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 4-133.1.</text>
     </level>
   </level>
 </level>

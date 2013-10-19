@@ -17,23 +17,22 @@
       <text>Whether the public information program should be supplemented to inform the public of information concerning the specific cooperative agreement, and if so, how.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 9, 2000, D.C. Law 13-100, § 4, 46 DCR 794; Mar. 2, 2007, D.C. Law 16-191, § 25, 53 DCR 6794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-191, in subsec. (b)(1), substituted "Police Complaint Board" for "Citizen Complaint Review Board "</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-100, see notes following § 5-301.</text>
-        <text>For Law 16-191, see notes following § 5-113.07.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-191, in subsec. (b)(1), substituted "Police Complaint Board" for "Citizen Complaint Review Board "</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-100</heading>
+      <text>For Law 13-100, see notes following § 5-301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 5-113.07.</text>
     </level>
   </level>
 </level>

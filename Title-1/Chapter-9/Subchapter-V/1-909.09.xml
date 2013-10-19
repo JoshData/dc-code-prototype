@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-909.09</num>
   <heading>Bonding.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-785.9</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -75,26 +74,22 @@
     <num>(e)</num>
     <text>The Retirement Board may prescribe such regulations, which shall be subject to Council review, as may be necessary to carry out the provisions of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 18, 1998, D.C. Law 12-152, § 149, 45 DCR 4045.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-785.9.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-152, see Historical and Statutory Notes following § 1-901.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Application of Law 12-152: See Historical and Statutory Notes following § 1- 901.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-785.9.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-152</heading>
+      <text>For legislative history of D.C. Law 12-152, see Historical and Statutory Notes following § 1-901.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 12-152: See Historical and Statutory Notes following § 1-901.01.</text>
     </level>
   </level>
 </level>

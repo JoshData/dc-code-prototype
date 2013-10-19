@@ -2,18 +2,14 @@
   <num>1-335.07</num>
   <heading>Enforcement.</heading>
   <text>The Mayor shall enforce this part and may bring such legal action as is necessary to do so.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 2, 2008, D.C. Law 17-106, § 8, 54 DCR 12223.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-106, see notes following § 1-335.01.</text>
-      </level>
+      <heading>Legislative History of Law 17-106</heading>
+      <text>For Law 17-106, see notes following § 1-335.01.</text>
     </level>
   </level>
 </level>

@@ -3,55 +3,49 @@
   <heading>Functional assessment.</heading>
   <text>Within 30 days prior to admission, the facility shall collect, on a standardized form approved by the Mayor, the following information regarding each applicant:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Level of functioning in activities of daily living including bathing, dressing, grooming, eating, toileting, and mobility;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Level of support and intervention, including any special equipment and supplies, required to compensate for the individual's deficits in activities of daily living;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Current physical or psychological symptoms of the individual requiring monitoring, support, or other intervention by the ALR;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Capacity of the individual for making personal and healthcare related decisions;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Presence of disruptive behavior or behavior which presents a risk to the physical or emotional health and safety of self or others;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Social factors, including:</text>
-      <level>
-        <num>(A)</num>
-        <text>Significant problems with family circumstances and personal relationships;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Spiritual status and needs; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Ability to participate in structured and group activities and the resident's current involvement in such activities.</text>
-      </level>
-    </level>
+    <num>(1)</num>
+    <text>Level of functioning in activities of daily living including bathing, dressing, grooming, eating, toileting, and mobility;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Level of support and intervention, including any special equipment and supplies, required to compensate for the individual's deficits in activities of daily living;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Current physical or psychological symptoms of the individual requiring monitoring, support, or other intervention by the ALR;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Capacity of the individual for making personal and healthcare related decisions;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Presence of disruptive behavior or behavior which presents a risk to the physical or emotional health and safety of self or others;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Social factors, including:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Significant problems with family circumstances and personal relationships;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Spiritual status and needs; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Ability to participate in structured and group activities and the resident's current involvement in such activities.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(June 24, 2000, D.C. Law 13-127, § 803, 47 DCR 2647.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-127, see notes following § 44-101.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-127</heading>
+      <text>For Law 13-127, see notes following § 44-101.01.</text>
     </level>
   </level>
 </level>

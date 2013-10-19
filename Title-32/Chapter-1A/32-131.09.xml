@@ -24,23 +24,26 @@
     <num>(d)</num>
     <text>Employers shall be furnished copies or summaries of this chapter prepared by the Mayor on request.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 13, 2008, D.C. Law 17-152, § 10, 55 DCR 3452; Mar. 25, 2009, D.C. Law 17-353, § 311(b), 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-353, in subsec. (a), deleted "in languages in accordance with subchapter II of Chapter 19 of Title 2," following "provide to employers,".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-152, see notes following § 32-131.01.</text>
-        <text>For Law 17-353, see notes following § 32-101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-131.12.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-353, in subsec. (a), deleted "in languages in accordance with subchapter II of Chapter 19 of Title 2," following "provide to employers,".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-152</heading>
+      <text>For Law 17-152, see notes following § 32-131.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 32-101.</text>
     </level>
   </level>
 </level>

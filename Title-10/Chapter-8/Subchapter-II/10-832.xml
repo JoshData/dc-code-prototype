@@ -17,28 +17,30 @@
     <num>(d)</num>
     <text>Each property shall be disposed of on an as-is basis.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 2, 2003, D.C. Law 14-267, § 3, 50 DCR 420; June 8, 2006, D.C. Law 16-119, § 3(b), 53 DCR 2609.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-119 added subsecs. (c) and (d); and rewrote subsec. (b), which had read as follows:</text>
-        <text>"(b) A property disposed of pursuant to this subchapter shall be disposed of as part of a bundle of at least 5, and not more than 25 properties."</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition, see § 3 of Abandoned and Vacant Properties Community Development Disposition, and Disapproval of Disposition of Certain Scattered Vacant and Abandoned Properties Temporary of 2002 (D.C. Law 14-203, October 17, 2002, law notification 49 DCR 10021).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-267, see notes following § 10-831.</text>
-        <text>For Law 16-119, see notes following § 10-831.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 10-835.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-119 added subsecs. (c) and (d); and rewrote subsec. (b), which had read as follows: "(b) A property disposed of pursuant to this subchapter shall be disposed of as part of a bundle of at least 5, and not more than 25 properties."</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition, see § 3 of Abandoned and Vacant Properties Community Development Disposition, and Disapproval of Disposition of Certain Scattered Vacant and Abandoned Properties Temporary of 2002 (D.C. Law 14-203, October 17, 2002, law notification 49 DCR 10021).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-267</heading>
+      <text>For Law 14-267, see notes following § 10-831.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-119</heading>
+      <text>For Law 16-119, see notes following § 10-831.</text>
     </level>
   </level>
 </level>

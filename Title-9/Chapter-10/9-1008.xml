@@ -1,13 +1,12 @@
 <level type="section">
   <num>9-1008</num>
   <heading>Relationship to and effect of other laws.</heading>
-  <formerly-cited-as>DC ST 1981 § 7-1508</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>In order to assure that the Airports Authority has the same proprietary powers and is subject to the same restrictions with respect to federal law as any other airport except as otherwise provided in this chapter, during the period that the lease authorized by § 9-1004 is in effect:</text>
     <level>
       <num>(1)</num>
-      <text>The Metropolitan Washington Airports shall be considered public airports for purposes of 49 U.S.C.App. § 2201 et seq.; and</text>
+      <text>The Metropolitan Washington Airports shall be considered public airports for purposes of 49 U.S.C. App. § 2201 et seq. [see now 49 U.S.C. § 47101 et seq. and 49 U.S.C. § 49101 et seq.]; and</text>
     </level>
     <level>
       <num>(2)</num>
@@ -26,7 +25,7 @@
     <num>(d)</num>
     <level>
       <num>(1)</num>
-      <text>The authority of the National Capital Planning Commission under § 5 of the Act of June 6, 1924 (40 U.S.C. § 71d) shall not apply to the Airports Authority.</text>
+      <text>The authority of the National Capital Planning Commission under § 5 of the Act of June 6, 1924 (40 U.S.C. § 71d) [see now 40 U.S.C. § 8722] shall not apply to the Airports Authority.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -52,28 +51,24 @@
       <text>The Federal Aviation Administration air traffic regulation entitled "Modification of Allocation: Washington National Airport" (14 C.F.R. 93.124) shall cease to be in effect on October 30, 1986.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 30, 1986, 100 Stat. 3341-376, Pub. L. 99-591, § 6009.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 7-1508.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>"An Act to provide for the administration of the Washington National Airport, and for other purposes," referred to in subsection (a)(2), is 54 Stat. 686.</text>
-        <text>"An Act to authorize the construction, protection, operation, and maintenance of a public airport in or in the vicinity of the District of Columbia," referred to in subsection (a)(2), is 64 Stat. 770.</text>
-        <text>"An Act making supplemental appropriations for the support of the government for the fiscal year ending June 30, 1941, and for other purposes," referred to in subsection (a)(2), is 54 Stat. 1030.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: See Historical and Statutory Notes following § 9-1001.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 7-1508.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: See Historical and Statutory Notes following § 9-1001.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>"An Act to provide for the administration of the Washington National Airport, and for other purposes," referred to in subsection (a)(2), is 54 Stat. 686.</text>
+      <text>"An Act to authorize the construction, protection, operation, and maintenance of a public airport in or in the vicinity of the District of Columbia," referred to in subsection (a)(2), is 64 Stat. 770.</text>
+      <text>"An Act making supplemental appropriations for the support of the government for the fiscal year ending June 30, 1941, and for other purposes," referred to in subsection (a)(2), is 54 Stat. 1030.</text>
     </level>
   </level>
 </level>

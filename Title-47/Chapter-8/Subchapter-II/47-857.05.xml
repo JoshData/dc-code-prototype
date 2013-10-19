@@ -1,6 +1,6 @@
 <level type="section">
   <num>47-857.05</num>
-  <heading>Tax abatements for new residential developments --Tax abatement for new, mixed-income housing projects downtown.</heading>
+  <heading>Tax abatements for new residential developments - Tax abatement for new, mixed-income housing projects downtown.</heading>
   <level>
     <num>(a)</num>
     <text>Subject to § 47-857.02, there shall be allowed as an abatement of the real property tax imposed by § 47-811 on an eligible real property in eligible area #1 an amount computed as follows: $1.38 per residential FAR square foot, multiplied by the building's total residential FAR square footage as certified by the project architect and the Mayor; provided, that:</text>
@@ -37,23 +37,26 @@
     <num>(c)</num>
     <text>The Mayor may require an owner to demonstrate that the rents and tenant income for the eligible real property are consistent with the requirements of the tax abatement. If the requirements are not met, the abatement shall not be allowed and the owner shall remit all taxes owed for the period of non-compliance.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 19, 2002, D.C. Law 14-114, § 601(b), 49 DCR 1468; Mar. 13, 2004, D.C. Law 15-105, § 81(b), 51 DCR 881.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-105, in par. (1) of subsec. (a), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-114, see notes following § 47-857.01.</text>
-        <text>For Law 15-105, see notes following § 47-340.22.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-857.02 and § 47-857.09.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-105, in par. (1) of subsec. (a), validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-114</heading>
+      <text>For Law 14-114, see notes following § 47-857.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>For Law 15-105, see notes following § 47-340.22.</text>
     </level>
   </level>
 </level>

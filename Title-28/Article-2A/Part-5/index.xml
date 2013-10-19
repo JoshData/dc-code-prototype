@@ -1,8 +1,0 @@
-<level type="toc">
-  <prefix>Part</prefix>
-  <num>5</num>
-  <heading>Default.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="level-A/index.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="level-B/index.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="level-C/index.xml"/>
-</level>

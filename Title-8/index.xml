@@ -5,7 +5,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>A</num>
-    <heading>Environmental Control and Protection.</heading>
+    <heading>Environmental Control and Protection</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1B/index.xml"/>
@@ -22,7 +22,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>B</num>
-    <heading>Waste Disposal and Management.</heading>
+    <heading>Waste Disposal and Management</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-7/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-7A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-8/index.xml"/>
@@ -33,7 +33,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>C</num>
-    <heading>Hazardous Waste and Materials Disposal and Management.</heading>
+    <heading>Hazardous Waste and Materials Disposal and Management</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-12/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-13/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-14/index.xml"/>
@@ -42,15 +42,16 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>D</num>
-    <heading>Soil and Waste Conservation.</heading>
+    <heading>Soil and Water Conservation</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-16/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-17/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>D-I</num>
-    <heading>Energy Conservation.</heading>
+    <heading>Energy Conservation</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-17M/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-17M1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-17N/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-17O/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-17P/index.xml"/>
@@ -61,7 +62,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>E</num>
-    <heading>Animal Control and Protection.</heading>
+    <heading>Animal Control and Protection</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-18/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-19/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-20/index.xml"/>

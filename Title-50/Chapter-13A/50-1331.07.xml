@@ -1,6 +1,6 @@
 <level type="section">
   <num>50-1331.07</num>
-  <heading>Restrictions on Use and Transfer of Non-repairable Vehicles.</heading>
+  <heading>Restrictions on use and transfer of Non-repairable Vehicles.</heading>
   <level>
     <num>(a)</num>
     <text>No motor vehicle for which a Non-repairable Vehicle Certificate has been issued shall be titled or registered by the Department.</text>
@@ -13,18 +13,14 @@
     <num>(c)</num>
     <text>Whenever a motor vehicle has been flattened, baled, shredded, or otherwise destroyed, the motor vehicle title or Non-repairable Vehicle Certificate for the vehicle shall be surrendered to the Department within 30 days of the destruction. If the destroyed vehicle is titled in another state, the Department shall inform the titling state of the surrender of the title or Non-repairable Vehicle Certificate and of the vehicle's destruction.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2005, D.C. Law 15-307, § 107, 52 DCR 1700.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-307, see notes following § 50-1331.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-307</heading>
+      <text>For Law 15-307, see notes following § 50-1331.01.</text>
     </level>
   </level>
 </level>

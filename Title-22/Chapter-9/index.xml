@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>9</num>
-  <heading>Commercial Counterfeiting.</heading>
-  <level>
-    <text>DC CODE D. IV, T. 22, Subt. I, Ch. 9, Refs &amp; Annos</text>
-  </level>
+  <heading>Commercial Counterfeiting</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-901.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-902.xml"/>
 </level>

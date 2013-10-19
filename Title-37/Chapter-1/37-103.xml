@@ -1,7 +1,6 @@
 <level type="section">
   <num>37-103</num>
   <heading>Enterprise Fund.</heading>
-  <formerly-cited-as>DC ST 1981 § 10-303</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There is established the Eastern Market Enterprise Fund ("Fund"), an interest-bearing account, pursuant to § 47-373(2)(C). The Fund shall be operated by the CPMO in accordance with general accepted accounting principles.</text>
@@ -14,33 +13,39 @@
     <num>(c)</num>
     <text>All Eastern Market accounts shall be independently audited biennially by the District of Columbia Auditor, and the audit shall be submitted to the Mayor and the Council.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 16, 1999, D.C. Law 12-228, § 4, 46 DCR 1066; Apr. 20, 1999, D.C. Law 12-264, § 22(b), 46 DCR 1066; Dec. 7, 2004, D.C. Law 15-205, § 1192(d), 51 DCR 8441.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 10-303.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-205, in subsec. (c), substituted "biennially" for "annually".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 1192(d) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004, 51 DCR 8236).</text>
-        <text>For temporary (90 day) amendment of section, see § 1192(d) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004, 51 DCR 11725).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-228, see Historical and Statutory Notes following § 37-101.</text>
-        <text>For legislative history of D.C. Law 12-264, see Historical and Statutory Notes following § 37-101.</text>
-        <text>Law 15-205, the "Fiscal Year 2005 Budget Support Act of 2004", was introduced in Council and assigned Bill No. 15-768, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 14, 2004, and June 29, 2004, respectively. Signed by the Mayor on August 2, 2004, it was assigned Act No. 15-487 and transmitted to both Houses of Congress for its review. D.C. Law 15-205 became effective on December 7, 2004.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 37-111.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 10-303.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-205, in subsec. (c), substituted "biennially" for "annually".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 1192(d) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004, 51 DCR 8236).</text>
+      <text>For temporary (90 day) amendment of section, see § 1192(d) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004, 51 DCR 11725).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-228</heading>
+      <text>For legislative history of D.C. Law 12-228, see Historical and Statutory Notes following § 37-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-264</heading>
+      <text>For legislative history of D.C. Law 12-264, see Historical and Statutory Notes following § 37-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-205</heading>
+      <text>Law 15-205, the "Fiscal Year 2005 Budget Support Act of 2004", was introduced in Council and assigned Bill No. 15-768, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 14, 2004, and June 29, 2004, respectively. Signed by the Mayor on August 2, 2004, it was assigned Act No. 15-487 and transmitted to both Houses of Congress for its review. D.C. Law 15-205 became effective on December 7, 2004.</text>
     </level>
   </level>
 </level>

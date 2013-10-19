@@ -1,31 +1,24 @@
 <level type="section">
   <num>10-1121.07</num>
   <heading>Airspace and structures erected thereon deemed real property for purpose of taxation, water and sewer charges; exemptions.</heading>
-  <formerly-cited-as>DC ST 1981 § 7-1037</formerly-cited-as>
   <text>For the purposes of this subchapter, airspace and structures constructed or erected in airspace shall be deemed to be real property and shall be liable to assessment, taxation, and water and sewer service charges by the District from the beginning of the term or period of such lease. For the purposes of real property assessments and taxation, the value of airspace, other than any structure constructed or erected in airspace, shall be its fair market value. No tax or assessment shall be levied with respect to airspace or structures in airspace:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Occupied exclusively by the federal government or the District government; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Occupied and used by 1 or more organizations which, under § 47-1002, are exempt from real property taxation.</text>
-    </level>
+    <num>(1)</num>
+    <text>Occupied exclusively by the federal government or the District government; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Occupied and used by 1 or more organizations which, under § 47-1002, are exempt from real property taxation.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 17, 1968, 82 Stat. 1167, Pub. L. 90-598, § 8.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 7-1037.</text>
-        <text>1973 Ed., § 7-947.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 7-1037.</text>
+      <text>1973 Ed., § 7-947.</text>
     </level>
   </level>
 </level>

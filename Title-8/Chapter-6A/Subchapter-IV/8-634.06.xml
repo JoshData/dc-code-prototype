@@ -1,49 +1,47 @@
 <level type="section">
   <num>8-634.06</num>
   <heading>Civil penalties.</heading>
-  <text>Pursuant to § 8-634.01 , a person who:</text>
+  <text>Pursuant to § 8-634.01, a person who:</text>
   <level>
+    <num>(1)</num>
+    <text>Violates or fails to comply with an order of the Mayor, permit, or other applicable standard, requirement, regulation, or provisions of law pursuant to this chapter, shall be liable for:</text>
     <level>
-      <num>(1)</num>
-      <text>Violates or fails to comply with an order of the Mayor, permit, or other applicable standard, requirement, regulation, or provisions of law pursuant to this chapter, shall be liable for:</text>
-      <level>
-        <num>(A)</num>
-        <text>Civil penalties not to exceed $10,000 for each day of noncompliance; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>An amount equal to 3 times the costs expended resulting from a failure to take proper action; and</text>
-      </level>
+      <num>(A)</num>
+      <text>Civil penalties not to exceed $10,000 for each day of noncompliance; and</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>Without sufficient cause, willfully violates, fails, or refuses to comply with an order of the Mayor, permit, or other applicable standard, requirement, regulation, or provisions of law pursuant to this chapter, shall be liable for:</text>
-      <level>
-        <num>(A)</num>
-        <text>Civil penalties not to exceed $25,000 for each day of noncompliance; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>An amount equal to 3 times the costs expended resulting from a failure to take proper action.</text>
-      </level>
+      <num>(B)</num>
+      <text>An amount equal to 3 times the costs expended resulting from a failure to take proper action; and</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Without sufficient cause, willfully violates, fails, or refuses to comply with an order of the Mayor, permit, or other applicable standard, requirement, regulation, or provisions of law pursuant to this chapter, shall be liable for:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Civil penalties not to exceed $25,000 for each day of noncompliance; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>An amount equal to 3 times the costs expended resulting from a failure to take proper action.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(June 13, 2001, D.C. Law 13-312, § 406, as added Apr. 8, 2011, D.C. Law 18-369, § 2(k), 58 DCR 996.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 2(k) of Brownfield Revitalization Emergency Amendment Act of 2010 (D.C. Act 18-667, December 28, 2010, 58 DCR 95).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-369, see notes under § 8-631.02.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-633.08.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 2(k) of Brownfield Revitalization Emergency Amendment Act of 2010 (D.C. Act 18-667, December 28, 2010, 58 DCR 95).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-369</heading>
+      <text>For history of Law 18-369, see notes under § 8-631.02.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>39</num>
-  <heading>Consumer Protection Procedures.</heading>
+  <heading>Consumer Protection Procedures</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-3901.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-3902.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-3903.xml"/>
@@ -12,7 +12,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-3908.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-3909.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-3910.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-3911.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-3911~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-3912.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-3913.xml"/>
 </level>

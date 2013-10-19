@@ -1,30 +1,235 @@
 <level type="section">
   <num>2-501</num>
   <heading>Effect of subchapter.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-1501</formerly-cited-as>
   <text>This subchapter shall supplement all other provisions of law establishing procedures to be observed by the Mayor and agencies of the District government in the application of laws administered by them, except that this subchapter shall supersede any such law and procedure to the extent of any conflict therewith.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 21, 1968, 82 Stat. 1204, Pub. L. 90-614, § 2; Oct. 8, 1975, D.C. Law 1-19, title I, § 102(a), 22 DCR 2048; Mar. 29, 1977, D.C. Law 1-96, § 3(a), (c), 23 DCR 9532b.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-1501.</text>
-        <text>1973 Ed., § 1-1501.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 1-19 was introduced in Council and assigned Bill No. 1-1, which was referred to the Committee of the Whole, the Committee on the Judiciary and the Committee on Criminal Law. The Bill was adopted on first and second readings on June 3, 1975 and June 20, 1975, respectively. Signed by the Mayor on July 10, 1975, it was assigned Act No. 1-30 and transmitted to both Houses of Congress for its review.</text>
-        <text>For legislative history of D.C. Law 1-96, see Historical and Statutory Notes following § 2-531.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>D.C. Board of Appeals and Review established: See Mayor's Order 84-79, April 26, 1984, as amended by Mayor's Order 86-50, March 31, 1986.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>District of Columbia Court of Appeals, jurisdiction to review administrative orders and decisions, see § 11-722.</text>
+      <text>Boxing and wrestling commission, powers, see § 3-606.</text>
+      <text>Boxing and wrestling commission, jurisdiction, see § 3-605.</text>
+      <text>Business improvement districts, hearings, see § 2-1215.06.</text>
+      <text>Business improvement districts, rulemaking, see § 2-1215.22.</text>
+      <text>Criminal justice supervisory board, rules governing operation, promulgation, see § 3-904.</text>
+      <text>Health and safety, civil infractions, hearing on notice of infraction, see § 2-1802.03.</text>
+      <text>Historic landmark and district protection, administrative review, see § 6-1112.</text>
+      <text>Housing Finance Agency, bonds and notes, issuance, see § 42-2704.02.</text>
+      <text>Litter control, hearing examiners, appointment and powers, see § 8-808.</text>
+      <text>Litter control administration, rules and regulations, see § 8-802.</text>
+      <text>Motor vehicles, international registration plan agreement, rules, see § 50-1507.07.</text>
+      <text>Motor vehicles, Public Parking Authority, revenue bonds, see § 50-2512.</text>
+      <text>Regional interstate banking, hearings, private sessions, see § 26-713.</text>
+      <text>Security and fire alarm systems, regulations, alarm dealers, licenses and permits, see § 7-2804.</text>
+      <text>Security and fire alarm systems, rules and regulations, saving clause, see § 7-2815.</text>
+      <text>Washington Convention Center Authority, duties of the Board of Directors, see § 10-1202.06.</text>
+      <text>Washington Convention Center Authority, power to issue bonds and notes, see § 10-1202.10.</text>
+      <text>Abandoned and junk vehicle removal, promulgation of rules and regulations, see § 50-2406.</text>
+      <text>Administrative Procedure Act defined, see § 2-1401.02.</text>
+      <text>Adult protective services, rules and regulations to be issued by Mayor, see § 7-1909.</text>
+      <text>Advisory neighborhood commissions, annual allocations, powers and duties of commission, rules to be issued by Mayor, see § 1-309.13.</text>
+      <text>Affirmative action requirements, development and promulgation of guidelines, compliance with Administrative Procedure Act, see § 2-1402.53.</text>
+      <text>AIDS and health care, rules and regulations to be issued by Mayor, see § 7-1606.</text>
+      <text>AIDS and HIV testing protocols, sexual offenders, promulgation of rules and regulations, see § 22-3903.</text>
+      <text>Air pollution control, promulgation of rules and regulations, see § 8-101.06.</text>
+      <text>Alternative fuels technology, promulgation of rules and regulations, see § 50-705.</text>
+      <text>Bicycles, fine and penalty schedule, see § 50-1634.</text>
+      <text>Bicycles, promulgation of rules and regulations, see § 50-1632.</text>
+      <text>Board of Elections and Ethics, authority to issue rules and regulations, compliance with Administrative Procedure Act, see § 1-1021.02.</text>
+      <text>Board of Elections and Ethics, powers and duties, hearings before 1 member panels, appeal, see § 1-1001.05.</text>
+      <text>Board of Real Property Assessments and Appeals, promulgation of administrative procedures, see § 47-825.01.</text>
+      <text>Board of Registration for Professional Engineers, appeal of adverse action, compliance with Administrative Procedure Act, see § 47-2886.09.</text>
+      <text>Boxing and wrestling commission, powers, see § 3-606.</text>
+      <text>Budget and financial management, rulemaking authority, mayor to issue implementing rules pursuant to Administrative Procedure Act, see § 47-351.16.</text>
+      <text>Building regulations, community development, acquisition and disposition of property, authority of Mayor, see § 6-1005.</text>
+      <text>Building regulations, construction codes, Mayor's authority to amend, see § 6-1409.</text>
+      <text>Bulk transfers, fees for filing, indexing, and certificates, fees to be adopted pursuant to Administrative Procedure Act, see § 28:6-109.</text>
+      <text>Check cashing services, cease and desist orders, hearing procedures, see § 26-321.</text>
+      <text>Check cashing services, suspension and revocation of licenses, hearing procedures, see § 26-316.</text>
+      <text>Child care services and facilities, proposed rules and regulations to be issued by Mayor, see § 7-2007.</text>
+      <text>Child development homes insurance, liability coverage levels, promulgation of rules and regulations, see § 31-4003.</text>
+      <text>Child Protection Register, authority to retain information required for research, planning, evaluation and management, adoption of applicable rules, see § 4-1302.02.</text>
+      <text>Child Protection Register, procedures for challenging information, adoption of rules, see § 4-1302.06.</text>
+      <text>Child support enforcement, promulgation of rules and regulations, see § 46-227.</text>
+      <text>Cigarettes, below-cost sales, promulgation of rules and regulations, see § 28-4527.</text>
+      <text>Clinical laboratories, suspension and revocation of licenses, hearing procedures, see § 44-212.</text>
+      <text>Collection and disbursement of taxes, rates to be charged for issuing certificates, assessments, and duplicate returns, notice of change of rates to be published in accordance with Administrative Procedure Act, see § 47-406.</text>
+      <text>Commercial motor vehicle driver licenses, disqualified persons, see § 50-406.</text>
+      <text>Commercial motor vehicle driver's licenses, promulgation of rules and regulations, see § 50-409.</text>
+      <text>Commission on Judicial Disabilities and Tenure, authority to make rules and regulations for commission's operations, application of certain selected provisions of Administrative Procedure Act, see § 11-1525.</text>
+      <text>Compulsory/no-fault motor vehicle insurance, policy cancellations, appeals, see § 31-2409.</text>
+      <text>Condominiums, judicial review of actions of mayor, to be subject to Administrative Procedure Act, "rule making" standard to apply, see § 42-1904.16.</text>
+      <text>Condominiums, rules and regulations to be adopted by mayor in accordance with Administrative Procedure Act, coverage of rules, see § 42-1904.12.</text>
+      <text>Consumer credit service organizations, promulgation of rules and regulations, see § 28-4608.</text>
+      <text>Dangerous dogs, proposed rules and regulations, procedures for review, see § 8-2035.</text>
+      <text>Dangerous dogs, rules and regulations, authority of Mayor, see § 8-1908.</text>
+      <text>Day care, contracts with licensed child development centers, payment for services, see § 4-409.</text>
+      <text>Day care, payments to child development homes and to in-home caregivers, see § 4-410.</text>
+      <text>Director of Campaign Finance, discretion to investigate certain violations, compliance with Administrative Procedure Act, see § 1-1103.02.</text>
+      <text>Disability, hearing on claim, limited application of Administrative Procedure Act, see § 1-623.24.</text>
+      <text>Driver license interstate compact, promulgation of rules and regulations, see § 50-1002.</text>
+      <text>Drug manufacture and distribution licensure, promulgation of rules and regulations, see § 48-714.</text>
+      <text>Drug offenses, property forfeitures, promulgation of rules and regulations, see § 48-905.02.</text>
+      <text>Economic development zone incentives, Mayor's authority to issue rules, see § 6-1506.</text>
+      <text>Education Licensure Commission, see § 38-1306.</text>
+      <text>Environmental impact statements, rules and regulations, authority of Mayor, see § 8-109.09.</text>
+      <text>Environmental impact statements, see § 8-109.03.</text>
+      <text>Family and medical leave, employer violations, hearing procedures, see § 32-509.</text>
+      <text>Family and medical leave, promulgation of rules and regulations, see § 32-517.</text>
+      <text>Financial institutions, interstate banking and branching, promulgation of rules and regulations, see §§ 26-711 and 26-741.</text>
+      <text>Fire safety, smoke detectors, fines and penalties, election of remedies, Mayor's authority to issue proposed rules, see § 6-751.09.</text>
+      <text>Firearms control laws, application of Administrative Procedure Act, see § 7-2507.09.</text>
+      <text>Firearm dealer's license, revocation or denial of application, notice of final decision, when effective, see § 7-2504.06.</text>
+      <text>Firearm registration certificate, revocation or denial of application, notice of final decision, when effective, see § 7-2502.10.</text>
+      <text>Food delivery insurance, promulgation of rules and regulations, see § 50-105.</text>
+      <text>Foreign insurance companies, transfer of corporate domicile, promulgation of rules and regulations, see § 31-1705.</text>
+      <text>Fund for Drug Prevention and Children at Risk, promulgation of rules and regulations, see § 47-4005.</text>
+      <text>Garbage disposal sites, authority of Mayor to acquire by purchase or condemnation, see § 8-705.</text>
+      <text>Government reorganization procedures, District boards and commissions, Mayor's authority to issue rules and regulations, see § 1-315.07.</text>
+      <text>Hazardous materials transportation, rules and regulations to be issued by Mayor, see § 8-1405.</text>
+      <text>Hazardous waste management, pesticide applicators, see § 8-403.</text>
+      <text>Hazardous waste management, pesticide operations, administration and enforcement, adoption of regulations, see § 8-411.</text>
+      <text>Hazardous waste management, pesticide operations; denial, suspension, modification, and revocation of certification or license, see § 8-410.</text>
+      <text>Hazardous waste management, toxic source reduction, rules and regulations, see § 8-1322.</text>
+      <text>Health and safety, civil infractions, procedures in summary action, judicial review, see § 2-1801.06.</text>
+      <text>Health and safety, vital records, authority of Registrar of Human Services to issue regulations, see § 7-226.</text>
+      <text>Health maintenance organizations, civil and administrative penalties, procedural requirements, see § 31-3419.</text>
+      <text>Health occupations, registered acupuncture therapists, see § 3-1209.03. Health-care assistance reimbursement, rules to be issued by Mayor, see § 4-608.</text>
+      <text>Home Purchase Assistance Fund, promulgation of rules and regulations, see § 42-2625.</text>
+      <text>Housing finance agency, Administrative Procedure Act applicability to agency activities, see § 42-2705.01.</text>
+      <text>Housing Production Trust Fund, promulgation of rules and regulations, see § 42-2804.</text>
+      <text>Human Rights Office and Human Rights Commission, hearings to be conducted in accordance with procedures promulgated pursuant to the Administrative Procedures Act, see § 2-1403.12.</text>
+      <text>Human Rights Office and Human Rights Commission, rule-making authority, compliance with Administrative Procedure Act, see § 2-1403.01.</text>
+      <text>Indigent persons, public reimbursements for medical care, promulgation of rules and regulations, see § 44-706.</text>
+      <text>Inheritance and estate taxes, promulgation of rules and regulations, see § 47-3720.</text>
+      <text>Institutions of learning, person aggrieved by adverse action as to licensing may appeal as provided in Administrative Procedure Act, see § 29-617.</text>
+      <text>Insurance, AIDS and HIV testing protocols for insureds, appeals, see § 31-1604.</text>
+      <text>Insurance holding companies, promulgation of rules and regulations, see §§ 31-738 and 31-760.</text>
+      <text>Insurance, managing general agents, civil penalties, appeals, see § 31-1506.</text>
+      <text>Interstate compact on placement of children, delinquent children, hearings, appeal and review, see § 4-1424.</text>
+      <text>Interstate Compact on Placement of Children, promulgation of rules and regulations, see § 4-1422.</text>
+      <text>Licensing of health professionals, authority of Mayor to temporarily suspend licenses, appeals, see § 3-1205.15.</text>
+      <text>Licensing of health professionals, hearings, see § 3-1205.19.</text>
+      <text>Life insurance companies, promulgation of rules and regulations, see § 31-4728.</text>
+      <text>Limited liability partnerships, promulgation of filing fee schedules, see § 33-110.04.</text>
+      <text>Limited partnerships, promulgation of rules and regulations, see § 33-211.02.</text>
+      <text>Litter control administration, nuisance, hearing on violation, see § 8-805.</text>
+      <text>Litter control administration, rules and regulations to be issued by mayor, see § 8-810.</text>
+      <text>Long-term care ombudsman program, proposed rules and regulations to be issued by Mayor, see § 7-706.01.</text>
+      <text>Lottery and charitable games commission, licenses to conduct bingo games, raffles, and Monte Carlo night parties, see § 3-1323.</text>
+      <text>Lottery and charitable games control board, issuance of proposed rules, Monte Carlo night parties, see § 3-1322.01.</text>
+      <text>Low-level radioactive waste generator regulatory policy, rules and regulations to be issued by Mayor, see § 8-1506.</text>
+      <text>Mayor, authority to adopt and implement rules and regulations as to emergency executive orders, see § 7-2306.</text>
+      <text>Medicaid provider fraud prevention, rules, see § 4-805.</text>
+      <text>Medical and hospitalization service subscriptions, promulgation of rules and regulations, see § 31-3524</text>
+      <text>Medicare supplement insurance, promulgation of rules and regulations, see § 31-3710.</text>
+      <text>Mentally retarded citizens, duty of mayor to issue rules pursuant to Administrative Procedure Act implementing statutes, see § 7-1306.03a.</text>
+      <text>Merit system, career service positions, authority of Mayor to propose rules and regulations, see § 1-608.01.</text>
+      <text>Merit system, educational service, proposed rules and regulations to be issued by Mayor, see § 1-608.01a.</text>
+      <text>Merit system, health benefits, authority of Mayor to propose rules and regulations, see § 1-621.13.</text>
+      <text>Merit system, legal service, rulemaking authority of attorney general, see § 1-608.61.</text>
+      <text>Merit system, life insurance and benefit program study, authority of Mayor to propose rules and regulations, see § 1-622.14.</text>
+      <text>Merit system, retirement, authority of Mayor to propose rules and regulations, see § 1-626.08.</text>
+      <text>Merit system, tax-favored and pre-tax benefits programs, Mayor's authority to issue rules and regulations, see § 1-611.19.</text>
+      <text>Metabolic disorders, screening tests, Mayor's authority to issue rules, see § 7-833.</text>
+      <text>Metropolitan police, treatment of property, Mayor's authority to propose rules and regulations, see § 5-119.10.</text>
+      <text>Mortgage lenders and brokers, promulgation of rules and regulations, see § 26-1121.</text>
+      <text>Mortgage lenders and brokers, rejection of license applications, hearing procedures, see § 26-1106.</text>
+      <text>Mortgage lenders and brokers, suspension and revocation of licenses, hearing procedures, see § 26-1119.</text>
+      <text>Motor fuel tax, promulgation of rules and regulations, see § 47-2315.</text>
+      <text>Motor vehicle safety responsibility, application of Administrative Procedure Act to administrative actions relating to licensing, registration, and financial responsibility, see § 50-1301.04.</text>
+      <text>Motor vehicles and traffic, mandatory use of seat belts, rules to be adopted pursuant to Administrative Procedure Act, see § 50-1806.</text>
+      <text>Motor vehicles and traffic, traffic regulations, publication of regulations in accordance with Administrative Procedure Act, see § 50-2201.03.</text>
+      <text>Nurses training corps, promulgation of rules and regulations, see § 38-1503.</text>
+      <text>Nursing homes and community residence facilities, promulgation of rules and regulations, see § 44-1005.01.</text>
+      <text>Nursing homes, hospices, and home care agencies, promulgation of rules and regulations, see § 44-504.</text>
+      <text>Occupational Safety and Health Board, promulgation of administrative procedures, see § 32-1105.</text>
+      <text>Occupational safety and health, promulgation of rules and regulations, see §§ 32-1107, 32-1108, and 32-1123.</text>
+      <text>Office of Director of Campaign Finance, presentation of certain civil and criminal matters to board by general counsel, compliance with Administrative Procedure Act, see § 1-1103.01.</text>
+      <text>Office of Energy, appointment of Director, duty to promulgate regulations in accordance with Administrative Procedure Act, see § 8-171.04.</text>
+      <text>Office of Interpreter Services, promulgation of rules and regulations, see § 2-1911.</text>
+      <text>Office of public records management, archival administration and library of governmental information, appointment of public records administrator, see § 2-1702.</text>
+      <text>Official correspondence, authority of Director of General Services to promulgate rules and regulations, see § 2-704.</text>
+      <text>Parental leave, employer violations, hearing procedures, see § 32-1204.</text>
+      <text>Personal property taxes, exemptions, promulgation of rules and regulations, see § 47-1508.</text>
+      <text>Personal property taxes, promulgation of rules and regulations, see § 47-1535.</text>
+      <text>Police and fire departments, office of citizen complaint review, duties of the executive director, see § 5-1106.</text>
+      <text>Prevention of blindness in infants, ophthalmia, Mayor's authority to issue rules, see § 7-801.</text>
+      <text>Prisoners, youth offenders, youth rehabilitation, promulgation of rules and regulations, see § 24-907.</text>
+      <text>Programs for the aging, volunteer service credit program, rules and regulations to be issued by Mayor, see § 7-531.10.</text>
+      <text>Prohibition of buying and selling of human body parts, rules and regulations to be issued by Mayor, see § 7-1501.03.</text>
+      <text>Public assistance, general assistance for children program, see § 4-205.05a.</text>
+      <text>Public assistance, Mayor to issue rules, see § 4-202.05.</text>
+      <text>Public assistance payments, procedure for adjustment, compliance with Administrative Procedure Act, see § 4-205.52.</text>
+      <text>Public health, rules and regulations, prevention and control of spread of communicable diseases, see § 7-131</text>
+      <text>Public utility environmental impact statements, promulgation of rules and regulations, see § 34-2604.</text>
+      <text>Public welfare supervision, adoption subsidy payments, see § 4-301.</text>
+      <text>Radon testing and mitigation programs, promulgation of rules and regulations, see § 28-4202.</text>
+      <text>Real property tax exemptions, promulgation of rules and regulations, see § 47-1010.01.</text>
+      <text>Real property value assessment, promulgation of rules and regulations, see § 47-820.01.</text>
+      <text>Recorder of Deeds, promulgation of rules and regulations, see § 42-1117.</text>
+      <text>Registration of motor vehicles, promulgation of fee schedules, see § 50-1501.03.</text>
+      <text>Registration of state officials entering District, authority of Chief of Metropolitan Police Department to promulgate regulations, see § 5-1202.</text>
+      <text>Regulation of horse-drawn carriage trade, rules and regulations, authority of Mayor, see § 8-2013.</text>
+      <text>Reports of cancer and malignant neoplastic diseases, prevention, rules and regulations, authority of Mayor, see § 7-301.</text>
+      <text>Restrictions on phosphate cleaners, implementation of provisions, Mayor's authority to issue rules, see § 8-107.02.</text>
+      <text>Retail service stations, moratorium on conversions to limited service retail service stations, rules to be issued by Office of Energy, see § 36-304.01.</text>
+      <text>Savings and loan association acquisitions, promulgation of rules and regulations, see § 26-1209.</text>
+      <text>School attendance requirements, school enrollment reports, promulgation of rules and regulations, see § 38-205.</text>
+      <text>Senior Citizens' Home Repair and Improvement Fund, promulgation of rules and regulations, see § 42-2206.</text>
+      <text>Soil and water conservation, liaisons, cooperative agreements, resource conservation programs, public hearings, publications, see § 8-1709.</text>
+      <text>Solid waste facility permits, authority to adopt implementing rules and regulations in accordance with Administrative Procedure Act, see § 8-1058.</text>
+      <text>Solid waste facility permits, judicial review of adverse action, application of Administrative Procedure Act, see § 8-1060.</text>
+      <text>Solid waste management and multi-material recycling, proposed rules and regulations to be issued by Mayor, see § 8-1023.</text>
+      <text>Solid waste management and multi-material recycling, rules and regulations to be issued by Mayor, see § 8-1018.</text>
+      <text>Spouse equity, authority of Mayor to propose rules and regulations, see § 1-529.05.</text>
+      <text>State Health Planning and Development Agency (SHPDA), promulgation of rules and regulations, see § 44-421.</text>
+      <text>Statewide Health Coordinating Council, promulgation of administrative procedures, see § 44-403.</text>
+      <text>Streets, make a difference selection committee, authority of Mayor to issue rules for the implementation of subchapter VIII of Chapter 12 of Title 9, see § 9-1215.08.</text>
+      <text>Student health care, promulgation of rules and regulations, see §§ 38-608 and 38-621.</text>
+      <text>Substance abuse treatment facilities, promulgation of rules and regulations, see § 44-1207.</text>
+      <text>Supermarket tax incentives, promulgation of rules and regulations, see § 47-3804.</text>
+      <text>Surveyor of District of Columbia, authority to revise fee schedules, notice of revision to comply with Administrative Procedure Act, see § 1-1329.</text>
+      <text>Tax Revision Commission, rulemaking authority, consistency with Administrative Procedure Act, see § 47-464.</text>
+      <text>Taxicab Commission Fund, funding and expenditures, see § 50-320.</text>
+      <text>Taxicab Commission, panels, promulgation of administrative procedures, see § 50-310.</text>
+      <text>Taxicabs, Panel on Rates and Rules, promulgation of rules and regulations, see § 47-2829.</text>
+      <text>Tenant Assistance Program, promulgation of administrative procedures, see § 42-3503.02.</text>
+      <text>Underground storage tank management, rules and regulations, authority of Mayor, see § 8-113.12.</text>
+      <text>University of the District of Columbia, Board of Trustees, promulgation of election rules and procedures, see § 38-1202.01.</text>
+      <text>Wastewater control, administrative enforcement, see § 8-105.10.</text>
+      <text>Wastewater control, powers and duties of water and sewer authority, see § 8-105.07.</text>
+      <text>Wastewater controls, actual or threatened discharge, suspension of water service, see § 8-105.12.</text>
+      <text>Water and Sewer Authority, issuance of revenue bonds, requirements, see § 34-2202.09.</text>
+      <text>Water and sewer services, delinquencies, amnesty and receivership programs, promulgation of rules and regulations, see § 34-2306.</text>
+      <text>Water pollution control, implementation, Mayor's authority to issue rules, see § 8-103.20.</text>
+      <text>Workers' compensation, compensation orders, appeal of adverse final decision, application of Administrative Procedure Act, see § 32-1522.</text>
+      <text>Youth residential facilities licensures, monitoring of residents placed outside District or in therapeutic care, see § 7-2106.</text>
+      <text>Zoning and height of buildings, amendment procedures, public hearing requirement, see § 6-641.03.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-301.79, § 1-307.06, § 1-325.02, § 1-325.164, § 1-325.191, § 1-327.73, § 1-328.05, § 1-608.01, § 1-621.13, § 1-623.24, § 1-1001.05, § 1-1021.02, § 1-1161.01, § 1-1162.09, § 1-1171.06, § 1-1201, § 1-1329, § 2-218.68, § 2-219.05, § 2-361.06, § 2-1210.12, § 2-1212.41, § 2-1401.02, § 2-1402.53, § 2-1403.01, § 2-1403.12, § 2-1535.09, § 2-1831.01, § 3-1207.58, § 3-1209.06, § 3-1209.07, § 4-202.05, § 4-1302.02, § 4-1302.06, § 4-1303.03, § 4-1303.72, § 4-1410, § 4-1451.08, § 4-1704.07, § 5-107.04, § 5-1501.15, § 6-1405.01, § 6-1451.04, § 6-1451.11, § 7-248, § 7-1007, § 7-1305.06b, § 7-1531.27, § 7-1551.32, § 7-1671.13, § 7-1721.03, § 7-2306, § 7-2341.18, § 7-2341.23, § 7-2361.03, § 7-2361.07, § 7-2361.09, § 7-2502.10, § 7-2504.06, § 7-2505.03, § 7-2507.06, § 7-2507.09, § 7-2507.11, § 7-2508.06, § 7-2871.05, § 8-104.07, § 8-108.05, § 8-171.04, § 8-231.18, § 8-732, § 8-802, § 8-1058, § 8-1778.48, § 8-1825.09, § 8-2211, § 10-307, § 10-551.08, § 11-722, § 11-1525, § 22-2603.01, § 24-1304, § 28:6-109, § 28-4606, § 28-5210, § 31-634, § 31-3012, § 31-3162, § 31-3171.17, § 31-3311.09, § 31-5031.23, § 31-5041.11, § 31-5051.06, § 32-1331.06, § 32-1331.14, § 32-1367, § 32-1410, § 32-1522, § 37-131.10, § 38-174, § 38-272.03, § 38-275.01, § 38-651.12, § 38-756.01, § 38-828.01, § 38-1011.05, § 42-815.02, § 42-1904.12, § 42-1904.16, § 42-2705.01, § 42-3131.06, § 42-3141.11, § 42-3402.05a, § 44-635, § 44-637, § 47-351.16, § 47-406, § 47-464, § 47-825.01a, § 47-1276, § 47-2832.02, § 47-2886.09, § 48-851.04, § 50-921.02, § 50-921.76, § 50-1301.04, § 50-1403.01, § 50-1641.07, § 50-1806, § 50-2201.03, § 50-2301.05, § 50-2354, § 50-2552, § 50-2635, and § 50-2652.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-1501.</text>
+      <text>1973 Ed., § 1-1501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-19</heading>
+      <text>Law 1-19 was introduced in Council and assigned Bill No. 1-1, which was referred to the Committee of the Whole, the Committee on the Judiciary and the Committee on Criminal Law. The Bill was adopted on first and second readings on June 3, 1975 and June 20, 1975, respectively. Signed by the Mayor on July 10, 1975, it was assigned Act No. 1-30 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-96</heading>
+      <text>For legislative history of D.C. Law 1-96, see Historical and Statutory Notes following § 2-531.</text>
+    </level>
+    <level>
+      <heading>Mayor's orders</heading>
+      <text>D.C. Board of Appeals and Review established: See Mayor's Order 84-79, April 26, 1984, as amended by Mayor's Order 86-50, March 31, 1986.</text>
     </level>
   </level>
 </level>

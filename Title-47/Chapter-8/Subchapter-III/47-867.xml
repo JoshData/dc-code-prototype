@@ -37,22 +37,18 @@
     <num>(d)</num>
     <text>If a proper application has been made, the Mayor shall rebate the tax on or before December 31 of the same calendar year.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 5, 2005, D.C. Law 15-275, § 2(b), 52 DCR 829.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 15-275, the "Public Charter School Real Property Tax Rebate Act of 2004", was introduced in Council and assigned Bill No. 15-304, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on November 9, 2004, and December 7, 2004, respectively. Signed by the Mayor on December 29, 2004, it was assigned Act No. 15-666 and transmitted to both Houses of Congress for its review. D.C. Law 15-275 became effective on April 5, 2005.</text>
-      </level>
-      <level>
-        <heading>Effective Dates</heading>
-        <text>Section 7052 of D.C. Law 17-219 repealed section 3 of D.C. Law 15-275.</text>
-      </level>
+      <heading>Legislative History of Law 15-275</heading>
+      <text>Law 15-275, the "Public Charter School Real Property Tax Rebate Act of 2004", was introduced in Council and assigned Bill No. 15-304, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on November 9, 2004, and December 7, 2004, respectively. Signed by the Mayor on December 29, 2004, it was assigned Act No. 15-666 and transmitted to both Houses of Congress for its review. D.C. Law 15-275 became effective on April 5, 2005.</text>
+    </level>
+    <level>
+      <heading>Effective Dates</heading>
+      <text>Section 7052 of D.C. Law 17-219 repealed section 3 of D.C. Law 15-275.</text>
     </level>
   </level>
 </level>

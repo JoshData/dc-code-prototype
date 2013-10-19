@@ -1,55 +1,48 @@
 <level type="section">
   <num>32-901</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-801</formerly-cited-as>
   <text>As used in this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Employee" means any natural person who performs any labor for compensation, in whole or in part, in the District of Columbia; but does not include:</text>
     <level>
-      <num>(1)</num>
-      <text>"Employee" means any natural person who performs any labor for compensation, in whole or in part, in the District of Columbia; but does not include:</text>
-      <level>
-        <num>(A)</num>
-        <text>Employees of any authority of the government of the United States other than the District of Columbia government;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Employees of any foreign government; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Employees of any international organization defined in 22 U.S.C. § 288.</text>
-      </level>
+      <num>(A)</num>
+      <text>Employees of any authority of the government of the United States other than the District of Columbia government;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Employer" means anyone who employs any natural person and who does business in the District of Columbia, but does not include any agency or authority of the federal government.</text>
+      <num>(B)</num>
+      <text>Employees of any foreign government; or</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>"Hiring procedure" means any procedure or action in the District of Columbia used to find, or to select for employment, any person seeking employment, whether the procedure is used by a prospective employer with all persons seeking employment, or is used only selectively with such persons.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Lie detector test" means any polygraph, lie detector, or other test which by any mechanical, electrical, chemical, or physiological means attempts to determine whether a person is telling the truth, or the truth to the best of the person's knowledge.</text>
+      <num>(C)</num>
+      <text>Employees of any international organization defined in 22 U.S.C. § 288.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Employer" means anyone who employs any natural person and who does business in the District of Columbia, but does not include any agency or authority of the federal government.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Hiring procedure" means any procedure or action in the District of Columbia used to find, or to select for employment, any person seeking employment, whether the procedure is used by a prospective employer with all persons seeking employment, or is used only selectively with such persons.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Lie detector test" means any polygraph, lie detector, or other test which by any mechanical, electrical, chemical, or physiological means attempts to determine whether a person is telling the truth, or the truth to the best of the person's knowledge.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 6, 1979, D.C. Law 2-154, § 2, 25 DCR 6980.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-801.</text>
-        <text>1973 Ed., § 36-901.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 2-154, the "Prevention of the Administration of Lie Detection Procedures Act of 1978," was introduced in Council and assigned Bill No. 2-225, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first and second readings on November 28, 1978, and December 12, 1978, respectively. Signed by the Mayor on December 29, 1978, it was assigned Act No. 2-320 and transmitted to both Houses of Congress for its review.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-801.</text>
+      <text>1973 Ed., § 36-901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-154</heading>
+      <text>Law 2-154, the "Prevention of the Administration of Lie Detection Procedures Act of 1978," was introduced in Council and assigned Bill No. 2-225, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first and second readings on November 28, 1978, and December 12, 1978, respectively. Signed by the Mayor on December 29, 1978, it was assigned Act No. 2-320 and transmitted to both Houses of Congress for its review.</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>4</num>
-  <heading>Pesticide Operations.</heading>
-  <level>
-    <text>DC CODE D. I, T. 8, Subt. A, Ch. 4, Refs &amp; Annos</text>
-  </level>
+  <heading>Pesticides</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-401.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-402.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-403.xml"/>

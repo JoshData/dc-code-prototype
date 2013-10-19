@@ -22,7 +22,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Provide at least a bronze level of coverage, as determined by § 31- 3171.04(a)(11), unless the plan is certified as a qualified catastrophic plan, meets the requirements of section 1302(e) of the Federal Act, and will only be offered to individuals eligible for catastrophic coverage;</text>
+      <text>Provide at least a bronze level of coverage, as determined by § 31-3171.04(a)(11), unless the plan is certified as a qualified catastrophic plan, meets the requirements of section 1302(e) of the Federal Act, and will only be offered to individuals eligible for catastrophic coverage;</text>
     </level>
     <level>
       <num>(4)</num>
@@ -52,7 +52,7 @@
       </level>
       <level>
         <num>(D)</num>
-        <text>Does not charge any cancellation fees or penalties in violation of § 31- 3171.04(c); and</text>
+        <text>Does not charge any cancellation fees or penalties in violation of § 31-3171.04(c); and</text>
       </level>
       <level>
         <num>(E)</num>
@@ -163,7 +163,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>The information required in subparagraph (A) of this paragraph shall be provided in plain language, as that term is defined in section 1311(e)(3) (B) of the Federal Act;</text>
+        <text>The information required in subparagraph (A) of this paragraph shall be provided in plain language, as that term is defined in section 1311(e)(3)(B) of the Federal Act;</text>
       </level>
     </level>
     <level>
@@ -202,18 +202,18 @@
     <num>(f)</num>
     <text>The Authority shall take the information required by subsection (c)(1) of this section, along with the information and the recommendations provided to the Authority by the Commissioner under section 2794(b) of the PHSA, into consideration when determining whether to allow the health carrier to make plans available through the exchanges.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 2, 2012, D.C. Law 19-94, § 10, 59 DCR 213.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-94, see notes under § 31-3171.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-3171.01 and § 31-3171.04.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-94</heading>
+      <text>For history of Law 19-94, see notes under § 31-3171.01.</text>
     </level>
   </level>
 </level>

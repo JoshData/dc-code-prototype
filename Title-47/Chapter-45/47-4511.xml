@@ -2,18 +2,14 @@
   <num>47-4511</num>
   <heading>Payroll deductions.</heading>
   <text>The District of Columbia and its agencies may agree, by contract or otherwise, to remit payments on behalf of an employee to an account through payroll deductions.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 31, 2001, D.C. Law 13-212, § 2(b), 47 DCR 9457.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-212, see notes under § 47-4501.</text>
-      </level>
+      <heading>Legislative History of Law 13-212</heading>
+      <text>For Law 13-212, see notes under § 47-4501.</text>
     </level>
   </level>
 </level>

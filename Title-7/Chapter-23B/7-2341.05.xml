@@ -53,18 +53,14 @@
     <num>(j)</num>
     <text>The Mayor shall require each applicant for emergency medical services personnel recertification to successfully complete continuing professional education or supplemental training or to successfully complete one or more competency evaluations demonstrating knowledge of the skills required for acceptable performance of the duties of that classification of personnel. The Mayor may adopt nationally recognized training requirements and evaluations or develop requirements and evaluations specific to the emergency medical services needs of the District of Columbia.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 2009, D.C. Law 17-357, § 6, 56 DCR 1167.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-357, see notes following § 7-2341.01.</text>
-      </level>
+      <heading>Legislative History of Law 17-357</heading>
+      <text>For Law 17-357, see notes following § 7-2341.01.</text>
     </level>
   </level>
 </level>

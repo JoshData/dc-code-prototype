@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Holding Company System.</heading>
+  <heading>Holding Company System</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-701.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-702.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-703.xml"/>

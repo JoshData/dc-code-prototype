@@ -1,7 +1,6 @@
 <level type="section">
   <num>4-1302.01</num>
   <heading>Duties and responsibilities.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-2111</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There is hereby established a Child Protection Register to be maintained by the Agency.</text>
@@ -42,32 +41,35 @@
     <num>(e)</num>
     <text>The Mayor shall submit a report to the Council on the Agency's plan for implementation of the provisions of this part, as amended by D.C. Law 14-206, no later than January 31, 2003.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 23, 1977, D.C. Law 2-22, title II, § 201, 24 DCR 3341; Oct. 19, 2002, D.C. Law 14-206, § 2(g), 49 DCR 7815.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-2111.</text>
-        <text>1973 Ed., § 6-2111.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-206, in subsec. (a), substituted "Agency" for "Division"; in subsec. (b)(1), substituted "Maintain, in print or in a database," for "Maintain"; in subsec. (c), substituted "Agency" for "Department of Human Services"; and added subsec. (e).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 4-1301.02.</text>
-        <text>For Law 14-206, see notes following § 4-1301.02.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>D.C. Law 14-206, referred to in subsec. (e), is the Improved Child Abuse Investigations Amendment Act of 2002, Oct. 19, 2002, 49 DCR 7815.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-1301.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-2111.</text>
+      <text>1973 Ed., § 6-2111.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-206, in subsec. (a), substituted "Agency" for "Division"; in subsec. (b)(1), substituted "Maintain, in print or in a database," for "Maintain"; in subsec. (c), substituted "Agency" for "Department of Human Services"; and added subsec. (e).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-22</heading>
+      <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 4-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-206</heading>
+      <text>For Law 14-206, see notes following § 4-1301.02.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>D.C. Law 14-206, referred to in subsec. (e), is the Improved Child Abuse Investigations Amendment Act of 2002, Oct. 19, 2002, 49 DCR 7815.</text>
     </level>
   </level>
 </level>

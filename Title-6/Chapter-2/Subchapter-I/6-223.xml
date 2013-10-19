@@ -71,7 +71,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>Service shall not count as creditable service for the purposes of § 5- 704.</text>
+        <text>Service shall not count as creditable service for the purposes of § 5-704.</text>
       </level>
     </level>
     <level>
@@ -83,23 +83,26 @@
     <num>(j)</num>
     <text>Members of the DCHAPD shall be subject fully to the authority of the Police Complaint Board pursuant to Chapter 11 of Title 5. For the purposes of the Police Complaint Board, the Chief of the DCHAPD shall perform the duties of the Chief of Police of the Metropolitan Police Department for the members of the DCHAPD.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 9, 2000, D.C. Law 13-105, § 24, 47 DCR 1325; Mar. 2, 2007, D.C. Law 16-191, § 28, 54 DCR 6794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-191, in subsec. (j), substituted "Police Complaint Board" for "Citizen Complaint Review Board ('CCRB')" in the first sentence, and substituted "Police Complaint Board" for "CCRB" in the second sentence.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-105, see notes following § 6-201.</text>
-        <text>Law 16-191, the "Technical Amendments Act of 2006", was introduced in Council and assigned Bill No. 16-760, which was referred to the Committee of the whole. The Bill was adopted on first and second readings on June 20, 2006, and July 11, 2006, respectively. Signed by the Mayor on July 31, 2006, it was assigned Act No. 16-475 and transmitted to both Houses of Congress for its review. D.C. Law 16-191 became effective on March 2, 2007.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-201.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-191, in subsec. (j), substituted "Police Complaint Board" for "Citizen Complaint Review Board ('CCRB')" in the first sentence, and substituted "Police Complaint Board" for "CCRB" in the second sentence.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-105</heading>
+      <text>For Law 13-105, see notes following § 6-201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>Law 16-191, the "Technical Amendments Act of 2006", was introduced in Council and assigned Bill No. 16-760, which was referred to the Committee of the whole. The Bill was adopted on first and second readings on June 20, 2006, and July 11, 2006, respectively. Signed by the Mayor on July 31, 2006, it was assigned Act No. 16-475 and transmitted to both Houses of Congress for its review. D.C. Law 16-191 became effective on March 2, 2007.</text>
     </level>
   </level>
 </level>

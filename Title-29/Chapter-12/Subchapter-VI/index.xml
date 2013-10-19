@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>VI</num>
-  <heading>Beneficiaries and Beneficial Rights.</heading>
+  <heading>Beneficial Owners</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1206.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1206.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1206.03.xml"/>
@@ -11,4 +11,11 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1206.07.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1206.08.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1206.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1206.10.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1206.11.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1206.12.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1206.13.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1206.14.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1206.15.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1206.16.xml"/>
 </level>

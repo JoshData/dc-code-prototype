@@ -48,42 +48,42 @@
     <num>(e)</num>
     <text>Repealed.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 12, 2005, D.C. Law 15-340, § 6, 52 DCR 2285; Oct. 22, 2008, D.C. Law 17-250, § 301(c), 55 DCR 9225; Oct. 20, 2011, D.C. Law 19-36, § 2(b), 58 DCR 6837.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-250 rewrote subsecs. (c)(1) and (3); and added subsecs. (c)(4), (5). Prior to amendment, subsecs. (c)(1) and (3) read as follows:</text>
-        <text>"(1) Two and 1/2 cents for each kilowatt-hour of shortfall from required tier one renewable sources;"</text>
-        <text>"(3) Thirty cents for each kilowatt-hour of shortfall from required solar energy sources."</text>
-        <text>D.C. Law 19-36 rewrote subsec. (c)(3); redesignated subsec. (c)(4) as subsec. (d); redesignated subsec. (c)(5) as subsec. (e); and repealed newly designated subsec. (e). Prior to amendment or repeal, subsecs. (c)(3) and (c)(5) [now subsec. (e)] read as follows:</text>
-        <text>"(3) Fifty cents in 2009 until 2018 for each kilowatt-hour of shortfall from required solar energy sources."</text>
-        <text>"(5) Beginning in 2018, and every year thereafter, the DDOE shall review the data found in the energy portfolio reports, and recommend to the Council a revised annual compliance fee. The proposed alternative compliance fee shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, and legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed alternative compliance fee by resolution within this 45-day review period, the proposed rules shall be deemed approved."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 301(c) of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008, 55 DCR 10856).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Distributed Generation Emergency Amendment Act of 2011 (D.C. Act 19-126, August 1, 2011, 58 DCR 6766).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Distributed Generation Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19- 192, October 18, 2011, 58 DCR 9154).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-340, see notes following § 34-1431.</text>
-        <text>For Law 17-250, see notes following § 34-804.</text>
-        <text>For history of Law 19-36, see notes under § 34-1432.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 3 of D.C. Law 19-36 provides:</text>
-        <text>"Sec. 3. Applicability.</text>
-        <text>"(a) This act shall apply as of the effective date of the Distributed Generation Emergency Amendment Act of 2011, passed on emergency basis on July 12, 2011 (Enrolled version of Bill 19-384) [August 11, 2011].</text>
-        <text>"(b) This act shall not apply to contracts entered into prior to the date determined pursuant to subsection (a) of this section."</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 34-1435 and § 34-1436.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-250 rewrote subsecs. (c)(1) and (3); and added subsecs. (c)(4), (5).</text>
+      <text>D.C. Law 19-36 rewrote subsec. (c)(3); redesignated subsec. (c)(4) as subsec. (d); redesignated subsec. (c)(5) as subsec. (e); and repealed newly designated subsec. (e).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 301(c) of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008, 55 DCR 10856).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Distributed Generation Emergency Amendment Act of 2011 (D.C. Act 19-126, August 1, 2011, 58 DCR 6766).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Distributed Generation Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-192, October 18, 2011, 58 DCR 9154).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-340</heading>
+      <text>For Law 15-340, see notes following § 34-1431.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-250</heading>
+      <text>For Law 17-250, see notes following § 34-804.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-36</heading>
+      <text>For history of Law 19-36, see notes under § 34-1432.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 3 of D.C. Law 19-36 provided: "Sec. 3. Applicability. (a) This act shall apply as of the effective date of the Distributed Generation Emergency Amendment Act of 2011, passed on emergency basis on July 12, 2011 (Enrolled version of Bill 19-384) August 11, 2011 .</text>
+      <text>"(b) This act shall not apply to contracts entered into prior to the date determined pursuant to subsection (a) of this section."</text>
     </level>
   </level>
 </level>

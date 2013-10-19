@@ -11,7 +11,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>If a consumer is certified as incapacitated in accordance with § 21- 2204, his or her physician shall seek to obtain consent to the provision of particular mental health services and mental health supports as follows:</text>
+    <text>If a consumer is certified as incapacitated in accordance with § 21-2204, his or her physician shall seek to obtain consent to the provision of particular mental health services and mental health supports as follows:</text>
     <level>
       <num>(1)</num>
       <text>If the physician is aware that the consumer has executed a durable power of attorney for health care pursuant to § 21-2205, and the consumer's attorney-in-fact is available and willing to make a decision pursuant to § 21-2206 about the provision of particular mental health services and mental health supports, the physician shall seek to obtain consent from the attorney-in-fact. Except in an emergency as described in subsection (c)(3)(A) of this section or as otherwise provided by law, only those particular mental health services and mental health supports to which the attorney-in-fact consents shall be provided;</text>
@@ -29,7 +29,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>After the conclusion of the administrative procedure set forth in § 7- 1231.08.</text>
+        <text>After the conclusion of the administrative procedure set forth in § 7-1231.08.</text>
       </level>
     </level>
     <level>
@@ -45,22 +45,18 @@
     <num>(e)</num>
     <text>Electroconvulsive treatment shall not be administered to a consumer without the consumer's own informed and written consent unless authorized by an order of the court issued in accordance with §§ 21-2047(c)(2) and 21-2211(b).</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 18, 2001, D.C. Law 14-56, § 207, 48 DCR 7674.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 207 of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-56, see notes following § 7-1231.01.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 207 of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-56</heading>
+      <text>For Law 14-56, see notes following § 7-1231.01.</text>
     </level>
   </level>
 </level>

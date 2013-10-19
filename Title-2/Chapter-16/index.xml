@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>16</num>
-  <heading>Public Defender Service.</heading>
-  <level>
-    <text>DC CODE D. I, T. 2, Ch. 16, Refs &amp; Annos</text>
-  </level>
+  <heading>Public Defender Service</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1601.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1602.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1603.xml"/>

@@ -2,18 +2,14 @@
   <num>38-755.01</num>
   <heading>Short title.</heading>
   <text>This subchapter may be cited as the "Early Childhood Education Act of 2012".</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 19, 2012, D.C. Law 19-142, § 501, 59 DCR 3642.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-142, see notes under § 38-751.01.</text>
-      </level>
+      <heading>Legislative History of Law 19-142</heading>
+      <text>For history of Law 19-142, see notes under § 38-751.01.</text>
     </level>
   </level>
 </level>

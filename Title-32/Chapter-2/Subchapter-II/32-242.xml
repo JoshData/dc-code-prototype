@@ -25,35 +25,41 @@
     <num>(f)</num>
     <text>The Mayor shall also provide participants with job development services, job retention counseling, and unsubsidized job placement assistance.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Jan. 5, 1980, D.C. Law 3-46, § 2a, formerly § 3, as added Oct. 20, 2005, D.C. Law 16-33, § 2052, 52 DCR 7503; renumbered Mar. 2, 2007, D.C. Law 16- 191, § 5(k), 53 DCR 6794; Sept. 18, 2007, D.C. Law 17-20, § 2032, 54 DCR 7052.)</text>
+      <heading>History</heading>
+      <text>(Jan. 5, 1980, D.C. Law 3-46, § 2a, formerly § 3, as added Oct. 20, 2005, D.C. Law 16-33, § 2052, 52 DCR 7503; renumbered Mar. 2, 2007, D.C. Law 16-191, § 5(k), 53 DCR 6794; Sept. 18, 2007, D.C. Law 17-20, § 2032, 54 DCR 7052.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-191 validated previously made technical corrections in subsec. (a) and (b).</text>
-        <text>D.C. Law 17-20, in subsec. (a), substituted "ages of 14" for "ages of 16".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 2052 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
-        <text>For temporary (90 day) amendment of section, see § 3(d) of Finance and Revenue Technical Amendments Second Emergency Amendment Act of 2006 (D.C. Act 16-585, December 28, 2006, 54 DCR 340).</text>
-        <text>For temporary (90 day) amendment of section, see § 2032 of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 16-33, the "Fiscal Year 2006 Budget Support Act of 2005", was introduced in Council and assigned Bill No. 16-200 which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 10, 2005, and June 21, 2005, respectively. Signed by the Mayor on July 26, 2005, it was assigned Act No. 16-166 and transmitted to both Houses of Congress for its review. D.C. Law 16-33 became effective on October 20, 2005.</text>
-        <text>Law 16-191, the "Technical Amendments Act of 2006", was introduced in Council and assigned Bill No. 16-760, which was referred to the Committee of the whole. The Bill was adopted on first and second readings on June 20, 2006, and July 11, 2006, respectively. Signed by the Mayor on July 31, 2006, it was assigned Act No. 16-475 and transmitted to both Houses of Congress for its review. D.C. Law 16-191 became effective on March 2, 2007.</text>
-        <text>Law 17-20, the "Fiscal Year 2008 Budget Support Act of 2007", was introduced in Council and assigned Bill No. 17-148 which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 15, 2007, and June 5, 2007, respectively. Signed by the Mayor on June 28, 2007, it was assigned Act No. 17-63 and transmitted to both Houses of Congress for its review. D.C. Law 17-20 became effective on September 18, 2007.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 2031 of D.C. Law 17-20 provided that subtitle D of title II of the act may be cited as the "Youth Employment Amendment Act of 2007".</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-328.05.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-191 validated previously made technical corrections in subsec. (a) and (b).</text>
+      <text>D.C. Law 17-20, in subsec. (a), substituted "ages of 14" for "ages of 16".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 2052 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(d) of Finance and Revenue Technical Amendments Second Emergency Amendment Act of 2006 (D.C. Act 16-585, December 28, 2006, 54 DCR 340).</text>
+      <text>For temporary (90 day) amendment of section, see § 2032 of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-33</heading>
+      <text>Law 16-33, the "Fiscal Year 2006 Budget Support Act of 2005", was introduced in Council and assigned Bill No. 16-200 which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 10, 2005, and June 21, 2005, respectively. Signed by the Mayor on July 26, 2005, it was assigned Act No. 16-166 and transmitted to both Houses of Congress for its review. D.C. Law 16-33 became effective on October 20, 2005.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>Law 16-191, the "Technical Amendments Act of 2006", was introduced in Council and assigned Bill No. 16-760, which was referred to the Committee of the whole. The Bill was adopted on first and second readings on June 20, 2006, and July 11, 2006, respectively. Signed by the Mayor on July 31, 2006, it was assigned Act No. 16-475 and transmitted to both Houses of Congress for its review. D.C. Law 16-191 became effective on March 2, 2007.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-20</heading>
+      <text>Law 17-20, the "Fiscal Year 2008 Budget Support Act of 2007", was introduced in Council and assigned Bill No. 17-148 which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 15, 2007, and June 5, 2007, respectively. Signed by the Mayor on June 28, 2007, it was assigned Act No. 17-63 and transmitted to both Houses of Congress for its review. D.C. Law 17-20 became effective on September 18, 2007.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 2031 of D.C. Law 17-20 provided that subtitle D of title II of the act may be cited as the "Youth Employment Amendment Act of 2007".</text>
     </level>
   </level>
 </level>

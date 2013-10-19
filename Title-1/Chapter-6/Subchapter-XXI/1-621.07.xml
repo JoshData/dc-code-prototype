@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-621.07</num>
   <heading>Election of coverage.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-622.7</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Unless an employee or annuitant affirmatively waives health insurance coverage, each employee or annuitant shall enroll in 1 of the approved health benefit plans under § 1-621.05 either as an individual or for self and family or provide evidence satisfactory to the Mayor that the employee or annuitant is covered under another health benefit plan.</text>
@@ -18,27 +17,30 @@
     <num>(d)</num>
     <text>An employee or annuitant may transfer enrollment from one health benefit plan to another health benefit plan under § 1-621.05 as permitted by rules promulgated by the Mayor.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 3, 1979, D.C. Law 2-139, § 2107, as added Oct. 1, 1987, D.C. Law 7- 27, § 2(d), 34 DCR 5079; Sept. 12, 2008, D.C. Law 17-231, § 3(e), 55 DCR 6758.)</text>
+      <heading>History</heading>
+      <text>(Mar. 3, 1979, D.C. Law 2-139, § 2107, as added Oct. 1, 1987, D.C. Law 7-27, § 2(d), 34 DCR 5079; Sept. 12, 2008, D.C. Law 17-231, § 3(e), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-622.7.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-231, in subsec. (b), substituted "spouse or domestic partner" for "spouse".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-27, see Historical and Statutory Notes following § 1-621.02.</text>
-        <text>For Law 17-231, see notes following § 1-301.45.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-706.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-622.7.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-231, in subsec. (b), substituted "spouse or domestic partner" for "spouse".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-27</heading>
+      <text>For legislative history of D.C. Law 7-27, see Historical and Statutory Notes following § 1-621.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 1-301.45.</text>
     </level>
   </level>
 </level>

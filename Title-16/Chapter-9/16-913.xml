@@ -1,7 +1,6 @@
 <level type="section">
   <num>16-913</num>
   <heading>Alimony.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-913</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>When a divorce or legal separation is granted, or when a termination of a domestic partnership becomes effective under § 32-702(d) and one partner has filed a petition for relief available under this section, the Court may require either party to pay alimony to the other party if it seems just and proper.</text>
@@ -82,35 +81,46 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Dec. 23, 1963, 77 Stat. 562, Pub. L. 88-241, § 1; Oct. 1, 1976, D.C. Law 1-87, § 16(a), 23 DCR 2544; Oct. 19, 2002, D.C. Law 14-207, § 2(h), 49 DCR 7827; Apr. 4, 2006, D.C. Law 16-79, § 4(f), 53 DCR 1035; Mar. 2, 2007, D.C. Law 16-191, § 131(b), 53 DCR 6794; Sept. 12, 2008, D.C. Law 17- 231, § 20(d), 55 DCR 6758.)</text>
+      <heading>History</heading>
+      <text>(Dec. 23, 1963, 77 Stat. 562, Pub. L. 88-241, § 1; Oct. 1, 1976, D.C. Law 1-87, § 16(a), 23 DCR 2544; Oct. 19, 2002, D.C. Law 14-207, § 2(h), 49 DCR 7827; Apr. 4, 2006, D.C. Law 16-79, § 4(f), 53 DCR 1035; Mar. 2, 2007, D.C. Law 16-191, § 131(b), 53 DCR 6794; Sept. 12, 2008, D.C. Law 17-231, § 20(d), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-913.</text>
-        <text>1973 Ed., § 16-913.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-207 rewrote the section which had read as follows:</text>
-        <text>"When a divorce is granted on the application of the husband or wife, the court may require him or her to pay alimony to the other spouse, if it seems just and proper."</text>
-        <text>D.C. Law 16-79, in subsec. (a), substituted "divorce or legal separation is granted, or when a termination of a domestic partnership becomes effective under § 32-702 and one partner has filed a petition for relief under this section," for "divorce or legal separation is granted,"; in par. (d)(3), substituted "marriage or domestic partnership" for "marriage"; in par. (d)(4), substituted "marriage or domestic partnership" for "marriage"; and in par. (d)(9)(B), substituted "both those that are the property of the marriage or domestic partnership and those that are not" for "both marital or non-marital".</text>
-        <text>D.C. Law 16-191, in subsec. (a), inserted "available" following "relief".</text>
-        <text>D.C. Law 17-231, in subsec. (a), substituted "§ 32-702(d)" for "§ 32-702".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-87, see Historical and Statutory Notes following § 16-911.</text>
-        <text>For Law 14-207, see notes following § 16-904.</text>
-        <text>For Law 16-79, see notes following § 16-571.</text>
-        <text>For Law 16-191, see notes following § 16-910.</text>
-        <text>For Law 17-231, see notes following § 16-904.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-911.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-913.</text>
+      <text>1973 Ed., § 16-913.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-207 rewrote the section which had read as follows: "When a divorce is granted on the application of the husband or wife, the court may require him or her to pay alimony to the other spouse, if it seems just and proper."</text>
+      <text>D.C. Law 16-79, in subsec. (a), substituted "divorce or legal separation is granted, or when a termination of a domestic partnership becomes effective under § 32-702 and one partner has filed a petition for relief under this section," for "divorce or legal separation is granted,"; in par. (d)(3), substituted "marriage or domestic partnership" for "marriage"; in par. (d)(4), substituted "marriage or domestic partnership" for "marriage"; and in par. (d)(9)(B), substituted "both those that are the property of the marriage or domestic partnership and those that are not" for "both marital or non-marital".</text>
+      <text>D.C. Law 16-191, in subsec. (a), inserted "available" following "relief".</text>
+      <text>D.C. Law 17-231, in subsec. (a), substituted "§ 32-702(d)" for "§ 32-702".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-87</heading>
+      <text>For legislative history of D.C. Law 1-87, see Historical and Statutory Notes following § 16-911.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-207</heading>
+      <text>For Law 14-207, see notes following § 16-904.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-79</heading>
+      <text>For Law 16-79, see notes following § 16-571.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 16-910.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 16-904.</text>
     </level>
   </level>
 </level>

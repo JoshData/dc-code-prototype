@@ -1,7 +1,6 @@
 <level type="section">
   <num>28-3103</num>
   <heading>Value.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-3103</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Value is given for a transfer or an obligation if, in exchange for the transfer or obligation, property is transferred, or an antecedent debt is secured or satisfied. Value does not include an unperformed promise made otherwise than in the ordinary course of the promisor's business to furnish support to the debtor or another person.</text>
@@ -14,26 +13,27 @@
     <num>(c)</num>
     <text>A transfer is made for present value if the exchange between the debtor and the transferee is intended by them to be contemporaneous and is in fact substantially contemporaneous.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 9, 1996, D.C. Law 11-83, § 2, 42 DCR 6773.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-3103.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-83, see Historical and Statutory Notes following § 28-3101.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 3 of the Uniform Fraudulent Transfer Act. See Volume 7A, Part II Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Attachment and garnishment, actions for fraudulent conveyance, see §§ 16-501 and 16-529.</text>
+      <text>Landlord and tenant, fraudulent attornment, see § 42-3232.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-3103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-83</heading>
+      <text>For legislative history of D.C. Law 11-83, see Historical and Statutory Notes following § 28-3101.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 3 of the Uniform Fraudulent Transfer Act.</text>
     </level>
   </level>
 </level>

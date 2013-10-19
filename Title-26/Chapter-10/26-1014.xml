@@ -43,20 +43,16 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>Records may be maintained at a location other than within the District of Columbia so long as they are made accessible to the Superintendent within 7 days of written notice by the Superintendent.</text>
+    <text>Records may be maintained at a location other than within the District of Columbia so long as they are made accessible to the Superintendent [Commissioner] within 7 days of written notice by the Superintendent [Commissioner].</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 18, 2000, D.C. Law 13-140, § 15, 47 DCR 3431.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-140, see notes following § 26-1001.</text>
-      </level>
+      <heading>Legislative History of Law 13-140</heading>
+      <text>For Law 13-140, see notes following § 26-1001.</text>
     </level>
   </level>
 </level>

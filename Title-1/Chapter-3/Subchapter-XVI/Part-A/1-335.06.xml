@@ -20,18 +20,14 @@
     <num>(c)</num>
     <text>This section shall not apply to reinvestment in companies on the ground that they have ceased to have Active Business Operations.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 2, 2008, D.C. Law 17-106, § 7, 54 DCR 12223.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-106, see notes following § 1-335.01.</text>
-      </level>
+      <heading>Legislative History of Law 17-106</heading>
+      <text>For Law 17-106, see notes following § 1-335.01.</text>
     </level>
   </level>
 </level>

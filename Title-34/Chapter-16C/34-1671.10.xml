@@ -24,18 +24,14 @@
     <num>(c)</num>
     <text>The Commission shall, by regulation or order, establish procedures for complaints and for resolving disputes between the gas company, natural gas suppliers, and customers.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 2005, D.C. Law 15-227, § 11, 51 DCR 10549.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-227, see notes following § 34-1651.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-227</heading>
+      <text>For Law 15-227, see notes following § 34-1651.01.</text>
     </level>
   </level>
 </level>

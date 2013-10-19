@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Procedures.</heading>
-  <level>
-    <text>DC CODE D. I, T. 2, Ch. 18, Subch. II, Refs &amp; Annos</text>
-  </level>
+  <heading>Procedures</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1802.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1802.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1802.03.xml"/>

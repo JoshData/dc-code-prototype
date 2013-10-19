@@ -3,31 +3,25 @@
   <heading>Title of trust property.</heading>
   <text>Real or personal property that is transferred to a trust may be titled in the name of:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The trust by reference to the instrument creating the trust;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The current trustee as the trustee of such trust; or</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"The trustee" as the trustee of such trust.</text>
-    </level>
+    <num>(1)</num>
+    <text>The trust by reference to the instrument creating the trust;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The current trustee as the trustee of such trust; or</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"The trustee" as the trustee of such trust.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 10, 2004, D.C. Law 15-104, § 2(b), 51 DCR 208.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-104, see notes following § 19-1301.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-104</heading>
+      <text>For Law 15-104, see notes following § 19-1301.01.</text>
     </level>
   </level>
 </level>

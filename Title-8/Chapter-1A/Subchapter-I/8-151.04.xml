@@ -21,23 +21,22 @@
     <num>(b)</num>
     <text>The Mayor shall fix the compensation of the Director pursuant to subchapter X-A of Chapter 6 of Title 1.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 15, 2006, D.C. Law 16-51, § 104, 52 DCR 10812; Mar. 2, 2007, D.C. Law 16-191, § 104, 53 DCR 6794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-191, in subsec. (b), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-51, see notes following § 8-151.01.</text>
-        <text>For Law 16-191, see notes following § 8-115.05.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-191, in subsec. (b), validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-51</heading>
+      <text>For Law 16-51, see notes following § 8-151.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 8-115.05.</text>
     </level>
   </level>
 </level>

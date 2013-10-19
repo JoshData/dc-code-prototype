@@ -11,7 +11,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>The name of a professional corporation shall contain the phrase "professional corporation" or the abbreviation "P.C.", or the word " chartered", or the abbreviation "Chtd", and may not contain the word " company", "incorporated", "corporation", or "limited", or an abbreviation of those words.</text>
+    <text>The name of a professional corporation shall contain the phrase "professional corporation" or the abbreviation "P.C.", or the word "chartered", or the abbreviation "Chtd", and may not contain the word "company", "incorporated", "corporation", or "limited", or an abbreviation of those words.</text>
   </level>
   <level>
     <num>(d)</num>
@@ -19,7 +19,7 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>The name of a limited liability partnership that is not a limited liability limited partnership shall contain the words "limited liability partnership" or "registered limited liability partnership" or the abbreviation "L.L.P.", "R.L.L.P.", "LLP", or "RLLP".</text>
+    <text>The name of a limited liability partnership that is not a limited liability limited partnership shall contain the words "limited liability partnership" or "registered limited liability partnership" or the abbreviation "L.L.P.", "R.L.L.P.", "LLP", or "RLLP". The name of a partnership that is not a limited liability partnership may not contain these names or abbreviations.</text>
   </level>
   <level>
     <num>(f)</num>
@@ -31,24 +31,36 @@
   </level>
   <level>
     <num>(h)</num>
-    <text>The name of a limited cooperative association shall contain the words "limited cooperative association" or "limited cooperative" or the abbreviation "L.C.A." or "LCA". "Limited" may be abbreviated as "Ltd. ". "Cooperative" may be abbreviated as "Co-op.", "Coop.", "Co-op", or "Coop". "Association" may be abbreviated as "Assoc.", "Assoc", "Assn.", or "Assn".</text>
+    <text>The name of a limited cooperative association shall contain the words "limited cooperative association" or "limited cooperative" or the abbreviation "L.C.A." or "LCA". "Limited" may be abbreviated as "Ltd.". "Cooperative" may be abbreviated as "Co-op.", "Coop.", "Co-op", or "Coop". "Association" may be abbreviated as "Assoc.", "Assoc", "Assn.", or "Assn".</text>
   </level>
   <level>
     <num>(i)</num>
-    <text>The name of a statutory trust may contain the words "company", "association", "club", "foundation", "fund", "institute", "society", "union", "syndicate", "limited", or "trust", or words of similar import, and may contain the name of a beneficial owner, a trustee, or any other person.</text>
+    <text>The name of a statutory trust may contain the words or abbreviations "company", "association", "club", "foundation", "fund", "institute", "society", "union", "syndicate", "limited", or "trust", or words or abbreviations of similar import, and may contain the name of a beneficial owner, a trustee, or any other person.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(a)(14), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-302.02, § 29-307.03, § 29-610.01, § 29-610.05, § 29-702.01, § 29-802.01, § 29-802.06, § 29-1003.02, and § 29-1202.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 added the second sentence in (e); and twice substituted "words or abbreviations" for "words" in (i).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-101.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

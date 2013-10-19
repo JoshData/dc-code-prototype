@@ -1,10 +1,10 @@
 <level type="section">
   <num>47-392.21</num>
   <heading>Duties of Authority during year other than control year.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-392.21</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">In general.</text> -- During the period beginning upon the termination of a control period pursuant to § 47-392.09(b) and ending with the suspension of its activities pursuant to § 47-391.07(a), the Authority shall conduct the following activities:</text>
+    <heading>In general</heading>
+    <text>During the period beginning upon the termination of a control period pursuant to § 47-392.09(b) and ending with the suspension of its activities pursuant to § 47-391.07(a), the Authority shall conduct the following activities:</text>
     <level>
       <num>(1)</num>
       <text>The Authority shall review the budgets of the District government adopted by the Council under § 1-204.46 for each fiscal year occurring during such period.</text>
@@ -24,20 +24,17 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Requiring Mayor to submit budgets to Authority.</text> -- With respect to the budget for each fiscal year occurring during the period described in subsection (a) of this section, at the time the Mayor submits the budget of the District government adopted by the Council to the President under § 1- 204.46, the Mayor shall submit such budget to the Authority.</text>
+    <heading>Requiring Mayor to submit budgets to Authority</heading>
+    <text>With respect to the budget for each fiscal year occurring during the period described in subsection (a) of this section, at the time the Mayor submits the budget of the District government adopted by the Council to the President under § 1-204.46, the Mayor shall submit such budget to the Authority.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 17, 1995, 109 Stat. 139, Pub. L. 104-8, § 221; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-392.21.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-392.21.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-1304.07</num>
   <heading>Standard of proof.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-1947</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>If the petition was filed pursuant to § 7-1303.04(a), the parent or guardian, or his or her counsel if so represented, shall present evidence which shows beyond a reasonable doubt that the respondent is not competent to refuse commitment.</text>
@@ -10,35 +9,41 @@
     <num>(b)</num>
     <text>If the petition was filed pursuant to § 7-1303.04(b-1), the District shall present clear and convincing evidence that shows that the respondent is likely to cause injury to others as a result of an intellectual disability if allowed to remain at liberty.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-137, § 407, 25 DCR 5094; Oct. 17, 2002, D.C. Law 14-199, 2(m), 49 DCR 7647; Sept. 26, 2012, D.C. Law 19-169, § 17(x), 59 DCR 5567.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-1947.</text>
-        <text>1973 Ed., § 6-1674.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-199 designated subsec. (a), and in that subsection, substituted "§ 7-1303.04(a)" for "§ 7-1303.04"; and added subsec. (b).</text>
-        <text>D.C. Law 19-169, in subsec. (b), substituted "an intellectual disability" for "mental retardation".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(m) of Civil Commitment of Citizens with Mental Retardation Emergency Amendment Act of 2002 (D.C. Act 14- 383, June 12, 2002, 49 DCR 5701).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(m) of Civil Commitment of Citizens with Mental Retardation Legislative Review Emergency Amendment Act of 2002 (D.C. Act 14-454, July 23, 2002, 49 DCR 8096).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-137, see Historical and Statutory Notes following § 7-1301.02.</text>
-        <text>For Law 14-199, see notes following § 7-1301.03.</text>
-        <text>For history of Law 19-169, see notes under § 7-761.02. </text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-1947.</text>
+      <text>1973 Ed., § 6-1674.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-199 designated subsec. (a), and in that subsection, substituted "§ 7-1303.04(a)" for "§ 7-1303.04"; and added subsec. (b).</text>
+      <text>The 2012 amendment by D.C. Law 19-169 substituted "an intellectual disability" for "mental retardation" in (b).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(m) of Civil Commitment of Citizens with Mental Retardation Emergency Amendment Act of 2002 (D.C. Act 14-383, June 12, 2002, 49 DCR 5701).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(m) of Civil Commitment of Citizens with Mental Retardation Legislative Review Emergency Amendment Act of 2002 (D.C. Act 14-454, July 23, 2002, 49 DCR 8096).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-137</heading>
+      <text>For legislative history of D.C. Law 2-137, see Historical and Statutory Notes following § 7-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-199</heading>
+      <text>For Law 14-199, see notes following § 7-1301.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-169</heading>
+      <text>See note to § 7-1304.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 35 of D.C. Law 19-169 provided that no provision of the act shall impair any right or obligation existing under law.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>38-234</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-454</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For the purposes of this subchapter, the term "weapon" means a firearm and includes:</text>
@@ -74,31 +73,30 @@
       <text>Any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 9, 1997, D.C. Law 11-174, § 2(d), 43 DCR 4500.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-454.</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>See Historical and Statutory Notes following § 38-231.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary addition of subchapter, see note to § 38-231.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-173, see Historical and Statutory Notes following § 38-231.</text>
-        <text>For legislative history of D.C. Law 11-174, see Historical and Statutory Notes following § 38-231.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-454.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>See Historical and Statutory Notes following § 38-231.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary addition of subchapter, see note to § 38-231.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-173</heading>
+      <text>For legislative history of D.C. Law 11-173, see Historical and Statutory Notes following § 38-231.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-174</heading>
+      <text>For legislative history of D.C. Law 11-174, see Historical and Statutory Notes following § 38-231.</text>
     </level>
   </level>
 </level>

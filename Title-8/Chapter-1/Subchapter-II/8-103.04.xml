@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-103.04</num>
   <heading>Classification of beneficial uses of waters.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-924</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>At least once every 3 years, the Mayor shall review the water quality standards and if appropriate revise the classification of the beneficial uses of the waters and the criteria for water needed for the particular classes of beneficial uses.</text>
@@ -18,22 +17,18 @@
     <num>(d)</num>
     <text>The Mayor shall regularly monitor District waters, according to their classification under subsection (a) of this section, to determine whether the water fulfills the quality standards established under this subchapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1985, D.C. Law 5-188, § 5, 32 DCR 919.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-924.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-188, see Historical and Statutory Notes following § 8-103.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-924.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-188</heading>
+      <text>For legislative history of D.C. Law 5-188, see Historical and Statutory Notes following § 8-103.01.</text>
     </level>
   </level>
 </level>

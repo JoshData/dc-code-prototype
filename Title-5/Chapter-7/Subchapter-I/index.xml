@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Retirement and Disability, 1916.</heading>
+  <heading>Retirement and Disability, 1916</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-701.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-702.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-703.xml"/>
@@ -28,5 +28,8 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-723.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-723.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-723.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-723.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-723.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-723.05.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-724.xml"/>
 </level>

@@ -2,18 +2,14 @@
   <num>6-1062.01</num>
   <heading>Short title.</heading>
   <text>This part may be cited as the "New Town at Capital City Market Revitalization Development and Public/Private Partnership Act of 2006".</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 2007, D.C. Law 16-278, § 201, 54 DCR 895.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-278, see notes following § 6-1061.01.</text>
-      </level>
+      <heading>Legislative History of Law 16-278</heading>
+      <text>For Law 16-278, see notes following § 6-1061.01.</text>
     </level>
   </level>
 </level>

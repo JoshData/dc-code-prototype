@@ -1,46 +1,39 @@
 <level type="section">
   <num>45-302</num>
   <heading>Duties.</heading>
-  <formerly-cited-as>DC ST 1981 § 49-402</formerly-cited-as>
   <text>It shall be the duty of the Commission to do the following:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Examine the common law and statutes relating to the District of Columbia, the ordinances, regulations, resolutions, and acts of the Council, and all relevant judicial decisions for the purpose of discovering defects and anachronisms in the law relating to the District of Columbia and recommending needed reforms;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Receive and consider proposed changes in the law recommended by the American Law Institute, the Conference of Commissioners on Uniform State Laws, any bar association, or other learned bodies;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Receive and consider suggestions from judges, public officials, lawyers, and the public generally as to defects and anachronisms in the law relating to the District of Columbia;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Recommend, from time to time, to the Council of the District of Columbia such changes in the law relating to the District of Columbia as it deems necessary to modify or eliminate antiquated or inequitable rules of law, and to bring the civil, criminal, and administrative law relating to the District of Columbia into harmony with modern conditions;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Upon request of the Council of the District of Columbia or the Chairman of the Council of the District of Columbia, study the legislative and rulemaking methods, practices, and procedures used by the District of Columbia government and make recommendations for improvement and modernization.</text>
-    </level>
+    <num>(1)</num>
+    <text>Examine the common law and statutes relating to the District of Columbia, the ordinances, regulations, resolutions, and acts of the Council, and all relevant judicial decisions for the purpose of discovering defects and anachronisms in the law relating to the District of Columbia and recommending needed reforms;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Receive and consider proposed changes in the law recommended by the American Law Institute, the Conference of Commissioners on Uniform State Laws, any bar association, or other learned bodies;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Receive and consider suggestions from judges, public officials, lawyers, and the public generally as to defects and anachronisms in the law relating to the District of Columbia;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Recommend, from time to time, to the Council of the District of Columbia such changes in the law relating to the District of Columbia as it deems necessary to modify or eliminate antiquated or inequitable rules of law, and to bring the civil, criminal, and administrative law relating to the District of Columbia into harmony with modern conditions;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Upon request of the Council of the District of Columbia or the Chairman of the Council of the District of Columbia, study the legislative and rulemaking methods, practices, and procedures used by the District of Columbia government and make recommendations for improvement and modernization.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 26, 1981, D.C. Law 3-119, § 3, 27 DCR 5641.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 49-402.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-119, see Historical and Statutory Notes following § 45-301.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 49-402.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-119</heading>
+      <text>For legislative history of D.C. Law 3-119, see Historical and Statutory Notes following § 45-301.</text>
     </level>
   </level>
 </level>

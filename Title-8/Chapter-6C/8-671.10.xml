@@ -33,22 +33,22 @@
     <num>(c)</num>
     <text>A person is not responsible for or subject to liability for environmental remediation solely because it has the right to enforce an environmental covenant.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 12, 2006, D.C. Law 16-95, § 110, 53 DCR 1652.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-95, see notes following § 8-671.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 10 of the Uniform Environmental Covenants Act. See 13, Part 1, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-671.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-95</heading>
+      <text>For Law 16-95, see notes following § 8-671.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 10 of the Uniform Environmental Covenants Act.</text>
     </level>
   </level>
 </level>

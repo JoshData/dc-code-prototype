@@ -41,26 +41,20 @@
     <num>(g)</num>
     <text>The written demand for payment required by subsection (f) of this section shall be in substantially the following form and shall be printed in at least 10-point type:</text>
   </level>
-  <text>"DEMAND FOR PAYMENT OF DISHONORED CHECK, DRAFT, ORDER, OR OTHER INSTRUMENT FOR</text>
-  <text>THE PAYMENT OF MONEY</text>
-  <text>Notice: You may be sued 30 days after this notice if you don't make payment</text>
-  <text>within 30 days of this notice</text>
-  <text>DATE:</text>
-  <text>
-    <text font="'monospace'"> TO: Name of Drawer </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Last known residence address</text>
-  </text>
-  <text>
-    <text font="'monospace'"> or place of business </text>
-  </text>
-  <text>YOUR CHECK, DRAFT, ORDER, OR OTHER INSTRUMENT FOR THE PAYMENT OF MONEY IN THE AMOUNT OF $ , DATED , PAYABLE TO THE ORDER OF HAS BEEN DISHONORED BY THE BANK/DEPOSITORY UPON WHICH IT WAS DRAWN, BECAUSE:</text>
+  <text class="centered">"DEMAND FOR PAYMENT OF DISHONORED CHECK, DRAFT, ORDER,</text>
+  <text class="centered">OR OTHER INSTRUMENT FOR THE PAYMENT OF MONEY</text>
+  <text class="centered">Notice: You may be sued 30 days after this notice if you don't</text>
+  <text class="centered">make payment within 30 days of this notice</text>
+  <text>DATE</text>
+  <text>TO: Name of Drawer</text>
+  <text>Last known residence address</text>
+  <text>or place of business</text>
+  <text>YOUR CHECK, DRAFT, ORDER, OR OTHER INSTRUMENT FOR THE PAYMENT OF MONEY IN THE AMOUNT OF $ ________, DATED ______________, PAYABLE TO THE ORDER OF ________________________ HAS BEEN DISHONORED BY THE BANK/DEPOSITORY UPON WHICH IT WAS DRAWN, BECAUSE:</text>
   <text>( ) YOU HAD NO ACCOUNT WITH THAT BANK/DEPOSITORY</text>
   <text>( ) YOU HAD INSUFFICIENT FUNDS OR CREDIT WITH THAT BANK/DEPOSITORY</text>
   <text>( ) A STOP PAYMENT ORDER WAS ISSUED</text>
   <text>( ) OTHER (specify)</text>
-  <text>IF YOU DO NOT MAKE PAYMENT, YOU COULD BE SUED UNDER SECTION __________ OF THE DISTRICT OF COLUMBIA OFFICIAL CODE TO RECOVER PAYMENT. IF JUDGMENT IS RENDERED AGAINST YOU IN COURT, IT MAY ALSO INCLUDE NOT ONLY THE ORIGINAL FACE AMOUNT OF THE CHECK, BUT ALSO ADDITIONAL DAMAGES, AS FOLLOWS:</text>
+  <text>IF YOU DO NOT MAKE PAYMENT, YOU COULD BE SUED UNDER SECTION ________ OF THE DISTRICT OF COLUMBIA OFFICIAL CODE TO RECOVER PAYMENT. IF JUDGMENT IS RENDERED AGAINST YOU IN COURT, IT MAY ALSO INCLUDE NOT ONLY THE ORIGINAL FACE AMOUNT OF THE CHECK, BUT ALSO ADDITIONAL DAMAGES, AS FOLLOWS:</text>
   <level>
     <num>(1)</num>
     <text>TWO TIMES THE FACE AMOUNT OF THE CHECK, OR $100, WHICHEVER IS GREATER;</text>
@@ -73,9 +67,9 @@
     <num>(3)</num>
     <text>REASONABLE ATTORNEY FEES.</text>
   </level>
-  <text>NAME OF PAYEE:</text>
-  <text>(PHONE NUMBER)</text>
-  <text>ADDRESS TO WHICH PAYMENT SHOULD BE DELIVERED</text>
+  <text class="centered">NAME OF PAYEE:</text>
+  <text class="centered">(PHONE NUMBER)</text>
+  <text class="centered">ADDRESS TO WHICH PAYMENT SHOULD BE DELIVERED</text>
   <text>IF YOU DISPUTE ANY OF THE FACTS LISTED ABOVE, CONTACT THE PAYEE IMMEDIATELY.".</text>
   <level>
     <num>(h)</num>
@@ -93,23 +87,22 @@
     <num>(k)</num>
     <text>A conviction or plea of guilty of making, drawing, or uttering a check, draft, order, or other instrument for payment of money with the intent to defraud under § 22-1510 is not a prerequisite to the maintenance of a civil action under this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 12, 2006, D.C. Law 16-93, § 3, 53 DCR 1645; Mar. 25, 2009, D.C. Law 17-353, § 301, 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-353 added this section to Title 28, an enacted title of the District of Columbia Official Code.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-93, see notes following § 28-3151.</text>
-        <text>For Law 17-353, see notes following § 28-3151.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-353 added this section to Title 28, an enacted title of the District of Columbia Official Code.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-93</heading>
+      <text>For Law 16-93, see notes following § 28-3151.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 28-3151.</text>
     </level>
   </level>
 </level>

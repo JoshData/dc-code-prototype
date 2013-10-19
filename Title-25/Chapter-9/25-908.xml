@@ -13,24 +13,22 @@
     <num>(c)</num>
     <text>Upon failure or refusal to pay the tax, penalty, or interest, the OTR Director may collect the tax by distraint.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Jan. 24, 1934, 48 Stat. 319, § 43, as added July 24, 1982, D.C. Law 4-131, § 303, 29 DCR 2418; May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959.)</text>
+      <heading>History</heading>
+      <text>(Jan. 24, 1934, 48 Stat. 319, § 43, as added July 24, 1982, D.C. Law 4-131,§ 303, 29 DCR 2418; May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <text>D.C. Law 13-298 amended and enacted into law Title 25 of the District of Columbia Official Code. The text of this section is derived from provisions formerly found in D.C. Code § 25-141.</text>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 25-908.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-298, see notes following § 25-101.</text>
-        <text>For legislative history of D.C. Law 4-131, see Historical and Statutory Notes following § 25-907.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 25-908.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-298</heading>
+      <text>For D.C. Law 13-298, see notes following § 25-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-131</heading>
+      <text>For legislative history of D.C. Law 4-131, see Historical and Statutory Notes following § 25-907.</text>
     </level>
   </level>
 </level>

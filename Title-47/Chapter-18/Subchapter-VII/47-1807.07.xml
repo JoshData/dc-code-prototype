@@ -163,27 +163,30 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 19, 2002, D.C. Law 14-114, § 901(b)(2), 49 DCR 1468; Sept. 12, 2008, D.C. Law 17-231, § 41(l), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-231, in subsec. (a)(6), substituted "(and, if married or in a domestic partnership, the employee's spouse or domestic partner)" for "(and, if married, the employee's spouse)".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-114, see notes following § 47-857.01.</text>
-        <text>For Law 17-231, see notes following § 47-802.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 1101 of D.C. Law 14-114 provides: "The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <text i="True">et seq.</text>), shall promulgate rules to implement this act."</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-1803.02 and § 47-1808.07.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-231, in subsec. (a)(6), substituted "(and, if married or in a domestic partnership, the employee's spouse or domestic partner)" for "(and, if married, the employee's spouse)".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-114</heading>
+      <text>For Law 14-114, see notes following § 47-857.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 47-802.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 1101 of D.C. Law 14-114 provided: "The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), shall promulgate rules to implement this act."</text>
     </level>
   </level>
 </level>

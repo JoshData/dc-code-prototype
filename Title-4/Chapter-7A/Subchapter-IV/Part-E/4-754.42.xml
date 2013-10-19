@@ -61,24 +61,26 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2005, D.C. Law 16-35, § 27, 52 DCR 8113; Apr. 8, 2011, D.C. Law 18-367, § 2(f), 58 DCR 987.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-367 rewrote subsec. (c), which had read as follows:</text>
-        <text>"(c) An administrative review must be completed before the Office of Administrative Hearings shall grant a fair hearing to any client or client representative."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-35, see notes following § 4-751.01.</text>
-        <text>For history of Law 18-367, see notes under § 4-751.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-754.11, § 4-754.32, § 4-754.33, § 4-754.38, § 4-754.39, § 4-754.41, and § 4-754.52.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-367 rewrote subsec. (c), which had read as follows: "(c) An administrative review must be completed before the Office of Administrative Hearings shall grant a fair hearing to any client or client representative."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-35</heading>
+      <text>For Law 16-35, see notes following § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-367</heading>
+      <text>For history of Law 18-367, see notes under § 4-751.01.</text>
     </level>
   </level>
 </level>

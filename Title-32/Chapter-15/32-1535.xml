@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-1535</num>
   <heading>Compensation for injuries where third persons are liable.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-335</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>If, on account of a disability or death for which compensation is payable under this chapter, the person entitled to such compensation determines that some person other than those enumerated in § 32-1504(b) is liable for damages, he need not elect whether to receive such compensation or to recover damages against such third person.</text>
@@ -62,22 +61,22 @@
     <num>(i)</num>
     <text>The right to compensation or benefits under this chapter shall be the exclusive remedy to an employee when he is injured, or to his eligible survivors or legal representative if he is killed, by the negligence or wrong of any other person or persons in the same employ; provided, that this provision shall not affect the liability of a person other than an officer or employee of the employer.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 1, 1980, D.C. Law 3-77, § 36, 27 DCR 2503.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-335.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-1507.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-335.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-77</heading>
+      <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
     </level>
   </level>
 </level>

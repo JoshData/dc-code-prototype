@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Establishment of Condominiums.</heading>
-  <level>
-    <text>DC CODE D. VII, T. 42, Subt. III, Ch. 19, Subch. II, Refs &amp; Annos</text>
-  </level>
+  <heading>Establishment of Condominiums</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1902.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1902.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-1902.03.xml"/>

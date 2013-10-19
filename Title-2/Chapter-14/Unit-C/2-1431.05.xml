@@ -9,18 +9,14 @@
     <num>(b)</num>
     <text>The Office shall make all plans and reports required under this unit available on its website and shall provide copies to the public upon request.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2007, D.C. Law 16-239, § 6, 54 DCR 404.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-239, see notes following § 2-1431.01.</text>
-      </level>
+      <heading>Legislative History of Law 16-239</heading>
+      <text>For Law 16-239, see notes following § 2-1431.01.</text>
     </level>
   </level>
 </level>

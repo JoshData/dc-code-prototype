@@ -101,22 +101,18 @@
     <num>(o)</num>
     <text>A wildlife control services provider shall use the available method of euthanasia that is the quickest, least stressful, and least painful to the animal under the circumstances.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2011, D.C. Law 18-289, § 3, 57 DCR 11499.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-289, see notes under § 8-2201.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Former § 8-2202 has been recodified as § 8-2032.</text>
-      </level>
+      <heading>Legislative History of Law 18-289</heading>
+      <text>For history of Law 18-289, see notes under § 8-2201.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Former § 8-2202 has been recodified as § 8-2032.</text>
     </level>
   </level>
 </level>

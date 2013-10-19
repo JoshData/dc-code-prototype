@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>6</num>
-  <heading>Healthcare Entity Conversion.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 44, Subt. I, Ch. 6, Refs &amp; Annos</text>
-  </level>
+  <heading>Healthcare Entity Conversion</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-601.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-602.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-603.xml"/>

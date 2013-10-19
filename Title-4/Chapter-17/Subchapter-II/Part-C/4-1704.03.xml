@@ -18,7 +18,7 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>Have an annual adjusted gross income of less than $65,000;</text>
+      <text>Have an annual adjusted gross income of less than $75,000, subject to a 3% annual increase beginning on October 1, 2013;</text>
     </level>
     <level>
       <num>(5)</num>
@@ -45,18 +45,30 @@
     <num>(b)</num>
     <text>A law student attending the David A. Clarke School of Law at the University of the District of Columbia who is in his or her final year of school may apply and be approved for loan repayment assistance if the applicant demonstrates that he or she will meet all eligibility requirements by the time of the first award disbursement.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 24, 2010, D.C. Law 18-223, § 403, as added Sept. 14, 2011, D.C. Law 19-21, § 3002(b), 58 DCR 6226.)</text>
+      <heading>History</heading>
+      <text>(Sept. 24, 2010, D.C. Law 18-223, § 403, as added Sept. 14, 2011, D.C. Law 19-21, § 3002(b), 58 DCR 6226; June 19, 2013, D.C. Law 19-320, § 504(b), 60 DCR 3390.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-21, see notes under § 4-1701.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-1704.05 and § 4-1704.06.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-320 substituted "$75,000, subject to a 3% annual increase beginning on October 1, 2013" for "$65,000" in (a)(4).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of (a)(4), see § 504(b) of the Omnibus Criminal Code Amendments Emergency Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013, 60 DCR 1017).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 4-1701.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-320</heading>
+      <text>See note to § 4-1701.01.</text>
     </level>
   </level>
 </level>

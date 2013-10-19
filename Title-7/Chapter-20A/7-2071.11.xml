@@ -26,7 +26,7 @@
     </level>
     <level>
       <num>(6)</num>
-      <text>The Health Insurance Counseling and Assistance Program or any successor charged with counseling Medicare beneficiaries pursuant to section 4360 of the Omnibus Reconciliation Act of 1990, approved November 5, 1990 (104 Stat. 1388- 138; 42 U.S.C. § 1395b-4);</text>
+      <text>The Health Insurance Counseling and Assistance Program or any successor charged with counseling Medicare beneficiaries pursuant to section 4360 of the Omnibus Reconciliation Act of 1990, approved November 5, 1990 (104 Stat. 1388-138; 42 U.S.C.§ 1395b-4);</text>
     </level>
     <level>
       <num>(7)</num>
@@ -57,18 +57,14 @@
       <text>Review data on cases handled by the Ombudsman Program and make recommendations based on that data.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 12, 2005, D.C. Law 15-331, § 12, 52 DCR 1981.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-331, see notes following § 7-2071.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-331</heading>
+      <text>For Law 15-331, see notes following § 7-2071.01.</text>
     </level>
   </level>
 </level>

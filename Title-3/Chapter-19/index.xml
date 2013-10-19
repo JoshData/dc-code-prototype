@@ -1,11 +1,11 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>19</num>
-  <heading>Bicentennial Commission. [Repealed]</heading>
+  <heading>Bicentennial Commission</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1901~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1902~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1903~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1904~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1905.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1905~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1906~P.xml"/>
 </level>

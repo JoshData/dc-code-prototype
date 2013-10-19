@@ -1,14 +1,13 @@
 <level type="section">
   <num>23-101</num>
   <heading>Conduct of prosecutions.</heading>
-  <formerly-cited-as>DC ST 1981 § 23-101</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>Prosecutions for violations of all police or municipal ordinances or regulations and for violations of all penal statutes in the nature of police or municipal regulations, where the maximum punishment is a fine only, or imprisonment not exceeding one year, shall be conducted in the name of the District of Columbia by the Corporation Counsel for the District of Columbia or his assistants, except as otherwise provided in such ordinance, regulation, or statute, or in this section.</text>
+    <text>Prosecutions for violations of all police or municipal ordinances or regulations and for violations of all penal statutes in the nature of police or municipal regulations, where the maximum punishment is a fine only, or imprisonment not exceeding one year, shall be conducted in the name of the District of Columbia by the Corporation Counsel for the District of Columbia [Attorney General for the District of Columbia] or his assistants, except as otherwise provided in such ordinance, regulation, or statute, or in this section.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>Prosecutions for violations of section 6 of the Act of July 29, 1892 (D.C. Official Code, sec. 22-1307), relating to disorderly conduct, and for violations of section 9 of that Act (D.C. Official Code, sec. 22-1312), relating to lewd, indecent, or obscene acts, shall be conducted in the name of the District of Columbia by the Corporation Counsel or his assistants.</text>
+    <text>Prosecutions for violations of section 6 of the Act of July 29, 1892 (D.C. Official Code, sec. 22-1307), relating to disorderly conduct, and for violations of section 9 of that Act (D.C. Official Code, sec. 22-1312), relating to lewd, indecent, or obscene acts, shall be conducted in the name of the District of Columbia by the Corporation Counsel [Attorney General for the District of Columbia] or his assistants.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -16,33 +15,44 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>An indictment or information brought in the name of the United States may include, in addition to offenses prosecutable by the United States, offenses prosecutable by the District of Columbia, and such prosecution may be conducted either solely by the Corporation Counsel or his assistants or solely by the United States attorney or his assistants if the other prosecuting authority consents.</text>
+    <text>An indictment or information brought in the name of the United States may include, in addition to offenses prosecutable by the United States, offenses prosecutable by the District of Columbia, and such prosecution may be conducted either solely by the Corporation Counsel [Attorney General for the District of Columbia] or his assistants or solely by the United States attorney or his assistants if the other prosecuting authority consents.</text>
   </level>
   <level>
     <num>(e)</num>
-    <text>Separate indictments or informations, or both, charging offenses prosecutable by the District of Columbia and by the United States may be joined for trial if the offenses charged therein could have been joined in the same indictment. Such prosecution may be conducted either solely by the Corporation Counsel or his assistants or solely by the United States attorney or his assistants if the other prosecuting authority consents.</text>
+    <text>Separate indictments or informations, or both, charging offenses prosecutable by the District of Columbia and by the United States may be joined for trial if the offenses charged therein could have been joined in the same indictment. Such prosecution may be conducted either solely by the Corporation Counsel [Attorney General for the District of Columbia] or his assistants or solely by the United States attorney or his assistants if the other prosecuting authority consents.</text>
   </level>
   <level>
     <num>(f)</num>
-    <text>If in any case any question shall arise as to whether, under this section, the prosecution should be conducted by the Corporation Counsel or by the United States attorney, the presiding judge shall forthwith, either on his own motion or upon suggestion of the Corporation Counsel or the United States attorney, certify the case to the District of Columbia Court of Appeals, which court shall hear and determine the question in a summary way. In every such case the defendant or defendants shall have the right to be heard in the District of Columbia Court of Appeals. The decision of such court shall be final.</text>
+    <text>If in any case any question shall arise as to whether, under this section, the prosecution should be conducted by the Corporation Counsel [Attorney General for the District of Columbia] or by the United States attorney, the presiding judge shall forthwith, either on his own motion or upon suggestion of the Corporation Counsel [Attorney General for the District of Columbia] or the United States attorney, certify the case to the District of Columbia Court of Appeals, which court shall hear and determine the question in a summary way. In every such case the defendant or defendants shall have the right to be heard in the District of Columbia Court of Appeals. The decision of such court shall be final.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 604, Pub. L. 91-358, title II, § 210(a).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 23-101.</text>
-        <text>1973 Ed., § 23-101.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 34 of D.C. Law 15-354 provides that Title 23 is designated Title 23 of the District of Columbia Official Code.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Adult protective services, penalties and enforcement, see § 7-1912.</text>
+      <text>Alcoholic beverages provisions, penalties for violations, see § 25-831.</text>
+      <text>Cable television provisions, prosecutions for violations, see § 34-1250.</text>
+      <text>Corporation Counsel, duties, see § 1-301.111.</text>
+      <text>Funeral services, prosecutions for violations, see § 3-418.</text>
+      <text>Hazardous waste management provisions, penalties for violations, see § 8-1311.</text>
+      <text>Indigents, representation, see §§ 2-1602 and 11-2601.</text>
+      <text>Insurance companies, prosecutions for violations of provisions governing, see § 47-2605.</text>
+      <text>Medicaid Provider Fraud Prevention Act, prosecution of violations, see § 4-804.</text>
+      <text>Public passenger vehicles, penalties for unlawful conduct on, see § 35-253.</text>
+      <text>Wastewater control law, penalties and prosecutions under, see § 8-105.14.</text>
+      <text>Water pollution control provisions, penalties and prosecutions for violation, see § 8-10</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 23-101.</text>
+      <text>1973 Ed., § 23-101.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 34 of D.C. Law 15-354 provided that Title 23 is designated Title 23 of the District of Columbia Official Code.</text>
     </level>
   </level>
 </level>

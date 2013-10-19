@@ -3,35 +3,29 @@
   <heading>Disclaimer of power of appointment or other power not held in fiduciary capacity.</heading>
   <text>If a holder disclaims a power of appointment or other power not held in a fiduciary capacity, the following rules apply:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>If the holder has not exercised the power, the disclaimer takes effect as of the time the instrument creating the power becomes irrevocable.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>If the holder has exercised the power and the disclaimer is of a power other than a presently exercisable general power of appointment, the disclaimer takes effect immediately after the last exercise of the power.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The instrument creating the power is construed as if the power expired when the disclaimer became effective.</text>
-    </level>
+    <num>(1)</num>
+    <text>If the holder has not exercised the power, the disclaimer takes effect as of the time the instrument creating the power becomes irrevocable.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>If the holder has exercised the power and the disclaimer is of a power other than a presently exercisable general power of appointment, the disclaimer takes effect immediately after the last exercise of the power.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The instrument creating the power is construed as if the power expired when the disclaimer became effective.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 2, 2007, D.C. Law 16-205, § 2(b), 53 DCR 9063.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-205, see notes following § 19-1501.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 9 of the Uniform Disclaimer of Property Interests Act (1999). See 8A, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 16-205</heading>
+      <text>For Law 16-205, see notes following § 19-1501.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 9 of the Uniform Disclaimer of Property Interests Act (1999).</text>
     </level>
   </level>
 </level>

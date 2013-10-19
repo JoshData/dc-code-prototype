@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>A domestic nonprofit corporation may become a foreign nonprofit corporation if the domestication is permitted by the laws of the foreign jurisdiction. Regardless of whether the laws of the foreign jurisdiction require the adoption of a plan of domestication, the domestication shall be approved by the adoption by the corporation of a plan of domestication in the manner provided in this subtitle.</text>
+    <text>A domestic nonprofit corporation may become a foreign nonprofit corporation if the domestication is permitted by the laws of the foreign jurisdiction. Regardless of whether the laws of the foreign jurisdiction require the adoption of a plan of domestication, the domestication shall be approved by the adoption by the corporation of a plan of domestication in the manner provided in this subtitle [subchapter].</text>
   </level>
   <level>
     <num>(c)</num>
@@ -53,18 +53,14 @@
     <num>(f)</num>
     <text>If any debt security, note, or similar evidence of indebtedness for money borrowed, whether secured or unsecured, or a contract of any kind, issued, incurred or executed by a domestic nonprofit corporation before the effective date of this chapter contains a provision applying to a merger of the corporation and the document does not refer to a domestication of the corporation, the provision shall be deemed to apply to a domestication of the corporation until such time as the provision is amended subsequent to that date.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

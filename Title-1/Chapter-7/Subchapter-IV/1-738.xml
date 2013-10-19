@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-738</num>
   <heading>Additional information.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-738</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>In addition to the information specifically required to be furnished by this subchapter, the Board shall furnish promptly such additional information as the Mayor, the Council, the Speaker, or the President pro tempore may request.</text>
@@ -10,19 +9,19 @@
     <num>(b)</num>
     <text>The Board shall, at regular intervals to be determined by the Board, compile and publish all regulations then in effect which were issued by the Board or the Council under this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Nov. 17, 1979, 93 Stat. 866, Pub. L. 96-122, § 168.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-738.</text>
-        <text>1973 Ed., § 1-1838.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-739.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-738.</text>
+      <text>1973 Ed., § 1-1838.</text>
     </level>
   </level>
 </level>

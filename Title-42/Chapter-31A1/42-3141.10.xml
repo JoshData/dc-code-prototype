@@ -17,22 +17,22 @@
     <num>(d)</num>
     <text>Nothing in this section precludes the Mayor from providing additional paint vouchers, clean-up kits, or other graffiti abatement materials for use in community anti-graffiti efforts.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 18, 2010, D.C. Law 18-219, § 11, 57 DCR 4353.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 11 of Anti-Graffiti Emergency Act of 2010 (D.C. Act 18-389, May 5, 2010, 57 DCR 4332).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-219, see notes following § 42-3141.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3141.03 and § 42-3141.11.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 11 of Anti-Graffiti Emergency Act of 2010 (D.C. Act 18-389, May 5, 2010, 57 DCR 4332).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-219</heading>
+      <text>For Law 18-219, see notes following § 42-3141.01.</text>
     </level>
   </level>
 </level>

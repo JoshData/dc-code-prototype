@@ -29,22 +29,18 @@
     <num>(c)</num>
     <text>The loan package submitted pursuant to subsection (a) of this section shall remain confidential and exempt from disclosure under any law except to the borrower, a lender involved in the covered loan transaction, or current noteholder.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 7, 2002, D.C. Law 14-132, § 221, 49 DCR 2551.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 221 of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002, 49 DCR 2534).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-132, see notes following § 26-1151.01.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 221 of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002, 49 DCR 2534).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-132</heading>
+      <text>For Law 14-132, see notes following § 26-1151.01.</text>
     </level>
   </level>
 </level>

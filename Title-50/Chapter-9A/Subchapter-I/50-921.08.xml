@@ -2,18 +2,14 @@
   <num>50-921.08</num>
   <heading>Repealer.</heading>
   <text>All orders and parts of orders in conflict with any of the provisions of this chapter are hereby repealed, except that any regulations adopted or promulgated by virtue of the authority granted by such orders, shall remain in force until properly revised, amended or repealed.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 21, 2002, D.C. Law 14-137, § 9, 49 DCR 3444.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law14-137, see notes following § 50-921.01.</text>
-      </level>
+      <heading>Legislative History of Law 14-137</heading>
+      <text>For Law 14-137, see notes following § 50-921.01.</text>
     </level>
   </level>
 </level>

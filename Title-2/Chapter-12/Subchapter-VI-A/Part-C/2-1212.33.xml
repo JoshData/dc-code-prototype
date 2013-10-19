@@ -41,18 +41,14 @@
     <num>(d)</num>
     <text>The Department of Small and Local Business Development may issue grants, on a competitive basis, for the establishment of a commercial distribution system for fresh produce and healthy foods</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2011, D.C. Law 18-353, § 303, 58 DCR 746.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-353, see notes under § 2-1212.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-353</heading>
+      <text>For history of Law 18-353, see notes under § 2-1212.01.</text>
     </level>
   </level>
 </level>

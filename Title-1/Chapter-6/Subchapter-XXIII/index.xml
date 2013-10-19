@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>XXIII</num>
-  <heading>Public Sector Workers' Compensation.</heading>
-  <level>
-    <text>DC CODE D. I, T. 1, Ch. 6, Subch. XXIII, Refs &amp; Annos</text>
-  </level>
+  <heading>Public Sector Workers' Compensation</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-623.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-623.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-623.02a.xml"/>
@@ -47,7 +44,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-623.37.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-623.38.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-623.39.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-623.40.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-623.40~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-623.41.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-623.42.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-623.43.xml"/>

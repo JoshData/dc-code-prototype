@@ -1,50 +1,43 @@
 <level type="section">
   <num>26-309</num>
   <heading>Issuance and form of license.</heading>
-  <formerly-cited-as>DC ST 1981 § 26-1109</formerly-cited-as>
   <text>A license to cash checks shall state:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The name of the licensee;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The names of the members of the licensee (if applicable);</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The date of issuance and of expiration of the license;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The date and state of incorporation of the licensee (if applicable);</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>If the business is to be conducted at a specific address, the address at which the business is to be conducted; and</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>If the business is to be conducted through the use of a mobile unit or a limited station, the words "Mobile Unit License," or "Limited Station License", the District registration number or other identification of the mobile unit or limited station, and the area in which the applicant is authorized to operate the mobile unit or limited station.</text>
-    </level>
+    <num>(1)</num>
+    <text>The name of the licensee;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The names of the members of the licensee (if applicable);</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The date of issuance and of expiration of the license;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The date and state of incorporation of the licensee (if applicable);</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>If the business is to be conducted at a specific address, the address at which the business is to be conducted; and</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>If the business is to be conducted through the use of a mobile unit or a limited station, the words "Mobile Unit License," or "Limited Station License", the District registration number or other identification of the mobile unit or limited station, and the area in which the applicant is authorized to operate the mobile unit or limited station.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 12, 1998, D.C. Law 12-111, § 10, 45 DCR 1785.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 26-1109.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-111, see Historical and Statutory Notes following § 26-301.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 26-1109.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-111</heading>
+      <text>For legislative history of D.C. Law 12-111, see Historical and Statutory Notes following § 26-301.</text>
     </level>
   </level>
 </level>

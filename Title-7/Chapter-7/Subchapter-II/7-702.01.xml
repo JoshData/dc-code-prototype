@@ -1,38 +1,35 @@
 <level type="section">
   <num>7-702.01</num>
   <heading>Purpose and functions.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-3511</formerly-cited-as>
   <text>There is established a Long-Term Care Ombudsman Program for the District of Columbia within the Office on Aging. The program shall provide a comprehensive continuum of advocacy services for older persons and other persons who are residents in the District, which shall include:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Advocating for the rights of older persons and other persons who are residents;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Investigating and resolving any complaint made by or on behalf of an older person or other person who is a resident; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Monitoring the quality of care, services provided, and quality of life experienced by older persons and residents to ensure that the care and services are in accordance with applicable District and federal laws.</text>
-    </level>
+    <num>(1)</num>
+    <text>Advocating for the rights of older persons and other persons who are residents;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Investigating and resolving any complaint made by or on behalf of an older person or other person who is a resident; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Monitoring the quality of care, services provided, and quality of life experienced by older persons and residents to ensure that the care and services are in accordance with applicable District and federal laws.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1989, D.C. Law 7-218, § 201, 36 DCR 534.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-3511.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-218, see Historical and Statutory Notes following § 7-701.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-701.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-3511.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-218</heading>
+      <text>For legislative history of D.C. Law 7-218, see Historical and Statutory Notes following § 7-701.01.</text>
     </level>
   </level>
 </level>

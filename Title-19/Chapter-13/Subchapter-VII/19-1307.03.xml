@@ -41,22 +41,18 @@
     <num>(h)</num>
     <text>A dissenting trustee who joins in an action at the direction of the majority of the trustees and who notified any cotrustee of the dissent at or before the time of the action is not liable for the action unless the action is a serious breach of trust.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 10, 2004, D.C. Law 15-104, § 2(b), 51 DCR 208.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-104, see notes following § 19-1301.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 703 of the Uniform Trust Code. See 7C, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 15-104</heading>
+      <text>For Law 15-104, see notes following § 19-1301.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 703 of the Uniform Trust Code.</text>
     </level>
   </level>
 </level>

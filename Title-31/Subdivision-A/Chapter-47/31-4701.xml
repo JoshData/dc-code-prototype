@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-4701</num>
   <heading>Valuation of reserves by Commissioner.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-501</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -25,7 +24,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>If the premium charged for term insurance under a limited payment life preliminary term policy providing for the payment of all premiums thereon in less than 20 years from date of the policy, or under an endowment preliminary term policy, exceeds that charged for like insurance under 20-payment life preliminary term policies of the same company, the reserve thereon at the end of the year, including the 1st, shall not be less than the reserve on a 20- payment life preliminary term policy issued in the same year and at the same age, together with an amount which shall be equivalent to the accumulation of a net level premium sufficient to provide for a pure endowment at the end of the premium payment period, equal to the difference between the value at the end of such period of such a 20-payment life preliminary term policy and the full net level premium reserve at such time of such a limited payment life or endowment policy. The premium payment period is the period during which premiums are concurrently payable under such 20-payment life preliminary term policy and such limited payment life or endowment policy.</text>
+      <text>If the premium charged for term insurance under a limited payment life preliminary term policy providing for the payment of all premiums thereon in less than 20 years from date of the policy, or under an endowment preliminary term policy, exceeds that charged for like insurance under 20-payment life preliminary term policies of the same company, the reserve thereon at the end of the year, including the 1st, shall not be less than the reserve on a 20-payment life preliminary term policy issued in the same year and at the same age, together with an amount which shall be equivalent to the accumulation of a net level premium sufficient to provide for a pure endowment at the end of the premium payment period, equal to the difference between the value at the end of such period of such a 20-payment life preliminary term policy and the full net level premium reserve at such time of such a limited payment life or endowment policy. The premium payment period is the period during which premiums are concurrently payable under such 20-payment life preliminary term policy and such limited payment life or endowment policy.</text>
     </level>
     <level>
       <num>(4)</num>
@@ -59,7 +58,7 @@
       <text>Except as otherwise provided in paragraph (3) of this subsection and subsection (d) of this section, the minimum standard for the valuation of all such policies and contracts shall be the Mayor's reserve valuation methods defined in paragraphs (4) and (5) of this subsection and in § 31-4720, 3 1/2% interest per annum, or in the case of policies and contracts, other than annuity and pure endowment contracts, issued on or after the October 13, 1978, 4 1/2% interest per annum, and the following tables:</text>
       <level>
         <num>(A)</num>
-        <text>For all ordinary policies of life insurance issued on the standard basis, excluding any disability and accidental death benefits in such policies, the Commissioners 1941 Standard Ordinary Mortality Table for such policies issued prior to the operative date of paragraph (5) of § 31-4705.02(d), and the Commissioners 1958 Standard Ordinary Mortality Table for category of the policies issued on or after the operative date of the 5th paragraph in § 31- 4705.02(d) and before the operative date for the category of policies described in § 31-4705.02(e); provided that for any category of such policies issued on female risks all modified net premiums and present values referred to in this section may be calculated according to an age not more than 6 years younger than the actual age of the insured and for any category of the policies issued on or after the operative date for the category described in § 31- 4705.02(e), the Commissioners 1980 Standard Ordinary Mortality Table, or at the election of the company for any 1 or more specified plans of life insurance, the Commissioners 1980 Standard Ordinary Mortality Table with Ten-Year Select Mortality Factors or any ordinary mortality table adopted after 1980 by the National Association of Insurance Commissioners and approved by the Commissioner for determining the minimum standard for valuing the policies;</text>
+        <text>For all ordinary policies of life insurance issued on the standard basis, excluding any disability and accidental death benefits in such policies, the Commissioners 1941 Standard Ordinary Mortality Table for such policies issued prior to the operative date of paragraph (5) of § 31-4705.02(d), and the Commissioners 1958 Standard Ordinary Mortality Table for category of the policies issued on or after the operative date of the 5th paragraph in § 31-4705.02(d) and before the operative date for the category of policies described in § 31-4705.02(e); provided that for any category of such policies issued on female risks all modified net premiums and present values referred to in this section may be calculated according to an age not more than 6 years younger than the actual age of the insured and for any category of the policies issued on or after the operative date for the category described in § 31-4705.02(e), the Commissioners 1980 Standard Ordinary Mortality Table, or at the election of the company for any 1 or more specified plans of life insurance, the Commissioners 1980 Standard Ordinary Mortality Table with Ten-Year Select Mortality Factors or any ordinary mortality table adopted after 1980 by the National Association of Insurance Commissioners and approved by the Commissioner for determining the minimum standard for valuing the policies;</text>
       </level>
       <level>
         <num>(B)</num>
@@ -113,7 +112,7 @@
       <num>(4)</num>
       <level>
         <num>(A)</num>
-        <text>Except as provided in paragraph (5) of this subsection and in § 31- 4720, and according to the reserve valuation method, reserves for life insurance and endowment benefits from policies providing uniform amounts of insurance and requiring uniform premium payments shall be the excess of the present value, on the valuation date, of the future guaranteed benefits from the policies over the then present value of any future modified net premiums.</text>
+        <text>Except as provided in paragraph (5) of this subsection and in § 31-4720, and according to the reserve valuation method, reserves for life insurance and endowment benefits from policies providing uniform amounts of insurance and requiring uniform premium payments shall be the excess of the present value, on the valuation date, of the future guaranteed benefits from the policies over the then present value of any future modified net premiums.</text>
       </level>
       <level>
         <num>(B)</num>
@@ -192,291 +191,201 @@
     <level>
       <num>(1)</num>
       <text>The calendar year statutory valuation interest rates shall be the interest rates used to determine the minimum standard for valuing the following:</text>
-      <level>
-        <num>(A)</num>
-        <text>Life insurance benefits under § 31-4705.02 and issued no earlier than the operative date for policies under § 31-4705.02(e).</text>
+      <level type="form">
+        <text>
+ (A) Life insurance benefits under § 31-4705.02 and issued no earlier than the operative date for policies under § 31-4705.02(e). 
+ 
+ (B) All annuities and pure endowments purchased under group annuity and pure endowments contracts after December 31, 1983. 
+ 
+ (C) Except as provided in subparagraphs (A) and (B) of this paragraph, all life insurance benefits, individual annuity contracts, and pure endowment contracts issued after December 31, 1983. 
+ 
+ (D) In a calendar year following December 31, 1983, the net increase of amounts held under guaranteed interest contracts. 
+ 
+ (2) The calendar year statutory valuation interest rates shall be determined according to the equations described in this paragraph, and the results from the equations shall be rounded to the nearest 1/4%. 
+ 
+ (A) For life insurance, the equation for determining the calendar year statutory valuation interest rates is the following:</text>
+        <text class="centered"> I = .03 + W (R - .03) + w/2 (R2 - .09).</text>
       </level>
-      <level>
-        <num>(B)</num>
-        <text>All annuities and pure endowments purchased under group annuity and pure endowments contracts after December 31, 1983.</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Except as provided in subparagraphs (A) and (B) of this paragraph, all life insurance benefits, individual annuity contracts, and pure endowment contracts issued after December 31, 1983.</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>In a calendar year following December 31, 1983, the net increase of amounts held under guaranteed interest contracts.</text>
-      </level>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The calendar year statutory valuation interest rates shall be determined according to the equations described in this paragraph, and the results from the equations shall be rounded to the nearest 1/4%.</text>
-      <level>
-        <num>(A)</num>
-        <text>For life insurance, the equation for determining the calendar year statutory valuation interest rates is the following:</text>
-      </level>
-    </level>
-  </level>
-  <text>I = .03 + W (R - .03) + W/2 (R2 - .09).</text>
-  <level>
-    <level>
       <level>
         <num>(B)</num>
         <text>For single premium immediate annuities and for annuity benefits involving life contingencies arising from other annuities with cash settlement options and from guaranteed interest contracts with cash settlement options,</text>
-      </level>
-    </level>
-  </level>
-  <text>I = .03 + W (R - .03)</text>
-  <text>where R/1 is the lesser of R and .09,</text>
-  <level>
-    <level>
-      <text>R/2 is the greater of R and .09,</text>
-      <text>R is the reference interest rate described in paragraph (4) of this subsection,</text>
-      <text>and W is the weighting factor.</text>
-      <level>
-        <num>(C)</num>
-        <text>Where cash settlement options are valued on an issue year basis, the formula in subparagraph (A) of this paragraph shall apply to annuities and guaranteed interest contracts with guarantee duration exceeding 10 years and the formula in subparagraph (B) of this paragraph shall apply to annuities and guaranteed interest contracts with guarantee duration of 10 years or less.</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Where no cash settlement options apply, the formula for single premium immediate annuities stated in subparagraph (B) of this paragraph shall apply.</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Where cash settlement options are valued on a change in fund basis, the formula for single premium immediate annuities stated in subparagraph (B) of this paragraph shall apply.</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <level>
-          <num>(i)</num>
-          <text>If the calendar year statutory valuation interest rate for life insurance policies for a calendar year differs from the actual interest rate for similar policies issued in the preceding calendar year by less than 1/2%, the calendar year statutory valuation interest rate shall equal the corresponding actual interest rate for the preceding calendar year.</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>The calendar year statutory valuation interest rate shall be determined for each calendar year regardless of when § 31-4705.02(e) becomes operative.</text>
-        </level>
-      </level>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The weighting factors in the paragraph (2)(A) and (B) of this subsection equations are as follows:</text>
-      <level>
-        <num>(A)</num>
-        <text>Weighting factors for life insurance:</text>
-      </level>
-    </level>
-  </level>
-  <text>
-    <text font="'monospace'"> Guarantee Duration (Years) Weighting Factors </text>
-  </text>
-  <text>
-    <text font="'monospace'"> 10 or less .50 </text>
-  </text>
-  <text>
-    <text font="'monospace'"> More than 10, but not more than 20 .45 </text>
-  </text>
-  <text>
-    <text font="'monospace'"> More than 20 .35 </text>
-  </text>
-  <text>For life insurance, the guarantee duration is the maximum number of years the life insurance can remain in force on a basis guaranteed in the policy or under options to convert to plans of life insurance with premium rates or nonforfeiture values, or both, which are guaranteed in the original policy.</text>
-  <level>
-    <level>
-      <level>
-        <num>(B)</num>
-        <text>Weighting factor for single premium immediate annuities and for annuity benefits involving life contingencies arising from other annuities with cash settlement options and from guaranteed interest contracts with cash settlement options: .80.</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Except as provided in subparagraph (B) of this paragraph, weighting factors for other annuities and for guaranteed interest contracts shall be specified in the following sub-subparagraphs:</text>
-        <level>
-          <num>(i)</num>
-          <text>For purposes of this subsection, the following plan types apply:</text>
-          <text>"Plan Type A" means that, unless the company prohibits a withdrawal, the policyholder may withdraw funds with an adjustment to reflect changes in interest rates or asset values since the company received the funds; without adjustment, but in installments for 5 years or more; or as an immediate life annuity.</text>
-          <text>"Plan Type B" means that, before the interest rate guarantee expires, and unless the company prohibits a withdrawal, the policyholder may withdraw funds with an adjustment to reflect changes in interest rates or asset values since the company received the funds; without the adjustment, but in installments for 5 years or more; or, after the interest rate guarantee ends, in a lump sum without the adjustment or in installments lasting less than 5 years.</text>
-          <text>"Plan Type C" means that, before the interest rate guarantee expires, the policyholder may withdraw funds in a lump sum or in installments lasting less than 5 years, and either without the withdrawal being adjusted to reflect changes in interest rates or asset values since the company received the funds or with the withdrawal subject only to a fixed surrender charge stipulated in the contract as a percentage of the fund.</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Weighting factors for annuities and guaranteed interest contracts valued on an issue year basis:</text>
+        <level type="form">
+          <text/>
+          <text class="centered"> I = .03 + W (R - .03)</text>
+          <text> where R/1 is the lesser of R and .09, 
+ 
+ R/2 is the greater of R and .09, 
+ 
+ R is the reference interest rate described in paragraph (4) of this subsection, 
+ 
+ and W is the weighting factor. 
+ 
+ (C) Where cash settlement options are valued on an issue year basis, the formula in subparagraph (A) of this paragraph shall apply to annuities and guaranteed interest contracts with guarantee duration exceeding 10 years and the formula in subparagraph (B) of this paragraph shall apply to annuities and guaranteed interest contracts with guarantee duration of 10 years or less. 
+ 
+ (D) Where no cash settlement options apply, the formula for single premium immediate annuities stated in subparagraph (B) of this paragraph shall apply. 
+ 
+ (E) Where cash settlement options are valued on a change in fund basis, the formula for single premium immediate annuities stated in subparagraph (B) of this paragraph shall apply. 
+ 
+ (F) (i) If the calendar year statutory valuation interest rate for life insurance policies for a calendar year differs from the actual interest rate for similar policies issued in the preceding calendar year by less than 1/2%, the calendar year statutory valuation interest rate shall equal the corresponding actual interest rate for the preceding calendar year. 
+ 
+ (ii) The calendar year statutory valuation interest rate shall be determined for each calendar year regardless of when § 31-4705.02(e) becomes operative. 
+ 
+ (3) The weighting factors in the paragraph (2)(A) and (B) of this subsection equations are as follows: 
+ 
+ (A) Weighting factors for life insurance: 
+ 
+ 
+ <span style="font-style: italic; ">Guarantee Duration (Years) Weighting Factors 
+ 
+ </span>
+ 10 or less .50 
+ 
+ 
+ More than 10, but not more than 20 .45 
+ 
+ 
+ More than 20 .35 
+ For life insurance, the guarantee duration is the maximum number of years the life insurance can remain in force on a basis guaranteed in the policy or under options to convert to plans of life insurance with premium rates or nonforfeiture values, or both, which are guaranteed in the original policy. 
+ 
+ (B) Weighting factor for single premium immediate annuities and for annuity benefits involving life contingencies arising from other annuities with cash settlement options and from guaranteed interest contracts with cash settlement options: .80.
+ 
+ (C) Except as provided in subparagraph (B) of this paragraph, weighting factors for other annuities and for guaranteed interest contracts shall be specified in the following sub-subparagraphs: 
+ 
+ (i) For purposes of this subsection, the following plan types apply: 
+ 
+ 
+ "Plan Type A" means that, unless the company prohibits a withdrawal, the policyholder may withdraw funds with an adjustment to reflect changes in interest rates or asset values since the company received the funds; without adjustment, but in installments for 5 years or more; or as an immediate life annuity. 
+ 
+ 
+ "Plan Type B" means that, before the interest rate guarantee expires, and unless the company prohibits a withdrawal, the policyholder may withdraw funds with an adjustment to reflect changes in interest rates or asset values since the company received the funds; without the adjustment, but in installments for 5 years or more; or, after the interest rate guarantee ends, in a lump sum without the adjustment or in installments lasting less than 5 years. 
+ 
+ 
+ "Plan Type C" means that, before the interest rate guarantee expires, the policyholder may withdraw funds in a lump sum or in installments lasting less than 5 years, and either without the withdrawal being adjusted to reflect changes in interest rates or asset values since the company received the funds or with the withdrawal subject only to a fixed surrender charge stipulated in the contract as a percentage of the fund. 
+ 
+ (ii) Weighting factors for annuities and guaranteed interest contracts valued on an issue year basis:</text>
         </level>
       </level>
     </level>
   </level>
-  <text>
-    <text font="'monospace'"> Guarantee Duration Weighting Factor for Plan Type </text>
-  </text>
-  <text>
-    <text font="'monospace'"> A B C </text>
-  </text>
-  <text>
-    <text font="'monospace'"> (Years) </text>
-  </text>
-  <text>
-    <text font="'monospace'"> 5 or less: .80 .60 .50 </text>
-  </text>
-  <text>
-    <text font="'monospace'"> More than 5, but not more than 10: .75 .60 .50 </text>
-  </text>
-  <text>
-    <text font="'monospace'"> More than 10, but not more than 20: .65 .50 .45 </text>
-  </text>
-  <text>
-    <text font="'monospace'"> More than 20: .45 .35 .35 </text>
-  </text>
-  <level>
-    <level>
-      <level>
-        <level>
-          <num>(iii)</num>
-          <text>For annuities and guaranteed interest contracts valued on a change in fund basis, the factors shown in sub-subparagraph (ii) of this subparagraph increased by:</text>
-        </level>
-      </level>
-    </level>
+  <level type="table">
+    <text><span style="font-style: italic; ">Guarantee Weighting Factor
+Duration for Plan Type
+(Years) A B C 
+</span>5 or less: .80 .60 .50
+More than 5, but not more than 10: .75 .60 .50
+More than 10, but not more than 20: .65 .50 .45
+More than 20: .45 .35 .35.</text>
   </level>
-  <text>
-    <text font="'monospace'"> Plan Type </text>
-  </text>
-  <text>
-    <text font="'monospace'"> A B C </text>
-  </text>
-  <text>
-    <text font="'monospace'"> .15 .25 .05</text>
-  </text>
   <level>
-    <level>
-      <level>
-        <level>
-          <num>(iv)</num>
-          <text>For annuities and guaranteed interest contracts valued on an issue year basis (other than those with no cash settlement options) and which do not guarantee interest on considerations received more than one year after issue or purchase, and for annuities and guaranteed interest contracts valued on a change in fund basis and which do not guarantee interest rates on considerations received more than 12 months beyond the valuation date, the factors shown in sub-subparagraph (ii) of this subparagraph or derived in sub-subparagraph (iii) of this subparagraph increased by:</text>
-        </level>
-      </level>
-    </level>
+    <num>(iii)</num>
   </level>
-  <text>
-    <text font="'monospace'"> Plan Type </text>
-  </text>
-  <text>
-    <text font="'monospace'"> A B C </text>
-  </text>
-  <text>
-    <text font="'monospace'"> .05 .05 .05</text>
-  </text>
+  <level type="form">
+    <text> For annuities and guaranteed interest contracts valued on a change in fund basis, the factors shown in sub-subparagraph (ii) of this subparagraph increased by:</text>
+    <text class="centered">
+      <span style="font-style: italic; "> Plan Type</span>
+    </text>
+    <text class="centered">
+      <span style="font-style: italic; "> A B C</span>
+    </text>
+    <text class="centered">
+      <span style="font-style: italic; "> .15 .25 .05.</span>
+    </text>
+  </level>
   <level>
-    <level>
-      <level>
-        <level>
-          <num>(v)</num>
-          <text>Where cash settlement options apply to annuities and guaranteed interest contracts, the guarantee duration is the number of years that the contract guarantees interest rates in excess of the calendar year statutory valuation interest rate for life insurance policies with guarantee duration in excess of 20 years.</text>
-        </level>
-        <level>
-          <num>(vi)</num>
-          <text>Where no cash settlement options apply to annuities or guaranteed interest contracts, the guarantee duration is the number of years from the issuance or the purchase date that the policy has scheduled the annuity benefits to begin.</text>
-        </level>
-      </level>
-      <level>
-        <num>(D)</num>
-        <level>
-          <num>(i)</num>
-          <text>A company may elect to value guaranteed interest contracts with cash settlement options and annuities with cash settlement options on either an issue year basis or on a change in fund basis.</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Guaranteed interest contracts with no cash settlement options and other annuities with no cash settlement options must be valued on an issue year basis.</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>An issue year basis of valuation refers to a valuation basis where the interest rate used to determine the minimum valuation standard for the annuity or the guaranteed interest contract is the calendar year valuation interest rate for the issuance year or purchase year.</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>The change in fund basis of valuation refers to a valuation basis where the interest rate used to determine the minimum valuation standard for each change in the annuity or the guaranteed interest contract fund is the calendar year valuation interest rate for the year that the fund changed.</text>
-        </level>
-      </level>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The reference interest rate referred to in paragraph (2) of this subsection shall be as follows:</text>
-      <level>
-        <num>(A)</num>
-        <text>For all life insurance, the reference rate shall be the lesser between the average rate during a 36-month period and the average rate during a 12-month period ending June 30 of the calendar year preceding the issuance year.</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>For single premium immediate annuities and for annuity benefits involving life contingencies arising where cash settlement options apply to other annuities and to guaranteed interest contracts, the reference rate shall be the average rate during a 12-month period ending June 30 of the calendar year of issue or purchase.</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Where guarantee duration exceeds 10 years and where cash settlement options for annuities and for guaranteed interest contracts have values based upon the issuance year, the reference rate shall be the least between the average rate during a 36-month period and the average rate during a 12-month period ending June 30 of the calendar year of issue or purchase.</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Where guarantee duration does not exceed 10 years and where cash settlement options for annuities and for guaranteed interest contracts have values based upon the issuance year, the reference rate shall be the average rate during a 12-month period ending June 30 of the calendar year of issue or purchase.</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>For other annuities with no cash settlement options and for guaranteed interest contracts with no cash settlement options, the reference rate shall be the average rate during a 12-month period ending June 30 of the calendar year of issue or purchase.</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Where cash settlement options apply to annuities and to guaranteed interest contracts and have values based on a change in the fund, the reference rate shall be the average rate during a 12-month period ending June 30 of the calendar year of the change in the fund.</text>
-      </level>
-    </level>
-    <level>
-      <num>(5)</num>
-      <level>
-        <num>(A)</num>
-        <text>Moody's Corporate Bond Yield Average -- Monthly Average Corporate published by Moody's Investors Service, Inc., shall set the reference rates described in paragraph (4) of this subsection.</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>If the National Association of Insurance Commissioners determines that Moody's Investors Service, Inc., is no longer an appropriate source for the reference rate, then an alternative method shall be adopted by the National Association of Insurance Commissioners and approved by the Commissioner.</text>
-      </level>
+    <num>(iv)</num>
+    <text>For annuities and guaranteed interest contracts valued on an issue year basis (other than those with no cash settlement options) and which do not guarantee interest on considerations received more than one year after issue or purchase, and for annuities and guaranteed interest contracts valued on a change in fund basis and which do not guarantee interest rates on considerations received more than 12 months beyond the valuation date, the factors shown in sub-subparagraph (ii) of this subparagraph or derived in sub-subparagraph (iii) of this subparagraph increased by:</text>
+    <level type="form">
+      <text/>
+      <text class="centered">
+        <span style="font-style: italic; "> Plan Type</span>
+      </text>
+      <text class="centered">
+        <span style="font-style: italic; "> A B C</span>
+      </text>
+      <text class="centered">
+        <span style="font-style: italic; "> .05 .05 .05.</span>
+      </text>
     </level>
   </level>
   <level>
-    <num>(e)</num>
-    <text>For life insurance plans which require the company to fix future premium determination according to the then present estimates of future experience, and for life insurance plans or annuities with minimum reserves that cannot be determined by the methods described in subsection (c)(5) and (6) of this section and in § 31-4720, the reserves held under the plan shall:</text>
-    <level>
-      <num>(1)</num>
-      <text>Be appropriated in relation to the benefits and the pattern of premiums for the plan.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Be computed by a method consistent with the principles of the Standard Valuation Law and according to regulations promulgated by the Commissioner.</text>
+    <num>(v)</num>
+    <text>Where cash settlement options apply to annuities and guaranteed interest contracts, the guarantee duration is the number of years that the contract guarantees interest rates in excess of the calendar year statutory valuation interest rate for life insurance policies with guarantee duration in excess of 20 years. </text>
+    <level type="form">
+      <text>  (vi) Where no cash settlement options apply to annuities or guaranteed interest contracts, the guarantee duration is the number of years from the issuance or the purchase date that the policy has scheduled the annuity benefits to begin. 
+ 
+ (D) (i) A company may elect to value guaranteed interest contracts with cash settlement options and annuities with cash settlement options on either an issue year basis or on a change in fund basis. 
+ 
+ (ii) Guaranteed interest contracts with no cash settlement options and other annuities with no cash settlement options must be valued on an issue year basis. 
+ 
+ (iii) An issue year basis of valuation refers to a valuation basis where the interest rate used to determine the minimum valuation standard for the annuity or the guaranteed interest contract is the calendar year valuation interest rate for the issuance year or purchase year. 
+ 
+ (iv) The change in fund basis of valuation refers to a valuation basis where the interest rate used to determine the minimum valuation standard for each change in the annuity or the guaranteed interest contract fund is the calendar year valuation interest rate for the year that the fund changed. 
+ 
+ (4) The reference interest rate referred to in paragraph (2) of this subsection shall be as follows: 
+ 
+ (A) For all life insurance, the reference rate shall be the lesser between the average rate during a 36-month period and the average rate during a 12-month period ending June 30 of the calendar year preceding the issuance year. 
+ 
+ (B) For single premium immediate annuities and for annuity benefits involving life contingencies arising where cash settlement options apply to other annuities and to guaranteed interest contracts, the reference rate shall be the average rate during a 12-month period ending June 30 of the calendar year of issue or purchase. 
+ 
+ (C) Where guarantee duration exceeds 10 years and where cash settlement options for annuities and for guaranteed interest contracts have values based upon the issuance year, the reference rate shall be the least between the average rate during a 36-month period and the average rate during a 12-month period ending June 30 of the calendar year of issue or purchase. 
+ 
+ (D) Where guarantee duration does not exceed 10 years and where cash settlement options for annuities and for guaranteed interest contracts have values based upon the issuance year, the reference rate shall be the average rate during a 12-month period ending June 30 of the calendar year of issue or purchase. 
+ 
+ (E) For other annuities with no cash settlement options and for guaranteed interest contracts with no cash settlement options, the reference rate shall be the average rate during a 12-month period ending June 30 of the calendar year of issue or purchase. 
+ 
+ (F) Where cash settlement options apply to annuities and to guaranteed interest contracts and have values based on a change in the fund, the reference rate shall be the average rate during a 12-month period ending June 30 of the calendar year of the change in the fund. 
+ 
+ (5) (A) Moody's Corporate Bond Yield Average - Monthly Average Corporate published by Moody's Investors Service, Inc., shall set the reference rates described in paragraph (4) of this subsection. 
+ 
+ (B) If the National Association of Insurance Commissioners determines that Moody's Investors Service, Inc., is no longer an appropriate source for the reference rate, then an alternative method shall be adopted by the National Association of Insurance Commissioners and approved by the Commissioner. 
+ 
+ (e) For life insurance plans which require the company to fix future premium determination according to the then present estimates of future experience, and for life insurance plans or annuities with minimum reserves that cannot be determined by the methods described in subsection (c)(5) and (6) of this section and in § 31-4720, the reserves held under the plan shall: 
+ 
+ (1) Be appropriated in relation to the benefits and the pattern of premiums for the plan. 
+ 
+ (2) Be computed by a method consistent with the principles of the Standard Valuation Law and according to regulations promulgated by the Commissioner.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(June 19, 1934, 48 Stat. 1156, ch. 672, ch. V, § 1; Feb. 19, 1948, 62 Stat. 27, ch. 66, § 1; June 27, 1960, 74 Stat. 227, Pub. L. 86-530, § 1; Oct. 3, 1962, 76 Stat. 711, Pub. L. 87-738, § 1; Oct. 13, 1978, D.C. Law 2-120, §§ 2, 3, 25 DCR 1519; Mar. 14, 1985, D.C. Law 5-160, § 3(d), 32 DCR 39; May 21, 1997, D.C. Law 11-268, § 10(j), 44 DCR 1730.)</text>
+      <heading>History</heading>
+      <text>(June 19, 1934, 48 Stat. 1156, ch. 672, ch. V, § 1; Feb. 19, 1948, 62 Stat. 27, ch. 66, § 1; June 27, 1960, 74 Stat. 227, Pub. L. 86-530, § 1; Oct. 3, 1962, 76 Stat. 711, Pub. L. 87-738, § 1; Oct. 13, 1978, D.C. Law 2-120,§§ 2, 3, 25 DCR 1519; Mar. 14, 1985, D.C. Law 5-160, § 3(d), 32 DCR 39; May 21, 1997, D.C. Law 11-268, § 10(j), 44 DCR 1730.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-501.</text>
-        <text>1973 Ed., § 35-701.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 2-120 was introduced in Council and assigned Bill No. 2-304, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first and second readings on June 27, 1978, and July 11, 1978, respectively. Signed by the Mayor on August 2, 1978, it was assigned Act No. 2-250 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 11-268, the "Department of Insurance and Securities Regulation Establishment Act of 1996," was introduced in Council and assigned Bill No. 11- 415, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 30, 1996, it was assigned Act No. 11-524 and transmitted to both Houses of Congress for its review. D.C. Law 11-268 became effective on May 21, 1997.</text>
-        <text>For legislative history of D.C. Law 5-160, see Historical and Statutory Notes following § 31-4725.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>References in D.C. Law 5-160 in this section and in § 31-4720 have been translated accurately to reflect the D.C. Code numbering system for § 31- 4701(c). It should be noted, however, that the numbering system used by the D.C. Code and the numbering system used by the Organic Law differ markedly.</text>
-      </level>
-      <level>
-        <heading>Change in Government</heading>
-        <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Department of Insurance abolished: The Department of Insurance, including the Superintendent, was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. Reorganization Order No. 43, dated June 23, 1953, as amended, established, under the direction and control of a Commissioner, a Department of Insurance headed by a Superintendent. The Order provided for the organization of the Department, abolished the previously existing Department of Insurance, and provided that all functions and positions of the previous Department would be transferred to the new Department of Insurance, including the duties, powers, and authorities of all officers and employees; and that all personnel, property, records and unexpended balances relating to the functions and positions transferred would also be transferred to the new Department. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. The functions of the Superintendent of Insurance were transferred to the Department of Consumer and Regulatory Affairs by Reorganization Plan No. 1 of 1983, effective March 31, 1983. Pursuant to the provisions of D.C. Law 11- 268, the Department of Insurance and Securities Regulation was established and the duties of the Superintendent of Insurance and the Insurance Administration were assumed by the Commissioner of Insurance and Securities, and the Insurance Administration in the Department of Consumer and Regulatory Affairs was abolished.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Application of chapter to existing companies, see § 31-4420.</text>
+      <text>Domestic stock companies, conversion into mutual life companies, valuations, see § 31-4419.</text>
+      <text>Life insurance actuarial opinion of reserves and related actuarial items, requirements, see § 31-4901.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-4419, § 31-4705.02, § 31-4720, and § 31-4901.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-501.</text>
+      <text>1973 Ed., § 35-701.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-120</heading>
+      <text>Law 2-120 was introduced in Council and assigned Bill No. 2-304, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first and second readings on June 27, 1978, and July 11, 1978, respectively. Signed by the Mayor on August 2, 1978, it was assigned Act No. 2-250 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>Law 11-268, the "Department of Insurance and Securities Regulation Establishment Act of 1996," was introduced in Council and assigned Bill No. 11-415, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 30, 1996, it was assigned Act No. 11-524 and transmitted to both Houses of Congress for its review. D.C. Law 11-268 became effective on May 21, 1997.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-160</heading>
+      <text>For legislative history of D.C. Law 5-160, see Historical and Statutory Notes following § 31-4725.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>References in D.C. Law 5-160 in this section and in § 31-4720 have been translated accurately to reflect the D.C. Code numbering system for § 31-4701(c). It should be noted, however, that the numbering system used by the D.C. Code and the numbering system used by the Organic Law differ markedly.</text>
+      <text>Department of Insurance abolished: The Department of Insurance, including the Superintendent, was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. Reorganization Order No. 43, dated June 23, 1953, as amended, established, under the direction and control of a Commissioner, a Department of Insurance headed by a Superintendent. The Order provided for the organization of the Department, abolished the previously existing Department of Insurance, and provided that all functions and positions of the previous Department would be transferred to the new Department of Insurance, including the duties, powers, and authorities of all officers and employees; and that all personnel, property, records and unexpended balances relating to the functions and positions transferred would also be transferred to the new Department. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. The functions of the Superintendent of Insurance were transferred to the Department of Consumer and Regulatory Affairs by Reorganization Plan No. 1 of 1983, effective March 31, 1983. Pursuant to the provisions of D.C. Law 11-268, the Department of Insurance and Securities Regulation was established and the duties of the Superintendent of Insurance and the Insurance Administration were assumed by the Commissioner of Insurance and Securities, and the Insurance Administration in the Department of Consumer and Regulatory Affairs was abolished.</text>
+    </level>
+    <level>
+      <heading>Change in Government</heading>
+      <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
     </level>
   </level>
 </level>

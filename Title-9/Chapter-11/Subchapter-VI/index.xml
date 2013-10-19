@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>VI</num>
-  <heading>Adopted Regional System.</heading>
-  <level>
-    <text>DC CODE D. I, T. 9, Subt. III, Ch. 11, Subch. VI, Refs &amp; Annos</text>
-  </level>
+  <heading>Adopted Regional System</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1111.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1111.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1111.03.xml"/>

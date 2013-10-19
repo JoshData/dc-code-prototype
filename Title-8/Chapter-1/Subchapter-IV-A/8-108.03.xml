@@ -1,26 +1,46 @@
 <level type="section">
   <num>8-108.03</num>
-  <heading>Phase out of perchloroethylene in dry cleaning.</heading>
+  <heading>Restrictions on the use of perchloroethylene and n-propyl bromide in dry cleaning.</heading>
   <level>
     <num>(a)</num>
-    <text>After January 1, 2014, no person or legal entity shall install a machine designed to use perchloroethylene as a cleaning agent for clothes or other fabrics.</text>
+    <text>After January 1, 2014, no person or legal entity shall install a machine designed to use perchloroethylene or n-propyl bromide as a cleaning agent for clothes or other fabrics.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>After January 1, 2029, no person or legal entity shall use perchloroethlyene as a cleaning agent for clothes or other fabrics.</text>
+    <text>After January 1, 2029, no person or legal entity shall use perchloroethylene or n-propyl bromide as a cleaning agent for clothes or other fabrics.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(c)</num>
+    <text>For the purposes of this section, the term a "child-occupied facility" means a building, or portion of a building, which, as part of its function, receives children under 6 years of age on a regular basis and is required to obtain a certificate of occupancy as a precondition to performing that function. The term "child-occupied facility" includes a daycare center, nursery, preschool center, kindergarten classroom, child development center, child development home, child development facility, child-placing agency, infant care center, or similar entity. The location of a child-occupied facility as part of a larger structure does not make the entire structure a child-occupied facility. Only the portion of the facility occupied or regularly visited by children 6 years of age shall be considered the Child-occupied facility.</text>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>Beginning 12 months after April 20, 2013:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 31, 2011, D.C. Law 18-336, § 4, 58 DCR 605.)</text>
+      <num>(1)</num>
+      <text>A dry cleaning establishment shall use perchloroethylene or n-propyl bromide as a cleaning agent for clothes or other fabrics only after obtaining a source category permit from the District Department of the Environment in accordance with Chapter 2 of Title 20 of the District of Columbia Municipal Regulations (20 DCMR § 200 et seq.).</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-336, see notes under § 8-108.01.</text>
-      </level>
+      <num>(2)</num>
+      <text>No permit shall be issued to a dry cleaning establishment to use perchloroethlyene or n-propyl bromide as a cleaning agent for clothes or other fabrics that is located within 200 feet of an existing child-occupied facility. The 200-foot restriction shall not apply at a location where a dry cleaning establishment has used perchloroethylene or n-propyl bromide within 90 days before April 20, 2013.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Mar. 31, 2011, D.C. Law 18-336, § 4, 58 DCR 605; Apr. 20, 2013, D.C. Law 19-262, § 302, 60 DCR 1300.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-262 rewrote the section heading, which formerly read: "Phase out of perchloroethylene in dry cleaning"; substituted "perchloroethylene or n-propyl bromide" for "perchloroethylene" in (a) and (b); and added (c) and (d).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-336</heading>
+      <text>For history of Law 18-336, see notes under § 8-108.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-262</heading>
+      <text>Law 19-262, the ""Sustainable DC Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-756. The Bill was adopted on first and second readings on Dec. 4, 2012, and Dec. 18, 2012, respectively. Signed by the Mayor on Jan. 16, 2013, it was assigned Act No. 19-615 and transmitted to Congress for its review. D.C. Law 19-262 became effective on Apr. 20, 2013.</text>
     </level>
   </level>
 </level>

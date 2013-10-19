@@ -1,58 +1,55 @@
 <level type="section">
   <num>9-1215.06</num>
   <heading>Marker locations.</heading>
-  <formerly-cited-as>DC ST 1981 § 7-236</formerly-cited-as>
   <text>Commemorative markers constructed pursuant to this subchapter may be placed in, including, but not limited to, the following locations:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The North and South sidewalks of G Street, N.W., between 15th Street and 11th Street, N.W.;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The North and South sidewalks of F Street, N.W., between 15th Street and 11th Street, N.W.;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The North sidewalks of E Street, N.W., between 14th Street and 11th Street, N.W. and the South sidewalks of E Street, N.W., between 13th Street and 11th Street, N.W.;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The East sidewalks of 15th Street, N.W., between Pennsylvania Avenue, N.W. and G Street, N.W.;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>The East and West sidewalks of 14th Street, N.W., between Pennsylvania Avenue, N.W., and G Street, N.W.;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>The East sidewalks of 13th Street, N.W., between Pennsylvania Avenue, N.W. and E Street, N.W. and the East and West sidewalks of 13th Street, N.W., between E Street, N.W., and G Street, N.W.;</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>The East and West sidewalks of 12th Street, N.W., between Pennsylvania Avenue, N.W., and G Street, N.W.; and</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>The East and West sidewalks of 11th Street, N.W., between Pennsylvania Avenue, N.W., and G Street, N.W.</text>
-    </level>
+    <num>(1)</num>
+    <text>The North and South sidewalks of G Street, N.W., between 15th Street and 11th Street, N.W.;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The North and South sidewalks of F Street, N.W., between 15th Street and 11th Street, N.W.;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The North sidewalks of E Street, N.W., between 14th Street and 11th Street, N.W. and the South sidewalks of E Street, N.W., between 13th Street and 11th Street, N.W.;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The East sidewalks of 15th Street, N.W., between Pennsylvania Avenue, N.W. and G Street, N.W.;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>The East and West sidewalks of 14th Street, N.W., between Pennsylvania Avenue, N.W., and G Street, N.W.;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>The East sidewalks of 13th Street, N.W., between Pennsylvania Avenue, N.W. and E Street, N.W. and the East and West sidewalks of 13th Street, N.W., between E Street, N.W., and G Street, N.W.;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>The East and West sidewalks of 12th Street, N.W., between Pennsylvania Avenue, N.W., and G Street, N.W.; and</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>The East and West sidewalks of 11th Street, N.W., between Pennsylvania Avenue, N.W., and G Street, N.W.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 30, 1998, D.C. Law 12-98, § 7, 45 DCR 1519.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 7-236.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-98, see Historical and Statutory Notes following § 9-1215.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 9-1215.02 and § 9-1215.07.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 7-236.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-98</heading>
+      <text>For legislative history of D.C. Law 12-98, see Historical and Statutory Notes following § 9-1215.01.</text>
     </level>
   </level>
 </level>

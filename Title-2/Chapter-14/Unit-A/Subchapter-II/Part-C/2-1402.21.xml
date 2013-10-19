@@ -1,10 +1,10 @@
 <level type="section">
   <num>2-1402.21</num>
   <heading>Prohibitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-2515</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">General.</text> -- It shall be an unlawful discriminatory practice to do any of the following acts, wholly or partially for a discriminatory reason based on the actual or perceived: race, color, religion, national origin, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, familial status, family responsibilities, disability, matriculation, political affiliation, source of income, status as a victim of an intrafamily offense, or place of residence or business of any individual:</text>
+    <heading>General</heading>
+    <text>It shall be an unlawful discriminatory practice to do any of the following acts, wholly or partially for a discriminatory reason based on the actual or perceived: race, color, religion, national origin, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, familial status, family responsibilities, disability, matriculation, political affiliation, source of income, status as a victim of an intrafamily offense, or place of residence or business of any individual:</text>
     <level>
       <num>(1)</num>
       <text>To interrupt or terminate, or refuse or fail to initiate or conduct any transaction in real property; or to require different terms for such transaction; or to represent falsely that an interest in real property is not available for transaction;</text>
@@ -36,11 +36,16 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Subterfuge.</text> -- It shall further be an unlawful discriminatory practice to do any of the above said acts for any reason that would not have been asserted but for, wholly or partially, a discriminatory reason based on the actual or perceived: race, color, religion, national origin, sex, sexual orientation, gender identity or expression, familial status, family responsibilities, disability, matriculation, political affiliation, source of income, status as victim of an intrafamily offense, or place of residence or business of any individual.</text>
+    <heading>Subterfuge</heading>
+    <text>It shall further be an unlawful discriminatory practice to do any of the above said acts for any reason that would not have been asserted but for, wholly or partially, a discriminatory reason based on the actual or perceived: race, color, religion, national origin, sex, sexual orientation, gender identity or expression, familial status, family responsibilities, disability, matriculation, political affiliation, source of income, status as victim of an intrafamily offense, or place of residence or business of any individual.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Families with children.</text> -- (1) It shall be an unlawful discriminatory practice to do any of the acts prohibited in subsections (a) and (b) of this section wholly or partially based on the fact that a person has one or more children who reside with that person.</text>
+    <heading>Families with children</heading>
+    <level>
+      <num>(1)</num>
+      <text>It shall be an unlawful discriminatory practice to do any of the acts prohibited in subsections (a) and (b) of this section wholly or partially based on the fact that a person has one or more children who reside with that person.</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>There shall be a rebuttable presumption that an unlawful discriminatory practice has occurred if the person alleging discrimination has 1 or more children who reside with that person and any of the acts prohibited by subsections (a) and (b) of this section are done to maintain residential occupancies more restrictive than the following:</text>
@@ -76,8 +81,10 @@
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Disability.</text> -- (1) It shall be an unlawful discriminatory practice in the sale or rental of real estate to deny a dwelling to a buyer or renter or to otherwise make a dwelling unavailable to a buyer or renter because of a disability of:</text>
+    <heading>Disability</heading>
     <level>
+      <num>(1)</num>
+      <text>It shall be an unlawful discriminatory practice in the sale or rental of real estate to deny a dwelling to a buyer or renter or to otherwise make a dwelling unavailable to a buyer or renter because of a disability of:</text>
       <level>
         <num>(A)</num>
         <text>That buyer or renter; or</text>
@@ -162,7 +169,7 @@
   </level>
   <level>
     <num>(f)</num>
-    <text><text i="True">Victims of intrafamily offenses</text> --</text>
+    <heading>Victims of intrafamily offenses</heading>
     <level>
       <num>(1)</num>
       <text>For purposes of this subsection, the term "record" means documentation produced by a law enforcement officer, as defined in § 4-1301.02(14), or a court order pursuant to § 16-1005.</text>
@@ -195,41 +202,72 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Dec. 13, 1977, D.C. Law 2-38, title II, § 221, 24 DCR 6038; July 26, 1980, D.C. Law 3-80, § 2, 27 DCR 2554; June 28, 1994, D.C. Law 10-129, § 2(d), 41 DCR 2583; Apr. 20, 1999, D.C. Law 12-242, § 2(d), 46 DCR 952; Oct. 1, 2002, D.C. Law 14-189, § 2(c), 49 DCR 6523; Apr. 13, 2005, D.C. Law 15-354, § 8(a), 52 DCR 2638; Mar. 8, 2006, D.C. Law 16-58, § 2(d), 53 DCR 14; Mar. 14, 2007, D.C. Law 16-273, § 3(c), 54 DCR 859; Apr. 24, 2007, D.C. Law 16-305, § 11, 53 DCR 6198; Mar. 25, 2009, D.C. Law 17-368, § 4(a)(2), 56 DCR 1338.)</text>
+      <heading>History</heading>
+      <text>(Dec. 13, 1977, D.C. Law 2-38, title II, § 221, 24 DCR 6038; July 26, 1980, D.C. Law 3-80, § 2, 27 DCR 2554; June 28, 1994, D.C. Law 10-129, § 2(d), 41 DCR 2583; Apr. 20, 1999, D.C. Law 12-242, § 2(d), 46 DCR 952; Oct. 1, 2002, D.C. Law 14-189, § 2(c), 49 DCR 6523; Apr. 13, 2005, D.C. Law 15-354, § 8(a), 52 DCR 2638; Mar. 8, 2006, D.C. Law 16-58, § 2(d), 53 DCR 14; Mar. 14, 2007, D.C. Law 16-273, § 3(c), 54 DCR 859; Apr. 24, 2007, D.C. Law 16-305, § 11, 53 DCR 6198; Mar. 25, 2009, D.C. Law 17-368, § 4(a)(2), 56)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-2515.</text>
-        <text>1973 Ed., § 6-2231.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-189, in subsecs. (a) and (b), substituted "actual or perceived: race" for "race".</text>
-        <text>D.C. Law 15-354 added subsec. (e).</text>
-        <text>D.C. Law 16-58, in the lead-in language of subsec. (a), subsec. (a)(5), and subsec. (b), substituted "sexual orientation, gender identity or expression," for "sexual orientation,".</text>
-        <text>D.C. Law 16-273, in subsecs. (a) and (b), inserted "status as a victim of an intrafamily offense" following "source of income"; and added subsec. (f).</text>
-        <text>D.C. Law 16-305 substituted "persons with disabilities" for "disabled persons", throughout the section.</text>
-        <text>D.C. Law 17-368, in subsecs. (f)(2) and (3), substituted "§ 16-1001(8)" for "§ 16-1001(5)".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-38, see Historical and Statutory Notes following § 2-1401.01.</text>
-        <text>Law 3-80 was introduced in Council and assigned Bill No. 3-74, which was referred to the Committee on Public Safety and Consumer Affairs. The Bill was adopted on first and second readings on April 22, 1980 and May 6, 1980, respectively. Signed by the Mayor on May 23, 1980, it was assigned Act No. 3- 191 and transmitted to both Houses of Congress for its review.</text>
-        <text>For legislative history of D.C. Law 10-129, see Historical and Statutory Notes following § 2-1401.01.</text>
-        <text>For legislative history of D.C. Law 12-242, see Historical and Statutory Notes following § 2-1401.01.</text>
-        <text>For Law 14-189, see notes following § 2-1401.02.</text>
-        <text>For Law 15-354, see notes following § 2-534.</text>
-        <text>For Law 16-58, see notes following § 2-1401.01.</text>
-        <text>For Law 16-273, see notes following § 2-1401.01.</text>
-        <text>For Law 16-305, see notes following § 2-301.07.</text>
-        <text>For Law 17-368, see notes following § 2-1401.02.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Rental housing discrimination prohibited, see § 42-3505.05.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1402.24, § 6-1041.06, and § 42-2851.06.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-2515.</text>
+      <text>1973 Ed., § 6-2231.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-189, in subsecs. (a) and (b), substituted "actual or perceived: race" for "race".</text>
+      <text>D.C. Law 15-354 added subsec. (e).</text>
+      <text>D.C. Law 16-58, in the lead-in language of subsec. (a), subsec. (a)(5), and subsec. (b), substituted "sexual orientation, gender identity or expression," for "sexual orientation,".</text>
+      <text>D.C. Law 16-273, in subsecs. (a) and (b), inserted "status as a victim of an intrafamily offense" following "source of income"; and added subsec. (f).</text>
+      <text>D.C. Law 16-305 substituted "persons with disabilities" for "disabled persons", throughout the section.</text>
+      <text>D.C. Law 17-368, in subsecs. (f)(2) and (3), substituted "§ 16-1001(8)" for "§ 16-1001(5)".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-38</heading>
+      <text>For legislative history of D.C. Law 2-38, see Historical and Statutory Notes following § 2-1401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-80</heading>
+      <text>Law 3-80 was introduced in Council and assigned Bill No. 3-74, which was referred to the Committee on Public Safety and Consumer Affairs. The Bill was adopted on first and second readings on April 22, 1980 and May 6, 1980, respectively. Signed by the Mayor on May 23, 1980, it was assigned Act No. 3-191 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-129</heading>
+      <text>For legislative history of D.C. Law 10-129, see Historical and Statutory Notes following § 2-1401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-242</heading>
+      <text>For legislative history of D.C. Law 12-242, see Historical and Statutory Notes following § 2-1401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-189</heading>
+      <text>For Law 14-189, see notes following § 2-1401.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 2-534.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-58</heading>
+      <text>For Law 16-58, see notes following § 2-1401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-273</heading>
+      <text>For Law 16-273, see notes following § 2-1401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-305</heading>
+      <text>For Law 16-305, see notes following § 2-301.07.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-368</heading>
+      <text>For Law 17-368, see notes following § 2-1401.02.</text>
     </level>
   </level>
 </level>

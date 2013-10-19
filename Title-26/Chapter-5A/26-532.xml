@@ -37,29 +37,28 @@
     <num>(d)</num>
     <text>A financial institution that intentionally fails to comply with subsection (a) of this section shall be subject to a penalty of $5,000 for each failure to conduct a data match with data that the IV-D agency submits or attempts to submit to the financial institution. For purposes of this subsection, a single data submission may include data concerning multiple obligors. Penalties pursuant to this subsection shall be enforced in the Superior Court by the Corporation Counsel of the District of Columbia.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 3, 2001, D.C. Law 13-269, § 203, 48 DCR 1270.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>Section 201 of D.C. Law 13-207 added this section.</text>
-        <text>Section 401(b) of D.C. Law 13-207 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 201 of the Child Support and Welfare Reform Compliance Emergency Amendment Act of 2001 (D.C. Act 13-446, November 7, 2000, 47 DCR 9213).</text>
-        <text>For temporary (90 day) addition of section, see § 203 of Child Support and Welfare Reform Compliance Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-5, February 13, 2001, 48 DCR 2440).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-207, see notes following § 26-531.</text>
-        <text>For Law 13-269, see notes following § 26-531.</text>
-      </level>
+      <heading>Temporary Addition of Section</heading>
+      <text>Section 201 of D.C. Law 13-207 added this section.</text>
+      <text>Section 401(b) of D.C. Law 13-207 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 201 of the Child Support and Welfare Reform Compliance Emergency Amendment Act of 2001 (D.C. Act 13-446, November 7, 2000, 47 DCR 9213).</text>
+      <text>For temporary (90 day) addition of section, see § 203 of Child Support and Welfare Reform Compliance Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-5, February 13, 2001, 48 DCR 2440).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-207</heading>
+      <text>For Law 13-207, see notes following § 26-531.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-269</heading>
+      <text>For Law 13-269, see notes following § 26-531.</text>
     </level>
   </level>
 </level>

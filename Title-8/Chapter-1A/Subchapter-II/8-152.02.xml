@@ -15,7 +15,7 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>Monies from the Enterprise Fund shall only be used to fund the costs of complying with the MS4 Permit, including grants for stormwater activities, all administrative, operating, and capital costs of DC WASA and the agencies identified by the Director as having specific responsibilities under the, MS4 Permit and the Stormwater Administration established pursuant to § 8- 152.01. The Enterprise Fund shall also be used for DC WASA's costs of billing and collecting the stormwater user fee, as authorized by subchapter I of Chapter 21 of Title 34.</text>
+    <text>Monies from the Enterprise Fund shall only be used to fund the costs of complying with the MS4 Permit, including grants for stormwater activities, all administrative, operating, and capital costs of DC WASA and the agencies identified by the Director as having specific responsibilities under the, MS4 Permit and the Stormwater Administration established pursuant to § 8-152.01. The Enterprise Fund shall also be used for DC WASA's costs of billing and collecting the stormwater user fee, as authorized by subchapter I of Chapter 21 of Title 34 [§ 34-2101.01 et seq.].</text>
   </level>
   <level>
     <num>(e)</num>
@@ -33,34 +33,39 @@
     <num>(f)</num>
     <text>Within 90 days of March 25, 2009, the Office of the Chief Financial Officer shall convene quarterly meetings to coordinate with the fiscal officers of the Stormwater Agencies to ensure that each agency can access the Enterprise Fund to implement its activities in a timely manner.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 15, 2006, D.C. Law 16-51, § 152, as added Mar. 25, 2009, D.C. Law 17-371, § 2(b), 56 DCR 1353; Sept. 24, 2010, D.C. Law 18-223, § 1122, 57 DCR 6242; Sept. 26, 2012, D.C. Law 19-171, § 58(b), 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-223 rewrote subsec. (e)(1), which had read as follows:</text>
-        <text>"(1) Stormwater management activities carried out prior to April 20, 2000, except to the extent those costs increased to comply with the terms of the Stormwater Permit; or"</text>
-        <text>D.C. Law 19-171, in subsec. (d), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 1122 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-371, see notes following § 8-152.01.</text>
-        <text>For Law 18-223, see notes following § 8-102.05.</text>
-        <text>For history of Law 19-171, see notes under § 8-105.02.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 1121 of D.C. Law 18-223 provided that subtitle M of title I of the act may be cited as the "Stormwater Permit Compliance Fund Clarification Amendment Act of 2010".</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-152.01 and § 47-1803.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-223 rewrote subsec. (e)(1), which had read as follows: "(1) Stormwater management activities carried out prior to April 20, 2000, except to the extent those costs increased to comply with the terms of the Stormwater Permit; or"</text>
+      <text>The 2012 amendment by D.C. Law 19-171 validated a previously made technical correction in (d).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 1122 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-371</heading>
+      <text>For Law 17-371, see notes following § 8-152.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 8-102.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 8-151.01.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 1121 of D.C. Law 18-223 provided that subtitle M of title I of the act may be cited as the "Stormwater Permit Compliance Fund Clarification Amendment Act of 2010".</text>
     </level>
   </level>
 </level>

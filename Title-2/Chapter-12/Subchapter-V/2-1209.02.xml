@@ -1,42 +1,35 @@
 <level type="section">
   <num>2-1209.02</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-2232</formerly-cited-as>
   <text>For the purposes of this subchapter, the term:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>"Business incubator" means a building that provides low-cost space and services to eligible tenant businesses. The term "business incubator" does not mean a multi-tenant facility that offers space alone.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Council" means the Council of the District of Columbia.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"District" means the District of Columbia.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Mayor" means the Mayor of the District of Columbia.</text>
-    </level>
+    <num>(1)</num>
+    <text>"Business incubator" means a building that provides low-cost space and services to eligible tenant businesses. The term "business incubator" does not mean a multi-tenant facility that offers space alone.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Council" means the Council of the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"District" means the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Mayor" means the Mayor of the District of Columbia.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 12, 1985, D.C. Law 6-71, § 3, 32 DCR 6334.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-2232.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-71, see Historical and Statutory Notes following § 2-1209.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-2232.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-71</heading>
+      <text>For legislative history of D.C. Law 6-71, see Historical and Statutory Notes following § 2-1209.01.</text>
     </level>
   </level>
 </level>

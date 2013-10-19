@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-207.33</num>
   <heading>Compensation from more than one source.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-1305</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as provided in this chapter, no person shall be ineligible to serve or to receive compensation as a member of the Board of Elections because he occupies another office or position or because he receives compensation (including retirement compensation) from another source.</text>
@@ -10,23 +9,23 @@
     <num>(b)</num>
     <text>The right to another office or position or to compensation from another source otherwise secured to such a person under the laws of the United States shall not be abridged by the fact of his service or receipt of compensation as a member of such Board, if such service does not interfere with the discharge of his duties in such other office or position.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 24, 1973, 87 Stat. 822, Pub. L. 93-198, title VII, § 733; Aug. 14, 1974, 88 Stat. 458, Pub. L. 93-376, title III, § 306(a).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-1305.</text>
-        <text>1973 Ed., § 1-1104a.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-88, see Historical and Statutory Notes following § 1-1001.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-636.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-1305.</text>
+      <text>1973 Ed., § 1-1104a.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-88</heading>
+      <text>For legislative history of D.C. Law 4-88, see Historical and Statutory Notes following § 1-1001.01.</text>
     </level>
   </level>
 </level>

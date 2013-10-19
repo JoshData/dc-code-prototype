@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-507</num>
   <heading>Prohibited acts.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-1307</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>It shall be unlawful for any person to interfere with, restrain, or deny the exercise of or the attempt to exercise any right provided by this chapter.</text>
@@ -34,22 +33,18 @@
       <text>Gives any information or testimony in connection with an inquiry or proceeding related to this chapter.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 3, 1990, D.C. Law 8-181, § 8, 37 DCR 5043.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-1307.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-181, see Historical and Statutory Notes following § 32-501.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-1307.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-181</heading>
+      <text>For legislative history of D.C. Law 8-181, see Historical and Statutory Notes following § 32-501.</text>
     </level>
   </level>
 </level>

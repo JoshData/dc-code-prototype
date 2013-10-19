@@ -1,26 +1,11 @@
 <level type="toc">
   <prefix>Title</prefix>
   <num>28</num>
-  <heading>Commercial Instruments and Transactions.</heading>
+  <heading>Commercial Instruments and Transactions</heading>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>I</num>
-    <heading>Uniform Commercial Code.</heading>
-    <level>
-      <level>
-        <type>annotations</type>
-        <level>
-          <heading>ACKNOWLEDGMENT</heading>
-          <text>Uniform Commercial Code</text>
-          <text>Official Text and Comments</text>
-          <text><text b="True">Acknowledgment is gratefully</text> made to The American Law Institute and to the National Conference of Commissioners on Uniform State Laws for permission to reproduce the official Comments on the Uniform Commercial Code in Subtitle I of Title 28 of the District of Columbia Official Code.</text>
-          <text>Section 28:1-102 provides that the act "shall be liberally construed and applied to promote its underlying purposes and policies" which include "to make uniform the law among the various jurisdictions".</text>
-          <text>It follows, therefore, that the official Comments are indispensable to an understanding of the objectives and purposes of the Uniform Commercial Code and the substantive changes effected in the law. These Comments will become increasingly important to the Bench and Bar in the interpretation and application of the Code to specific legal problems which are sure to arise in commercial transactions governed by the Code.</text>
-          <text> THE PUBLISHER </text>
-          <text>DC CODE D. V, T. 28, Subt. I, Refs &amp; Annos</text>
-        </level>
-      </level>
-    </level>
+    <heading>Uniform Commercial Code</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Article-1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Article-2/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Article-2A/index.xml"/>
@@ -32,12 +17,13 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Article-7/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Article-8/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Article-9/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Article-10/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Article-11/index.xml"/>
   </level>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Appendix-/index.xml"/>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>II</num>
-    <heading>Other Commercial Transactions.</heading>
+    <heading>Other Commercial Transactions</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-21/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-23/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-25/index.xml"/>
@@ -64,5 +50,6 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-49/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-50/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-51/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-52/index.xml"/>
   </level>
 </level>

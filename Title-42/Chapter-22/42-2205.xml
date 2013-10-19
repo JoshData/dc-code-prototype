@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-2205</num>
   <heading>Repayment of loans.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-3005</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For each loan issued under this chapter, the Mayor shall arrange a repayment schedule for which the repayment shall not create an economic hardship on the senior citizen homeowner receiving the loan. Loan repayment may be deferred to avoid economic hardship.</text>
@@ -14,22 +13,18 @@
     <num>(c)</num>
     <text>If the loan is not fully repaid prior to the death of the senior citizen homeowner who accepted a loan under this chapter, the District may collect the unsatisfied amount from the decedent's estate.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 24, 1988, D.C. Law 7-96, § 6, 35 DCR 891.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-3005.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-96, see Historical and Statutory Notes following § 42-2201.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-3005.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-96</heading>
+      <text>For legislative history of D.C. Law 7-96, see Historical and Statutory Notes following § 42-2201.</text>
     </level>
   </level>
 </level>

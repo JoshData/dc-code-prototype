@@ -1,18 +1,15 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>General Provisions.</heading>
-  <level>
-    <text>DC CODE D. IV, T. 24, Ch. 4, Subch. I, Refs &amp; Annos</text>
-  </level>
+  <heading>General Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401a~24-401b~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401a~24-401b~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401a~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401b~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401c.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401.03.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-402.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-402~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-403.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-403.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-403.02.xml"/>

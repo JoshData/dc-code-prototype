@@ -3,55 +3,49 @@
   <heading>Administration of the Drug Treatment Choice Program and Addiction Recovery Fund.</heading>
   <text>APRA shall administer the Program and Fund by:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Performing certification of treatment providers;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Creating standardized intake forms and procedures to be utilized by APRA and treatment providers;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Monitoring intake screening and assessments performed by qualified substance abuse counselors located within the APRA or the treatment providers;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Determining whether the applicant is eligible to participate in the Program following the intake screening and assessment;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Requiring the persons performing the intake screening and assessment, after determining eligibility, to share with the client the entire spectrum of treatment providers and to inform the client of his or her right to select the treatment provider of his or her choice in consultation with a qualified substance abuse counselor;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Reviewing rehabilitation and aftercare plans, including estimated costs, submitted by treatment providers;</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>Providing payment directly to treatment providers for services rendered at such times as established between APRA and the treatment provider; and</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>Monitoring the rehabilitation and aftercare plans and the quality of the services rendered by the treatment providers.</text>
-    </level>
+    <num>(1)</num>
+    <text>Performing certification of treatment providers;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Creating standardized intake forms and procedures to be utilized by APRA and treatment providers;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Monitoring intake screening and assessments performed by qualified substance abuse counselors located within the APRA or the treatment providers;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Determining whether the applicant is eligible to participate in the Program following the intake screening and assessment;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Requiring the persons performing the intake screening and assessment, after determining eligibility, to share with the client the entire spectrum of treatment providers and to inform the client of his or her right to select the treatment provider of his or her choice in consultation with a qualified substance abuse counselor;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Reviewing rehabilitation and aftercare plans, including estimated costs, submitted by treatment providers;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>Providing payment directly to treatment providers for services rendered at such times as established between APRA and the treatment provider; and</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>Monitoring the rehabilitation and aftercare plans and the quality of the services rendered by the treatment providers.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 18, 2000, D.C. Law 13-146, § 6, 47 DCR 4350.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 2 of Choice in Drug Treatment Grants Emergency Act of 2005 (D.C. Act 16-149, July 26, 2005, 52 DCR 7191).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-146, see notes following § 7-3001.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 2 of Choice in Drug Treatment Grants Emergency Act of 2005 (D.C. Act 16-149, July 26, 2005, 52 DCR 7191).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-146</heading>
+      <text>For Law 13-146, see notes following § 7-3001.</text>
     </level>
   </level>
 </level>

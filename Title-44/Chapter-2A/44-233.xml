@@ -29,25 +29,27 @@
     <num>(g)</num>
     <text>In addition to any other immunities available under statutory or common law, the District is not civilly liable for any act or omission in the provision of automated external defibrillation if, at the time of the act or omission, the recreation facility possessed a valid recreation facility certificate.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2001, D.C. Law 13-278, § 4, 48 DCR 1869; Mar. 6, 2007, D.C. Law 16-217, § 2(b), 53 DCR 10207; Mar. 25, 2009, D.C. Law 17-362, § 2(d), 56 DCR 1211.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-217, in subsec. (e), deleted the last sentence which read as follows: "This immunity shall apply only if the requirements of § 44-232 are fulfilled."; and added subsec. (f).</text>
-        <text>D.C. Law 17-362 added subsec. (g).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-278, see notes following § 44-231.</text>
-        <text>For Law 16-217, see notes following § 44-231.</text>
-        <text>For Law 17-362, see notes following § 44-231.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-217, in subsec. (e), deleted the last sentence which read as follows: "This immunity shall apply only if the requirements of § 44-232 are fulfilled."; and added subsec. (f).</text>
+      <text>D.C. Law 17-362 added subsec. (g).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-278</heading>
+      <text>For D.C. Law 13-278, see notes following § 44-231.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-217</heading>
+      <text>For Law 16-217, see notes following § 44-231.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-362</heading>
+      <text>For Law 17-362, see notes following § 44-231.</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,13 @@
 <level type="section">
   <num>31-3412</num>
   <heading>Protection against insolvency.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-4512</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Net worth requirements.</text> -- (1) Before issuing any certificates of authority, the Commissioner shall require that the health maintenance organization have an initial net worth of $1,500,000 and shall thereafter maintain the minimum net worth required by paragraph (2) of this subsection.</text>
+    <heading>Net worth requirements</heading>
+    <level>
+      <num>(1)</num>
+      <text>Before issuing any certificates of authority, the Commissioner shall require that the health maintenance organization have an initial net worth of $1,500,000 and shall thereafter maintain the minimum net worth required by paragraph (2) of this subsection.</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>Except as provided in paragraphs (2A), (3) and (4) of this subsection, every health maintenance organization must maintain a minimum net worth equal to the greater of:</text>
@@ -39,7 +42,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>A health maintenance organization meeting the exemption of § 31- 3402(d)(8)(A) before April 9, 1997, and any HMO that does not meet the requirements of this section on April 9, 1997, or within 12 months of April 9, 1997, must meet and maintain the following annual minimum net worth standards.</text>
+      <text>A health maintenance organization meeting the exemption of § 31-3402(d)(8)(A) before April 9, 1997, and any HMO that does not meet the requirements of this section on April 9, 1997, or within 12 months of April 9, 1997, must meet and maintain the following annual minimum net worth standards.</text>
       <level>
         <num>(A)</num>
         <text>Twenty-five percent of the amount otherwise required by this section by the end of the first full calendar year following April 9, 1997;</text>
@@ -72,7 +75,11 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Deposit requirements.</text> -- (1) Unless otherwise provided below, each health maintenance organization shall deposit with the Commissioner or, at the discretion of the Commissioner, with any organization or trustee acceptable to the Commissioner through which a custodial or controlled account is utilized, cash, securities, or any combination of these or other measures that are acceptable to the Commissioner which at all times shall have a value of not less than $300,000.</text>
+    <heading>Deposit requirements</heading>
+    <level>
+      <num>(1)</num>
+      <text>Unless otherwise provided below, each health maintenance organization shall deposit with the Commissioner or, at the discretion of the Commissioner, with any organization or trustee acceptable to the Commissioner through which a custodial or controlled account is utilized, cash, securities, or any combination of these or other measures that are acceptable to the Commissioner which at all times shall have a value of not less than $300,000.</text>
+    </level>
     <level>
       <num>(2)</num>
       <level>
@@ -103,11 +110,16 @@
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Liabilities.</text> -- Every health maintenance organization shall, when determining liabilities, include an amount estimated in the aggregate to provide for any unearned dues and for the payment of all claims for health care expenditures which have been incurred, whether reported or unreported, which are unpaid and for which such organization is or may be liable, and to provide for the expense of adjustment or settlement of such claims. Such liabilities may be computed in accordance with generally accepted accounting principles.</text>
+    <heading>Liabilities</heading>
+    <text>Every health maintenance organization shall, when determining liabilities, include an amount estimated in the aggregate to provide for any unearned dues and for the payment of all claims for health care expenditures which have been incurred, whether reported or unreported, which are unpaid and for which such organization is or may be liable, and to provide for the expense of adjustment or settlement of such claims. Such liabilities may be computed in accordance with generally accepted accounting principles.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Hold harmless.</text> -- (1) Every contract between a health maintenance organization and a participating provider of health care services shall be in writing and shall set forth that in the event a health maintenance organization fails to pay for health care services as set forth in the contract, the enrollee shall not be liable to the provider for any sums owed by the health maintenance organization.</text>
+    <heading>Hold harmless</heading>
+    <level>
+      <num>(1)</num>
+      <text>Every contract between a health maintenance organization and a participating provider of health care services shall be in writing and shall set forth that in the event a health maintenance organization fails to pay for health care services as set forth in the contract, the enrollee shall not be liable to the provider for any sums owed by the health maintenance organization.</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>In the event that the participating provider contract has not been reduced to writing as required by this subsection or that the contract fails to contain the required prohibition, the participating provider shall not collect or attempt to collect from the enrollee sums owed by a health maintenance organization.</text>
@@ -119,7 +131,11 @@
   </level>
   <level>
     <num>(e)</num>
-    <text><text i="True">Continuation of benefits.</text> -- (1) The Commissioner shall require that each health maintenance organization have a plan for handling insolvency which allows for continuation of benefits for the duration of the contract period for which premiums have been paid and continuation of benefits to members who are confined on the date of insolvency in an inpatient facility until their discharge or expiration of benefits.</text>
+    <heading>Continuation of benefits</heading>
+    <level>
+      <num>(1)</num>
+      <text>The Commissioner shall require that each health maintenance organization have a plan for handling insolvency which allows for continuation of benefits for the duration of the contract period for which premiums have been paid and continuation of benefits to members who are confined on the date of insolvency in an inpatient facility until their discharge or expiration of benefits.</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>In considering the plan, the Commissioner may require:</text>
@@ -147,30 +163,37 @@
   </level>
   <level>
     <num>(f)</num>
-    <text><text i="True">Notice of termination.</text> -- An agreement to provide covered services between a provider and a health maintenance organization must require that if the provider terminates the agreement, the provider shall give the organization at least 60 days advance notice of termination.</text>
+    <heading>Notice of termination</heading>
+    <text>An agreement to provide covered services between a provider and a health maintenance organization must require that if the provider terminates the agreement, the provider shall give the organization at least 60 days advance notice of termination.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 9, 1997, D.C. Law 11-235, § 13, 44 DCR 818; Mar. 24, 1998, D.C. Law 12-81, § 46(c), 45 DCR 745; Mar. 27, 2003, D.C. Law 14-252, § 2(f), 50 DCR 225.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-4512.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-252, in subsec. (a)(2), substituted "(2A), (3), and" for "(3) and"; and added subsec. (a)(2A).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-235, see Historical and Statutory Notes following § 31-3401.</text>
-        <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 31-3401.</text>
-        <text>For Law 14-252, see notes following § 31-3402.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-308, § 31-3402, § 31-3403, and § 31-3419.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-4512.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-252, in subsec. (a)(2), substituted "(2A), (3), and" for "(3) and"; and added subsec. (a)(2A).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-235</heading>
+      <text>For legislative history of D.C. Law 11-235, see Historical and Statutory Notes following § 31-3401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-81</heading>
+      <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 31-3401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-252</heading>
+      <text>For Law 14-252, see notes following § 31-3402.</text>
     </level>
   </level>
 </level>

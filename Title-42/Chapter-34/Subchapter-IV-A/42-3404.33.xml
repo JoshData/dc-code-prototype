@@ -21,7 +21,7 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>The Rent Administrator shall consider a challenge to a rent amount or income calculation upon a petition filed by a tenant. The petition shall be heard and determined according to the procedures in the Rent Stabilization Program established pursuant to subchapter II of Chapter 35 of this title.</text>
+      <text>The Rent Administrator shall consider a challenge to a rent amount or income calculation upon a petition filed by a tenant. The petition shall be heard and determined according to the procedures in the Rent Stabilization Program established pursuant to subchapter II of Chapter 35 of this title [§ 42-3502.01 et seq.].</text>
     </level>
     <level>
       <num>(5)</num>
@@ -36,7 +36,7 @@
     <num>(c)</num>
     <level>
       <num>(1)</num>
-      <text>The Mayor, or an assignee of the Mayor, shall maintain any unit in the housing accommodation that was an affordable unit, as defined in § 42- 3404.32(c)(2), on the date that the offer of sale was issued as affordable for as long as the housing accommodation remains a housing accommodation owned by the District.</text>
+      <text>The Mayor, or an assignee of the Mayor, shall maintain any unit in the housing accommodation that was an affordable unit, as defined in § 42-3404.32(c)(2), on the date that the offer of sale was issued as affordable for as long as the housing accommodation remains a housing accommodation owned by the District.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -59,18 +59,18 @@
     <num>(d)</num>
     <text>If any unit in the housing accommodation was not an affordable unit as defined in § 42-3404.32(c)(2), on the date the offer of sale was issued, the Mayor, or an assignee of the Mayor, shall develop an affordability plan to explore all means whereby the number of affordable units in the housing accommodation may be increased. The Mayor, or an assignee of the Mayor, shall take all practicable steps to increase the number of affordable units in the housing accommodation.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 10, 1980, D.C. Law 3-86, § 433, as added Dec. 24, 2008, D.C. Law 17-286, § 2, 55 DCR 11989.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-286, see notes following § 42-3404.31.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3404.36.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-286</heading>
+      <text>For Law 17-286, see notes following § 42-3404.31.</text>
     </level>
   </level>
 </level>

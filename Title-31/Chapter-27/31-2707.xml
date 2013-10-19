@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-2707</num>
   <heading>Information to be furnished to insured or Commissioner; grievance procedure.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1707</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Every rating organization and every company which makes its own rates shall, within a reasonable time after receiving written request therefor and upon payment of such reasonable charge as it may make, furnish to any insured affected by a rate made by it, or to the authorized representative of such insured, all pertinent information as to such rate.</text>
@@ -18,27 +17,23 @@
     <num>(d)</num>
     <text>No company, agent, or broker shall fail to furnish to an insured any policy or comparable evidence of insurance to which the insured is entitled.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 20, 1948, 62 Stat. 246, ch. 324, § 7; May 21, 1997, D.C. Law 11-268, § 10(t), 44 DCR 1730.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1707.</text>
-        <text>1973 Ed., § 35-1507.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-2701.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Department of Insurance abolished: See Historical and Statutory Notes following § 31-2701.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1707.</text>
+      <text>1973 Ed., § 35-1507.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-2701.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Department of Insurance abolished: See Historical and Statutory Notes following § 31-2701.</text>
     </level>
   </level>
 </level>

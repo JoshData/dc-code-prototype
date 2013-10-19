@@ -1,21 +1,23 @@
 <level type="section">
   <num>24-303</num>
   <heading>Investigations and reports.</heading>
-  <formerly-cited-as>DC ST 1981 § 24-103</formerly-cited-as>
   <text>The probation officers shall carefully investigate all cases referred to them by the court, and make recommendations to the court to enable it to decide whether the defendant ought to be placed under probation, and shall report to the court, from time to time as may be required by it, touching all cases in their care, to the end that the court may be at all times fully informed of the circumstances and conduct of probationers.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 25, 1910, 36 Stat. 864, ch. 433, § 3.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 24-103.</text>
-        <text>1973 Ed., § 24-103.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Community service, see § 16-712.</text>
+      <text>Psychiatric services available to probation officers, see § 24-306.</text>
+      <text>Restitution or reparation, see § 16-711.</text>
+      <text>Split sentencing, see § 16-710.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 24-103.</text>
+      <text>1973 Ed., § 24-103.</text>
     </level>
   </level>
 </level>

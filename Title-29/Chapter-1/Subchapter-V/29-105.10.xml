@@ -3,10 +3,10 @@
   <heading>Transfer of registration.</heading>
   <level>
     <num>(a)</num>
-    <text>A foreign filing entity or foreign limited liability partnership registered to do business in the District that merges with or converts to a foreign entity required to register with the Mayor to do business in the District shall deliver to the Mayor for filing an application for transfer of registration. The application shall state the:</text>
+    <text>A registered foreign entity that merges into a nonregistered foreign entity or converts to a foreign entity required to register with the Mayor to do business in the District shall deliver to the Mayor for filing an application for transfer of registration. The application shall be signed by the entity and state the:</text>
     <level>
       <num>(1)</num>
-      <text>Name of the applicant entity;</text>
+      <text>Name of the registered foreign entity before merger or conversion;</text>
     </level>
     <level>
       <num>(2)</num>
@@ -14,45 +14,49 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Name of the entity into which it has merged or to which it has been converted and, if the name does not comply with § 29-103.01, an alternate name adopted pursuant to § 29-105.06(a);</text>
+      <text>Name of the applicant entity and, if the name does not comply with § 29-103.01, an alternate name adopted pursuant to § 29-105.06(a);</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>Type of entity into which it has merged or to which it has been converted and the jurisdiction whose law governs its internal affairs; and</text>
+      <text>Type of applicant entity and its jurisdiction of formation; and</text>
     </level>
     <level>
       <num>(5)</num>
-      <text>Following information regarding the entity into which it has merged or to which it has been converted, if different than the information for the applicant entity:</text>
+      <text>Following information regarding the applicant entity or to which it has been converted, if different than the information for the foreign entity before the merger or conversion:</text>
       <level>
         <num>(A)</num>
         <text>The street and mailing address of the principal office of the entity and, if the law of the entity's jurisdiction of formation requires it to maintain an office in that jurisdiction, the street and mailing address of that office; and</text>
       </level>
       <level>
         <num>(B)</num>
-        <text>The name and street and mailing address of its registered agent in the District.</text>
+        <text>The information required by § 29-104.04(a).</text>
       </level>
     </level>
   </level>
   <level>
     <num>(b)</num>
-    <text>An application for transfer of registration shall be delivered to the Mayor for filing and takes effect at the time provided in § 29-102.03.</text>
+    <text>When an application for transfer of registration takes effect, the registration of the registered foreign entity to do business in the District shall be transferred without interruption to the entity into which it has merged or to which it has been converted.</text>
   </level>
-  <level>
-    <num>(c)</num>
-    <text>When an application for transfer of registration takes effect, the registration of the applicant entity to do business in the District shall be transferred without interruption to the entity into which it has merged or to which it has been converted.</text>
-  </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(a)(37), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-101.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

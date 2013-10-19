@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Scope.</heading>
+  <heading>Scope</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-2021.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-2022.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="21-2023~P.xml"/>

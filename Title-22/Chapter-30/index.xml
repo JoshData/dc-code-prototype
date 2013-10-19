@@ -1,8 +1,9 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>30</num>
-  <heading>Sexual Abuse.</heading>
+  <heading>Sexual Abuse</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-III/index.xml"/>
 </level>

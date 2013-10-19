@@ -1,8 +1,6 @@
 <level type="section">
   <num>29-603.08</num>
   <heading>Liability of purported partner.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-153.8</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-103.08</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>If a person, by words or conduct, purports to be a partner, or consents to being represented by another as a partner, in a partnership or with one or more persons not partners, the purported partner shall be liable to a person to whom the representation is made, if that person, relying on the representation, enters into a transaction with the actual or purported partnership. If the representation, either by the purported partner or by a person with the purported partner's consent, is made in a public manner, the purported partner shall be liable to a person that relies upon the purported partnership even if the purported partner is not aware of being held out as a partner to the claimant. If partnership liability results, the purported partner shall be liable with respect to that liability as if the purported partner were a partner. If no partnership liability results, the purported partner shall be liable with respect to that liability jointly and severally with any other person consenting to the representation.</text>
@@ -23,27 +21,27 @@
     <num>(e)</num>
     <text>Except as otherwise provided in subsections (a) and (b) of this section, persons that are not partners as to each other shall not be liable as partners to other persons.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 33-103.08.</text>
-        <text>1981 Ed., § 41-153.8.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 308 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-603.07.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 33-103.08.</text>
+      <text>1981 Ed., § 41-153.8.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 308 of the Uniform Partnership Act (1997 Act).</text>
     </level>
   </level>
 </level>

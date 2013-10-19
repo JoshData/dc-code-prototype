@@ -1,37 +1,31 @@
 <level type="section">
   <num>42-3502.03b</num>
-  <heading>Rent Administrator--Qualifications and compensation.</heading>
+  <heading>Rent Administrator - Qualifications and compensation.</heading>
   <text>The Rent Administrator shall:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Be admitted to practice before the District of Columbia Court of Appeals by the time the Rent Administrator's term of office commences;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Be a resident of the District within 6 months of the commencement of the Rent Administrator's term of office;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Possess skills and expertise relevant to rental housing, preferably in the area of rent control or rent stabilization; and</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Receive annual compensation equivalent to that received by a District employee compensated at the grade of 15 of the District schedule established under subchapter XI of Chapter 6 of Title 1.</text>
-    </level>
+    <num>(1)</num>
+    <text>Be admitted to practice before the District of Columbia Court of Appeals by the time the Rent Administrator's term of office commences;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Be a resident of the District within 6 months of the commencement of the Rent Administrator's term of office;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Possess skills and expertise relevant to rental housing, preferably in the area of rent control or rent stabilization; and</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Receive annual compensation equivalent to that received by a District employee compensated at the grade of 15 of the District schedule established under subchapter XI of Chapter 6 of Title 1 [§ 1-611.01 et seq.].</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 17, 1985, D.C. Law 6-10, § 203b, as added Mar. 25, 2009, D.C. Law 17-366, § 2(e), 56 DCR 1332.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-366, see notes following § 42-3401.03.</text>
-      </level>
+      <heading>Legislative History of Law 17-366</heading>
+      <text>For Law 17-366, see notes following § 42-3401.03.</text>
     </level>
   </level>
 </level>

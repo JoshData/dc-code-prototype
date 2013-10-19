@@ -1,12 +1,11 @@
 <level type="section">
   <num>23-111</num>
   <heading>Proceedings to establish previous convictions.</heading>
-  <formerly-cited-as>DC ST 1981 § 23-111</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
       <num>(1)</num>
-      <text>No person who stands convicted of an offense under the laws of the District of Columbia shall be sentenced to increased punishment by reason of one or more previous convictions, unless prior to trial or before entry of a plea of guilty, the United States attorney or the Corporation Counsel, as the case may be, files an information with the clerk of the court, and serves a copy of such information on the person or counsel for the person, stating in writing the previous convictions to be relied upon. Upon a showing by the Government that facts regarding previous convictions could not with due diligence be obtained prior to trial or before entry of a plea of guilty, the court may postpone the trial or the taking of the plea of guilty for a reasonable period for the purpose of obtaining such facts. Clerical mistakes in the information may be amended at any time prior to the pronouncement of sentence.</text>
+      <text>No person who stands convicted of an offense under the laws of the District of Columbia shall be sentenced to increased punishment by reason of one or more previous convictions, unless prior to trial or before entry of a plea of guilty, the United States attorney or the Corporation Counsel [Attorney General for the District of Columbia], as the case may be, files an information with the clerk of the court, and serves a copy of such information on the person or counsel for the person, stating in writing the previous convictions to be relied upon. Upon a showing by the Government that facts regarding previous convictions could not with due diligence be obtained prior to trial or before entry of a plea of guilty, the court may postpone the trial or the taking of the plea of guilty for a reasonable period for the purpose of obtaining such facts. Clerical mistakes in the information may be amended at any time prior to the pronouncement of sentence.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -39,19 +38,23 @@
       <text>If the court determines that the person has not been convicted as alleged in the information, that a conviction alleged in the information is invalid, or that the person is otherwise not subject to an increased sentence as a matter of law, the court shall, at the request of the prosecutor, postpone sentence to allow an appeal from that determination. If no such request is made, the court shall impose sentence as provided by law. The person may appeal from an order postponing sentence as if sentence had been pronounced and a final judgment of conviction entered.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 609, Pub. L. 91-358, title II, § 210(a).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 23-111.</text>
-        <text>1973 Ed., § 23-111.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Increased sentences for previous offenders, see §§ 22-1804 and 22-1804a.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 11-721.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 23-111.</text>
+      <text>1973 Ed., § 23-111.</text>
     </level>
   </level>
 </level>

@@ -1,50 +1,43 @@
 <level type="section">
   <num>7-531.11</num>
   <heading>Reporting to Council.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-2251</formerly-cited-as>
   <text>The Mayor shall prepare and submit to the Council annual reports on the volunteer service credit program and any demonstration projects established under § 7-531.07. These reports shall at a minimum include:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>A description of the participating population, including the number or persons served and the services provided;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The number of service credits outstanding at the conclusion of the reporting period;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Program costs, including the cost to the District government of honoring service credits when volunteers have been unavailable;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>A description of any positive or negative effects on other volunteer activities;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>A program evaluation, including an assessment of the quality of services provided, participant satisfaction, and the need to increase or decrease the categories of targeted services or the hours of service availability; and</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Recommendations regarding continuation of the program or amendments to this unit.</text>
-    </level>
+    <num>(1)</num>
+    <text>A description of the participating population, including the number or persons served and the services provided;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The number of service credits outstanding at the conclusion of the reporting period;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Program costs, including the cost to the District government of honoring service credits when volunteers have been unavailable;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>A description of any positive or negative effects on other volunteer activities;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>A program evaluation, including an assessment of the quality of services provided, participant satisfaction, and the need to increase or decrease the categories of targeted services or the hours of service availability; and</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Recommendations regarding continuation of the program or amendments to this unit.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 13, 1986, D.C. Law 6-143, § 12, 33 DCR 4372.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-2251.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-143, see Historical and Statutory Notes following § 7-531.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-2251.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-143</heading>
+      <text>For legislative history of D.C. Law 6-143, see Historical and Statutory Notes following § 7-531.01.</text>
     </level>
   </level>
 </level>

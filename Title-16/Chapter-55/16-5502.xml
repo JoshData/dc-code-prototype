@@ -24,30 +24,39 @@
     <num>(d)</num>
     <text>The court shall hold an expedited hearing on the special motion to dismiss, and issue a ruling as soon as practicable after the hearing. If the special motion to dismiss is granted, dismissal shall be with prejudice.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 31, 2011, D.C. Law 18-351, § 3, 58 DCR 741; Apr. 20, 2012, D.C. Law 19-120, § 201, 58 DCR 11235; Sept. 26, 2012, D.C. Law 19-171, § 401, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-120, in subsec. (c)(2), substituted "specified discovery" for "specialized discovery".</text>
-        <text>D.C. Law 19-171 enacted into law Chapter 55 of Title 16.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 201 of Receiving Stolen Property and Public Safety Amendments Emergency Amendment Act of 2011 (D.C. Act 19-261, December 21, 2011, 58 DCR 11232).</text>
-        <text>For temporary (90 day) amendment of section, see § 201 of Receiving Stolen Property and Public Safety Amendments Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-326, March 19, 2012, 59 DCR 2384).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-351, see notes under § 16-5501.</text>
-        <text>Law 19-120, the "Receiving Stolen Property and Public Safety Amendment Act of 2011", was introduced in Council and assigned Bill No. 19-215, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on November 1, 2011, and December 6, 2011, respectively. Signed by the Mayor on December 21, 2011, it was assigned Act No. 19-262 and transmitted to both Houses of Congress for its review. D.C. Law 19-120 became effective on April 20, 2012.</text>
-        <text>For history of Law 19-171, see notes under § 16-5501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-5504.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 19-120, in subsec. (c)(2), substituted "specified discovery" for "specialized discovery".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 201 of Receiving Stolen Property and Public Safety Amendments Emergency Amendment Act of 2011 (D.C. Act 19-261, December 21, 2011, 58 DCR 11232).</text>
+      <text>For temporary (90 day) amendment of section, see § 201 of Receiving Stolen Property and Public Safety Amendments Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-326, March 19, 2012, 59 DCR 2384).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-351</heading>
+      <text>For history of Law 18-351, see notes under § 16-5501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-120</heading>
+      <text>Law 19-120, the "Receiving Stolen Property and Public Safety Amendment Act of 2011", was introduced in Council and assigned Bill No. 19-215, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on November 1, 2011, and December 6, 2011, respectively. Signed by the Mayor on December 21, 2011, it was assigned Act No. 19-262 and transmitted to both Houses of Congress for its review. D.C. Law 19-120 became effective on April 20, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 16-5501.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 401 of D.C. Law 19-171 enacted this chapter into law.</text>
     </level>
   </level>
 </level>

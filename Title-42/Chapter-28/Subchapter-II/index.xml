@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Bond Authorization.</heading>
+  <heading>Bond Authorization</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-2812.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-2812.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-2812.03.xml"/>

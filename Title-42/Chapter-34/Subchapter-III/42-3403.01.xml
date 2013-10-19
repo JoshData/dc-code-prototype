@@ -1,11 +1,10 @@
 <level type="section">
   <num>42-3403.01</num>
   <heading>Short title.</heading>
-  <text>This subchapter may be cited as the "Relocation and Housing Assistance Act of 1980".</text>
-  <level>
-    <type>annotations</type>
+  <text>This subchapter may be cited as the 'Relocation and Housing Assistance Act of 1980".</text>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 10, 1980, D.C. Law 3-86, § 301, 27 DCR 2975.)</text>
     </level>
   </level>

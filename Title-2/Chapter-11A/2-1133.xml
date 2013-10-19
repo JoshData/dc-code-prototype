@@ -105,18 +105,18 @@
     <num>(g)</num>
     <text>The Regional Authority shall form a Regional Authority Advisory Committee, which shall be comprised of representatives from each of the local jurisdictions substantially impacted by hosting the Olympic Games in the region, in a manner to be determined by the Regional Authority.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 13, 2002, D.C. Law 14-63, § 4, 48 DCR 10549.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-63, see notes following § 2-1131.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1135 and § 2-1136.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-63</heading>
+      <text>For Law 14-63, see notes following § 2-1131.</text>
     </level>
   </level>
 </level>

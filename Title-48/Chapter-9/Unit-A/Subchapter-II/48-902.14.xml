@@ -1,13 +1,17 @@
 <level type="section">
   <num>48-902.14</num>
-  <heading>Treatment of controlled substance analogues</heading>
+  <heading>Treatment of controlled substance analogues.</heading>
   <level>
     <num>(a)</num>
     <text>A controlled substances analogue shall, to the extent intended for human consumption, be treated for the purposes of any District of Columbia law as a controlled substance in Schedule I.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>Except as provided in subsection (c) of this section, the term "controlled analogue" means: (1) a substance with a chemical structure that is substantially similar to the chemical structure of a controlled substance in Schedule I or II;</text>
+    <text>Except as provided in subsection (c) of this section, the term "controlled analogue" means:</text>
+    <level>
+      <num>(1)</num>
+      <text>a substance with a chemical structure that is substantially similar to the chemical structure of a controlled substance in Schedule I or II;</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>A substance that has a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central system of a controlled substance in Schedule I or II; or</text>
@@ -37,18 +41,14 @@
       <text>Any substance to the extent not intended for human consumption before such an exemption takes effect with respect to that substance.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(August 4, 1981, D.C. Law 4-29, § 214, as added as added May 9, 2000, D.C. Law 13-99, § 2(b), 47 DCR 791.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-99, see notes following § 48-902.04.</text>
-      </level>
+      <heading>Legislative History of Law 13-99</heading>
+      <text>For Law 13-99, see notes following § 48-902.04.</text>
     </level>
   </level>
 </level>

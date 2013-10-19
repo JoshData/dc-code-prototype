@@ -1,39 +1,32 @@
 <level type="section">
   <num>7-1304.12</num>
   <heading>Payment of costs and expenses.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-1952</formerly-cited-as>
   <text>Costs and expenses of all proceedings held under this chapter shall be paid as follows:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>To expert witnesses designated by the Court, an amount determined by the Court;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>To attorneys appointed under this chapter, fees as authorized under the Criminal Justice Act (§ 11-2601 et seq.);</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>To other witnesses, the same fees and mileage as for attendance at Court to be paid upon the approval of the Court.</text>
-    </level>
+    <num>(1)</num>
+    <text>To expert witnesses designated by the Court, an amount determined by the Court;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>To attorneys appointed under this chapter, fees as authorized under the Criminal Justice Act (§ 11-2601 et seq.);</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>To other witnesses, the same fees and mileage as for attendance at Court to be paid upon the approval of the Court.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-137, § 412, 25 DCR 5094.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-1952.</text>
-        <text>1973 Ed., § 6-1679.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-137, see Historical and Statutory Notes following § 7-1301.02.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-1952.</text>
+      <text>1973 Ed., § 6-1679.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-137</heading>
+      <text>For legislative history of D.C. Law 2-137, see Historical and Statutory Notes following § 7-1301.02.</text>
     </level>
   </level>
 </level>

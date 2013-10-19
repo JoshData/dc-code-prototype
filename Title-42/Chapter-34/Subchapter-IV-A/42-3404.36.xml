@@ -3,27 +3,25 @@
   <heading>Assignment of District rights.</heading>
   <text>The Mayor may assign the opportunity to purchase provided under this subchapter to a person that:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Demonstrates the capacity to own and manage, either by itself or through a management agent, the housing accommodation and related facilities for the remaining useful life of the housing accommodation; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Agrees to obligate itself and any successors in interest to maintain the affordability of the assisted housing development as required by § 42- 3404.33.</text>
-    </level>
+    <num>(1)</num>
+    <text>Demonstrates the capacity to own and manage, either by itself or through a management agent, the housing accommodation and related facilities for the remaining useful life of the housing accommodation; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Agrees to obligate itself and any successors in interest to maintain the affordability of the assisted housing development as required by § 42-3404.33.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 10, 1980, D.C. Law 3-86, § 436, as added Dec. 24, 2008, D.C. Law 17-286, § 2, 55 DCR 11989.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-286, see notes following § 42-3404.31.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3404.31.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-286</heading>
+      <text>For Law 17-286, see notes following § 42-3404.31.</text>
     </level>
   </level>
 </level>

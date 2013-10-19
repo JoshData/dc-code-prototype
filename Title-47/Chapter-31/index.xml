@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>31</num>
-  <heading>Consumer Transmission of Money Act. [Repealed]</heading>
+  <heading>Consumer Transmission of Money Act</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3101~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3102~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3103~P.xml"/>
@@ -18,5 +18,5 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3114~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3115~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3116~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3117.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3117~P.xml"/>
 </level>

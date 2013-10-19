@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Authority and Procedure to Establish Real Property Tax Rates.</heading>
+  <heading>Authority and Procedure to Establish Real Property Tax Rates</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-811.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-811.01~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-811.02.xml"/>
@@ -50,7 +50,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-845.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-845.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-845.02.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-845.0.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-845.03.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-846~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-846.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-847.xml"/>
@@ -62,11 +62,11 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-850.03.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-850.04.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-851~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-852.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-853.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-854.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-855.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-856.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-852~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-853~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-854~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-855~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-856~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-857.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-857.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-857.03.xml"/>

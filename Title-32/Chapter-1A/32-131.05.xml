@@ -14,21 +14,17 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Use the paid leave for the same purposes as those set forth in § 32- 131.02(b), including unscheduled leave.</text>
+      <text>Use the paid leave for the same purposes as those set forth in § 32-131.02(b), including unscheduled leave.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 13, 2008, D.C. Law 17-152, § 6, 55 DCR 3452.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-152, see notes following § 32-131.01.</text>
-      </level>
+      <heading>Legislative History of Law 17-152</heading>
+      <text>For Law 17-152, see notes following § 32-131.01.</text>
     </level>
   </level>
 </level>

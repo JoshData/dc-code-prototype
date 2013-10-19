@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-5332</num>
   <heading>Penalties.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1262</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any person who makes a false or fraudulent statement in or relating to an application for membership or for the purpose of obtaining money from a benefit in any society shall, upon conviction, be fined not less than $100 nor more than $5,000 or be subject to imprisonment not less than 30 days nor more than one year, or both.</text>
@@ -18,22 +17,18 @@
     <num>(d)</num>
     <text>Any person who willfully makes a false or fraudulent statement in any verified report or declaration under oath required or authorized by this chapter, or of any material fact or thing contained in a sworn statement concerning the death or disability of an insured for the purpose of procuring payment of a benefit named in the certificate, shall be guilty of perjury and shall be subject to the penalties prescribed by law.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 29, 1998, D.C. Law 12-86, § 1233, 45 DCR 1172.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1262.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-86, see Historical and Statutory Notes following § 31-5301.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1262.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-86</heading>
+      <text>For legislative history of D.C. Law 12-86, see Historical and Statutory Notes following § 31-5301.</text>
     </level>
   </level>
 </level>

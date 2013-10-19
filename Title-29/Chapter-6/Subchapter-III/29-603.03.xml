@@ -1,11 +1,9 @@
 <level type="section">
   <num>29-603.03</num>
   <heading>Statement of partnership authority.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-153.3</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-103.03</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>A partnership may file a statement of partnership authority, which:</text>
+    <text>A partnership may deliver to the Mayor for filing a statement of partnership authority, which:</text>
     <level>
       <num>(1)</num>
       <text>Shall include:</text>
@@ -48,7 +46,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>A grant of authority to transfer real property held in the name of the partnership contained in a certified copy of a filed statement of partnership authority recorded in the office for recording transfers of that real property shall be conclusive in favor of a person that gives value without knowledge to the contrary, so long as and to the extent that a certified copy of a filed statement containing a limitation on that authority is not then of record in the office for recording transfers of that real property. The recording in the office for recording transfers of that real property of a certified copy of a filed cancellation of a limitation on authority shall revive the previous grant of authority</text>
+      <text>A grant of authority to transfer real property held in the name of the partnership contained in a certified copy of a filed statement of partnership authority recorded in the office for recording transfers of that real property shall be conclusive in favor of a person that gives value without knowledge to the contrary, so long as and to the extent that a certified copy of a filed statement containing a limitation on that authority is not then of record in the office for recording transfers of that real property. The recording in the office for recording transfers of that real property of a certified copy of a filed cancellation of a limitation on authority shall revive the previous grant of authority[.]</text>
     </level>
   </level>
   <level>
@@ -61,29 +59,38 @@
   </level>
   <level>
     <num>(g)</num>
-    <text>Unless earlier canceled, a filed statement of partnership authority shall be canceled by operation of law 5 years after the date on which the statement, or the most recent amendment, was filed with the Mayor.</text>
+    <text>Unless earlier canceled, a filed statement of partnership authority shall be canceled by operation of law 5 years after the date on which the statement, or the most recent amendment, was delivered to the Mayor for filing.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(f)(3)(A), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 33-103.03.</text>
-        <text>1981 Ed., § 41-153.3.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 303 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-601.03, § 29-603.01, § 29-603.02, § 29-603.04, § 29-607.02, § 29-607.03, § 29-607.04, and § 29-608.05.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 33-103.03.</text>
+      <text>1981 Ed., § 41-153.3.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "deliver to the Mayor for filing" for "file" in (a); and substituted "delivered to the Mayor for filing" for "filed with the Mayor" in (g).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-601.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 303 of the Uniform Partnership Act (1997 Act).</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

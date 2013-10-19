@@ -3,47 +3,45 @@
   <heading>Criminal proceedings.</heading>
   <text>A court may, after an in camera review, require disclosure of material for which the privilege is asserted, if the court determines:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The privilege is asserted for a fraudulent purpose;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The material is not subject to the privilege;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Even if subject to the privilege, the material shows evidence of noncompliance with District or federal statutes, rules, or orders and the company failed to undertake reasonable corrective action or eliminate the noncompliance within a reasonable time; or</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The material contains evidence relevant to the commission of a criminal offense under District law, and:</text>
-      <level>
-        <num>(A)</num>
-        <text>The Commissioner, Corporation Counsel, or U.S. Attorney has a compelling need for the information;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The information is not otherwise available; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The Commissioner, Corporation Counsel, or U.S. Attorney is unable to obtain the substantial equivalent of the information by any means without incurring unreasonable cost and delay.</text>
-      </level>
-    </level>
+    <num>(1)</num>
+    <text>The privilege is asserted for a fraudulent purpose;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The material is not subject to the privilege;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Even if subject to the privilege, the material shows evidence of noncompliance with District or federal statutes, rules, or orders and the company failed to undertake reasonable corrective action or eliminate the noncompliance within a reasonable time; or</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The material contains evidence relevant to the commission of a criminal offense under District law, and:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>The Commissioner, Corporation Counsel, or U.S. Attorney has a compelling need for the information;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The information is not otherwise available; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The Commissioner, Corporation Counsel, or U.S. Attorney is unable to obtain the substantial equivalent of the information by any means without incurring unreasonable cost and delay.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Apr. 11, 2003, D.C. Law 14-293, § 6, 50 DCR 296.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-293, see notes following § 31-851.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-853, § 31-856, and § 31-857.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-293</heading>
+      <text>For Law 14-293, see notes following § 31-851.</text>
     </level>
   </level>
 </level>

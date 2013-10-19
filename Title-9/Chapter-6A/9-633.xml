@@ -13,18 +13,14 @@
     <num>(c)</num>
     <text>Upon approval of the application, the Department shall prepare the applicant's permit and any parking signs. The approved block party permit shall be made available to the applicant electronically.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 23, 2012, D.C. Law 19-190, § 4, 59 DCR 10163.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-190, see notes under § 9-631.</text>
-      </level>
+      <heading>Legislative History of Law 19-190</heading>
+      <text>See note to § 9-631.</text>
     </level>
   </level>
 </level>

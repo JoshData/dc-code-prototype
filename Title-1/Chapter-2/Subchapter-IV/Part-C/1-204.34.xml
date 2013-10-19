@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-204.34</num>
   <heading>District of Columbia Judicial Nomination Commission.</heading>
-  <formerly-cited-as>DC ST 1981 § 434</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There is established for the District of Columbia the District of Columbia Judicial Nomination Commission (hereafter in this section referred to as the "Commission"). The Commission shall consist of seven members selected in accordance with the provisions of subsection (b). Such members shall serve for terms of six years, except that the member selected in accordance with subsection (b)(4)(A) shall serve for five years; of the members first selected in accordance with subsection (b)(4)(B), one member shall serve for three years and one member shall serve for six years; of the members first selected in accordance with subsection (b)(4)(C), one member shall serve for a term of three years and one member shall serve for five years; the member first selected in accordance with subsection (b)(4)(D) shall serve for six years; and the member first appointed in accordance with subsection (b)(4)(E) shall serve for six years. In making the respective first appointments according to subsections (b)(4)(B) and (b)(4)(C), the Mayor and the Board of Governors of the unified District of Columbia Bar shall designate, at the time of such appointments, which member shall serve for the shorter term and which member shall serve for the longer term.</text>
@@ -10,7 +9,7 @@
     <num>(b)</num>
     <level>
       <num>(1)</num>
-      <text>No person may be appointed to the Commission unless the person --</text>
+      <text>No person may be appointed to the Commission unless the person -</text>
       <level>
         <num>(A)</num>
         <text>is a citizen of the United States;</text>
@@ -21,7 +20,7 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>is not a member, officer, or employee of the legislative branch or of an executive or military department or agency of the United States (listed in sections 101 and 102 of title 5 of the United States Code); and (except with respect to the person appointed or designated according to paragraph (4) (E)) is not an officer or employee of the judicial branch of the United States, or an officer or employee of the District government (including its judicial branch).</text>
+        <text>is not a member, officer, or employee of the legislative branch or of an executive or military department or agency of the United States (listed in sections 101 and 102 of title 5 of the United States Code); and (except with respect to the person appointed or designated according to paragraph (4)(E)) is not an officer or employee of the judicial branch of the United States, or an officer or employee of the District government (including its judicial branch).</text>
       </level>
     </level>
     <level>
@@ -95,30 +94,28 @@
       <text>Upon submission to the President, the name of any individual recommended under this subsection shall be made public by the Judicial Nomination Commission.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 24, 1973, 87 Stat. 796, Pub. L. 93-198, title IV, § 434; Oct. 13, 1977, 91 Stat. 1155, Pub. L. 95-131, § 3(b); Oct. 28, 1986, 100 Stat. 3228, Pub. L. 99-573, §§ 8-10, 15; June 13, 1994, Pub. L. 103-266, §§ 2(b)(9), 2(b)(10), 108 Stat. 713; Sept. 9, 1996, 110 Stat. 2369, Pub. L. 104-194, § 131(a).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., Title 11, appx., § 434.</text>
-        <text>1973 Ed., Title 11, appx., § 434.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 2 of D.C. Law 18-224 amended section 202 of D.C. Law 18-160 to read as follows:</text>
-        <text>"Sec. 202. Applicability.</text>
-        <text>"Section 201 shall apply upon its ratification by a majority of the registered qualified electors of the District of Columbia voting in a referendum held for such purpose and a 35-day period of Congressional review as provided in section 303 of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 784; D.C. Official Code § 1-203.03), and publication in the District of Columbia Register.".</text>
-        <text>Section 5(b) of D.C. Law 18-224 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Time limit for submission of lists: Section 3 of Public Law 98-235 provided that notwithstanding the time limitations of subsection (d)(1) of this section, the District of Columbia Judicial Nomination Commission shall submit lists for initial nominations and appointments to judicial positions created under the act within 90 days after the date of enactment of the act. Approved March 19, 1984.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-204.31 and § 1-204.33.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., Title 11, appx., § 434.</text>
+      <text>1973 Ed., Title 11, appx., § 434.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 2 of D.C. Law 18-224 amended section 202 of D.C. Law 18-160 to read as follows: "Sec. 202. Applicability. "Section 201 shall apply upon its ratification by a majority of the registered qualified electors of the District of Columbia voting in a referendum held for such purpose and a 35-day period of Congressional review as provided in section 303 of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 784; D.C. Official Code § 1-203.03), and publication in the District of Columbia Register.".</text>
+      <text>Section 5(b) of D.C. Law 18-224 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Time limit for submission of lists: Section 3 of Public Law 98-235 provided that notwithstanding the time limitations of subsection (d)(1) of this section, the District of Columbia Judicial Nomination Commission shall submit lists for initial nominations and appointments to judicial positions created under the act within 90 days after the date of enactment of the act. Approved March 19, 1984.</text>
     </level>
   </level>
 </level>

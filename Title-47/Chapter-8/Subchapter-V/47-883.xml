@@ -49,7 +49,7 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>The owner of a tax lot subject to special assessment under this subchapter may protest the amount of a special assessment levied by filing a protest with the Real Property Tax Appeals Commission for the District of Columbia ("Commission"), on a form prescribed by The Real Property Tax Appeals Commission for the District of Columbia, within 30 days after notice of assessment. The protest shall be reviewed by the Real Property Tax Appeals Commission for the District of Columbia in accordance with § 47-825.1. Each decision of the Real Property Tax Appeals Commission for the District of Columbia shall be maintained by the Commission and shall be made available for examination and photocopying at cost to any requestor.</text>
+    <text>The owner of a tax lot subject to special assessment under this subchapter may protest the amount of a special assessment levied by filing a protest with the Real Property Tax Appeals Commission for the District of Columbia ("Commission"), on a form prescribed by The Real Property Tax Appeals Commission for the District of Columbia, within 30 days after notice of assessment. The protest shall be reviewed by the Real Property Tax Appeals Commission for the District of Columbia in accordance with § 47-825.1. Each decision of the Real Property Tax Appeals Commission for the District of Columbia shall be maintained by the Board and shall be made available for examination and photocopying at cost to any requestor.</text>
   </level>
   <level>
     <num>(g)</num>
@@ -63,36 +63,45 @@
     <num>(i)</num>
     <text>The levy of special assessments shall terminate on the date on which the Special Assessment Total Collection Amount has been received by the District, as certified by the CFO to the Mayor under § 47-884.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 26, 2001, D.C. Law 14-44, § 2, 48 DCR 7665; June 12, 2003, D.C. Law 14-310, § 11(b), 50 DCR 1092; Apr. 8, 2011, D.C. Law 18-363, § 3(g)(9), 58 DCR 963; Sept. 26, 2012, D.C. Law 19-171, § 114(l), 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-310, in subpar. (1)(B) of subsec. (a), substituted "Chapter 8" for "Chapter 13A".</text>
-        <text>D.C. Law 18-363 substituted "Real Property Tax Appeals Commission for the District of Columbia" for "Board of Real Property Assessments and Appeals".</text>
-        <text>D.C. Law 19-171, in subsec. (f), substituted "Commission" for "Board".</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition of section, see § 2(b) of New York Avenue Metro Special Assessment Authorization Temporary Act of 2001 (D.C. Law 14-25, October 2, 2001, law notification 48 DCR 9564).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 2 of New York Avenue Metro Special Assessment Authorization Emergency Act of 2001 (D.C. Act 14-64, June 6, 2001, 48 DCR 5714).</text>
-        <text>For temporary (90 day) addition of section, see § 2 of New York Avenue Metro Special Assessment Authorization Legislative Review Emergency Act of 2001 (D.C. Act 14-115, August 3, 2001, 48 DCR 7652).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-44, see notes following § 47-881.</text>
-        <text>For Law 14-310, see notes following § 47-365.</text>
-        <text>For history of Law 18-363, see notes under § 47-412.01.</text>
-        <text>For history of Law 19-171, see notes under § 47-369.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-881.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-310, in subpar. (1)(B) of subsec. (a), substituted "Chapter 8" for "Chapter 13A".</text>
+      <text>D.C. Law 18-363 substituted "Real Property Tax Appeals Commission for the District of Columbia" for "Board of Real Property Assessments and Appeals".</text>
+      <text>The 2012 amendment by D.C. Law 19-171 substituted "Commission" for "Board" throughout (f).</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition of section, see § 2(b) of New York Avenue Metro Special Assessment Authorization Temporary Act of 2001 (D.C. Law 14-25, October 2, 2001, law notification 48 DCR 9564).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 2 of New York Avenue Metro Special Assessment Authorization Emergency Act of 2001 (D.C. Act 14-64, June 6, 2001, 48 DCR 5714).</text>
+      <text>For temporary (90 day) addition of section, see § 2 of New York Avenue Metro Special Assessment Authorization Legislative Review Emergency Act of 2001 (D.C. Act 14-115, August 3, 2001, 48 DCR 7652).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-44</heading>
+      <text>For Law 14-44, see notes following § 47-881.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-310</heading>
+      <text>For Law 14-310, see notes following § 47-365.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-363</heading>
+      <text>For history of Law 18-363, see notes under § 47-412.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-103</num>
   <heading>Enforcement.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-1503</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>An employee who has been wrongfully discharged by a new contractor may bring an action in the Superior Court of the District of Columbia and may be awarded:</text>
@@ -30,22 +29,18 @@
     <num>(c)</num>
     <text>This chapter shall not be construed to limit an employee's right to bring a common law cause of action for wrongful termination.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 26, 1994, D.C. Law 10-105, § 4, 41 DCR 1011.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-1503.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-105, see Historical and Statutory Notes following § 32-101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-1503.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-105</heading>
+      <text>For legislative history of D.C. Law 10-105, see Historical and Statutory Notes following § 32-101.</text>
     </level>
   </level>
 </level>

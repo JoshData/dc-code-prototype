@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-1202.11</num>
   <heading>Board of Psychology.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-3302.11</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There is established a Board of Psychology to consist of 5 members appointed by the Mayor with the advice and consent of the Council.</text>
@@ -22,28 +21,34 @@
     <num>(e)</num>
     <text>Of the members initially appointed under this section, 1 shall be appointed for a term of 1 year, 2 shall be appointed for a term of 2 years, and 2 shall be appointed for a term of 3 years. The terms of the members first appointed shall begin on the date that a majority of the first members are sworn in, which shall become the anniversary date for all subsequent appointments.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1986, D.C. Law 6-99, § 211, 33 DCR 729; Oct. 7, 1987, D.C. Law 7-31, § 3(e), 34 DCR 3789; July 7, 2009, D.C. Law 18-14, § 2(c), 56 DCR 3613.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-3302.11.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-14, in subsec. (b), substituted "psychology and the practice by psychology associates" for "psychology".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
-        <text>For legislative history of D.C. Law 7-31, see Historical and Statutory Notes following § 3-1202.01.</text>
-        <text>For Law 18-14, see notes following § 3-1201.02.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-523.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-3302.11.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-14, in subsec. (b), substituted "psychology and the practice by psychology associates" for "psychology".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-99</heading>
+      <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-31</heading>
+      <text>For legislative history of D.C. Law 7-31, see Historical and Statutory Notes following § 3-1202.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-14</heading>
+      <text>For Law 18-14, see notes following § 3-1201.02.</text>
     </level>
   </level>
 </level>

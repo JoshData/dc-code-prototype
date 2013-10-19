@@ -1,8 +1,8 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>D</num>
-  <heading>Other Powers and Authorities of the Corporation. [Repealed]</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1223.11~P.xml"/>
+  <heading>Other Powers and Authorities of The Corporation</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1223.11~2-1223.13~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1223.12~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1223.13~P.xml"/>
 </level>

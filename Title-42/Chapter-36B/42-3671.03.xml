@@ -21,18 +21,14 @@
     <num>(e)</num>
     <text>The lease-purchase agreement shall include a statement indicating all fees that are charged under the lease-purchase agreement separately, including any other charges such as taxes, late payment fees, default fees, processing fees, pickup fees, fees for optional services or products, or reinstatement fees.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 13, 2002, D.C. Law 14-99, § 4, 49 DCR 1000.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 14-99, see notes following § 42-3671.01.</text>
-      </level>
+      <heading>Legislative History of Law 14-99</heading>
+      <text>For D.C. Law 14-99, see notes following § 42-3671.01.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>B</num>
-  <heading>Ballpark Hard and Soft Costs Cap.</heading>
+  <heading>Ballpark Construction Hard and Soft Costs Cap</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1601.31.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1601.32.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1601.33.xml"/>

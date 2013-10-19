@@ -3,47 +3,45 @@
   <heading>Special Education Reform Plan.</heading>
   <text>The Superintendent of Schools shall develop a Special Education Reform Plan ("Reform Plan") which shall include the following:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Measurable goals;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Timelines for deliverables;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Roles and responsibilities of all District agencies that provide special education related services;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Proposed legislative initiatives;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Targeted savings activities for fiscal years 2003 through 2005; and</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Continued review and input from Task Force members.</text>
-    </level>
+    <num>(1)</num>
+    <text>Measurable goals;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Timelines for deliverables;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Roles and responsibilities of all District agencies that provide special education related services;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Proposed legislative initiatives;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Targeted savings activities for fiscal years 2003 through 2005; and</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Continued review and input from Task Force members.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Nov. 13, 2003, D.C. Law 15-39, § 374, 50 DCR 5668.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 4 of Special Education Task Force Establishment Second Congressional Review Emergency Act of 2003 (D.C. Act 15- 232, November 25, 2003, 50 DCR 10729).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-39, see notes following § 38-160.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-2552.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 4 of Special Education Task Force Establishment Second Congressional Review Emergency Act of 2003 (D.C. Act 15-232, November 25, 2003, 50 DCR 10729).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-39</heading>
+      <text>For Law 15-39, see notes following § 38-160.</text>
     </level>
   </level>
 </level>

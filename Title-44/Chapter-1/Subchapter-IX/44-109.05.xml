@@ -20,18 +20,14 @@
       <text>The TME shall report drug errors to the healthcare practitioner or licensed nurse and shall document the incident in the resident's record.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 24, 2000, D.C. Law 13-127, § 905, 47 DCR 2647.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-127, see notes following § 44-101.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-127</heading>
+      <text>For Law 13-127, see notes following § 44-101.01.</text>
     </level>
   </level>
 </level>

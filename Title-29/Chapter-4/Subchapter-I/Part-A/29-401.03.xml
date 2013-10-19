@@ -23,7 +23,7 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>Notice to a domestic or qualified foreign nonprofit corporation may be delivered to its registered agent or to the corporation or its secretary at its principal office shown in its most recent biennial report or, in the case of a foreign corporation that has not yet delivered a biennial report, in its application for a certificate of registration.</text>
+    <text>Notice to a domestic or registered foreign nonprofit corporation may be delivered to its registered agent or to the corporation or its secretary at its principal office shown in its most recent biennial report or, in the case of a foreign corporation that has not yet delivered a biennial report, in its application for a certificate of registration.</text>
   </level>
   <level>
     <num>(e)</num>
@@ -50,11 +50,11 @@
     <text>Oral notice shall be effective when communicated, if communicated in a comprehensible manner.</text>
   </level>
   <level>
-    <num>(f)</num>
+    <num>(g)</num>
     <text>If this chapter prescribes notice requirements for particular circumstances, those requirements shall govern. If bylaws prescribe notice requirements, not inconsistent with this section or other provisions of this chapter, those requirements shall govern.</text>
   </level>
   <level>
-    <num>(g)</num>
+    <num>(h)</num>
     <text>With respect to electronic communications:</text>
     <level>
       <num>(1)</num>
@@ -78,7 +78,7 @@
     </level>
   </level>
   <level>
-    <num>(h)</num>
+    <num>(i)</num>
     <text>An authorization by a member of delivery of notices or communications by email or similar electronic means may be revoked by the member by notice to the nonprofit corporation in the form of a record. The authorization shall be deemed revoked if:</text>
     <level>
       <num>(A)</num>
@@ -89,18 +89,26 @@
       <text>The inability becomes known to the secretary or other person responsible for giving the notice or other communication, but the failure to treat the inability as a revocation shall not invalidate any meeting or other action.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(d)(3), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "registered" for "qualified" in (d); redesignated former (g) and (h) as (h) and (i), respectively; and redesignated the former second subsection (f) as (g).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-401.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

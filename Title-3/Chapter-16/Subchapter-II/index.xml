@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Architect Licensure and Regulation.</heading>
+  <heading>Architect Licensure and Regulation</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1641~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1642~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1643~P.xml"/>
@@ -39,6 +39,6 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1693~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1694~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1696~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1697.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1697~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1698~P.xml"/>
 </level>

@@ -1,6 +1,6 @@
 <level type="section">
   <num>34-1509</num>
-  <heading>Standard offer service</heading>
+  <heading>Standard offer service.</heading>
   <level>
     <num>(a)</num>
     <text>Standard offer service is electricity supply made available on and after the initial implementation date to:</text>
@@ -80,12 +80,12 @@
       <num>(4)</num>
       <text>A contingency plan in the event of insufficient or inadequate bids; provided, that a contingency plan may award the standard offer service to the electric company or an affiliate of the electric company if it is in the public interest.</text>
     </level>
+  </level>
+  <level>
+    <num>(d)</num>
     <level>
-      <num>(d)</num>
-      <level>
-        <num>(1)</num>
-        <text>After the regulations or orders mandated by subsection (c) of this section are issued, the Commission shall conduct competitive bid procedures for the selection of a retail electricity supplier or suppliers to provide standard offer service for the District of Columbia after February 7, 2005; authorize the electric company, as a wholesale electricity supplier, to conduct competitive bid procedures to obtain third-party contracts to provide standard offer service for the District of Columbia after February 7, 2005; or both. If competitive bid procedures for the selection of a retail electricity supplier or suppliers to provide standard offer service are conducted by the Commission, the competitive selection of retail electricity supplier or suppliers to provide standard offer service shall occur before July 2, 2004. In conducting retail bid procedures or facilitating the wholesale bid process under this subsection, the Commission:</text>
-      </level>
+      <num>(1)</num>
+      <text>After the regulations or orders mandated by subsection (c) of this section are issued, the Commission shall conduct competitive bid procedures for the selection of a retail electricity supplier or suppliers to provide standard offer service for the District of Columbia after February 7, 2005; authorize the electric company, as a wholesale electricity supplier, to conduct competitive bid procedures to obtain third-party contracts to provide standard offer service for the District of Columbia after February 7, 2005; or both. If competitive bid procedures for the selection of a retail electricity supplier or suppliers to provide standard offer service are conducted by the Commission, the competitive selection of retail electricity supplier or suppliers to provide standard offer service shall occur before July 2, 2004. In conducting retail bid procedures or facilitating the wholesale bid process under this subsection, the Commission:</text>
       <level>
         <num>(A)</num>
         <text>Shall ensure that the price for standard offer service will not hinder the development of a competitive electricity supply market in the District of Columbia; and</text>
@@ -97,41 +97,38 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Any bid premium collected by the Commission under this section shall be deposited into the Reliable Energy Trust Fund established under § 34-1514.</text>
+      <text>Any bid premium collected by the Commission under this section shall be deposited into the Reliable Energy Trust Fund established under § 34-1514 [repealed].</text>
     </level>
   </level>
   <level>
     <num>(e)</num>
     <text>The Commission shall determine the threshold financial viability of wholesale bidders.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 9, 2000, D.C. Law 13-107, § 109, 47 DCR 1091; Mar. 30, 2004, D.C. Law 15-113, § 2(b), 51 DCR 1349.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-113, in subsec. (b), substituted "February 7, 2005" for "January 1, 2005" in pars. (1) and (2)(A); rewrote subsecs. (c) and (d)(1); and added subsec. (e). Prior to amendment, subsecs. (c) and (d)(1) had read as follows:</text>
-        <text>"(c) Before January 2, 2004, the Commission shall adopt regulations or issue orders establishing terms and conditions for standard offer service and for the selection of an electricity supplier to provide standard offer service after January 1, 2005. Those terms and conditions shall include:</text>
-        <text>"(1) Protection against a standard offer service provider's failure to provide service;</text>
-        <text>"(2) An appropriate rate design, subject to the restrictions in subsection (d) of this section;</text>
-        <text>"(3) The appropriate length of a standard offer service contract awarded under subsection (d) of this section; and</text>
-        <text>"(4) A contingency plan in the event of insufficient bids. A contingency plan may award the standard offer service to the electric company or an affiliate of the electric company if it is in the public interest.</text>
-        <text>"(d)(1) After the regulations or orders mandated by subsection (c) of this section are issued, the Commission shall conduct a competitive bid process to select the standard offer service provider for the District of Columbia after January 1, 2005. The competitive selection of the standard offer service provider shall take occur before July 2, 2004. In conducting the competitive bid process mandated by this subsection, the Commission:"</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Electric Standard Offer Service Emergency Amendment Act of 2003 (D.C. Act 15-276, December 18, 2003, 50 DCR 47).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Electric Standard Offer Service Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-400, March 18, 2004, 50 DCR 3636).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-107, see notes following § 34-1501.</text>
-        <text>For Law 15-113, see notes following § 34-1501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 34-1501.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-113, in subsec. (b), substituted "February 7, 2005" for "January 1, 2005" in pars. (1) and (2)(A); rewrote subsecs. (c) and (d)(1); and added subsec. (e).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Electric Standard Offer Service Emergency Amendment Act of 2003 (D.C. Act 15-276, December 18, 2003, 50 DCR 47).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Electric Standard Offer Service Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-400, March 18, 2004, 50 DCR 3636).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-107</heading>
+      <text>For Law 13-107, see notes following § 34-1501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-113</heading>
+      <text>For Law 15-113, see notes following § 34-1501.</text>
     </level>
   </level>
 </level>

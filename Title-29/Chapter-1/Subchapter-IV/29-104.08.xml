@@ -1,46 +1,66 @@
 <level type="section">
   <num>29-104.08</num>
-  <heading>Change of name or address by noncommercial registered agent.</heading>
+  <heading>Change of name, address, type of entity, or jurisdiction of formation by noncommercial registered agent.</heading>
   <level>
     <num>(a)</num>
-    <text>If a noncommercial registered agent changes its name or its address in effect with respect to a represented entity under § 29-104.04(a), the agent shall deliver to the Mayor for filing, with respect to each entity represented by the agent, a statement of change signed by or on behalf of the agent which states:</text>
+    <text>If a noncommercial registered agent changes its name, its address in effect with respect to a represented entity under § 29-104.04(a), its type of entity, or its jurisdiction of formation, the agent shall deliver to the Mayor for filing, with respect to each entity represented by the agent, a statement of change signed by the agent which states:</text>
     <level>
       <num>(1)</num>
       <text>The name of the entity;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>The name and address of the agent;</text>
+      <text>The name and address of the agent in effect with respect to the entity;</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>If the name of the agent has changed, the new name; and</text>
+      <text>If the name of the agent has changed, the new name;</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>If the address of the agent has changed, the new address.</text>
+      <text>If the address of the agent has changed, the new address; and</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>If the agent is an entity:</text>
+      <level>
+        <num>(A)</num>
+        <text>If the type of entity has changed, the new type of entity; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>If the jurisdiction of formation has changed, the new jurisdiction of formation.</text>
+      </level>
     </level>
   </level>
   <level>
     <num>(b)</num>
-    <text>A statement of change under this section takes effect on delivery to the Mayor for filing.</text>
-  </level>
-  <level>
-    <num>(c)</num>
     <text>A noncommercial registered agent promptly shall furnish the represented entity with notice in a record of the delivery to the Mayor for filing of a statement of change and the changes made in the statement.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(a)(22), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-102.11.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-101.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

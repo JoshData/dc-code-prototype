@@ -1,30 +1,68 @@
 <level type="section">
   <num>29-604.02</num>
-  <heading>Distributions in kind.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-154.2</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-104.02</formerly-cited-as>
-  <text>A partner shall have no right to receive, and shall not be required to accept, a distribution in kind.</text>
+  <heading>Becoming partner.</heading>
   <level>
-    <type>annotations</type>
+    <num>(a)</num>
+    <text>Upon formation of a partnership under § 29-602.02(a), a person becomes a partner.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>After formation of a partnership, a person becomes a partner:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <num>(1)</num>
+      <text>As provided in the partnership agreement;</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 41-154.2.</text>
-        <text>2001 Ed., § 33-104.02.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 402 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <num>(2)</num>
+      <text>As a result of a transaction effective under Subchapter [subchapter] IX of this chapter or Chapter 2 of this title; or</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>With the consent of all the partners.</text>
+    </level>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>A person may become a partner without:</text>
+    <level>
+      <num>(1)</num>
+      <text>Acquiring a transferable interest; or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Making or being obligated to make a contribution to the partnership.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(f)(4)(D), 59 DCR 13171.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-601.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 41-154.2.</text>
+      <text>2001 Ed., § 33-104.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 rewrote the section, which formerly read: "Distributions in kind. A partner shall have no right to receive, and shall not be required to accept, a distribution in kind."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-601.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 402 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition.</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>50</num>
-  <heading>Insurance Placement.</heading>
+  <heading>Insurance Placement</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5001.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5002.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-5003.xml"/>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-1001.07</num>
   <heading>Voter.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-1311</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>No person shall be registered to vote in the District of Columbia unless:</text>
@@ -46,11 +45,11 @@
     <text>In administering the provisions of subsection (a)(2) of this section:</text>
     <level>
       <num>(1)</num>
-      <text>The Board shall prepare and use a registration application form that meets the requirements of the National Voter Registration Act of 1993 and of the Help America Vote Act of 2002, and in which each request for information is readily understandable and can be satisfied by a concise answer or mark.</text>
+      <text>The Board shall prepare and use a registration application form that meets the requirements of the National Voter Registration Act of 1993 [42 U.S.C. § 1973gg et seq.] and of the Help America Vote Act of 2002, and in which each request for information is readily understandable and can be satisfied by a concise answer or mark.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Mail-in voter registration application forms approved by the Board shall meet the requirements of the National Voter Registration Act of 1993, approved May 20, 1993 (107 Stat. 77; 42 U.S.C. § 1973gg <text i="True">et seq.</text>) and the Help America Vote Act of 2002, shall be designed to provide an easily understood method of registering to vote by mail, and shall be mailed to the Board with postage prepaid. These forms shall have printed on them, in bold face type, the penalties for fraudulently attempting to register to vote pursuant to § 1- 1001.14(a) and the National Voter Registration Act of 1993. If an applicant fails to properly complete the registration form, the Board's registrar shall notify the applicant and provide the applicant with an opportunity to complete the form in a timely manner prior to the next election.</text>
+      <text>Mail-in voter registration application forms approved by the Board shall meet the requirements of the National Voter Registration Act of 1993, approved May 20, 1993 (107 Stat. 77; 42 U.S.C. § 1973gg et seq.) and the Help America Vote Act of 2002, shall be designed to provide an easily understood method of registering to vote by mail, and shall be mailed to the Board with postage prepaid. These forms shall have printed on them, in bold face type, the penalties for fraudulently attempting to register to vote pursuant to § 1-1001.14(a) and the National Voter Registration Act of 1993 [42 U.S.C. § 1973gg et seq.]. If an applicant fails to properly complete the registration form, the Board's registrar shall notify the applicant and provide the applicant with an opportunity to complete the form in a timely manner prior to the next election.</text>
     </level>
     <level>
       <num>(3)</num>
@@ -258,20 +257,20 @@
     </level>
     <level>
       <num>(11)</num>
-      <text>An allegation of violation of the National Voter Registration Act of 1993 or of this subchapter may be made in writing, filed with the chief administrative officer of the Board and detail concisely the alleged violation.</text>
+      <text>An allegation of violation of the National Voter Registration Act of 1993 [42 U.S.C. § 1973gg et seq.] or of this subchapter may be made in writing, filed with the chief administrative officer of the Board and detail concisely the alleged violation.</text>
     </level>
     <level>
       <num>(12)</num>
       <level>
         <num>(A)</num>
-        <text>The Board shall designate its chief administrative officer as the official responsible for the coordination of the District of Columbia's responsibilities under the National Voter Registration Act of 1993 and as the official responsible for the coordination of this subchapter.</text>
+        <text>The Board shall designate its chief administrative officer as the official responsible for the coordination of the District of Columbia's responsibilities under the National Voter Registration Act of 1993 [42 U.S.C. § 1973gg et seq.] and as the official responsible for the coordination of this subchapter.</text>
       </level>
       <level>
         <num>(B)</num>
         <text>The chief administrative officer designated under subparagraph (A) of this paragraph and the Board shall have the authority:</text>
         <level>
           <num>(i)</num>
-          <text>To request any voter registration agency to submit in writing any reports and to answer any questions as the chief administrative officer or the Board may prescribe that relate to the administration and enforcement of the National Voter Registration Act of 1993 and of this subchapter; and</text>
+          <text>To request any voter registration agency to submit in writing any reports and to answer any questions as the chief administrative officer or the Board may prescribe that relate to the administration and enforcement of the National Voter Registration Act of 1993 [42 U.S.C. § 1973gg et seq.] and of this subchapter; and</text>
         </level>
         <level>
           <num>(ii)</num>
@@ -281,7 +280,7 @@
     </level>
     <level>
       <num>(13)</num>
-      <text>The Board may adopt regulations with respect to the coordination and administration of the National Voter Registration Act Conforming Amendment Act of 1994 and the National Voter Registration Act of 1993.</text>
+      <text>The Board may adopt regulations with respect to the coordination and administration of the National Voter Registration Act Conforming Amendment Act of 1994 and the National Voter Registration Act of 1993 [42 U.S.C. § 1973gg et seq.].</text>
     </level>
     <level>
       <num>(14)</num>
@@ -373,7 +372,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>The Board shall process faxed postcard applications from persons eligible to vote absentee in federal elections in the District of Columbia pursuant to the Uniformed and Overseas Citizens Absentee Voting Act, approved August 28, 1966 (100 Stat. 924; 42 U.S.C. § 1973ff <text i="True">et seq.</text>), which are faxed not later than the 30th day preceding any election.</text>
+      <text>The Board shall process faxed postcard applications from persons eligible to vote absentee in federal elections in the District of Columbia pursuant to the Uniformed and Overseas Citizens Absentee Voting Act, approved August 28, 1966 (100 Stat. 924; 42 U.S.C. § 1973ff et seq.), which are faxed not later than the 30th day preceding any election.</text>
     </level>
     <level>
       <num>(4)</num>
@@ -510,13 +509,13 @@
       <level>
         <num>(C)</num>
         <text>The notices prescribed in subparagraphs (A) and (B) of this paragraph shall include a pre-addressed and postage paid return notification postcard to enable the registrant to correct any address information obtained from the United States Postal Service. In addition, the notices shall include the following information:</text>
-        <text>"If you did not change your residence, or changed residence but remained in the District, you should return the card not later than the deadline for mail registration for the next federal election (the 30th day before the election). If the card is not returned, affirmation of your address may be required before you are permitted to vote in any election during the period beginning on the date of the notice and ending on the day after the date of the second general election for federal office that occurs after the date of the notice, and if you do not vote in an election during that period, your name will be removed from the list of eligible voters.".</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>The Board may, in addition, utilize information obtained from the United States Postal Service, the National Change of Address System ("NCOA"), the Bureau of Motor Vehicle Services (subject to the provisions of subsection (c)(1)(D) of this section, which identifies registrants who have moved from the addresses listed on the Board's records. In these cases the Board shall issue the notices prescribed in subparagraph (B) of this paragraph.</text>
       </level>
     </level>
+  </level>
+  <text>"If you did not change your residence, or changed residence but remained in the District, you should return the card not later than the deadline for mail registration for the next federal election (the 30th day before the election). If the card is not returned, affirmation of your address may be required before you are permitted to vote in any election during the period beginning on the date of the notice and ending on the day after the date of the second general election for federal office that occurs after the date of the notice, and if you do not vote in an election during that period, your name will be removed from the list of eligible voters.".</text>
+  <level>
+    <num>(D)</num>
+    <text>The Board may, in addition, utilize information obtained from the United States Postal Service, the National Change of Address System ("NCOA"), the Bureau of Motor Vehicle Services (subject to the provisions of subsection (c)(1)(D) of this section, which identifies registrants who have moved from the addresses listed on the Board's records. In these cases the Board shall issue the notices prescribed in subparagraph (B) of this paragraph.</text>
     <level>
       <num>(2)</num>
       <level>
@@ -570,115 +569,170 @@
       <level>
         <num>(D)</num>
         <text>Their names shall not be sold by the Board either in hard copy form or electronic media, except upon specific request of the purchaser and the fact that the registrations are designated as inactive is made known to the purchaser.</text>
+        <level>
+          <num>(k)</num>
+          <level>
+            <num>(1)</num>
+            <text>The Board shall cancel a voter registration upon receipt of a signed request from the registrant, upon notification of the death of a registrant, upon notification of a registrant's incarceration for conviction of a felony, upon notification that the registrant has registered to vote in another jurisdiction, or for any other reason specifically authorized in this subchapter.</text>
+          </level>
+          <level>
+            <num>(2)</num>
+            <text>The Board shall request at least monthly, and the Mayor shall furnish, the name, address, and date of birth, if known, of each District resident 18 years of age and over reported deceased within the District, together with the name and address of each District resident who has been reported deceased by other jurisdictions since the date of the previous report.</text>
+          </level>
+          <level>
+            <num>(3)</num>
+            <text>The Board shall request at least monthly, and the Superior Court of the District of Columbia shall furnish, the name and address of each person incarcerated as a result of a felony conviction since the date of the previous report, and the former and present names and address of each person whose name has been changed by decree or order of the Court since the date of the previous report.</text>
+          </level>
+          <level>
+            <num>(4)</num>
+            <text>The Board shall request from the United States District Court for the District of Columbia, at least monthly, the name and address of each person incarcerated as a result of a felony conviction since the date of the previous report.</text>
+          </level>
+          <level>
+            <num>(5)</num>
+            <text>Any individual whose registration has been cancelled shall not be permitted to vote except by re-registration as provided in this section.</text>
+          </level>
+        </level>
+        <level>
+          <num>(l)</num>
+          <text>Before May 1, 2010, the Board shall submit to the Council a report indicating the feasibility of implementing automatic voter registration in the District.</text>
+        </level>
       </level>
     </level>
   </level>
-  <level>
-    <num>(k)</num>
+  <level type="annotations">
     <level>
-      <num>(1)</num>
-      <text>The Board shall cancel a voter registration upon receipt of a signed request from the registrant, upon notification of the death of a registrant, upon notification of a registrant's incarceration for conviction of a felony, upon notification that the registrant has registered to vote in another jurisdiction, or for any other reason specifically authorized in this subchapter.</text>
+      <heading>History</heading>
+      <text>(Aug. 12, 1955, 69 Stat. 700, ch. 862, § 7; Oct. 4, 1961, 75 Stat. 817, Pub. L. 87-389, § 1 (8, 9, 10, 11); July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1; Apr. 22, 1968, 82 Stat. 103, Pub. L. 90-292, § 4(4); July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a); Dec. 23, 1971, 85 Stat. 790, Pub. L. 92-220, § 1(8), (30), (31); 1973 Ed., § 1-1107; Dec. 16, 1975, D.C. Law 1-37, § 2(3)-(5), 22 DCR 3426; Apr. 23, 1977, D.C. Law 1-126, title III, § 301(g)-(i), title IV, § 402, 24 DCR 2372; Aug. 18, 1978, D.C. Law 2-101, § 2, 25 DCR 257; Mar. 16, 1982, D.C. Law 4-88, § 2(e), (n), (p), (q), 29 DCR 458; July 1, 1982, D.C. Law 4-120, § 2(b), 29 DCR 2064; Aug. 2, 1983, D.C. Law 5-17, § 5(c), 30 DCR 3196; Mar. 16, 1988, D.C. Law 7-92, § 3(d)-(g), 35 DCR 716; Aug. 17, 1991, D.C. Law 9-32, § 2, 38 DCR 4220; Mar. 11, 1992, D.C. Law 9-75, § 2(b), 39 DCR 310; Feb. 5, 1994, D.C. Law 10-68, § 7(a), 40 DCR 6311; Sept. 22, 1994, D.C. Law 10-173, § 2(b), 41 DCR 5154; July 25, 1995, D.C. Law 11-30, § 2(b), 42 DCR 1547; Apr. 18, 1996, D.C. Law 11-110, § 5(a), 43 DCR 530; Apr. 12, 2000, D.C. Law 13-91, § 123(b), 47 DCR 520; Apr. 3, 2001, D.C. Law 13-251, § 2(a), 48 DCR 668; Dec. 7, 2004, D.C. Law 15-218, § 2(c), 51 DCR 9132; Apr. 7, 2006, D.C. Law 16-91, § 127(b), 52 DCR 10637; Mar. 2, 2007, D.C. Law 16-191, § 48(l), 53 DCR 6794; Oct. 21, 2008, D.C. Law 17-236, § 2, 55 DCR 9019; Feb. 4, 2010, D.C. Law 18-103, § 2(e), 56 DCR 9169; May 31, 2012, D.C. Law 19-131,§ 2(a), 59 DCR 2389.)</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>The Board shall request at least monthly, and the Mayor shall furnish, the name, address, and date of birth, if known, of each District resident 18 years of age and over reported deceased within the District, together with the name and address of each District resident who has been reported deceased by other jurisdictions since the date of the previous report.</text>
+      <heading>Cross References</heading>
+      <text>Advisory Neighborhood Commissions, "registered qualified elector" defined, see § 1-309.09.</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>The Board shall request at least monthly, and the Superior Court of the District of Columbia shall furnish, the name and address of each person incarcerated as a result of a felony conviction since the date of the previous report, and the former and present names and address of each person whose name has been changed by decree or order of the Court since the date of the previous report.</text>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-309.09, § 1-1001.02, § 1-1001.05, § 1-1001.08, and § 1-1001.14.</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>The Board shall request from the United States District Court for the District of Columbia, at least monthly, the name and address of each person incarcerated as a result of a felony conviction since the date of the previous report.</text>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-1311.</text>
+      <text>1973 Ed., § 1-1107.</text>
     </level>
     <level>
-      <num>(5)</num>
-      <text>Any individual whose registration has been cancelled shall not be permitted to vote except by re-registration as provided in this section.</text>
-    </level>
-  </level>
-  <level>
-    <num>(l)</num>
-    <text>Before May 1, 2010, the Board shall submit to the Council a report indicating the feasibility of implementing automatic voter registration in the District.</text>
-  </level>
-  <level>
-    <type>annotations</type>
-    <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Aug. 12, 1955, 69 Stat. 700, ch. 862, § 7; Oct. 4, 1961, 75 Stat. 817, Pub. L. 87-389, § 1 (8, 9, 10, 11); July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1; Apr. 22, 1968, 82 Stat. 103, Pub. L. 90-292, § 4(4); July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a); Dec. 23, 1971, 85 Stat. 790, Pub. L. 92-220, § 1(8), (30), (31); 1973 Ed., § 1-1107; Dec. 16, 1975, D.C. Law 1-37, § 2(3)-(5), 22 DCR 3426; Apr. 23, 1977, D.C. Law 1-126, title III, § 301(g)-(i), title IV, § 402, 24 DCR 2372; Aug. 18, 1978, D.C. Law 2- 101, § 2, 25 DCR 257; Mar. 16, 1982, D.C. Law 4-88, § 2(e), (n), (p), (q), 29 DCR 458; July 1, 1982, D.C. Law 4-120, § 2(b), 29 DCR 2064; Aug. 2, 1983, D.C. Law 5-17, § 5(c), 30 DCR 3196; Mar. 16, 1988, D.C. Law 7-92, § 3(d)-(g), 35 DCR 716; Aug. 17, 1991, D.C. Law 9-32, § 2, 38 DCR 4220; Mar. 11, 1992, D.C. Law 9-75, § 2(b), 39 DCR 310; Feb. 5, 1994, D.C. Law 10-68, § 7(a), 40 DCR 6311; Sept. 22, 1994, D.C. Law 10-173, § 2(b), 41 DCR 5154; July 25, 1995, D.C. Law 11-30, § 2(b), 42 DCR 1547; Apr. 18, 1996, D.C. Law 11-110, § 5(a), 43 DCR 530; Apr. 12, 2000, D.C. Law 13-91, § 123(b), 47 DCR 520; Apr. 3, 2001, D.C. Law 13-251, § 2(a), 48 DCR 668; Dec. 7, 2004, D.C. Law 15-218, § 2(c), 51 DCR 9132; Apr. 7, 2006, D.C. Law 16-91, § 127(b), 52 DCR 10637; Mar. 2, 2007, D.C. Law 16-191, § 48(l), 53 DCR 6794; Oct. 21, 2008, D.C. Law 17-236, § 2, 55 DCR 9019; Feb. 4, 2010, D.C. Law 18-103, § 2(e), 56 DCR 9169; May 31, 2012, D.C. Law 19-131, § 2(a), 59 DCR 2389.)</text>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-91 validated a previously made technical correction in par. (2) of subsec. (j).</text>
+      <text>D.C. Law 13-251 rewrote subsec. (e)(5)(A) which had read:</text>
+      <text>"(5)(A) Any duly registered voter may file with the Board objections to the registration of any person whom he or she has reason to believe is fictitious, deceased, a disqualified person, or otherwise ineligible to vote (except with respect to a change of residence), or file a request for the addition of any person whose name he or she has reason to believe has been erroneously omitted or cancelled from the voter roll. Application for the correction of the voter roll or the challenge of the right to vote of any person named on the voter roll shall be in writing and include any evidence in support of the challenge that the registrant is not qualified to be a registered voter. The challenge or application shall be filed with the Board not later than 90 days before the date of any election held under this subchapter."</text>
+      <text>D.C. Law 15-218 added subsec. (a-1), subpar. (K) of par. (c)(1), and par. (6) of subsec. (i); in par. (1) of subsec. (b), substituted "Help America Vote Act of 2002" for "Federal Election Commission"; and, in par. (2) of subsec. (b), substituted "approved by the Board and shall meet the requirements of the National Voter Registration Act of 1993, approved May 20, 1993 (107 Stat. 77; 42 U.S.C. § 1973gg et seq.) and the Help America Vote Act of 2002" for "approved by the Board" in the first sentence, and added the second sentence.</text>
+      <text>D.C. Law 16-91, in pars. (b)(2) and (i)(6), validated previously made technical corrections.</text>
+      <text>D.C. Law 16-191, in subsecs. (b)(2) and (i)(6), validated previously made technical corrections.</text>
+      <text>D.C. Law 17-236 added subsecs. (a-2), (b)(4); and, in subsec. (e)(2), inserted "The voter registration notification shall state that the applicant shall not vote before her or his 18th birthday."</text>
+      <text>D.C. Law 18-103 rewrote subsecs. (a-2), (b)(4), and (g); in subsec. (d)(1)(B), substituted "the Department of Parks and Recreation, the Department of Corrections, the Department of Youth and Rehabilitative Services, and the Office of Aging" for "the Senior Citizens Branch of the Department of Recreation and Parks and the Office of Aging"; and added subsec. (l).</text>
+      <text>D.C. Law 19-131, in subsec. (g)(1), substituted "4:45 P.M. on the 30th day preceding any election, or such time on that day as the Board's office remains open to receive registrations," for "5:00 p.m. on the 31st day preceding any election"; in subsec. (g)(5), substituted "law, District law, or Board regulation. Each individual who registers on Election Day shall cast a special ballot, subject to the Board's verification of residence." for "law; provided, that, for each election occurring before December 31, 2010, the individual shall cast a special ballot, subject to the Board's verification of residence; provided further, that for each election occurring after December 31, 2010, if the individual does not present a government-issued and valid photo identification card showing the individual's address, the individual shall cast a special ballot, subject to the Board's verification of residence"; and, in subsec. (g)(7)(A)(i), substituted "register and vote in the election, but" for "register but".</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-1311.</text>
-        <text>1973 Ed., § 1-1107.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-91 validated a previously made technical correction in par. (2) of subsec. (j).</text>
-        <text>D.C. Law 13-251 rewrote subsec. (e)(5)(A) which had read:</text>
-        <text>"(5)(A) Any duly registered voter may file with the Board objections to the registration of any person whom he or she has reason to believe is fictitious, deceased, a disqualified person, or otherwise ineligible to vote (except with respect to a change of residence), or file a request for the addition of any person whose name he or she has reason to believe has been erroneously omitted or cancelled from the voter roll. Application for the correction of the voter roll or the challenge of the right to vote of any person named on the voter roll shall be in writing and include any evidence in support of the challenge that the registrant is not qualified to be a registered voter. The challenge or application shall be filed with the Board not later than 90 days before the date of any election held under this subchapter."</text>
-        <text>D.C. Law 15-218 added subsec. (a-1), subpar. (K) of par. (c)(1), and par. (6) of subsec. (i); in par. (1) of subsec. (b), substituted "Help America Vote Act of 2002"' for "Federal Election Commission"; and, in par. (2) of subsec. (b), substituted "approved by the Board and shall meet the requirements of the National Voter Registration Act of 1993, approved May 20, 1993 (107 Stat. 77; 42 U.S.C. § 1973gg <text i="True">et seq.</text>) and the Help America Vote Act of 2002" for "approved by the Board" in the first sentence, and added the second sentence.</text>
-        <text>D.C. Law 16-91, in pars. (b)(2) and (i)(6), validated previously made technical corrections.</text>
-        <text>D.C. Law 16-191, in subsecs. (b)(2) and (i)(6), validated previously made technical corrections.</text>
-        <text>D.C. Law 17-236 added subsecs. (a-2), (b)(4); and, in subsec. (e)(2), inserted "The voter registration notification shall state that the applicant shall not vote before her or his 18th birthday."</text>
-        <text>D.C. Law 18-103 rewrote subsecs. (a-2), (b)(4), and (g); in subsec. (d)(1)(B), substituted "the Department of Parks and Recreation, the Department of Corrections, the Department of Youth and Rehabilitative Services, and the Office of Aging" for "the Senior Citizens Branch of the Department of Recreation and Parks and the Office of Aging"; and added subsec. (l). Prior to amendment, subsecs. (a-2), (b)(4), and (g) read as follows:</text>
-        <text>"(a-2) A person who is otherwise qualified may pre-register on or after that person's 17th birthday and may vote in any election occurring on or after that person's 18th birthday, but under no circumstances before the person's 18th birthday."</text>
-        <text>"(4) The Board shall state on voter registration forms that no one may vote before his or her 18th birthday."</text>
-        <text>"(g)(1) The registry shall be open during reasonable business hours, except that:</text>
-        <text>"(A) The registry shall not be open during the 30-day period that immediately precedes any primary, general, or District-wide special election.</text>
-        <text>"(B) The registry for a ward or Advisory Neighborhood Commission SMD shall not be open during the 30-day period that immediately precedes a special election for that ward or SMD.</text>
-        <text>"(2) The Board shall process mailed voter registration applications and registration, update notifications received postmarked by not later than the thirtieth day preceding any election and timely completed non-postmarked voter registration applications and registration update notifications mailed and received not later than the twenty-third day preceding any election. All other voter registration applications and update notifications received during the 30 days immediately preceding the date of any election shall be held and processed after the registry reopens.</text>
-        <text>"(2A) The Board shall process faxed postcard applications from persons eligible to vote absentee in federal elections in the District of Columbia pursuant to the Uniformed and Overseas Citizens Absentee Voting Act, approved August 28, 1966 (100 Stat. 924; 42 U.S.C. § 1973ff et seq.), which are faxed not later than the 30th day preceding any election.</text>
-        <text>"(3) The Board may close the registry on Saturdays, Sundays, and holidays except that, if the deadline for voter registration in any election shall fall on a Saturday, Sunday or holiday, the deadline for voter registration shall extend to the next business day.</text>
-        <text>"(4) The close of the registry shall not apply for purposes of change of address on election day by registrants pursuant to subsection (i)(4) of this section."</text>
-        <text>D.C. Law 19-131, in subsec. (g)(1), substituted "4:45 P.M. on the 30th day preceding any election, or such time on that day as the Board's office remains open to receive registrations," for "5:00 p.m. on the 31st day preceding any election"; in subsec. (g)(5), substituted "law, District law, or Board regulation. Each individual who registers on Election Day shall cast a special ballot, subject to the Board's verification of residence." for "law; provided, that, for each election occurring before December 31, 2010, the individual shall cast a special ballot, subject to the Board's verification of residence; provided further, that for each election occurring after December 31, 2010, if the individual does not present a government-issued and valid photo identification card showing the individual's address, the individual shall cast a special ballot, subject to the Board's verification of residence"; and, in subsec. (g)(7)(A)(i), substituted "register and vote in the election, but" for "register but".</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2(c) of Help America Vote Temporary Amendment Act of 2004 (D.C. Law 15-120, March 30, 2004, law notification 51 DCR 3807).</text>
-        <text>For temporary (225 day) amendment of section, see § 2 of Student Voter Registration Temporary Amendment Act of 2008 (D.C. Law 17-188, July 18, 2008, law notification 55 DCR 8710).</text>
-        <text>Section 2(a) of D.C. Law 19-101, in subsec. (g)(1), substituted "4:45 P.M. on the 30th day, or such time on that day as the Board's office remains open to receive registrations" for "5:00 p.m. on the 31st day"; in subsec. (g)(5), substituted "law, District law, or Board regulation. Each individual who registers on Election Day shall cast a special ballot, subject to the Board's verification of residence." for "law; provided, that, for each election occurring before December 31, 2010, the individual shall cast a special ballot, subject to the Board's verification of residence; provided further, that for each election occurring after December 31, 2010, if the individual does not present a government-issued and valid photo identification card showing the individual's address, the individual shall cast a special ballot, subject to the Board's verification of residence."; and, in subsec. (g)(7)(A)(i), substituted "register and vote in the election, but" for "register but".</text>
-        <text>Section 4(b) of D.C. Law 19-101 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(c) of Help American Vote Emergency Amendment Act of 2003 (D.C. Act 15-283, December 18, 2003, 51 DCR 197).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(c) of Help America Vote Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-405, March 18, 2004, 51 DCR 3650).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(c) of Help America Vote Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-658, December 29, 2004, 52 DCR 492).</text>
-        <text>For temporary (90 day) amendment of section, see § 2 of Student Voter Registration Emergency Amendment Act of 2008 (D.C. Act 17-350, April 17, 2008, 55 DCR 5364).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(e) of Omnibus Election Reform Emergency Amendment Act of 2009 (D.C. Act 18-236, November 30, 2009, 56 DCR 9154).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(a) of Board of Elections and Ethics Electoral Process Improvement Emergency Amendment Act of 2011 (D.C. Act 19-266, January 3, 2012, 59 DCR 207).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-37, see Historical and Statutory Notes following § 1-1001.05.</text>
-        <text>For legislative history of D.C. Law 1-126, see Historical and Statutory Notes following § 1-1001.02.</text>
-        <text>For legislative history of D.C. Law 2-101, see Historical and Statutory Notes following § 1-1001.01.</text>
-        <text>For legislative history of D.C. Law 4-88, see Historical and Statutory Notes following § 1-1001.01.</text>
-        <text>For legislative history of D.C. Law 4-120, see Historical and Statutory Notes following § 1-1001.05.</text>
-        <text>For legislative history of D.C. Law 5-17, see Historical and Statutory Notes following § 1-1001.02.</text>
-        <text>For legislative history of D.C. Law 7-92, see Historical and Statutory Notes following § 1-1001.05.</text>
-        <text>Law 9-32 was introduced in Council and assigned Bill No. 9-191, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on June 4, 1991, and June 18, 1991, respectively. Signed by the Mayor on July 2, 1991, it was assigned Act No. 9-59 and transmitted to both Houses of Congress for its review.</text>
-        <text>For legislative history of D.C. Law 9-75, see Historical and Statutory Notes following § 1-1001.05.</text>
-        <text>Law 10-68, the "Technical Amendments Act of 1993," was introduced in Council and assigned Bill No. 10-166, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 23, 1993, it was assigned Act No. 10-107 and transmitted to both Houses of Congress for its review. D.C. Law 10-68 became effective on February 5, 1994.</text>
-        <text>For legislative history of D.C. Law 10-173, see Historical and Statutory Notes following § 1-1001.02.</text>
-        <text>For legislative history of D.C. Law 11-30, see Historical and Statutory Notes following § 1-1001.02.</text>
-        <text>Law 11-110, the "Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-485, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on December 5, 1995, and January 4, 1996, respectively. Signed by the Mayor on January 26, 1996, it was assigned Act No. 11-199 and transmitted to both Houses of Congress for its review. D.C. Law 11-110 became effective on April 18, 1996.</text>
-        <text>For Law 13-91, see notes following § 1-1001.02.</text>
-        <text>Law 13-251, the "Election Day Challenge Procedures Amendment Act of 2000", was introduced in Council and assigned Bill No. 13-445, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on November 8, 2000, and December 5, 2000, respectively. Signed by the Mayor on December 22, 2000, it was assigned Act No. 13-538 and transmitted to both Houses of Congress for its review. D.C. Law 13-251 became effective on April 3, 2001.</text>
-        <text>For D.C. Law 15-218, see notes following § 1-1001.02</text>
-        <text>For Law 16-91, see notes following § 1-301.45.</text>
-        <text>Law 16-191, the "Technical Amendments Act of 2006", was introduced in Council and assigned Bill No. 16-760, which was referred to the Committee of the whole. The Bill was adopted on first and second readings on June 20, 2006, and July 11, 2006, respectively. Signed by the Mayor on July 31, 2006, it was assigned Act No. 16-475 and transmitted to both Houses of Congress for its review. D.C. Law 16-191 became effective on March 2, 2007.</text>
-        <text>Law 17-236, the "Student Voter Registration Amendment Act of 2008", was introduced in Council and assigned Bill No. 17-702 which was referred to the Committee on Workforce Development and Government Operations. The Bill was adopted on first and second readings on July 1, 2008, and July 15, 2008, respectively. Signed by the Mayor on July 28, 2008, it was assigned Act No. 17-477 and transmitted to both Houses of Congress for its review. D.C. Law 17- 236 became effective on October 21, 2008.</text>
-        <text>For Law 18-103, see notes following § 1-1001.02.</text>
-        <text>Law 19-131, the "Board of Elections and Ethics Electoral Process Improvement Amendment Act of 2012", was introduced in Council and assigned Bill No. 19-479, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on February 7, 2011, and March 6, 2012, respectively. Signed by the Mayor on March 19, 2012, it was assigned Act No. 19-328 and transmitted to both Houses of Congress for its review. D.C. Law 19- 131 became effective on May 31, 2012.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>Pursuant to Mayor's Order 2000-20, the agency formerly known as the Department of Recreation and Parks shall be known as the Department of Parks and Recreation.</text>
-        <text>The National Voter Registration Act, referred to in (b) and (d), is Pub. L. 103-31, May 20, 1993, 107 Stat 77 which is codified primarily as 42 U.S.C. §§ 1973gg et seq.</text>
-      </level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2(c) of Help America Vote Temporary Amendment Act of 2004 (D.C. Law 15-120, March 30, 2004, law notification 51 DCR 3807).</text>
+      <text>For temporary (225 day) amendment of section, see § 2 of Student Voter Registration Temporary Amendment Act of 2008 (D.C. Law 17-188, July 18, 2008, law notification 55 DCR 8710).</text>
+      <text>Section 2(a) of D.C. Law 19-101, in subsec. (g)(1), substituted "4:45 P.M. on the 30th day, or such time on that day as the Board's office remains open to receive registrations" for "5:00 p.m. on the 31st day"; in subsec. (g)(5), substituted "law, District law, or Board regulation. Each individual who registers on Election Day shall cast a special ballot, subject to the Board's verification of residence." for "law; provided, that, for each election occurring before December 31, 2010, the individual shall cast a special ballot, subject to the Board's verification of residence; provided further, that for each election occurring after December 31, 2010, if the individual does not present a government-issued and valid photo identification card showing the individual's address, the individual shall cast a special ballot, subject to the Board's verification of residence."; and, in subsec. (g)(7)(A)(i), substituted "register and vote in the election, but" for "register but".</text>
+      <text>Section 4(b) of D.C. Law 19-101 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(c) of Help American Vote Emergency Amendment Act of 2003 (D.C. Act 15-283, December 18, 2003, 51 DCR 197).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(c) of Help America Vote Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-405, March 18, 2004, 51 DCR 3650).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(c) of Help America Vote Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-658, December 29, 2004, 52 DCR 492).</text>
+      <text>For temporary (90 day) amendment of section, see § 2 of Student Voter Registration Emergency Amendment Act of 2008 (D.C. Act 17-350, April 17, 2008, 55 DCR 5364).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(e) of Omnibus Election Reform Emergency Amendment Act of 2009 (D.C. Act 18-236, November 30, 2009, 56 DCR 9154).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(a) of Board of Elections and Ethics Electoral Process Improvement Emergency Amendment Act of 2011 (D.C. Act 19-266, January 3, 2012, 59 DCR 207).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-37</heading>
+      <text>For legislative history of D.C. Law 1-37, see Historical and Statutory Notes following § 1-1001.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-126</heading>
+      <text>For legislative history of D.C. Law 1-126, see Historical and Statutory Notes following § 1-1001.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-101</heading>
+      <text>For legislative history of D.C. Law 2-101, see Historical and Statutory Notes following § 1-1001.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-88</heading>
+      <text>For legislative history of D.C. Law 4-88, see Historical and Statutory Notes following § 1-1001.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-120</heading>
+      <text>For legislative history of D.C. Law 4-120, see Historical and Statutory Notes following § 1-1001.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-17</heading>
+      <text>For legislative history of D.C. Law 5-17, see Historical and Statutory Notes following § 1-1001.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-92</heading>
+      <text>For legislative history of D.C. Law 7-92, see Historical and Statutory Notes following § 1-1001.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-32</heading>
+      <text>Law 9-32 was introduced in Council and assigned Bill No. 9-191, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on June 4, 1991, and June 18, 1991, respectively. Signed by the Mayor on July 2, 1991, it was assigned Act No. 9-59 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-75</heading>
+      <text>For legislative history of D.C. Law 9-75, see Historical and Statutory Notes following § 1-1001.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-68</heading>
+      <text>Law 10-68, the "Technical Amendments Act of 1993," was introduced in Council and assigned Bill No. 10-166, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 23, 1993, it was assigned Act No. 10-107 and transmitted to both Houses of Congress for its review. D.C. Law 10-68 became effective on February 5, 1994.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-173</heading>
+      <text>For legislative history of D.C. Law 10-173, see Historical and Statutory Notes following § 1-1001.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-30</heading>
+      <text>For legislative history of D.C. Law 11-30, see Historical and Statutory Notes following § 1-1001.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-110</heading>
+      <text>Law 11-110, the "Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-485, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on December 5, 1995, and January 4, 1996, respectively. Signed by the Mayor on January 26, 1996, it was assigned Act No. 11-199 and transmitted to both Houses of Congress for its review. D.C. Law 11-110 became effective on April 18, 1996.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-91</heading>
+      <text>For Law 13-91, see notes following § 1-1001.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-251</heading>
+      <text>Law 13-251, the "Election Day Challenge Procedures Amendment Act of 2000", was introduced in Council and assigned Bill No. 13-445, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on November 8, 2000, and December 5, 2000, respectively. Signed by the Mayor on December 22, 2000, it was assigned Act No. 13-538 and transmitted to both Houses of Congress for its review. D.C. Law 13-251 became effective on April 3, 2001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-218</heading>
+      <text>For D.C. Law 15-218, see notes following § 1-1001.02</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-91</heading>
+      <text>For Law 16-91, see notes following § 1-301.45.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>Law 16-191, the "Technical Amendments Act of 2006", was introduced in Council and assigned Bill No. 16-760, which was referred to the Committee of the whole. The Bill was adopted on first and second readings on June 20, 2006, and July 11, 2006, respectively. Signed by the Mayor on July 31, 2006, it was assigned Act No. 16-475 and transmitted to both Houses of Congress for its review. D.C. Law 16-191 became effective on March 2, 2007.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-236</heading>
+      <text>Law 17-236, the "Student Voter Registration Amendment Act of 2008", was introduced in Council and assigned Bill No. 17-702 which was referred to the Committee on Workforce Development and Government Operations. The Bill was adopted on first and second readings on July 1, 2008, and July 15, 2008, respectively. Signed by the Mayor on July 28, 2008, it was assigned Act No. 17-477 and transmitted to both Houses of Congress for its review. D.C. Law 17-236 became effective on October 21, 2008.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-103</heading>
+      <text>For Law 18-103, see notes following § 1-1001.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-131</heading>
+      <text>Law 19-131, the "Board of Elections and Ethics Electoral Process Improvement Amendment Act of 2012", was introduced in Council and assigned Bill No. 19-479, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on February 7, 2011, and March 6, 2012, respectively. Signed by the Mayor on March 19, 2012, it was assigned Act No. 19-328 and transmitted to both Houses of Congress for its review. D.C. Law 19-131 became effective on May 31, 2012.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>Pursuant to Mayor's Order 2000-20, the agency formerly known as the Department of Recreation and Parks shall be known as the Department of Parks and Recreation.</text>
+      <text>The National Voter Registration Act, referred to in (b) and (d), is Pub. L. 103-31, May 20, 1993, 107 Stat 77 which is codified primarily as 42 U.S.C.§§ 1973gg et seq.</text>
     </level>
   </level>
 </level>

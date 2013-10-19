@@ -3,7 +3,7 @@
   <heading>License application.</heading>
   <level>
     <num>(a)</num>
-    <text>Each application for a license shall be made in writing, under oath, and in a form prescribed by the Superintendent.</text>
+    <text>Each application for a license shall be made in writing, under oath, and in a form prescribed by the Superintendent [Commissioner].</text>
   </level>
   <level>
     <num>(b)</num>
@@ -111,20 +111,16 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>The Superintendent is authorized, for good cause shown, to waive any requirement of this section with respect to any license application or to permit a license applicant to submit substituted information in its license application in lieu of the information required by this section.</text>
+    <text>The Superintendent [Commissioner] is authorized, for good cause shown, to waive any requirement of this section with respect to any license application or to permit a license applicant to submit substituted information in its license application in lieu of the information required by this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 18, 2000, D.C. Law 13-140, § 7, 47 DCR 3431.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-140, see notes following § 26-1001.</text>
-      </level>
+      <heading>Legislative History of Law 13-140</heading>
+      <text>For Law 13-140, see notes following § 26-1001.</text>
     </level>
   </level>
 </level>

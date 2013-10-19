@@ -21,18 +21,14 @@
     <num>(e)</num>
     <text>The Mayor or an Authorized Signatory is authorized to deliver the executed and sealed Financing Documents and Closing Documents, on behalf of the District, prior to or simultaneously with the issuance, sale, and delivery of the GARVEE Bonds, and to ensure the due performance of the obligations of the District contained in the executed, sealed, and delivered Financing Documents and Closing Documents.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 23, 2009, D.C. Law 18-54, § 8, 56 DCR 5694.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-54, see notes following § 9-107.51.</text>
-      </level>
+      <heading>Legislative History of Law 18-54</heading>
+      <text>For Law 18-54, see notes following § 9-107.51.</text>
     </level>
   </level>
 </level>

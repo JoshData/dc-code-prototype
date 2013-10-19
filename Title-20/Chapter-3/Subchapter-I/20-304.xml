@@ -1,10 +1,10 @@
 <level type="section">
   <num>20-304</num>
   <heading>Petition for probate.</heading>
-  <formerly-cited-as>DC ST 1981 § 20-304</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">General.</text> -- The petition for probate shall contain all knowledge or information of the petitioner with respect to:</text>
+    <heading>General</heading>
+    <text>The petition for probate shall contain all knowledge or information of the petitioner with respect to:</text>
     <level>
       <num>(1)</num>
       <text>the name, domicile, and place and date of death of the decedent;</text>
@@ -36,23 +36,28 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Intestate.</text> -- If the decedent died intestate, the petition shall state that a diligent search for a will has been made.</text>
+    <heading>Intestate</heading>
+    <text>If the decedent died intestate, the petition shall state that a diligent search for a will has been made.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Testate.</text> -- If the decedent died testate, the petitioner shall: (1) exhibit the original of the will with the petition, or exhibit a copy of the will if the original has already been filed; and (2) state whether the petitioner knows of any later will. If the petitioner is filing or has filed the original of the will, the petition shall state the manner in which the petitioner obtained the original of the will.</text>
+    <heading>Testate</heading>
+    <text>If the decedent died testate, the petitioner shall: (1) exhibit the original of the will with the petition, or exhibit a copy of the will if the original has already been filed; and (2) state whether the petitioner knows of any later will. If the petitioner is filing or has filed the original of the will, the petition shall state the manner in which the petitioner obtained the original of the will.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Explanation for lack of information.</text> -- The petition shall state the reasons why any information required by subsection (a) cannot be furnished by the petitioner.</text>
+    <heading>Explanation for lack of information</heading>
+    <text>The petition shall state the reasons why any information required by subsection (a) cannot be furnished by the petitioner.</text>
   </level>
   <level>
     <num>(e)</num>
-    <text><text i="True">Request for abbreviated or standard probate or small estates proceeding.</text> -- The petition shall indicate whether the petitioner requests an abbreviated probate, small estates or standard probate proceeding.</text>
+    <heading>Request for abbreviated or standard probate or small estates proceeding</heading>
+    <text>The petition shall indicate whether the petitioner requests an abbreviated probate, small estates or standard probate proceeding.</text>
   </level>
   <level>
     <num>(f)</num>
-    <text><text i="True">Request for court action.</text> -- The petition may contain, as appropriate, and shall (without the need for the filing of any complaint) be sufficient to obtain the Court's action on, a request for one or more of the following:</text>
+    <heading>Request for court action</heading>
+    <text>The petition may contain, as appropriate, and shall (without the need for the filing of any complaint) be sufficient to obtain the Court's action on, a request for one or more of the following:</text>
     <level>
       <num>(1)</num>
       <text>the admission to probate of any will exhibited with the petition;</text>
@@ -82,31 +87,34 @@
       <text>any other relief that the petitioner may deem appropriate.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 24, 1980, D.C. Law 3-72, § 101, 27 DCR 2155; Mar. 21, 1995, D.C. Law 10-241, § 3(j), 42 DCR 63.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 20-304.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of § 4 of D.C. Law 10-241, see § 2 of the Probate Reform Act of 1994 Emergency Amendment Act of 1995 (D.C. Act 11-79, June 28, 1995, 42 DCR 3452).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-301.</text>
-        <text>Law 10-241, the "Probate Reform Act of 1994," was introduced in Council and assigned Bill No. 10-649, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on November 1, 1994, and December 6, 1994, respectively. Signed by the Mayor on December 28, 1994, it was assigned Act No. 10-386 and transmitted to both Houses of Congress for its review. D.C. Law 10-241 became effective on March 21, 1995.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Application of Law 10-241: Section 4 of D.C. Law 10-241, as amended by § 2 of D.C. Law 11-54, provided that the act shall be applicable to estates of decedents who died on or after July 1, 1995.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 20-301, § 20-311, § 20-312, § 20-321, and § 20-352.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 20-304.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of § 4 of D.C. Law 10-241, see § 2 of the Probate Reform Act of 1994 Emergency Amendment Act of 1995 (D.C. Act 11-79, June 28, 1995, 42 DCR 3452).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-72</heading>
+      <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-241</heading>
+      <text>Law 10-241, the "Probate Reform Act of 1994," was introduced in Council and assigned Bill No. 10-649, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on November 1, 1994, and December 6, 1994, respectively. Signed by the Mayor on December 28, 1994, it was assigned Act No. 10-386 and transmitted to both Houses of Congress for its review. D.C. Law 10-241 became effective on March 21, 1995.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 10-241: Section 4 of D.C. Law 10-241, as amended by § 2 of D.C. Law 11-54, provided that the act shall be applicable to estates of decedents who died on or after July 1, 1995.</text>
     </level>
   </level>
 </level>

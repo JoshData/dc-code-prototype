@@ -5,7 +5,7 @@
     <num>(a)</num>
     <level>
       <num>(1)</num>
-      <text>An insurance compliance self-evaluative audit document shall be privileged information and shall not be admissible as evidence in any legal action in a civil, criminal, or administrative proceeding, except as provided in subsections (b), (c), and (d) of this section and sections §§ 31-854 and 31-855.</text>
+      <text>An insurance compliance self-evaluative audit document shall be privileged information and shall not be admissible as evidence in any legal action in a civil, criminal, or administrative proceeding, except as provided in subsections (b), (c), and (d) of this section and §§ 31-854 and 31-855.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -36,18 +36,18 @@
     <num>(d)</num>
     <text>The privilege shall not apply to the extent that it is expressly waived by the company that prepared, or caused to be prepared, the insurance compliance self-evaluative audit document.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 11, 2003, D.C. Law 14-293, § 4, 50 DCR 296.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-293, see notes following § 31-851.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-851.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-293</heading>
+      <text>For Law 14-293, see notes following § 31-851.</text>
     </level>
   </level>
 </level>

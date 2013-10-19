@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>1</num>
-  <heading>Judgments and Decrees.</heading>
+  <heading>Judgments and Decrees</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-103.xml"/>
@@ -13,6 +13,5 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-109.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-110.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-111.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-131~15-133~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-131~15-133~P.xml"/>
 </level>

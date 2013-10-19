@@ -1,13 +1,24 @@
 <level type="section">
   <num>28:5-104</num>
   <heading>Formal requirements.</heading>
-  <formerly-cited-as>DC ST 1981 § 28:5-104</formerly-cited-as>
   <text>A letter of credit, confirmation, advice, transfer, amendment, or cancellation may be issued in any form that is a record and is authenticated (i) by a signature or (ii) in accordance with the agreement of the parties or the standard practice referred to in § 28:5-108(e).</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 30, 1963, 77 Stat. 709, Pub. L. 88-243, § 1; Apr. 9, 1997, D.C. Law 11-238, § 2, 44 DCR 923.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28:5-102 and § 28:5-116.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28:5-104.</text>
+      <text>1973 Ed., § 28:5-104.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-238</heading>
+      <text>For legislative history of D.C. Law 11-238, see Historical and Statutory Notes following § 28:5-101.</text>
     </level>
     <level>
       <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
@@ -16,18 +27,6 @@
       <text>An authentication agreement may be by system rule, by standard practice, or by direct agreement between the parties. The reference to practice is intended to incorporate future developments in the UCP and other practice rules as well as those that may arise spontaneously in commercial practice.</text>
       <text>3. Many banking transactions, including the issuance of many letters of credit, are now conducted mostly by electronic means. For example, S.W.I.F.T. is currently used to transmit letters of credit from issuing to advising banks. The letter of credit text so transmitted may be printed at the advising bank, stamped "original" and provided to the beneficiary in that form. The printed document may then be used as a way of controlling and recording payments and of recording and authorizing assignments of proceeds or transfers of rights under the letter of credit. Nothing in this section should be construed to conflict with that practice.</text>
       <text>To be a record sufficient to serve as a letter of credit or other undertaking under this section, data must have a durability consistent with that function. Because consideration is not required for a binding letter of credit or similar undertaking (Section 5-105) yet those undertakings are to be strictly construed (Section 5-108), parties to a letter of credit transaction are especially dependent on the continued availability of the terms and conditions of the letter of credit or other undertaking. By declining to specify any particular medium in which the letter of credit must be established or communicated, Section 5-104 leaves room for future developments.</text>
-    </level>
-    <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28:5-104.</text>
-        <text>1973 Ed., § 28:5-104.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-238, see Historical and Statutory Notes following § 28:5-101.</text>
-      </level>
     </level>
   </level>
 </level>

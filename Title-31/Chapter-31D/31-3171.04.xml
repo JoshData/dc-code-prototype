@@ -18,11 +18,11 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>Have independent personnel authority to hire, retain, and terminate personnel as appropriate to perform the functions of the Authority consistent with Chapter 6 of Title 1, including establishing compensation and reimbursement consistent with the District's wage grade and non-wage grade schedules;</text>
+      <text>Have independent personnel authority to hire, retain, and terminate personnel as appropriate to perform the functions of the Authority consistent with Chapter 6 of Title 1 [§ l-601.01 et seq.], including establishing compensation and reimbursement consistent with the District's wage grade and non-wage grade schedules;</text>
     </level>
     <level>
       <num>(5)</num>
-      <text>Have procurement authority independent of the Office of Contracting and Procurement, consistent with Chapter 3A of Title 2; except, that § 2- 352.02(a), (b), (c), and (e) shall apply.</text>
+      <text>Have procurement authority independent of the Office of Contracting and Procurement, consistent with Chapter 3A of Title 2 [§ 2-352.01 et seq.]; except, that § 2-352.02(a), (b), (c), and (e) shall apply.</text>
     </level>
     <level>
       <num>(6)</num>
@@ -249,18 +249,18 @@
     <num>(d)</num>
     <text>The operations of the Authority are subject to the provisions of this chapter whether the operations are performed directly by the Authority or through an entity under a contract with the Authority.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 2, 2012, D.C. Law 19-94, § 5, 59 DCR 213.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-94, see notes under § 31-3171.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-3171.01 and § 31-3171.09.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-94</heading>
+      <text>For history of Law 19-94, see notes under § 31-3171.01.</text>
     </level>
   </level>
 </level>

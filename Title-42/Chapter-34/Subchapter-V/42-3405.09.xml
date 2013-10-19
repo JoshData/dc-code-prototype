@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-3405.09</num>
   <heading>Judicial review.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-1659</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>After the issuance of a final decision and order pursuant to this chapter, and within 15 days after the Mayor has notified the parties of the final decision and order, any party to such proceeding may seek judicial review of such decision and order by filing a petition for review in the District of Columbia Court of Appeals.</text>
@@ -10,23 +9,22 @@
     <num>(b)</num>
     <text>Proceedings for judicial review of Mayoral actions shall be subject to and be in accordance with § 2-510.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 10, 1980, D.C. Law 3-86, § 509, 27 DCR 2975; Aug. 1, 1981, D.C. Law 4-27, § 2(i), 28 DCR 2824.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-1659.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-86, see Historical and Statutory Notes following § 42-3401.01.</text>
-        <text>For legislative history of D.C. Law 4-27, see Historical and Statutory Notes following § 42-3402.03.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-1659.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-86</heading>
+      <text>For legislative history of D.C. Law 3-86, see Historical and Statutory Notes following § 42-3401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-27</heading>
+      <text>For legislative history of D.C. Law 4-27, see Historical and Statutory Notes following § 42-3402.03.</text>
     </level>
   </level>
 </level>

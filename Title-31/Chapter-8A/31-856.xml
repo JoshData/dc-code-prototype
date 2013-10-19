@@ -11,42 +11,36 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>The court, after an in camera review, may require disclosure of material for which the privilege is asserted in accordance with § 31-854 or § 31- 855. The court shall compel only the disclosure of those portions of an insurance compliance self-evaluative audit document relevant to issues in dispute in the underlying proceeding. A compelled disclosure shall not be considered to be a public document or be deemed to be a waiver of the privilege for any other civil, criminal, or administrative proceeding. A company unsuccessfully opposing disclosure may apply to the court for an order protecting the document from further disclosure.</text>
+    <text>The court, after an in camera review, may require disclosure of material for which the privilege is asserted in accordance with § 31-854 or § 31-855. The court shall compel only the disclosure of those portions of an insurance compliance self-evaluative audit document relevant to issues in dispute in the underlying proceeding. A compelled disclosure shall not be considered to be a public document or be deemed to be a waiver of the privilege for any other civil, criminal, or administrative proceeding. A company unsuccessfully opposing disclosure may apply to the court for an order protecting the document from further disclosure.</text>
   </level>
   <level>
     <num>(d)</num>
     <text>A company asserting the privilege in response to a request for disclosure under this section shall provide to the Commissioner, Corporation Counsel, or U.S. Attorney, as the case may be, at the time of filing any objection to the disclosure that:</text>
     <level>
-      <level>
-        <num>(A)</num>
-        <text>The date and time that the insurance compliance self-evaluative audit document was prepared;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The identity of the entity conducting the audit;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The general nature of the activities covered by the insurance compliance audit; and</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>An identification of the portions of the insurance compliance self evaluative audit document for which the privilege is being asserted.</text>
-      </level>
+      <num>(A)</num>
+      <text>The date and time that the insurance compliance self-evaluative audit document was prepared;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The identity of the entity conducting the audit;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The general nature of the activities covered by the insurance compliance audit; and</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>An identification of the portions of the insurance compliance self evaluative audit document for which the privilege is being asserted.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 11, 2003, D.C. Law 14-293, § 7, 50 DCR 296.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-293, see notes following § 31-851.</text>
-      </level>
+      <heading>Legislative History of Law 14-293</heading>
+      <text>For Law 14-293, see notes following § 31-851.</text>
     </level>
   </level>
 </level>

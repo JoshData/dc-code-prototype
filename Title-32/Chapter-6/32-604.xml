@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-604</num>
   <heading>Findings and recommendations of consultant.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-1104</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>In order to carry out the purposes of this chapter, the Department of Administrative Services shall provide, by contract with the consultant selected under § 32-603, for the conduct of a study and the preparation of a report by the consultant:</text>
@@ -38,22 +37,22 @@
     <num>(c)</num>
     <text>The information exchanged at the meetings held under subsection (b)(1) of this section shall be considered confidential until the final report is submitted pursuant to § 32-607.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 24, 1987, D.C. Law 6-162, § 5, 33 DCR 6684.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-1104.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-162, see Historical and Statutory Notes following § 32-601.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-607.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-1104.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-162</heading>
+      <text>For legislative history of D.C. Law 6-162, see Historical and Statutory Notes following § 32-601.</text>
     </level>
   </level>
 </level>

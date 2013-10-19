@@ -49,18 +49,14 @@
       <text>Training requirements for persons staffing the single reporting line.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 23, 1977, D.C. Law 2-22, title III, § 303b, as added Apr. 12, 2005, D.C. Law 15-341, § 2(k), 52 DCR 2315.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-341, see notes following § 4-1301.02.</text>
-      </level>
+      <heading>Legislative History of Law 15-341</heading>
+      <text>For Law 15-341, see notes following § 4-1301.02.</text>
     </level>
   </level>
 </level>

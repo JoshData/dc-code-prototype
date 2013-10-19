@@ -29,18 +29,14 @@
     <num>(e)</num>
     <text>The standby guardian shall file with the Court, as soon as practicable but no later than 90 days following a designator's death, a copy of the certificate of death. The standby guardian's failure to file within the 90-day period shall be grounds for the Court to rescind the authority of the standby guardian sua sponte. All acts undertaken by the standby guardian on behalf of and in the interest of the child before the Court's rescission shall be valid and enforceable.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 25, 2002, D.C. Law 14-152, § 2, 49 DCR 4248.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-152, see notes following § 16-4801.</text>
-      </level>
+      <heading>Legislative History of Law 14-152</heading>
+      <text>For Law 14-152, see notes following § 16-4801.</text>
     </level>
   </level>
 </level>

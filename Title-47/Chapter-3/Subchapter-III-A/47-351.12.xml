@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-351.12</num>
   <heading>Public disclosure.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-351.12</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as provided in subsection (b) of this section, all information submitted by a financial institution to the Mayor, or the CFO pursuant to § 47-351.02(c), shall be available for public inspection and reproduction during regular business hours.</text>
@@ -14,26 +13,22 @@
     <num>(c)</num>
     <text>A breach of confidentiality shall be subject to the penalties set forth in § 47-351.15.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 18, 1998, D.C. Law 12-56, § 2(c), 44 DCR 6933.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-351.12.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>See Historical and Statutory Notes following § 47-351.01.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-56, see Historical and Statutory Notes following § 47-351.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-351.12.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>See Historical and Statutory Notes following § 47-351.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-56</heading>
+      <text>For legislative history of D.C. Law 12-56, see Historical and Statutory Notes following § 47-351.01.</text>
     </level>
   </level>
 </level>

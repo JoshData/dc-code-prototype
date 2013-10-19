@@ -1,37 +1,44 @@
 <level type="section">
   <num>29-608.06</num>
   <heading>Partner's liability to other partners after dissolution.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-158.6</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-108.06</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>Except as otherwise provided in subsection (b) of this section and § 29- 603.06, after dissolution, a partner shall be liable to the other partners for the partner's share of any partnership liability incurred under § 29-608.04.</text>
+    <text>Except as otherwise provided in subsection (b) of this section and § 29-603.06, after dissolution, a partner shall be liable to the other partners for the partner's share of any partnership liability incurred under § 29-608.04.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>A partner that, with knowledge of the dissolution, incurs a partnership liability under § 29-608.04(2) by an act that is not appropriate for winding up the partnership business shall be liable to the partnership for any damage caused to the partnership arising from the liability.</text>
+    <text>A partner that, with knowledge of the dissolution, incurs a partnership liability under § 29-608.04(2) by an act that is not appropriate for winding up the partnership activities and affairs shall be liable to the partnership for any damage caused to the partnership arising from the liability.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(f)(8)(G), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 41-158.6.</text>
-        <text>2001 Ed., § 33-108.06.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 806 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-608.09 and § 29-608.11.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 41-158.6.</text>
+      <text>2001 Ed., § 33-108.06.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "activities and affairs" for "business" in (b).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-601.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 806 of the Uniform Partnership Act (1997 Act).</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

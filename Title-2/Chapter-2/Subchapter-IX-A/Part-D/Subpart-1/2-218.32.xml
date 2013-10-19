@@ -23,7 +23,7 @@
       <num>(3)</num>
       <level>
         <num>(A)</num>
-        <text>Is certified by the United States Small Business Administration as a small business concern under the Small Business Act, approved July 18, 1958 (72 Stat. 863; 15 U.S.C. § 631 <text i="True">et seq.</text>); or</text>
+        <text>Is certified by the United States Small Business Administration as a small business concern under the Small Business Act, approved July 18, 1958 (72 Stat. 863; 15 U.S.C. § 631 et seq.); or</text>
       </level>
       <level>
         <num>(B)</num>
@@ -31,45 +31,20 @@
       </level>
     </level>
   </level>
-  <text>
-    <text font="'monospace'"> Construction, Heavy (Street and Highways, Bridges, etc.) $ 23 million </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Construction, Building (General Construction, etc.) $ 21 million </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Construction, Specialty Trades $ 13 million </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Goods and Equipment $ 20 million </text>
-  </text>
-  <text>
-    <text font="'monospace'"> General Services $ 19 million </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Professional Services, Personal Services (Hotel, Beauty, $ 5 million </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Laundry, etc.) </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Professional Services, Business Services $ 10 million </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Professional Services, Health and Legal Services $ 10 million </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Professional Services, Health Facilities Management $ 19 million </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Manufacturing Services $ 10 million </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Transportation and Hauling Services $ 13 million </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Financial Institutions $ 300 million.</text>
-  </text>
+  <text>Construction, Heavy (Street and Highways,</text>
+  <text>Bridges, etc.) 	$23 million</text>
+  <text>Construction, Building (General Construction, etc.) 	$21 million</text>
+  <text>Construction, Specialty Trades 	$13 million 
+Goods and Equipment 	$20 million</text>
+  <text>General Services 	$19 million 
+Professional Services, Personal Services (Hotel, Beauty,</text>
+  <text>Laundry, etc.) 	$5 million</text>
+  <text>Professional Services, Business Services 	$10 million 
+Professional Services, Health and Legal Services 	$10 million</text>
+  <text>Professional Services, Health Facilities Management 	$19 million</text>
+  <text>Manufacturing Services 	$10 million</text>
+  <text>Transportation and Hauling Services 	$13 million</text>
+  <text>Financial Institutions 	$300 million.</text>
   <level>
     <num>(b)</num>
     <text>A business enterprise that is affiliated with another business enterprise through common ownership, management, or control shall be eligible for certification as a small business enterprise if:</text>
@@ -90,31 +65,33 @@
     <num>(c)</num>
     <text>If a business enterprise seeking certification as a small business enterprise is affiliated only with one or more business enterprises that are in a different line of business, subsection (b) of this section shall not apply, and the business enterprise shall be eligible for certification as a small business enterprise if it meets the requirements of subsection (a) of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 20, 2005, D.C. Law 16-33, § 2332, 52 DCR 7503; Mar. 2, 2007, D.C. Law 16-192, § 2132(b), 53 DCR 6899.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-192 repealed subsec. (a)(1)(B); and, in subsec. (b)(1), deleted "or a qualified metropolitan area business enterprise" following "local business enterprise". Prior to repeal, subsec. (a)(1)(B) read as follows:</text>
-        <text>"(B) Is a qualified metropolitan area business enterprise;"</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 2332 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
-        <text>For temporary (90 day) amendment of section, see § 2132(b) of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006, 53 DCR 7068).</text>
-        <text>For temporary (90 day) amendment of section, see § 2132(b) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006, 53 DCR 8845).</text>
-        <text>For temporary (90 day) amendment of section, see § 2132(b) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007, 54 DCR 1165).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-33, see notes following § 2-218.01.</text>
-        <text>For Law 16-192, see notes following § 2-218.31.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-218.02 and § 2-218.38.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-192 repealed subsec. (a)(1)(B); and, in subsec. (b)(1), deleted "or a qualified metropolitan area business enterprise" following "local business enterprise". Prior to repeal, subsec. (a)(1)(B) read as follows: "(B) Is a qualified metropolitan area business enterprise;"</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 2332 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+      <text>For temporary (90 day) amendment of section, see § 2132(b) of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006, 53 DCR 7068).</text>
+      <text>For temporary (90 day) amendment of section, see § 2132(b) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006, 53 DCR 8845).</text>
+      <text>For temporary (90 day) amendment of section, see § 2132(b) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007, 54 DCR 1165).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-33</heading>
+      <text>For Law 16-33, see notes following § 2-218.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-192</heading>
+      <text>For Law 16-192, see notes following § 2-218.31.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>7</num>
-  <heading>Uniform Support. [Repealed]</heading>
+  <heading>Uniform Support</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-701~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-702~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-703~P.xml"/>
@@ -12,13 +12,13 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-708~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-709~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-710~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-711.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-712.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-711~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-712~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-713~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-714~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-715~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-716.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-717.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-716~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-717~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-718~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-719~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-720~P.xml"/>

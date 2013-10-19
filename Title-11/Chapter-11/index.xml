@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>11</num>
-  <heading>Family Court of the Superior Court.</heading>
-  <level>
-    <text>DC CODE D. II, T. 11, Ch. 11, Refs &amp; Annos</text>
-  </level>
+  <heading>Family Court of the Superior Court</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1103.xml"/>

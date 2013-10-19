@@ -61,18 +61,14 @@
     <num>(h)</num>
     <text>The Mayor shall submit an annual public report to the Council identifying the total amount of money collected the previous year pursuant to the post-and-forfeit procedure and the number of criminal charges, by specific charge, resolved the previous year using the post-and-forfeit procedure. The data shall be reported separately for instances in which the post-and-forfeit procedure is independently used by the MPD (without the approval, on a case-by-case basis, of either the Office of the Attorney General or the Superior Court of the District of Columbia), and for all other instances in which the post-and-forfeit procedure is used. The report also shall identify the fund or funds in which the post-and-forfeit moneys were placed.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 13, 2005, D.C. Law 15-352, § 302, 52 DCR 2296.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-352, see notes following § 5-331.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-352</heading>
+      <text>For Law 15-352, see notes following § 5-331.01.</text>
     </level>
   </level>
 </level>

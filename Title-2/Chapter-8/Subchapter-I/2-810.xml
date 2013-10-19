@@ -1,16 +1,16 @@
 <level type="section">
   <num>2-810</num>
   <heading>Authorization of appropriations.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-1060</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Authorization.</text> -- Necessary amounts are authorized to be appropriated --</text>
+    <heading>Authorization</heading>
+    <text>Necessary amounts are authorized to be appropriated -</text>
     <level>
       <num>(1)</num>
       <text>To enable the Mayor of the District of Columbia to provide additional municipal services in the District of Columbia during the inaugural period, including:</text>
       <level>
         <num>(A)</num>
-        <text>Employment of personal services without regard to Chapters 33 and 51 and subchapter III of Chapter 58 of Title 5;</text>
+        <text>Employment of personal services without regard to Chapters 33 and 51 and subchapter III of Chapter 58 of Title 5 [of the U.S. Code];</text>
       </level>
       <level>
         <num>(B)</num>
@@ -40,7 +40,8 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Payment.</text> -- Amounts appropriated under:</text>
+    <heading>Payment</heading>
+    <text>Amounts appropriated under:</text>
     <level>
       <num>(1)</num>
       <text>Subsection (a)(1) of this section are payable in the same way as other appropriations for the expenses of the District of Columbia; and</text>
@@ -50,22 +51,18 @@
       <text>Subsection (a)(2) of this section are payable in the same way as other appropriations for the expenses of the Department of the Interior.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 12, 1998, 112 Stat. 1265, Pub. L. 105-225, § 510.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-1060.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>"Chapters 33 and 51 and subchapter III of Chapter 58 of Title 5," referred to in (a)(1)(A), are references to Title 5 of the U.S. Code.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-1060.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>"Chapters 33 and 51 and subchapter III of Chapter 58 of Title 5," referred to in (a)(1)(A), are references to Title 5 of the U.S. Code.</text>
     </level>
   </level>
 </level>

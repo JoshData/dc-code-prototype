@@ -1,71 +1,77 @@
 <level type="section">
   <num>47-1811.04</num>
-  <heading>Bases--Determination of depreciation deduction.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-1811.4</formerly-cited-as>
+  <heading>Bases - Determination of depreciation deduction.</heading>
   <text>The basis used in determining the amount allowable as a deduction from gross income under the provisions of § 47-1803.03(a)(7) and (b-3) shall be the same basis as that provided for determining the gain from the sale or other disposition of property for federal income tax purposes under the Internal Revenue Code of 1986; provided, that no adjustment shall be made for:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The amount of the special depreciation allowance under section 168(k) of the Internal Revenue Code of 1986; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The amount of the cost of property elected to be treated as chargeable to capital account under section 179 of the Internal Revenue Code of 1986 in excess of the lesser of $25,000 ($40,000 in the case of a Qualified High Technology Company) or the actual cost of such property.</text>
-    </level>
+    <num>(1)</num>
+    <text>The amount of the special depreciation allowance under section 168(k) of the Internal Revenue Code of 1986 [26 U.S.C. § 168(k)]; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The amount of the cost of property elected to be treated as chargeable to capital account under section 179 of the Internal Revenue Code of 1986 [26 U.S.C. § 179] in excess of the lesser of $25,000 ($40,000 in the case of a Qualified High Technology Company) or the actual cost of such property.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 16, 1947, 61 Stat. 351, ch. 258, art. I, title XI, § 6; Oct. 31, 1969, 83 Stat. 177, Pub. L. 91-106, title VI, § 601(c)(4); June 24, 1987, D.C. Law 7-9, § 2(m), 34 DCR 3283; Oct. 1, 1987, D.C. Law 7-29, § 2(k)(3), 34 DCR 5097; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Oct. 1, 2002, D.C. Law 14-190, § 832(b), 49 DCR 6968; Aug. 16, 2008, D.C. Law 17-219, § 7107(b), 55 DCR 7598.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-1811.4.</text>
-        <text>1973 Ed., § 47-1583e.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-190 rewrote the section which had read as follows:</text>
-        <text>"The basis used in determining the amount allowable as a deduction from gross income under the provisions of § 47-1803.03(a)(7) shall be the same basis as that provided for determining the gain from the sale or other disposition of property for federal income tax purposes under the Internal Revenue Code of 1986."</text>
-        <text>D.C. Law 17-219 rewrote the section, which had read as follows:</text>
-        <text>"The basis used in determining the amount allowable as a deduction from gross income under the provisions of § 47-1803.03(a)(7) shall be the same basis as that provided for determining the gain from the sale or other disposition of property for federal income tax purposes under the Internal Revenue Code of 1986; provided, that no adjustment shall be made for the amount of the special depreciation allowance for property acquired after September 10, 2001 and before September 11, 2004 and subject to special rules pursuant to section 168(k) of the Internal Revenue Code of 1986."</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2(b) of Bonus Depreciation De-Coupling From the Internal Revenue Code Temporary Act of 2002 (D.C. Law 14- 175, July 23, 2002, law notification 49 DCR 8269).</text>
-        <text>For temporary (225 day) amendment of section, see § 2(b) of Depreciation Allowance for Small Business De-Coupling From the Internal Revenue Code Temporary Act of 2004 (D.C. Law 15-160, May 18, 2004, law notification 51 DCR 5700).</text>
-        <text>Section 2(b) of D.C. Law 15-322 amended the section to read as follows:</text>
-        <text>"The basis used in determining the amount allowable as a deduction from gross income under the provisions of § 47-1803.03(a)(7) shall be the same basis as that provided for determining the gain from the sale or other disposition of property for federal income tax purposes under the Internal Revenue Code of 1986; provided, that no adjustment shall be made for the amount of the special depreciation allowance for property acquired after September 10, 2001 and before September 30, 2005 and subject to special rules pursuant to section 168(k) of the Internal Revenue Code of 1986. No deduction shall be allowed for the increased expensing for small businesses and subject to the special rules pursuant to section 179 of the Internal Revenue Code of 1986. No expensing of computer software shall be allowed. No increase shall be allowed in Qualifying investments at which phaseout begins."</text>
-        <text>Section 4(b) of D.C. Law 15-322 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Bonus Depreciation De-coupling from the Internal Revenue Code Emergency Act of 2002 (D.C. Act 14- 341, April 24, 2002, 49 DCR 4291).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Depreciation Allowance for Small Business De-Coupling from the Internal Revenue Code Emergency Amendment Act of 2004 (D.C. Act 15-379, February 27, 2004, 51 DCR 2645).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Depreciation Allowance for Small Business De-Coupling from the Internal Revenue Code Second Emergency Act of 2004 (D.C. Act 15-644, December 29, 2004, 52 DCR 229).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Depreciation Allowance for Small Business De-Coupling for the Internal Revenue Code Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-59, March 17, 2005, 52 DCR 3193).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Depreciation Allowance for Small Business De-Coupling from the Internal Revenue Code Emergency Act of 2005 (D.C. Act 16-240, December 22, 2005, 53 DCR 260).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Depreciation Allowance for Small Business De-Coupling from the Internal Revenue Code Emergency Act of 2005 (D.C. Act 16-240, December 22, 2005, 53 DCR 260).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-9, see Historical and Statutory Notes following § 47-1801.04.</text>
-        <text>For legislative history of D.C. Law 7-29, see Historical and Statutory Notes following § 47-1801.01a.</text>
-        <text>For Law 14-190, see notes following § 47-308.01.</text>
-        <text>For Law 15-322, see notes following § 47-1803.03.</text>
-        <text>For Law 17-219, see notes following § 47-318.05a.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>Section 168(k) of the Internal Revenue Code of 1986, referred to in the section is codified as 26 U.S.C. § 168(k).</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 7108 of D.C. Law 17-219 provides that this subtitle shall apply for taxable years beginning after December 31, 2007.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-1803.03.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-1811.4.</text>
+      <text>1973 Ed., § 47-1583e.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-190 rewrote the section which had read as follows: "The basis used in determining the amount allowable as a deduction from gross income under the provisions of § 47-1803.03(a)(7) shall be the same basis as that provided for determining the gain from the sale or other disposition of property for federal income tax purposes under the Internal Revenue Code of 1986."</text>
+      <text>D.C. Law 17-219 rewrote the section, which had read as follows: "The basis used in determining the amount allowable as a deduction from gross income under the provisions of § 47-1803.03(a)(7) shall be the same basis as that provided for determining the gain from the sale or other disposition of property for federal income tax purposes under the Internal Revenue Code of 1986; provided, that no adjustment shall be made for the amount of the special depreciation allowance for property acquired after September 10, 2001 and before September 11, 2004 and subject to special rules pursuant to section 168(k) of the Internal Revenue Code of 1986."</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2(b) of Bonus Depreciation De-Coupling From the Internal Revenue Code Temporary Act of 2002 (D.C. Law 14-175, July 23, 2002, law notification 49 DCR 8269).</text>
+      <text>For temporary (225 day) amendment of section, see § 2(b) of Depreciation Allowance for Small Business De-Coupling From the Internal Revenue Code Temporary Act of 2004 (D.C. Law 15-160, May 18, 2004, law notification 51 DCR 5700).</text>
+      <text>Section 2(b) of D.C. Law 15-322 amended the section to read as follows: "The basis used in determining the amount allowable as a deduction from gross income under the provisions of § 47-1803.03(a)(7) shall be the same basis as that provided for determining the gain from the sale or other disposition of property for federal income tax purposes under the Internal Revenue Code of 1986; provided, that no adjustment shall be made for the amount of the special depreciation allowance for property acquired after September 10, 2001 and before September 30, 2005 and subject to special rules pursuant to section 168(k) of the Internal Revenue Code of 1986. No deduction shall be allowed for the increased expensing for small businesses and subject to the special rules pursuant to section 179 of the Internal Revenue Code of 1986. No expensing of computer software shall be allowed. No increase shall be allowed in Qualifying investments at which phaseout begins."</text>
+      <text>Section 4(b) of D.C. Law 15-322 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Bonus Depreciation De-coupling from the Internal Revenue Code Emergency Act of 2002 (D.C. Act 14-341, April 24, 2002, 49 DCR 4291).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Depreciation Allowance for Small Business De-Coupling from the Internal Revenue Code Emergency Amendment Act of 2004 (D.C. Act 15-379, February 27, 2004, 51 DCR 2645).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Depreciation Allowance for Small Business De-Coupling from the Internal Revenue Code Second Emergency Act of 2004 (D.C. Act 15-644, December 29, 2004, 52 DCR 229).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Depreciation Allowance for Small Business De-Coupling for the Internal Revenue Code Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-59, March 17, 2005, 52 DCR 3193).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Depreciation Allowance for Small Business De-Coupling from the Internal Revenue Code Emergency Act of 2005 (D.C. Act 16-240, December 22, 2005, 53 DCR 260).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Depreciation Allowance for Small Business De-Coupling from the Internal Revenue Code Emergency Act of 2005 (D.C. Act 16-240, December 22, 2005, 53 DCR 260).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-9</heading>
+      <text>For legislative history of D.C. Law 7-9, see Historical and Statutory Notes following § 47-1801.04.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-29</heading>
+      <text>For legislative history of D.C. Law 7-29, see Historical and Statutory Notes following § 47-1801.01a.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-190</heading>
+      <text>For Law 14-190, see notes following § 47-308.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-322</heading>
+      <text>For Law 15-322, see notes following § 47-1803.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-219</heading>
+      <text>For Law 17-219, see notes following § 47-318.05a.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>Section 168(k) of the Internal Revenue Code of 1986, referred to in the section is codified as 26 U.S.C. § 168(k).</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 7108 of D.C. Law 17-219 provided that this subtitle shall apply for taxable years beginning after December 31, 2007.</text>
     </level>
   </level>
 </level>

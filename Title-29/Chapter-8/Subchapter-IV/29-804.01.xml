@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>If a limited liability company is to have more than one member upon formation, those persons shall become members as agreed by the persons before the formation of the company. The organizer act on behalf of the persons in forming the company and may be, but need not be, one of the persons.</text>
+    <text>If a limited liability company is to have more than one member upon formation, those persons shall become members as agreed by the persons before the formation of the company. The organizer [sic] act on behalf of the persons in forming the company and may be, but need not be, one of the persons.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -26,37 +26,38 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>If, within 90 consecutive days after the company ceases to have any members:</text>
-      <level>
-        <num>(A)</num>
-        <text>The last person to have been a member, or the legal representative of that person, designates a person to become a member; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The designated person consents to become a member.</text>
-      </level>
+      <text>As provided in § 29-807.01(a)(3).</text>
     </level>
   </level>
   <level>
     <num>(d)</num>
     <text>A person may become a member without acquiring a transferable interest and without making or being obligated to make a contribution to the limited liability company.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(h)(5)(A), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 401 of the Uniform Limited Company Act (2006 Act). See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-801.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 rewrote (c)(4).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-801.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 401 of the Uniform Limited Company Act (2006 Act).</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

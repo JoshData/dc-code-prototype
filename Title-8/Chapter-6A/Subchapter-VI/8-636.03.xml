@@ -3,39 +3,33 @@
   <heading>Timing of review.</heading>
   <text>A court shall not review a challenge to a response action chosen by the Mayor or to review any order issued by the Mayor, pursuant to § 8-634.01, except in the following circumstances:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>An action pursuant to § 8-634.01(a)(4);</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>An action for reimbursement pursuant to § 8-634.02;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>An action pursuant to § 8-634.07(1), (2), (4), and (5);</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>An action for contribution pursuant to § 8-634.09; and</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>An action pursuant to § 8-636.02(b).</text>
-    </level>
+    <num>(1)</num>
+    <text>An action pursuant to § 8-634.01(a)(4);</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>An action for reimbursement pursuant to § 8-634.02;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>An action pursuant to § 8-634.07(1), (2), (4), and (5);</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>An action for contribution pursuant to § 8-634.09; and</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>An action pursuant to § 8-636.02(b).</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 13, 2001, D.C. Law 13-312, § 603, as added Apr. 8, 2011, D.C. Law 18-369, § 2(m), 58 DCR 996.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-369, see notes under § 8-631.02.</text>
-      </level>
+      <heading>Legislative History of Law 18-369</heading>
+      <text>For history of Law 18-369, see notes under § 8-631.02.</text>
     </level>
   </level>
 </level>

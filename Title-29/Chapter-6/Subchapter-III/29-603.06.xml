@@ -1,41 +1,56 @@
 <level type="section">
   <num>29-603.06</num>
   <heading>Partner's liability.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-153.6</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-103.06</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>Except as otherwise provided in subsections (b) and (c) of this section, all partners shall be liable jointly and severally for all obligations of the partnership unless otherwise agreed by the claimant or provided by law.</text>
+    <text>Except as otherwise provided in subsections (b) and (c) of this section, all partners shall be liable jointly and severally for all debts, obligations, or other liabilities of the partnership unless otherwise agreed by the claimant or provided by law.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>A person admitted as a partner into an existing partnership shall not be personally liable for any partnership obligation incurred before the person's admission as a partner.</text>
+    <text>A person admitted as a partner into an existing partnership shall not be personally liable for any partnership debt, obligation, or other liability incurred before the person's admission as a partner.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text>An obligation of a partnership incurred while the partnership is a limited liability partnership, whether arising in contract, tort, or otherwise, shall be solely the obligation of the partnership. A partner shall not be personally liable, directly or indirectly, by way of contribution or otherwise, for such an obligation solely by reason of being or so acting as a partner. This subsection shall apply notwithstanding anything inconsistent in the partnership agreement that existed immediately before the vote required to become a limited liability partnership under § 29-610.01(b).</text>
+    <text>An obligation of a partnership incurred while the partnership is a limited liability partnership, whether arising in contract, tort, or otherwise, shall be solely the debt, obligation, or other liability of the partnership. A partner shall not be personally liable, directly or indirectly, by way of contribution or otherwise, for such a debt, obligation, or other liability solely by reason of being or so acting as a partner. This subsection shall apply notwithstanding anything inconsistent in the partnership agreement that existed immediately before the vote required to become a limited liability partnership under § 29-610.01(b).</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(d)</num>
+    <text>The failure of a limited liability partnership to observe any formalities relating to the exercise of its powers or management of its business is not a ground for imposing liability on any partner of the partnership for any debt, obligation, or other liability of the partnership.</text>
+  </level>
+  <level>
+    <num>(e)</num>
+    <text>The cancellation or administrative revocation of a limited liability partnership's statement of qualification does not affect this section's limitation on the liability of a partner for a debt, obligation, or other liability of the partnership incurred while the statement was in effect.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(f)(3)(C), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 33-103.06.</text>
-        <text>1981 Ed., § 41-153.6.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 306 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-601.02, § 29-603.07, § 29-607.03, § 29-608.06, § 29-608.07, § 29-608.08, § 29-608.09, § 29-608.11, and § 29-609.03.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 33-103.06.</text>
+      <text>1981 Ed., § 41-153.6.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "debt, obligation, or other liability" or a variant thereof for "obligation" or a variant thereof in (a), (b), and (c); and added (d) and (e).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-601.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 306 of the Uniform Partnership Act (1997 Act).</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

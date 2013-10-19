@@ -1,7 +1,6 @@
 <level type="section">
   <num>44-1002.07</num>
   <heading>Termination of receivership.</heading>
-  <formerly-cited-as>DC ST 1981 § 32-1417</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as provided in subsection (b) of this section, a receivership shall terminate when:</text>
@@ -26,10 +25,10 @@
     <num>(b)</num>
     <level>
       <num>(1)</num>
-      <text>Notwithstanding subsection (a) of this section, a receivership of a private facility shall not be terminated in favor of any person who was the licensee or administrator at the time a petition was filed under § 44- 1002.03, or, in the discretion of the court, any person who is or was an affiliate of the licensee or administrator, unless he or she first:</text>
+      <text>Notwithstanding subsection (a) of this section, a receivership of a private facility shall not be terminated in favor of any person who was the licensee or administrator at the time a petition was filed under § 44-1002.03, or, in the discretion of the court, any person who is or was an affiliate of the licensee or administrator, unless he or she first:</text>
       <level>
         <num>(A)</num>
-        <text>Reimburses the District government for any increase in Medicaid expenditures needed to finance the receiver's bond premium under § 44- 1002.05(c)(2), to pay the receiver's fee under § 44-1002.06(h), or to correct deficiencies caused by the licensee's or administrator's own negligence; and</text>
+        <text>Reimburses the District government for any increase in Medicaid expenditures needed to finance the receiver's bond premium under § 44-1002.05(c)(2), to pay the receiver's fee under § 44-1002.06(h), or to correct deficiencies caused by the licensee's or administrator's own negligence; and</text>
       </level>
       <level>
         <num>(B)</num>
@@ -45,22 +44,22 @@
     <num>(c)</num>
     <text>Should it appear that, within 2 years after a receivership is terminated in favor of a person specified in subsection (b)(1) of this section, that person is not maintaining the facility in substantial compliance with all applicable laws, and should the court so find after granting notice and a hearing to all parties to the earlier receivership proceeding, the previous order appointing a receiver may be reinstated. A receiver thus reappointed may use all or part of any bond posted pursuant to subsection (b)(2) of this section to remedy the deficiencies.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 18, 1986, D.C. Law 6-108, § 207, 33 DCR 1510.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-1417.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-108, see Historical and Statutory Notes following § 44-1001.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 44-1002.10.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-1417.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-108</heading>
+      <text>For legislative history of D.C. Law 6-108, see Historical and Statutory Notes following § 44-1001.01.</text>
     </level>
   </level>
 </level>

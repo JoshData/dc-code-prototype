@@ -1,7 +1,6 @@
 <level type="section">
   <num>15-705</num>
   <heading>Exemption of District of Columbia and United States from fees, costs, and bonds.</heading>
-  <formerly-cited-as>DC ST 1981 § 15-705</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The District of Columbia or any officer thereof acting therefor may not be required to pay court costs or fees in any court in and for the District of Columbia.</text>
@@ -18,19 +17,15 @@
     <num>(d)</num>
     <text>Neither the United States nor the District of Columbia, nor any officer of either acting in his official capacity, may be required to give bond or enter into undertaking to perfect an appeal or to obtain an injunction or other writ, process, or order in or of any court in the District of Columbia for which a bond or undertaking is required by law or rule of court.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, 77 Stat. 532, Pub. L. 88-241, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 15-705.</text>
-        <text>1973 Ed., § 15-705.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 15-705.</text>
+      <text>1973 Ed., § 15-705.</text>
     </level>
   </level>
 </level>

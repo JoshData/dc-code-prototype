@@ -1,7 +1,6 @@
 <level type="section">
   <num>41-135</num>
   <heading>Interest and penalties.</heading>
-  <formerly-cited-as>DC ST 1981 § 42-235</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any person who fails to pay or deliver property within the time prescribed by this chapter shall be required to pay interest at the rate of 1 1/2% per month or fraction of a month on the property or value of the property from the date the property should have been paid or delivered.</text>
@@ -26,38 +25,47 @@
     <num>(f)</num>
     <text>A holder who fails to exercise due diligence as provided in § 41-117 will be assessed a $10 penalty per item.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 5, 1981, D.C. Law 3-160, § 135, 27 DCR 5150; Sept. 29, 1992, D.C. Law 9-161, § 2(s), 39 DCR 5696; Mar. 20, 1998, D.C. Law 12-60, § 1701(q), 44 DCR 7378.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 42-235.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 1701(q) of D.C. Law 12-59 rewrote (b), (c), and (d); and added (f).</text>
-        <text>Section 2001(b) of D.C. Law 12-59 provided that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of section, see § 1701(q) of the Fiscal Year 1998 Revised Budget Support Emergency Act of 1997 (D.C. Act 12-152, October 17, 1997, 44 DCR 6196), and see § 1701(q) of the Fiscal Year 1998 Revised Budget Support Congressional Review Emergency Act of 1997 (D.C. Act 12-239, January 13, 1998, 45 DCR 508).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-160, see Historical and Statutory Notes following § 41-101.</text>
-        <text>For legislative history of D.C. Law 9-161, see Historical and Statutory Notes following § 41-103.</text>
-        <text>For legislative history of D.C. Law 12-59, see Historical and Statutory Notes following § 41-102.</text>
-        <text>For legislative history of D.C. Law 12-60, see Historical and Statutory Notes following § 41-102.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 34 of the Uniform Unclaimed Property Act (1981 Act). See 8B Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 41-130 and § 41-136.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 42-235.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 1701(q) of D.C. Law 12-59 rewrote (b), (c), and (d); and added (f).</text>
+      <text>Section 2001(b) of D.C. Law 12-59 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 1701(q) of the Fiscal Year 1998 Revised Budget Support Emergency Act of 1997 (D.C. Act 12-152, October 17, 1997, 44 DCR 6196), and see § 1701(q) of the Fiscal Year 1998 Revised Budget Support Congressional Review Emergency Act of 1997 (D.C. Act 12-239, January 13, 1998, 45 DCR 508).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-160</heading>
+      <text>For legislative history of D.C. Law 3-160, see Historical and Statutory Notes following § 41-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-161</heading>
+      <text>For legislative history of D.C. Law 9-161, see Historical and Statutory Notes following § 41-103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-59</heading>
+      <text>For legislative history of D.C. Law 12-59, see Historical and Statutory Notes following § 41-102.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-60</heading>
+      <text>For legislative history of D.C. Law 12-60, see Historical and Statutory Notes following § 41-102.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 34 of the Uniform Unclaimed Property Act (1981 Act).</text>
     </level>
   </level>
 </level>

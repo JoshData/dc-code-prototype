@@ -40,23 +40,22 @@
     <num>(d)</num>
     <text>The Attorney General of the District of Columbia may enforce the provisions of this chapter pursuant to authority granted in § 28-3909.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 11, 2008, D.C. Law 17-230, § 4, 55 DCR 8311; Mar. 25, 2009, D.C. Law 17-353, § 245(d), (e), (f), 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-353 validated previously made technical corrections in the section designation, subsecs. (a), (c), and (d).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-230, see notes following § 28-5001.</text>
-        <text>For Law 17-353, see notes following § 28-3151.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-353 validated previously made technical corrections in the section designation, subsecs. (a), (c), and (d).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-230</heading>
+      <text>For Law 17-230, see notes following § 28-5001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 28-3151.</text>
     </level>
   </level>
 </level>

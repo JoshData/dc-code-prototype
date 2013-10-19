@@ -1,15 +1,14 @@
 <level type="section">
   <num>50-602</num>
   <heading>Maximum finance charges; computation; proportionate adjustments; investigation of economic conditions to determine finance charges; regulations; classification of parties; waiver.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-1102</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Notwithstanding the provisions of any instrument of security, refinancing contract, or other instrument to the contrary, made or entered into on or after March 5, 1981, no person shall charge, contract for, receive, or collect a finance charge if such charge exceeds the larger of $25 or an amount determined under the following schedule:</text>
-    <text>Class 1. Any new domestic motor vehicle designated by the manufacturer by a year model not earlier than the year in which the sale is made and any new foreign motor vehicle -- 21.5% annual percentage rate.</text>
-    <text>Class 2. Any new domestic motor vehicle not in class 1 and any used domestic motor vehicle designated by the manufacturer by a year model of the same or not more than 2 years prior to the year in which the sale is made and any used foreign motor vehicle not more than 2 years old -- 23.5% annual percentage rate.</text>
-    <text>Class 3. Any used motor vehicle not in class 2, and, if a domestic motor vehicle, designated by the manufacturer by a year model not more than 4 years prior to the year in which the sale is made, and, if a foreign motor vehicle, not more than 4 years old -- 27% annual percentage rate.</text>
-    <text>Class 4. Any used motor vehicle not in class 2 or class 3 -- 28.33% annual percentage rate.</text>
   </level>
+  <text>Class 1. Any new domestic motor vehicle designated by the manufacturer by a year model not earlier than the year in which the sale is made and any new foreign motor vehicle - 21.5% annual percentage rate.</text>
+  <text>Class 2. Any new domestic motor vehicle not in class 1 and any used domestic motor vehicle designated by the manufacturer by a year model of the same or not more than 2 years prior to the year in which the sale is made and any used foreign motor vehicle not more than 2 years old - 23.5% annual percentage rate.</text>
+  <text>Class 3. Any used motor vehicle not in class 2, and, if a domestic motor vehicle, designated by the manufacturer by a year model not more than 4 years prior to the year in which the sale is made, and, if a foreign motor vehicle, not more than 4 years old - 27% annual percentage rate.</text>
+  <text>Class 4. Any used motor vehicle not in class 2 or class 3 - 28.33% annual percentage rate.</text>
   <level>
     <num>(b)</num>
     <text>The finance charge authorized by the preceding subsection shall be computed on the principal balance payable for a motor vehicle from the date of the instrument or contract until the maturity of the final installment, notwithstanding that the balance thereof is required to be paid in installments.</text>
@@ -113,33 +112,35 @@
       <text>To provide that any such waiver or purported waiver, shall be void and of no effect.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 22, 1960, 74 Stat. 69, Pub. L. 86-431, § 2; Sept. 16, 1980, D.C. Law 3-102, § 8, 27 DCR 3630; Mar. 5, 1981, D.C. Law 3-135, § 2, 27 DCR 4526; Mar. 31, 1982, D.C. Law 4-90, § 3, 29 DCR 666.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-1102.</text>
-        <text>1973 Ed., § 40-902.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 3-102 was introduced in Council and assigned Bill No. 3-283, which was referred to the Committee on Transportation and Environmental Affairs. The Bill was adopted on first and second readings on June 3, 1980 and June 17, 1980, respectively. Signed by the Mayor on July 16, 1980, it was assigned Act No. 3-224 and transmitted to both Houses of Congress for its review.</text>
-        <text>For legislative history of D.C. Law 3-135, see Historical and Statutory Notes following § 50-601.</text>
-        <text>Law 4-90 was introduced in Council and assigned Bill No. 4-17, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first and second readings on December 8, 1981, and January 12, 1982, respectively. Signed by the Mayor on February 4, 1982, it was assigned Act No. 4-148 and transmitted to both Houses of Congress for its review.</text>
-      </level>
-      <level>
-        <heading>Change in Government</heading>
-        <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(310 to 314) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Findings and purposes of Law 4-90: See § 2 of D.C. Law 4-90.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-1102.</text>
+      <text>1973 Ed., § 40-902.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-102</heading>
+      <text>Law 3-102 was introduced in Council and assigned Bill No. 3-283, which was referred to the Committee on Transportation and Environmental Affairs. The Bill was adopted on first and second readings on June 3, 1980 and June 17, 1980, respectively. Signed by the Mayor on July 16, 1980, it was assigned Act No. 3-224 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-135</heading>
+      <text>For legislative history of D.C. Law 3-135, see Historical and Statutory Notes following § 50-601.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-90</heading>
+      <text>Law 4-90 was introduced in Council and assigned Bill No. 4-17, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first and second readings on December 8, 1981, and January 12, 1982, respectively. Signed by the Mayor on February 4, 1982, it was assigned Act No. 4-148 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Findings and purposes of Law 4-90: See § 2 of D.C. Law 4-90.</text>
+    </level>
+    <level>
+      <heading>Change in Government</heading>
+      <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(310 to 314) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
     </level>
   </level>
 </level>

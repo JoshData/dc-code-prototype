@@ -1,21 +1,20 @@
 <level type="placeholder">
   <reason>Repealed</reason>
   <section>7-2071.13</section>
-  <heading>Inclusion in the budget and financial plan.</heading>
-  <level>
-    <type>annotations</type>
+  <heading>Contingent effectiveness of chapter.</heading>
+  <text>Repealed.</text>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 12, 2005, D.C. Law 15-331, § 14, 52 DCR 1981; Aug. 16, 2008, D.C. Law 17-219, § 7046, 55 DCR 7598.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-331, see notes following § 7-2071.01.</text>
-        <text>For Law 17-219, see notes following § 7-651.17.</text>
-        <text>DC CODE § 7-2071.13</text>
-      </level>
+      <heading>Legislative History of Law 15-331</heading>
+      <text>For Law 15-331, see notes following § 7-2071.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-219</heading>
+      <text>For Law 17-219, see notes following § 7-651.17.</text>
     </level>
   </level>
 </level>

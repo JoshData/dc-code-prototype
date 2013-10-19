@@ -3,31 +3,25 @@
   <heading>Appointment of Director.</heading>
   <text>The Department shall be headed by a Director, who shall:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Be appointed by the Mayor with the advice and consent of the Council, pursuant to § 1-523.01(a);</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Be qualified by experience and training to carry out the purposes of the Department as set forth in § 7-771.03; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Serve at the pleasure of the Mayor.</text>
-    </level>
+    <num>(1)</num>
+    <text>Be appointed by the Mayor with the advice and consent of the Council, pursuant to § 1-523.01(a);</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Be qualified by experience and training to carry out the purposes of the Department as set forth in § 7-771.03; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Serve at the pleasure of the Mayor.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 27, 2008, D.C. Law 17-109, § 5, 55 DCR 216.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-109, see notes following § 7-771.01.</text>
-      </level>
+      <heading>Legislative History of Law 17-109</heading>
+      <text>For Law 17-109, see notes following § 7-771.01.</text>
     </level>
   </level>
 </level>

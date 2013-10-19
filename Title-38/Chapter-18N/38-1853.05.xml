@@ -3,14 +3,16 @@
   <heading>Applications.</heading>
   <level>
     <num>(a)</num>
-    <text>IN GENERAL. -- In order to receive a grant under § 38-1853.04(a), an eligible entity shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require.</text>
+    <heading>In general</heading>
+    <text>In order to receive a grant under § 38-1853.04(a), an eligible entity shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>CONTENTS. -- The Secretary may not approve the request of an eligible entity for a grant under § 38-1853.04(a) unless the entity's application includes--</text>
+    <heading>Contents</heading>
+    <text>The Secretary may not approve the request of an eligible entity for a grant under § 38-1853.04(a) unless the entity's application includes -</text>
     <level>
       <num>(1)</num>
-      <text>a detailed description of--</text>
+      <text>a detailed description of -</text>
       <level>
         <num>(A)</num>
         <text>how the entity will address the priorities described in § 38-1853.06;</text>
@@ -65,11 +67,14 @@
       <text>an assurance that the entity will comply with all requests regarding any evaluation carried out under § 38-1853.09(a).</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Apr. 15, 2011, 125 Stat. 201, Pub. L. 112-10, Div. C, § 3005 .)</text>
+      <heading>History</heading>
+      <text>(Apr. 15, 2011, 125 Stat. 201, Pub. L. 112-10, Div. C, § 3005.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-1853.04 and § 38-1853.07.</text>
     </level>
   </level>
 </level>

@@ -1,35 +1,28 @@
 <level type="section">
   <num>16-1313</num>
   <heading>Selection of jury; oath of jurors.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-1313</formerly-cited-as>
   <text>In each action brought pursuant to this subchapter, the court shall appoint, from among the persons whose names are drawn pursuant to section 16-1312, a jury of five capable and disinterested persons, and shall administer to the persons so drawn an oath or affirmation that they:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>are not interested in any manner in the real property to be condemned;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>are not related to the parties interested in the property; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>without favor or partiality, and to the best of their judgment, will appraise the value of the respective interests of all persons concerned in the property.</text>
-    </level>
+    <num>(1)</num>
+    <text>are not interested in any manner in the real property to be condemned;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>are not related to the parties interested in the property; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>without favor or partiality, and to the best of their judgment, will appraise the value of the respective interests of all persons concerned in the property.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, 77 Stat. 573, Pub. L. 88-241, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-1313.</text>
-        <text>1973 Ed., § 16-1313.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-1313.</text>
+      <text>1973 Ed., § 16-1313.</text>
     </level>
   </level>
 </level>

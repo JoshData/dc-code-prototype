@@ -1,7 +1,6 @@
 <level type="section">
   <num>11-1701</num>
   <heading>Administration of District of Columbia court system.</heading>
-  <formerly-cited-as>DC ST 1981 § 11-1701</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There shall be a Joint Committee on Judicial Administration in the District of Columbia (hereafter in this chapter referred to as the "Joint Committee") consisting of (1) the Chief Judge of the District of Columbia Court of Appeals, who shall serve as Chair, (2) an associate judge of that court elected annually by the judges thereof, (3) the Chief Judge of the Superior Court, and (4) two associate judges of that court elected annually by the judges thereof.</text>
@@ -48,7 +47,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>The Joint Committee, with the assistance of the Executive Officer of the District of Columbia courts, shall --</text>
+    <text>The Joint Committee, with the assistance of the Executive Officer of the District of Columbia courts, shall -</text>
     <level>
       <num>(1)</num>
       <text>consider and evaluate the business of the courts and means of improving the administration of justice within the District of Columbia court system and shall report thereon in its annual report;</text>
@@ -70,37 +69,40 @@
     <num>(d)</num>
     <text>The Joint Committee shall have authority to issue all orders and directives necessary to implement the responsibilities and duties enumerated in this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 508, Pub. L. 91-358, title I, § 111; June 13, 1994, Pub. L. 103-266, § 1(b)(80), 108 Stat. 713; Aug. 5, 1997, 111 Stat. 752, Pub. L. 105-33, § 11242(a); Oct. 18, 2004, 118 Stat. 1345, Pub. L. 108-335, § 329; Oct. 16, 2006, 120 Stat. 2026, Pub. L. 109-356, § 116(a).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 11-1701.</text>
-        <text>1973 Ed., § 11-1701.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>Pub. L. 108-335 repealed subsec. (b)(5) which had read as follows:</text>
-        <text>"(5) Approval of the bonds of fiduciary employees within the District of Columbia court system."</text>
-        <text>Pub. L. 109-356 made a technical correction to Pub. L. 108-335 that did not change the text of the section.</text>
-      </level>
-      <level>
-        <heading>Effective Dates</heading>
-        <text>Section 116(c) of Pub. L. 109-356 provides that the amendments made by this section shall take effect as if included in the enactment of the District of Columbia Appropriations Act, 2005 [Pub. L. 108-335].</text>
-      </level>
-      <level>
-        <heading>Change in Government</heading>
-        <text>This section originated at a time when local government powers were delegated to the District of Columbia Council and to a Commissioner of the District of Columbia. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made, in brackets, in this section.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Termination of Federal Disclosure Requirements: See Pub. L. 99-573, § 6.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Judicial retirement, periodic increases and existing rights, see § 11-1571.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 11-1571, § 11-1702, and § 11-1703.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 11-1701.</text>
+      <text>1973 Ed., § 11-1701.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>Pub. L. 108-335 repealed subsec. (b)(5) which had read as follows: "(5) Approval of the bonds of fiduciary employees within the District of Columbia court system."</text>
+      <text>Pub. L. 109-356 made a technical correction to Pub. L. 108-335 that did not change the text of the section.</text>
+    </level>
+    <level>
+      <heading>Effective Dates</heading>
+      <text>Section 116(c) of Pub. L. 109-356 provided that the amendments made by this section shall take effect as if included in the enactment of the District of Columbia Appropriations Act, 2005 [Pub. L. 108-335].</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Termination of Federal Disclosure Requirements: See Pub. L. 99-573, § 6.</text>
+    </level>
+    <level>
+      <heading>Change in Government</heading>
+      <text>This section originated at a time when local government powers were delegated to the District of Columbia Council and to a Commissioner of the District of Columbia. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made, in brackets, in this section.</text>
     </level>
   </level>
 </level>

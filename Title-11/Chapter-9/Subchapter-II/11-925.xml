@@ -1,10 +1,9 @@
 <level type="section">
   <num>11-925</num>
   <heading>Rules regarding certain pending child custody cases.</heading>
-  <formerly-cited-as>DC ST 1981 § 11-925</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>In any pending case involving custody over a minor child or the visitation rights of a parent of a minor child in the Superior Court which is described in subsection (b) [of this section] --</text>
+    <text>In any pending case involving custody over a minor child or the visitation rights of a parent of a minor child in the Superior Court which is described in subsection (b) [of this section] -</text>
     <level>
       <num>(1)</num>
       <text>at anytime after the child attains 13 years of age, the party to the case who is described in subsection (b)(1) [of this section] may not have custody over, or visitation rights with, the child without the child's consent; and</text>
@@ -16,7 +15,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>A case described in this subsection is a case in which --</text>
+    <text>A case described in this subsection is a case in which -</text>
     <level>
       <num>(1)</num>
       <text>the child asserts that a party to the case has been sexually abusive with the child;</text>
@@ -34,30 +33,20 @@
       <text>any of the parties to the case has lived outside of the District of Columbia during such period of denial of custody or visitation.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 30, 1996, 110 Stat. 2979, Pub. L. 104-205, § 350(a).)</text>
-      <text>VALIDITY</text>
-      <text>
-        <text i="True">This section has been held unconstitutional in the case of Foretich v. U.S., C.A.D.C. 2003, 351 F.3d 1198, 359 U.S. App.DC 54.</text>
-      </text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 11-925.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-      </level>
-      <level>
-        <heading>Bill of Attainder:</heading>
-        <text>This section was held unconstitutional in Foretich v. U.S., 351 F. 3d 1198 (D.C. Cir. 2003).</text>
-        <text>Elizabeth Morgan Act: Legislation that prohibited noncustodial parent from obtaining visitation with daughter against her wishes, and in face of unproven allegations of sexual abuse, after she had turned thirteen, thereby effectively stigmatizing parent as child abuser and unfit parent, was enacted for punitive purpose and had to be held unconstitutional as impermissible bill of attainder, where narrowness with which statute applied, only to this particular noncustodial parent and his daughter, belied any nonpunitive purpose to deal with alleged child sexual abuse generally, and where fact that Congress would not have enacted this legislation if parent had agreed to voluntarily give up his visitation rights, showed that it was Congress' purpose in enacting law to assume role of judicial tribunal and to impose its own determination of who was or was not fit parent.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 11-925.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Bill of Attainder:</text>
+      <text>This section was held unconstitutional in Foretich v. U.S., 351 F.3d 1198 (D.C. Cir. 2003).</text>
+      <text>Elizabeth Morgan Act: Legislation that prohibited noncustodial parent from obtaining visitation with daughter against her wishes, and in face of unproven allegations of sexual abuse, after she had turned thirteen, thereby effectively stigmatizing parent as child abuser and unfit parent, was enacted for punitive purpose and had to be held unconstitutional as impermissible bill of attainder, where narrowness with which statute applied, only to this particular noncustodial parent and his daughter, belied any nonpunitive purpose to deal with alleged child sexual abuse generally, and where fact that Congress would not have enacted this legislation if parent had agreed to voluntarily give up his visitation rights, showed that it was Congress' purpose in enacting law to assume role of judicial tribunal and to impose its own determination of who was or was not fit parent.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-102</num>
-  <heading>Membership of the Commission</heading>
-  <formerly-cited-as>DC ST 1981 § 2-4202</formerly-cited-as>
+  <heading>Membership of the Commission.</heading>
   <level>
     <num>(a)</num>
     <text>The Commission shall consist of 15 voting members and 5 nonvoting members as follows:</text>
@@ -42,7 +41,7 @@
       </level>
       <level>
         <num>(I)</num>
-        <text>Two citizens of the District of Columbia who are not attorneys, one of whom is nominated by the Mayor subject to confirmation by the Council, and the other who is appointed by the Council; and</text>
+        <text>Two citizens of the District of Columbia, one of whom is nominated by the Mayor subject to confirmation by the Council, and the other who is appointed by the Council; and</text>
       </level>
       <level>
         <num>(J)</num>
@@ -102,40 +101,44 @@
     <num>(d)</num>
     <text>Members of the Commission shall serve without compensation, except that the citizen members of the Commission may be compensated at an amount not to exceed $15.00 each day or part thereof for reasonable expenses incurred in the performance of their official duties.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Oct. 16, 1998, D.C. Law 12-167, § 3, 45 DCR 5180; June 16, 2006, D.C. Law 16-126, § 2(c), 53 DCR 4709; Oct. 18, 2007, D.C. Law 17-25, § 2(c), 54 DCR 8014.)</text>
+      <heading>History</heading>
+      <text>(Oct. 16, 1998, D.C. Law 12-167, § 3, 45 DCR 5180; June 16, 2006, D.C. Law 16-126, § 2(c), 53 DCR 4709; Oct. 18, 2007, D.C. Law 17-25, § 2(c), 54 DCR 8014; Mar. 19, 2013, D.C. Law 19-225, § 3, 59 DCR 13551.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-4202.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-126, in the lead-in language of subsec. (a), substituted "15" for "13", and substituted "5" for "4"; repealed subsec. (a)(1)(B); in subsec. (a)(1)(H), deleted "; and" at the end; in subsec. (a)(1)(I), substituted "; and" for a period; added subsec. (a)(1)(J); in subsec.(a)(2)(C), deleted "; and" at the end; in subsec. (a)(2)(D), substituted "; and" for a period; and added subsec. (a)(2)(E). Prior to repeal, subsec. (a)(1)(B) read as follows: "(B) One member of the Council, appointed by the Chairman of the Council;".</text>
-        <text>D.C. Law 17-25, in subsec. (a)(1)(E), substituted "Attorney General" for "Corporation Counsel"; and rewrote subsecs. (a)(1)(F), (a)(2)(E), and (b), which had read as follows:</text>
-        <text>"(F) The Director of the District of Columbia Offender Supervision, Defender and Court Services Agency or his or her designee, or, until that agency is certified and assumes its duties, the Pretrial Services, Defense Services, Parole, Adult Probation and Offender Supervision Trustee or his or her designee;"</text>
-        <text>"(E) One member of the Council, appointed by the Chairman of the Council."</text>
-        <text>"(b) Each member shall be appointed for a term of 3 years, and shall continue to serve during that time as long as the member remains eligible for the appointment. A member may be reappointed. A person appointed to fill a vacancy occurring prior to the expiration of a term shall serve for the remainder of the term or until a successor has been appointed. A member may be removed by the Mayor only for incompetence, neglect of duty, or misconduct."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(c) of District of Columbia Sentencing and Criminal Code Revision Commission Emergency Amendment Act of 2007 (D.C. Act 17-72, July 20, 2007, 54 DCR 7401).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-167, see Historical and Statutory Notes following § 3-101.</text>
-        <text>For Law 16-126, see notes following § 3-101.</text>
-        <text>For Law 17-25, see notes following § 3-101.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Applicability: Section 4 of D.C. Law 16-126 provides: 'This act shall apply as of January 1, 2007."</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-4202.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-126, in the lead-in language of subsec. (a), substituted "15" for "13", and substituted "5" for "4"; repealed subsec. (a)(1)(B); in subsec. (a)(1)(H), deleted "; and" at the end; in subsec. (a)(1)(I), substituted "; and" for a period; added subsec. (a)(1)(J); in subsec. (a)(2)(C), deleted "; and" at the end; in subsec. (a)(2)(D), substituted "; and" for a period; and added subsec. (a)(2)(E). Prior to repeal, subsec. (a)(1)(B) read as follows: "(B) One member of the Council, appointed by the Chairman of the Council;".</text>
+      <text>D.C. Law 17-25, in subsec. (a)(1)(E), substituted "Attorney General" for "Corporation Counsel"; and rewrote subsecs. (a)(1)(F), (a)(2)(E), and (b).</text>
+      <text>The 2013 amendment by D.C. Law 19-225 deleted "who are not attorneys" following "Columbia" in (a)(1)(I).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(c) of District of Columbia Sentencing and Criminal Code Revision Commission Emergency Amendment Act of 2007 (D.C. Act 17-72, July 20, 2007, 54 DCR 7401).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-167</heading>
+      <text>For legislative history of D.C. Law 12-167, see Historical and Statutory Notes following § 3-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-126</heading>
+      <text>For Law 16-126, see notes following § 3-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-25</heading>
+      <text>For Law 17-25, see notes following § 3-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-225</heading>
+      <text>Law 19-225, the "Hire Date Reporting Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-739. The Bill was adopted on first and second readings on Oct. 16, 2012, and Nov. 1, 2012, respectively. Signed by the Mayor on Nov. 15, 2012, it was assigned Act No. 19-536 and transmitted to Congress for its review. D.C. Law 19-225 became effective on Mar. 19, 2013.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability: Section 4 of D.C. Law 16-126 provided: 'This act shall apply as of January 1, 2007."</text>
     </level>
   </level>
 </level>

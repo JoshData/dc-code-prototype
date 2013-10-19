@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-2851.03a</num>
   <heading>Existing licenses eliminated.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-2851.3a</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Repealed.</text>
@@ -269,10 +268,10 @@
           <num>(iv)</num>
           <text>Marine Product.</text>
         </level>
-        <level>
-          <num>(B)</num>
-          <text>Businesses meeting the criteria established by law or regulation for the establishments listed in subparagraph (A) of this paragraph shall receive a Public Health: Food Establishment Retail license endorsement.</text>
-        </level>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Businesses meeting the criteria established by law or regulation for the establishments listed in subparagraph (A) of this paragraph shall receive a Public Health: Food Establishment Retail license endorsement.</text>
       </level>
     </level>
     <level>
@@ -313,10 +312,10 @@
           <text>Vendor (A).</text>
         </level>
       </level>
-    </level>
-    <level>
-      <num>(B)</num>
-      <text>Businesses meeting the criteria established by law or regulation for the establishments listed in subparagraph (A) of this paragraph shall receive a Public Health: Food Establishment Retail license endorsement.</text>
+      <level>
+        <num>(B)</num>
+        <text>Businesses meeting the criteria established by law or regulation for the establishments listed in subparagraph (A) of this paragraph shall receive a Public Health: Food Establishment Retail license endorsement.</text>
+      </level>
     </level>
   </level>
   <level>
@@ -343,10 +342,10 @@
           <text>Rooming House.</text>
         </level>
       </level>
-    </level>
-    <level>
-      <num>(B)</num>
-      <text>Businesses meeting the criteria established by law or regulation for the establishments listed in subparagraph (A) of this paragraph shall receive a Housing: Transient license endorsement.</text>
+      <level>
+        <num>(B)</num>
+        <text>Businesses meeting the criteria established by law or regulation for the establishments listed in subparagraph (A) of this paragraph shall receive a Housing: Transient license endorsement.</text>
+      </level>
     </level>
     <level>
       <num>(2)</num>
@@ -362,10 +361,10 @@
           <text>Cooperative Association.</text>
         </level>
       </level>
-    </level>
-    <level>
-      <num>(B)</num>
-      <text>Businesses meeting the criteria established by law or regulation for the establishments listed in subparagraph (A) of this paragraph shall receive a Housing: Residential License endorsement.</text>
+      <level>
+        <num>(B)</num>
+        <text>Businesses meeting the criteria established by law or regulation for the establishments listed in subparagraph (A) of this paragraph shall receive a Housing: Residential License endorsement.</text>
+      </level>
     </level>
   </level>
   <level>
@@ -967,56 +966,60 @@
       <text>Money Lender (B).</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 20, 1999, D.C. Law 12-261, § 2002(f), 46 DCR 3142; Apr. 4, 2001, D.C. Law 13-277, § 3(e), 48 DCR 2043; Dec. 18, 2001, D.C. Law 14-56, § 116(l), 48 DCR 7674; Mar. 13, 2004, D.C. Law 15-105, § 12(f), 51 DCR 881; Sept. 30, 2004, D.C. Law 15-187, § 302(c), 51 DCR 6525; Apr. 13, 2005, D.C. Law 15-354, § 85(b), 52 DCR 2638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-277, in subsec. (k)(3)(B), added the second sentence.</text>
-        <text>D.C. Law 14-56, in subsec., (k)(1)(B), added the last sentence.</text>
-        <text>D.C. Law 15-105, in subsec. (f), validated a previously made technical correction.</text>
-        <text>D.C. Law 15-187 repealed subsec. (a) which had read as follows:</text>
-        <text>"(a)(1) The following licenses are eliminated as separate license categories, but shall be separate endorsement categories:</text>
-        <text>"(A) Alcoholic Beverages (A);</text>
-        <text>"(B) Alcoholic Beverages (B);</text>
-        <text>"(C) Alcoholic Beverages (C);</text>
-        <text>"(D) Alcoholic Beverages (D); and</text>
-        <text>"(E) Alcoholic Beverages (E).</text>
-        <text>"(2) Businesses meeting the criteria established by law or regulation for the establishments listed in paragraph (1) of this subsection shall receive an Alcoholic Beverages license endorsement.</text>
-        <text>D.C. Law 15-354, in subsec. (f), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 16(l) of Department of Mental Health Establishment Temporary Amendment Act of 2001 (D.C. Law 14-51, October 30, 2001, law notification 49 DCR 352).</text>
-      </level>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-2851.3a.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 16(l) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001, 48 DCR 4390).</text>
-        <text>For temporary (90 day) amendment of section, see § 16(l) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001, 48 DCR 7123).</text>
-        <text>For temporary (90 day) amendment of section, see § 116(l) of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
-        <text>Law 13-277, the "Child and Family Services Agency Establishment Amendment Act of 2000", was introduced in Council and assigned Bill No. 13-796, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on December 5, 2000, and December 19, 2000, respectively. Signed by the Mayor on January 24, 2001, it was assigned Act No. 13-590 and transmitted to both Houses of Congress for its review. D.C. Law 13-277 became effective on April 4, 2001.</text>
-        <text>Law 14-56, the "Mental Health Service Delivery Reform Act of 2001", was introduced in Council and assigned Bill No. 14-136, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on June 26, 2001, and July 10, 2001, respectively. Signed by the Mayor on July 24, 2001, it was assigned Act No. 14-119 and transmitted to both Houses of Congress for its review. D.C. Law 14-56 became effective on December 18, 2001.</text>
-        <text>For Law 15-105, see notes following § 47-902.</text>
-        <text>For Law 15-187, see notes following § 47-2820.</text>
-        <text>For Law 15-354, see notes following § 47-304.03.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title of title II of Law 12-261: Section 2001 of D.C. Law 12-261 provided that title II of the act may be cited as the Business Regulatory Reform Act of 1998.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-2851.3a.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-277, in subsec. (k)(3)(B), added the second sentence.</text>
+      <text>D.C. Law 14-56, in subsec., (k)(1)(B), added the last sentence.</text>
+      <text>D.C. Law 15-105, in subsec. (f), validated a previously made technical correction.</text>
+      <text>D.C. Law 15-187 repealed subsec. (a).</text>
+      <text>D.C. Law 15-354, in subsec. (f), validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 16(l) of Department of Mental Health Establishment Temporary Amendment Act of 2001 (D.C. Law 14-51, October 30, 2001, law notification 49 DCR 352).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 16(l) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001, 48 DCR 4390).</text>
+      <text>For temporary (90 day) amendment of section, see § 16(l) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001, 48 DCR 7123).</text>
+      <text>For temporary (90 day) amendment of section, see § 116(l) of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-261</heading>
+      <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-277</heading>
+      <text>Law 13-277, the "Child and Family Services Agency Establishment Amendment Act of 2000", was introduced in Council and assigned Bill No. 13-796, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on December 5, 2000, and December 19, 2000, respectively. Signed by the Mayor on January 24, 2001, it was assigned Act No. 13-590 and transmitted to both Houses of Congress for its review. D.C. Law 13-277 became effective on April 4, 2001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-56</heading>
+      <text>Law 14-56, the "Mental Health Service Delivery Reform Act of 2001", was introduced in Council and assigned Bill No. 14-136, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on June 26, 2001, and July 10, 2001, respectively. Signed by the Mayor on July 24, 2001, it was assigned Act No. 14-119 and transmitted to both Houses of Congress for its review. D.C. Law 14-56 became effective on December 18, 2001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>For Law 15-105, see notes following § 47-902.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-187</heading>
+      <text>For Law 15-187, see notes following § 47-2820.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 47-304.03.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title of title II of Law 12-261: Section 2001 of D.C. Law 12-261 provided that title II of the act may be cited as the Business Regulatory Reform Act of 1998.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>IV</num>
-  <heading>Miscellaneous.</heading>
+  <heading>Miscellaneous</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-381.41.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-381.42.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-381.43.xml"/>

@@ -29,26 +29,31 @@
     <num>(c)</num>
     <text>DC Surface Transit, Inc. shall serve as an official advisory body to the District Department of Transportation for performance parking implementation within the Central Washington Area (as defined in 10 DCMR § 16), except where the Central Washington Area overlaps with preexisting performance parking zones.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Nov. 25, 2008, D.C. Law 17-279, § 5, 55 DCR 11059; Sept. 14, 2011, D.C. Law 19-21, § 6083(d), 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 6042(d), 59 DCR 8025.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-21, in subsec. (b), deleted "and" from the end of par. (2), substituted "; and" for a period the end of par. (3), and added par. (4).</text>
-        <text>D.C. Law 19-168 rewrote subsec. (a); and added subsec. (c). Prior to amendment, subsec. (a) read as follows:</text>
-        <text>"(a) One hundred percent of annual curbside parking fee revenue from each performance parking pilot zone shall be used for the following purposes:"</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-279, see notes following § 50-2531.</text>
-        <text>For history of Law 19-21, see notes under § 50-231.</text>
-        <text>For history of Law 19-168, see notes under § 50-320.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 50-2531.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 19-21, in subsec. (b), deleted "and" from the end of par. (2), substituted "; and" for a period the end of par. (3), and added par. (4).</text>
+      <text>The 2012 amendment by D.C. Law 19-168 rewrote (a); and added (c).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-279</heading>
+      <text>For Law 17-279, see notes following § 50-2531.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 50-231.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>See note to § 50-2531.</text>
     </level>
   </level>
 </level>

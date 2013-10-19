@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-909.05</num>
   <heading>Disclosure to the public.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-785.5</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Retirement Board and the Mayor shall make copies of the summary plan descriptions and annual reports available for public inspection in an appropriate location.</text>
@@ -42,26 +41,26 @@
     <num>(f)</num>
     <text>A record of the disclosed deliberations that may occur pursuant to subsection (e) of this section, or a tentative or final decision on investments or other financial matter, shall not be a public record pursuant to subchapter II of Chapter 5 of Title 2, to the extent its disclosure would jeopardize the ability to implement a decision or to achieve investment objectives.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 18, 1998, D.C. Law 12-152, § 145, 45 DCR 4045.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-785.5.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-152, see Historical and Statutory Notes following § 1-901.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Application of Law 12-152: See Historical and Statutory Notes following § 1- 901.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-909.01 and § 1-909.07.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-785.5.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-152</heading>
+      <text>For legislative history of D.C. Law 12-152, see Historical and Statutory Notes following § 1-901.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 12-152: See Historical and Statutory Notes following § 1-901.01.</text>
     </level>
   </level>
 </level>

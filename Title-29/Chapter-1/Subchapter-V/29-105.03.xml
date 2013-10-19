@@ -1,57 +1,67 @@
 <level type="section">
   <num>29-105.03</num>
   <heading>Foreign registration statement.</heading>
-  <text>To register to do business in the District, a foreign filing entity or foreign limited liability partnership shall deliver a foreign registration statement to the Mayor for filing. The statement shall state:</text>
+  <text>To register to do business in the District, a foreign filing entity or foreign limited liability partnership shall deliver a foreign registration statement to the Mayor for filing. The statement shall be signed by the entity and state:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The name of the foreign filing entity or foreign limited liability partnership and, if the name does not comply with § 29-103.01, an alternate name adopted pursuant to § 29-105.06(a);</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The type of entity and, if it is a limited partnership, whether it is a limited liability limited partnership;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The entity's jurisdiction of formation;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The street and mailing address of the principal office of the foreign filing entity or foreign limited liability partnership and, if the laws of its jurisdiction of formation require it to maintain an office in that jurisdiction, the street and mailing address of the office;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>The information required by § 29-104.04(a);</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>The names and street and mailing addresses of a governor;</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>A certificate, issued not later than 90 days prior to the filing date, by an authorized officer of the jurisdiction of formation, evidencing its existence as a filing entity;</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>A brief statement of the business the entity proposes to do in the District; and</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>A statement of the date it commenced or intends to do business in the District.</text>
-    </level>
+    <num>(1)</num>
+    <text>The name of the foreign filing entity or foreign limited liability partnership and, if the name does not comply with § 29-103.01, an alternate name adopted pursuant to § 29-105.06(a);</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The type of entity and, if it is a limited partnership, whether it is a limited liability limited partnership;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The entity's jurisdiction of formation;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The street and mailing address of the principal office of the entity and, if the laws of its jurisdiction of formation require it to maintain an office in that jurisdiction, the street and mailing address of the office;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>The information required by § 29-104.04(a);</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>The names and street and mailing addresses of a governor;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>A certificate, issued not later than 90 days prior to the filing date, by an authorized officer of the jurisdiction of formation, evidencing its existence as a filing entity;</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>A brief statement of the business the entity proposes to do in the District; and</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>A statement of the date it commenced or intends to do business in the District.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(a)(30), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-104.01, § 29-105.02, § 29-105.04, § 29-105.11, and § 29-936.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "shall be signed by the entity and state" for "shall state" in the introductory language; and substituted "entity" for "foreign filing entity or foreign limited liability partnership" in (4).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-101.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

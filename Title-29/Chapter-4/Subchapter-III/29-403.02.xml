@@ -3,87 +3,93 @@
   <heading>General powers.</heading>
   <text>Unless its articles of incorporation provide otherwise, every nonprofit corporation shall have perpetual duration and succession in its corporate name and has the same powers as an individual to do all things necessary or convenient to carry out its affairs including the power to:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Sue and be sued, complain, and defend in its corporate name;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Have a corporate seal, which may be altered at will, and to use it, or a facsimile of it, by impressing or affixing it or in any other manner reproducing it;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Make and amend bylaws, not inconsistent with its articles of incorporation or with the laws of the District, for managing and regulating the affairs of the corporation;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Purchase, receive, lease, or otherwise acquire, and own, hold, improve, use, and otherwise deal with, real or personal property, or any legal or equitable interest in property, wherever located;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Sell, convey, mortgage, pledge, lease, exchange, and otherwise dispose of all or any part of its property;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Purchase, receive, subscribe for, or otherwise acquire, own, hold, vote, use, sell, mortgage, lend, pledge, or otherwise dispose of, and deal in and with shares or other interests in, or obligations of, any other entity;</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>Make contracts and guarantees, incur liabilities, borrow money, issue notes, bonds, and other obligations, and secure any of its obligations by mortgage or pledge of any of its property or income;</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>Lend money, invest and reinvest its funds, and receive and hold real and personal property as security for repayment, except as limited by § 29- 406.32;</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>Be a promoter, partner, member, associate, or manager of any partnership, joint venture, trust, or other entity;</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>Conduct its activities, locate offices, and exercise the powers granted by this chapter within or without the District;</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>Elect directors and appoint officers, employees, and agents of the corporation, define their duties, fix their compensation, and lend them money and credit, except as limited by § 29-406.32:</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>Pay pensions and establish pension plans, pension trusts, and benefit or incentive plans for any or all of its current or former directors, officers, employees, and agents;</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>Make donations for charitable purposes;</text>
-    </level>
-    <level>
-      <num>(14)</num>
-      <text>Impose dues, assessments, admission, and transfer fees on its members;</text>
-    </level>
-    <level>
-      <num>(15)</num>
-      <text>Establish conditions for admission of members, admit members, and issue memberships;</text>
-    </level>
-    <level>
-      <num>(16)</num>
-      <text>Carry on a business; and</text>
-    </level>
-    <level>
-      <num>(17)</num>
-      <text>Make payments or donations, or do any other act, not inconsistent with law, that furthers the purposes, activities, and affairs of the corporation.</text>
-    </level>
+    <num>(1)</num>
+    <text>Sue and be sued, complain, and defend in its corporate name;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Have a corporate seal, which may be altered at will, and to use it, or a facsimile of it, by impressing or affixing it or in any other manner reproducing it;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Make and amend bylaws, not inconsistent with its articles of incorporation or with the laws of the District, for managing and regulating the affairs of the corporation;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Purchase, receive, lease, or otherwise acquire, and own, hold, improve, use, and otherwise deal with, property, or any legal or equitable interest in property, wherever located;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Sell, convey, mortgage, pledge, lease, exchange, and otherwise dispose of all or any part of its property;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Purchase, receive, subscribe for, or otherwise acquire, own, hold, vote, use, sell, mortgage, lend, pledge, or otherwise dispose of, and deal in and with shares or other interests in, or obligations of, any other entity;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>Make contracts and guarantees, incur liabilities, borrow money, issue notes, bonds, and other obligations, and secure any of its obligations by mortgage or pledge of any of its property or income;</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>Lend money, invest and reinvest its funds, and receive and hold real and personal property as security for repayment, except as limited by § 29-406.32;</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>Be a promoter, partner, member, associate, or manager of any partnership, joint venture, trust, or other entity;</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>Conduct its activities, locate offices, and exercise the powers granted by this chapter within or without the District;</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>Elect directors and appoint officers, employees, and agents of the corporation, define their duties, fix their compensation, and lend them money and credit, except as limited by § 29-406.32;</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>Pay pensions and establish pension plans, pension trusts, and benefit or incentive plans for any or all of its current or former directors, officers, employees, and agents;</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>Make donations for charitable purposes;</text>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>Impose dues, assessments, admission, and transfer fees on its members;</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>Establish conditions for admission of members, admit members, and issue memberships;</text>
+  </level>
+  <level>
+    <num>(16)</num>
+    <text>Carry on a business; and</text>
+  </level>
+  <level>
+    <num>(17)</num>
+    <text>Make payments or donations, or do any other act, not inconsistent with law, that furthers the purposes, activities, and affairs of the corporation.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(d)(8), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 deleted "real or personal" following "with," in (4).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-401.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

@@ -37,23 +37,22 @@
     <num>(f)</num>
     <text>The results of the screening, and recommendations for follow-up testing and treatment when appropriate, shall be provided to the parent and the child's primary care health care provider, if known, before discharge.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 4, 2001, D.C. Law 13-276, § 3, 48 DCR 1865.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-276, see notes following § 7-851.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 7(a) of D.C. Law 13-276 provides:</text>
-        <text>"(a) Section 3 shall apply on the first day of the month 120 days following the effective date of this act."</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-855.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-276</heading>
+      <text>For D.C. Law 13-276, see notes following § 7-851.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 7(a) of D.C. Law 13-276 provided: "(a) Section 3 shall apply on the month 120 days following the effective date of this act."</text>
     </level>
   </level>
 </level>

@@ -3,39 +3,46 @@
   <heading>Events causing dissolution.</heading>
   <text>A statutory trust shall be dissolved only by:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>An administrative dissolution under §§ 29-106.01 and 29-106.02; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The filing of articles of dissolution under § 29-1208.02:</text>
-      <level>
-        <num>(A)</num>
-        <text>On the occurrence of an event or circumstance that the governing instrument states causes dissolution; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>With the approval of all the beneficial owners.</text>
-      </level>
-    </level>
+    <num>(1)</num>
+    <text>An administrative dissolution under §§ 29-106.01 and 29-106.02; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The filing of articles of dissolution under § 29-1208.02:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <num>(A)</num>
+      <text>As provided in the certificate of trust; or</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 801 of the Uniform Statutory Trust Entity Act . See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <num>(B)</num>
+      <text>With the approval of all the beneficial owners.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(l)(8)(A), 59 DCR 13171.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-1208.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "'As provided in the certificate of trust" for "On the occurrence of an event or circumstance that the governing instrument states causes dissolution" in (2)(A).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-1201.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 801 of the Uniform Statutory Trust Entity Act.</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

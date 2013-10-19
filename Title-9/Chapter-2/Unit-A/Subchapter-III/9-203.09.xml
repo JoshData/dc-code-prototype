@@ -1,7 +1,6 @@
 <level type="section">
   <num>9-203.09</num>
   <heading>Official street map; periodic publication; contents; availability.</heading>
-  <formerly-cited-as>DC ST 1981 § 7-449</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Within 2 years of May 10, 1988, and every 5 years thereafter, the Mayor shall publish an official street map that delineates each street and property square in the District of Columbia.</text>
@@ -26,26 +25,27 @@
     <num>(c)</num>
     <text>This map shall be available for review in every public library in the District and be available for sale by the District of Columbia Office of Documents.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 10, 1983, D.C. Law 4-201, § 309, as added May 10, 1988, D.C. Law 7- 106, § 2(a), 35 DCR 2170.)</text>
+      <heading>History</heading>
+      <text>(Mar. 10, 1983, D.C. Law 4-201, § 309, as added May 10, 1988, D.C. Law 7-106, § 2(a), 35 DCR 2170.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 7-449.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-106, see Historical and Statutory Notes following § 9-203.06.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority pursuant to D.C. Law 7-106, "New Street or Alley Amendment Act of 1988", see Mayor's Order 88-162, July 11, 1988.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Council of the District of Columbia, power to name and rename highways, buildings, public places, and property, see § 1-301.01.</text>
+      <text>Streets, make a difference foundation, authorization to install granite markers in sidewalks, see § 9-1215.07.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 7-449.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-106</heading>
+      <text>For legislative history of D.C. Law 7-106, see Historical and Statutory Notes following § 9-203.06.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority pursuant to D.C. Law 7-106, "New Street or Alley Amendment Act of 1988", see Mayor's Order 88-162, July 11, 1988.</text>
     </level>
   </level>
 </level>

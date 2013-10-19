@@ -1,8 +1,8 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>5</num>
-  <heading>Meats and Meat Products. [Repealed]</heading>
+  <heading>Meats and Meat Products</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-501~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-502.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-502~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-503~P.xml"/>
 </level>

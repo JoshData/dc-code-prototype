@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-1102</num>
   <heading>Comprehensive plan for multi-material recycling system.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-3202</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Within 1 year from July 25, 1987, the Mayor of the District of Columbia ("Mayor") shall submit to the Council of the District of Columbia ("Council") a comprehensive plan for a District of Columbia ("District") multi-material recycling system for the purpose of recovering energy and other resources from discarded materials and solid waste and for distributing reusable organic compounds for public use.</text>
@@ -15,7 +14,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Consult with the Council, the Litter and Solid Waste Reduction Commission established pursuant to § 3-1001, the Hazardous Materials Study Commission established pursuant to § 8-1201, and other interested parties.</text>
+      <text>Consult with the Council, the Litter and Solid Waste Reduction Commission established pursuant to § 3-1001, the Hazardous Materials Study Commission established pursuant to § 8-1201 [repealed], and other interested parties.</text>
     </level>
   </level>
   <level>
@@ -58,26 +57,22 @@
       <text>A description of a public information campaign and community outreach program to be targeted to District residents and visitors regarding the importance of the District's multi-material recycling system and the public's role in this system.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 25, 1987, D.C. Law 7-19, § 3, 34 DCR 3810.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-3202.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-19, see Historical and Statutory Notes following § 8-1101.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>"Section 8-1201," referred to in (b)(2), was repealed by § 7 of D.C. Law 7-190, effective March 16, 1989.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-3202.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-19</heading>
+      <text>For legislative history of D.C. Law 7-19, see Historical and Statutory Notes following § 8-1101.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>"Section 8-1201," referred to in (b)(2), was repealed by § 7 of D.C. Law 7-190, effective March 16, 1989.</text>
     </level>
   </level>
 </level>

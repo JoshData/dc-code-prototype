@@ -53,14 +53,14 @@
       <level>
         <num>(C)</num>
         <text>Any expenditure of cash;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Sponsorships for political organizations; and</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Any mass mailing within the 90-day period immediately preceding a primary, special, or general election by a member of the Council, or the Mayor, who is a candidate for office.</text>
+        <level>
+          <num>(E)</num>
+          <text>Sponsorships for political organizations; and</text>
+        </level>
+        <level>
+          <num>(F)</num>
+          <text>Any mass mailing within the 90-day period immediately preceding a primary, special, or general election by a member of the Council, or the Mayor, who is a candidate for office.</text>
+        </level>
       </level>
     </level>
   </level>
@@ -86,20 +86,20 @@
   </level>
   <level>
     <num>(h)</num>
-    <text>Violations of this part shall be subject to the penalties set forth in § 1-1162.21</text>
+    <text>Violations of this part shall be subject to the penalties set forth in § 1-1162.21.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2012, D.C. Law 19-124, § 338, 59 DCR 1862.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-1161.01, § 1-1162.31, § 1-1163.23, § 1-1163.25, § 1-1163.28, § 2-706, § 3-1323, and § 47-2808.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-124</heading>
+      <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
     </level>
   </level>
 </level>

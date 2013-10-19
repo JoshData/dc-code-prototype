@@ -1,8 +1,6 @@
 <level type="section">
   <num>29-604.01</num>
   <heading>Partner's rights and duties.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-154.1</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-104.01</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Each partner shall deemed to have an account that is:</text>
@@ -33,53 +31,66 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>Each partner shall have equal rights in the management and conduct of the partnership business.</text>
+    <text>A partnership shall indemnify and hold harmless a person with respect to any claim or demand against the person and any debt, obligation, or other liability incurred by the person by reason of the person's former or present capacity as partner, if the claim, demand, debt, obligation, or other liability does not arise from the person's breach of this section, § 29-604.07, or § 29-610.02.</text>
   </level>
   <level>
     <num>(g)</num>
-    <text>A partner shall use or possess partnership property only on behalf of the partnership.</text>
+    <text>In the ordinary course of its business, a partnership may advance reasonable expenses, including attorney's fees and costs, incurred by a person in connection with a claim or demand against the person by reason of the person's former or present capacity as a partner, if the person promises to repay the partnership if the person ultimately is determined not to be entitled to be indemnified under subsection (f) of this section.</text>
   </level>
   <level>
     <num>(h)</num>
-    <text>A partner shall not be entitled to remuneration for services performed for the partnership, except for reasonable compensation for services rendered in winding up the business of the partnership.</text>
+    <text>A partnership may purchase or maintain insurance against liability arising from a partner's status and asserted against or incurred by a partner acting in his or her capacity. Such insurance may be purchased and maintained even if, under § 29-601.04(b)(13), the partnership agreement does not permit limitation or elimination of partner liability.</text>
   </level>
   <level>
     <num>(i)</num>
-    <text>A person shall become a partner only with the consent of all of the partners.</text>
+    <text>Each partner shall have equal rights in the management and conduct of the partnership business.</text>
   </level>
   <level>
     <num>(j)</num>
-    <text>Except as otherwise provided in subchapter IX of this chapter or Chapter 2 of this title, a person shall become a partner only with the consent of all of the partners.</text>
+    <text>A partner shall use or possess partnership property only on behalf of the partnership.</text>
   </level>
   <level>
     <num>(k)</num>
-    <text>A difference arising as to a matter in the ordinary course of business of a partnership shall be decided by a majority of the partners. An act outside the ordinary course of business of a partnership and an amendment to the partnership agreement shall be undertaken only with the consent of all of the partners.</text>
+    <text>A partner shall not be entitled to remuneration for services performed for the partnership, except for reasonable compensation for services rendered in winding up the business of the partnership.</text>
   </level>
   <level>
     <num>(l)</num>
-    <text>This section shall not affect the obligations of a partnership to other persons under § 29-603.01.</text>
+    <text>A difference arising as to a matter in the ordinary course of business of a partnership shall be decided by a majority of the partners. An act outside the ordinary course of business of a partnership and an amendment to the partnership agreement shall be undertaken only with the consent of all of the partners.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(m)</num>
+    <text>This section shall not affect the debts, liabilities, or other obligations of a partnership to other persons under § 29-603.01.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(f)(4)(A), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 41-154.1.</text>
-        <text>2001 Ed., § 33-104.01.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 401 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-609.03.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 41-154.1.</text>
+      <text>2001 Ed., § 33-104.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 added (f), (g), and (h); repealed former (i) and (j); and redesignated former (f) through (h) as (i) through (k), respectively; and redesignated former (k) and (l) as (l) and (m), respectively.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-601.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 401 of the Uniform Partnership Act (1997 Act).</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

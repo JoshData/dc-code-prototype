@@ -98,18 +98,18 @@
     <num>(d)</num>
     <text>A PILOT Agreement shall be an encumbrance upon, and run with, the PILOT Parcel. A memorandum of the PILOT Agreement shall be recorded in the land records of the District.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 5, 2005, D.C. Law 15-293, § 3, 52 DCR 1465.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-293, see notes following § 1-308.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-308.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-293</heading>
+      <text>For Law 15-293, see notes following § 1-308.01.</text>
     </level>
   </level>
 </level>

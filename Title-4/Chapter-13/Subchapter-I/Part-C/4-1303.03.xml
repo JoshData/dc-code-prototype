@@ -1,7 +1,6 @@
 <level type="section">
   <num>4-1303.03</num>
   <heading>Duties and powers of the Director.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-2123</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Director of the Agency shall have the following duties and powers, any of which may be contracted for, as appropriate, with private or other public agencies:</text>
@@ -11,7 +10,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Within 90 days of taking a child into custody pursuant to § 4- 1303.04(c)(1), return the child to the home or to request that the Office of the Attorney General file a neglect petition in the Family Division of the Superior Court of the District of Columbia;</text>
+      <text>Within 90 days of taking a child into custody pursuant to § 4-1303.04(c)(1), return the child to the home or to request that the Office of the Attorney General file a neglect petition in the Family Division of the Superior Court of the District of Columbia;</text>
     </level>
     <level>
       <num>(3)</num>
@@ -138,7 +137,7 @@
     </level>
     <level>
       <num>(15)</num>
-      <text>To immediately, upon court direction, implement the concurrent or alternative plan for the permanent placement of a child when time-limited family reunification services, as defined in § 4-1301.02(19), have failed to reunite a child in foster care with his or her family or when D.C. Code § 16-2354 applies;</text>
+      <text>To immediately, upon court direction, implement the concurrent or alternative plan for the permanent placement of a child when time-limited family reunification services, as defined in § 4-1301.02(19), have failed to reunite a child in foster care with his or her family or when § 16-2354 applies;</text>
     </level>
     <level>
       <num>(16)</num>
@@ -172,12 +171,27 @@
       </level>
       <level>
         <num>(E)</num>
-        <text>Within 120 days of May 27, 2010, the Mayor, pursuant to subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of this paragraph. The proposed rules shall be submitted to the Council for a 30-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within the 30-day review period, the proposed rules shall be deemed approved; and</text>
+        <text>Within 120 days of May 27, 2010, the Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ 2-501 et seq.], shall issue rules to implement the provisions of this paragraph. The proposed rules shall be submitted to the Council for a 30-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within the 30-day review period, the proposed rules shall be deemed approved;</text>
       </level>
     </level>
     <level>
       <num>(17)</num>
-      <text>To establish and maintain the Voluntary Foster Care Registry, established pursuant to § 4-1303.08 as a post-care service, for individuals 18 years or older who were or currently are respondents in a child abuse or neglect case under Chapter 23 of Title 16 and for their immediate birth family members, as defined in § 4-1303.08(g).</text>
+      <text>To establish and maintain the Voluntary Foster Care Registry, established pursuant to § 4-1303.08 as a post-care service, for individuals 18 years or older who were or currently are respondents in a child abuse or neglect case under Chapter 23 of Title 16 and for their immediate birth family members, as defined in § 4-1303.08(g);</text>
+    </level>
+    <level>
+      <num>(18)</num>
+      <text>To offer employment counseling to foster children, as defined by § 4-342(3), who are ages 18 through 21 years old; and</text>
+    </level>
+    <level>
+      <num>(19)</num>
+      <level>
+        <num>(A)</num>
+        <text>When requested by a foster child or former foster child who is 18 years of age or older, to provide a letter verifying the person's status as a foster child or former foster child pursuant to § 1-608.01(e-1); and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>To record and track the number of foster children or former foster children who request a letter from the Child and Family Services Agency verifying their status pursuant to subparagraph (A) of this paragraph.</text>
+      </level>
     </level>
   </level>
   <level>
@@ -240,7 +254,7 @@
     </level>
     <level>
       <num>(9)</num>
-      <text>By delegation from the Mayor, and independent of the Office of Contracting and Procurement, to exercise procurement authority to carry out the purposes of the Agency, including contracting and contract oversight, consistent with Chapter 3A of Title 2; except, that § 2-352.01(a) shall not apply;</text>
+      <text>By delegation from the Mayor, and independent of the Office of Contracting and Procurement, to exercise procurement authority to carry out the purposes of the Agency, including contracting and contract oversight, consistent with Chapter 3A of Title 2 [§ 2-351.01 et seq.]; except, that § 2-352.01(a) shall not apply;</text>
     </level>
     <level>
       <num>(10)</num>
@@ -268,7 +282,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>When a child has been adjudicated a neglected child and committed to the Agency, offer rehabilitative services to the child's family including time-limited family reunification services designed to help child, where safe and appropriate, return to the family from which he or she has been removed;</text>
+      <text>When a child has been adjudicated a neglected child and committed to the Agency, offer rehabilitative services to the child's family including time-limited family reunification services designed to help the child, where safe and appropriate, return to the family from which he or she has been removed;</text>
     </level>
     <level>
       <num>(3)</num>
@@ -344,7 +358,7 @@
     </level>
     <level>
       <num>(9A)</num>
-      <text>Offer meeting facilitation services for extended family members when appropriate to meet permanency and safety goals as established by the Adoption and Safe Families Amendment Act of 2000, effective June 27, 2000 (D. C. Law 13- 136; 47 DCR 2850);</text>
+      <text>Offer meeting facilitation services for extended family members when appropriate to meet permanency and safety goals as established by the Adoption and Safe Families Amendment Act of 2000, effective June 27, 2000 (D.C. Law 13-136; 47 DCR 2850);</text>
     </level>
     <level>
       <num>(9B)</num>
@@ -439,121 +453,156 @@
     <num>(d)</num>
     <text>The safety of the children being served shall be the paramount concern of the Agency in administering and conducting its duties and responsibilities under this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 23, 1977, D.C. Law 2-22, title III, § 303, 24 DCR 3341; Mar. 15, 1990, D.C. Law 8-87, § 3(e), 37 DCR 50; June 27, 2000, D.C. Law 13-136, § 201(d), 47 DCR 2850; Apr. 4, 2001, D.C. Law 13-277, § 2(o), 48 DCR 2043; Oct. 26, 2001, D.C. Law 14-42, § 13, 48 DCR 7612; Apr. 12, 2005, D.C. Law 15-341, § 2(i), 52 DCR 2315; Apr. 13, 2005, D.C. Law 15-354, § 95, 52 DCR 2638; July 18, 2008, D.C. Law 17-199, § 2, 55 DCR 6285; May 27, 2010, D.C. Law 18-162, § 2(b), 57 DCR 3029; Sept. 24, 2010, D.C. Law 18-230, § 301(a), 57 DCR 6951; Mar. 12, 2011, D.C. Law 18-312, § 2(b), 57 DCR 12398; July 13, 2012, D.C. Law 19-162, § 2, 59 DCR 5713; Sept. 26, 2012, D.C. Law 19-171, §§ 35, 208, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-2123.</text>
-        <text>1973 Ed., § 6-2133.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-136 rewrote this section, which previously read:</text>
-        <text>"(a) The Chief of the Division shall have the following duties and responsibilities, any of which may be contracted for with private or other public agencies:</text>
-        <text>"(1) To receive and investigate reports of neglect as provided in § 103 of this act, and §§ 6-2102 and 6-2104 and to assist in the determination of the need for the removal of an abused child as provided in § 6-2105;</text>
-        <text>"(2) Within 90 days of taking a child into custody pursuant to paragraph (1) of subsection (c) of § 6-2124, to return the child to the home or to request the filing of a neglect petition in the Family Division of the Superior Court of the District of Columbia;</text>
-        <text>"(3) To maintain a program of treatment and services for families of neglected and abused children;</text>
-        <text>"(4) To prepare annually a plan for child protective services which shall be reviewed and commented on by the Mayor's Committee on Child Abuse and Neglect. The plan shall:</text>
-        <text>"(A) Describe the Division's implementation of this act, including its organization, staffing, method of operations and financing, and programs and procedures for the receipt, investigation and verification of reports;</text>
-        <text>"(B) Describe the provisions for the determination of protective and the treatment of ameliorative service needs, and the provision of such services;</text>
-        <text>"(C) State the guidelines for referrals to the Family Division of the Superior Court of the District of Columbia; and</text>
-        <text>"(D) State the provisions for monitoring, evaluation and planning. The 1st plan shall be made available to the public within 90 days of September 23, 1977;</text>
-        <text>"(5) To encourage and assist in the formation of child abuse/neglect teams in hospitals, health and mental health clinics and other appropriate facilities in the District of Columbia; and</text>
-        <text>"(6) To take whatever additional actions are necessary to accomplish the purposes of this act.</text>
-        <text>"(b) The Director of the Department of Human Services, in addition to his or her other responsibilities, shall have the following duties and responsibilities, any of which may be contracted for with private or other public agencies:</text>
-        <text>"(1) When a child has been adjudicated a neglected child and committed to the Department of Human Services, to offer rehabilitative services to the child's family;</text>
-        <text>"(2) When rehabilitative services have failed to reunite a committed child and his or her family within a reasonable time, to prepare a permanent plan for the child;</text>
-        <text>"(3) To establish or attempt to secure priority access for protective service clients, by contract or agreement with private organizations, other public agencies, or other Department of Human Services units, to services necessary for the preservation or reunification of families. These services may include but shall not be limited to:</text>
-        <text>"(A) Emergency financial aid;</text>
-        <text>"(B) Emergency caretakers;</text>
-        <text>"(C) Homemakers;</text>
-        <text>"(D) Family shelters;</text>
-        <text>"(E) Emergency foster homes;</text>
-        <text>"(F) Facilities providing medical, psychiatric or other therapeutic services;</text>
-        <text>"(G) Day care;</text>
-        <text>"(H) Parent aides/lay therapists;</text>
-        <text>"(4) To monitor and evaluate services to and needs of neglected children and their families;</text>
-        <text>"(5) To compile and publish training materials and provide technical assistance on neglect prevention, identification and treatment; and</text>
-        <text>"(6) To prepare and submit to the Mayor, the Council of the District of Columbia, and the public an annual report which shall include a description of the specific actions taken to implement this act and an evaluation of the Division's performance. The report shall include a full statistical analysis of case reports received, an evaluation of services offered, recommendations for additional legislation or services needed to fulfill the purposes of this act and the comments submitted by the Mayor's Interagency Interdepartmental Committee on Abuse and Neglect. The 1st report shall be submitted not later than 1 year and 90 days after September 23, 1977.</text>
-        <text>"(c) The Chief of the Division and the Director of the Department of Human Resources shall implement the Protection of Children from Exposure to Drug-related Activity Amendment Act of 1989. The Chief of the Division and the Director of the Department of Human Services shall provide the services authorized pursuant to this section to a child who is abused as a result of inadequate care, control, or subsistence due to exposure to drug-related activity."</text>
-        <text>D.C. Law 13-277 rewrote the section heading which had read: "Duties and Responsibilities"; in subsec. (a), rewrote the lead-in sentence which had read: "The Chief of the Division, or the person or agency that contracts with the department for these services shall:", in par. (4)(A)(i), substituted "Agency's" for "Division's", and added pars. (7) to (15); added subsec. (a-1); in subsec. (b), in the lead-in sentence, substituted "Agency, or the person or agency the Agency contracts with" for "Director of the Department of Human Services, or the person or agency the department contracts with", in pars. (2) and (4), substituted "Agency" for "Department of Human Services", and in par. (10(E), substituted "Agency's" for "Division's"; in subsec. (c), substituted "Director of the Agency" for "Chief of the Division and the Director of the Department of Human Services"; and, in subsec. (d), substituted "Agency" for "Department of Human Services", and deleted "and the Child Abuse Unit of the Social Services Division of the Superior Court of the district of Columbia" preceding "in administering".</text>
-        <text>D.C. Law 14-42 validated a previously made technical correction in subsec. (d).</text>
-        <text>D.C. Law 15-341, in subsec. (a)(1), substituted "abuse or neglect" for "neglect" and substituted "abused or neglected" for "abused"; in subsec. (a)(2), substituted "that the Office of the Attorney General file" for "the filing of"; rewrote subsecs. (a-1)(5), (b)(4)(D), and (b)(4)(F); deleted 'and" from the end of (b)(4)(G); added subsecs. (b)(4)(I), (J), and (K); deleted 'and" from the end of (b)(9); added subsecs. (b)(9A) and (9B); rewrote subsec. (b)(10)(B)(iii); deleted 'and" from the end of subsec. (b)(10)(B)(iv); and added subsec. (b)(10)(B)(v). Prior to amendment, subsecs. (a-1)(5), (b)(4)(D), (b)(4)(F), and (b)(10)(B)(iii) read as follows:</text>
-        <text>"(5) To facilitate meetings for a child in foster care with extended family members;"</text>
-        <text>"(D) Family shelters;"</text>
-        <text>"(F) Facilities providing medical, psychiatric, or other therapeutic services;"</text>
-        <text>"(iii) The number of children who have been in care for 24 months or longer, the number of children who became part of this class during the previous year, and the ages and legal statuses of these children; and"</text>
-        <text>D.C. Law 15-354 repealed par. (12) of subsec. (a) which had read as follows:</text>
-        <text>"(12) To encourage and assist in the formation of child abuse and neglect teams in hospitals, health and mental health clinics, and other appropriate facilities in the District of Columbia;".</text>
-        <text>D.C. Law 17-199, in subsec. (a-1), added par. (3A).</text>
-        <text>D.C. Law 18-162, in subsec. (a), deleted "and" from the end of par. (14); substituted "; and" for a period at the end of par. (15), and added par. (16).</text>
-        <text>D.C. Law 18-230, in subsec. (a), deleted "and" from the end of par. (15); substituted "; and" for a period at the end of par. (16), and added par. (17).</text>
-        <text>D.C. Law 18-312 added subsec. (b)(11).</text>
-        <text>D.C. Law 19-162 added subsecs. (a)(18) and (19).</text>
-        <text>D.C. Law 19-171 validated previously made technical corrections in the designation of subsecs. (a)(15), (16), and (17); and, in subsec. (a-1)(9), substituted "consistent with Chapter 3A of Title 2; except, that § 2-352.01(a) shall not apply" for "consistent with unit A of Chapter 3 of Title 2, except § 2-301.05(a), (b), (c), and (e)".</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 201(d) of Adoption and Safe Families Temporary Amendment Act of 1999 (D.C. Law 13-56, March 7, 2000, law notification 47 DCR 1978).</text>
-        <text>For temporary (225 day) amendment of section, see § 2 of Child and Family Services Grant-making Temporary Amendment Act of 2006 (D.C. Law 16-193, March 2, 2007, law notification 54 DCR 2491).</text>
-        <text>For temporary (225 day) amendment of section, see § 2 of Child and Family Services Grant-making Temporary Amendment Act of 2007 (D.C. Law 17-105, February 2, 2008, law notification 55 DCR 4257).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary provisions transferring to the Mayor the discretionary authority for creating monetary obligations and approving expenditures in the District of Columbia's Aid to Families With Dependent Children, Medicaid, and child abuse and neglect/foster care programs that Reorganization Plan No. 2 of 1979, Reorganization Plan No. 3 of 1986, and the Prevention of Child Abuse and Neglect Act of 1977 vested in the Department of Human Services, see § 2 of the Reorganization No. 2 of 1995 to Transfer to the Mayor Certain Discretionary Authority Vested in the Department of Human Services Emergency Act of 1995 (D.C. Act 11-103, July 21, 1995, 42 DCR 4012).</text>
-        <text>For temporary (90-day) amendment of section, see § 201(d) of the Adoption and Safe Families Emergency Amendment Act of 1999 (D.C. Act 13-117, July 28, 1999, 46 DCR 6558).</text>
-        <text>For temporary (90-day) amendment of section, see § 201(d) of the Adoption and Safe Families Legislative Review Emergency Amendment Act of 1999 (D.C. Act 13- 178, November 2, 1999, 46 DCR 9714).</text>
-        <text>For temporary (90-day) amendment of section, see § 201(d) of the Adoption and Safe Families Congressional Review Emergency Amendment Act of 1999 (D.C. Act 13-240, January 11, 2000, 47 DCR 556).</text>
-        <text>For temporary (90 day) amendment of section, see § 4(b) of the Adoption and Safe Families Compliance Congressional Review Emergency Amendment Act of 2000 (D.C. Act 13-451, November 7, 2000, 47 DCR 9399).</text>
-        <text>For temporary (90 day) amendment of section, see § 4(b) of Adoption and Safe Families Compliance Emergency Amendment Act of 2001 (D.C. Act 14-65, June 6, 2001, 48 DCR 5721).</text>
-        <text>For temporary (90 day) amendment of section, see § 13 of Technical Amendments Emergency Act of 2001 (D.C. Act 14-108, August 3, 2001, 48 DCR 7622).</text>
-        <text>For temporary (90 day) amendment of section, see § 2 of Child and Family Services Grant-making Emergency Amendment Act of 2006 (D.C. Act 16-450, July 21, 2006, 53 DCR 6493).</text>
-        <text>For temporary (90 day) amendment of section, see § 2 of Child and Family Services Grant-making Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-522, October 27, 2006, 53 DCR 9120).</text>
-        <text>For temporary (90 day) amendment of section, see § 2 of Child and Family Services Grant-making Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-668, December 28, 2006, 54 DCR 1144).</text>
-        <text>For temporary (90 day) amendment of section, see § 2 of Child and Family Services Grant-making Emergency Amendment Act of 2007 (D.C. Act 17-167, October 19, 2007, 54 DCR 10976).</text>
-        <text>For temporary (90 day) amendment of section, see § 2 of Child and Family Services Grant-making Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-247, January 23, 2008, 55 DCR 1251).</text>
-        <text>For temporary (90 day) repeal of section 701 of D.C. Law 18-230, see § 110 of Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 10, 2012, 59 DCR 12478).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 4-1301.02.</text>
-        <text>For legislative history of D.C. Law 8-87, see Historical and Statutory Notes following § 4-1301.06a.</text>
-        <text>For Law 13-136, see notes following § 4-1301.02.</text>
-        <text>For D.C. Law 13-277, see notes following § 4-1301.02.</text>
-        <text>Law 14-42, the "Technical Correction Amendment Act of 2001", was introduced in Council and assigned Bill No. 14-216, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 5, 2001, and June 26, 2001, respectively. Signed by the Mayor on July 24, 2001, it was assigned Act No. 14-107 and transmitted to both Houses of Congress for its review. D.C. Law 14-42 became effective on October 26, 2001.</text>
-        <text>For Law 15-341, see notes following § 4-1301.02.</text>
-        <text>For Law 15-354, see notes following § 4-204.55.</text>
-        <text>Law 17-199, the "Child and Family Services Grant-Making Amendment Act of 2008", was introduced in Council and assigned Bill No.17-250 which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on April 1, 2008, and May 6, 2008, respectively. Signed by the Mayor on May 23, 2008, it was assigned Act No. 17-396 and transmitted to both Houses of Congress for its review. D.C. Law 17-199 became effective on July 18, 2008.</text>
-        <text>For Law 18-162, see notes following § 4-1303.03.</text>
-        <text>For Law 18-230, see notes following § 4-301.</text>
-        <text>For history of Law 18-312, see notes under § 4-1301.02.</text>
-        <text>Law 19-162, the "Foster Care Youth Employment Amendment Act of 2012", was introduced in Council and assigned Bill No. 19-691, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on April 17, 2012, and May 1, 2012, respectively. Signed by the Mayor on May 16, 2012, it was assigned Act No. 19-372 and transmitted to both Houses of Congress for its review. D.C. Law 19-162 became effective on July 13, 2012.</text>
-        <text>For history of Law 19-171, see notes under § 4-205.19m.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>The "Protection of Children from Exposure to Drug-related Activity Amendment Act of 1989", referred to in (c), is D.C. Law 8-87.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of Authority to the Child and Family Services Agency under Section 303(a)(16)(E) of the Prevention of Child Abuse and Neglect Act of 1977, see Mayor's Order 2010-154, September 17, 2010 (57 DCR 8543).</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Directives and Redelegation of Authority to Assure the Continued Operation of the Aid to Families with Dependent Children, Medicaid and Child Abuse-and-Neglect/Foster Care Programs During Fiscal Year 1995: See Mayor's Order 95- 115, August 31, 1995.</text>
-        <text>For applicability of D.C. Law 13-277, see note following § 4-1303.01a.</text>
-        <text>Section 701 of D.C. Law 18-230 provides:</text>
-        <text>"Sec. 701. Applicability.</text>
-        <text>"Title III of this act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan."</text>
-        <text>The Budget Director of the Council of the District of Columbia has determined, as of February 15, 2012, that the fiscal effect of Title III of Law 18-230 has not been included in an approved budget and financial plan. Therefore, the provisions of this section, enacted by title III of Law 18-230, are not in effect.</text>
-        <text>The Budget Director of the Council of the District of Columbia has determined, as of October 10, 2012, that the fiscal effect of Title III of Law 18-230 has been included in an approved budget and financial plan. Therefore, the provisions of this section, enacted by title III of Law 18-230, are in effect. Section 110 of Emergency Act 19-482 repealed section 701 of Law 18-230.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-1301.06, § 4-1303.03a, § 4-1303.04, and § 4-1303.05.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-2123.</text>
+      <text>1973 Ed., § 6-2133.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-136 rewrote this section, which previously read:</text>
+      <text>"(a) The Chief of the Division shall have the following duties and responsibilities, any of which may be contracted for with private or other public agencies:</text>
+      <text>"(1) To receive and investigate reports of neglect as provided in § 103 of this act, and §§ 6-2102 and 6-2104 and to assist in the determination of the need for the removal of an abused child as provided in § 6-2105;</text>
+      <text>"(2) Within 90 days of taking a child into custody pursuant to paragraph (1) of subsection (c) of § 6-2124, to return the child to the home or to request the filing of a neglect petition in the Family Division of the Superior Court of the District of Columbia;</text>
+      <text>"(3) To maintain a program of treatment and services for families of neglected and abused children;</text>
+      <text>"(4) To prepare annually a plan for child protective services which shall be reviewed and commented on by the Mayor's Committee on Child Abuse and Neglect. The plan shall:</text>
+      <text>"(A) Describe the Division's implementation of this act, including its organization, staffing, method of operations and financing, and programs and procedures for the receipt, investigation and verification of reports;</text>
+      <text>"(B) Describe the provisions for the determination of protective and the treatment of ameliorative service needs, and the provision of such services;</text>
+      <text>"(C) State the guidelines for referrals to the Family Division of the Superior Court of the District of Columbia; and</text>
+      <text>"(D) State the provisions for monitoring, evaluation and planning. The 1st plan shall be made available to the public within 90 days of September 23, 1977;</text>
+      <text>"(5) To encourage and assist in the formation of child abuse/neglect teams in hospitals, health and mental health clinics and other appropriate facilities in the District of Columbia; and</text>
+      <text>"(6) To take whatever additional actions are necessary to accomplish the purposes of this act.</text>
+      <text>"(b) The Director of the Department of Human Services, in addition to his or her other responsibilities, shall have the following duties and responsibilities, any of which may be contracted for with private or other public agencies:</text>
+      <text>"(1) When a child has been adjudicated a neglected child and committed to the Department of Human Services, to offer rehabilitative services to the child's family;</text>
+      <text>"(2) When rehabilitative services have failed to reunite a committed child and his or her family within a reasonable time, to prepare a permanent plan for the child;</text>
+      <text>"(3) To establish or attempt to secure priority access for protective service clients, by contract or agreement with private organizations, other public agencies, or other Department of Human Services units, to services necessary for the preservation or reunification of families. These services may include but shall not be limited to:</text>
+      <text>"(A) Emergency financial aid;</text>
+      <text>"(B) Emergency caretakers;</text>
+      <text>"(C) Homemakers;</text>
+      <text>"(D) Family shelters;</text>
+      <text>"(E) Emergency foster homes;</text>
+      <text>"(F) Facilities providing medical, psychiatric or other therapeutic services;</text>
+      <text>"(G) Day care;</text>
+      <text>"(H) Parent aides/lay therapists;</text>
+      <text>"(4) To monitor and evaluate services to and needs of neglected children and their families;</text>
+      <text>"(5) To compile and publish training materials and provide technical assistance on neglect prevention, identification and treatment; and</text>
+      <text>"(6) To prepare and submit to the Mayor, the Council of the District of Columbia, and the public an annual report which shall include a description of the specific actions taken to implement this act and an evaluation of the Division's performance. The report shall include a full statistical analysis of case reports received, an evaluation of services offered, recommendations for additional legislation or services needed to fulfill the purposes of this act and the comments submitted by the Mayor's Interagency Interdepartmental Committee on Abuse and Neglect. The 1st report shall be submitted not later than 1 year and 90 days after September 23, 1977.</text>
+      <text>"(c) The Chief of the Division and the Director of the Department of Human Resources shall implement the Protection of Children from Exposure to Drug-related Activity Amendment Act of 1989. The Chief of the Division and the Director of the Department of Human Services shall provide the services authorized pursuant to this section to a child who is abused as a result of inadequate care, control, or subsistence due to exposure to drug-related activity."</text>
+      <text>D.C. Law 13-277 rewrote the section heading which had read: "Duties and Responsibilities"; in subsec. (a), rewrote the lead-in sentence which had read: "The Chief of the Division, or the person or agency that contracts with the department for these services shall:", in par. (4)(A)(i), substituted "Agency's" for "Division's", and added pars. (7) to (15); added subsec. (a-1); in subsec. (b), in the lead-in sentence, substituted "Agency, or the person or agency the Agency contracts with" for "Director of the Department of Human Services, or the person or agency the department contracts with", in pars. (2) and (4), substituted "Agency" for "Department of Human Services", and in par. (10(E), substituted "Agency's" for "Division's"; in subsec. (c), substituted "Director of the Agency" for "Chief of the Division and the Director of the Department of Human Services"; and, in subsec. (d), substituted "Agency" for "Department of Human Services", and deleted "and the Child Abuse Unit of the Social Services Division of the Superior Court of the district of Columbia" preceding "in administering".</text>
+      <text>D.C. Law 14-42 validated a previously made technical correction in subsec. (d).</text>
+      <text>D.C. Law 15-341, in subsec. (a)(1), substituted "abuse or neglect" for "neglect" and substituted "abused or neglected" for "abused"; in subsec. (a)(2), substituted "that the Office of the Attorney General file" for "the filing of"; rewrote subsecs. (a-1)(5), (b)(4)(D), and (b)(4)(F); deleted "and" from the end of (b)(4)(G); added subsecs. (b)(4)(I), (J), and (K); deleted "and" from the end of (b)(9); added subsecs. (b)(9A) and (9B); rewrote subsec. (b)(10)(B)(iii); deleted 'and" from the end of subsec. (b)(10)(B)(iv); and added subsec. (b)(10)(B)(v).</text>
+      <text>D.C. Law 15-354 repealed par. (12) of subsec. (a) which had read as follows: "(12) To encourage and assist in the formation of child abuse and neglect teams in hospitals, health and mental health clinics, and other appropriate facilities in the District of Columbia;".</text>
+      <text>D.C. Law 17-199, in subsec. (a-1), added par. (3A).</text>
+      <text>D.C. Law 18-162, in subsec. (a), deleted "and" from the end of par. (14); substituted "; and" for a period at the end of par. (15), and added par. (16).</text>
+      <text>D.C. Law 18-230, in subsec. (a), deleted "and" from the end of par. (15); substituted "; and" for a period at the end of par. (16), and added par. (17).</text>
+      <text>D.C. Law 18-312 added subsec. (b)(11).</text>
+      <text>D.C. Law 19-162 added subsecs. (a)(18) and (19).</text>
+      <text>The 2012 amendment by D.C. Law 19-171 validated the subsection designations in (a); and substituted "consistent with Chapter 3A of Title 2 et seq.; except, that § 2-352.01(a) shall not apply" for "consistent with Unit A of Chapter 3 of Title 2, except § 2-301.05(a), (b), (c), and (e)" in (a-1)(9).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 201(d) of Adoption and Safe Families Temporary Amendment Act of 1999 (D.C. Law 13-56, March 7, 2000, law notification 47 DCR 1978).</text>
+      <text>For temporary (225 day) amendment of section, see § 2 of Child and Family Services Grant-making Temporary Amendment Act of 2006 (D.C. Law 16-193, March 2, 2007, law notification 54 DCR 2491).</text>
+      <text>For temporary (225 day) amendment of section, see § 2 of Child and Family Services Grant-making Temporary Amendment Act of 2007 (D.C. Law 17-105, February 2, 2008, law notification 55 DCR 4257).</text>
+    </level>
+    <level>
+      <heading>Temporary Repeal of Section</heading>
+      <text>Section 110 of D.C. Law 19-226 repealed D.C. Law 18-230, § 701.</text>
+      <text>Section 402(b) of D.C. Law 19-226 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary provisions transferring to the Mayor the discretionary authority for creating monetary obligations and approving expenditures in the District of Columbia's Aid to Families With Dependent Children, Medicaid, and child abuse and neglect/foster care programs that Reorganization Plan No. 2 of 1979, Reorganization Plan No. 3 of 1986, and the Prevention of Child Abuse and Neglect Act of 1977 vested in the Department of Human Services, see § 2 of the Reorganization No. 2 of 1995 to Transfer to the Mayor Certain Discretionary Authority Vested in the Department of Human Services Emergency Act of 1995 (D.C. Act 11-103, July 21, 1995, 42 DCR 4012).</text>
+      <text>For temporary (90-day) amendment of section, see § 201(d) of the Adoption and Safe Families Emergency Amendment Act of 1999 (D.C. Act 13-117, July 28, 1999, 46 DCR 6558).</text>
+      <text>For temporary (90-day) amendment of section, see § 201(d) of the Adoption and Safe Families Legislative Review Emergency Amendment Act of 1999 (D.C. Act 13-178, November 2, 1999, 46 DCR 9714).</text>
+      <text>For temporary (90-day) amendment of section, see § 201(d) of the Adoption and Safe Families Congressional Review Emergency Amendment Act of 1999 (D.C. Act 13-240, January 11, 2000, 47 DCR 556).</text>
+      <text>For temporary (90 day) amendment of section, see § 4(b) of the Adoption and Safe Families Compliance Congressional Review Emergency Amendment Act of 2000 (D.C. Act 13-451, November 7, 2000, 47 DCR 9399).</text>
+      <text>For temporary (90 day) amendment of section, see § 4(b) of Adoption and Safe Families Compliance Emergency Amendment Act of 2001 (D.C. Act 14-65, June 6, 2001, 48 DCR 5721).</text>
+      <text>For temporary (90 day) amendment of section, see § 13 of Technical Amendments Emergency Act of 2001 (D.C. Act 14-108, August 3, 2001, 48 DCR 7622).</text>
+      <text>For temporary (90 day) amendment of section, see § 2 of Child and Family Services Grant-making Emergency Amendment Act of 2006 (D.C. Act 16-450, July 21, 2006, 53 DCR 6493).</text>
+      <text>For temporary (90 day) amendment of section, see § 2 of Child and Family Services Grant-making Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-522, October 27, 2006, 53 DCR 9120).</text>
+      <text>For temporary (90 day) amendment of section, see § 2 of Child and Family Services Grant-making Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-668, December 28, 2006, 54 DCR 1144).</text>
+      <text>For temporary (90 day) amendment of section, see § 2 of Child and Family Services Grant-making Emergency Amendment Act of 2007 (D.C. Act 17-167, October 19, 2007, 54 DCR 10976).</text>
+      <text>For temporary (90 day) amendment of section, see § 2 of Child and Family Services Grant-making Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-247, January 23, 2008, 55 DCR 1251).</text>
+      <text>For temporary repeal of D.C. Law 18-230, § 701, see § 110 of the Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 12, 2012, 59 DCR 12478).</text>
+      <text>For temporary repeal of D.C. Law 18-230, § 701, see § 110 of the Fiscal Year 2013 Budget Support Technical Clarification Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-604, January 14, 2013, 60 DCR 1045), applicable as of January 10, 2013.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-22</heading>
+      <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 4-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-87</heading>
+      <text>For legislative history of D.C. Law 8-87, see Historical and Statutory Notes following § 4-1301.06a.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-136</heading>
+      <text>For Law 13-136, see notes following § 4-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-277</heading>
+      <text>For D.C. Law 13-277, see notes following § 4-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-42</heading>
+      <text>Law 14-42, the "Technical Correction Amendment Act of 2001", was introduced in Council and assigned Bill No. 14-216, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 5, 2001, and June 26, 2001, respectively. Signed by the Mayor on July 24, 2001, it was assigned Act No. 14-107 and transmitted to both Houses of Congress for its review. D.C. Law 14-42 became effective on October 26, 2001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-341</heading>
+      <text>For Law 15-341, see notes following § 4-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 4-204.55.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-199</heading>
+      <text>Law 17-199, the "Child and Family Services Grant-Making Amendment Act of 2008", was introduced in Council and assigned Bill No. 17-250 which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on April 1, 2008, and May 6, 2008, respectively. Signed by the Mayor on May 23, 2008, it was assigned Act No. 17-396 and transmitted to both Houses of Congress for its review. D.C. Law 17-199 became effective on July 18, 2008.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-162</heading>
+      <text>For Law 18-162, see notes following § 4-1303.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-230</heading>
+      <text>For Law 18-230, see notes following § 4-301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-312</heading>
+      <text>For history of Law 18-312, see notes under § 4-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-162</heading>
+      <text>Law 19-162, the "Foster Care Youth Employment Amendment Act of 2012", was introduced in Council and assigned Bill No. 19-691, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on April 17, 2012, and May 1, 2012, respectively. Signed by the Mayor on May 16, 2012, it was assigned Act No. 19-372 and transmitted to both Houses of Congress for its review. D.C. Law 19-162 became effective on July 13, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>The "Protection of Children from Exposure to Drug-related Activity Amendment Act of 1989", referred to in (c), is D.C. Law 8-87.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of Authority to the Child and Family Services Agency under Section 303(a)(16)(E) of the Prevention of Child Abuse and Neglect Act of 1977, see Mayor's Order 2010-154, September 17, 2010 (57 DCR 8543).</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Directives and Redelegation of Authority to Assure the Continued Operation of the Aid to Families with Dependent Children, Medicaid and Child Abuse-and-Neglect/Foster Care Programs During Fiscal Year 1995: See Mayor's Order 95-115, August 31, 1995.</text>
+      <text>For applicability of D.C. Law 13-277, see note following § 4-1303.01a.</text>
+      <text>Section 701 of D.C. Law 18-230 provided: "Sec. 701. Applicability. Title III of this act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan."</text>
+      <text>The Budget Director of the Council of the District of Columbia has determined, as of February 15, 2012, that the fiscal effect of Title III of Law 18-230 has not been included in an approved budget and financial plan. Therefore, the provisions of this section, enacted by title III of Law 18-230, are not in effect.</text>
+      <text>The Budget Director of the Council of the District of Columbia has determined, as of October 10, 2012, that the fiscal effect of Title III of Law 18-230 has been included in an approved budget and financial plan. Therefore, the provisions of this section, enacted by Title III of Law 18-230, are in effect. Section 110 of emergency D.C. Act 19-482 repealed section 701 of D.C. Law 18-230.</text>
     </level>
   </level>
 </level>

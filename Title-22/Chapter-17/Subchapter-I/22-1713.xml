@@ -1,7 +1,6 @@
 <level type="section">
   <num>22-1713</num>
   <heading>Corrupt influence in connection with athletic contests.</heading>
-  <formerly-cited-as>DC ST 1981 § 22-1513</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>It shall be unlawful to pay or give, or to agree to pay or give, or to promise or offer, any valuable thing to any individual:</text>
@@ -68,11 +67,11 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>Whoever violates any provision of subsection (a) of this section shall be guilty of a felony, and, upon conviction thereof, shall be punished by imprisonment for not less than 1 year nor more than 5 years and by a fine of not more than $10,000.</text>
+    <text>Whoever violates any provision of subsection (a) of this section shall be guilty of a felony, and, upon conviction thereof, shall be punished by imprisonment for not less than 1 year nor more than 5 years and by a fine of not more than the amount set forth in § 22-3571.01.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text>Whoever violates any provision of subsection (b) of this section shall, upon conviction thereof, be punished by imprisonment for not more than 1 year and by a fine of not more than $5,000.</text>
+    <text>Whoever violates any provision of subsection (b) of this section shall, upon conviction thereof, be punished by imprisonment for not more than 1 year and by a fine of not more than the amount set forth in § 22-3571.01.</text>
   </level>
   <level>
     <num>(e)</num>
@@ -82,23 +81,35 @@
     <num>(f)</num>
     <text>Nothing in this section shall be construed to prohibit the giving or offering of any bonus or extra compensation to any manager, coach, or professional player, or to any league, association, or conference for the purpose of encouraging such manager, coach, or player to a higher degree of skill, ability, or diligence in the performance of his or her duties.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 3, 1901, ch. 854, § 869e; July 11, 1947, 61 Stat. 313, ch. 230; Dec. 27, 1967, 81 Stat. 737, Pub. L. 90-226, title VI, § 604; May 21, 1994, D.C. Law 10-119, § 2(n), 41 DCR 1639.)</text>
+      <heading>History</heading>
+      <text>(Mar. 3, 1901, ch. 854, § 869e; July 11, 1947, 61 Stat. 313, ch. 230; Dec. 27, 1967, 81 Stat. 737, Pub. L. 90-226, title VI, § 604; May 21, 1994, D.C. Law 10-119, § 2(n), 41 DCR 1639; June 11, 2013, D.C. Law 19-317, § 201(t), 60 DCR 2064.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 22-1513.</text>
-        <text>1973 Ed., § 22-1513.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-119, see Historical and Statutory Notes following § 22-1701.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 23-546.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 22-1513.</text>
+      <text>1973 Ed., § 22-1513.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-317 substituted "not more than the amount set forth in § 22-3571.01" for "not more than $10,000" in (c) and for "not more than $5,000" in (d).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-119</heading>
+      <text>For legislative history of D.C. Law 10-119, see Historical and Statutory Notes following § 22-1701.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-317</heading>
+      <text>See note to § 22-1701.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
     </level>
   </level>
 </level>

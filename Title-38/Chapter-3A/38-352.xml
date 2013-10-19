@@ -3,39 +3,33 @@
   <heading>Qualifications.</heading>
   <text>The Ombudsman shall:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Be appointed without regard to party affiliation;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Be appointed on the basis of integrity;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Possess a demonstrated ability to analyze issues and matters of law, administration, and policy;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Possess experience in the field of social work, counseling, mediation, law, policy, or public administration or auditing, accounting, or other investigative field; and</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Have management experience that demonstrates an ability to hire and supervise qualified staff.</text>
-    </level>
+    <num>(1)</num>
+    <text>Be appointed without regard to party affiliation;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Be appointed on the basis of integrity;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Possess a demonstrated ability to analyze issues and matters of law, administration, and policy;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Possess experience in the field of social work, counseling, mediation, law, policy, or public administration or auditing, accounting, or other investigative field; and</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Have management experience that demonstrates an ability to hire and supervise qualified staff.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 12, 2007, D.C. Law 17-9, § 603, 54 DCR 4102.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-9, see notes following § 38-351.</text>
-      </level>
+      <heading>Legislative History of Law 17-9</heading>
+      <text>For Law 17-9, see notes following § 38-351.</text>
     </level>
   </level>
 </level>

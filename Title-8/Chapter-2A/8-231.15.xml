@@ -11,7 +11,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>Civil infraction fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this chapter or the rules issued under this chapter pursuant to Chapter 18 of Title 2. Adjudication of any infractions shall be pursuant to Chapter 18 of Title 2.</text>
+    <text>Civil infraction fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this chapter or the rules issued under this chapter pursuant to Chapter 18 of Title 2 [§ 2-1801 et seq.]. Adjudication of any infractions shall be pursuant to Chapter 18 of Title 2 [§ 2-1801 et seq.].</text>
   </level>
   <level>
     <num>(d)</num>
@@ -25,24 +25,26 @@
     <num>(f)</num>
     <text>As specified by the Mayor in rulemaking, a person adversely affected by an action taken pursuant to the provisions of this chapter, or the rules or regulations promulgated pursuant to this chapter, is entitled to a hearing before the Mayor upon filing with the Mayor, within 15 calendar days of such action, a written request for a hearing. The hearing shall be held in accordance with § 2-509.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 31, 2009, D.C. Law 17-381, § 16, 56 DCR 1596; Mar. 31, 2011, D.C. Law 18-348, § 2(k), 58 DCR 717.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-348 rewrote subsec. (a), which had read as follows:</text>
-        <text>"(a) Any notice required by this chapter may be served upon an owner of the dwelling or agent of the owner in the same manner as a summons in a civil action or by registered or certified mail to his or her last known address or place of residence."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-381, see notes following § 8-231.01.</text>
-        <text>For history of Law 18-348, see notes under § 8-231.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-231.05.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-348 rewrote subsec. (a), which had read as follows: "(a) Any notice required by this chapter may be served upon an owner of the dwelling or agent of the owner in the same manner as a summons in a civil action or by registered or certified mail to his or her last known address or place of residence."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-381</heading>
+      <text>For Law 17-381, see notes following § 8-231.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-348</heading>
+      <text>For history of Law 18-348, see notes under § 8-231.01.</text>
     </level>
   </level>
 </level>

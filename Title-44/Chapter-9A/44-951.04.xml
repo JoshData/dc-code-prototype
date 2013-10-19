@@ -106,18 +106,14 @@
     <num>(k)</num>
     <text>The Board shall maintain regular contact with the Director of the Department of Health, or successor agency, and shall meet with the Director upon the Director's request.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 2011, D.C. Law 19-21, § 5115, 58 DCR 6226.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-21, see notes under § 44-951.01.</text>
-      </level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 44-951.01.</text>
     </level>
   </level>
 </level>

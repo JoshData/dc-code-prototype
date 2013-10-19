@@ -1,7 +1,6 @@
 <level type="section">
   <num>16-2327</num>
   <heading>Probation revocation; disposition.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-2327</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>If a child on probation incident to an adjudication of delinquency or need of supervision violates any term of his probation he may be proceeded against in a probation revocation hearing.</text>
@@ -18,23 +17,19 @@
     <num>(d)</num>
     <text>If a child is found to have violated the terms of his probation, the Division may modify the terms and conditions of the probation order, extend the period of probation, or enter any other order of disposition specified in section 16-2320 for a delinquent child.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 538, Pub. L. 91-358, title I, § 121(a); Sept. 23, 1977, D.C. Law 2-22, title IV, § 408(a), 24 DCR 3341.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-2327.</text>
-        <text>1973 Ed., § 16-2327.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 16-2301.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-2327.</text>
+      <text>1973 Ed., § 16-2327.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-22</heading>
+      <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 16-2301.</text>
     </level>
   </level>
 </level>

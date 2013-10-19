@@ -1,17 +1,16 @@
 <level type="section">
   <num>31-4901</num>
   <heading>Actuarial opinion of reserves.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-3801</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">General requirements and guidelines.</text> --</text>
+    <heading>General requirements and guidelines</heading>
     <level>
       <num>(1)</num>
       <text>Every life insurance company doing business in the District of Columbia shall annually submit the opinion of a qualified actuary as to whether the reserves and related actuarial items held in support of the policies and contracts specified by the Mayor, by regulation, are computed appropriately, are based on assumptions which satisfy contractual provisions, are consistent with prior reported amounts, and comply with § 31-4701 and all applicable laws of the District of Columbia. The Mayor by regulation shall define the specifics of this opinion and add any other items deemed to be necessary to its scope.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>For each year ending on or after December 31, 1993, the opinion shall be submitted with the annual statements and reports required by §§ 31-203 and 31-5202, and Chapter 3 of this title.</text>
+      <text>For each year ending on or after December 31, 1993, the opinion shall be submitted with the annual statements and reports required by §§ 31-203 [repealed] and 31-5202, and Chapter 3 of this title.</text>
     </level>
     <level>
       <num>(3)</num>
@@ -100,7 +99,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Actuarial analysis of reserves and assets supporting reserves.</text> --</text>
+    <heading>Actuarial analysis of reserves and assets supporting reserves</heading>
     <level>
       <num>(1)</num>
       <text>Every life insurance company, except as exempted by or pursuant to regulation, shall also annually include in the opinion required by subsection (a)(1) of this section an opinion of the same qualified actuary as to whether the reserves and related actuarial items held in support of the policies and contracts specified by the Mayor by regulation, when considered in light of the assets held by the company with respect to the reserves and related actuarial items, including, but not limited to, the investment earnings on the assets and the considerations anticipated to be received and retained under the policies and contracts, make adequate provision for the company's obligations under the policies and contracts, including, but not limited to, the benefits under and expenses associated with the policies and contracts.</text>
@@ -110,37 +109,39 @@
       <text>The Mayor may provide by regulation for a transition period during which a life insurance company may establish any higher reserves that the qualified actuary deems necessary in order to render the opinion required by this section.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 21, 1993, D.C. Law 10-50, § 2, 40 DCR 6117; Oct. 21, 2000, D.C. Law 13-191, § 7, 47 DCR 7311; June 11, 2004, D.C. Law 15-166, § 4(cc), 51 DCR 2817.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-3801.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-191 amending subsec. (a), added pars. (8A) to (8G).</text>
-        <text>D.C. Law 15-166, in par. (8A) of subsec. (a), substituted "Department of Insurance, Securities, and Banking" for "Department of Insurance and Securities Regulation".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 4(cc) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>D.C. Law 10-50, the "Life Insurance Actuarial Opinion of Reserves Act of 1993," was introduced in Council and assigned Bill No. 10-133, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 4, 1993, it was assigned Act No. 10-95 and transmitted to both Houses of Congress for its review. D.C. Law 10-50 became effective on October 21, 1993.</text>
-        <text>Law 13-191, the "Insurer Confidentiality and Information Sharing Amendment Act of 2000," was introduced in Council and assigned Bill No. 13-706, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on June 26, 2000, and July 11, 2000, respectively. Signed by the Mayor on August 4, 2000, it was assigned Act No. 13-419 and transmitted to both Houses of Congress for its review. D.C. Law 13- 191 became effective on October 21, 2000.</text>
-        <text>For Law 15-166, see notes following § 31-1004.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority pursuant to D.C. Law 10-50, the Life Insurance Actuarial Opinion of Reserves Act of 1993, see Mayor's Order 94-54, March 7, 1994 (41 DCR 1433).</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-3801.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-191 amending subsec. (a), added pars. (8A) to (8G).</text>
+      <text>D.C. Law 15-166, in par. (8A) of subsec. (a), substituted "Department of Insurance, Securities, and Banking" for "Department of Insurance and Securities Regulation".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 4(cc) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-50</heading>
+      <text>D.C. Law 10-50, the "Life Insurance Actuarial Opinion of Reserves Act of 1993," was introduced in Council and assigned Bill No. 10-133, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 4, 1993, it was assigned Act No. 10-95 and transmitted to both Houses of Congress for its review. D.C. Law 10-50 became effective on October 21, 1993.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-191</heading>
+      <text>Law 13-191, the "Insurer Confidentiality and Information Sharing Amendment Act of 2000," was introduced in Council and assigned Bill No. 13-706, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on June 26, 2000, and July 11, 2000, respectively. Signed by the Mayor on August 4, 2000, it was assigned Act No. 13-419 and transmitted to both Houses of Congress for its review. D.C. Law 13-191 became effective on October 21, 2000.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-166</heading>
+      <text>For Law 15-166, see notes following § 31-1004.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority pursuant to D.C. Law 10-50, the Life Insurance Actuarial Opinion of Reserves Act of 1993, see Mayor's Order 94-54, March 7, 1994 (41 DCR 1433).</text>
     </level>
   </level>
 </level>

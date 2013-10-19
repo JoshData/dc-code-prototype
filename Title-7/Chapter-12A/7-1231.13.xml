@@ -3,65 +3,61 @@
   <heading>Retention of civil rights.</heading>
   <text>Consumers shall be presumed legally competent and retain all civil rights, unless otherwise limited by order of the court. As used in this section, the term "civil rights" shall include, but not be limited to, the rights to:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Contract;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Hold a professional, occupational, or motor vehicle driver's license;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Marry or enter into a domestic partnership, or obtain a divorce, annulment, or dissolution of marriage or a termination of a domestic partnership in accordance with § 32-702(d).</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Make a will;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Hold or dispose of property;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Vote;</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>Sue and be sued;</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>Serve on a jury; and</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>Enjoy all benefits and privileges guaranteed by law.</text>
-    </level>
+    <num>(1)</num>
+    <text>Contract;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Hold a professional, occupational, or motor vehicle driver's license;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Marry or enter into a domestic partnership, or obtain a divorce, annulment, or dissolution of marriage or a termination of a domestic partnership in accordance with § 32-702(d).</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Make a will;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Hold or dispose of property;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Vote;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>Sue and be sued;</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>Serve on a jury; and</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>Enjoy all benefits and privileges guaranteed by law.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 18, 2001, D.C. Law 14-56, § 213, 48 DCR 7674; Sept. 12, 2008, D.C. Law 17-231, § 17(b), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-231 rewrote par. (3), which had read as follows:</text>
-        <text>"(3) Marry or obtain a divorce, annulment, or dissolution of marriage;".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 213 of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-56, see notes following § 7-1231.01.</text>
-        <text>For Law 17-231, see notes following § 7-621.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-231 rewrote par. (3), which had read as follows: "(3) Marry or obtain a divorce, annulment, or dissolution of marriage;".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 213 of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-56</heading>
+      <text>For Law 14-56, see notes following § 7-1231.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 7-621.</text>
     </level>
   </level>
 </level>

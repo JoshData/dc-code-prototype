@@ -3,105 +3,109 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Competence" means that a defendant has sufficient present ability to consult with his or her lawyer with a reasonable degree of rational understanding and has a rational, as well as a factual, understanding of the proceedings against him or her.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Court" or "Superior Court" means the Superior Court of the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(2A)</num>
+    <text>"DDS" means the Department on Disability Services.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Defendant" means a defendant in a criminal case or a respondent in a transfer proceeding.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"DMH" means the Department of Mental Health.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Incompetent" means that, as a result of a mental disease or defect, a defendant does not have sufficient present ability to consult with his or her lawyer with a reasonable degree of rational understanding or does not have a rational, as well as a factual, understanding of the proceedings against him or her.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Inpatient treatment facility" means:</text>
     <level>
-      <num>(1)</num>
-      <text>"Competence" means that a defendant has sufficient present ability to consult with his or her lawyer with a reasonable degree of rational understanding and has a rational, as well as a factual, understanding of the proceedings against him or her.</text>
+      <num>(A)</num>
+      <text>Saint Elizabeths Hospital;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Court" or "Superior Court" means the Superior Court of the District of Columbia.</text>
+      <num>(B)</num>
+      <text>Any other physically secure hospital for the examination or treatment of persons with mental illness; or</text>
     </level>
     <level>
-      <num>(2A)</num>
-      <text>"DDS" means the Department on Disability Services.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Defendant" means a defendant in a criminal case or a respondent in a transfer proceeding.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"DMH" means the Department of Mental Health.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Incompetent" means that, as a result of a mental disease or defect, a defendant does not have sufficient present ability to consult with his or her lawyer with a reasonable degree of rational understanding or does not have a rational, as well as a factual, understanding of the proceedings against him or her.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Inpatient treatment facility" means:</text>
-      <level>
-        <num>(A)</num>
-        <text>Saint Elizabeths Hospital;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Any other physically secure hospital for the examination or treatment of persons with mental illness; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Any physically secure or staff-secure facility for the examination, treatment, or habilitation of persons with intellectual disabilities.</text>
-      </level>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>Repealed.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Transfer proceeding" means a proceeding pursuant to § 16-2307 to transfer a respondent who is alleged to be a delinquent in a juvenile case from the Family Court to the Criminal Division of the Superior Court of the District of Columbia to face adult criminal charges.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Treatment" means the services or supports provided to persons with mental illness or intellectual disabilities, including services or supports that are offered or ordered to restore a person to competence, to assist a person in becoming competent, or to ensure that a person will be competent.</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Treatment provider" means:</text>
-      <level>
-        <num>(A)</num>
-        <text>The Department of Mental Health;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>DDS;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>An inpatient treatment facility as defined in paragraph (6) of this section; or</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Any other entity or individual designated by the DMH or DDS to provide evaluation, examination, treatment, or habilitation pursuant to this chapter that:</text>
-        <level>
-          <num>(i)</num>
-          <text>Is duly licensed or certified under the laws of the District of Columbia to provide services or supports to persons with mental illness or intellectual disabilities, or both; and</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Has entered into an agreement with the District to provide mental health services or mental health supports or to provide services or supports to persons with intellectual disabilities.</text>
-        </level>
-      </level>
+      <num>(C)</num>
+      <text>Any physically secure or staff-secure facility for the examination, treatment, or habilitation of persons with intellectual disabilities.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(7)</num>
+    <text>Repealed.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Transfer proceeding" means a proceeding pursuant to § 16-2307 to transfer a respondent who is alleged to be a delinquent in a juvenile case from the Family Court to the Criminal Division of the Superior Court of the District of Columbia to face adult criminal charges.</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Treatment" means the services or supports provided to persons with mental illness or intellectual disabilities, including services or supports that are offered or ordered to restore a person to competence, to assist a person in becoming competent, or to ensure that a person will be competent.</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"Treatment provider" means:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>The Department of Mental Health;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The DDS;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>An inpatient treatment facility as defined in paragraph (6) of this section; or</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Any other entity or individual designated by the DMH or DDS to provide evaluation, examination, treatment, or habilitation pursuant to this chapter that:</text>
+      <level>
+        <num>(i)</num>
+        <text>Is duly licensed or certified under the laws of the District of Columbia to provide services or supports to persons with mental illness or intellectual disabilities, or both; and</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Has entered into an agreement with the District to provide mental health services or mental health supports or to provide services or supports to persons with intellectual disabilities.</text>
+      </level>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(May 24, 2005, D.C. Law 15-358, § 101, 52 DCR 2015; Sept. 26, 2012, D.C. Law 19-169, § 22(a), 59 DCR 5567.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-169 added par. (2A); in pars. (6)(C), (9), and (10)(D), substituted "intellectual disabilities" for "mental retardation"; repealed par. (7); in par. (10)(B), substituted "DDS" for "The Mental Retardation and Developmental Disabilities Administration"; and, in par. (10)(D), substituted "DDS" for "MRDDA". Prior to repeal, par. (7) read as follows:</text>
-        <text>"(7) 'MRDDA'means the Mental Retardation and Developmental Disabilities Administration."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 15-358, the "Incompetent Defendants Criminal Commitment Act of 2004", was introduced in Council and assigned Bill No. 15-967, which was referred to the Committee on Judiciary. The Bill was adopted on first and second readings on December 7, 2004, and December 21, 2004, respectively. Signed by the Mayor on January 19, 2005, it was assigned Act No. 15-748 and transmitted to both Houses of Congress for its review. D.C. Law 15-358 became effective on May 2005.</text>
-        <text>Law 19-169, the "People First Respectful Language Modernization Amendment Act of 2012", was introduced in Council and assigned Bill No. 19-189, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on March 6, 2012, and April 17, 2012, respectively. Signed by the Mayor on May 15, 2012, it was assigned Act No. 19-361 and transmitted to both Houses of Congress for its review. D.C. Law 19-169 became effective on September 26, 2012.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-2307.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-169 added (2A); substituted "intellectual disabilities" for "mental retardation" wherever it appears in (6)(C), (9), and (10); repealed (7), which formerly read: "'MRDDA' means the Mental Retardation and Developmental Disabilities Administration"; substituted "DDS" for "The Mental Retardation and Developmental Disabilities Administration" in (10)(B); and substituted "DDS" for "MRDDA" in the introductory language of (10)(D).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-358</heading>
+      <text>Law 15-358, the "Incompetent Defendants Criminal Commitment Act of 2004", was introduced in Council and assigned Bill No. 15-967, which was referred to the Committee on Judiciary. The Bill was adopted on first and second readings on December 7, 2004, and December 21, 2004, respectively. Signed by the Mayor on January 19, 2005, it was assigned Act No. 15-748 and transmitted to both Houses of Congress for its review. D.C. Law 15-358 became effective on May 2005.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-169</heading>
+      <text>Law 19-169, the "People First Respectful Language Modernization Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-189. The Bill was adopted on first and second readings on Mar. 6, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 15, 2012, it was assigned Act No. 19-361 and transmitted to Congress for its review. D.C. Law 19-169 became effective on Sept. 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 35 of D.C. Law 19-169 provided that no provision of the act shall impair any right or obligation existing under law.</text>
     </level>
   </level>
 </level>

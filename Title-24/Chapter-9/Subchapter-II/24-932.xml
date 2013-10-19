@@ -1,62 +1,55 @@
 <level type="section">
   <num>24-932</num>
   <heading>Report.</heading>
-  <formerly-cited-as>DC ST 1981 § 24-832</formerly-cited-as>
   <text>The Director shall prepare a report assessing the BOOT CAMP, which shall be presented to the Mayor and the Council of the District of Columbia 12 months after the first day of operation of the BOOT CAMP. This report shall include the following:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>A summary of the original structure of the pilot program, and a summary of all changes to that original structure, along with the reasons for any changes;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>A summary of the effectiveness of the pilot program, according to the Director;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>An analysis of the total cost of the pilot program, including cost per participant;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>A summary of the standards used to determine removal from the BOOT CAMP;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>A listing of the offense(s) committed by each participant which led to his or her commitment to the BOOT CAMP;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>A listing of the number of participants who completed the BOOT CAMP, and the number of those who did not complete the program, along with a designation as to the reason for removal from the program;</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>A summary of the effect of the pilot program on the population at other juvenile facilities;</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>An analysis of the recidivism rate of eligible juvenile offenders who completed the BOOT CAMP and the recidivism rate of non-completers and a comparison sample of juvenile offenders who participated in a sanction other than the BOOT CAMP; and</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>Any recommendations as to changes to or expansion of the BOOT CAMP.</text>
-    </level>
+    <num>(1)</num>
+    <text>A summary of the original structure of the pilot program, and a summary of all changes to that original structure, along with the reasons for any changes;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>A summary of the effectiveness of the pilot program, according to the Director;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>An analysis of the total cost of the pilot program, including cost per participant;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>A summary of the standards used to determine removal from the BOOT CAMP;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>A listing of the offense(s) committed by each participant which led to his or her commitment to the BOOT CAMP;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>A listing of the number of participants who completed the BOOT CAMP, and the number of those who did not complete the program, along with a designation as to the reason for removal from the program;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>A summary of the effect of the pilot program on the population at other juvenile facilities;</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>An analysis of the recidivism rate of eligible juvenile offenders who completed the BOOT CAMP and the recidivism rate of non-completers and a comparison sample of juvenile offenders who participated in a sanction other than the BOOT CAMP; and</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>Any recommendations as to changes to or expansion of the BOOT CAMP.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Jan. 27, 1994, D.C. Law 10-67, § 601, 40 DCR 5768.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 24-832.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-67, see Historical and Statutory Notes following § 24-921.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 24-832.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-67</heading>
+      <text>For legislative history of D.C. Law 10-67, see Historical and Statutory Notes following § 24-921.</text>
     </level>
   </level>
 </level>

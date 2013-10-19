@@ -1,7 +1,6 @@
 <level type="section">
   <num>22-3214.02</num>
   <heading>Unlawful operation of a recording device in a motion picture theater.</heading>
-  <formerly-cited-as>DC ST 1981 § 22-3814.2</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For the purposes of this section, the term:</text>
@@ -20,7 +19,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>Any person convicted of unlawfully operating a recording device in a motion picture theater shall be fined not more than $300 or imprisoned for not more than 90 days, or both.</text>
+    <text>Any person convicted of unlawfully operating a recording device in a motion picture theater shall be fined not more than the amount set forth in § 22-3571.01 or imprisoned for not more than 90 days, or both.</text>
   </level>
   <level>
     <num>(d)</num>
@@ -42,22 +41,30 @@
       <text>The person detained or arrested was released within a reasonable time of the detention or arrest, or was surrendered to law enforcement authorities within a reasonable time.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Dec. 1, 1982, D.C. Law 4-164, § 114b, as added Oct. 31, 1995, D.C. Law 11-73, § 2(b), 42 DCR 3277.)</text>
+      <heading>History</heading>
+      <text>(Dec. 1, 1982, D.C. Law 4-164, § 114b, as added Oct. 31, 1995, D.C. Law 11-73, § 2(b), 42 DCR 3277; June 11, 2013, D.C. Law 19-317, § 205(e), 60 DCR 2064.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 22-3814.2.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-73, see Historical and Statutory Notes following § 22-3214.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 22-3814.2.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-317 substituted "not more than the amount set forth in § 22-3571.01" for "not more than $300" in (c).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-73</heading>
+      <text>For legislative history of D.C. Law 11-73, see Historical and Statutory Notes following § 22-3214.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-317</heading>
+      <text>See note to § 22-3212.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
     </level>
   </level>
 </level>

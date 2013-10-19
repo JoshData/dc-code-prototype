@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-1506</num>
   <heading>Supplemental allowance.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-306</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>When the average weekly wage has changed as provided for in § 32-1505, any person who has a total and permanent disability or any surviving spouse or domestic partner who is receiving payments for income benefits under this chapter in amounts per week less than the new maximum for total disability or death shall receive weekly from the carrier, without application, an additional supplemental allowance calculated by the Mayor in accordance with the provisions of subsections (b) and (c) of this section; provided, that such allowance shall not commence to accrue and be payable until the average weekly wage exceeds $396.78. The Mayor shall notify the carrier of the amount of such additional supplemental allowance.</text>
@@ -18,29 +17,31 @@
     <num>(d)</num>
     <text>No supplemental allowance referred to in subsections (b) and (c) of this section shall exceed 5% of the maximum weekly benefit received the preceding benefit year.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 1, 1980, D.C. Law 3-77, § 7, 27 DCR 2503; Apr. 24, 2007, D.C. Law 16-305, § 48(a), 53 DCR 6198; Sept. 12, 2008, D.C. Law 17-231, § 31(c), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-306.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-305, in subsec. (a), substituted "a total and permanent disability" for "been totally and continuously disabled"; and in subsecs. (b) and (c), substituted "person with a total disability" for "totally disabled person".</text>
-        <text>D.C. Law 17-231 substituted "surviving spouse or domestic partner" for "widow or widower".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
-        <text>For Law 16-305, see notes following § 32-241.</text>
-        <text>For Law 17-231, see notes following § 32-408.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-306.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-305, in subsec. (a), substituted "a total and permanent disability" for "been totally and continuously disabled"; and in subsecs. (b) and (c), substituted "person with a total disability" for "totally disabled person".</text>
+      <text>D.C. Law 17-231 substituted "surviving spouse or domestic partner" for "widow or widower".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-77</heading>
+      <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-305</heading>
+      <text>For Law 16-305, see notes following § 32-241.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 32-408.</text>
     </level>
   </level>
 </level>

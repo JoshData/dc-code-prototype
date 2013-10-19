@@ -10,7 +10,23 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The riparian area and piers associated with the land described in paragraph (1) of this subsection, which includes: (A) The Fish Market; (B) The Capital Yacht Club; (C) The Gangplank Marina; and (D) Piers 4 and 5; provided, that the Southwest Waterfront Improvement Benefit District shall not include the SWW Development; provided further, that Lots 820, 842, and 844, Square 473 shall not be included in the Southwest Waterfront Improvement Benefit District unless the Master Developer acquires the ground lessee's interest in those lots.</text>
+      <text>The riparian area and piers associated with the land described in paragraph (1) of this subsection, which includes:</text>
+      <level>
+        <num>(A)</num>
+        <text>The Fish Market;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The Capital Yacht Club;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The Gangplank Marina; and</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Piers 4 and 5; provided, that the Southwest Waterfront Improvement Benefit District shall not include the SWW Development; provided further, that Lots 820, 842, and 844, Square 473 shall not be included in the Southwest Waterfront Improvement Benefit District unless the Master Developer acquires the ground lessee's interest in those lots.</text>
+      </level>
     </level>
   </level>
   <level>
@@ -21,18 +37,18 @@
     <num>(c)</num>
     <text>Beginning with the 1st year Special Assessments, Special Assessments on all lots on which Special Assessments have been levied shall be collected pursuant to § 47-895.02 or may be collected only from the lots within a specific phase of the project to be improved or that has been improved, as determined by the Chief Financial Officer at the time of the issuance of any bonds.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2008, D.C. Law 17-252, § 301(b), 55 DCR 9251.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-252, see notes following § 47-895.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1217.131, § 2-1217.133, and § 47-895.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-252</heading>
+      <text>For Law 17-252, see notes following § 47-895.01.</text>
     </level>
   </level>
 </level>

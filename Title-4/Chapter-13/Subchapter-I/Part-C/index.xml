@@ -1,10 +1,10 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>C</num>
-  <heading>Child and Family Services Agency.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-1303.01~P.xml"/>
+  <heading>Child and Family Services Agency</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-1303.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-1303.01a.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-1303.02~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-1303.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-1303.02a.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-1303.03.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-1303.03a.xml"/>

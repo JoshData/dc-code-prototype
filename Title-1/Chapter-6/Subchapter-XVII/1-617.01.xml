@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-617.01</num>
   <heading>Policy.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-618.1</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The District of Columbia government finds and declares that an effective collective bargaining process is in the general public interest and will improve the morale of public employees and the quality of service to the public.</text>
@@ -30,41 +29,51 @@
     <num>(d)</num>
     <text>Subsection (b) of this section does not authorize participation in the management of a labor organization or activity as a representative of such an organization by a supervisor, or management official or by an employee when the participation or activity would result in a conflict of interest or otherwise be incompatible with law or with the official duties of the employee. Supervisor means an employee having authority, in the interest of an agency, to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees, or responsibility to direct them, or to evaluate their performance, or to adjust their grievances, or effectively to recommend such action, if in connection with the foregoing the exercise of authority is not of a merely routine or clerical nature, but requires the use of independent judgment. The definition of supervisor shall include an incumbent of a position which is classified at a level higher than it would have been had the incumbent not performed some or all of the above duties.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-139, § 1701, 25 DCR 5740; Oct. 1, 2002, D.C. Law 14-190, § 3832(a), 49 DCR 6968.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-618.1.</text>
-        <text>1973 Ed., § 1-347.1.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-190, in subsec. (c), substituted "representative(s) of bargaining unit employees" for "employee representatives".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 3732(a) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-139, see Historical and Statutory Notes following § 1-601.01.</text>
-        <text>For Law 14-190, see notes following § 1-301.131.</text>
-      </level>
-      <level>
-        <heading>Resolutions</heading>
-        <text>Resolution 16-347, the "Compensation Agreement Between the District of Columbia and Compensation Unit 33 Agency Counsel Approval Resolution of 2005", was approved effective November 1, 2005.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Establishment of Labor Liaisons: See Mayor's Order 88-101, April 26, 1988.</text>
-        <text>Short title of subtitle B of title XXXVIII of Law 14-190: Section 3831 of D.C. Law 14-190 provided that subtitle B of title XXXVIII of the act may be cited as the Labor Relations Amendment Act of 2002.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Employee deferred compensation program, employee eligibility, treatment of benefits, authorization of program, see 47-3601.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-615.52.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-618.1.</text>
+      <text>1973 Ed., § 1-347.1.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-190, in subsec. (c), substituted "representative(s) of bargaining unit employees" for "employee representatives".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 3732(a) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-139</heading>
+      <text>For legislative history of D.C. Law 2-139, see Historical and Statutory Notes following § 1-601.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-190</heading>
+      <text>For Law 14-190, see notes following § 1-301.131.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title of subtitle B of title XXXVIII of Law 14-190: Section 3831 of D.C. Law 14-190 provided that subtitle B of title XXXVIII of the act may be cited as the Labor Relations Amendment Act of 2002.</text>
+    </level>
+    <level>
+      <heading>Resolutions</heading>
+      <text>Resolution 16-347, the "Compensation Agreement Between the District of Columbia and Compensation Unit 33 Agency Counsel Approval Resolution of 2005", was approved effective November 1, 2005.</text>
+    </level>
+    <level>
+      <heading>Mayor's orders</heading>
+      <text>Establishment of Labor Liaisons: See Mayor's Order 88-101, April 26, 1988.</text>
     </level>
   </level>
 </level>

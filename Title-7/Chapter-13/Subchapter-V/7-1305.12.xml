@@ -1,10 +1,9 @@
 <level type="section">
   <num>7-1305.12</num>
   <heading>Maintenance of records; information considered privileged and confidential; access; contents.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-1972</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>Complete records for each individual shall be maintained and shall be readily available to professional persons and to the staff workers who are directly involved with the particular individual and to the Department on Disability Services without divulging the identity of the individual. All information contained in a individual's records shall be considered privileged and confidential. The individual's parent or guardian who petitioned for the commitment, the individual's counsel, the individual's advocate for a person with an intellectual disability and any person properly authorized in writing by the individual, if such individual is capable of giving such authorization, shall be permitted access to the individual's records. These records shall include:</text>
+    <text>Complete records for each individual shall be maintained and shall be readily available to professional persons and to the staff workers who are directly involved with the particular individual and to the Department on Disability Services without divulging the identity of the individual. All information contained in an individual's records shall be considered privileged and confidential. The individual's parent or guardian who petitioned for the commitment, the individual's counsel, the individual's advocate for a person with an intellectual disability and any person properly authorized in writing by the individual, if such individual is capable of giving such authorization, shall be permitted access to the individual's records. These records shall include:</text>
     <level>
       <num>(1)</num>
       <text>Identification data, including the individual's legal status;</text>
@@ -47,7 +46,7 @@
     </level>
     <level>
       <num>(9)</num>
-      <text>A summary of each significant contact by a professional person with a individual;</text>
+      <text>A summary of each significant contact by a professional person with an individual;</text>
     </level>
     <level>
       <num>(10)</num>
@@ -59,7 +58,7 @@
     </level>
     <level>
       <num>(12)</num>
-      <text>A signed order by a professional person, as set forth in § 7- 1305.10(b), for any physical restraints;</text>
+      <text>A signed order by a professional person, as set forth in § 7-1305.10(b), for any physical restraints;</text>
     </level>
     <level>
       <num>(13)</num>
@@ -80,48 +79,64 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>Notwithstanding subsection (a) of this section, information contained in a individual's record may be used or disclosed for the purposes of and in accordance with Chapter 2A of this title.</text>
+    <text>Notwithstanding subsection (a) of this section, information contained in an individual's record may be used or disclosed for the purposes of and in accordance with Chapter 2A of this title [§ 7-251 et seq.].</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-137, § 512, 25 DCR 5094; Sept. 26, 1995, D.C. Law 11-52, § 506(w), 42 DCR 3684; Mar. 14, 2007, D.C. Law 16-264, § 301(m), 54 DCR 818; Dec. 4, 2010, D.C. Law 18-273, § 205, 57 DCR 7171; Sept. 26, 2012, D.C. Law 19-169, § 17(qq), 59 DCR 5567.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-1972.</text>
-        <text>1973 Ed., § 6-1692.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-264, in the lead-in text, substituted "Department on Disability Services" for "Department of Human Services".</text>
-        <text>D.C. Law 18-273 designated the existing text as subsec. (a); and added subsec. (b).</text>
-        <text>D.C. Law 19-169 substituted "individual" for "customer" and "individual's" for "customer's" throughout the section; and, in subsec. (a), substituted "advocate for a person with an intellectual disability" for "mental retardation advocate".</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 505(w) of Multiyear Budget Spending Reduction and Support Temporary Act of 1995 (D.C. Law 10-253, March 23, 1995, law notification 42 DCR 1652).</text>
-        <text>For temporary (225 day) amendment of section, see § 2 of Disclosure of Mental Retardation and Developmental Disabilities Fatality Review Committee and Mental Retardation and Developmental Disabilities Incident Management and Investigations Unit Information and Records Temporary Amendment Act of 2006 (D.C. Law 16-143, July 25, 2006, law notification 53 DCR 6686).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of section, see § 402(j) of the Omnibus Budget Support Emergency Act of 1995 (D.C. Act 11-44, April 28, 1995, 42 DCR 2217) and § 506(w) of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995, 42 DCR 4160).</text>
-        <text>For temporary (90 day) amendment of section, see § 2 of Disclosure of the Mental Retardation and Developmental Disabilities Fatality Review Committee and Mental Retardation and Developmental Disabilities Incident Management and Investigations Unit Information and Records Emergency Amendment Act of 2006 (D.C. Act 16-363, April 26, 2006, 53 DCR 3628).</text>
-        <text>For temporary (90 day) amendment of section, see § 301(m) of Developmental Disabilities Services Management Reform Emergency Amendment Act of 2006 (D.C. Act 16-672, December 28, 2006, 54 DCR 1155).</text>
-        <text>For temporary (90 day) amendment of section, see § 205 of Data-Sharing and Information Coordination Emergency Amendment Act of 2010 (D.C. Act 18-530, August 6, 2010, 57 DCR 8099).</text>
-        <text>For temporary (90 day) amendment of section, see § 205 of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-582, October 20, 2010, 57 DCR 10118).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-137, see Historical and Statutory Notes following § 7-1301.02.</text>
-        <text>For legislative history of D.C. Law 11-52, see Historical and Statutory Notes following § 7-1301.02.</text>
-        <text>For Law 16-264, see notes following § 7-1301.03.</text>
-        <text>For Law 18-273, see notes following § 7-131.</text>
-        <text>For history of Law 19-169, see notes under § 7-761.02. </text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-1371.06 and § 16-1054.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-1972.</text>
+      <text>1973 Ed., § 6-1692.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-264, in the lead-in text, substituted "Department on Disability Services" for "Department of Human Services".</text>
+      <text>D.C. Law 18-273 designated the existing text as subsec. (a); and added subsec. (b).</text>
+      <text>The 2012 amendment by D.C. Law 19-169 substituted "individual" for "customer" or variants throughout the section; and substituted "advocate for a person with an intellectual disability" for "mental retardation advocate" in the third sentence of the introductory language of (a).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 505(w) of Multiyear Budget Spending Reduction and Support Temporary Act of 1995 (D.C. Law 10-253, March 23, 1995, law notification 42 DCR 1652).</text>
+      <text>For temporary (225 day) amendment of section, see § 2 of Disclosure of Mental Retardation and Developmental Disabilities Fatality Review Committee and Mental Retardation and Developmental Disabilities Incident Management and Investigations Unit Information and Records Temporary Amendment Act of 2006 (D.C. Law 16-143, July 25, 2006, law notification 53 DCR 6686).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 402(j) of the Omnibus Budget Support Emergency Act of 1995 (D.C. Act 11-44, April 28, 1995, 42 DCR 2217) and § 506(w) of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995, 42 DCR 4160).</text>
+      <text>For temporary (90 day) amendment of section, see § 2 of Disclosure of the Mental Retardation and Developmental Disabilities Fatality Review Committee and Mental Retardation and Developmental Disabilities Incident Management and Investigations Unit Information and Records Emergency Amendment Act of 2006 (D.C. Act 16-363, April 26, 2006, 53 DCR 3628).</text>
+      <text>For temporary (90 day) amendment of section, see § 301(m) of Developmental Disabilities Services Management Reform Emergency Amendment Act of 2006 (D.C. Act 16-672, December 28, 2006, 54 DCR 1155).</text>
+      <text>For temporary (90 day) amendment of section, see § 205 of Data-Sharing and Information Coordination Emergency Amendment Act of 2010 (D.C. Act 18-530, August 6, 2010, 57 DCR 8099).</text>
+      <text>For temporary (90 day) amendment of section, see § 205 of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-582, October 20, 2010, 57 DCR 10118).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-137</heading>
+      <text>For legislative history of D.C. Law 2-137, see Historical and Statutory Notes following § 7-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-52</heading>
+      <text>For legislative history of D.C. Law 11-52, see Historical and Statutory Notes following § 7-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-264</heading>
+      <text>For Law 16-264, see notes following § 7-1301.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-273</heading>
+      <text>For Law 18-273, see notes following § 7-131.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-169</heading>
+      <text>See note to § 7-1305.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 35 of D.C. Law 19-169 provided that no provision of the act shall impair any right or obligation existing under law.</text>
     </level>
   </level>
 </level>

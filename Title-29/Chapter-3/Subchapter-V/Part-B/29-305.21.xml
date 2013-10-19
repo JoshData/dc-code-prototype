@@ -17,18 +17,14 @@
     <num>(d)</num>
     <text>Redeemable shares shall not be entitled to vote after notice of redemption is mailed to the holders and a sum sufficient to redeem the shares has been deposited with a bank, trust company, or other financial institution under an irrevocable obligation to pay the holders the redemption price on surrender of the shares.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

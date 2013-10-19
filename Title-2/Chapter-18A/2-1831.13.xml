@@ -39,27 +39,25 @@
   <text>"I declare (or certify, verify, or state), under penalty of perjury, that the foregoing is true and correct. Executed on (date).</text>
   <text>"(Signature)".</text>
   <level>
+    <num>(2)</num>
+    <text>Signing such a statement shall be considered the taking of an oath or affirmation for purposes of §§ 22-2402 and 22-2404.</text>
     <level>
-      <num>(2)</num>
-      <text>Signing such a statement shall be considered the taking of an oath or affirmation for purposes of §§ 22-2402 and 22-2404.</text>
+      <num>(i)</num>
+      <text>No person outside the Office shall participate in or in any way influence or attempt to influence, except through the ordinary litigation process, the fair and independent decisionmaking process in an adjudicated case before the Office.</text>
     </level>
   </level>
-  <level>
-    <num>(i)</num>
-    <text>No person outside the Office shall participate in or in any way influence or attempt to influence, except through the ordinary litigation process, the fair and independent decisionmaking process in an adjudicated case before the Office.</text>
-  </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 6, 2002, D.C. Law 14-76, § 16, 48 DCR 11442.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-76, see notes following § 2-1831.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-754.41.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-76</heading>
+      <text>For Law 14-76, see notes following § 2-1831.01.</text>
     </level>
   </level>
 </level>

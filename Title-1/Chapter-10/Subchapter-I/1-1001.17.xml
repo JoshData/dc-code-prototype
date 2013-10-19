@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-1001.17</num>
   <heading>Recall process.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-1321</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The provisions of this section shall govern the recall of all elected officers of the District of Columbia except the Delegate to the Congress from the District of Columbia.</text>
@@ -226,53 +225,89 @@
   <level>
     <num>(m)</num>
     <text>The Board shall place the recall measure on the ballot in substantially the following form:</text>
-    <text>FOR the recall of (insert the name of the elected officer and the office held ) ____________________________________________________________________________</text>
-    <text>AGAINST the recall of (insert the name of the elected officer and the office held) ________________________________________________________________________</text>
   </level>
-  <level>
-    <num>(n)</num>
-    <text>Based on the results of the special election held to decide the outcome of the recall measure, the elected officer sought to be recalled shall be removed from that office: Provided, that a majority of the qualified electors voting in the recall election vote to remove him or her. The vacancy, as created by the removal, shall be filled in the same manner as other vacancies, as provided in §§ 1-204.01(b)(3) and (d), 1-204.21(c)(2), 1-309.06(d), and 1- 1001.10.</text>
+  <level type="form">
+    <text> FOR the recall of (insert the name of the elected officer and the office 
+ held) .......................................................................
+ AGAINST the recall of (insert the name of the elected officer and the office 
+ held) .......................................................................</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <text> (n) Based on the results of the special election held to decide the outcome of the recall measure, the elected officer sought to be recalled shall be removed from that office: Provided, that a majority of the qualified electors voting in the recall election vote to remove him or her. The vacancy, as created by the removal, shall be filled in the same manner as other vacancies, as provided in §§ 1-204.01(b)(3) and (d), 1-204.21(c)(2), 1-309.06(d), and 1-1001.10.</text>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 12, 1955, 69 Stat. 704, ch. 862, § 17, as added June 7, 1979, D.C. Law 3-1, § 2(d), 25 DCR 9454; Mar. 16, 1982, D.C. Law 4-88, § 2(l), (n)-(q), (s), 29 DCR 458; Mar. 16, 1988, D.C. Law 7-92, § 3(o), 35 DCR 716; Mar. 6, 1991, D.C. Law 8-203, § 2, 37 DCR 8420; Mar. 11, 1992, D.C. Law 9-75, § 2(f), 39 DCR 310; Sept. 22, 1994, D.C. Law 10-173, § 2(h), (i), 41 DCR 5154; Apr. 18, 1996, D.C. Law 11-110, § 5(b), 43 DCR 530; Apr. 9, 1997, D.C. Law 11-255, § 6(b), 44 DCR 1271; June 27, 2000, D.C. Law 13-135, § 6, 47 DCR 2741; Feb. 4, 2010, D.C. Law 18-103, § 2(j), 56 DCR 9169; Apr. 27, 2012, D.C. Law 19-124, § 501(g)(7), 59 DCR 1862.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-1321.</text>
-        <text>1973 Ed., § 1-1117.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-135 rewrote par. (3) of subsec. (h), which formerly read:</text>
-        <text>"A recall petition for an elected officer from a single-member district shall include the valid signatures of 10% of the registered qualified electors of the single-member district from which the officer was elected. The 10% shall be computed from the total number of registered qualified electors from the single-member district in accordance with the same procedures established in paragraph (1) of this subsection."</text>
-        <text>D.C. Law 18-103 rewrote subsec. (g), which had read as follows:</text>
-        <text>"(g) The proposer of a recall shall have 180 days, or, in the case of a proposed recall of an Advisory Neighborhood Commissioner, 60 days, beginning on the date when the elected officer has filed with the Board his or her response to the proposer's notice of intention to recall pursuant to subsection (d)(2) of this section, to circulate the recall petition and file such petition with the Board. If the elected officer sought to be recalled files no response to the notice of intention to recall, the time limitation shall begin on the deadline date for a response established in subsection (d)(2) of this section."</text>
-        <text>D.C. Law 19-124, in subsec. (i)(1), substituted " 1-1163.07 and 1-1163.09" for "§§ 1-1102.04 and 1-1102.06".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(j) of Omnibus Election Reform Emergency Amendment Act of 2009 (D.C. Act 18-236, November 30, 2009, 56 DCR 9154).</text>
-        <text>For temporary (90 day) amendment of section, see § 401(g)(7) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012, 59 DCR 683).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-1, see Historical and Statutory Notes following § 1-1001.02.</text>
-        <text>For legislative history of D.C. Law 4-88, see Historical and Statutory Notes following § 1-1001.01.</text>
-        <text>For legislative history of D.C. Law 7-92, see Historical and Statutory Notes following § 1-1001.05.</text>
-        <text>Law 8-203 was introduced in Council and assigned Bill No. 8-626, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on November 20, 1990, and December 4, 1990, respectively. Signed by the Mayor on December 14, 1990, it was assigned Act No. 8-277 and transmitted to both Houses of Congress for its review.</text>
-        <text>For legislative history of D.C. Law 9-75, see Historical and Statutory Notes following § 1-1001.05.</text>
-        <text>For legislative history of D.C. Law 10-173, see Historical and Statutory Notes following § 1-1001.02.</text>
-        <text>For legislative history of D.C. Law 11-110, see Historical and Statutory Notes following § 1-1001.07.</text>
-        <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 1-1001.09.</text>
-        <text>Law 13-135, the "Comprehensive Advisory Neighborhood Commissions Reform Amendment Act of 2000," was introduced in Council and assigned Bill No. 13-468, which was referred to the Committee on Local and Regional Affairs. The Bill was adopted on first and second readings on February 1, 2000, and March 7, 2000, respectively. Signed by the Mayor on March 28, 2000, it was assigned Act No. 13-313 and transmitted to both Houses of Congress for its review. D.C. Law 13- 135 became effective on June 27, 2000.</text>
-        <text>For Law 18-103, see notes following § 1-1001.02.</text>
-        <text>For history of Law 19-124, see notes under § 1-122.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Constitutional convention, assembly, approval or rejection of proposed constitution, election and recall of representatives elected to Congress, see § 1-123.</text>
+      <text>Political committees, statements of organization, required disclosures, see § 1-1102.04.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-123, § 1-1001.07, § 1-1001.09, § 1-1001.11, § 1-1001.14, § 1-1021.04, and § 1-1163.11.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-1321.</text>
+      <text>1973 Ed., § 1-1117.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-135 rewrote par. (3) of subsec. (h), which formerly read:</text>
+      <text>"A recall petition for an elected officer from a single-member district shall include the valid signatures of 10% of the registered qualified electors of the single-member district from which the officer was elected. The 10% shall be computed from the total number of registered qualified electors from the single-member district in accordance with the same procedures established in paragraph (1) of this subsection."</text>
+      <text>D.C. Law 18-103 rewrote subsec. (g), which had read as follows: "(g) The proposer of a recall shall have 180 days, or, in the case of a proposed recall of an Advisory Neighborhood Commissioner, 60 days, beginning on the date when the elected officer has filed with the Board his or her response to the proposer's notice of intention to recall pursuant to subsection (d)(2) of this section, to circulate the recall petition and file such petition with the Board. If the elected officer sought to be recalled files no response to the notice of intention to recall, the time limitation shall begin on the deadline date for a response established in subsection (d)(2) of this section."</text>
+      <text>D.C. Law 19-124, in subsec. (i)(1), substituted "§§ 1-1163.07 and 1-1163.09" for "§§ 1-1102.04 and 1-1102.06".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(j) of Omnibus Election Reform Emergency Amendment Act of 2009 (D.C. Act 18-236, November 30, 2009, 56 DCR 9154).</text>
+      <text>For temporary (90 day) amendment of section, see § 401(g)(7) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012, 59 DCR 683).</text>
+      <text>For temporary amendment of (i)(6), see § 2(c) of the Board of Elections Petition Circulation Requirements Emergency Amendment Act of 2012 (D.C. Act 19-587, January 7, 2013, 60 DCR 977).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-1</heading>
+      <text>For legislative history of D.C. Law 3-1, see Historical and Statutory Notes following § 1-1001.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-88</heading>
+      <text>For legislative history of D.C. Law 4-88, see Historical and Statutory Notes following § 1-1001.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-92</heading>
+      <text>For legislative history of D.C. Law 7-92, see Historical and Statutory Notes following § 1-1001.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-203</heading>
+      <text>Law 8-203 was introduced in Council and assigned Bill No. 8-626, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on November 20, 1990, and December 4, 1990, respectively. Signed by the Mayor on December 14, 1990, it was assigned Act No. 8-277 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-75</heading>
+      <text>For legislative history of D.C. Law 9-75, see Historical and Statutory Notes following § 1-1001.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-173</heading>
+      <text>For legislative history of D.C. Law 10-173, see Historical and Statutory Notes following § 1-1001.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-110</heading>
+      <text>For legislative history of D.C. Law 11-110, see Historical and Statutory Notes following § 1-1001.07.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 1-1001.09.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-135</heading>
+      <text>Law 13-135, the "Comprehensive Advisory Neighborhood Commissions Reform Amendment Act of 2000," was introduced in Council and assigned Bill No. 13-468, which was referred to the Committee on Local and Regional Affairs. The Bill was adopted on first and second readings on February 1, 2000, and March 7, 2000, respectively. Signed by the Mayor on March 28, 2000, it was assigned Act No. 13-313 and transmitted to both Houses of Congress for its review. D.C. Law 13-135 became effective on June 27, 2000.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-103</heading>
+      <text>For Law 18-103, see notes following § 1-1001.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-124</heading>
+      <text>For history of Law 19-124, see notes under § 1-122.</text>
     </level>
   </level>
 </level>

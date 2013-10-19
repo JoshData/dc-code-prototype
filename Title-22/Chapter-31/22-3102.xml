@@ -1,18 +1,17 @@
 <level type="section">
   <num>22-3102</num>
   <heading>Prohibited acts.</heading>
-  <formerly-cited-as>DC ST 1981 § 22-2012</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>It shall be unlawful in the District of Columbia for a person knowingly to use a minor in a sexual performance or to promote a sexual performance by a minor.</text>
-  </level>
-  <level>
-    <num>(1)</num>
-    <text>A person is guilty of the use of a minor in a sexual performance if knowing the character and content thereof, he or she employs, authorizes, or induces a person under 18 years of age to engage in a sexual performance or being the parent, legal guardian, or custodian of a minor, he or she consents to the participation by a minor in a sexual performance.</text>
-  </level>
-  <level>
-    <num>(2)</num>
-    <text>A person is guilty of promoting a sexual performance by a minor when, knowing the character and content thereof, he or she produces, directs, or promotes any performance which includes sexual conduct by a person under 18 years of age.</text>
+    <level>
+      <num>(1)</num>
+      <text>A person is guilty of the use of a minor in a sexual performance if knowing the character and content thereof, he or she employs, authorizes, or induces a person under 18 years of age to engage in a sexual performance or being the parent, legal guardian, or custodian of a minor, he or she consents to the participation by a minor in a sexual performance.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A person is guilty of promoting a sexual performance by a minor when, knowing the character and content thereof, he or she produces, directs, or promotes any performance which includes sexual conduct by a person under 18 years of age.</text>
+    </level>
   </level>
   <level>
     <num>(b)</num>
@@ -46,27 +45,34 @@
       <text>"Transmit" or "transmission" includes distribution, and can occur by any means, including electronically.".</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 9, 1983, D.C. Law 4-173, § 3, 29 DCR 5749; Oct. 23, 2010, D.C. Law 18-239, § 205(b), 57 DCR 5405.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 22-2012.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-239 designated the existing text as subsec. (a); in subsec. (a), substituted "18" for "16"; and added subsecs. (b) to (d).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-173, see Historical and Statutory Notes following § 22-3101.</text>
-        <text>For history of Law 18-239, see notes under § 22-3009.03.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Sex offender registration, criminal offense against a victim who is a minor, defined, see § 24-4101.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 14-311, § 22-3020.51, § 22-3104, § 22-4001, § 22-4151, and § 23-113.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 22-2012.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-239 designated the existing text as subsec. (a); in subsec. (a), substituted "18" for "16"; and added subsecs. (b) to (d).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-173</heading>
+      <text>For legislative history of D.C. Law 4-173, see Historical and Statutory Notes following § 22-3101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-239</heading>
+      <text>For history of Law 18-239, see notes under § 22-3009.03.</text>
     </level>
   </level>
 </level>

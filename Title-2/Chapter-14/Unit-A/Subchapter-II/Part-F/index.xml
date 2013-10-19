@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>F</num>
-  <heading>General Requirements.</heading>
+  <heading>General Requirements</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1402.51.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1402.52.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1402.53.xml"/>

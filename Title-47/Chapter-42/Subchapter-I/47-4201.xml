@@ -32,7 +32,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Interest shall be imposed at the underpayment rate set forth in subsection (d) of this section on an addition to tax imposed under §§ 47-4201, 47- 4202, or 47-4203 for the period which:</text>
+      <text>Interest shall be imposed at the underpayment rate set forth in subsection (d) of this section on an addition to tax imposed under §§ 47-4201, 47-4202, or 47-4203 [see § 47-4213] for the period which:</text>
       <level>
         <num>(A)</num>
         <text>Begins on the date of the return of the tax with respect to which the addition to tax imposed is required to be filed (including extensions); and</text>
@@ -63,23 +63,22 @@
       <text>10% per year, compounded daily, beginning January 1, 2003.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-305, § 403(b), 48 DCR 334.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 13-305, the "Tax Clarity Act of 2000," was introduced in Council and assigned Bill No. 13-586, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on October 2, 2000, and November 8, 2000, respectively. Signed by the Mayor on December 13, 2000, it was assigned Act No. 13-501 and transmitted to both Houses of Congress for its review. D.C. Law 13-305 became effective on June 9, 2001.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 410(b) of D.C. Law 13-305, as amended by section 36(b) of D.C. Law 14- 213, provides:</text>
-        <text>"Except as otherwise provided therein, sections 403 and 404 shall apply to taxes other than the real property tax imposed under Chapter 8 of Title 47, for all tax years or taxable periods beginning after December 31, 2000."</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-2405, § 47-4214, § 47-4215, and § 47-4222.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-305</heading>
+      <text>Law 13-305, the "Tax Clarity Act of 2000," was introduced in Council and assigned Bill No. 13-586, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on October 2, 2000, and November 8, 2000, respectively. Signed by the Mayor on December 13, 2000, it was assigned Act No. 13-501 and transmitted to both Houses of Congress for its review. D.C. Law 13-305 became effective on June 9, 2001.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 410(b) of D.C. Law 13-305, as amended by section 36(b) of D.C. Law 14-213, provided: "Except as otherwise provided therein, sections 403 and 404 shall apply to taxes other than the real property tax imposed under Chapter 8 of Title 47, for all tax years or taxable periods beginning after December 31, 2000."</text>
     </level>
   </level>
 </level>

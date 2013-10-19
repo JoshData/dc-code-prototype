@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Public Auction Permits.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 47, Ch. 27, Subch. I, Refs &amp; Annos</text>
-  </level>
+  <heading>Public Auction Permits</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2701.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2702.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2703.xml"/>

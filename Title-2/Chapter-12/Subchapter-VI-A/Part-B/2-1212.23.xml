@@ -3,35 +3,33 @@
   <heading>Grocery ambassador program.</heading>
   <text>The Deputy Mayor for Planning and Economic Development shall designate a District employee as the grocery ambassador to assist retailers in building or renovating grocery stores in eligible areas by:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Providing research and data on eligible areas with insufficient grocery access;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Coordinating with all relevant District agencies and public utilities;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Providing assistance in obtaining and expediting regulatory procedures and approvals; and</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Providing other assistance as needed.</text>
-    </level>
+    <num>(1)</num>
+    <text>Providing research and data on eligible areas with insufficient grocery access;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Coordinating with all relevant District agencies and public utilities;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Providing assistance in obtaining and expediting regulatory procedures and approvals; and</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Providing other assistance as needed.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2011, D.C. Law 18-353, § 203, 58 DCR 746.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-353, see notes under § 2-1212.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1212.33.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-353</heading>
+      <text>For history of Law 18-353, see notes under § 2-1212.01.</text>
     </level>
   </level>
 </level>

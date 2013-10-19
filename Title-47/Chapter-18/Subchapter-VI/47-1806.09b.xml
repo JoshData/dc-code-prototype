@@ -1,6 +1,6 @@
 <level type="section">
   <num>47-1806.09b</num>
-  <heading>Tax on residents and nonresidents --Credits --Lower income, long-term homeowner credit --Application for credit.</heading>
+  <heading>Tax on residents and nonresidents; credits; lower income, long-term homeowner credit - Application for credit.</heading>
   <level>
     <num>(a)</num>
     <text>To receive the credit allowed by § 47-1806.09a, the eligible resident shall submit, with the resident's District of Columbia income tax return, an application containing any forms and information prescribed by the Mayor. If the resident is not required to file a District of Columbia income tax return, the resident shall submit an application containing any forms and information in a manner that the Mayor shall prescribe.</text>
@@ -11,7 +11,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>An eligible resident may apply for the credit allowed by § 47-1806.09a or the credit allowed by § 47-1806.08a, but shall not be eligible for both tax credits. No person may apply for any of the credits if another person in the household has applied for any of the credits.</text>
+    <text>An eligible resident may apply for the credit allowed by § 47-1806.09a or the credit allowed by § 47-1806.08a [repealed], but shall not be eligible for both tax credits. No person may apply for any of the credits if another person in the household has applied for any of the credits.</text>
   </level>
   <level>
     <num>(d)</num>
@@ -21,33 +21,36 @@
     <num>(e)</num>
     <text>Notwithstanding subsection (a) of this section, an eligible resident shall not be required to submit an application with the eligible resident's 2003 District of Columbia personal income tax return.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 19, 2002, D.C. Law 14-114, § 401(b), 49 DCR 1468; Dec. 7, 2004, D.C. Law 15-205, § 1172(d), 51 DCR 8441.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-205, in subsec. (a), substituted "§ 47-1806.09a" for "§ 47- 1806.09b"; in subsec. (b), substituted "tax" for "taxable"; in subsec. (c), added a new sentence at the end; and added subsecs. (d) and (e).</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2(d) of Lower Income, Long-Term Homeowner Credit Administration Temporary Act of 2004 (D.C. Law 15-179, September 8, 2004, law notification 51 DCR 9221).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(d) of Lower Income, Long-term Homeowner Credit Administration Emergency Act of 2004 (D.C. Act 15-421, May 10, 2004, 51 DCR 5174).</text>
-        <text>For temporary (90 day) amendment of section, see § 1172(d) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004, 51 DCR 8236).</text>
-        <text>For temporary (90 day) amendment of section, see § 1172(d) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004, 51 DCR 11725).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-114, see notes following § 47-1806.09.</text>
-        <text>For Law 15-205, see notes following § 47-903.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-1806.09a, § 47-1806.09c, and § 47-1806.09d.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-205, in subsec. (a), substituted "§ 47-1806.09a" for "§ 47-1806.09b"; in subsec. (b), substituted "tax" for "taxable"; in subsec. (c), added a new sentence at the end; and added subsecs. (d) and (e).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2(d) of Lower Income, Long-Term Homeowner Credit Administration Temporary Act of 2004 (D.C. Law 15-179, September 8, 2004, law notification 51 DCR 9221).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(d) of Lower Income, Long-term Homeowner Credit Administration Emergency Act of 2004 (D.C. Act 15-421, May 10, 2004, 51 DCR 5174).</text>
+      <text>For temporary (90 day) amendment of section, see § 1172(d) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004, 51 DCR 8236).</text>
+      <text>For temporary (90 day) amendment of section, see § 1172(d) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004, 51 DCR 11725).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-114</heading>
+      <text>For Law 14-114, see notes following § 47-1806.09.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-205</heading>
+      <text>For Law 15-205, see notes following § 47-903.</text>
     </level>
   </level>
 </level>

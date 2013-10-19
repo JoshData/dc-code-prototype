@@ -25,18 +25,18 @@
     <num>(b)</num>
     <text>The Council finds that owners of lots within the Waterfront Park Benefit District will derive a special benefit from the operation of the Waterfront Park.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 2010, D.C. Law 18-105, § 7(b), 57 DCR 11.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-105, see notes following § 47-895.21.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 10-1801 and § 47-895.21.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-105</heading>
+      <text>For Law 18-105, see notes following § 47-895.21.</text>
     </level>
   </level>
 </level>

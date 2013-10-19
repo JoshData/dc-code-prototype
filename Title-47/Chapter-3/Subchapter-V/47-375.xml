@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-375</num>
   <heading>Duties of Mayor.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-375</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor shall be responsible for the future classification of any funds and accounts within the appropriate fund types and fund categories as set forth in this subchapter.</text>
@@ -38,26 +37,32 @@
     <num>(i)</num>
     <text>Nothing contained in the Revenue Funds Availability Act of 1975 shall prevent the Mayor from accounting for revenues and expenditures in accordance with generally accepted accounting principles.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 14, 1980, D.C. Law 3-70, §§ 6, 7(h)-(j), 27 DCR 1776; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-375.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-70, see Historical and Statutory Notes following § 47-371.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>The Revenue Funds Availability Act of 1975, referred to in subsection (i) of this section, is D.C. Law 1-42.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Insurance, uninsured motorist fund, see § 31-2408.01.</text>
+      <text>Water and sewer enterprise fund, establishment, see § 34-2202.07.</text>
+      <text>Water supply, sale of property in satisfaction of unpaid service charges, water and sewer enterprise fund, see § 34-2407.02.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-2408.01, § 34-2202.07, and § 34-2407.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-375.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-70</heading>
+      <text>For legislative history of D.C. Law 3-70, see Historical and Statutory Notes following § 47-371.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>The Revenue Funds Availability Act of 1975, referred to in subsection (i) of this section, is D.C. Law 1-42.</text>
     </level>
   </level>
 </level>

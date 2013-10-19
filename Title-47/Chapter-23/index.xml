@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>23</num>
-  <heading>Motor Fuel Tax.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 47, Ch. 23, Refs &amp; Annos</text>
-  </level>
+  <heading>Motor Fuel Tax</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
 </level>

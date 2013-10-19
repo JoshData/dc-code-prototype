@@ -27,7 +27,7 @@
         </level>
         <level>
           <num>(ii)</num>
-          <text>For what level of Area Median Income, as defined by § 47- 858.01(1)(A)(i), the units will be affordable;</text>
+          <text>For what level of Area Median Income, as defined by § 47-858.01(1)(A)(i), the units will be affordable;</text>
         </level>
         <level>
           <num>(iii)</num>
@@ -103,27 +103,30 @@
     <num>(c)</num>
     <text>An act described in subsection (a) of this section shall not receive a Council hearing until the analysis described in subsection (b) of this section has been completed and provided to the Council and made available to the public.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 2011, D.C. Law 19-21, § 7142(b), 58 DCR 6226; Sept. 26, 2012, D.C. Law 19-171, § 114(f), 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-171, in subsec. (b)(3)(A)(ii), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 19-21, the "Fiscal Year 2012 Budget Support Act of 2011", was introduced in Council and assigned Bill No. 19-203, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 25, 2011, and June 14, 2011, respectively. Signed by the Mayor on July 22, 2011, it was assigned Act No. 19-98 and transmitted to both Houses of Congress for its review. D.C. Law 19-21 became effective on September 14, 2011.</text>
-        <text>For history of Law 19-171, see notes under § 47-369.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 7141 of D.C. Law 19-21 provided that subtitle O of title I of the act may be cited as "Exemptions and Abatements Information Requirements Act of 2011".</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-4703.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-171 validated a previously made technical correction in (b)(3)(A)(ii).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>Law 19-21, the "Fiscal Year 2012 Budget Support Act of 2011", was introduced in Council and assigned Bill No. 19-203, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 25, 2011, and June 14, 2011, respectively. Signed by the Mayor on July 22, 2011, it was assigned Act No. 19-98 and transmitted to both Houses of Congress for its review. D.C. Law 19-21 became effective on September 14, 2011.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 7141 of D.C. Law 19-21 provided that subtitle O of title I of the act may be cited as "Exemptions and Abatements Information Requirements Act of 2011".</text>
     </level>
   </level>
 </level>

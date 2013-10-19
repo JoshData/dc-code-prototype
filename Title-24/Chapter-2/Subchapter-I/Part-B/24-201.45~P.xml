@@ -1,33 +1,34 @@
 <level type="placeholder">
   <reason>Repealed</reason>
   <section>24-201.45</section>
-  <heading>Exception.</heading>
-  <formerly-cited-as>DC ST 1981 § 24-905</formerly-cited-as>
-  <level>
-    <type>annotations</type>
+  <heading>Exception</heading>
+  <text>Repealed.</text>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Nov. 14, 1987, D.C. Law 7-43, § 6, 34 DCR 5287; Nov. 13, 2003, D.C. Law 15-39, § 1802(c), 50 DCR 5668; Jan. 30, 2004, D.C. Law 15-62, § 7, 50 DCR 6574.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 24-905.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of § 24-201.61, see § 3002 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
-        <text>For temporary (90 day) amendment of section, see § 1802(c) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003, 50 DCR 5613).</text>
-        <text>For temporary (90 day) amendment of section, see § 1802(c) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003, 50 DCR 8360).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-43, see Historical and Statutory Notes following § 24-201.41.</text>
-        <text>For Law 15-39, see notes following § 24-201.41.</text>
-        <text>For Law 15-62, see notes following § 24-201.41.</text>
-        <text>DC CODE § 24-201.45</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 24-905.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of § 24-201.61, see § 3002 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
+      <text>For temporary (90 day) amendment of section, see § 1802(c) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003, 50 DCR 5613).</text>
+      <text>For temporary (90 day) amendment of section, see § 1802(c) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003, 50 DCR 8360).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-43</heading>
+      <text>For legislative history of D.C. Law 7-43, see Historical and Statutory Notes following § 24-201.41.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-39</heading>
+      <text>For Law 15-39, see notes following § 24-201.41.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-62</heading>
+      <text>For Law 15-62, see notes following § 24-201.41.</text>
     </level>
   </level>
 </level>

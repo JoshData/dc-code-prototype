@@ -1,15 +1,13 @@
 <level type="section">
   <num>29-607.03</num>
   <heading>Dissociated partner's liability to other persons.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-157.3</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-107.03</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>A partner's dissociation shall not of itself discharge the partner's liability for a partnership obligation incurred before dissociation. A dissociated partner shall not be liable for a partnership obligation incurred after dissociation, except as otherwise provided in subsection (b) of this section.</text>
+    <text>A partner's dissociation shall not of itself discharge the partner's liability for a partnership debt, obligation, or other liability incurred before dissociation. A dissociated partner shall not be liable for a partnership debt, obligation, or other liability incurred after dissociation, except as otherwise provided in subsection (b) of this section.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>A partner that dissociates without resulting in a dissolution and winding up of the partnership business shall be liable as a partner to the other party in a transaction entered into by the partnership, or a surviving partnership under subchapter IX of this chapter, within 2 years after the partner's dissociation, only if the partner is liable for the obligation under § 29- 603.06 and at the time of entering into the transaction the other party:</text>
+    <text>A partner that dissociates without resulting in a dissolution and winding up of the partnership business shall be liable as a partner to the other party in a transaction entered into by the partnership, or a surviving partnership under subchapter IX of this chapter, within 2 years after the partner's dissociation, only if the partner is liable for the obligation under § 29-603.06 and at the time of entering into the transaction the other party:</text>
     <level>
       <num>(1)</num>
       <text>Reasonably believed that the dissociated partner was then a partner;</text>
@@ -25,33 +23,42 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>By agreement with the partnership creditor and the partners continuing the business, a dissociated partner may be released from liability for a partnership obligation.</text>
+    <text>By agreement with the partnership creditor and the partners continuing the business, a dissociated partner may be released from liability for a partnership debt, obligation, or other liability.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text>A dissociated partner shall be released from liability for a partnership obligation if a partnership creditor, with notice of the partner's dissociation but without the partner's consent, agrees to a material alteration in the nature or time of payment of a partnership obligation.</text>
+    <text>A dissociated partner shall be released from liability for a partnership debt, obligation, or other liability if a partnership creditor, with notice of the partner's dissociation but without the partner's consent, agrees to a material alteration in the nature or time of payment of a partnership debt, obligation, or other liability.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(f)(7)(B), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 41-157.3.</text>
-        <text>2001 Ed., § 33-107.03.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 703 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-607.04, § 29-608.09, § 29-608.11, and § 29-609.03.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 41-157.3.</text>
+      <text>2001 Ed., § 33-107.03.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "debt, obligation, or other liability" for "obligation" in (a), (c) and (d).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-601.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 703 of the Uniform Partnership Act (1997 Act).</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

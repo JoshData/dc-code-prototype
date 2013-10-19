@@ -1,7 +1,6 @@
 <level type="section">
   <num>4-1102</num>
   <heading>D.C. General Hospital Hospice Program; established.</heading>
-  <formerly-cited-as>DC ST 1981 § 3-1102</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There is established a hospice program to be administered by the D.C. General Hospital. The purpose of this program shall be to:</text>
@@ -47,7 +46,7 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Establishing an inpatient component of the program pursuant to § 44-1801 et seq.</text>
+      <text>Establishing an inpatient component of the program pursuant to § 44-1801 et seq. [repealed].</text>
     </level>
   </level>
   <level>
@@ -78,22 +77,18 @@
       <text>Consultation with attending physicians.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1989, D.C. Law 7-210, § 3, 36 DCR 478.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 3-1102.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-210, see Historical and Statutory Notes following § 4-1101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 3-1102.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-210</heading>
+      <text>For legislative history of D.C. Law 7-210, see Historical and Statutory Notes following § 4-1101.</text>
     </level>
   </level>
 </level>

@@ -1,14 +1,14 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Continuation and Administration.</heading>
+  <heading>Continuation and Administration</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2301.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2302.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2303.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2304.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2305~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2306~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2307.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2307~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2308~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2309~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2310~P.xml"/>

@@ -3,35 +3,29 @@
   <heading>Grant and contract authority.</heading>
   <text>The Rehabilitation Services Program may:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Receive and administer grants, as necessary, to provide services to assist individuals with disabilities in achieving or maintaining gainful employment; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Enter into contracts or other agreements, as necessary, to provide services or support to assist individuals with disabilities in achieving or maintaining gainful employment.</text>
-    </level>
+    <num>(1)</num>
+    <text>Receive and administer grants, as necessary, to provide services to assist individuals with disabilities in achieving or maintaining gainful employment; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Enter into contracts or other agreements, as necessary, to provide services or support to assist individuals with disabilities in achieving or maintaining gainful employment.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 12, 2005, D.C. Law 15-332, § 2a, as added Sept. 18, 2007, D.C. Law 17-20, § 5002, 54 DCR 7052.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 5002 of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-20, see notes following § 32-242.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 5001 of D.C. Law 17-20 provided that subtitle A of title V of the act may be cited as the "Rehabilitation Services Program Amendment Act of 2007".</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 5002 of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-20</heading>
+      <text>For Law 17-20, see notes following § 32-242.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 5001 of D.C. Law 17-20 provided that subtitle A of title V of the act may be cited as the "Rehabilitation Services Program Amendment Act of 2007".</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>41-106</num>
   <heading>Bank deposits and funds in financial organizations.</heading>
-  <formerly-cited-as>DC ST 1981 § 42-206</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any demand, savings, or matured time deposit with a banking or financial organization, including deposits that are automatically renewable, and any funds paid toward the purchase of shares, a mutual investment certificate, or any other interest in a financial organization is presumed abandoned unless the owner within 3 years has:</text>
@@ -90,44 +89,55 @@
     <num>(h)</num>
     <text>Any property automatically renewable according to its terms that is subject to subsection (a) of this section shall be deemed matured for purposes of this section upon the expiration of its initial term. If at the time provided for delivery in § 41-119, a penalty or forfeiture in the payment of interest would result from the delivery of any such property, the time for delivery shall be extended until such time as no penalty for forfeiture would result.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 5, 1981, D.C. Law 3-160, § 106, 27 DCR 5150; Sept. 29, 1992, D.C. Law 9-161, § 2(c), (d), 39 DCR 5696; Mar. 20, 1998, D.C. Law 12-60, § 1701(c), 44 DCR 7378; May 23, 2000, D.C. Law 13-113, § 2, 47 DCR 1989.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 42-206.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-113 added subsec. (c-1), and in subsec. (d) substituted "or drafts" for "drafts, or money orders".</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 1701(c) of D.C. Law 12-59 substituted "3 years" for "5 years" in the introductory paragraph of (a) and twice in (d); and added (e)(4).</text>
-        <text>Section 2001(b) of D.C. Law 12-59 provided that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of section, see § 1701(c) of the Fiscal Year 1998 Revised Budget Support Emergency Act of 1997 (D.C. Act 12-152, October 17, 1997, 44 DCR 6196), and see § 1701(c) of the Fiscal Year 1998 Revised Budget Support Congressional Review Emergency Act of 1997 (D.C. Act 12-239, January 13, 1998, 45 DCR 508).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-160, see Historical and Statutory Notes following § 41-101.</text>
-        <text>For legislative history of D.C. Law 9-64, see Historical and Statutory Notes following § 41-103.</text>
-        <text>For legislative history of D.C. Law 9-161, see Historical and Statutory Notes following § 41-103.</text>
-        <text>For legislative history of D.C. Law 12-59, see Historical and Statutory Notes following § 41-102.</text>
-        <text>For legislative history of D.C. Law 12-60, see Historical and Statutory Notes following § 41-102.</text>
-        <text>Law 13-113, the "District of Columbia Uniform Disposition of Unclaimed Property Amendment Act of 2000," was introduced in Council and assigned Bill No. 13-264, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on January 4, 2000, and February 1, 2000, respectively. Signed by the Mayor on February 18, 2000, it was assigned Act No. 13-266 and transmitted to both Houses of Congress for its review. D.C. Law 13- 113 became effective on May 23, 2000.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 6 of the Uniform Unclaimed Property Act (1981 Act). See 8B Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 42-206.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-113 added subsec. (c-1), and in subsec. (d) substituted "or drafts" for "drafts, or money orders".</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 1701(c) of D.C. Law 12-59 substituted "3 years" for "5 years" in the introductory paragraph of (a) and twice in (d); and added (e)(4).</text>
+      <text>Section 2001(b) of D.C. Law 12-59 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 1701(c) of the Fiscal Year 1998 Revised Budget Support Emergency Act of 1997 (D.C. Act 12-152, October 17, 1997, 44 DCR 6196), and see § 1701(c) of the Fiscal Year 1998 Revised Budget Support Congressional Review Emergency Act of 1997 (D.C. Act 12-239, January 13, 1998, 45 DCR 508).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-160</heading>
+      <text>For legislative history of D.C. Law 3-160, see Historical and Statutory Notes following § 41-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-64</heading>
+      <text>For legislative history of D.C. Law 9-64, see Historical and Statutory Notes following § 41-103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-161</heading>
+      <text>For legislative history of D.C. Law 9-161, see Historical and Statutory Notes following § 41-103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-59</heading>
+      <text>For legislative history of D.C. Law 12-59, see Historical and Statutory Notes following § 41-102.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-60</heading>
+      <text>For legislative history of D.C. Law 12-60, see Historical and Statutory Notes following § 41-102.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-113</heading>
+      <text>Law 13-113, the "District of Columbia Uniform Disposition of Unclaimed Property Amendment Act of 2000," was introduced in Council and assigned Bill No. 13-264, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on January 4, 2000, and February 1, 2000, respectively. Signed by the Mayor on February 18, 2000, it was assigned Act No. 13-266 and transmitted to both Houses of Congress for its review. D.C. Law 13-113 became effective on May 23, 2000.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 6 of the Uniform Unclaimed Property Act (1981 Act).</text>
     </level>
   </level>
 </level>

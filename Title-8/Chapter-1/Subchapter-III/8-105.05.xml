@@ -1,25 +1,23 @@
 <level type="section">
   <num>8-105.05</num>
   <heading>Tampering and misuse.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-955</formerly-cited-as>
   <text>No person shall break, alter, damage, tamper with, or otherwise interfere with or impair the wastewater system.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 12, 1986, D.C. Law 6-95, § 6, 33 DCR 577.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-955.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-76, see Historical and Statutory Notes following § 8-105.01.</text>
-        <text>For legislative history of D.C. Law 6-95, see Historical and Statutory Notes following § 8-105.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-955.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-76</heading>
+      <text>For legislative history of D.C. Law 6-76, see Historical and Statutory Notes following § 8-105.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-95</heading>
+      <text>For legislative history of D.C. Law 6-95, see Historical and Statutory Notes following § 8-105.01.</text>
     </level>
   </level>
 </level>

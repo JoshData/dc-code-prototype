@@ -3,35 +3,29 @@
   <heading>Human papillomavirus public education campaign.</heading>
   <text>By January 1, 2008, the Mayor shall initiate a public information campaign, including multiple HPV vaccine education forums in each ward, aimed at educating the public on:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The connection between HPV and cervical cancer;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The importance of protecting oneself against HPV infection;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The value of screening for cervical cancer through regular pap tests; and</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The effectiveness and risks of the HPV vaccine.</text>
-    </level>
+    <num>(1)</num>
+    <text>The connection between HPV and cervical cancer;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The importance of protecting oneself against HPV infection;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The value of screening for cervical cancer through regular pap tests; and</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The effectiveness and risks of the HPV vaccine.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 12, 2007, D.C. Law 17-10, § 3, 54 DCR 5146.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-10, see notes following § 7-1651.01.</text>
-      </level>
+      <heading>Legislative History of Law 17-10</heading>
+      <text>For Law 17-10, see notes following § 7-1651.01.</text>
     </level>
   </level>
 </level>

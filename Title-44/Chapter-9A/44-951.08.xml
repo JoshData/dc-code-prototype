@@ -15,7 +15,7 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>This section shall not to be construed to limit the right of the Board to reorganize, restructure, reclassify, or eliminate positions.</text>
+    <text>This section shall not to [sic] be construed to limit the right of the Board to reorganize, restructure, reclassify, or eliminate positions.</text>
   </level>
   <level>
     <num>(e)</num>
@@ -53,18 +53,14 @@
       <text>The Hospital shall not be responsible for the contractor's negligence or misconduct related to managing or supervising hospital employees.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 2011, D.C. Law 19-21, § 5119, 58 DCR 6226.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-21, see notes under § 44-951.01.</text>
-      </level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 44-951.01.</text>
     </level>
   </level>
 </level>

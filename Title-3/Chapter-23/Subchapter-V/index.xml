@@ -1,7 +1,6 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>V</num>
-  <heading>Occupational Therapists.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2305.01~3-2305.18~P.xml"/>
+  <heading>Occupational Therapists</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2305.01~3-2305.18~P.xml"/>
 </level>

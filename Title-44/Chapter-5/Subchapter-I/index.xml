@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Licensure.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 44, Subt. I, Ch. 5, Subch. I, Refs &amp; Annos</text>
-  </level>
+  <heading>Licensure</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-501.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-502.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-503.xml"/>

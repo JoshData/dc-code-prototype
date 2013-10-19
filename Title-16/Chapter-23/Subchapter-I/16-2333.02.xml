@@ -110,18 +110,14 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2011, D.C. Law 18-284, § 3(f), 57 DCR 10477.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-284, see notes under § 16-2301.</text>
-      </level>
+      <heading>Legislative History of Law 18-284</heading>
+      <text>For history of Law 18-284, see notes under § 16-2301.</text>
     </level>
   </level>
 </level>

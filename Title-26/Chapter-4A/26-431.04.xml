@@ -148,18 +148,14 @@
     <num>(e)</num>
     <text>A report prepared under subsection (b) of this section shall be available to the public upon request.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-308, § 404, 48 DCR 3244.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-308, see notes following § 26-431.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-308</heading>
+      <text>For Law 13-308, see notes following § 26-431.01.</text>
     </level>
   </level>
 </level>

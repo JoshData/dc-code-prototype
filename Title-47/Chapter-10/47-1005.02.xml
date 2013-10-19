@@ -72,7 +72,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>OTR shall administer the exemption provided under this section in the same manner as the exemptions provided under § 47-1002, and properties exempted under subsection (a) of this section shall be subject to §§ 47-1005, 47- 1007, and 47-1009, except that an owner shall not be required to file an application with OTR to qualify for an exemption.</text>
+      <text>OTR shall administer the exemption provided under this section in the same manner as the exemptions provided under § 47-1002, and properties exempted under subsection (a) of this section shall be subject to §§ 47-1005, 47-1007, and 47-1009, except that an owner shall not be required to file an application with OTR to qualify for an exemption.</text>
     </level>
   </level>
   <level>
@@ -83,26 +83,29 @@
     <num>(d)</num>
     <text>This section shall apply for real property tax years beginning after September 30, 2012.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 20, 2012, D.C. Law 19-168, § 7132(b), 59 DCR 8025.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 102 of Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 10, 2012, 59 DCR 12478).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-168, see notes under § 47-355.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 7131 of D.C. Law 19-168 provided that subtitle M of title VII of the act may be cited as "Nonprofit Affordable Housing Developer Tax Relief Act of 2012".</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-1102.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 102 of D.C. Law 19-226 amended subsection (a)(1) of this section to read as follows:</text>
+      <text>"(a)(1) Property eligible for the low-income housing tax credit provided by section 42 of the Internal Revenue Code, ('affordable housing' ) that is owned by an organization that is not organized or operated for private gain, or that is owned by an entity controlled, directly or indirectly, by such an organization, shall be exempt from the tax imposed by Chapter 8 of this title and from a payment in lieu of tax imposed under § 47-1002(20) during the time that the real property is being developed for or being used as affordable housing and is subject to restrictive covenants governing income during the federal low-income housing tax credit compliance period, including any extended use period."</text>
+      <text>Section 402(b) of D.C. Law 19-226 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of (a)(1), see § 102 of the Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 12, 2012, 59 DCR 12478).</text>
+      <text>For temporary amendment of (a)(1), see § 102 of the Fiscal Year 2013 Budget Support Technical Clarification Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-604, January 14, 2013, 60 DCR 1045), applicable as of January 10, 2013.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>Law 19-168, the "Fiscal Year 2013 Budget Support Act of 2012," was introduced in Council and assigned Bill No. 19-743. The Bill was adopted on first and second readings on May 15, 2012, and June 5, 2012, respectively. Signed by the Mayor on June 22, 2012, it was assigned Act No. 19-385 and transmitted to Congress for its review. D.C. Law 19-168 became effective on September 20, 2012.</text>
     </level>
   </level>
 </level>

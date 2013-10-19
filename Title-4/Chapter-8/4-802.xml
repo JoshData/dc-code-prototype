@@ -1,7 +1,6 @@
 <level type="section">
   <num>4-802</num>
   <heading>Penalties; prohibited acts.</heading>
-  <formerly-cited-as>DC ST 1981 § 3-702</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A person shall be guilty of a misdemeanor punishable by a fine of not more than $500 or imprisonment not to exceed 1 year, or both, for each violation of the following prohibitions in this section.</text>
@@ -54,22 +53,28 @@
     <num>(f)</num>
     <text>No one may solicit, receive, or attempt to solicit or receive anything of value as a precondition for admitting a recipient to a hospital, skilled nursing facility, intermediate care facility, or any other facility, or as a condition for providing any item or service to a recipient.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1985, D.C. Law 5-193, § 3, 32 DCR 1010.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 3-702.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-193, see Historical and Statutory Notes following § 4-801.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>False statements, see § 22-2405.</text>
+      <text>Fraud, see § 22-3221.</text>
+      <text>Theft, see § 22-3211.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-804.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 3-702.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-193</heading>
+      <text>For legislative history of D.C. Law 5-193, see Historical and Statutory Notes following § 4-801.</text>
     </level>
   </level>
 </level>

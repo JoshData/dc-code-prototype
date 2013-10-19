@@ -12,7 +12,7 @@
       <text>The Court may order the involuntary administration of medication for the sole purpose of rendering the defendant competent only if:</text>
       <level>
         <num>(A)</num>
-        <text>It orders the defendant to participate in treatment for restoration of competence pursuant to 24-531.05; and</text>
+        <text>It orders the defendant to participate in treatment for restoration of competence pursuant to § 24-531.05; and</text>
       </level>
       <level>
         <num>(B)</num>
@@ -44,23 +44,22 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 24, 2005, D.C. Law 15-358, § 109, 52 DCR 2015; Mar. 2, 2007, D.C. Law 16-191, § 46, 53 DCR 6794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-191, in subsec. (a), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-358, see notes following § 24-531.01.</text>
-        <text>Law 16-191, the "Technical Amendments Act of 2006", was introduced in Council and assigned Bill No. 16-760, which was referred to the Committee of the whole. The Bill was adopted on first and second readings on June 20, 2006, and July 11, 2006, respectively. Signed by the Mayor on July 31, 2006, it was assigned Act No. 16-475 and transmitted to both Houses of Congress for its review. D.C. Law 16-191 became effective on March 2, 2007.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-191, in subsec. (a), validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-358</heading>
+      <text>For Law 15-358, see notes following § 24-531.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>Law 16-191, the "Technical Amendments Act of 2006", was introduced in Council and assigned Bill No. 16-760, which was referred to the Committee of the whole. The Bill was adopted on first and second readings on June 20, 2006, and July 11, 2006, respectively. Signed by the Mayor on July 31, 2006, it was assigned Act No. 16-475 and transmitted to both Houses of Congress for its review. D.C. Law 16-191 became effective on March 2, 2007.</text>
     </level>
   </level>
 </level>

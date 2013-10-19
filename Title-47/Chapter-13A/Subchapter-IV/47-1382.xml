@@ -14,11 +14,15 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Easements of record and any other easement that may be observed by an inspection of the real property; and</text>
+      <text>Easements of record and any other easement that may be observed by an inspection of the real property;</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>An instrument securing payment of a promissory note executed under § 47- 1353(a)(3).</text>
+      <text>An instrument securing payment of a promissory note executed under § 47-1353(a)(3); and</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>An energy efficiency loan agreement under subchapter IX of Chapter 8 of Title 47, and related documents or instruments and the obligation to pay the special assessment[.]</text>
     </level>
   </level>
   <level>
@@ -28,6 +32,10 @@
   <level>
     <num>(c)</num>
     <text>The purchaser shall pay all amounts that would be required of a person redeeming under § 47-1361; provided, that the purchaser shall not make payment for taxes and periods for which the purchaser purchased the certificate of sale, was assigned a certificate of sale under § 47-1349, and made payment under § 47-1354.</text>
+  </level>
+  <level>
+    <num>(c-1)</num>
+    <text>Notwithstanding subsection (c) of this section, a purchaser under § 47-1336 shall not pay an amount that is a Special Assessment under subchapter IX of Chapter 8 of Title 47, unless otherwise agreed.</text>
   </level>
   <level>
     <num>(d)</num>
@@ -49,39 +57,47 @@
     <num>(h)</num>
     <text>Any overpayment, including expenses, shall be paid by the Mayor to the person who made the overpayment. If there is a dispute regarding payment of the overpayment, the Mayor shall hold the overpayment until a court of competent jurisdiction determines the proper distribution of the overpayment.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(June 9, 2001, D.C. Law 13-305, § 507(a)(2), 48 DCR 334; Apr. 4, 2003, D.C. Law 14-282, § 11(mm), 50 DCR 896.)</text>
+      <heading>History</heading>
+      <text>(June 9, 2001, D.C. Law 13-305, § 507(a)(2), 48 DCR 334; Apr. 4, 2003, D.C. Law 14-282, § 11(mm), 50 DCR 896; Apr. 20, 2013, D.C. Law 19-262, § 103(e), 60 DCR 1300.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-282, in subsec. (a), made nonsubstantive changes in pars. (2) and (3), and added par. (4); and in subsec. (b), substituted "§ 47-1353(a)(3) or (b)" for "§ 47-1353(b)".</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 12(rr) of Tax Clarity and Recorder of Deeds Temporary Act of 2002 (D.C. Law 14-191, October 5, 2002, law notification 49 DCR 9549).</text>
-        <text>For temporary (225 day) amendment of section, see § 12(rr) of Tax Clarity and Related Amendments Temporary Act of 2003 (D.C. Law 14-228, March 23, 2003, law notification 50 DCR 2741).</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition of section, see § 7 of Real Property Tax Clarity and Litter Control Administration Temporary Amendment Act of 2001 (D.C. Law 14-8, June 13, 2001, law notification 48 DCR 5916).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 7 of Real Property Tax Clarity and Litter Control Administration Emergency Act of 2001 (D.C. Act 14- 22, March 16, 2001, 48 DCR 2706).</text>
-        <text>For temporary (90 day) amendment of section, see § 12(qq) of Tax Clarity and Recorder of Deeds Emergency Act of 2002 (D.C. Act 14-381, June 6, 2002, 49 DCR 5674).</text>
-        <text>For temporary (90 day) amendment of section, see § 12(rr) of Tax Clarity and Related Amendments Emergency Act of 2002 (D.C. Act 14-456, July 23, 2002, 49 DCR 8107).</text>
-        <text>For temporary (90 day) amendment of section, see § 12(rr) of Tax Clarity and Related Amendments Congressional Review Emergency Act of 2002 (D.C. Act 14-510, October 23, 2002, 49 DCR 10247).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-305, see notes under § 47-901.</text>
-        <text>For Law 14-282, see notes following § 47-902.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-1355, § 47-1370, and § 47-1383.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-282, in subsec. (a), made nonsubstantive changes in pars. (2) and (3), and added par. (4); and in subsec. (b), substituted "§ 47-1353(a)(3) or (b)" for "§ 47-1353(b)".</text>
+      <text>The 2013 amendment by D.C. Law 19-262 added (a)(5) and made related changes; and added (c-1).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 12(rr) of Tax Clarity and Recorder of Deeds Temporary Act of 2002 (D.C. Law 14-191, October 5, 2002, law notification 49 DCR 9549).</text>
+      <text>For temporary (225 day) amendment of section, see § 12(rr) of Tax Clarity and Related Amendments Temporary Act of 2003 (D.C. Law 14-228, March 23, 2003, law notification 50 DCR 2741).</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition of section, see § 7 of Real Property Tax Clarity and Litter Control Administration Temporary Amendment Act of 2001 (D.C. Law 14-8, June 13, 2001, law notification 48 DCR 5916).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 7 of Real Property Tax Clarity and Litter Control Administration Emergency Act of 2001 (D.C. Act 14-22, March 16, 2001, 48 DCR 2706).</text>
+      <text>For temporary (90 day) amendment of section, see § 12(qq) of Tax Clarity and Recorder of Deeds Emergency Act of 2002 (D.C. Act 14-381, June 6, 2002, 49 DCR 5674).</text>
+      <text>For temporary (90 day) amendment of section, see § 12(rr) of Tax Clarity and Related Amendments Emergency Act of 2002 (D.C. Act 14-456, July 23, 2002, 49 DCR 8107).</text>
+      <text>For temporary (90 day) amendment of section, see § 12(rr) of Tax Clarity and Related Amendments Congressional Review Emergency Act of 2002 (D.C. Act 14-510, October 23, 2002, 49 DCR 10247).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-305</heading>
+      <text>For Law 13-305, see notes under § 47-901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-282</heading>
+      <text>For Law 14-282, see notes following § 47-902.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-262</heading>
+      <text>Law 19-262, the "Sustainable DC Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-756. The Bill was adopted on first and second readings on Dec. 4, 2012, and Dec. 18, 2012, respectively. Signed by the Mayor on Jan. 16, 2013, it was assigned Act No. 19-615 and transmitted to Congress for its review. D.C. Law 19-262 became effective on Apr. 20, 2013.</text>
     </level>
   </level>
 </level>

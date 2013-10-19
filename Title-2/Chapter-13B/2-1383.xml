@@ -5,7 +5,7 @@
     <num>(a)</num>
     <level>
       <num>(1)</num>
-      <text>The Office shall be administered by the Director, who shall be appointed by the Mayor. The Director shall devote his or her full-time to the duties of the Office. His or her annual compensation shall not be lower than a DS-15, step one, or equivalent compensation pursuant to §§ 1-610.51 through 1- 610.63.</text>
+      <text>The Office shall be administered by the Director, who shall be appointed by the Mayor. The Director shall devote his or her full-time [sic] to the duties of the Office. His or her annual compensation shall not be lower than a DS-15, step one, or equivalent compensation pursuant to §§ 1-610.51 through 1-610.63.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -56,23 +56,22 @@
       <text>Work with the Department of Health's Gay, Lesbian, Bisexual and Transgendered program coordinator to ensure that the Department's annual report on the status of gay, lesbian, bisexual and transgender health in the District of Columbia is comprehensive and receives an appropriate response.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 4, 2006, D.C. Law 16-89, § 4, 53 DCR 1084; Mar. 2, 2007, D.C. Law 16-191, § 122(b), 53 DCR 6794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-191, in subsec. (b)(9), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-89, see notes following § 2-1381.</text>
-        <text>For Law 16-191, see notes following § 2-1217.71.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-191, in subsec. (b)(9), validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-89</heading>
+      <text>For Law 16-89, see notes following § 2-1381.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 2-1217.71.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>16-2322</num>
   <heading>Limitation of time on dispositional orders.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-2322</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -31,7 +30,7 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>A release or termination of an order prior to expiration of the order pursuant to subsection (a) (1) or (3), shall promptly be reported in writing to the Division.</text>
+    <text>A release or termination of an order prior to expiration of the order pursuant to subsection (a)(1) or (3), shall promptly be reported in writing to the Division.</text>
   </level>
   <level>
     <num>(e)</num>
@@ -41,29 +40,35 @@
     <num>(f)</num>
     <text>Unless sooner terminated, all orders of the Division under this subchapter in force with respect to a child terminate when he reaches twenty-one years of age.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 537, Pub. L. 91-358, title I, § 121(a); May 15, 1993, D.C. Law 9-272, § 103, 40 DCR 796; Mar. 24, 1998, D.C. Law 12-81, § 10(cc), 45 DCR 745; Mar. 17, 2005, D.C. Law 15-261, § 502(c), 52 DCR 1188.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-2322.</text>
-        <text>1973 Ed., § 16-2322.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-261, in subsec. (c), substituted "Director of Social Services or the Corporation Counsel" for "Director of Social Services".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 9-272, see Historical and Statutory Notes following § 16-2307.</text>
-        <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 16-2301.</text>
-        <text>For Law 15-261, see notes following § 16-2301.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-2389.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-2322.</text>
+      <text>1973 Ed., § 16-2322.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-261, in subsec. (c), substituted "Director of Social Services or the Corporation Counsel" for "Director of Social Services".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-272</heading>
+      <text>For legislative history of D.C. Law 9-272, see Historical and Statutory Notes following § 16-2307.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-81</heading>
+      <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 16-2301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-261</heading>
+      <text>For Law 15-261, see notes following § 16-2301.</text>
     </level>
   </level>
 </level>

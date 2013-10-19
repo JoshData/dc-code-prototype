@@ -1,7 +1,6 @@
 <level type="section">
   <num>16-1031</num>
   <heading>Arrests.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-1031</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A law enforcement officer shall arrest a person if the law enforcement officer has probable cause to believe that the person:</text>
@@ -18,27 +17,34 @@
     <num>(b)</num>
     <text>The law enforcement officer shall present the person arrested under subsection (a) of this section to the United States Attorney for charging.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 30, 1991, D.C. Law 8-261, § 2(c)(2), 37 DCR 5001; Mar. 25, 2009, D.C. Law 17-368, § 4(g), 56 DCR 1338.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-1031.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-368, in subsec. (b), deleted "under section 16-1002" following "charging".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 8-261, the "District of Columbia Prevention of Domestic Violence Amendment Act of 1990," was introduced in Council and assigned Bill No. 8-192, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on June 26, 1990, and July 10, 1990, respectively. Signed by the Mayor on July 18, 1990, it was assigned Act No. 8-239 and transmitted to both Houses of Congress for its review.</text>
-        <text>For Law 17-368, see notes following § 16-801.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Arrests without warrant by law enforcement officers, see § 23-581.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 23-581.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-1031.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-368, in subsec. (b), deleted "under section 16-1002" following "charging".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-261</heading>
+      <text>Law 8-261, the "District of Columbia Prevention of Domestic Violence Amendment Act of 1990," was introduced in Council and assigned Bill No. 8-192, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on June 26, 1990, and July 10, 1990, respectively. Signed by the Mayor on July 18, 1990, it was assigned Act No. 8-239 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-368</heading>
+      <text>For Law 17-368, see notes following § 16-801.</text>
     </level>
   </level>
 </level>

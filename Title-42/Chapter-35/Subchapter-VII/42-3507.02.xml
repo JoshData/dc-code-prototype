@@ -1,38 +1,31 @@
 <level type="section">
   <num>42-3507.02</num>
   <heading>Eligibility assistance.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2572</formerly-cited-as>
   <text>Each housing provider commencing substantial rehabilitation, demolition, or housing discontinuance, on or after July 17, 1985, shall pay relocation assistance in an amount calculated under § 42-3507.03 to all tenants of the housing accommodation who:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Were living in the rental units contained in the housing accommodation from which they are being displaced at the time the notice required by § 42- 3505.01 is given; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Are displaced from rental units because the housing accommodation in which they are located is to be substantially rehabilitated, demolished, or discontinued.</text>
-    </level>
+    <num>(1)</num>
+    <text>Were living in the rental units contained in the housing accommodation from which they are being displaced at the time the notice required by § 42-3505.01 is given; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Are displaced from rental units because the housing accommodation in which they are located is to be substantially rehabilitated, demolished, or discontinued.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 17, 1985, D.C. Law 6-10, § 702, 32 DCR 3089.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2572.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Termination of Law 6-10: See Historical and Statutory Notes following § 42- 3507.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2572.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-10</heading>
+      <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
+    </level>
+    <level>
+      <heading>Termination of law Termination of Law 6-10</heading>
+      <text>See Historical and Statutory Notes following § 42-3507.01.</text>
     </level>
   </level>
 </level>

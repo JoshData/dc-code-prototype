@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>When a financial institution makes a loan enrolled in the program, the financial institution shall require the borrower to pay to the financial institution a fee in an amount that is not less than 2%, but not more than 3. 5%, of the principal amount of the loan, which fee the financial institution shall deposit in the reserve account. The financial institution shall also deposit in the reserve account an amount equal to the amount of the fee received by the institution from the borrower under this subsection; provided, that the financial institution may recover from the borrower all or part of the amount the financial institution is required to pay under this subsection in any manner agreed to by the financial institution and the borrower.</text>
+    <text>When a financial institution makes a loan enrolled in the program, the financial institution shall require the borrower to pay to the financial institution a fee in an amount that is not less than 2%, but not more than 3.5%, of the principal amount of the loan, which fee the financial institution shall deposit in the reserve account. The financial institution shall also deposit in the reserve account an amount equal to the amount of the fee received by the institution from the borrower under this subsection; provided, that the financial institution may recover from the borrower all or part of the amount the financial institution is required to pay under this subsection in any manner agreed to by the financial institution and the borrower.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -61,23 +61,22 @@
     <num>(e)</num>
     <text>A financial institution shall obtain approval from the Mayor to withdraw funds from the reserve account.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 12, 2011, D.C. Law 18-322, § 7, 57 DCR 12442.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 7 of Capital Access Program Emergency Act of 2010 (D.C. Act 18-598, November 17, 2010, 57 DCR 11018).</text>
-        <text>For temporary (90 day) addition of section, see § 7 of Capital Access Program Congressional Review Emergency Act of 2011 (D.C. Act 19-6, February 11, 2011, 58 DCR 1408).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-322, see notes under § 2-1210.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1210.07.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 7 of Capital Access Program Emergency Act of 2010 (D.C. Act 18-598, November</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-322</heading>
+      <text>For history of Law 18-322, see notes under § 2-1210.01.</text>
     </level>
   </level>
 </level>

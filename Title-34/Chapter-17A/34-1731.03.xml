@@ -33,7 +33,7 @@
       <text>Reporting to the Mayor, no less often than quarterly the number of:</text>
       <level>
         <num>(A)</num>
-        <text>The number of digitally- disadvantaged households to which the franchisee has offered the package of services for digitally-disadvantaged residents;</text>
+        <text>The number of digitally-disadvantaged households to which the franchisee has offered the package of services for digitally-disadvantaged residents;</text>
       </level>
       <level>
         <num>(B)</num>
@@ -115,10 +115,10 @@
       <level>
         <num>(i)</num>
         <text>That upon the expiration of the franchise agreement, or upon the expiration of a renewal term, all computers, peripherals, and other items furnished by the franchisee to any household pursuant to the franchise agreement shall remain the property of the household; and</text>
-        <level>
-          <num>(ii)</num>
-          <text>That no person who received any item or service that is part of the package of services for digitally-disadvantaged residents shall be liable for any fee or charge for such item or service.</text>
-        </level>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>That no person who received any item or service that is part of the package of services for digitally-disadvantaged residents shall be liable for any fee or charge for such item or service.</text>
       </level>
     </level>
   </level>
@@ -130,22 +130,18 @@
     <num>(g)</num>
     <text>Pursuant to the requirements of § 1-204.51, the franchise agreement shall be subject to approval by the Council.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 2, 2007, D.C. Law 16-210, § 4, 53 DCR 9122.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 4 of Digital Inclusion Emergency Act of 2006 (D.C. Act 16-467, July 25, 2006, 53 DCR 6754).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-210, see notes following § 34-1731.01.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 4 of Digital Inclusion Emergency Act of 2006 (D.C. Act 16-467, July 25, 2006, 53 DCR 6754).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-210</heading>
+      <text>For Law 16-210, see notes following § 34-1731.01.</text>
     </level>
   </level>
 </level>

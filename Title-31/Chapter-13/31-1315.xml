@@ -1,39 +1,43 @@
 <level type="section">
   <num>31-1315</num>
   <heading>Grounds for liquidation.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-2815</formerly-cited-as>
   <text>The Commissioner may petition the Superior Court of the District of Columbia for an order directing him or her to liquidate a domestic insurer or an alien insurer domiciled in the District on the basis:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Of any ground for an order of rehabilitation as specified in § 31-1310, whether or not there has been a prior order directing the rehabilitation of the insurer;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>That the insurer is insolvent; or</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>That the insurer is in such a condition that the further transaction of business would be hazardous, financially or otherwise, to its policyholders, its creditors, or the public.</text>
-    </level>
+    <num>(1)</num>
+    <text>Of any ground for an order of rehabilitation as specified in § 31-1310, whether or not there has been a prior order directing the rehabilitation of the insurer;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>That the insurer is insolvent; or</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>That the insurer is in such a condition that the further transaction of business would be hazardous, financially or otherwise, to its policyholders, its creditors, or the public.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 15, 1993, D.C. Law 10-35, § 16, 40 DCR 5773; May 21, 1997, D.C. Law 11-268, § 10(z)(2), 44 DCR 1730.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-2815.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-35, see Historical and Statutory Notes following § 31-1301.</text>
-        <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-1301.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Rehabilitation, liquidation, or conservation of health maintenance organizations, see § 31-3420.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1314, § 31-1349, and § 31-3420.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-2815.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-35</heading>
+      <text>For legislative history of D.C. Law 10-35, see Historical and Statutory Notes following § 31-1301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-1301.</text>
     </level>
   </level>
 </level>

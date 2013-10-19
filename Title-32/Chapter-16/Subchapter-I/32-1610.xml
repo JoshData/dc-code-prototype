@@ -3,7 +3,7 @@
   <heading>Use of funds for employment and training activities.</heading>
   <level>
     <num>(a)</num>
-    <text>The Council shall advise the Mayor as required pursuant to section 112 of the Federal Act and on matters pertaining to the use of funds pursuant to section 134 of the Federal Act.</text>
+    <text>The Council shall advise the Mayor as required pursuant to section 112 [29 U.S.C. § 2822] of the Federal Act and on matters pertaining to the use of funds pursuant to section 134 [29 U.S.C. § 2864] of the Federal Act.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -25,23 +25,26 @@
     <num>(f)</num>
     <text>Any funds expended pursuant to this section shall be appropriated by the Council of the District of Columbia.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 18, 2000, D.C. Law 13-150, § 11, 47 DCR 4644; Mar. 25, 2009, D.C. Law 17-353, § 129(f), 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-353, in subsecs. (a) and (f), validated previously made technical corrections.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-150, see notes following § 32-1601.</text>
-        <text>For Law 17-353, see notes following § 32-101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-328.05.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-353, in subsecs. (a) and (f), validated previously made technical corrections.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-150</heading>
+      <text>For Law 13-150, see notes following § 32-1601.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 32-101.</text>
     </level>
   </level>
 </level>

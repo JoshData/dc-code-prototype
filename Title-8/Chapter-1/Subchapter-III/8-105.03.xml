@@ -1,13 +1,12 @@
 <level type="section">
   <num>8-105.03</num>
   <heading>Special agreements.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-953</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Nothing in this subchapter shall be construed as prohibiting any special agreements between WASA and any user of the wastewater system under which wastewater of specific strength or character is accepted into the wastewater system and treated subject to any payments or fees as may be applicable, provided, that:</text>
     <level>
       <num>(1)</num>
-      <text>National categorical pretreatment standards set forth at 40 CFR § 403.6 and prohibited discharge standards set forth at 40 CFR §§ 403.5(a) and (b) shall not be waived, unless such waiver is granted by mechanisms established under the Federal pretreatment regulations (40 CFR § 403 <text i="True">et seq.</text>).</text>
+      <text>National categorical pretreatment standards set forth at 40 C.F.R. § 403.6 and prohibited discharge standards set forth at 40 C.F.R. §§ 403.5(a) and (b) shall not be waived, unless such waiver is granted by mechanisms established under the Federal pretreatment regulations (40 C.F.R. § 403 et seq.).</text>
     </level>
     <level>
       <num>(2)</num>
@@ -26,29 +25,31 @@
     <num>(b)</num>
     <text>All special agreements or waivers shall be requested and granted in writing.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 12, 1986, D.C. Law 6-95, § 4, 33 DCR 577; Oct. 26, 2010, D.C. Law 18-256, § 2(b), 57 DCR 8082.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-953.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-256, rewrote the section, which formerly read:</text>
-        <text>"Nothing in this subchapter shall be construed as prohibiting any agreement between the District and any user of the wastewater system under which wastewater of specific strength or character is accepted into the wastewater system and treated subject to any payments or fees as may be applicable, except that national pretreatment standards shall not be waived."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-76, see Historical and Statutory Notes following § 8-105.01.</text>
-        <text>For legislative history of D.C. Law 6-95, see Historical and Statutory Notes following § 8-105.01.</text>
-        <text>For history of Law 18-256, see notes under § 8-105.02.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-953.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-256, rewrote the section, which formerly read:</text>
+      <text>"Nothing in this subchapter shall be construed as prohibiting any agreement between the District and any user of the wastewater system under which wastewater of specific strength or character is accepted into the wastewater system and treated subject to any payments or fees as may be applicable, except that national pretreatment standards shall not be waived."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-76</heading>
+      <text>For legislative history of D.C. Law 6-76, see Historical and Statutory Notes following § 8-105.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-95</heading>
+      <text>For legislative history of D.C. Law 6-95, see Historical and Statutory Notes following § 8-105.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-256</heading>
+      <text>For history of Law 18-256, see notes under § 8-105.02.</text>
     </level>
   </level>
 </level>

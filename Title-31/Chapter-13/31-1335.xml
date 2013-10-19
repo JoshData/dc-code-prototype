@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1335</num>
   <heading>Special claims.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-2835</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The claim of a third party which is contingent only on his first obtaining a judgment against the insured shall be considered and allowed as if there were no contingency.</text>
@@ -18,22 +17,22 @@
     <num>(d)</num>
     <text>Claims made under employment contracts by directors, principal officers, or persons in fact performing similar functions or having similar powers are limited to payment for services rendered prior to the issuance of any order of rehabilitation or liquidation under § 31-1311 or § 31-1316.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 15, 1993, D.C. Law 10-35, § 36, 40 DCR 5773.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-2835.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-35, see Historical and Statutory Notes following § 31-1301.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1316.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-2835.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-35</heading>
+      <text>For legislative history of D.C. Law 10-35, see Historical and Statutory Notes following § 31-1301.</text>
     </level>
   </level>
 </level>

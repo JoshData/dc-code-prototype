@@ -13,18 +13,14 @@
     <num>(c)</num>
     <text>The Commission may establish subcommittees to review issues and make recommendations to the Commission.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 13, 1977, D.C. Law 2-38, title IV, § 404, as added Dec. 7, 2004, D.C. Law 15-216, § 2(b), 51 DCR 9123.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 15-216, see notes following § 2-1404.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-216</heading>
+      <text>For D.C. Law 15-216, see notes following § 2-1404.01.</text>
     </level>
   </level>
 </level>

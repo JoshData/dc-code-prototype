@@ -1,38 +1,31 @@
 <level type="section">
   <num>48-1104</num>
   <heading>Property subject to forfeiture.</heading>
-  <formerly-cited-as>DC ST 1981 § 33-604</formerly-cited-as>
   <text>The following shall be subject to forfeiture immediately, and no property right shall exist in them after a final conviction by a court:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>All books, records, and research, including formulas, microfilm, tapes, and data which are used, or intended for use, in violation of this subchapter;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>All money or currency which shall be found in close proximity to drug paraphernalia or which otherwise has been used or intended for use in connection with the manufacture, distribution, delivery, sale, use, dispensing, or possession of drug paraphernalia in violation of § 48-1103; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>All drug paraphernalia as defined in §§ 48-1101 and 48-1102 and prohibited in § 48-1103.</text>
-    </level>
+    <num>(1)</num>
+    <text>All books, records, and research, including formulas, microfilm, tapes, and data which are used, or intended for use, in violation of this subchapter;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>All money or currency which shall be found in close proximity to drug paraphernalia or which otherwise has been used or intended for use in connection with the manufacture, distribution, delivery, sale, use, dispensing, or possession of drug paraphernalia in violation of § 48-1103; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>All drug paraphernalia as defined in §§ 48-1101 and 48-1102 and prohibited in § 48-1103.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 17, 1982, D.C. Law 4-149, § 5, 29 DCR 3369.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 33-604.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-149, see Historical and Statutory Notes following § 48-1101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 33-604.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-149</heading>
+      <text>For legislative history of D.C. Law 4-149, see Historical and Statutory Notes following § 48-1101.</text>
     </level>
   </level>
 </level>

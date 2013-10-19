@@ -1,7 +1,6 @@
 <level type="section">
   <num>6-1107</num>
   <heading>New construction.</heading>
-  <formerly-cited-as>DC ST 1981 § 5-1007</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Before the Mayor may issue a permit to construct a building or structure in an historic district or on the site of an historic landmark, the Mayor shall review the permit application in accordance with this section and shall place notice of the application in the District of Columbia Register.</text>
@@ -26,28 +25,31 @@
     <num>(f)</num>
     <text>The permit shall be issued unless the Mayor, after due consideration of the zoning laws and regulations of the District of Columbia, finds that the design of the building and the character of the historic district or historic landmark are incompatible; provided, that in any case in which an application is made for the construction of an additional building or structure on a lot upon which there is presently a building or structure, the Mayor may deny a construction permit entirely where he finds that any additional construction will be incompatible with the character of the historic district or historic landmark. Notwithstanding a finding of incompatibility, the Mayor may find that issuance of the permit is necessary to allow the construction of a project of special merit.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-144, § 8, 25 DCR 6939; Nov. 16, 2006, D.C. Law 16-185, § 2(j), 53 DCR 6712.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 5-1007.</text>
-        <text>1973 Ed., § 5-827.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-185, in subsec. (d), inserted "If the Commission of Fine Arts recommends against granting the application, the Historic Preservation Office shall notify the applicant of the Commission of Fine Arts' recommendation."; and, in subsec. (f), inserted "Notwithstanding a finding of incompatibility, the Mayor may find that issuance of the permit is necessary to allow the construction of a project of special merit."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-144, see Historical and Statutory Notes following § 6-1101.</text>
-        <text>For Law 16-185, see notes following § 6-1101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-1104, § 6-1106, § 6-1108, § 6-1108.01, § 6-1110, and § 6-1113.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 5-1007.</text>
+      <text>1973 Ed., § 5-827.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-185, in subsec. (d), inserted "If the Commission of Fine Arts recommends against granting the application, the Historic Preservation Office shall notify the applicant of the Commission of Fine Arts' recommendation."; and, in subsec. (f), inserted "Notwithstanding a finding of incompatibility, the Mayor may find that issuance of the permit is necessary to allow the construction of a project of special merit."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-144</heading>
+      <text>For legislative history of D.C. Law 2-144, see Historical and Statutory Notes following § 6-1101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-185</heading>
+      <text>For Law 16-185, see notes following § 6-1101.</text>
     </level>
   </level>
 </level>

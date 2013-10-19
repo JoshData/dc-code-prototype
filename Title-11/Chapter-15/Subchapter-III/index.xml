@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Retirement.</heading>
-  <level>
-    <text>DC CODE D. II, T. 11, Ch. 15, Subch. III, Refs &amp; Annos</text>
-  </level>
+  <heading>Retirement</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1561.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1562.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="11-1563.xml"/>

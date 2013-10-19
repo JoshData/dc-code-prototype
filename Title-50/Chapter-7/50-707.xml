@@ -1,7 +1,6 @@
 <level type="section">
   <num>50-707</num>
   <heading>Emission standards.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-2007</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any clean-fuel vehicle purchased pursuant to the requirements of this chapter shall meet the emission standard for its respective vehicle class and category as contained in §§ 243-245 of the Clean Air Act and regulations promulgated under these sections by the Environmental Protection Agency.</text>
@@ -10,22 +9,22 @@
     <num>(b)</num>
     <text>Clean-fuel vehicle emission standards may only be amended by the Mayor to the extent necessary to conform with revisions promulgated after the enactment of the Clean Air Act by the Environmental Protection Agency.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 8, 1991, D.C. Law 8-243, § 8, as added Mar. 14, 1995, D.C. Law 10- 201, § 2(g), 41 DCR 7178.)</text>
+      <heading>History</heading>
+      <text>(Mar. 8, 1991, D.C. Law 8-243, § 8, as added Mar. 14, 1995, D.C. Law 10-201, § 2(g), 41 DCR 7178.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-2007.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-201, see Historical and Statutory Notes following § 50-701.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 50-702.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-2007.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-201</heading>
+      <text>For legislative history of D.C. Law 10-201, see Historical and Statutory Notes following § 50-701.</text>
     </level>
   </level>
 </level>

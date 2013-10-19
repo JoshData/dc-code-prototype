@@ -3,538 +3,548 @@
   <heading>Definitions.</heading>
   <text>Except as otherwise provided in definitions of the same terms in other chapters of this title, for the purposes of this title, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Biennial report" means the report required by § 29-102.11.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Business corporation" means:</text>
     <level>
-      <num>(1)</num>
-      <text>"Biennial report" means the report required by § 29-102.11.</text>
+      <num>(A)</num>
+      <text>A domestic business corporation incorporated under or subject to Chapter 3 of this title; or</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Business corporation" means:</text>
-      <level>
-        <num>(A)</num>
-        <text>A domestic business corporation incorporated under or subject to Chapter 3 of this title; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>A foreign business corporation.</text>
-      </level>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Commercial registered agent" means a person listed under § 29-104.05.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Debtor in bankruptcy" means a person that is the subject of:</text>
-      <level>
-        <num>(A)</num>
-        <text>An order for relief under Title 11 of the United States Code or a comparable order under a successor statute of general application; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>A comparable order under federal, state, or foreign law governing insolvency.</text>
-      </level>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Domestic", with respect to an entity, means governed as to its internal affairs by the law of the District.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Effective date", when referring to a record filed by the Mayor, means the time and date determined in accordance with § 29-102. 03.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <level>
-        <num>(A)</num>
-        <text>"Entity" means:</text>
-        <level>
-          <num>(i)</num>
-          <text>A business corporation;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>A nonprofit corporation;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>A general partnership, including a limited liability partnership;</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>A limited partnership, including a limited liability limited partnership;</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>A limited liability company;</text>
-        </level>
-        <level>
-          <num>(vi)</num>
-          <text>A general cooperative association;</text>
-        </level>
-        <level>
-          <num>(vii)</num>
-          <text>A limited cooperative association;</text>
-        </level>
-        <level>
-          <num>(viii)</num>
-          <text>An unincorporated nonprofit association;</text>
-        </level>
-        <level>
-          <num>(ix)</num>
-          <text>A statutory trust, business trust, or common-law business trust; or</text>
-        </level>
-        <level>
-          <num>(x)</num>
-          <text>Any other person that has a legal existence separate from any interest holder of that person or that has the power to acquire an interest in real property in its own name.</text>
-        </level>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The term "entity" shall not include:</text>
-        <level>
-          <num>(i)</num>
-          <text>An individual;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>A testamentary, inter vivos, or charitable trust, except a statutory trust, business trust, or common-law business trust;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>An association or relationship that is not a partnership solely by reason of § 29-602.02(c) or a similar provision of the law of another jurisdiction;</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>A decedent's estate; or</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>A government or a governmental subdivision, agency, or instrumentality.</text>
-        </level>
-      </level>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Entity filing" means a record delivered for filing to the Mayor pursuant to this title.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Filed record" means a record filed by the Mayor pursuant to this title.</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Filing entity" means an entity that is formed by filing a public organic record.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>"Foreign", with respect to an entity, means:</text>
-      <level>
-        <num>(A)</num>
-        <text>Governed as to its internal affairs by the law of a jurisdiction other than the District; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Chartered by a special act of Congress.</text>
-      </level>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>"General cooperative association" means a domestic general cooperative association formed under or subject to Chapter 9 of this title or a foreign general cooperative association.</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>"General partnership" means a domestic general partnership formed under or subject to Chapter 6 of this title or a foreign general partnership. The term "general partnership" includes a limited liability partnership.</text>
-    </level>
-    <level>
-      <num>(14)</num>
-      <text>"Governance interest" means a right under the organic law or organic rules of an unincorporated entity, other than as a governor, agent, assignee, or proxy, to:</text>
-      <level>
-        <num>(A)</num>
-        <text>Receive or demand access to information concerning, or the books and records of, the entity;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Vote for the election of the governors of the entity; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Receive notice of or vote on issues involving the internal affairs of the entity.</text>
-      </level>
-    </level>
-    <level>
-      <num>(15)</num>
-      <text>"Governor" means a:</text>
-      <level>
-        <num>(A)</num>
-        <text>Director of a business corporation;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Director or trustee of a nonprofit corporation;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>General partner of a general partnership;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>General partner of a limited partnership;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Manager of a manager-managed limited liability company;</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Member of a member-managed limited liability company;</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>Director of a general cooperative association;</text>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>Director of a limited cooperative association;</text>
-      </level>
-      <level>
-        <num>(I)</num>
-        <text>Manager of an unincorporated nonprofit association;</text>
-      </level>
-      <level>
-        <num>(J)</num>
-        <text>Trustee of a statutory trust, business trust, or common-law business trust; or</text>
-      </level>
-      <level>
-        <num>(K)</num>
-        <text>A person under whose authority the powers of an entity are exercised and under whose direction the business and affairs of the entity are managed pursuant to the entity's organic law and organic rules.</text>
-      </level>
-    </level>
-    <level>
-      <num>(16)</num>
-      <text>"Interest" means a:</text>
-      <level>
-        <num>(A)</num>
-        <text>Share in a business corporation;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Membership in a nonprofit corporation;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Partnership interest in a general partnership;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Partnership interest in a limited partnership;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Membership interest in a limited liability company;</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Share in a general cooperative association;</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>Member's interest in a limited cooperative association;</text>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>Membership in an unincorporated nonprofit association;</text>
-      </level>
-      <level>
-        <num>(I)</num>
-        <text>Beneficial interest in a statutory trust, business trust, or common law business trust; or</text>
-      </level>
-      <level>
-        <num>(J)</num>
-        <text>Governance interest or transferable interest in any other type of unincorporated entity.</text>
-      </level>
-    </level>
-    <level>
-      <num>(17)</num>
-      <text>"Interest holder" means:</text>
-      <level>
-        <num>(A)</num>
-        <text>A shareholder of a business corporation;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>A member of a nonprofit corporation;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>A general partner of a general partnership;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>A general partner of a limited partnership;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>A limited partner of a limited partnership;</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>A member of a limited liability company;</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>A shareholder of a general cooperative association;</text>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>A member of a limited cooperative association;</text>
-      </level>
-      <level>
-        <num>(I)</num>
-        <text>A member of an unincorporated nonprofit association;</text>
-      </level>
-      <level>
-        <num>(J)</num>
-        <text>A beneficiary of a statutory trust, business trust, or common law business trust; or</text>
-      </level>
-      <level>
-        <num>(K)</num>
-        <text>Any other direct holder of an interest.</text>
-      </level>
-    </level>
-    <level>
-      <num>(18)</num>
-      <text>"Jurisdiction", used to refer to a political entity, means the United States, a state, a foreign country, or a political subdivision of a foreign country.</text>
-    </level>
-    <level>
-      <num>(19)</num>
-      <text>"Jurisdiction of formation" means the jurisdiction whose law includes the organic law of an entity.</text>
-    </level>
-    <level>
-      <num>(20)</num>
-      <text>"Limited cooperative association" means a domestic limited cooperative association formed under or subject to Chapter 10 of this title or a foreign limited cooperative association.</text>
-    </level>
-    <level>
-      <num>(21)</num>
-      <text>"Limited liability company" means a domestic limited liability company formed under or subject to Chapter 8 of this title or a foreign limited liability company.</text>
-    </level>
-    <level>
-      <num>(22)</num>
-      <text>"Limited liability limited partnership" means a domestic limited liability limited partnership formed under or subject to Chapter 7 of this title or a foreign limited liability limited partnership.</text>
-    </level>
-    <level>
-      <num>(23)</num>
-      <text>"Limited liability partnership" means a domestic limited liability partnership registered under or subject to Chapter 6 of this title or a foreign limited liability partnership.</text>
-    </level>
-    <level>
-      <num>(24)</num>
-      <text>"Limited partnership" means a domestic limited partnership formed under or subject to Chapter 7 of this title or a foreign limited partnership. The term includes a limited liability limited partnership.</text>
-    </level>
-    <level>
-      <num>(25)</num>
-      <text>"Noncommercial registered agent" means a person that is not a commercial registered agent and is:</text>
-      <level>
-        <num>(A)</num>
-        <text>An individual or domestic or foreign entity that serves in the District as the agent for service of process of an entity;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>An individual who holds the office or other position in an entity who is designated as the agent for service of process pursuant to § 29- 104.04(a)(2)(B); or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>A member in good standing of the District of Columbia Bar who maintains an office in the District of Columbia.</text>
-      </level>
-    </level>
-    <level>
-      <num>(26)</num>
-      <text>"Nonfiling entity" means an entity that is formed other than by filing a public organic record.</text>
-    </level>
-    <level>
-      <num>(27)</num>
-      <text>"Nonprofit corporation" means a domestic nonprofit corporation incorporated under or subject to Chapter 4 of this title or a foreign nonprofit corporation.</text>
-    </level>
-    <level>
-      <num>(28)</num>
-      <text>"Organic law" means the law of an entity's jurisdiction of formation which governs the internal affairs of the entity.</text>
-    </level>
-    <level>
-      <num>(29)</num>
-      <text>"Organic rules" means the public organic record and private organic rules of an entity.</text>
-    </level>
-    <level>
-      <num>(30)</num>
-      <text>"Person" means an individual, business corporation, nonprofit corporation, partnership, limited partnership, limited liability company, general cooperative association, limited cooperative association, unincorporated nonprofit association, statutory trust, business trust or common law business trust, estate, trust, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.</text>
-    </level>
-    <level>
-      <num>(31)</num>
-      <text>"Principal office" means the principal executive office of an entity, whether or not the office is located in the District.</text>
-    </level>
-    <level>
-      <num>(32)</num>
-      <text>"Private organic rules" means the rules, whether or not in a record, that govern the internal affairs of an entity, are binding on all of its interest holders, and are not part of its public organic record, if any. The term "private organic rules" shall include:</text>
-      <level>
-        <num>(A)</num>
-        <text>Bylaws of a business corporation;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Bylaws of a nonprofit corporation;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Partnership agreement of a general partnership;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Partnership agreement of a limited partnership;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Operating agreement of a limited liability company;</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Bylaws of a general cooperative association;</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>Bylaws of a limited cooperative association;</text>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>Governing principles of an unincorporated nonprofit association; and</text>
-      </level>
-      <level>
-        <num>(I)</num>
-        <text>Governing instrument of a statutory trust, business trust, or common-law business trust.</text>
-      </level>
-    </level>
-    <level>
-      <num>(33)</num>
-      <text>"Proceeding" includes a civil action, arbitration, mediation, administrative proceeding, criminal prosecution, and investigatory action.</text>
-    </level>
-    <level>
-      <num>(34)</num>
-      <text>"Professional limited liability company" means a limited liability company organized under Chapter 8 of this title solely for the purpose of rendering professional services through its members, managers, employees, or agents.</text>
-    </level>
-    <level>
-      <num>(35)</num>
-      <text>"Property" means all property, whether real, personal, or mixed, or tangible or intangible, or any interest therein.</text>
-    </level>
-    <level>
-      <num>(36)</num>
-      <text>"Public organic record" means the record the public filing of which forms an entity and any amendment or restatement of that record. The term "public organic record" shall include the:</text>
-      <level>
-        <num>(A)</num>
-        <text>Articles of incorporation of a business corporation;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Articles of incorporation of a nonprofit corporation;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Certificate of limited partnership of a limited partnership;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Certificate of organization of a limited liability company;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Articles of incorporation of a general cooperative association;</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Articles of organization of a limited cooperative association; and</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>Certificate of trust of a statutory trust, business trust, or common-law business trust.</text>
-      </level>
-    </level>
-    <level>
-      <num>(37)</num>
-      <text>"Qualified foreign entity" means a foreign entity that is registered to do business in the District pursuant to a statement of registration filed by the Mayor.</text>
-    </level>
-    <level>
-      <num>(38)</num>
-      <text>"Receipt" or "receive", as used in this chapter, means actual receipt.</text>
-    </level>
-    <level>
-      <num>(39)</num>
-      <text>"Record", used as a noun, means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</text>
-    </level>
-    <level>
-      <num>(40)</num>
-      <text>"Registered agent" means an agent of an entity which is authorized to receive service of any process, notice, or demand required or permitted by law to be served on the entity. The term "registered agent" shall include a commercial registered agent and a noncommercial registered agent.</text>
-    </level>
-    <level>
-      <num>(41)</num>
-      <text>"Sign" means, with present intent to authenticate or adopt a record to:</text>
-      <level>
-        <num>(A)</num>
-        <text>Execute or adopt a tangible symbol; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Attach to or logically associate with the record an electronic symbol, sound, or process.</text>
-      </level>
-    </level>
-    <level>
-      <num>(42)</num>
-      <text>"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.</text>
-    </level>
-    <level>
-      <num>(43)</num>
-      <text>"Statutory trust" means a domestic statutory trust formed under or subject to Chapter 12 of this title or a foreign statutory trust.</text>
-    </level>
-    <level>
-      <num>(44)</num>
-      <text>"Superior Court" means the Superior Court of the District of Columbia.</text>
-    </level>
-    <level>
-      <num>(45)</num>
-      <text>"Transfer" includes an assignment, conveyance, sale, lease, mortgage, and encumbrance.</text>
-    </level>
-    <level>
-      <num>(46)</num>
-      <text>"Transferable interest" means the right under an unincorporated entity's organic law to receive distributions from the entity.</text>
-    </level>
-    <level>
-      <num>(47)</num>
-      <text>"Type of entity" means a generic form of entity:</text>
-      <level>
-        <num>(A)</num>
-        <text>Recognized at common law; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Formed under an organic law, whether or not some entities formed under that organic law are subject to provisions of that law that create different categories of the form of entity.</text>
-      </level>
-    </level>
-    <level>
-      <num>(48)</num>
-      <text>"Unincorporated nonprofit association" means a domestic unincorporated nonprofit association formed under or subject to Chapter 11 of this title or a foreign unincorporated nonprofit association.</text>
+      <num>(B)</num>
+      <text>A foreign business corporation.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(3)</num>
+    <text>"Business trust" means a trust formed under the statutory law of another state which is not a foreign statutory trust and does not have a predominately donative purpose.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Commercial registered agent" means a person listed under § 29-104.05.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Common-law business trust" means a common-law trust that does not have a predominately donative purpose.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Debtor in bankruptcy" means a person that is the subject of:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <num>(A)</num>
+      <text>An order for relief under Title 11 of the United States Code or a comparable order under a successor statute of general application; or</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <num>(B)</num>
+      <text>A comparable order under federal, state, or foreign law governing insolvency.</text>
+    </level>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Distributional interest" means the right under an unincorporated entity's organic law and organic rules to receive distributions from the entity.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Domestic"[,] with respect to an entity, means governed as to its internal affairs by the law of the District or created under the provisions of a special act of congress unless otherwise noted under its Congressional Charter.</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Effective date", when referring to a record filed by the Mayor, means the time and date determined in accordance with § 29-102.03.</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <level>
+      <num>(A)</num>
+      <text>"Entity" means:</text>
       <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+        <num>(i)</num>
+        <text>A business corporation;</text>
       </level>
       <level>
-        <heading>Editor's Notes</heading>
-        <text>Former § 29-101.02 has been recodified as § 29A-101.02.</text>
+        <num>(ii)</num>
+        <text>A nonprofit corporation;</text>
       </level>
+      <level>
+        <num>(iii)</num>
+        <text>A general partnership, including a limited liability partnership;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>A limited partnership, including a limited liability limited partnership;</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>A limited liability company;</text>
+      </level>
+      <level>
+        <num>(vi)</num>
+        <text>A general cooperative association;</text>
+      </level>
+      <level>
+        <num>(vii)</num>
+        <text>A limited cooperative association;</text>
+      </level>
+      <level>
+        <num>(viii)</num>
+        <text>An unincorporated nonprofit association;</text>
+      </level>
+      <level>
+        <num>(ix)</num>
+        <text>A statutory trust, business trust, or common-law business trust; or</text>
+      </level>
+      <level>
+        <num>(x)</num>
+        <text>Any other person that has a legal existence separate from any interest holder of that person or that has the power to acquire an interest in real property in its own name.</text>
+      </level>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The term "entity" does not include:</text>
+      <level>
+        <num>(i)</num>
+        <text>An individual;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>A testamentary or inter vivos trust with a predominantly donative purpose, or a charitable trust;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>An association or relationship that is not a partnership under the rules set forth in § 29-602.02(c) or a similar provision of the law of another jurisdiction;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>A decedent's estate; or</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>A government or a governmental subdivision, agency, or instrumentality.</text>
+      </level>
+    </level>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>"Entity filing" means a record delivered for filing to the Mayor pursuant to this title.</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>"Filed record" means a record filed by the Mayor pursuant to this title.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>"Filing entity" means an entity that is formed by filing a public organic record. The term does not include a limited liability partnership.</text>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>"Foreign", with respect to an entity, means an entity governed as to its internal affairs by the law of a jurisdiction other than the District.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>"General cooperative association" means a domestic general cooperative association formed under or subject to Chapter 9 of this title or a foreign general cooperative association.</text>
+  </level>
+  <level>
+    <num>(16)</num>
+    <text>"General partnership" means a domestic general partnership formed under or subject to Chapter 6 of this title or a foreign general partnership. The term "general partnership" includes a limited liability partnership.</text>
+  </level>
+  <level>
+    <num>(17)</num>
+    <text>"Governance interest" means a right under the organic law or organic rules of an unincorporated entity, other than as a governor, agent, assignee, or proxy, to:</text>
+    <level>
+      <num>(A)</num>
+      <text>Receive or demand access to information concerning, or the books and records of, the entity;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Vote for the election of the governors of the entity; or</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Receive notice of or vote on issues involving the internal affairs of the entity.</text>
+    </level>
+  </level>
+  <level>
+    <num>(18)</num>
+    <text>"Governor" means a:</text>
+    <level>
+      <num>(A)</num>
+      <text>Director of a business corporation;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Director or trustee of a nonprofit corporation;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>General partner of a general partnership;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>General partner of a limited partnership;</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Manager of a manager-managed limited liability company;</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>Member of a member-managed limited liability company;</text>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>Director of a general cooperative association;</text>
+    </level>
+    <level>
+      <num>(H)</num>
+      <text>Director of a limited cooperative association;</text>
+    </level>
+    <level>
+      <num>(I)</num>
+      <text>Manager of an unincorporated nonprofit association;</text>
+    </level>
+    <level>
+      <num>(J)</num>
+      <text>Trustee of a statutory trust, business trust, or common-law business trust; or</text>
+    </level>
+    <level>
+      <num>(K)</num>
+      <text>Any other person under whose authority the powers of an entity are exercised and under whose direction the activities and affairs of the entity are managed pursuant to the entity's organic law and organic rules.</text>
+    </level>
+  </level>
+  <level>
+    <num>(19)</num>
+    <text>"Interest" means a:</text>
+    <level>
+      <num>(A)</num>
+      <text>Share in a business corporation;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Membership in a nonprofit corporation;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Partnership interest in a general partnership;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Partnership interest in a limited partnership;</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Membership interest in a limited liability company;</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>Share in a general cooperative association;</text>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>Member's interest in a limited cooperative association;</text>
+    </level>
+    <level>
+      <num>(H)</num>
+      <text>Membership in an unincorporated nonprofit association;</text>
+    </level>
+    <level>
+      <num>(I)</num>
+      <text>Beneficial interest in a statutory trust, business trust, or common law business trust; or</text>
+    </level>
+    <level>
+      <num>(J)</num>
+      <text>Governance interest or distributional interest in any other type of unincorporated entity.</text>
+    </level>
+  </level>
+  <level>
+    <num>(20)</num>
+    <text>"Interest holder" means:</text>
+    <level>
+      <num>(A)</num>
+      <text>A shareholder of a business corporation;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>A member of a nonprofit corporation;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>A general partner of a general partnership;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>A general partner of a limited partnership;</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>A limited partner of a limited partnership;</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>A member of a limited liability company;</text>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>A shareholder of a general cooperative association;</text>
+    </level>
+    <level>
+      <num>(H)</num>
+      <text>A member of a limited cooperative association;</text>
+    </level>
+    <level>
+      <num>(I)</num>
+      <text>A member of an unincorporated nonprofit association;</text>
+    </level>
+    <level>
+      <num>(J)</num>
+      <text>A beneficiary or beneficial owner of a statutory trust, business trust, or common law business trust; or</text>
+    </level>
+    <level>
+      <num>(K)</num>
+      <text>Any other direct holder of an interest.</text>
+    </level>
+  </level>
+  <level>
+    <num>(21)</num>
+    <text>"Jurisdiction", used to refer to a political entity, means the United States, a state, a foreign country, or a political subdivision of a foreign country.</text>
+  </level>
+  <level>
+    <num>(22)</num>
+    <text>"Jurisdiction of formation" means the jurisdiction whose law includes the organic law of an entity.</text>
+  </level>
+  <level>
+    <num>(23)</num>
+    <text>"Limited cooperative association" means a domestic limited cooperative association formed under or subject to Chapter 10 of this title or a foreign limited cooperative association.</text>
+  </level>
+  <level>
+    <num>(24)</num>
+    <text>"Limited liability company" means a domestic limited liability company formed under or subject to Chapter 8 of this title or a foreign limited liability company.</text>
+  </level>
+  <level>
+    <num>(25)</num>
+    <text>"Limited liability limited partnership" means a domestic limited liability limited partnership formed under or subject to Chapter 7 of this title or a foreign limited liability limited partnership.</text>
+  </level>
+  <level>
+    <num>(26)</num>
+    <text>"Limited liability partnership" means a domestic limited liability partnership that has a statement of qualification in effect under Chapter 6 of this title or a foreign limited liability partnership.</text>
+  </level>
+  <level>
+    <num>(27)</num>
+    <text>"Limited partnership" means a domestic limited partnership formed under or subject to Chapter 7 of this title or a foreign limited partnership. The term includes a limited liability limited partnership.</text>
+  </level>
+  <level>
+    <num>(28)</num>
+    <text>"Noncommercial registered agent" means a person that is not a commercial registered agent and is:</text>
+    <level>
+      <num>(A)</num>
+      <text>An individual or domestic or foreign entity that serves in the District as the registered agent of an entity;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>An individual who holds the office or other position in an entity who is designated as the registered agent pursuant to § 29-104.04(a)(2)(B); or</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>A member in good standing of the District of Columbia Bar who maintains an office in the District of Columbia.</text>
+    </level>
+  </level>
+  <level>
+    <num>(29)</num>
+    <text>"Nonfiling entity" means an entity that is formed other than by filing a public organic record.</text>
+  </level>
+  <level>
+    <num>(30)</num>
+    <text>"Nonprofit corporation" means a domestic nonprofit corporation incorporated under or subject to Chapter 4 of this title or a foreign nonprofit corporation.</text>
+  </level>
+  <level>
+    <num>(31)</num>
+    <text>"Nonregistered foreign entity" means a foreign entity that is not registered to do business in the District pursuant to a statement of registration filed by the Mayor.</text>
+  </level>
+  <level>
+    <num>(32)</num>
+    <text>"Organic law" means the law of an entity's jurisdiction of formation which governs the internal affairs of the entity.</text>
+  </level>
+  <level>
+    <num>(33)</num>
+    <text>"Organic rules" means the public organic record and private organic rules of an entity.</text>
+  </level>
+  <level>
+    <num>(34)</num>
+    <text>"Person" means an individual, estate, business or nonprofit entity, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal entity.</text>
+  </level>
+  <level>
+    <num>(35)</num>
+    <text>"Principal office" means the principal executive office of an entity, whether or not the office is located in the District.</text>
+  </level>
+  <level>
+    <num>(36)</num>
+    <text>"Private organic rules" means the rules, whether or not in a record, that govern the internal affairs of an entity, are binding on all of its interest holders, and are not part of its public organic record, if any. The term "private organic rules" shall include:</text>
+    <level>
+      <num>(A)</num>
+      <text>Bylaws of a business corporation;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Bylaws of a nonprofit corporation;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Partnership agreement of a general partnership;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Partnership agreement of a limited partnership;</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Operating agreement of a limited liability company;</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>Bylaws of a general cooperative association;</text>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>Bylaws of a limited cooperative association;</text>
+    </level>
+    <level>
+      <num>(H)</num>
+      <text>Governing principles of an unincorporated nonprofit association; and</text>
+    </level>
+    <level>
+      <num>(I)</num>
+      <text>Trust instrument of a statutory trust or similar rules of a business trust, or common-law business trust.</text>
+    </level>
+  </level>
+  <level>
+    <num>(37)</num>
+    <text>"Proceeding" includes a civil action, arbitration, mediation, administrative proceeding, criminal prosecution, and investigatory action.</text>
+  </level>
+  <level>
+    <num>(38)</num>
+    <text>"Professional limited liability company" means a limited liability company organized under Chapter 8 of this title solely for the purpose of rendering professional services through its members, managers, employees, or agents.</text>
+  </level>
+  <level>
+    <num>(39)</num>
+    <text>"Property" means all property, whether real, personal, or mixed, or tangible or intangible, or any right or interest therein.</text>
+  </level>
+  <level>
+    <num>(40)</num>
+    <text>"Public organic record" means a record the filing of which by the Mayor is required to form an entity and any amendment to or restatement of that record. The term "public organic record" shall include the:</text>
+    <level>
+      <num>(A)</num>
+      <text>Articles of incorporation of a business corporation;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Articles of incorporation of a nonprofit corporation;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Certificate of limited partnership of a limited partnership;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Certificate of organization of a limited liability company;</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Articles of incorporation of a general cooperative association;</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>Articles of organization of a limited cooperative association; and</text>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>Certificate of trust of a statutory trust or a similar record of a business trust or common-law business trust.</text>
+    </level>
+  </level>
+  <level>
+    <num>(41)</num>
+    <text>"Receipt" or "receive", as used in this chapter, means actual receipt.</text>
+  </level>
+  <level>
+    <num>(42)</num>
+    <text>"Record", used as a noun, means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</text>
+  </level>
+  <level>
+    <num>(43)</num>
+    <text>"Registered agent" means an agent of an entity which is authorized to receive service of any process, notice, or demand required or permitted by law to be served on the entity. The term "registered agent" includes a commercial registered agent and a noncommercial registered agent.</text>
+  </level>
+  <level>
+    <num>(44)</num>
+    <text>"Registered foreign entity" means a foreign entity that is registered to do business in the District pursuant to a statement of registration filed by the Mayor.</text>
+  </level>
+  <level>
+    <num>(45)</num>
+    <text>"Sign" means, with present intent to authenticate or adopt a record to:</text>
+    <level>
+      <num>(A)</num>
+      <text>Execute or adopt a tangible symbol; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Attach to or logically associate with the record an electronic symbol, sound, or process.</text>
+    </level>
+  </level>
+  <level>
+    <num>(46)</num>
+    <text>"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.</text>
+  </level>
+  <level>
+    <num>(47)</num>
+    <text>"Statutory trust" means a domestic statutory trust formed under or subject to Chapter 12 of this title or a trust formed under a statute of a jurisdiction other than the District which would be a statutory trust if formed under the law of the District.</text>
+  </level>
+  <level>
+    <num>(48)</num>
+    <text>"Superior Court" means the Superior Court of the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(49)</num>
+    <text>"Transfer" includes an assignment, conveyance, sale, lease, or encumbrance, including a mortgage or security interest, a gift, or a transfer by operation of law.</text>
+  </level>
+  <level>
+    <num>(50)</num>
+    <text>"Type of entity" means a generic form of entity:</text>
+    <level>
+      <num>(A)</num>
+      <text>Recognized at common law; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Formed under an organic law, whether or not some entities formed under that organic law are subject to provisions of that law that create different categories of the form of entity.</text>
+    </level>
+  </level>
+  <level>
+    <num>(51)</num>
+    <text>"Unincorporated nonprofit association" means a domestic unincorporated nonprofit association formed under or subject to Chapter 11 of this title or a nonprofit association formed under the law of a jurisdiction other than the District which would be an unincorporated nonprofit association if formed under the law of the District.</text>
+  </level>
+  <level>
+    <num>(52)</num>
+    <text>"Written" means inscribed on a tangible medium. "Writing" has a corresponding meaning.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(a)(2), 59 DCR 13171.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>Law 19-210, the "'District of Columbia Official Code Title 29 Technical and Harmonizing Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-532. The Bill was adopted on first and second readings on July 10, 2012, and Oct. 2, 2012, respectively. Signed by the Mayor on Oct. 31, 2012, it was assigned Act No. 19-512 and transmitted to Congress for its review. D.C. Law 19-210 became effective on Mar. 5, 2013.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

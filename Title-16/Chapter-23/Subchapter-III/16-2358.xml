@@ -1,7 +1,6 @@
 <level type="section">
   <num>16-2358</num>
   <heading>Conduct of hearings.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-2358</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>All hearings and proceedings on a motion to terminate the parent and child relationship shall be held by the judge, without a jury.</text>
@@ -18,23 +17,19 @@
     <num>(d)</num>
     <text>If a judge finds it is in the best interests of the child, he or she may temporarily exclude the child from any proceeding. Under no circumstances, however, may counsel in the case be excluded.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 23, 1977, D.C. Law 2-22, title IV, § 410, 24 DCR 3341.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-2358.</text>
-        <text>1973 Ed., § 16-2358.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 16-2301.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-2358.</text>
+      <text>1973 Ed., § 16-2358.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-22</heading>
+      <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 16-2301.</text>
     </level>
   </level>
 </level>

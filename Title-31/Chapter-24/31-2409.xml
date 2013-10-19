@@ -1,10 +1,10 @@
 <level type="section">
   <num>31-2409</num>
   <heading>Consumer protection.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-2109</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Grounds for cancellation of policy</text>. -- No insurer shall cancel a policy except:</text>
+    <heading>Grounds for cancellation of policy</heading>
+    <text>No insurer shall cancel a policy except:</text>
     <level>
       <num>(1)</num>
       <text>For refusal or failure of the insured to pay a premium due under the terms of the policy of motor vehicle insurance;</text>
@@ -20,8 +20,10 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Notice of cancellation of or refusal to renew policy</text>. -- (1) No cancellation or refusal to renew by an insurer of a policy of motor vehicle insurance shall be effective unless the insurer has delivered or mailed to the named insured, at his or her last known address, a written notice of intent to cancel or refusal to renew. The required notice shall be provided to the named insured at least 30 days prior to the effective date of cancellation, or in the case of nonrenewal, 30 days prior to the end of the policy period. The notice shall contain a statement:</text>
+    <heading>Notice required of cancellation of or refusal to renew policy</heading>
     <level>
+      <num>(1)</num>
+      <text>No cancellation or refusal to renew by an insurer of a policy of motor vehicle insurance shall be effective unless the insurer has delivered or mailed to the named insured, at his or her last known address, a written notice of intent to cancel or refusal to renew. The required notice shall be provided to the named insured at least 30 days prior to the effective date of cancellation, or in the case of nonrenewal, 30 days prior to the end of the policy period. The notice shall contain a statement:</text>
       <level>
         <num>(A)</num>
         <text>Of the specific reasons relied upon by the insurer as the basis of cancellation or refusal to renew;</text>
@@ -53,11 +55,13 @@
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Proof of mailing notice</text>. -- Proof of mailing of the notice of cancellation, or of intention not to renew, to the named insured by post office receipt secured or certified mail at the address shown in the policy or to the named insured's last known address, shall be sufficient proof of notice.</text>
+    <heading>Proof of mailing notice</heading>
+    <text>Proof of mailing of the notice of cancellation, or of intention not to renew, to the named insured by post office receipt secured or certified mail at the address shown in the policy or to the named insured's last known address, shall be sufficient proof of notice.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Consequences of failure to provide required notice</text>. -- Despite failure of the named insured to make timely payment of the renewal premium, failure by the insurer to provide the notice required by this section shall result in the insurer being required:</text>
+    <heading>Consequences of failure to provide required notice</heading>
+    <text>Despite failure of the named insured to make timely payment of the renewal premium, failure by the insurer to provide the notice required by this section shall result in the insurer being required:</text>
     <level>
       <num>(1)</num>
       <text>To provide coverage for any claim which would have been covered under the policy, if a claim arises within 45 days after the date within which the named insured discovers or should have discovered that his or her policy has not been renewed; and</text>
@@ -69,23 +73,27 @@
   </level>
   <level>
     <num>(e)</num>
-    <text><text i="True">Prohibited discrimination</text>. -- No insurer, other than a self-insurer, shall fail or refuse to issue a policy of motor vehicle insurance to an applicant, fail or refuse to renew a policy of motor vehicle insurance, or cancel a policy of motor vehicle insurance for any reason provided in Unit A of Chapter 14 of Title 2.</text>
+    <heading>Prohibited discrimination</heading>
+    <text>No insurer, other than a self-insurer, shall fail or refuse to issue a policy of motor vehicle insurance to an applicant, fail or refuse to renew a policy of motor vehicle insurance, or cancel a policy of motor vehicle insurance for any reason provided in Unit A of Chapter 14 of Title 2.</text>
   </level>
   <level>
     <num>(f)</num>
-    <text><text i="True">Prohibited inquiries concerning prior cancellation or nonrenewals</text>. -- No applicant for a policy of motor vehicle insurance, as a condition precedent to obtaining a policy or renewing a policy, shall be required to disclose whether he, she, or any person reasonably expected to operate the applicant's motor vehicle has ever had an insurance policy cancelled or nonrenewed; provided, however, that at the time of application an applicant may be required to disclose his or her experience as an operator of a motor vehicle for a past period of not more than 3 years, and that of any person reasonably expected to operate the motor vehicle.</text>
+    <heading>Prohibited inquiries concerning prior cancellation or nonrenewals</heading>
+    <text>No applicant for a policy of motor vehicle insurance, as a condition precedent to obtaining a policy or renewing a policy, shall be required to disclose whether he, she, or any person reasonably expected to operate the applicant's motor vehicle has ever had an insurance policy cancelled or nonrenewed; provided, however, that at the time of application an applicant may be required to disclose his or her experience as an operator of a motor vehicle for a past period of not more than 3 years, and that of any person reasonably expected to operate the motor vehicle.</text>
   </level>
   <level>
     <num>(g)</num>
-    <text><text i="True">Refusal to accept brokerage business</text>. -- An insurer or agent that accepts brokerage business and rejects the business of a broker shall provide the Mayor and the broker, upon the request of the broker, the reasons in writing for such rejection.</text>
+    <heading>Refusal to accept brokerage business</heading>
+    <text>An insurer or agent that accepts brokerage business and rejects the business of a broker shall provide the Mayor and the broker, upon the request of the broker, the reasons in writing for such rejection.</text>
   </level>
   <level>
     <num>(h)</num>
-    <text><text i="True">Policies in effect less than 60 days</text>. -- The restrictions on cancellation contained in this section shall not be effective with respect to any policy which shall have been in force for 60 days or less if the policy is not a renewal policy.</text>
+    <heading>Policies in effect less than 60 days</heading>
+    <text>The restrictions on cancellation contained in this section shall not be effective with respect to any policy which shall have been in force for 60 days or less if the policy is not a renewal policy.</text>
   </level>
   <level>
     <num>(i)</num>
-    <text><text i="True">Appeal procedure</text>. --</text>
+    <heading>Appeal procedure</heading>
     <level>
       <num>(1)</num>
       <level>
@@ -116,7 +124,8 @@
   </level>
   <level>
     <num>(j)</num>
-    <text><text i="True">Immunity</text>. -- There shall be no liability on the part of and no cause of action of any nature shall arise against any employee of the District government, any insurer, its authorized representatives, its agents, its employees, or any firm, person, or corporation who, in good faith:</text>
+    <heading>Immunity</heading>
+    <text>There shall be no liability on the part of and no cause of action of any nature shall arise against any employee of the District government, any insurer, its authorized representatives, its agents, its employees, or any firm, person, or corporation who, in good faith:</text>
     <level>
       <num>(1)</num>
       <text>Furnishes to the named insured information as to reasons for cancellation or nonrenewal;</text>
@@ -135,28 +144,34 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Makes statements or submits evidence at any hearing conducted in connection therewith. An insurer may request the disclosure for a period exceeding 3 years for the sole purpose of providing a discount on the premium or cost of the motor vehicle insurance at the request of the insured.</text>
+      <text>Makes statements or submits evidence at any hearing conducted in connection therewith.</text>
     </level>
   </level>
+  <text>An insurer may request the disclosure for a period exceeding 3 years for the sole purpose of providing a discount on the premium or cost of the motor vehicle insurance at the request of the insured.</text>
   <level>
     <num>(k)</num>
-    <text><text i="True">Other rights</text>. -- The rights provided by this chapter shall be in addition to and shall not prejudice any other rights the named insured may have at common law or otherwise.</text>
+    <heading>Other rights</heading>
+    <text>The rights provided by this chapter shall be in addition to and shall not prejudice any other rights the named insured may have at common law or otherwise.</text>
   </level>
   <level>
     <num>(l)</num>
-    <text><text i="True">Terms more favorable; prohibition of waiving rights</text>. -- A policy may provide terms more favorable to named insureds than are required by this chapter, but no policy shall contain any provisions which waives any of the requirements of this chapter.</text>
+    <heading>Terms more favorable; prohibition of waiving rights</heading>
+    <text>A policy may provide terms more favorable to named insureds than are required by this chapter, but no policy shall contain any provisions which waives any of the requirements of this chapter.</text>
   </level>
   <level>
     <num>(m)</num>
-    <text><text i="True">Consumer's right to information</text>. -- A copy of the provisions of this section shall be provided, in writing, by the insurer to the named insured at the time of the initial purchase of insurance, or in the case of insurance renewal, provided, in writing, to the named insured by the insurer at the time of the 1st renewal after September 18, 1982.</text>
+    <heading>Consumer's right to information</heading>
+    <text>A copy of the provisions of this section shall be provided, in writing, by the insurer to the named insured at the time of the initial purchase of insurance, or in the case of insurance renewal, provided, in writing, to the named insured by the insurer at the time of the 1st renewal after September 18, 1982.</text>
   </level>
   <level>
     <num>(n)</num>
-    <text><text i="True">Nondiscrimination against persons not previously insured</text>. -- No insurer shall refuse to insure, refuse to continue to insure, limit coverage available to, or charge a disadvantageous rate to any person seeking to obtain insurance required by this chapter because that person had not been previously insured. This provision shall not apply if the applicant was required by law to maintain automobile insurance coverage and failed to do so. An insurer may require reasonable proof that the applicant did not fail to maintain this coverage. The insurer is not required to accept the mere lack of a conviction or citation for failure to maintain this coverage as proof of maintenance of coverage.</text>
+    <heading>Nondiscrimination against persons not previously insured</heading>
+    <text>No insurer shall refuse to insure, refuse to continue to insure, limit coverage available to, or charge a disadvantageous rate to any person seeking to obtain insurance required by this chapter because that person had not been previously insured. This provision shall not apply if the applicant was required by law to maintain automobile insurance coverage and failed to do so. An insurer may require reasonable proof that the applicant did not fail to maintain this coverage. The insurer is not required to accept the mere lack of a conviction or citation for failure to maintain this coverage as proof of maintenance of coverage.</text>
   </level>
   <level>
     <num>(o)</num>
-    <text><text i="True">Insurer to provide settlement</text>. -- Each insurer shall, at the time of renewal or denial of a motor vehicle insurance policy, provide to an applicant a statement which provides the following information:</text>
+    <heading>Insurer to provide settlement</heading>
+    <text>Each insurer shall, at the time of renewal or denial of a motor vehicle insurance policy, provide to an applicant a statement which provides the following information:</text>
     <level>
       <num>(1)</num>
       <text>If requested by the policyholder, the cost of the minimum package of insurance required by this chapter; and</text>
@@ -166,54 +181,63 @@
       <text>In the case of a denial, specific reasons for the denial.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 18, 1982, D.C. Law 4-155, § 10, 29 DCR 3491; Mar. 4, 1986, D.C. Law 6-96; § 2(i), 32 DCR 7245; Sept. 20, 1996, D.C. Law 11-160, § 2(c), 43 DCR 3722; May 21, 1997, D.C. Law 11-268, § 10(v), 44 DCR 1730; Apr. 13, 1999, D.C. Law 12-209, § 401, 45 DCR 8433; Apr. 27, 2001, D.C. Law 13-289, § 101(c), 48 DCR 2057.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-2109.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-289 rewrote subsecs. (b) and (i)(1) which had read:</text>
-        <text>"(b) <text i="True">Notice required of cancellation of or refusal to renew policy.</text> -- No cancellation or refusal to renew by an insurer of a policy of motor vehicle insurance shall be effective unless the insurer has delivered or mailed to the named insured, at his or her last known address, a written notice of intent to cancel or refusal to renew. The required notice shall be provided to the named insured at least 30 days prior to the effective date of cancellation, or in the case of nonrenewal, 30 days prior to the end of the policy period. The notice shall contain the following:</text>
-        <text>"(1) A statement of the specific reason or reasons relied upon by the insurer as the basis of cancellation or refusal to renew;</text>
-        <text>"(2) A statement advising the named insured of his or her right to request, in writing, within 15 days of receipt of the notice, that the Commissioner review the action of the insurer in cancelling or refusing to renew the policy of such insured;</text>
-        <text>"(3) A statement advising the insured of the possible availability of other insurance which may be obtained through his or her agent, through another insurer, or through the District of Columbia Automobile Insurance Plan; and</text>
-        <text>"(4) A statement that the motor vehicle registration of the vehicle will be cancelled or revoked for failure to maintain required insurance."</text>
-        <text>[i]"(1) If the insured disputes the validity of a purported cancellation or nonrenewal, the insured may, within 15 days of receipt of the notice of intent to cancel or not to renew, send written notification to the Commissioner of the reasons the insured believes the action by the insurer is invalid. The Commissioner shall, upon receipt, immediately send the insurer a copy of the notification."</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment to section, see § 501 of Health Insurance Portability and Accountability Federal Law Conformity, Motor Vehicle Insurance, Regulatory Reform, and Consumer Law Temporary Amendment Act of 1998 (D.C. Law 12-154, September 18, 1998, law notification 45 DCR 6951).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of section, see § 13 of the Reciprocal Insurance Company Conversion Emergency Amendment Act of 1998 (D.C. Act 12-298, March 4, 1998, 45 DCR 1775).</text>
-        <text>For temporary amendment of section, see § 501 of the Health Insurance Portability and Accountability Federal Law Conformity Emergency Amendment Act of 1998 (D.C. Act 12-339, May 4, 1998, 45 DCR 2947), and § 501 of the Health Insurance Portability and Accountability Federal Law Conformity, Motor Vehicle Insurance, Regulatory Reform, and Consumer Law Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-429, August 6, 1998, 45 DCR 5890).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-155, see Historical and Statutory Notes following § 31-2401.</text>
-        <text>For legislative history of D.C. Law 6-96, see Historical and Statutory Notes following § 31-2408.01.</text>
-        <text>For legislative history of D.C. Law 11-160, see Historical and Statutory Notes following § 31-2405.</text>
-        <text>Law 12-209, the "Health Insurance Portability and Accountability Federal Law Conformity and No-Fault Motor Vehicle Insurance Act of 1998," was introduced in Council and assigned Bill No. 12-419, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second reading on July 7, 1998, and September 22, 1998, respectively. Signed by the Mayor on October 16, 1998, it was assigned Act No. 12-496, and transmitted to both Houses of Congress for review. D.C. Law 12-209 became effective on April 13, 1999.</text>
-        <text>For D.C. Law 13-289, see notes following § 31-2402.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Near the middle of paragraph (2) of subsection (i), the phrase "45 days calendar days" is set forth exactly as enacted by D.C. Law 6-96.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Report of the Commissioner of Insurance and Securities: Section 5 of D.C. Law 11-160 provided that "Within two years of September 20, 1996, the Commissioner of Insurance and Securities shall prepare and submit to the Council of the District of Columbia for its review a report on the impact of this act on the private passenger motor vehicle insurance market or any part thereof, the funding for the Office of Insurance, the District of Columbia insurance premium tax, the number of insurers doing business in the District, and the number of insurers domiciled in the District of Columbia. In preparing such report, the Commissioner may request from specific private passenger motor vehicle insurers doing business in the District, or from all such insurers, reasonable and pertinent information. Information which is proprietary to any affected insurer shall be treated as confidential by the Commissioner, but may be used in the aggregate with other information from other affected insurers for statistical or other reporting purposes."</text>
-        <text>Department of Insurance abolished: See Historical and Statutory Notes following § 31-2402.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-2411.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-2109.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-289 rewrote subsecs. (b) and (i)(1) which had read:</text>
+      <text>"(b) Notice required of cancellation of or refusal to renew policy. - No cancellation or refusal to renew by an insurer of a policy of motor vehicle insurance shall be effective unless the insurer has delivered or mailed to the named insured, at his or her last known address, a written notice of intent to cancel or refusal to renew. The required notice shall be provided to the named insured at least 30 days prior to the effective date of cancellation, or in the case of nonrenewal, 30 days prior to the end of the policy period. The notice shall contain the following:</text>
+      <text>"(1) A statement of the specific reason or reasons relied upon by the insurer as the basis of cancellation or refusal to renew;</text>
+      <text>"(2) A statement advising the named insured of his or her right to request, in writing, within 15 days of receipt of the notice, that the Commissioner review the action of the insurer in cancelling or refusing to renew the policy of such insured;</text>
+      <text>"(3) A statement advising the insured of the possible availability of other insurance which may be obtained through his or her agent, through another insurer, or through the District of Columbia Automobile Insurance Plan; and</text>
+      <text>"(4) A statement that the motor vehicle registration of the vehicle will be cancelled or revoked for failure to maintain required insurance."</text>
+      <text>"(1) If the insured disputes the validity of a purported cancellation or nonrenewal, the insured may, within 15 days of receipt of the notice of intent to cancel or not to renew, send written notification to the Commissioner of the reasons the insured believes the action by the insurer is invalid. The Commissioner shall, upon receipt, immediately send the insurer a copy of the notification."</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment to section, see § 501 of Health Insurance Portability and Accountability Federal Law Conformity, Motor Vehicle Insurance, Regulatory Reform, and Consumer Law Temporary Amendment Act of 1998 (D.C. Law 12-154, September 18, 1998, law notification 45 DCR 6951).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 13 of the Reciprocal Insurance Company Conversion Emergency Amendment Act of 1998 (D.C. Act 12-298, March 4, 1998, 45 DCR 1775).</text>
+      <text>For temporary amendment of section, see § 501 of the Health Insurance Portability and Accountability Federal Law Conformity Emergency Amendment Act of 1998 (D.C. Act 12-339, May 4, 1998, 45 DCR 2947), and § 501 of the Health Insurance Portability and Accountability Federal Law Conformity, Motor Vehicle Insurance, Regulatory Reform, and Consumer Law Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-429, August 6, 1998, 45 DCR 5890).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-155</heading>
+      <text>For legislative history of D.C. Law 4-155, see Historical and Statutory Notes following § 31-2401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-96</heading>
+      <text>For legislative history of D.C. Law 6-96, see Historical and Statutory Notes following § 31-2408.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-160</heading>
+      <text>For legislative history of D.C. Law 11-160, see Historical and Statutory Notes following § 31-2405.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-209</heading>
+      <text>Law 12-209, the "Health Insurance Portability and Accountability Federal Law Conformity and No-Fault Motor Vehicle Insurance Act of 1998," was introduced in Council and assigned Bill No. 12-419, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second reading on July 7, 1998, and September 22, 1998, respectively. Signed by the Mayor on October 16, 1998, it was assigned Act No. 12-496, and transmitted to both Houses of Congress for review. D.C. Law 12-209 became effective on April 13, 1999.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-289</heading>
+      <text>For D.C. Law 13-289, see notes following § 31-2402.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Near the middle of paragraph (2) of subsection (i), the phrase "45 days calendar days" is set forth exactly as enacted by D.C. Law 6-96.</text>
+      <text>Report of the Commissioner of Insurance and Securities: Section 5 of D.C. Law 11-160 provided that "Within two years of September 20, 1996, the Commissioner of Insurance and Securities shall prepare and submit to the Council of the District of Columbia for its review a report on the impact of this act on the private passenger motor vehicle insurance market or any part thereof, the funding for the Office of Insurance, the District of Columbia insurance premium tax, the number of insurers doing business in the District, and the number of insurers domiciled in the District of Columbia. In preparing such report, the Commissioner may request from specific private passenger motor vehicle insurers doing business in the District, or from all such insurers, reasonable and pertinent information. Information which is proprietary to any affected insurer shall be treated as confidential by the Commissioner, but may be used in the aggregate with other information from other affected insurers for statistical or other reporting purposes."</text>
+      <text>Department of Insurance abolished: See Historical and Statutory Notes following § 31-2402.</text>
     </level>
   </level>
 </level>

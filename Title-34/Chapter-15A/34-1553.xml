@@ -13,7 +13,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>A late payment charge shall not be imposed on all amounts, including deferred payment installments, paid by the due date or on amounts in dispute before the Commission. Amounts paid after the due date shall bear a late payment charge of 1%, and an additional late payment charge at the rate of 1 1/2 % on the remaining unpaid balance per billing month thereafter.</text>
+      <text>A late payment charge shall not be imposed on all amounts, including deferred payment installments, paid by the due date or on amounts in dispute before the Commission. Amounts paid after the due date shall bear a late payment charge of 1%, and an additional late payment charge at the rate of 1<span style="font-style: italic; ">1</span>/<span style="">2</span>% on the remaining unpaid balance per billing month thereafter.</text>
     </level>
   </level>
   <level>
@@ -28,22 +28,22 @@
     <num>(e)</num>
     <text>Notwithstanding any enforcement action undertaken by the Commission pursuant to its authority under § 34-1552, tenants and owners, operators, or managers shall retain any private right of action resulting from any breach of the rental agreement or lease terms required by this section or § 34-1552.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2008, D.C. Law 17-250, § 703, 55 DCR 9225.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 703 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008, 55 DCR 10856).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-250, see notes following § 34-1551.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 34-1552.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 703 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008, 55 DCR 10856).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-250</heading>
+      <text>For Law 17-250, see notes following § 34-1551.</text>
     </level>
   </level>
 </level>

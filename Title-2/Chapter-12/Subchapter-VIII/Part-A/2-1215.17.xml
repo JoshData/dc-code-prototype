@@ -1,7 +1,6 @@
 <level type="section">
   <num>2-1215.17</num>
   <heading>Civil action for BID taxes.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-2287</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The BID corporation through its counsel may file suit in the Superior Court of the District of Columbia against any property owner with delinquent BID taxes that are at least 120 days overdue. Such a suit may seek as damages any delinquent BID taxes, including penalties and interest owed to the District under § 2-1215.15(e) and the BID's reasonable attorneys fees. Such a suit shall be brought in the name of the District of Columbia.</text>
@@ -26,35 +25,38 @@
     <num>(f)</num>
     <text>An action pursuant to this section shall be dismissed by the Superior Court if notice and evidence thereof is provided to the Court that the District has sold the subject property at a tax sale.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 29, 1996, D.C. Law 11-134, § 17, 43 DCR 1684; renumbered as § 18, Oct. 8, 1997, D.C. Law 12-26, § 2, 44 DCR 4320.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-2287.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2 of the Business Improvement Districts Temporary Amendment Act of 1997 (D.C. Law 12-23, September 23, 1997, law notification 44 DCR 5762).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of section, see § 2 of the Business Improvement Districts Emergency Amendment Act of 1997 (D.C. Act 12-89, June 19, 1997, 44 DCR 3747), and § 2 of the Business Improvement Districts Congressional Review Emergency Amendment Act of 1997 (D.C. Act 12-146, August 12, 1997, 44 DCR 5054).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-134, see Historical and Statutory Notes following § 2-1215.01.</text>
-        <text>For legislative history of D.C. Law 12-26, see Historical and Statutory Notes following § 2-1215.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Expiration of Law 11-134: See Historical and Statutory Notes following § 2- 1215.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1215.15.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-2287.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2 of the Business Improvement Districts Temporary Amendment Act of 1997 (D.C. Law 12-23, September 23, 1997, law notification 44 DCR 5762).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 2 of the Business Improvement Districts Emergency Amendment Act of 1997 (D.C. Act 12-89, June 19, 1997, 44 DCR 3747), and § 2 of the Business Improvement Districts Congressional Review Emergency Amendment Act of 1997 (D.C. Act 12-146, August 12, 1997, 44 DCR 5054).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-134</heading>
+      <text>For legislative history of D.C. Law 11-134, see Historical and Statutory Notes following § 2-1215.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-26</heading>
+      <text>For legislative history of D.C. Law 12-26, see Historical and Statutory Notes following § 2-1215.01.</text>
+    </level>
+    <level>
+      <heading>Expiration of law Expiration of Law 11-134</heading>
+      <text>See Historical and Statutory Notes following § 2-1215.01.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>2-359.07</num>
   <heading>Debarment and suspension.</heading>
-  <formerly-cited-as>DC ST 2001 § 2-308.04</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -49,11 +48,11 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>A violation under subchapter I of Chapter 3B of this chapter;</text>
+      <text>A violation under subchapter I of Chapter 3B of this chapter [§ § 2-381.01 through 2-381.09];</text>
     </level>
     <level>
       <num>(5)</num>
-      <text>A false assertion of certified business enterprise status or eligibility as defined in subchapter IX-A of Chapter 2 of this title; or</text>
+      <text>A false assertion of certified business enterprise status or eligibility as defined in subchapter IX-A of Chapter 2 of this title; [§ 2-218.01 et seq.];</text>
     </level>
     <level>
       <num>(6)</num>
@@ -64,12 +63,20 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>A recent record of failure to perform or of unsatisfactory performance in accordance with the terms or conditions of one or more contracts; provided, that failure to perform or unsatisfactory performance caused by acts beyond the control of the contractor shall not be considered to be bases for debarment; or</text>
+        <text>A recent record of failure to perform or of unsatisfactory performance in accordance with the terms or conditions of one or more contracts; provided, that failure to perform or unsatisfactory performance caused by acts beyond the control of the contractor shall not be considered to be bases for debarment;</text>
       </level>
     </level>
     <level>
+      <num>(6A)</num>
+      <text>A violation of subchapter II of Chapter 13 of Title 32 [§ 32-1331.01 et seq.]; and</text>
+    </level>
+    <level>
       <num>(7)</num>
-      <text>Any other cause the CPO determines to be sufficiently serious and compelling to affect responsibility as a District government contractor, including debarment by another governmental entity for any cause listed in rules.</text>
+      <text>Any other cause the CPO determines to be sufficiently serious and compelling to affect responsibility as a District government contractor, including debarment by another governmental entity for any cause listed in rules; or</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>Submission of a bid or proposal to contract with an agency or office of the District by a person debarred or suspended pursuant to a conviction under subsection (c)(1), (2), or (3) of this section, unless the CPO has provided in the submission a written statement to the Chairman of the Council of the compelling reasons to consider the bid or proposal. A second debarment resulting from the submission of a bid or proposal by a debarred person shall result in a permanent debarment pursuant to subsection (k) of this section.</text>
     </level>
   </level>
   <level>
@@ -139,21 +146,91 @@
     <text>If a person is charged with or convicted of committing any offense listed in subsection (c)(1) through (5) of this section, the Office of the Attorney General for the District of Columbia or the United States Attorney, whoever is responsible for prosecuting the charge, shall immediately notify the CPO of the charge or conviction and shall provide such information to the CPO as may otherwise be permitted by law to enable the CPO to take any action authorized by this section. The CPO, in turn, shall immediately notify both the Office of the Attorney General for the District of Columbia and the United States Attorney of any action taken or finding made under this section.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(j)</num>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Apr. 8, 2011, D.C. Law 18-371, § 907, 58 DCR 1185.)</text>
+      <num>(1)</num>
+      <text>The Office of Contracting and Procurement shall compile and maintain a list of persons who have been debarred or suspended in the District to be known as the "Excluded Parties List," which shall include:</text>
+      <level>
+        <num>(A)</num>
+        <text>The name and phone number of the OCP official responsible for maintaining the list;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The names and addresses of suspended and debarred persons;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The name of the agency that instituted the suspension or debarment;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>The cause of the suspension or debarment; and</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>The dates and terms of each suspension or debarment.</text>
+      </level>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <num>(2)</num>
       <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 2-308.04. </text>
+        <num>(A)</num>
+        <text>The Excluded Parties List shall be updated monthly and prominently published on the OCP's website.</text>
       </level>
       <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-371, see notes under § 2-351.01.</text>
+        <num>(B)</num>
+        <text>Copies of the Excluded Parties List shall be distributed electronically to District contracting officers and contract administrators on a monthly basis.</text>
       </level>
+      <level>
+        <num>(C)</num>
+        <level>
+          <num>(i)</num>
+          <text>Bids or proposals received from a person named on the Excluded Parties List shall be rejected unless the CPO provides the person with a written statement before the bid or proposal is submitted stating the compelling reasons why the bid or proposal should be considered. The CPO's determination shall be appended to the bid or proposal submitted.</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>If the bid or proposal is awarded to the debarred or suspended person, the award, along with the CPO's determination, shall be prominently published on the OCP's website within 15 days of the issuance of the award and published in the District of Columbia Register as soon as is practicable.</text>
+        </level>
+      </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Immediately before the award of a contract, the contracting officer or administrator shall review the most recent version of the Excluded Parties List to ensure that persons being considered for the award are not named on the list. If a person being considered for the award appears on the Excluded Parties List, the contracting officer or administrator shall notify the person in writing that the person's bid or proposal shall be rejected unless the person provides a written statement from the CPO in accordance with sib-subparagraph (i) of this subparagraph within 15 days of receipt of the written notification.</text>
+    </level>
+  </level>
+  <level>
+    <num>(k)</num>
+    <text>A person who has been debarred 2 times by the District shall be banned permanently from contracting with a District agency or office; provided, that the suspensions leading to debarment resulted from a violation, conviction, or judicial determination listed in subsection (b)(1) of this section but not a charge listed in subsection (b)(2) of this subsection. A permanent ban from contracting with the District bars a person from consideration for award of contracts or subcontracts permanently; provided, that 10 years after the person's debarment, the person may be eligible for reinstatement if the CPO provides written notification to the Chairman of the Council that the person's business practices have been reformed.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Apr. 8, 2011, D.C. Law 18-371, § 907, 58 DCR 1185; Apr. 27, 2013, D.C. Law 19-298, § 2, 60 DCR 2631; Apr. 27, 2013, D.C. Law 19-300, § 3, 60 DCR 2679.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-353.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 2-308.04.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-298 deleted "or" from the end of (c)(5) and (c)(6)(B); added "or" to the end of (c)(7); added (c)(8); and added (j) and (k).</text>
+      <text>The 2013 amendment by D.C. Law 19-300 deleted "or" from the end of (c)(6); and added (c)(6A).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-371</heading>
+      <text>For history of Law 18-371, see notes under § 2-351.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-298</heading>
+      <text>Law 19-298, the "Bad Actor Debarment and Suspension Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-701. The Bill was adopted on first and second readings on Dec. 4, 2012 and Dec. 18, 2012, respectively. Returned without signature from the Mayor on Feb. 5, 2013, it was assigned Act No. 19-666 and transmitted to Congress for its review. D.C. Law 19-298 became effective on Apr. 27, 2013.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-300</heading>
+      <text>Law 19-300, the "Workplace Fraud Amendment Act of 2012, " was introduced in Council and assigned Bill No. 19-169, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on Dec. 4, 2012, and Dec. 18, 2012, respectively. Returned without the Mayor's signature on Feb. 11, 2013, it was assigned Act No. 19-668 and transmitted to both Houses of Congress for its review. D.C. Law 19-300 became effective on Apr. 27, 2013.</text>
     </level>
   </level>
 </level>

@@ -30,7 +30,7 @@
     </level>
     <level>
       <num>(7)</num>
-      <text>Any other products designated by the Mayor in accordance with § 8- 1771.04.</text>
+      <text>Any other products designated by the Mayor in accordance with § 8-1771.04.</text>
     </level>
   </level>
   <level>
@@ -53,18 +53,18 @@
       <text>Products designed expressly for installation and use in recreational vehicles.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 11, 2007, D.C. Law 17-64, § 3, 54 DCR 10964.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-64, see notes following § 8-1771.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-1771.04.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-64</heading>
+      <text>For Law 17-64, see notes following § 8-1771.01.</text>
     </level>
   </level>
 </level>

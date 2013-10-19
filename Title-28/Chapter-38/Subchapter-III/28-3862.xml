@@ -74,7 +74,7 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>A credit reporting agency may develop procedures involving the use of telephone, fax, or, upon the consent of the consumer in the manner required by the Electronic Signatures in Global and National Commerce Act, approved June 30, 2000 (114 Stat. 464; 15 U.S.C. § 7001 <text i="True">et seq.</text>), for legally required notices, by the Internet, e-mail, or other electronic media, to receive and process a request from a consumer to temporarily lift a freeze on a credit report pursuant to subsection (d) of this section.</text>
+    <text>A credit reporting agency may develop procedures involving the use of telephone, fax, or, upon the consent of the consumer in the manner required by the Electronic Signatures in Global and National Commerce Act, approved June 30, 2000 (114 Stat. 464; 15 U.S.C. § 7001 et seq.), for legally required notices, by the Internet, e-mail, or other electronic media, to receive and process a request from a consumer to temporarily lift a freeze on a credit report pursuant to subsection (d) of this section.</text>
   </level>
   <level>
     <num>(g)</num>
@@ -179,18 +179,18 @@
       <text>Notwithstanding the foregoing, a consumer who has been a victim of identity theft shall not be charged any fee, but may be charged an amount not to exceed $10 for second or subsequent instances of loss and reissuance of a new personal identification number or password, for placement of a security freeze on his or her report.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2007, D.C. Law 16-238, § 2(b), 54 DCR 397.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-238, see notes following § 28-3861.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28-3864.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-238</heading>
+      <text>For Law 16-238, see notes following § 28-3861.</text>
     </level>
   </level>
 </level>

@@ -1,9 +1,10 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>V</num>
-  <heading>Transferees and Creditors of Partner.</heading>
+  <heading>Transferees and Creditors of Partner</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-605.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-605.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-605.03.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-605.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-605.05.xml"/>
 </level>

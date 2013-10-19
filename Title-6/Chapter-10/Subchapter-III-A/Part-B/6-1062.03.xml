@@ -104,63 +104,59 @@
   <level>
     <num>(z)</num>
     <text>The Revitalization and Development Plan and its proposed concept is supported by the 3 Advisory Neighborhood Commissions in Ward 5 and the Brentwood Community Association, Inc.</text>
-  </level>
-  <level>
-    <num>(aa)</num>
-    <text>The Developer is committed to enter into a First-Source Employment Agreement and a Local, Small, and Disadvantaged Business Enterprise Memorandum of Understanding with the appropriate District government agencies.</text>
-  </level>
-  <level>
-    <num>(bb)</num>
-    <text>The Capital City Market footprint area is currently zoned C-1 for low-density, light-industry and commercial uses and must be re-zoned as C-3-C with an overlay to allow the height and density necessary to achieve the goals of the project and to allow residential and warehouse uses to co-exist as part of New Town at the Capital City Market.</text>
-  </level>
-  <level>
-    <num>(cc)</num>
-    <text>Certain alleys within the footprint of the Capital City Market will have to be closed.</text>
-  </level>
-  <level>
-    <num>(dd)</num>
-    <text>The Market is, or Revitalization and Development Plan will be, designated as a renewal area sufficient to be eligible for the most favorable HUD-guaranteed financing programs.</text>
-  </level>
-  <level>
-    <num>(ee)</num>
-    <text>On May 7, 2002, the Council unanimously passed the Request for Proposals for the Disposition of the Washington Beef Properties, 1240-1248 4th Street, N.E., Lots 5, 800, and 802 in Square 3587 Approval Resolution of 2002, effective May 7, 2002 (Res. 14-440; 49 DCR 5760).</text>
-  </level>
-  <level>
-    <num>(ff)</num>
-    <text>On June 11, 2002, DHCD issued a request for proposals for the Washington Beef Properties located on the Capital City Market site.</text>
-  </level>
-  <level>
-    <num>(gg)</num>
-    <text>On July 8, 2003, the Council unanimously passed the Unsolicited Proposal Submitted by Sang Oh &amp; Company for the Negotiated Purchase and Disposition of Surplus Property at 375 Morse Street, N.E., also known as the Ironworks Parcel, Emergency Approval Resolution of 2003, effective July 8, 2003 (Res. 15-214; 50 DCR 6941).</text>
-  </level>
-  <level>
-    <num>(hh)</num>
-    <text>On February 26, 2004; pursuant to that certain Land Disposition Agreement between Sang Oh &amp; Company, Inc., and DHCD, Sang Oh &amp; Company, Inc., was granted the development rights to the Washington Beef Properties.</text>
-  </level>
-  <level>
-    <num>(ii)</num>
-    <text>Working with DHCD, ANC 5B, and the Ward 5 community, Sang Oh &amp; Company, Inc., has completed architectural drawings for a proposed 11-story retail office and condominium building with a 20% percent affordable housing unit set-aside at 80% percent of the Area Median Income, and with community amenities for the Ward 5 community, that is, a 100-seat community meeting room, an office for ANC 5B, and space and signage for a Metropolitan Police Department substation.</text>
-  </level>
-  <level>
-    <num>(jj)</num>
-    <text>The proposed development is consistent with the purposes and goals of the Revitalization and Development Plan and with architectural designs for New Town at the Capital City Market concept.</text>
-  </level>
-  <level>
-    <num>(kk)</num>
-    <text>Sang Oh &amp; Company, Inc., has completed demolition of the structures on the Washington Beef Properties site and has submitted its PUD application to the Zoning Commission.</text>
-  </level>
-  <level>
-    <type>annotations</type>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(aa)</num>
+      <text>The Developer is committed to enter into a First-Source Employment Agreement and a Local, Small, and Disadvantaged Business Enterprise Memorandum of Understanding with the appropriate District government agencies.</text>
+    </level>
+    <level>
+      <num>(bb)</num>
+      <text>The Capital City Market footprint area is currently zoned C-1 for low-density, light-industry and commercial uses and must be re-zoned as C-3-C with an overlay to allow the height and density necessary to achieve the goals of the project and to allow residential and warehouse uses to co-exist as part of New Town at the Capital City Market.</text>
+    </level>
+    <level>
+      <num>(cc)</num>
+      <text>Certain alleys within the footprint of the Capital City Market will have to be closed.</text>
+    </level>
+    <level>
+      <num>(dd)</num>
+      <text>The Market is, or Revitalization and Development Plan will be, designated as a renewal area sufficient to be eligible for the most favorable HUD-guaranteed financing programs.</text>
+    </level>
+    <level>
+      <num>(ee)</num>
+      <text>On May 7, 2002, the Council unanimously passed the Request for Proposals for the Disposition of the Washington Beef Properties, 1240-1248 4th Street, N.E., Lots 5, 800, and 802 in Square 3587 Approval Resolution of 2002, effective May 7, 2002 (Res. 14-440; 49 DCR 5760).</text>
+    </level>
+    <level>
+      <num>(ff)</num>
+      <text>On June 11, 2002, DHCD issued a request for proposals for the Washington Beef Properties located on the Capital City Market site.</text>
+    </level>
+    <level>
+      <num>(gg)</num>
+      <text>On July 8, 2003, the Council unanimously passed the Unsolicited Proposal Submitted by Sang Oh &amp; Company for the Negotiated Purchase and Disposition of Surplus Property at 375 Morse Street, N.E., also known as the Ironworks Parcel, Emergency Approval Resolution of 2003, effective July 8, 2003 (Res. 15-214; 50 DCR 6941).</text>
+    </level>
+    <level>
+      <num>(hh)</num>
+      <text>On February 26, 2004; pursuant to that certain Land Disposition Agreement between Sang Oh &amp; Company, Inc., and DHCD, Sang Oh &amp; Company, Inc., was granted the development rights to the Washington Beef Properties.</text>
+    </level>
+    <level>
+      <num>(ii)</num>
+      <text>Working with DHCD, ANC 5B, and the Ward 5 community, Sang Oh &amp; Company, Inc., has completed architectural drawings for a proposed 11-story retail office and condominium building with a 20% percent affordable housing unit set-aside at 80% percent of the Area Median Income, and with community amenities for the Ward 5 community, that is, a 100-seat community meeting room, an office for ANC 5B, and space and signage for a Metropolitan Police Department substation.</text>
+    </level>
+    <level>
+      <num>(jj)</num>
+      <text>The proposed development is consistent with the purposes and goals of the Revitalization and Development Plan and with architectural designs for New Town at the Capital City Market concept.</text>
+    </level>
+    <level>
+      <num>(kk)</num>
+      <text>Sang Oh &amp; Company, Inc., has completed demolition of the structures on the Washington Beef Properties site and has submitted its PUD application to the Zoning Commission.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Mar. 14, 2007, D.C. Law 16-278, § 203, 54 DCR 895.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-278, see notes following § 6-1061.01.</text>
-      </level>
+      <heading>Legislative History of Law 16-278</heading>
+      <text>For Law 16-278, see notes following § 6-1061.01.</text>
     </level>
   </level>
 </level>

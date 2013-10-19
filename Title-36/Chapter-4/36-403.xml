@@ -1,7 +1,6 @@
 <level type="section">
   <num>36-403</num>
   <heading>Damages.</heading>
-  <formerly-cited-as>DC ST 1981 § 48-503</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A complainant is entitled to recover damages for misappropriation, unless a material and prejudicial change of position prior to acquiring knowledge or reason to know of the misappropriation renders a monetary recovery inequitable. Damages may include both the actual loss caused by the misappropriation and the unjust enrichment caused by the misappropriation that is not taken into account in computing actual loss. Instead of damages measured by other methods, the damages caused by misappropriation may be measured by the imposition of liability for a reasonable royalty for the unauthorized disclosure or use of a trade secret by a misappropriator.</text>
@@ -10,26 +9,22 @@
     <num>(b)</num>
     <text>If willful and malicious misappropriation exists, the court may award exemplary damages in an amount not exceeding twice the award made under subsection (a) of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1989, D.C. Law 7-216, § 4, 36 DCR 519.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 48-503.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-216, see Historical and Statutory Notes following § 36-401.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 3 of the Uniform Trade Secrets Act. See 14 Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 48-503.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-216</heading>
+      <text>For legislative history of D.C. Law 7-216, see Historical and Statutory Notes following § 36-401.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 3 of the Uniform Trade Secrets Act.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>21-2210</num>
   <heading>Substituted consent.</heading>
-  <formerly-cited-as>DC ST 1981 § 21-2210</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>In the absence of a durable power of attorney for health care and provided that the incapacity of the principal has been certified in accordance with § 21-2204, the following individuals, in the order of priority set forth below, shall be authorized to grant, refuse or withdraw consent on behalf of the patient with respect to the provision of any health-care service, treatment, or procedure:</text>
@@ -11,7 +10,7 @@
     </level>
     <level>
       <num>(1A)</num>
-      <text>A court-appointed intellectual disability advocate of the patient, if the ability to grant, refuse, or withdraw consent is within the scope of the advocate's appointment under § 7-1304.13.</text>
+      <text>A court-appointed intellectual disability advocate of the patient, if the ability to grant, refuse, or withdraw consent is within the scope of the advocate's appointment under section 7-1304.13.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -76,67 +75,85 @@
   </level>
   <level>
     <num>(h)</num>
-    <text>If no person listed in subsection (a) of this section is reasonably available, mentally capable, and willing to act, the health-care provider, or the District of Columbia, for those persons committed or admitted to receive habilitation or other services pursuant to Chapter 13 of Title 7, or any interested person may petition the Superior Court of the District of Columbia for appointment of a guardian pursuant to § 21-2044 or § 21-2046.</text>
+    <text>If no person listed in subsection (a) of this section is reasonably available, mentally capable, and willing to act, the health-care provider, or the District of Columbia, for those persons committed or admitted to receive habilitation or other services pursuant to Chapter 13 of Title 7, or any interested person may petition the Superior Court of the District of Columbia for appointment of a guardian pursuant to section 21-2044 or section 21-2046.</text>
   </level>
   <level>
     <num>(i)</num>
     <text>The health-care provider who is treating or providing services to the incapacitated patient at the time of the health-care decision shall accept the decision of the individual authorized under this section to grant, refuse, or withdraw consent on behalf of the patient as the decision of the principal.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1989, D.C. Law 7-189, § 11, 35 DCR 8653; Mar. 11, 1992, D.C. Law 9-67, § 2(b), 39 DCR 12; Feb. 5, 1994, D.C. Law 10-68, § 23(k), 40 DCR 6311; June 21, 2003, D.C. Law 15-17, § 2(b), 50 DCR 3387; Mar. 13, 2004, D.C. Law 15-105, § 106, 51 DCR 881; Oct. 22, 2008, D.C. Law 17-249, § 3(c), 55 DCR 9206; Sept. 26, 2012, D.C. Law 19-171, § 77, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 21-2210.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-17, in subsec. (a), inserted "or domestic partner" after "spouse" in par. (2), made a nonsubstantive change in par. (5A), and added par. (5B); and added subsecs. (f) and (g).</text>
-        <text>D.C. Law 15-105, in subsec. (g), validated previously made technical corrections.</text>
-        <text>D.C. Law 17-249 added subsecs. (a)(1A), (h), and (i).</text>
-        <text>D.C. Law 19-171, in subsec. (a)(1A), substituted "intellectual" for "intellectual"'.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 3(c) of D.C. Law 16-46 added par. (1A) to subsec. (a) and added subsec. (h) to read as follows:</text>
-        <text>"(1A) A court-appointed mental retardation advocate of the patient, if the ability to grant, refuse, or withdraw consent is within the scope of the advocate's appointment under § 7-1304.13."</text>
-        <text>"(h) If no person listed in subsection (a) of this section is reasonably available, mentally capable, and willing to act, the health-care provider, or the District of Columbia, for those persons committed or admitted to receive habilitation or other services pursuant to Chapter 13 of Title 7 of the District of Columbia Official Code, or any interested person may petition the Superior Court of the District of Columbia for appointment of a limited guardian for health care pursuant to § 21-2044(c)."</text>
-        <text>Section 6(a) of D.C. Law 16-46 provides that the act shall expire after 225 days of its having taken effect.</text>
-        <text>Section 3(c) of D.C. Law 16-194 added a new par. (1A) to subsec. (a), and added a new subsec. (h) to read as follows:</text>
-        <text>"(1A) A court-appointed mental retardation advocate of the patient, if the ability to grant, refuse, or withdraw consent is within the scope of the advocate's appointment under section 7-1304.13."</text>
-        <text>"(h) If no person listed in subsection (a) of this section is reasonably available, mentally capable, and willing to act, the health-care provider, or the District of Columbia, for those persons committed or admitted to receive habilitation or other services pursuant to Chapter 13 of Title 7, or any interested person may petition the Superior Court of the District of Columbia for appointment of a health-care guardian pursuant to section 21-2044 or section 21-2046."</text>
-        <text>Section 6(b) of D.C. Law 16-194 provides that the act shall expire after 225 days of its having taken effect.</text>
-        <text>Section 3(c) of D.C. Law 17-100 added subsecs. (a)(1A), (h), and (i) to read as follows:</text>
-        <text>"(1A) A court-appointed mental retardation advocate of the patient, if the ability to grant, refuse, or withdraw consent is within the scope of the advocate's appointment under section 7-1304.13."</text>
-        <text>"(h) If no person listed in subsection (a) of this section is reasonably available, mentally capable, and willing to act, the health-care provider, or the District of Columbia, for those persons committed or admitted to receive habilitation or other services pursuant to Chapter 13 of Title 7, or any interested person may petition the Superior Court of the District of Columbia for appointment of a health-care guardian pursuant to section 21-2044 or section 21-2046.</text>
-        <text>"(i) The health-care provider who is treating or providing services to the incapacitated patient at the time of the health-care decision shall accept the decision of the individual authorized under this section to grant, refuse, or withdraw consent on behalf of the patient as the decision of the principal."</text>
-        <text>Section 6(b) of D.C. Law 17-100 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 3(c) of Health-Care Decisions for Persons with Mental Retardation and Developmental Disabilities Emergency Amendment Act of 2005 (D.C. Act 16-190, October 28, 2005, 52 DCR 10021).</text>
-        <text>For temporary (90 day) amendment of section, see § 3(c) of Health-Care Decisions for Persons with Mental Retardation and Development Disabilities Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-262, January 26, 2006, 53 DCR 795).</text>
-        <text>For temporary (90 day) amendment of section, see § 3(c) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Amendment Act of 2006 (D.C. Act 16-480, September 25, 2006, 53 DCR 7940).</text>
-        <text>For temporary (90 day) amendment of section, see § 3(c) of Health-Care Decisions for Persons with Developmental Disabilities Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-566, December 19, 2006, 53 DCR 10272).</text>
-        <text>For temporary (90 day) amendment of section, see § 3(c) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Act of 2007 (D.C. Act 17-161, October 18, 2007, 54 DCR 10932).</text>
-        <text>For temporary (90 day) amendment of section, see § 3(c) of Health-Care Decisions for Persons with Developmental Disabilities Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-245, January 23, 2008, 55 DCR 1230).</text>
-        <text>For temporary (90 day) amendment, see § 3(c) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Act of 2008 (D.C. Act 17-492, August 4, 2008, 55 DCR 9167).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-189, see Historical and Statutory Notes following § 21-2201.</text>
-        <text>For legislative history of D.C. Law 9-67, see Historical and Statutory Notes following § 21-2202.</text>
-        <text>For legislative history of D.C. Law 10-68, see Historical and Statutory Notes following § 21-2201.</text>
-        <text>For Law 15-17, see notes following § 21-2202.</text>
-        <text>For Law 15-105, see notes following § 21-541.</text>
-        <text>For Law 17-249, see notes following § 21-2002.</text>
-        <text>For history of Law 19-171, see notes under § 21-2060.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-651.01, § 7-1231.02, § 7-1231.06, § 7-1231.07, § 7-1301.03, § 7-1305.04, § 7-1305.06a, § 7-1305.06b, § 7-1305.06c, § 7-1305.07a, § 21-2011, § 21-2046, § 21-2047.02, and § 21-2211.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 21-2210.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-17, in subsec. (a), inserted "or domestic partner" after "spouse" in par. (2), made a nonsubstantive change in par. (5A), and added par. (5B); and added subsecs. (f) and (g).</text>
+      <text>D.C. Law 15-105, in subsec. (g), validated previously made technical corrections.</text>
+      <text>D.C. Law 17-249 added subsecs. (a)(1A), (h), and (i).</text>
+      <text>The 2012 amendment by D.C. Law 19-171 validated a previously made technical correction in (a)(1A).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 3(c) of D.C. Law 16-46 added par. (1A) to subsec. (a) and added subsec. (h) to read as follows:</text>
+      <text>"(1A) A court-appointed mental retardation advocate of the patient, if the ability to grant, refuse, or withdraw consent is within the scope of the advocate's appointment under § 7-1304.13."</text>
+      <text>"(h) If no person listed in subsection (a) of this section is reasonably available, mentally capable, and willing to act, the health-care provider, or the District of Columbia, for those persons committed or admitted to receive habilitation or other services pursuant to Chapter 13 of Title 7 of the District of Columbia Official Code, or any interested person may petition the Superior Court of the District of Columbia for appointment of a limited guardian for health care pursuant to § 21-2044(c)."</text>
+      <text>Section 6(a) of D.C. Law 16-46 provided that the act shall expire after 225 days of its having taken effect.</text>
+      <text>Section 3(c) of D.C. Law 16-194 added a new par. (1A) to subsec. (a), and added a new subsec. (h) to read as follows:</text>
+      <text>"(1A) A court-appointed mental retardation advocate of the patient, if the ability to grant, refuse, or withdraw consent is within the scope of the advocate's appointment under section 7-1304.13."</text>
+      <text>"(h) If no person listed in subsection (a) of this section is reasonably available, mentally capable, and willing to act, the health-care provider, or the District of Columbia, for those persons committed or admitted to receive habilitation or other services pursuant to Chapter 13 of Title 7, or any interested person may petition the Superior Court of the District of Columbia for appointment of a health-care guardian pursuant to section 21-2044 or section 21-2046."</text>
+      <text>Section 6(b) of D.C. Law 16-194 provided that the act shall expire after 225 days of its having taken effect.</text>
+      <text>Section 3(c) of D.C. Law 17-100 added subsecs. (a)(1A), (h), and (i) to read as follows:</text>
+      <text>"(1A) A court-appointed mental retardation advocate of the patient, if the ability to grant, refuse, or withdraw consent is within the scope of the advocate's appointment under section 7-1304.13."</text>
+      <text>"(h) If no person listed in subsection (a) of this section is reasonably available, mentally capable, and willing to act, the health-care provider, or the District of Columbia, for those persons committed or admitted to receive habilitation or other services pursuant to Chapter 13 of Title 7, or any interested person may petition the Superior Court of the District of Columbia for appointment of a health-care guardian pursuant to section 21-2044 or section 21-2046.</text>
+      <text>"(i) The health-care provider who is treating or providing services to the incapacitated patient at the time of the health-care decision shall accept the decision of the individual authorized under this section to grant, refuse, or withdraw consent on behalf of the patient as the decision of the principal."</text>
+      <text>Section 6(b) of D.C. Law 17-100 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 3(c) of Health-Care Decisions for Persons with Mental Retardation and Developmental Disabilities Emergency Amendment Act of 2005 (D.C. Act 16-190, October 28, 2005, 52 DCR 10021).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(c) of Health-Care Decisions for Persons with Mental Retardation and Development Disabilities Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-262, January 26, 2006, 53 DCR 795).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(c) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Amendment Act of 2006 (D.C. Act 16-480, September 25, 2006, 53 DCR 7940).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(c) of Health-Care Decisions for Persons with Developmental Disabilities Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-566, December 19, 2006, 53 DCR 10272).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(c) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Act of 2007 (D.C. Act 17-161, October 18, 2007, 54 DCR 10932).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(c) of Health-Care Decisions for Persons with Developmental Disabilities Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-245, January 23, 2008, 55 DCR 1230).</text>
+      <text>For temporary (90 day) amendment, see § 3(c) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Act of 2008 (D.C. Act 17-492, August 4, 2008, 55 DCR 9167).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-189</heading>
+      <text>For legislative history of D.C. Law 7-189, see Historical and Statutory Notes following § 21-2201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-67</heading>
+      <text>For legislative history of D.C. Law 9-67, see Historical and Statutory Notes following § 21-2202.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-68</heading>
+      <text>For legislative history of D.C. Law 10-68, see Historical and Statutory Notes following § 21-2201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-17</heading>
+      <text>For Law 15-17, see notes following § 21-2202.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>For Law 15-105, see notes following § 21-541.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-249</heading>
+      <text>For Law 17-249, see notes following § 21-2002.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
     </level>
   </level>
 </level>

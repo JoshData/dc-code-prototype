@@ -3,35 +3,29 @@
   <heading>Posting of emergency response information.</heading>
   <text>By July 1, 2008, the Mayor shall develop a standardized form for posting emergency response information. The information shall be posted in all schools and shall include:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>An explanation of the symptoms and possible consequences of conditions covered by this subchapter;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The names of all the employees or agents of the particular school who are trained and certified to administer medication in emergency circumstances; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The emergency response steps, as identified by the Mayor, to be taken by the school.</text>
-    </level>
+    <num>(1)</num>
+    <text>An explanation of the symptoms and possible consequences of conditions covered by this subchapter;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The names of all the employees or agents of the particular school who are trained and certified to administer medication in emergency circumstances; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The emergency response steps, as identified by the Mayor, to be taken by the school.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 2, 2008, D.C. Law 17-107, § 8, 54 DCR 12230.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-107, see notes following § 38-651.01.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of Authority to the Student Access to Treatment Act of 2007, see Mayor's Order 2008-85, June 11, 2008 (55 DCR 9362).</text>
-      </level>
+      <heading>Legislative History of Law 17-107</heading>
+      <text>For Law 17-107, see notes following § 38-651.01.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of Authority to the Student Access to Treatment Act of 2007, see Mayor's Order 2008-85, June 11, 2008 (55 DCR 9362).</text>
     </level>
   </level>
 </level>

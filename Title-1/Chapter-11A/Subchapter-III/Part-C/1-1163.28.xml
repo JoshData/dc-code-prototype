@@ -1,6 +1,6 @@
 <level type="section">
   <num>1-1163.28</num>
-  <heading>Legal defense committees --organization.</heading>
+  <heading>Legal defense committees - organization.</heading>
   <level>
     <num>(a)</num>
     <level>
@@ -52,18 +52,18 @@
     <num>(e)</num>
     <text>Any balance in the legal defense committee fund shall be transferred only to a nonprofit organization, within the meaning of section 501(c) of the Internal Revenue Code, operating in good standing in the District of Columbia for a minimum of one calendar year before the date of any transfer, or to a constituent-service program pursuant to § 1-1163.38.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2012, D.C. Law 19-124, § 328, 59 DCR 1862.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-1163.30.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-124</heading>
+      <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
     </level>
   </level>
 </level>

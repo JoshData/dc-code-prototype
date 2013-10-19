@@ -1,38 +1,31 @@
 <level type="section">
   <num>20-301</num>
   <heading>Scope.</heading>
-  <formerly-cited-as>DC ST 1981 § 20-301</formerly-cited-as>
-  <text>This chapter applies to the opening of an estate which begins with the filing of a petition for probate by an interested person as provided in section 20- 304 and results in the probate of a will or the determination of a decedent's intestacy and the appointment of a personal representative. Probate may occur either:</text>
+  <text>This chapter applies to the opening of an estate which begins with the filing of a petition for probate by an interested person as provided in section 20-304 and results in the probate of a will or the determination of a decedent's intestacy and the appointment of a personal representative. Probate may occur either:</text>
   <level>
-    <level>
-      <num>(a)</num>
-      <text>As an abbreviated probate proceeding as provided in subchapter II of this chapter;</text>
-    </level>
-    <level>
-      <num>(b)</num>
-      <text>As a standard probate proceeding as provided in subchapter III of this chapter;</text>
-    </level>
-    <level>
-      <num>(c)</num>
-      <text>As a small estates proceeding as provided in subchapter VI of this chapter.</text>
-    </level>
+    <num>(a)</num>
+    <text>As an abbreviated probate proceeding as provided in subchapter II of this chapter;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(b)</num>
+    <text>As a standard probate proceeding as provided in subchapter III of this chapter;</text>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>As a small estates proceeding as provided in subchapter VI of this chapter.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 24, 1980, D.C. Law 3-72, § 101, 27 DCR 2155.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 20-301.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 3-72, the "District of Columbia Probate Reform Act of 1980," was introduced in Council and assigned Bill No. 3-91, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on April 1, 1980, and April 22, 1980, respectively. Signed by the Mayor on May 7, 1980, it was assigned Act No. 3-181 and transmitted to both Houses of Congress for its review.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 20-301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-72</heading>
+      <text>Law 3-72, the "District of Columbia Probate Reform Act of 1980," was introduced in Council and assigned Bill No. 3-91, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on April 1, 1980, and April 22, 1980, respectively. Signed by the Mayor on May 7, 1980, it was assigned Act No. 3-181 and transmitted to both Houses of Congress for its review.</text>
     </level>
   </level>
 </level>

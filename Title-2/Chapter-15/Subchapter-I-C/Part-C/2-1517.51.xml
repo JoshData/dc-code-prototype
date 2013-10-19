@@ -1,23 +1,74 @@
 <level type="section">
   <num>2-1517.51</num>
-  <heading>Family resource guide. [Not funded]</heading>
+  <heading>Family resource guide.</heading>
   <level>
-    <type>annotations</type>
+    <num>(a)</num>
+    <text>By October 1, 2013, the Mayor shall create a comprehensive resource guide for families who come into contact with the child welfare or juvenile justice systems. The guide shall include:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(1)</num>
+      <text>A clear explanation of the rights and responsibilities of children and families;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The role of District agencies, including the:</text>
+      <level>
+        <num>(A)</num>
+        <text>Child and Family Services Agency;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Department of Youth Rehabilitation Services;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Department of Mental Health; and</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Department of Health Care Finance;</text>
+      </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The role of the courts;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>District government and non-governmental resources related to behavioral health, including contact information; and</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Websites for District government agencies and nongovernment resources related to behavioral health.</text>
+    </level>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>The resource guide shall be:</text>
+    <level>
+      <num>(1)</num>
+      <text>Made publicly available on the Internet;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Updated as necessary, along with updates of the information described in subsection (a)(4) and (5) of this section; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Made available to other District agencies for distribution.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(June 7, 2012, D.C. Law 19-141, § 502, 59 DCR 3083.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-141, see notes under § 2-1517.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 601 of D.C. Law 19-141, as amended by section 7004 of D.C. Law 19-168, reads as follows: "Sections 302(b)(1), 304, and 502(a) shall apply upon the inclusion of their fiscal effect in an approved budget and financial plan.".</text>
-        <text>The fiscal effect of sections 302(b)(1), 304, and 502 of D.C. Law 19-141 has not been included in an approved budget and financial plan. Therefore, the provisions of this section, enacted by Law 19-141, are not in effect.</text>
-      </level>
+      <heading>Legislative History of Law 19-141</heading>
+      <text>For history of Law 19-141, see notes under § 2-1517.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 601 of D.C. Law 19-141 originally provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan. Section 601 of D.C. Law 19-141, as amended by D.C. Law 19-168, § 7004, provided that the applicability of only §§ 302(b)(1), 304, and 502(a) are contingent upon the inclusion of their fiscal effect in an approved budget and financial plan.</text>
     </level>
   </level>
 </level>

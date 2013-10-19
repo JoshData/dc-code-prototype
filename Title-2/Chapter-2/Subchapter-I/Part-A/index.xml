@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>A</num>
-  <heading>General.</heading>
-  <level>
-    <text>DC CODE D. I, T. 2, Ch. 2, Subch. I, Pt. A, Refs &amp; Annos</text>
-  </level>
+  <heading>General</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-201.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-201.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-201.03.xml"/>

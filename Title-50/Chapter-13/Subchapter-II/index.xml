@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Administration of Chapter.</heading>
+  <heading>Administration of Chapter</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1301.03.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1301.04.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="50-1301.05.xml"/>

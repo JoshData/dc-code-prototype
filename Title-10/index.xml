@@ -1,11 +1,11 @@
 <level type="toc">
   <prefix>Title</prefix>
   <num>10</num>
-  <heading>Parks, Public Buildings, Grounds, and Space.</heading>
+  <heading>Parks, Public Buildings, Grounds, and Space</heading>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>I</num>
-    <heading>Parks and Playgrounds.</heading>
+    <heading>Parks and Playgrounds</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3/index.xml"/>
@@ -14,7 +14,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>II</num>
-    <heading>Public Buildings and Grounds.</heading>
+    <heading>Public Buildings and Grounds</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-5/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-5A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-6/index.xml"/>
@@ -28,14 +28,14 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>III</num>
-    <heading>Use of Public Space.</heading>
+    <heading>Use of Public Space</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-11/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-11A/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>IV</num>
-    <heading>Specific Locales.</heading>
+    <heading>Specific Locales</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-12/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-13/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-14/index.xml"/>

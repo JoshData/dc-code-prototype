@@ -3,31 +3,25 @@
   <heading>Quality assurance for treatment providers.</heading>
   <text>Prior to implementing the Program, APRA shall:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Establish a Quality Assurance Division staffed with personnel to monitor the performance and quality of services of treatment providers;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Train quality assurance staff on the tools and protocols used to effectively monitor treatment providers; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Develop policies, procedures, and instruments to measure qualitative and quantitative outcomes of treatment services.</text>
-    </level>
+    <num>(1)</num>
+    <text>Establish a Quality Assurance Division staffed with personnel to monitor the performance and quality of services of treatment providers;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Train quality assurance staff on the tools and protocols used to effectively monitor treatment providers; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Develop policies, procedures, and instruments to measure qualitative and quantitative outcomes of treatment services.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 18, 2000, D.C. Law 13-146, § 11, 47 DCR 4350.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-146, see notes following § 7-3001.</text>
-      </level>
+      <heading>Legislative History of Law 13-146</heading>
+      <text>For Law 13-146, see notes following § 7-3001.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>General.</heading>
+  <heading>General</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-3801.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-3802.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-3803.xml"/>

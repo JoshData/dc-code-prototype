@@ -1,51 +1,44 @@
 <level type="section">
   <num>2-1502</num>
   <heading>Purpose.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-2602</formerly-cited-as>
   <text>It is the purpose of this subchapter to:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Promote and support programs for children and youth in existing agencies of the District of Columbia government;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Reorganize the current pattern of programs and services for children and youth offered through the Office of Youth Advocacy;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Ensure that an effective mechanism exists to facilitate youth employment;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Provide a review and evaluation mechanism for existing services and programs for children and youth; and</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Promote and support programs for Hispanic youth in D.C. agencies.</text>
-    </level>
+    <num>(1)</num>
+    <text>Promote and support programs for children and youth in existing agencies of the District of Columbia government;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Reorganize the current pattern of programs and services for children and youth offered through the Office of Youth Advocacy;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Ensure that an effective mechanism exists to facilitate youth employment;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Provide a review and evaluation mechanism for existing services and programs for children and youth; and</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Promote and support programs for Hispanic youth in D.C. agencies.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 29, 1977, D.C. Law 1-93, § 3, 23 DCR 9532b.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-2602.</text>
-        <text>1973 Ed., § 6-2002.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-93, see Historical and Statutory Notes following § 2-1501.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Grants for youth oriented programs: D.C. Law 10-195 authorized the Youth Initiatives Office to make grants to community based organizations for youth oriented programs and for other purposes in order to address the crisis affecting District of Columbia youth.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-2602.</text>
+      <text>1973 Ed., § 6-2002.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-93</heading>
+      <text>For legislative history of D.C. Law 1-93, see Historical and Statutory Notes following § 2-1501.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Grants for youth oriented programs: D.C. Law 10-195 authorized the Youth Initiatives Office to make grants to community based organizations for youth oriented programs and for other purposes in order to address the crisis affecting District of Columbia youth.</text>
     </level>
   </level>
 </level>

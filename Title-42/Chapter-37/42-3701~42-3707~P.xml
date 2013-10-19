@@ -1,18 +1,13 @@
 <level type="placeholder">
-  <reason>Expired</reason>
   <section-start>42-3701</section-start>
   <section-end>42-3707</section-end>
   <section-range-type>range</section-range-type>
-  <formerly-cited-as>DC ST 1981 § 45-2401 to 45-2407</formerly-cited-as>
-  <level>
-    <type>annotations</type>
+  <heading>[Expired]</heading>
+  <text>Expired.</text>
+  <level type="annotations">
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Expiration of chapter: Section 9(b) of D.C. Law 5-98, as amended by § 2(c) of D.C. Law 6-152, provided that the act shall expire 5 years from the date it becomes effective. D.C. Law 5-98 became effective August 10, 1984.</text>
-        <text>DC CODE § 42-3701</text>
-      </level>
+      <heading>Editor’s Notes</heading>
+      <text>Expiration of chapter: Section 9(b) of D.C. Law 5-98, as amended by § 2(c) of D.C. Law 6-152, provided that the act shall expire 5 years from the date it becomes effective. D.C. Law 5-98 became effective August 10, 1984.</text>
     </level>
   </level>
 </level>

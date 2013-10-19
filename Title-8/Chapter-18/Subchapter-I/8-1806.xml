@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-1806</num>
   <heading>Release to owner.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-1006</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor shall not release a dog to its owner unless the owner has obtained a license as provided in § 8-1804.</text>
@@ -38,24 +37,23 @@
     <num>(c)</num>
     <text>The Mayor shall issue a notice of violation to an owner of an animal impounded under § 8-1805 except that this subsection shall not apply the 1st time an owner has an animal impounded.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 18, 1979, D.C. Law 3-30, § 7, 26 DCR 765; Mar. 17, 1993, D.C. Law 9-236, § 2(c), 40 DCR 614.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-1006.</text>
-        <text>1973 Ed., § 6-2406.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-30, see Historical and Statutory Notes following § 8-1801.</text>
-        <text>For legislative history of D.C. Law 9-236, see Historical and Statutory Notes following § 8-1804.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-1006.</text>
+      <text>1973 Ed., § 6-2406.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-30</heading>
+      <text>For legislative history of D.C. Law 3-30, see Historical and Statutory Notes following § 8-1801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-236</heading>
+      <text>For legislative history of D.C. Law 9-236, see Historical and Statutory Notes following § 8-1804.</text>
     </level>
   </level>
 </level>

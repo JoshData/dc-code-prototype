@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-3508.04</num>
   <heading>Distressed properties improvement program.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2584</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor may establish and administer a distressed property improvement program to assist those housing accommodations which meet the requirements of § 42-3501.03(9).</text>
@@ -40,29 +39,32 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>Distressed properties and new or rehabilitated vacant rental housing under §§ 42-3508.02 and 42-3508.03 shall have priority over other properties for participation in the Tenant Assistance Program so long as the tenants who reside in distressed property and who receive assistance from the Tenant Assistance Program are doing so consistent with the provisions of § 42- 3503.03(c).</text>
+    <text>Distressed properties and new or rehabilitated vacant rental housing under §§ 42-3508.02 and 42-3508.03 shall have priority over other properties for participation in the Tenant Assistance Program so long as the tenants who reside in distressed property and who receive assistance from the Tenant Assistance Program are doing so consistent with the provisions of § 42-3503.03(c).</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 17, 1985, D.C. Law 6-10, § 804, 32 DCR 3089; Feb. 24, 1987, D.C. Law 6-192, § 13(h), 33 DCR 7836.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2584.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
-        <text>For legislative history of D.C. Law 6-192, see Historical and Statutory Notes following § 42-3502.05.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Termination of Law 6-10: See Historical and Statutory Notes following § 42- 3508.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-407, § 42-3503.02, and § 42-3508.05.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2584.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-10</heading>
+      <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-192</heading>
+      <text>For legislative history of D.C. Law 6-192, see Historical and Statutory Notes following § 42-3502.05.</text>
+    </level>
+    <level>
+      <heading>Termination of law Termination of Law 6-10</heading>
+      <text>See Historical and Statutory Notes following § 42-3508.01.</text>
     </level>
   </level>
 </level>

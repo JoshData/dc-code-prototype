@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-374</num>
   <heading>Accepted accounting principles to be followed.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-374</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Beginning October 1, 1979, the District will account for and report on, unless specifically noted in financial reports, its financial transactions in accordance with generally accepted accounting principles.</text>
@@ -10,22 +9,18 @@
     <num>(b)</num>
     <text>The systems, procedures, and controls established by the Mayor shall permit the District to demonstrate and report on compliance with legal requirements and contractual agreements as well as generally accepted accounting principles.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 14, 1980, D.C. Law 3-70, § 5, 27 DCR 1776; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-374.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-70, see Historical and Statutory Notes following § 47-371.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-374.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-70</heading>
+      <text>For legislative history of D.C. Law 3-70, see Historical and Statutory Notes following § 47-371.</text>
     </level>
   </level>
 </level>

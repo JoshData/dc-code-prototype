@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The Mount Vernon Triangle BID shall be comprised of the geographic area bounded by a line that begins at the center of the intersection of Seventh Street, N.W., and New York Avenue, N.W.; and continues northeast down the middle of New York Avenue, N.W., until it reaches New Jersey Avenue, N.W.; and continues southeast down the middle of New Jersey Avenue, N.W., until it reaches Massachusetts Avenue, N.W.; and continues northwest down the middle of Massachusetts Avenue, N.W. until it reaches Sixth Street, N.W., and continues north down the middle of Sixth Street, N.W., until it reaches K Street, N.W.; and continues west down the middle of K Street, N.W. , until it reaches Seventh Street, N.W.; and continues north down the middle of Seventh Street, N.W., until it reaches the center of the intersection of Seventh Street, N.W., and New York Avenue, N.W. (the beginning point).</text>
+    <text>The Mount Vernon Triangle BID shall be comprised of the geographic area bounded by a line that begins at the center of the intersection of Seventh Street, N.W., and New York Avenue, N.W.; and continues northeast down the middle of New York Avenue, N.W., until it reaches New Jersey Avenue, N.W.; and continues southeast down the middle of New Jersey Avenue, N.W., until it reaches Massachusetts Avenue, N.W.; and continues northwest down the middle of Massachusetts Avenue, N.W. until it reaches Sixth Street, N.W., and continues north down the middle of Sixth Street, N.W., until it reaches K Street, N.W.; and continues west down the middle of K Street, N.W., until it reaches Seventh Street, N.W.; and continues north down the middle of Seventh Street, N.W., until it reaches the center of the intersection of Seventh Street, N.W., and New York Avenue, N.W. (the beginning point).</text>
   </level>
   <level>
     <num>(c)</num>
@@ -43,28 +43,36 @@
       <text>Subject to the requirements of § 2-1215.08, the BID taxes set forth in this subsection may be increased by 5%.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 29, 1996, D.C. Law 11-134, § 205, as added Mar. 17, 2005, D.C. Law 15-257, § 2(d), 52 DCR 1161; Apr. 7, 2006, D.C. Law 16-91, § 140(c), 52 DCR 10637; Mar. 8, 2007, D.C. Law 16-246, § 2, 54 DCR 618; Mar. 25, 2009, D.C. Law 17-353, § 156, 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-91 made a technical change in the enacting clause of D.C. Law 15- 257 which resulted in no change in text.</text>
-        <text>D.C. Law 16-246 rewrote subsec. (c) which had read as follows:</text>
-        <text>"(c) The BID taxes for the nonexempt real properties in the Mount Vernon Triangle BID shall be 20 cents per square foot of land."</text>
-        <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (c)(2).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-257, see notes following § 2-1215.51.</text>
-        <text>For Law 16-91, see notes following § 2-218.54.</text>
-        <text>Law 16-246, the "Mount Vernon Triangle BID Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-937, which was referred to Committee on Finance and Revenue. The Bill was adopted on first and second readings on November 14, 2006, and December 5, 2006, respectively. Signed by the Mayor on December 28 2006, it was assigned Act No. 16-602 and transmitted to both Houses of Congress for its review. D.C. Law 16-246 became effective on March 8, 2007.</text>
-        <text>For Law 17-353, see notes following § 2-218.42.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-857.11.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-91 made a technical change in the enacting clause of D.C. Law 15-257 which resulted in no change in text.</text>
+      <text>D.C. Law 16-246 rewrote subsec. (c) which had read as follows: "(c) The BID taxes for the nonexempt real properties in the Mount Vernon Triangle BID shall be 20 cents per square foot of land."</text>
+      <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (c)(2).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-257</heading>
+      <text>For Law 15-257, see notes following § 2-1215.51.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-91</heading>
+      <text>For Law 16-91, see notes following § 2-218.54.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-246</heading>
+      <text>Law 16-246, the "Mount Vernon Triangle BID Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-937, which was referred to Committee on Finance and Revenue. The Bill was adopted on first and second readings on November 14, 2006, and December 5, 2006, respectively. Signed by the Mayor on December 28 2006, it was assigned Act No. 16-602 and transmitted to both Houses of Congress for its review. D.C. Law 16-246 became effective on March 8, 2007.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 2-218.42.</text>
     </level>
   </level>
 </level>

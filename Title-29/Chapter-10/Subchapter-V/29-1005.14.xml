@@ -3,43 +3,41 @@
   <heading>Voting requirements for members.</heading>
   <text>If a limited cooperative association has both patron and investor members, the following rules shall apply:</text>
   <level>
+    <num>(1)</num>
+    <text>The total voting power of all patron members shall not be less than a majority of the entire voting power entitled to vote.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>Action on any matter shall be approved only upon the affirmative vote of at least a majority of:</text>
     <level>
-      <num>(1)</num>
-      <text>The total voting power of all patron members shall not be less than a majority of the entire voting power entitled to vote.</text>
+      <num>(A)</num>
+      <text>All members voting at the meeting unless more than a majority is required by subchapters IV, XII, XIV, or XV of this chapter or the organic rules; and</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>Action on any matter shall be approved only upon the affirmative vote of at least a majority of:</text>
-      <level>
-        <num>(A)</num>
-        <text>All members voting at the meeting unless more than a majority is required by subchapters IV, XII, XIV, or XV of this chapter or the organic rules; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Votes cast by patron members unless the organic rules require a larger affirmative vote by patron members.</text>
-      </level>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The organic rules may provide for the percentage of the affirmative votes that must be cast by investor members to approve the matter.</text>
+      <num>(B)</num>
+      <text>Votes cast by patron members unless the organic rules require a larger affirmative vote by patron members.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(3)</num>
+    <text>The organic rules may provide for the percentage of the affirmative votes that must be cast by investor members to approve the matter.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 514 of the Uniform Limited Cooperative Association Act . See Vol. 6A , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-1004.04.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 514 of the Uniform Limited Cooperative Association Act.</text>
     </level>
   </level>
 </level>

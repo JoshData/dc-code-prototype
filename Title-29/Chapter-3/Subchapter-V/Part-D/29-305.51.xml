@@ -3,27 +3,25 @@
   <heading>Standing.</heading>
   <text>A shareholder shall not commence or maintain a derivative proceeding unless the shareholder:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Was a shareholder of the corporation at the time of the act or omission complained of or became a shareholder through transfer by operation of law from one that was a shareholder at that time; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Fairly and adequately represents the interests of the corporation in enforcing the right of the corporation.</text>
-    </level>
+    <num>(1)</num>
+    <text>Was a shareholder of the corporation at the time of the act or omission complained of or became a shareholder through transfer by operation of law from one that was a shareholder at that time; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Fairly and adequately represents the interests of the corporation in enforcing the right of the corporation.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-306.09.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

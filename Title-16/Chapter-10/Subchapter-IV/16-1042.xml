@@ -53,22 +53,18 @@
       <text>The tribunal of the issuing State made specific findings in favor of the respondent.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 11, 2003, D.C. Law 14-296, § 2(c), 50 DCR 320.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-296, see notes following § 16-1041.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 3 of the Uniform Interstate Enforcement of Domestic Violence Protection Orders Act. See 9, Pt. 1B, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 14-296</heading>
+      <text>For Law 14-296, see notes following § 16-1041.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 3 of the Uniform Interstate Enforcement of Domestic Violence Protection Orders Act.</text>
     </level>
   </level>
 </level>

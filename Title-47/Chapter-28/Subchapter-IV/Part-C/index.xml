@@ -1,11 +1,10 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>C</num>
-  <heading>Pharmacy.</heading>
+  <heading>Pharmacy</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2885.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2885.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2885.03.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2885.04~47-2885.05~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2885.04~47-2885.05~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2885.06.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2885.07~P.xml"/>

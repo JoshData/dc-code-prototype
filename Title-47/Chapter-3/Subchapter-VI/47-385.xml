@@ -1,10 +1,10 @@
 <level type="section">
   <num>47-385</num>
   <heading>Procedure for Council consent to certain grant applications and state plans.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-385</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Applications and state plans requiring Council consent.</text> -- In addition to the notice required by § 47-384, the terms and conditions of each grant application or state plan which provides for or requests any of the following shall be approved by consent of the Council prior to submission to the federal grant-making agency:</text>
+    <heading>Applications and state plans requiring Council consent</heading>
+    <text>In addition to the notice required by § 47-384, the terms and conditions of each grant application or state plan which provides for or requests any of the following shall be approved by consent of the Council prior to submission to the federal grant-making agency:</text>
     <level>
       <num>(1)</num>
       <text>Any formula grant of more than $5,000,000;</text>
@@ -20,7 +20,11 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Submission to and consent by Council.</text> -- (1) The Mayor, 5 days before approving any grant application or state plan meeting any of the criterion of subsection (a) of this section, shall submit a copy of such application or state plan to the Chairman of the Council, along with such information as required by § 47-384(a) and including copies of any state plans which are required as a condition of a grant.</text>
+    <heading>Submission to and consent by Council</heading>
+    <level>
+      <num>(1)</num>
+      <text>The Mayor, 5 days before approving any grant application or state plan meeting any of the criterion of subsection (a) of this section, shall submit a copy of such application or state plan to the Chairman of the Council, along with such information as required by § 47-384(a) and including copies of any state plans which are required as a condition of a grant.</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>The Chairman of the Council shall circulate such application or state plan to the members of the Council with a notice labeling it as requiring Council consent for submission to a grant-making agency.</text>
@@ -40,28 +44,26 @@
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Reconsideration by Council.</text> -- If the Council withholds its consent to a grant application, the Mayor may, on a clear showing of changed circumstances, new information, or additional administrative hardship, ask for a reconsideration of the previous action of the Council. The Council may at its discretion reconsider its previous action.</text>
+    <heading>Reconsideration by Council</heading>
+    <text>If the Council withholds its consent to a grant application, the Mayor may, on a clear showing of changed circumstances, new information, or additional administrative hardship, ask for a reconsideration of the previous action of the Council. The Council may at its discretion reconsider its previous action.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Exemptions.</text> -- The grants submitted by agencies identified in § 47- 383(b) are exempt from the provisions of this section.</text>
+    <heading>Exemptions</heading>
+    <text>The grants submitted by agencies identified in § 47-383(b) are exempt from the provisions of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 16, 1980, D.C. Law 3-104, § 6, 27 DCR 3748; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-385.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-104, see Historical and Statutory Notes following § 47-381.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-385.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-104</heading>
+      <text>For legislative history of D.C. Law 3-104, see Historical and Statutory Notes following § 47-381.</text>
     </level>
   </level>
 </level>

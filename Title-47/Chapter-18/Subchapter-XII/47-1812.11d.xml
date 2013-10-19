@@ -20,23 +20,26 @@
     <num>(c)</num>
     <text>The Mayor shall include with the individual tax return package a description of the purposes for which the Fund was established and projects for which the Fund may be used.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 23, 2009, D.C. Law 18-55, § 9(a)(3), 56 DCR 5703; Sept. 26, 2012, D.C. Law 19-171, § 119, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-171 validated a previously made technical correction in the section designation.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-55, see notes following § 47-1803.02.</text>
-        <text>For history of Law 19-171, see notes under § 47-369.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-102.05.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-171 validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-55</heading>
+      <text>For Law 18-55, see notes following § 47-1803.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
     </level>
   </level>
 </level>

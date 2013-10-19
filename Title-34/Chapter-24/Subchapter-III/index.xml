@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Water Mains.</heading>
+  <heading>Water Mains</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-2405.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-2405.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-2405.03.xml"/>

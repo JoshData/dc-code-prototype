@@ -1,14 +1,11 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>IV</num>
-  <heading>Economic Development Finance Corporation.</heading>
-  <level>
-    <text>DC CODE D. I, T. 2, Ch. 12, Subch. IV, Refs &amp; Annos</text>
-  </level>
+  <heading>Economic Development Finance Corporation</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1207.01~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1207.02~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1207.03~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1207.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1207.04~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1207.05~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1207.06~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1207.06a~P.xml"/>

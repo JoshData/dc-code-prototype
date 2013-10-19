@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>50</num>
-  <heading>Electronic Mail Spam Deterrence.</heading>
+  <heading>Electronic Mail Spam Deterrence</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-5001.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-5002.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-5003.xml"/>

@@ -3,208 +3,209 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Adjusted RBC report" means an RBC report which has been adjusted by the Commissioner in accordance with § 31-3851.02(c).</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Authorized Control Level Event" means any of the following events:</text>
     <level>
-      <num>(1)</num>
-      <text>"Adjusted RBC report" means an RBC report which has been adjusted by the Commissioner in accordance with § 31-3851.02(c).</text>
+      <num>(A)</num>
+      <text>The filing of an RBC report by the health organization that indicates that the health organization's total adjusted capital is at least equal to its Mandatory Control Level RBC, but less than its Authorized Control Level RBC;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Authorized Control Level Event" means any of the following events:</text>
-      <level>
-        <num>(A)</num>
-        <text>The filing of an RBC report by the health organization that indicates that the health organization's total adjusted capital is at least equal to its Mandatory Control Level RBC, but less than its Authorized Control Level RBC;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The notification by the Commissioner to the health organization of an adjusted RBC report described in subparagraph (A) of this paragraph; provided, that the health organization does not challenge the adjusted RBC report under § 31-3851.07;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>If, under § 31-3851.07, the health organization challenges an adjusted RBC report described in subparagraph (A) of this paragraph, notification by the Commissioner to the health organization that the Commissioner has, after a hearing, rejected the health organization's challenge;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>The failure of the health organization to respond, in a manner satisfactory to the Commissioner, to a corrective order; provided, that the health organization has not challenged the corrective order under § 31-3851.07; or</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>If the health organization has challenged a corrective order under § 31- 3851.07 and the Commissioner has, after a hearing, rejected the challenge or modified the corrective order, the failure of the health organization to respond, in a manner satisfactory to the Commissioner, to the corrective order subsequent to rejection or modification by the Commissioner.</text>
-      </level>
+      <num>(B)</num>
+      <text>The notification by the Commissioner to the health organization of an adjusted RBC report described in subparagraph (A) of this paragraph; provided, that the health organization does not challenge the adjusted RBC report under § 31-3851.07;</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>"Authorized Control Level RBC" means the amount of capital required under the risk-based capital formula in accordance with the RBC Instructions.</text>
+      <num>(C)</num>
+      <text>If, under § 31-3851.07, the health organization challenges an adjusted RBC report described in subparagraph (A) of this paragraph, notification by the Commissioner to the health organization that the Commissioner has, after a hearing, rejected the health organization's challenge;</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>"Commissioner" means Commissioner of the Department of Insurance and Securities Regulation.</text>
+      <num>(D)</num>
+      <text>The failure of the health organization to respond, in a manner satisfactory to the Commissioner, to a corrective order; provided, that the health organization has not challenged the corrective order under § 31-3851.07; or</text>
     </level>
     <level>
-      <num>(5)</num>
-      <text>"Company Action Level Event" means any of the following events:</text>
-      <level>
-        <num>(A)</num>
-        <text>The filing of an RBC report by a health organization that indicates that the health organization's total adjusted capital is at least equal to its Regulatory Action Level RBC, but less than its Company Action Level RBC;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Notification by the Commissioner to the health organization of an adjusted RBC report described in subparagraph (A) of this paragraph; provided, that the health organization does not challenge the adjusted RBC report under § 31- 3851.07; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>If, under § 31-3851.07, a health organization challenges an adjusted RBC report described in subparagraph (A) of this paragraph, the notification by the Commissioner to the health organization that the Commissioner has, after a hearing, rejected the health organization's challenge.</text>
-      </level>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Company Action Level RBC" means the Authorized Control Level RBC multiplied by a factor of 2.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"Corrective order" means an order issued by the Commissioner specifying corrective actions.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"District" means the District of Columbia.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Domestic health organization" means a health organization domiciled in the District.</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Foreign health organization" means a health organization that is licensed to do business, but is not domiciled, in the District.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>"Health organization" means a health maintenance organization, hospital and medical indemnity or service corporation, or other managed care organization licensed under Chapter 34 of this title or Chapter 35 of this title. The term "health organization" shall not include an organization that is licensed as either a life and health insurer or a property and casualty insurer and that is otherwise subject to either the life or property and casualty RBC requirements.</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>"Mandatory Control Level Event" means any of the following events:</text>
-      <level>
-        <num>(A)</num>
-        <text>The filing of an RBC report which indicates that the health organization's total adjusted capital is less than its Mandatory Control Level RBC;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Notification by the Commissioner to the health organization of an adjusted RBC report described in subparagraph (A) of this paragraph; provided, that the health organization does not challenge the adjusted RBC report under § 31- 3851.07; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>If, under § 31-3851.07, the health organization challenges an adjusted RBC report described in subparagraph (A) of this paragraph, notification by the Commissioner to the health organization that the Commissioner has, after a hearing, rejected the health organization's challenge.</text>
-      </level>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>"Mandatory Control Level RBC" means the required Authorized Control Level RBC multiplied by a factor of 0.7.</text>
-    </level>
-    <level>
-      <num>(14)</num>
-      <text>"NAIC" means the National Association of Insurance Commissioners.</text>
-    </level>
-    <level>
-      <num>(15)</num>
-      <text>"RBC instructions" means the instructions for the RBC report, including risk-based capital instructions adopted by the NAIC, as these RBC instructions may be amended by the NAIC from time to time in accordance with the procedures adopted by the NAIC.</text>
-    </level>
-    <level>
-      <num>(16)</num>
-      <text>"RBC level" means a health organization's Company Action Level RBC, Regulatory Action Level RBC, Authorized Control Level RBC, or Mandatory Control Level RBC.</text>
-    </level>
-    <level>
-      <num>(17)</num>
-      <text>"RBC plan" means a comprehensive financial plan containing the elements specified in § 31-3851.03(a).</text>
-    </level>
-    <level>
-      <num>(18)</num>
-      <text>"RBC report" means the report required by § 31-3851.02.</text>
-    </level>
-    <level>
-      <num>(19)</num>
-      <text>"Regulatory Action Level Event" means any of the following events:</text>
-      <level>
-        <num>(A)</num>
-        <text>The filing of an RBC report by the health organization that indicates that the health organization's total adjusted capital is at least equal to its Authorized Control Level RBC but less than its Regulatory Action Level RBC;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Notification by the Commissioner to a health organization of an adjusted RBC report that described in subparagraph (A) of this paragraph; provided, that the health organization does not challenge the adjusted RBC report under § 31-3851.07;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>If, under § 31-3851.07, the health organization challenges an adjusted RBC report described in subparagraph (A) of this paragraph, the notification by the Commissioner to the health organization that the Commissioner has, after a hearing, rejected the health organization's challenge;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>The failure of the health organization to file an RBC report by the filing date, unless the health organization has provided an explanation for the failure that is satisfactory to the Commissioner and has cured the failure within 10 days after the filing date;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>The failure of the health organization to submit an RBC plan to the Commissioner within the time period set forth in § 31-3851.03(b);</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Notification by the Commissioner to the health organization stating that:</text>
-        <level>
-          <num>(i)</num>
-          <text>The RBC plan or revised RBC plan submitted by the health organization is, in the judgment of the Commissioner, unsatisfactory; and</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>The notification constitutes a Regulatory Action Level Event with respect to the health organization; provided, that the health organization has not challenged the determination under § 31-3851.07;</text>
-        </level>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>If, under § 31-3851.07, the health organization challenges a determination by the Commissioner under subparagraph (F) of this paragraph, the notification by the Commissioner to the health organization that the Commissioner has, after a hearing, rejected the challenge;</text>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>Notification by the Commissioner to the health organization that the health organization has failed to adhere to its RBC plan or revised RBC plan; provided, that the failure has a substantial adverse effect on the ability of the health organization to eliminate the Company Action Level Event in accordance with its RBC plan or revised RBC plan and the Commissioner has so stated in the notification; provided further, that the health organization has not challenged the determination under § 31-3851.07; or</text>
-      </level>
-      <level>
-        <num>(I)</num>
-        <text>If, under § 31-3851.07, the health organization challenges a determination by the Commissioner under subparagraph (H) of this paragraph, the notification by the Commissioner to the health organization that the Commissioner has, after a hearing, rejected the challenge.</text>
-      </level>
-    </level>
-    <level>
-      <num>(20)</num>
-      <text>"Regulatory Action Level RBC" means the Authorized Control Level RBC multiplied by a factor of 1.5.</text>
-    </level>
-    <level>
-      <num>(21)</num>
-      <text>"Revised RBC plan" means, if the Commissioner rejects the RBC plan, the RBC plan as revised by the health organization, with or without the Commissioner's consent.</text>
-    </level>
-    <level>
-      <num>(22)</num>
-      <text>"Total adjusted capital" means the sum of:</text>
-      <level>
-        <num>(A)</num>
-        <text>A health organization's statutory capital and surplus as determined in accordance with the statutory accounting applicable to the annual financial statements required to be filed; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Such other items, if any, as the RBC instructions may require.</text>
-      </level>
+      <num>(E)</num>
+      <text>If the health organization has challenged a corrective order under § 31-3851.07 and the Commissioner has, after a hearing, rejected the challenge or modified the corrective order, the failure of the health organization to respond, in a manner satisfactory to the Commissioner, to the corrective order subsequent to rejection or modification by the Commissioner.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(3)</num>
+    <text>"Authorized Control Level RBC" means the amount of capital required under the risk-based capital formula in accordance with the RBC Instructions.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Commissioner" means Commissioner of the Department of Insurance and Securities Regulation.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Company Action Level Event" means any of the following events:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>The filing of an RBC report by a health organization that indicates that the health organization's total adjusted capital is at least equal to its Regulatory Action Level RBC, but less than its Company Action Level RBC;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Notification by the Commissioner to the health organization of an adjusted RBC report described in subparagraph (A) of this paragraph; provided, that the health organization does not challenge the adjusted RBC report under § 31-3851.07; or</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>If, under § 31-3851.07, a health organization challenges an adjusted RBC report described in subparagraph (A) of this paragraph, the notification by the Commissioner to the health organization that the Commissioner has, after a hearing, rejected the health organization's challenge.</text>
+    </level>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Company Action Level RBC" means the Authorized Control Level RBC multiplied by a factor of 2.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Corrective order" means an order issued by the Commissioner specifying corrective actions.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"District" means the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Domestic health organization" means a health organization domiciled in the District.</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"Foreign health organization" means a health organization that is licensed to do business, but is not domiciled, in the District.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>"Health organization" means a health maintenance organization, hospital and medical indemnity or service corporation, or other managed care organization licensed under Chapter 34 of this title or Chapter 35 of this title. The term "health organization" shall not include an organization that is licensed as either a life and health insurer or a property and casualty insurer and that is otherwise subject to either the life or property and casualty RBC requirements.</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>"Mandatory Control Level Event" means any of the following events:</text>
+    <level>
+      <num>(A)</num>
+      <text>The filing of an RBC report which indicates that the health organization's total adjusted capital is less than its Mandatory Control Level RBC;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Notification by the Commissioner to the health organization of an adjusted RBC report described in subparagraph (A) of this paragraph; provided, that the health organization does not challenge the adjusted RBC report under § 31-3851.07; or</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>If, under § 31-3851.07, the health organization challenges an adjusted RBC report described in subparagraph (A) of this paragraph, notification by the Commissioner to the health organization that the Commissioner has, after a hearing, rejected the health organization's challenge.</text>
+    </level>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>"Mandatory Control Level RBC" means the required Authorized Control Level RBC multiplied by a factor of 0.7.</text>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>"NAIC" means the National Association of Insurance Commissioners.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>"RBC instructions" means the instructions for the RBC report, including risk-based capital instructions adopted by the NAIC, as these RBC instructions may be amended by the NAIC from time to time in accordance with the procedures adopted by the NAIC.</text>
+  </level>
+  <level>
+    <num>(16)</num>
+    <text>"RBC level" means a health organization's Company Action Level RBC, Regulatory Action Level RBC, Authorized Control Level RBC, or Mandatory Control Level RBC.</text>
+  </level>
+  <level>
+    <num>(17)</num>
+    <text>"RBC plan" means a comprehensive financial plan containing the elements specified in § 31-3851.03(a).</text>
+  </level>
+  <level>
+    <num>(18)</num>
+    <text>"RBC report" means the report required by § 31-3851.02.</text>
+  </level>
+  <level>
+    <num>(19)</num>
+    <text>"Regulatory Action Level Event" means any of the following events:</text>
+    <level>
+      <num>(A)</num>
+      <text>The filing of an RBC report by the health organization that indicates that the health organization's total adjusted capital is at least equal to its Authorized Control Level RBC but less than its Regulatory Action Level RBC;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Notification by the Commissioner to a health organization of an adjusted RBC report that described in subparagraph (A) of this paragraph; provided, that the health organization does not challenge the adjusted RBC report under § 31-3851.07;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>If, under § 31-3851.07, the health organization challenges an adjusted RBC report described in subparagraph (A) of this paragraph, the notification by the Commissioner to the health organization that the Commissioner has, after a hearing, rejected the health organization's challenge;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>The failure of the health organization to file an RBC report by the filing date, unless the health organization has provided an explanation for the failure that is satisfactory to the Commissioner and has cured the failure within 10 days after the filing date;</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>The failure of the health organization to submit an RBC plan to the Commissioner within the time period set forth in § 31-3851.03(b);</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>Notification by the Commissioner to the health organization stating that:</text>
+      <level>
+        <num>(i)</num>
+        <text>The RBC plan or revised RBC plan submitted by the health organization is, in the judgment of the Commissioner, unsatisfactory; and</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>The notification constitutes a Regulatory Action Level Event with respect to the health organization; provided, that the health organization has not challenged the determination under § 31-3851.07;</text>
+      </level>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>If, under § 31-3851.07, the health organization challenges a determination by the Commissioner under subparagraph (F) of this paragraph, the notification by the Commissioner to the health organization that the Commissioner has, after a hearing, rejected the challenge;</text>
+    </level>
+    <level>
+      <num>(H)</num>
+      <text>Notification by the Commissioner to the health organization that the health organization has failed to adhere to its RBC plan or revised RBC plan; provided, that the failure has a substantial adverse effect on the ability of the health organization to eliminate the Company Action Level Event in accordance with its RBC plan or revised RBC plan and the Commissioner has so stated in the notification; provided further, that the health organization has not challenged the determination under § 31-3851.07; or</text>
+    </level>
+    <level>
+      <num>(I)</num>
+      <text>If, under § 31-3851.07, the health organization challenges a determination by the Commissioner under subparagraph (H) of this paragraph, the notification by the Commissioner to the health organization that the Commissioner has, after a hearing, rejected the challenge.</text>
+    </level>
+  </level>
+  <level>
+    <num>(20)</num>
+    <text>"Regulatory Action Level RBC" means the Authorized Control Level RBC multiplied by a factor of 1.5.</text>
+  </level>
+  <level>
+    <num>(21)</num>
+    <text>"Revised RBC plan" means, if the Commissioner rejects the RBC plan, the RBC plan as revised by the health organization, with or without the Commissioner's consent.</text>
+  </level>
+  <level>
+    <num>(22)</num>
+    <text>"Total adjusted capital" means the sum of:</text>
+    <level>
+      <num>(A)</num>
+      <text>A health organization's statutory capital and surplus as determined in accordance with the statutory accounting applicable to the annual financial statements required to be filed; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Such other items, if any, as the RBC instructions may require.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(June 18, 2003, D.C. Law 14-312, § 101, 50 DCR 306; Apr. 13, 2005, D.C. Law 15-354, § 45(a), 52 DCR 2638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-354, in par. (11), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 14-312, the "Health Organizations RBC Amendment Act of 2002", was introduced in Council and assigned Bill No. 14-159, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on November 7, 2002, and December 3, 2002, respectively. Signed by the Mayor on December 23, 2002, it was assigned Act No. 14-571 and transmitted to both Houses of Congress for its review. D.C. Law 14-312 became effective on June 18, 2003.</text>
-        <text>For Law 15-354, see notes following § 31-101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-311.03 and § 31-3851.13.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-354, in par. (11), validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-312</heading>
+      <text>Law 14-312, the "Health Organizations RBC Amendment Act of 2002", was introduced in Council and assigned Bill No. 14-159, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on November 7, 2002, and December 3, 2002, respectively. Signed by the Mayor on December 23, 2002, it was assigned Act No. 14-571 and transmitted to both Houses of Congress for its review. D.C. Law 14-312 became effective on June 18, 2003.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 31-101.</text>
     </level>
   </level>
 </level>

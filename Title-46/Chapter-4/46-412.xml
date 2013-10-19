@@ -1,45 +1,48 @@
 <level type="section">
   <num>46-412</num>
   <heading>Form of license; return; coupons.</heading>
-  <formerly-cited-as>DC ST 1981 § 30-112</formerly-cited-as>
-  <text>Licenses to perform the marriage ceremony shall be addressed to some particular minister, magistrate, or other person authorized by § 46-406 to perform or witness the marriage ceremony and shall be in the following form:</text>
-  <text>Number ..........</text>
-  <level>
-    <text>To .........., authorized to celebrate (or witness) marriages in the District of Columbia, greeting:</text>
+  <level type="form">
+    <text> Licenses to perform the marriage ceremony shall be addressed to some particular minister, magistrate, or other person authorized by § 46-406 to perform or witness the marriage ceremony and shall be in the following form: 
+
+
+ Number .......... 
+ To ...................., authorized to celebrate (or witness) marriages in the 
+
+
+ District of Columbia, greeting: 
+
+
+ You are hereby authorized to celebrate (or witness) the rites of marriage between ...................., of .........., and ...................., of .........., and having done so, you are commanded to make return of the same to the Clerk's Office of the Superior Court of the District of Columbia within 10 days under a penalty of $50 for default therein. 
+ Witness my hand and seal of said Court this .......... day of ............, 
+ anno Domini ........... 
+ ........................................Clerk. 
+ By ................................... Assistant Clerk. 
+
+
+ Said return shall be made in person or by mail on a coupon issued with said license and bearing a corresponding number therewith within 10 days from the time of said marriage, and shall be in the following form: 
+ Number .......... 
+
+
+ I, ...................., who have been duly authorized to celebrate (or witness) the rites of marriage in the District of Columbia, do hereby certify that, by authority of a license of corresponding number herewith, I solemnized (or witnessed) the marriage of .................... and ...................., named therein, on the .......... day of .........., at .........., in said District. 
+
+
+ A 2nd coupon, of corresponding number with the license, shall be attached to and issued with said license, to be given to the contracting parties by the minister or other person to whom such license was addressed, and shall be in the following form: 
+ Number .......... 
+
+
+ I hereby certify that on this ....... day of .........., at .........., .................... and .................... were by (or before) me united in marriage in accordance with the license issued by the Clerk of the Superior Court of the District of Columbia. 
+ Name ...................., 
+ Residence ..............................................</text>
   </level>
-  <text>You are hereby authorized to celebrate (or witness) the rites of marriage between .........., of .........., and .........., of .........., and having done so, you are commanded to make return of the same to the Clerk's Office of the Superior Court of the District of Columbia within 10 days under a penalty of $50 for default therein.</text>
-  <text>Witness my hand and seal of said Court this .......... day of .........., anno Domini ..........</text>
-  <text>
-    <text font="'monospace'"> .................... Clerk. </text>
-  </text>
-  <text>
-    <text font="'monospace'"> By ................. Assistant Clerk.</text>
-  </text>
-  <text>Said return shall be made in person or by mail on a coupon issued with said license and bearing a corresponding number therewith within 10 days from the time of said marriage, and shall be in the following form:</text>
-  <text>Number ..........</text>
-  <text>I, .........., who have been duly authorized to celebrate (or witness) the rites of marriage in the District of Columbia, do hereby certify that, by authority of a license of corresponding number herewith, I solemnized (or witnessed) the marriage of .......... and .........., named therein, on the .......... day of .........., at .........., in said District.</text>
-  <text>A 2nd coupon, of corresponding number with the license, shall be attached to and issued with said license, to be given to the contracting parties by the minister or other person to whom such license was addressed, and shall be in the following form:</text>
-  <text>Number ..........</text>
-  <text>I hereby certify that on this ... day of .........., at .........., .......... and .......... were by (or before) me united in marriage in accordance with the license issued by the Clerk of the Superior Court of the District of Columbia.</text>
-  <text>
-    <text font="'monospace'"> Name .............................,</text>
-  </text>
-  <text>
-    <text font="'monospace'"> Residence .........................</text>
-  </text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1901, 31 Stat. 1392, ch. 854, § 1293; June 30, 1902, 32 Stat. 543, ch. 1329; Apr. 23, 1904, 33 Stat. 297, ch. 1490, § 2; June 25, 1936, 49 Stat. 1921, ch. 804; June 25, 1948, 62 Stat. 991, ch. 646, § 32(b); May 24, 1949, 63 Stat. 107, ch. 139, § 127; July 5, 1966, 80 Stat. 264, Pub. L. 89-493, § 13(a); July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 30-112.</text>
-        <text>1973 Ed., § 30-112.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 30-112.</text>
+      <text>1973 Ed., § 30-112.</text>
     </level>
   </level>
 </level>

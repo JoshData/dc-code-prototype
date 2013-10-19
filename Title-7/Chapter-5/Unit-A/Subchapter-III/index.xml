@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Office on Aging.</heading>
-  <level>
-    <text>DC CODE D. I, T. 7, Subt. A, Ch. 5, Subch. III, Refs &amp; Annos</text>
-  </level>
+  <heading>Office on Aging</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-503.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-503.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-503.03.xml"/>

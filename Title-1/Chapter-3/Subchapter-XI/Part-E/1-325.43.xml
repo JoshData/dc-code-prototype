@@ -7,24 +7,20 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The Mayor shall submit and the Council shall approve, by resolution, the amount of bonds that shall be issued at any time for a project authorized by subsection (a) of this section that meets the criteria set forth in § 1- 325.44. Each approval resolution shall state the aggregate principal amount of the bonds to be issued, and shall be accompanied by a description of each project showing its adherence to the criteria set forth in § 1-325.44.</text>
+    <text>The Mayor shall submit and the Council shall approve, by resolution, the amount of bonds that shall be issued at any time for a project authorized by subsection (a) of this section that meets the criteria set forth in § 1-325.44. Each approval resolution shall state the aggregate principal amount of the bonds to be issued, and shall be accompanied by a description of each project showing its adherence to the criteria set forth in § 1-325.44.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 20, 2005, D.C. Law 16-33, § 4044, 52 DCR 7503.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 4044 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-33, see notes following § 1-325.41.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 4044 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-33</heading>
+      <text>For Law 16-33, see notes following § 1-325.41.</text>
     </level>
   </level>
 </level>

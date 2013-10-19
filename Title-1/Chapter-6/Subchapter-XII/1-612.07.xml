@@ -1,38 +1,35 @@
 <level type="section">
   <num>1-612.07</num>
   <heading>Application for withdrawal.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-613.7</formerly-cited-as>
   <text>An application for withdrawal shall proceed as follows:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>An employee who has been affected by a medical emergency may make written application to the employee's personnel authority to become a leave recipient;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>If the employee is not capable of making application on the employee's own behalf, another employee of the personnel authority may make written application on the employee's behalf; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The application shall be notarized by the affected employee or the employee acting on the affected employee's behalf.</text>
-    </level>
+    <num>(1)</num>
+    <text>An employee who has been affected by a medical emergency may make written application to the employee's personnel authority to become a leave recipient;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>If the employee is not capable of making application on the employee's own behalf, another employee of the personnel authority may make written application on the employee's behalf; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The application shall be notarized by the affected employee or the employee acting on the affected employee's behalf.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-139, § 1207, as added Sept. 11, 1990, D.C. Law 8-155, § 2, 37 DCR 4159.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-613.7.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-155, see Historical and Statutory Notes following § 1-613.04.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-612.05.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-613.7.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-155</heading>
+      <text>For legislative history of D.C. Law 8-155, see Historical and Statutory Notes following § 1-613.04.</text>
     </level>
   </level>
 </level>

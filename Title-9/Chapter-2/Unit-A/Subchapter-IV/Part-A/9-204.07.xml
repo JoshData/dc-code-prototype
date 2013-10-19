@@ -1,7 +1,6 @@
 <level type="section">
   <num>9-204.07</num>
   <heading>Submission of bill to involved advisory neighborhood commission.</heading>
-  <formerly-cited-as>DC ST 1981 § 7-457</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The initiator of a proposal to name or rename a public space shall:</text>
@@ -34,23 +33,22 @@
     <num>(c)</num>
     <text>Not less than 30 days prior to Council consideration of a bill to name or rename a public space in the District of Columbia, the Council shall submit a copy of the bill for review and comment to each Advisory Neighborhood Commission in which the public space is located.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 10, 1983, D.C. Law 4-201, § 407, 30 DCR 148; Apr. 9, 1997, D.C. Law 11-236, § 2(c), 44 DCR 917.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 7-457.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-201, see Historical and Statutory Notes following § 9-201.01.</text>
-        <text>For legislative history of D.C. Law 11-236, see Historical and Statutory Notes following § 9-204.03.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 7-457.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-201</heading>
+      <text>For legislative history of D.C. Law 4-201, see Historical and Statutory Notes following § 9-201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-236</heading>
+      <text>For legislative history of D.C. Law 11-236, see Historical and Statutory Notes following § 9-204.03.</text>
     </level>
   </level>
 </level>

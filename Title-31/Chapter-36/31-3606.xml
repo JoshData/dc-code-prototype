@@ -104,37 +104,42 @@
     <num>(f)</num>
     <text>If an application for a long-term care insurance contract or certificate is approved, the issuer shall deliver the contract or certificate of insurance to the applicant no later than 30 days after the date of approval.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 23, 2000, D.C. Law 13-121, § 7, 47 DCR 2038; Oct. 1, 2002, D.C. Law 14-190, § 502(b), 49 DCR 6968; Mar. 13, 2004, D.C. Law 15-105, § 67, 51 DCR 881; Apr. 13, 2005, D.C. Law 15-354, § 44, 52 DCR 2638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-190, in subsec. (b)(7), substituted "qualified long-term care insurance contract" for "long-term insurance care contract" in two places; and added subsec. (f).</text>
-        <text>D.C. Law 15-105, in subsecs. (b) and (f), validated previously made technical corrections.</text>
-        <text>D.C. Law 15-354, in subsec. (b)(7), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2(b) of Long-Term Care Insurance Temporary Amendment Act of 2000 (D.C. Law 13-147, July 18, 2000, law notification 47 DCR 6097).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) amendment of section, see § 2(b) of the Long-Term Care Insurance Emergency Amendment Act of 2000 (D.C. Act 13-312, April 7, 2000, 47 DCR 2738).</text>
-        <text>For temporary (90-day) amendment of section, see § 2(b) of the Long-Term Care Insurance Congressional Review Emergency Amendment Act of 2000 (D.C. Act 13- 370, July 10, 2000, 47 DCR 5838).</text>
-        <text>For temporary (90 day) amendment of section, see § 502(b) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-121, see notes following § 31-3601.</text>
-        <text>For Law 14-190, see notes following § 31-2502.02.</text>
-        <text>For Law 15-105, see notes following § 31-2402.</text>
-        <text>For Law 15-354, see notes following § 31-101.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-190, in subsec. (b)(7), substituted "qualified long-term care insurance contract" for "long-term insurance care contract" in two places; and added subsec. (f).</text>
+      <text>D.C. Law 15-105, in subsecs. (b) and (f), validated previously made technical corrections.</text>
+      <text>D.C. Law 15-354, in subsec. (b)(7), validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2(b) of Long-Term Care Insurance Temporary Amendment Act of 2000 (D.C. Law 13-147, July 18, 2000, law notification 47 DCR 6097).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) amendment of section, see § 2(b) of the Long-Term Care Insurance Emergency Amendment Act of 2000 (D.C. Act 13-312, April 7, 2000, 47 DCR 2738).</text>
+      <text>For temporary (90-day) amendment of section, see § 2(b) of the Long-Term Care Insurance Congressional Review Emergency Amendment Act of 2000 (D.C. Act 13-370, July 10, 2000, 47 DCR 5838).</text>
+      <text>For temporary (90 day) amendment of section, see § 502(b) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-121</heading>
+      <text>For Law 13-121, see notes following § 31-3601.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-190</heading>
+      <text>For Law 14-190, see notes following § 31-2502.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>For Law 15-105, see notes following § 31-2402.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 31-101.</text>
     </level>
   </level>
 </level>

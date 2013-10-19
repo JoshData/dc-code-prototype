@@ -28,7 +28,7 @@
         </level>
         <level>
           <num>(iii)</num>
-          <text>Delivered to the Mayor for filing a statement of change under §§ 29- 104.07 through 29-104.10 or a statement of correction under § 29-102.05.</text>
+          <text>Delivered to the Mayor for filing a statement of change under §§ 29-104.07 through 29-104.10 or a statement of correction under § 29-102.05.</text>
         </level>
       </level>
     </level>
@@ -39,24 +39,33 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>An individual who signs a record authorized or required to be filed under this chapter affirms under penalty of perjury that the information stated in the record is accurate.</text>
+    <text>An individual who signs a record authorized or required to be filed under this chapter affirms under penalty of making false statements that the information stated in the record is accurate.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(h)(3)(E), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 207 of the Uniform Limited Company Act (2006 Act). See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-803.02 and § 29-809.04.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "making false statements" for "perjury" in (c).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-801.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 207 of the Uniform Limited Company Act (2006 Act).</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

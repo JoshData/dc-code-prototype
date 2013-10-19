@@ -1,6 +1,6 @@
 <level type="section">
   <num>8-1447</num>
-  <heading>Establishment of Hazardous Materials Reimbursement Fund</heading>
+  <heading>Establishment of Hazardous Materials Reimbursement Fund.</heading>
   <level>
     <num>(a)</num>
     <text>There is established within the General Fund of the District of Columbia a segregated, nonlapsing fund to be known as the Hazardous Materials Reimbursement Fund. All funds as set forth in subsection (b) of this section shall be deposited into the Fund without regard to fiscal year limitation and shall not revert to the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall be continually available for the uses and purposes set forth in subsection (c) of this section. The Fund shall be administered by the Mayor.</text>
@@ -13,18 +13,18 @@
     <num>(c)</num>
     <text>All funds deposited shall be available for use by the Mayor to reimburse District of Columbia agencies for costs incurred by the release or threatened release of the hazardous materials identified in § 8-1442.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 2007, D.C. Law 16-262, § 307, 54 DCR 794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-262, see notes following § 8-1441.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-1441.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-262</heading>
+      <text>For Law 16-262, see notes following § 8-1441.</text>
     </level>
   </level>
 </level>

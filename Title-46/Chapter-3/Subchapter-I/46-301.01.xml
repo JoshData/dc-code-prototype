@@ -1,228 +1,221 @@
 <level type="section">
   <num>46-301.01</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 30-341.1</formerly-cited-as>
   <text>For the purposes of this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Child" means an individual, whether over or under the age of majority, who is, or is alleged to be, owed a duty of support by the individual's parent or who is, or is alleged to be, the beneficiary of a support order directed to the parent.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Child support order" means a support order for a child, including a child who has attained the age of majority under the law of the issuing state.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"District" means the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Duty of support" means an obligation imposed or imposable by law to provide support for a child, spouse, or former spouse, including an unsatisfied obligation to provide support.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Family Division" means the Family Division of the Superior Court of the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Home state" means the state in which a child lived with a parent, or a person acting as parent, for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support, and, if a child is less than 6 months old, the state in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month or other period.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Income" includes earnings or other periodic entitlements to money from any source and any other property subject to withholding for support under the law of the District.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Income-withholding order" means an order or other legal process directed to an obligor's employer or other holder, as defined in § 46-201(9) [now § 46-201(11)], to withhold support from the income of the obligor.</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Initiating state" means a state from which a proceeding is forwarded or in which a proceeding is filed for forwarding to a responding state under this chapter or a law or procedure substantially similar to this chapter.</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"Initiating tribunal" means the authorized tribunal in an initiating state.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>"Issuing state" means the state in which a tribunal issues a support order or renders a judgment determining parentage.</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>"Issuing tribunal" means the tribunal that issues a support order or renders a judgment determining parentage.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>"Law" includes decisional and statutory law and rules and regulations having the force of law.</text>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>"Mayor" means the Mayor of the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>"Obligee" means:</text>
     <level>
-      <num>(1)</num>
-      <text>"Child" means an individual, whether over or under the age of majority, who is, or is alleged to be, owed a duty of support by the individual's parent or who is, or is alleged to be, the beneficiary of a support order directed to the parent.</text>
+      <num>(A)</num>
+      <text>An individual to whom a duty of support is, or is alleged to be, owed or in whose favor a support order has been issued or a judgment determining parentage has been rendered;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Child support order" means a support order for a child, including a child who has attained the age of majority under the law of the issuing state.</text>
+      <num>(B)</num>
+      <text>A state or political subdivision to which the rights under a duty of support or support order have been assigned or which has independent claims based on financial assistance provided to an individual obligee; or</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>"District" means the District of Columbia.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Duty of support" means an obligation imposed or imposable by law to provide support for a child, spouse, or former spouse, including an unsatisfied obligation to provide support.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Family Division" means the Family Division of the Superior Court of the District of Columbia.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Home state" means the state in which a child lived with a parent, or a person acting as parent, for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support, and, if a child is less than 6 months old, the state in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month or other period.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"Income" includes earnings or other periodic entitlements to money from any source and any other property subject to withholding for support under the law of the District.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Income-withholding order" means an order or other legal process directed to an obligor's employer or other holder, as defined in § 46-201(9), to withhold support from the income of the obligor.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Initiating state" means a state from which a proceeding is forwarded or in which a proceeding is filed for forwarding to a responding state under this chapter or a law or procedure substantially similar to this chapter.</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Initiating tribunal" means the authorized tribunal in an initiating state.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>"Issuing state" means the state in which a tribunal issues a support order or renders a judgment determining parentage.</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>"Issuing tribunal" means the tribunal that issues a support order or renders a judgment determining parentage.</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>"Law" includes decisional and statutory law and rules and regulations having the force of law.</text>
-    </level>
-    <level>
-      <num>(14)</num>
-      <text>"Mayor" means the Mayor of the District of Columbia.</text>
-    </level>
-    <level>
-      <num>(15)</num>
-      <text>"Obligee" means:</text>
-      <level>
-        <num>(A)</num>
-        <text>An individual to whom a duty of support is, or is alleged to be, owed or in whose favor a support order has been issued or a judgment determining parentage has been rendered;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>A state or political subdivision to which the rights under a duty of support or support order have been assigned or which has independent claims based on financial assistance provided to an individual obligee; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>An individual seeking a judgment determining parentage of the individual's child.</text>
-      </level>
-    </level>
-    <level>
-      <num>(16)</num>
-      <text>"Obligor" means an individual, or the estate of a decedent:</text>
-      <level>
-        <num>(A)</num>
-        <text>Who owes, or is alleged to owe, a duty of support;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Who is alleged, but has not been adjudicated, to be a parent of a child; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Who is liable under a support order.</text>
-      </level>
-    </level>
-    <level>
-      <num>(16A)</num>
-      <text>"Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, government, governmental subdivision, agency, or instrumentality, public corporation, or any other legal or commercial entity.</text>
-    </level>
-    <level>
-      <num>(16B)</num>
-      <text>"Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</text>
-    </level>
-    <level>
-      <num>(17)</num>
-      <text>"Register" means to file a support order or judgment determining parentage in the Family Division.</text>
-    </level>
-    <level>
-      <num>(18)</num>
-      <text>"Registering tribunal" means a tribunal in which a support order is registered.</text>
-    </level>
-    <level>
-      <num>(19)</num>
-      <text>"Responding state" means a state in which a proceeding is filed or to which a proceeding is forwarded for filing from an initiating state under this chapter or a law or procedure substantially similar to this chapter.</text>
-    </level>
-    <level>
-      <num>(20)</num>
-      <text>"Responding tribunal" means the authorized tribunal in a responding state.</text>
-    </level>
-    <level>
-      <num>(21)</num>
-      <text>"Spousal support order" means a support order for a spouse or former spouse of the obligor.</text>
-    </level>
-    <level>
-      <num>(22)</num>
-      <text>"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States. The term "state" includes:</text>
-      <level>
-        <num>(A)</num>
-        <text>An Indian tribe; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>A foreign country or political subdivision that:</text>
-        <level>
-          <num>(i)</num>
-          <text>Has been declared to be a foreign reciprocating country or political subdivision under federal law;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Has established a reciprocal arrangement for child support with the District, as provided in § 46-303.08(b); or</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Has enacted a law or established procedures for the issuance and enforcement of support orders which are substantially similar to the procedures under this chapter.</text>
-        </level>
-      </level>
-    </level>
-    <level>
-      <num>(23)</num>
-      <text>"Support enforcement agency" means a public official or agency authorized to seek:</text>
-      <level>
-        <num>(A)</num>
-        <text>Enforcement of support orders or laws relating to the duty of support;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Establishment or modification of child support;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Determination of parentage;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Location of obligors or their assets; or</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Determination of the controlling child-support order.</text>
-      </level>
-    </level>
-    <level>
-      <num>(24)</num>
-      <text>"Support order" means a judgment, decree, order, or directive, whether temporary, final, or subject to modification, issued by a tribunal for the benefit of a child, a spouse, or a former spouse, which provides for monetary support, health care, arrearages, or reimbursement, and may include related costs and fees, interest, income withholding, attorney's fees, and other relief.</text>
-    </level>
-    <level>
-      <num>(25)</num>
-      <text>"Tribunal" means a court, administrative agency, or quasi-judicial entity authorized to establish, enforce, or modify support orders or to determine parentage.</text>
+      <num>(C)</num>
+      <text>An individual seeking a judgment determining parentage of the individual's child.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(16)</num>
+    <text>"Obligor" means an individual, or the estate of a decedent:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Who owes, or is alleged to owe, a duty of support;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Who is alleged, but has not been adjudicated, to be a parent of a child; or</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Who is liable under a support order.</text>
+    </level>
+  </level>
+  <level>
+    <num>(16A)</num>
+    <text>"Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, government, governmental subdivision, agency, or instrumentality, public corporation, or any other legal or commercial entity.</text>
+  </level>
+  <level>
+    <num>(16B)</num>
+    <text>"Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</text>
+  </level>
+  <level>
+    <num>(17)</num>
+    <text>"Register" means to file a support order or judgment determining parentage in the Family Division.</text>
+  </level>
+  <level>
+    <num>(18)</num>
+    <text>"Registering tribunal" means a tribunal in which a support order is registered.</text>
+  </level>
+  <level>
+    <num>(19)</num>
+    <text>"Responding state" means a state in which a proceeding is filed or to which a proceeding is forwarded for filing from an initiating state under this chapter or a law or procedure substantially similar to this chapter.</text>
+  </level>
+  <level>
+    <num>(20)</num>
+    <text>"Responding tribunal" means the authorized tribunal in a responding state.</text>
+  </level>
+  <level>
+    <num>(21)</num>
+    <text>"Spousal support order" means a support order for a spouse or former spouse of the obligor.</text>
+  </level>
+  <level>
+    <num>(22)</num>
+    <text>"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States. The term "state" includes:</text>
+    <level>
+      <num>(A)</num>
+      <text>An Indian tribe; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>A foreign country or political subdivision that:</text>
+      <level>
+        <num>(i)</num>
+        <text>Has been declared to be a foreign reciprocating country or political subdivision under federal law;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Has established a reciprocal arrangement for child support with the District, as provided in § 46-303.08(b); or</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Has enacted a law or established procedures for the issuance and enforcement of support orders which are substantially similar to the procedures under this chapter.</text>
+      </level>
+    </level>
+  </level>
+  <level>
+    <num>(23)</num>
+    <text>"Support enforcement agency" means a public official or agency authorized to seek:</text>
+    <level>
+      <num>(A)</num>
+      <text>Enforcement of support orders or laws relating to the duty of support;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Establishment or modification of child support;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Determination of parentage;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Location of obligors or their assets; or</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Determination of the controlling child-support order.</text>
+    </level>
+  </level>
+  <level>
+    <num>(24)</num>
+    <text>"Support order" means a judgment, decree, order, or directive, whether temporary, final, or subject to modification, issued by a tribunal for the benefit of a child, a spouse, or a former spouse, which provides for monetary support, health care, arrearages, or reimbursement, and may include related costs and fees, interest, income withholding, attorney's fees, and other relief.</text>
+  </level>
+  <level>
+    <num>(25)</num>
+    <text>"Tribunal" means a court, administrative agency, or quasi-judicial entity authorized to establish, enforce, or modify support orders or to determine parentage.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Feb. 9, 1996, D.C. Law 11-81, § 101, 42 DCR 6748; July 24, 1998, D.C. Law 12-131, § 2(a), 45 DCR 2924; June 22, 2006, D.C. Law 16-137, § 2(a)(1), 53 DCR 3634.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 30-341.1.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-137, in par. (9), deleted ", the Uniform Reciprocal Enforcement of Support Act, or the Revised Uniform Reciprocal Enforcement of Support Act" following "this chapter"; added pars. (16A) and (16B); in par. (19), deleted ", the Uniform Reciprocal Enforcement of Support Act, or the Revised Uniform Reciprocal Enforcement of Support Act" following "this chapter"; rewrote subpar. (22)(B) and pars. (23) and (24), which had read as follows:</text>
-        <text>"(B) A foreign jurisdiction that has enacted a law or established procedures for issuance and enforcement of support orders which are substantially similar to the procedures under this chapter, the Uniform Reciprocal Enforcement of Support Act, or the Revised Uniform Reciprocal Enforcement of Support Act.</text>
-        <text>"(23) 'Support enforcement agency' means a public official or agency authorized to seek:</text>
-        <text>"(A) Enforcement of support orders or laws relating to the duty of support;</text>
-        <text>"(B) Establishment or modification of child support;</text>
-        <text>"(C) Determination of parentage; or</text>
-        <text>"(D) To locate obligors or their assets.</text>
-        <text>"(24) 'Support order' means a judgment, decree, or order, whether temporary, final, or subject to modification, for the benefit of a child, a spouse, or a former spouse, which provides for monetary support, health care, arrearages, or reimbursement, and may include related costs and fees, interest, income withholding, attorney's fees, and other relief."</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2(a) of Uniform Interstate Family Support Temporary Amendment Act of 1998 (D.C. Law 12-94, April 29, 1998, law notification 45 DCR 2785).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of section, see § 2(a) of the Uniform Interstate Family Support Emergency Amendment Act of 1997 (D.C. Act 12-225, December 23, 1997, 45 DCR 151).</text>
-        <text>Emergency act amendments: For temporary amendment of section, see § 2(a) of the Uniform Interstate Family Support Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-510, March 20, 1998, 46 DCR 1950).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 11-81, the "Uniform Interstate Family Support Act of 1995," was introduced in Council and assigned Bill No. 11-169, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on October 10, 1995, and November 7, 1995, respectively. Signed by the Mayor on November 27, 1995, it was assigned Act No. 11-157 and transmitted to both Houses of Congress for its review. D.C. Law 11-81 became effective on February 9, 1996.</text>
-        <text>Law 12-131, the "Uniform Interstate Family Support Amendment Act of 1998," was introduced in Council and assigned Bill No. 12-156, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on March 3, 1998, and April 7, 1998, respectively. Signed by the Mayor on April 20, 1998, it was assigned Act No. 12-330 and transmitted to both Houses of Congress for its review. D.C. Law 12-131 became effective on July 24, 1998.</text>
-        <text>Law 16-137, the "Uniform Family Support Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-151 which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on March 7, 2006, and April 4, 2006, respectively. Signed by the Mayor on April 26, 2006, it was assigned Act No. 16-366 and transmitted to both Houses of Congress for its review. D.C. Law 16-137 became effective on June 22, 2006.</text>
-      </level>
-      <level>
-        <heading>Effective Dates</heading>
-        <text>Applicability: Section 3 of D.C. Law 16-137 provides: "This act shall apply as of April 1, 2007."</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 102 of the Uniform Interstate Family Support Act (2001 Act). See Volume 9, Part IB Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Uniform child custody jurisdiction and marital or parent and child long-arm jurisdiction, see § 16-4601.01 et seq.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 30-341.1.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-137, in par. (9), deleted ", the Uniform Reciprocal Enforcement of Support Act, or the Revised Uniform Reciprocal Enforcement of Support Act" following "this chapter"; added pars. (16A) and (16B); in par. (19), deleted ", the Uniform Reciprocal Enforcement of Support Act, or the Revised Uniform Reciprocal Enforcement of Support Act" following "this chapter"; And rewrote subpar. (22)(B) and pars. (23) and (24).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2(a) of Uniform Interstate Family Support Temporary Amendment Act of 1998 (D.C. Law 12-94, April 29, 1998, law notification 45 DCR 2785).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 2(a) of the Uniform Interstate Family Support Emergency Amendment Act of 1997 (D.C. Act 12-225, December 23, 1997, 45 DCR 151).</text>
+      <text>For temporary amendment of section, see § 2(a) of the Uniform Interstate Family Support Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-510, March 20, 1998, 46 DCR 1950).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-81</heading>
+      <text>Law 11-81, the "Uniform Interstate Family Support Act of 1995," was introduced in Council and assigned Bill No. 11-169, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on October 10, 1995, and November 7, 1995, respectively. Signed by the Mayor on November 27, 1995, it was assigned Act No. 11-157 and transmitted to both Houses of Congress for its review. D.C. Law 11-81 became effective on February 9, 1996.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-131</heading>
+      <text>Law 12-131, the "Uniform Interstate Family Support Amendment Act of 1998," was introduced in Council and assigned Bill No. 12-156, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on March 3, 1998, and April 7, 1998, respectively. Signed by the Mayor on April 20, 1998, it was assigned Act No. 12-330 and transmitted to both Houses of Congress for its review. D.C. Law 12-131 became effective on July 24, 1998.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-137</heading>
+      <text>Law 16-137, the "Uniform Family Support Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-151 which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on March 7, 2006, and April 4, 2006, respectively. Signed by the Mayor on April 26, 2006, it was assigned Act No. 16-366 and transmitted to both Houses of Congress for its review. D.C. Law 16-137 became effective on June 22, 2006.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability: Section 3 of D.C. Law 16-137 provided: "This act shall apply as of April 1, 2007."</text>
+      <text>Uniform Law: This section is based upon § 102 of the Uniform Interstate Family Support Act (2001 Act).</text>
     </level>
   </level>
 </level>

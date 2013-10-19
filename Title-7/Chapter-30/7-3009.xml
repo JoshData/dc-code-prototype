@@ -36,23 +36,22 @@
     <num>(g)</num>
     <text>Additional certification of a treatment provider shall be required if the scope of its services changes.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 18, 2000, D.C. Law 13-146, § 10, 47 DCR 4350; Apr. 24, 2007, D.C. Law 16-305, § 29(b), 53 DCR 6198.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-305, in subsec. (c), substituted "persons with disabilities" for "the disabled".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-146, see notes following § 7-3001.</text>
-        <text>For Law 16-305, see notes following § 7-531.01.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-305, in subsec. (c), substituted "persons with disabilities" for "the disabled".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-146</heading>
+      <text>For Law 13-146, see notes following § 7-3001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-305</heading>
+      <text>For Law 16-305, see notes following § 7-531.01.</text>
     </level>
   </level>
 </level>

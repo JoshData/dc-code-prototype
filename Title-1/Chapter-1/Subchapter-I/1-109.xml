@@ -1,18 +1,20 @@
 <level type="section">
   <num>1-109</num>
   <heading>Liability.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-109</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">District of Columbia.</text> -- The District of Columbia shall defend any civil action or proceeding pending on August 5, 1997 in any court or other official municipal, state, or federal forum against the District of Columbia or its officers, employees, or agents, and shall assume any liability resulting from such an action or proceeding.</text>
+    <heading>District of Columbia</heading>
+    <text>The District of Columbia shall defend any civil action or proceeding pending on August 5, 1997 in any court or other official municipal, state, or federal forum against the District of Columbia or its officers, employees, or agents, and shall assume any liability resulting from such an action or proceeding.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">State Justice Institute.</text> -- The State Justice Institute shall not be liable for damages or equitable relief on the basis of the activities or operations of any federal or District of Columbia agency which receives funds through the State Justice Institute pursuant to this title.</text>
+    <heading>State Justice Institute</heading>
+    <text>The State Justice Institute shall not be liable for damages or equitable relief on the basis of the activities or operations of any federal or District of Columbia agency which receives funds through the State Justice Institute pursuant to this title.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">United States.</text> -- The United States, its officers, employees, and agents, and its agencies shall not:</text>
+    <heading>United States</heading>
+    <text>The United States, its officers, employees, and agents, and its agencies shall not:</text>
     <level>
       <num>(1)</num>
       <text>Be responsible for the payment of any judgments, liabilities or costs resulting from any action or proceeding against the District of Columbia or its agencies, officers, employees, or agents;</text>
@@ -28,28 +30,25 @@
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Limitations.</text> -- Nothing in this section shall be construed as a waiver of sovereign immunity, or as limiting any other defense or immunity that would otherwise be available to the United States, the District of Columbia, their agencies, officers, employees, or agents.</text>
+    <heading>Limitations</heading>
+    <text>Nothing in this section shall be construed as a waiver of sovereign immunity, or as limiting any other defense or immunity that would otherwise be available to the United States, the District of Columbia, their agencies, officers, employees, or agents.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 5, 1997, 111 Stat. 786, Pub. L. 105-33, § 11723.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-109.</text>
-      </level>
-      <level>
-        <heading>Effective Dates</heading>
-        <text>Section 11721 of Title XI of Pub. L. 105-33, 111 Stat. 786, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that except as otherwise provided in this title, the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995, as amended by this title.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>"This title", referred to in subsection (b) of this section, is Title XI of Public Law 105-33.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-109.</text>
+    </level>
+    <level>
+      <heading>Effective Dates</heading>
+      <text>Section 11721 of Title XI of Pub. L. 105-33, 111 Stat. 786, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that except as otherwise provided in this title, the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995, as amended by this title.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>"This title", referred to in subsection (b) of this section, is Title XI of Public Law 105-33.</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>1</num>
-  <heading>General Provisions.</heading>
-  <level>
-    <text>DC CODE D. I, T. 10, Subt. I, Ch. 1, Refs &amp; Annos</text>
-  </level>
+  <heading>General Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-103.xml"/>
@@ -73,5 +70,5 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-165.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-166.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-166.01.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-167.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-167~P.xml"/>
 </level>

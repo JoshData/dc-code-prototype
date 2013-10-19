@@ -1,7 +1,6 @@
 <level type="section">
   <num>4-205.73</num>
-  <heading>POWER--Application.</heading>
-  <formerly-cited-as>DC ST 1981 § 3-205.73</formerly-cited-as>
+  <heading>POWER - Application.</heading>
   <level>
     <num>(a)</num>
     <text>The Mayor may only consider TANF applicants or TANF recipients for consideration for POWER eligibility.</text>
@@ -10,30 +9,30 @@
     <num>(b)</num>
     <text>The Mayor may refer a TANF applicant or recipient for consideration of POWER eligibility at any time, including when a TANF applicant or recipient claims a medical incapacity exemption from work activities.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 6, 1982, D.C. Law 4-101, § 573, as added Apr. 20, 1999, D.C. Law 12-241, § 4(g), 46 DCR 905.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 3-205.73.</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition of section, see § 4(h) of Self-Sufficiency Promotion Temporary Amendment Act of 1998 (D.C. Law 12-230, April 20, 1999, law notification 46 DCR 4143).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>See notes to § 4-205.69.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-241, see Historical and Statutory Notes following § 4-201.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-205.19m and § 4-205.72.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 3-205.73.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition of section, see § 4(h) of Self-Sufficiency Promotion Temporary Amendment Act of 1998 (D.C. Law 12-230, April 20, 1999, law notification 46 DCR 4143).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>See notes to § 4-205.69.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-241</heading>
+      <text>For legislative history of D.C. Law 12-241, see Historical and Statutory Notes following § 4-201.01.</text>
     </level>
   </level>
 </level>

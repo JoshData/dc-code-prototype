@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>V</num>
-  <heading>Public Employee Relations Board.</heading>
-  <level>
-    <text>DC CODE D. I, T. 1, Ch. 6, Subch. V, Refs &amp; Annos</text>
-  </level>
+  <heading>Public Employee Relations Board</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-605.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-605.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-605.03.xml"/>

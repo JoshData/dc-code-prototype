@@ -44,22 +44,22 @@
     <num>(c)</num>
     <text>Each cigarette listed in a certification submitted pursuant to § 7-1754 that uses lowered permeability bands in the cigarette paper to achieve compliance with the performance standard set forth in this section shall have at least 2 nominally identical bands on the paper surrounding the tobacco column. At least one complete band shall be located at least 15 millimeters from the lighting end of the cigarette. For cigarettes on which the bands are positioned by design, there shall be at least 2 bands fully located at least 15 millimeters from the lighting end and 10 millimeters from the filter end of the tobacco column, or 10 millimeters from the labeled end of the tobacco column for non-filtered cigarettes.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 13, 2008, D.C. Law 17-157, § 4, 55 DCR 3703.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-157, see notes following § 7-1751.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of Authority pursuant to D.C. Law 17-157, the Fire-Standard-Compliant Cigarettes Act of 2008, see Mayor's Order 2008-90, June 23, 2008 (55 DCR 9369).</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-1752 and § 7-1754.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-157</heading>
+      <text>For Law 17-157, see notes following § 7-1751.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of Authority pursuant to D.C. Law 17-157, the Fire-Standard-Compliant Cigarettes Act of 2008, see Mayor's Order 2008-90, June 23, 2008 (55 DCR 9369).</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>41-103</num>
   <heading>Property presumed abandoned.</heading>
-  <formerly-cited-as>DC ST 1981 § 42-203</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>All intangible personal property, not otherwise covered by this chapter, including any income or increment thereon and deducting any lawful charges, that is held or owing in the ordinary course of the holder's business and has remained unclaimed by the owner for more than 3 years after it became payable or distributable is presumed abandoned.</text>
@@ -18,40 +17,52 @@
     <num>(d)</num>
     <text>A record of the issuance of a check, draft, or similar instrument is prima facie evidence of an obligation. In claiming property from a holder who is also the issuer, the administrator's burden of proof as to the existence and amount of the property and its abandonment is satisfied by showing issuance of the instrument and passage of the requisite period of abandonment. Defenses of payment, satisfaction, discharge, and want of consideration are affirmative defenses that must be established by the holder.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 5, 1981, D.C. Law 3-160, § 103, 27 DCR 5150; Sept. 29, 1992, D.C. Law 9-161, § 2(a), 39 DCR 5696; Mar. 20, 1998, D.C. Law 12-60, § 1701(b), 44 DCR 7378.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 42-203.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 1701(b) of D.C. Law 12-59 substituted "3 years" for "5 years" in (a); and added (d).</text>
-        <text>Section 2001(b) of D.C. Law 12-59 provided that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of section, see § 1701(b) of the Fiscal Year 1998 Revised Budget Support Emergency Act of 1997 (D.C. Act 12-152, October 17, 1997, 44 DCR 6196), and see § 1701(b) of the Fiscal Year 1998 Revised Budget Support Congressional Review Emergency Act of 1997 (D.C. Act 12-239, January 13, 1998, 45 DCR 508).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-160, see Historical and Statutory Notes following § 41-101.</text>
-        <text>Law 9-64, the "Uniform Disposition of Unclaimed Property Act of 1980 Clarifying Temporary Amendment Act of 1991," was introduced in Council and assigned Bill No. 9-322. The Bill was adopted on first and second readings on October 1, 1991, and November 5, 1991, respectively. Signed by the Mayor on November 25, 1991, it was assigned Act No. 9-107 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 9-161, the "Uniform Disposition of Unclaimed Property Act of 1980 Dormancy and Clarifying Amendment Act of 1992," was introduced in Council and assigned Bill No. 9-333, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on June 2, 1992, and July 7, 1992, respectively. Signed by the Mayor on July 21, 1992, it was assigned Act No. 9- 255 and transmitted to both Houses of Congress for its review. D.C. Law 9-161 became effective on September 29, 1992.</text>
-        <text>For legislative history of D.C. Law 12-59, see Historical and Statutory Notes following § 41-101.</text>
-        <text>For legislative history of D.C. Law 12-60, see Historical and Statutory Notes following § 41-101.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based in part upon § 9 of the Uniform Disposition of Unclaimed Property Act (1966 Act). See 8A Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-        <text>This section is also based upon § 2 of the Uniform Unclaimed Property Act (1981 and 1995 Acts), and upon § 6 of the 1995 Act. See 8B Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 41-104 and § 41-105.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 42-203.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 1701(b) of D.C. Law 12-59 substituted "3 years" for "5 years" in (a); and added (d).</text>
+      <text>Section 2001(b) of D.C. Law 12-59 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 1701(b) of the Fiscal Year 1998 Revised Budget Support Emergency Act of 1997 (D.C. Act 12-152, October 17, 1997, 44 DCR 6196), and see § 1701(b) of the Fiscal Year 1998 Revised Budget Support Congressional Review Emergency Act of 1997 (D.C. Act 12-239, January 13, 1998, 45 DCR 508).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-160</heading>
+      <text>For legislative history of D.C. Law 3-160, see Historical and Statutory Notes following § 41-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-64</heading>
+      <text>Law 9-64, the "Uniform Disposition of Unclaimed Property Act of 1980 Clarifying Temporary Amendment Act of 1991," was introduced in Council and assigned Bill No. 9-322. The Bill was adopted on first and second readings on October 1, 1991, and November 5, 1991, respectively. Signed by the Mayor on November 25, 1991, it was assigned Act No. 9-107 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-161</heading>
+      <text>Law 9-161, the "Uniform Disposition of Unclaimed Property Act of 1980 Dormancy and Clarifying Amendment Act of 1992," was introduced in Council and assigned Bill No. 9-333, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on June 2, 1992, and July 7, 1992, respectively. Signed by the Mayor on July 21, 1992, it was assigned Act No. 9-255 and transmitted to both Houses of Congress for its review. D.C. Law 9-161 became effective on September 29, 1992.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-59</heading>
+      <text>For legislative history of D.C. Law 12-59, see Historical and Statutory Notes following § 41-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-60</heading>
+      <text>For legislative history of D.C. Law 12-60, see Historical and Statutory Notes following § 41-101.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based in part upon § 9 of the Uniform Disposition of Unclaimed Property Act (1966 Act).</text>
+      <text>This section is also based upon § 2 of the Uniform Unclaimed Property Act (1981 and 1995 Acts), and upon § 6 of the 1995 Act.</text>
     </level>
   </level>
 </level>

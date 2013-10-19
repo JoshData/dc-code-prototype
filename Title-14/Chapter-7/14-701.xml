@@ -1,21 +1,25 @@
 <level type="section">
   <num>14-701</num>
   <heading>Presumption of death.</heading>
-  <formerly-cited-as>DC ST 1981 § 14-701</formerly-cited-as>
   <text>If a person leaves his domicile without a known intention of changing it, and does not return or is not heard from for seven years from the time of his so leaving, he shall be presumed to be dead in any case where his death is in question, unless proof is made that he was alive within that time.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, 77 Stat. 522, Pub. L. 88-241, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 14-701.</text>
-        <text>1973 Ed., § 14-701.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Administration of estates of absentees and absconders, see § 21-1901 et seq.</text>
+      <text>Death certificates where death presumed, see § 7-211.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-211, § 14-702, § 19-505, and § 47-1002.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 14-701.</text>
+      <text>1973 Ed., § 14-701.</text>
     </level>
   </level>
 </level>

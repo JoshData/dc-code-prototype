@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-2302</num>
   <heading>Notice requirements.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2902</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A credit line deed of trust shall include:</text>
@@ -30,23 +29,22 @@
     <num>(c)</num>
     <text>This section shall apply only to a credit line deed of trust for single family residential property.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Jan. 28, 1988, D.C. Law 7-67, § 3, 34 DCR 7441; Mar. 11, 1992, D.C. Law 9-72, § 2(b), 39 DCR 20.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2902.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-67, see Historical and Statutory Notes following § 42-2301.</text>
-        <text>For legislative history of D.C. Law 9-72, see Historical and Statutory Notes following § 42-2301.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2902.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-67</heading>
+      <text>For legislative history of D.C. Law 7-67, see Historical and Statutory Notes following § 42-2301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-72</heading>
+      <text>For legislative history of D.C. Law 9-72, see Historical and Statutory Notes following § 42-2301.</text>
     </level>
   </level>
 </level>

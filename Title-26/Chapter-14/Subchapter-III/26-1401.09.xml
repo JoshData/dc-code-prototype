@@ -18,7 +18,7 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>Acquire an equity interest in a profit-participation project, including a project funded through a loan from the universal bank, subject to § 26- 1401.13;</text>
+      <text>Acquire an equity interest in a profit-participation project, including a project funded through a loan from the universal bank, subject to § 26-1401.13;</text>
     </level>
     <level>
       <num>(5)</num>
@@ -58,7 +58,7 @@
     </level>
     <level>
       <num>(14)</num>
-      <text>Act as a broker-dealer, securities agent, investment adviser, investment adviser representative, insurance agent, or insurance broker, if otherwise qualified, upon obtaining a license from the Department of Insurance and Securities Regulation, subject to § 26-1401.15;</text>
+      <text>Act as a broker-dealer, securities agent, investment adviser, investment adviser representative, insurance agent, or insurance broker, if otherwise qualified, upon obtaining a license from the Department of Insurance and Securities Regulation [Department of Insurance, Securities, and Banking], subject to § 26-1401.15;</text>
     </level>
     <level>
       <num>(15)</num>
@@ -85,29 +85,35 @@
     <num>(b)</num>
     <text>With the approval of the Commissioner, a universal bank may securitize its assets for sale to the public. The Commissioner may establish procedures governing the exercise of authority granted under this subsection.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-308, § 209, 48 DCR 3244; June 11, 2004, D.C. Law 15-166, § 2(f), 51 DCR 2817; Apr. 13, 2005, D.C. Law 15-354, § 35(d), 52 DCR 2638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-166, in the introductory language of subsec. (a), deleted "of the Department of Insurance and Securities Regulation" following "Commissioner".</text>
-        <text>D.C. Law 15-354, in subsec. (a)(18), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(f) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-308, see notes following § 26-1401.01.</text>
-        <text>For Law 15-166, see notes following § 26-131.02.</text>
-        <text>For Law 15-354, see notes following § 26-551.05.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 26-1401.12, § 26-1401.13, and § 26-1401.15.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-166, in the introductory language of subsec. (a), deleted "of the Department of Insurance and Securities Regulation" following "Commissioner".</text>
+      <text>D.C. Law 15-354, in subsec. (a)(18), validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(f) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-308</heading>
+      <text>For Law 13-308, see notes following § 26-1401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-166</heading>
+      <text>For Law 15-166, see notes following § 26-131.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 26-551.05.</text>
     </level>
   </level>
 </level>

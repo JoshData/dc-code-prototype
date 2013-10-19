@@ -25,25 +25,31 @@
       <text>Attempts to evade or defeat in any way the tax or the payment thereof.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-305, § 403(b), 48 DCR 334; Mar. 14, 2007, D.C. Law 16-292, § 2(f), 54 DCR 1080; Mar. 25, 2009, D.C. Law 17-353, § 168(b), 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-292 substituted "spouse (including a domestic partner who files under § 47-1805.01(f))" for "spouse".</text>
-        <text>D.C. Law 17-353 validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-305, see notes under § 47-4201.</text>
-        <text>For Law 16-292, see notes following § 47-1801.04.</text>
-        <text>For Law 17-353, see notes following § 47-308.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-4211 and § 47-4478.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-292 substituted "spouse (including a domestic partner who files under § 47-1805.01(f))" for "spouse".</text>
+      <text>D.C. Law 17-353 validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-305</heading>
+      <text>For Law 13-305, see notes under § 47-4201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-292</heading>
+      <text>For Law 16-292, see notes following § 47-1801.04.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 47-308.</text>
     </level>
   </level>
 </level>

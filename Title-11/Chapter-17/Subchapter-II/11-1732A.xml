@@ -3,11 +3,13 @@
   <heading>Special rules for magistrate judges of the Family Court of the Superior Court and the Domestic Violence Unit.</heading>
   <level>
     <num>(a)</num>
-    <text><text i="True">Use of social workers in advisory merit selection panel.</text> -- The advisory selection merit panel used in the selection of magistrate judges for the Family Court of the Superior Court under section 11-1732(b) shall include certified social workers specializing in child welfare matters who are residents of the District and who are not employees of the District of Columbia Courts.</text>
+    <heading>Use of social workers in advisory merit selection panel</heading>
+    <text>The advisory selection merit panel used in the selection of magistrate judges for the Family Court of the Superior Court under section 11-1732(b) shall include certified social workers specializing in child welfare matters who are residents of the District and who are not employees of the District of Columbia Courts.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Special qualifications.</text> -- Notwithstanding section 11-1732(c), no individual shall be appointed or assigned as a magistrate judge for the Family Court of the Superior Court or as a magistrate judge for the Domestic Violence Unit handling actions or proceedings which would otherwise be under the jurisdiction of the Family Court unless that individual --</text>
+    <heading>Special qualifications</heading>
+    <text>Notwithstanding § 11-1732(c), no individual shall be appointed or assigned as a magistrate judge for the Family Court of the Superior Court or as a magistrate judge for the Domestic Violence Unit handling actions or proceedings which would otherwise be under the jurisdiction of the Family Court unless that individual -</text>
     <level>
       <num>(1)</num>
       <text>is a citizen of the United States;</text>
@@ -38,11 +40,13 @@
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Service of current hearing commissioners.</text> -- Those individuals serving as hearing commissioners under section 11-1732 on the effective date of this section who meet the qualifications described in subsection (b)(4) may request to be appointed as magistrate judges for the Family Court of the Superior Court under such section.</text>
+    <heading>Service of current hearing commissioners</heading>
+    <text>Those individuals serving as hearing commissioners under § 11-1732 on the effective date of this section [January 8, 2002], who meet the qualifications described in subsection (b)(4) may request to be appointed as magistrate judges for the Family Court of the Superior Court under such section.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Functions of family court and domestic violence unit magistrates.</text> -- A magistrate judge, when specifically designated by the chief judge in consultation with the appropriate presiding judge to serve in the Family Court or in the Domestic Violence Unit and subject to the rules of the Superior Court and the right of review under section 11-1732(k), may perform the following functions:</text>
+    <heading>Functions of Family Court and Domestic Violence Unit magistrates</heading>
+    <text>A magistrate judge, when specifically designated by the chief judge in consultation with the appropriate presiding judge to serve in the Family Court or in the Domestic Violence Unit and subject to the rules of the Superior Court and the right of review under section 11-1732(k), may perform the following functions:</text>
     <level>
       <num>(1)</num>
       <text>Administer oaths and affirmations and take acknowledgements.</text>
@@ -58,17 +62,22 @@
   </level>
   <level>
     <num>(e)</num>
-    <text><text i="True">Location of proceedings.</text> -- To the maximum extent feasible, safe, and practicable, magistrate judges of the Family Court of the Superior Court shall conduct proceedings at locations readily accessible to the parties involved.</text>
+    <heading>Location of proceedings</heading>
+    <text>To the maximum extent feasible, safe, and practicable, magistrate judges of the Family Court of the Superior Court shall conduct proceedings at locations readily accessible to the parties involved.</text>
   </level>
   <level>
     <num>(f)</num>
-    <text><text i="True">Training.</text> -- The chief judge, in consultation with the presiding judge of the Family Court of the Superior Court, shall ensure that all magistrate judges of the Family Court receive training to enable them to fulfill their responsibilities, including specialized training in family law and related matters.</text>
+    <heading>Training</heading>
+    <text>The chief judge, in consultation with the presiding judge of the Family Court of the Superior Court, shall ensure that all magistrate judges of the Family Court receive training to enable them to fulfill their responsibilities, including specialized training in family law and related matters.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Jan. 8, 2002, 115 Stat. 2113, Pub. L. 107-114, § 6(a).)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 11-1732.</text>
     </level>
   </level>
 </level>

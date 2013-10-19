@@ -3,50 +3,44 @@
   <heading>Dissolution by incorporators or initial directors.</heading>
   <text>A majority of the incorporators or initial directors of a corporation that has not issued shares or has not commenced business may dissolve the corporation by delivering to the Mayor for filing articles of dissolution that set forth:</text>
   <level>
+    <num>(1)</num>
+    <text>The name of the corporation;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>The date of its incorporation;</text>
+  </level>
+  <level>
+    <num>(3)</num>
     <level>
-      <num>(1)</num>
-      <text>The name of the corporation;</text>
+      <num>(A)</num>
+      <text>That none of the corporation's shares has been issued; or</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>The date of its incorporation;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <level>
-        <num>(A)</num>
-        <text>That none of the corporation's shares has been issued; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>That the corporation has not commenced business;</text>
-      </level>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>That no debt of the corporation remains unpaid;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>That the net assets of the corporation remaining after winding up have been distributed to the shareholders, if shares were issued; and</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>That a majority of the incorporators or initial directors authorized the dissolution.</text>
+      <num>(B)</num>
+      <text>That the corporation has not commenced business;</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(4)</num>
+    <text>That no debt of the corporation remains unpaid;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>That the net assets of the corporation remaining after winding up have been distributed to the shareholders, if shares were issued; and</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>That a majority of the incorporators or initial directors authorized the dissolution.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

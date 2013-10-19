@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-1903.13</num>
   <heading>Lien for assessments against units; priority; recordation not required; enforcement by sale; notice to delinquent owner and public; distribution of proceeds; power of executive board to purchase unit at sale; limitation; costs and attorneys' fees; statement of unpaid assessments; liability upon transfer of unit.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-1853</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any assessment levied against a condominium unit in accordance with the provisions of this chapter and any lawful provision of the condominium instruments shall, from the time the assessment becomes due and payable, constitute a lien in favor of the unit owners' association on the condominium unit to which the assessment pertains. If an assessment is payable in installments, the full amount of the assessment shall be a lien from the time the first installment becomes due and payable.</text>
@@ -23,7 +22,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The lien shall also be prior to a mortgage or deed of trust described in paragraph (1)(B) of this subsection and recorded after March 7, 1991, to the extent of the common expense assessments based on the periodic budget adopted by the unit owners' association which would have become due in the absence of acceleration during the 6 months immediately preceding institution of an action to enforce the lien. The provisions of this subsection shall not affect the priority of mechanics' or materialmen's lien.</text>
+      <text>The lien shall also be prior to a mortgage or deed of trust described in paragraph (1)(B) of this subsection and recorded after March 7, 1991, to the extent of the common expense assessments based on the periodic budget adopted by the unit owners' association which would have become due in the absence of acceleration during the 6 months immediately preceding institution of an action to enforce the lien. The immediately preceding institution of an action to enforce the lien. The provisions of this subsection shall not affect the priority of mechanics' or materialmen's lien.</text>
     </level>
   </level>
   <level>
@@ -97,29 +96,35 @@
     <num>(j)</num>
     <text>In addition to any other right or power conferred by this section, the executive board shall have the power to suspend the voting rights in the unit owners' association of any unit owner who is in arrears in his payment of a common expense assessment by more than 30 days, and the suspension may remain in effect until the assessment has been paid in full.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 29, 1977, D.C. Law 1-89, title III, § 313, 23 DCR 9532b; Mar. 8, 1991, D.C. Law 8-233, § 2(gg), 38 DCR 261; Mar. 20, 1992, D.C. Law 9-82, § 2(k), 39 DCR 683.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-1853.</text>
-        <text>1973 Ed., § 5-1253.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2(k) of Condominium Act of 1976 Technical and Clarifying Temporary Amendment Act of 1991 (D.C. Law 9-38, August 17, 1991, law notification 38 DCR 5805).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-89, see Historical and Statutory Notes following § 42-1901.01.</text>
-        <text>For legislative history of D.C. Law 8-233, see Historical and Statutory Notes following § 42-1901.07.</text>
-        <text>For legislative history of D.C. Law 9-82, see Historical and Statutory Notes following § 42-1901.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-1901.01, § 42-1902.02, and § 42-1904.11.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-1853.</text>
+      <text>1973 Ed., § 5-1253.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2(k) of Condominium Act of 1976 Technical and Clarifying Temporary Amendment Act of 1991 (D.C. Law 9-38, August 17, 1991, law notification 38 DCR 5805).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-89</heading>
+      <text>For legislative history of D.C. Law 1-89, see Historical and Statutory Notes following § 42-1901.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-233</heading>
+      <text>For legislative history of D.C. Law 8-233, see Historical and Statutory Notes following § 42-1901.07.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-82</heading>
+      <text>For legislative history of D.C. Law 9-82, see Historical and Statutory Notes following § 42-1901.01.</text>
     </level>
   </level>
 </level>

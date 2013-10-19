@@ -64,25 +64,31 @@
     <num>(d)</num>
     <text>The Mayor shall operate a computerized information system to collect, maintain, and distribute up-to-date information regarding the number of beds or units available in shelter and supportive housing in the District, the availability of supportive services, and the current usage and unmet demand for such beds, units, and services.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2005, D.C. Law 16-35, § 8, 52 DCR 8113; Mar. 14, 2007, D.C. Law 16-296, § 2(f), 54 DCR 1097; Apr. 8, 2011, D.C. Law 18-367, § 2(c), 58 DCR 987.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-296, in subsec. (c), added par. (1A).</text>
-        <text>D.C. Law 18-367, in subsec. (a)(2), substituted "§ 4-751.01(32), except that low-barrier shelters and severe weather shelters operating as low-barrier shelters shall not be required to receive demonstration of residency or prioritize District residents, pursuant to subsection (b) of this section; and " for " § 4-205.03"; added subsec. (a-1); and, in subsec. (b), substituted "for assistance. The District shall give priority, however, to an individual or family who establishes proof of residency and homelessness at the time of application for assistance" for "for assistance".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-35, see notes following § 4-751.01.</text>
-        <text>For Law 16-296, see notes following § 4-751.01.</text>
-        <text>For history of Law 18-367, see notes under § 4-751.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-752.02, § 4-754.21, and § 4-754.34.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-296, in subsec. (c), added par. (1A).</text>
+      <text>D.C. Law 18-367, in subsec. (a)(2), substituted "§ 4-751.01(32), except that low-barrier shelters and severe weather shelters operating as low-barrier shelters shall not be required to receive demonstration of residency or prioritize District residents, pursuant to subsection (b) of this section; and" for "§ 4-205.03"; added subsec. (a-1); and, in subsec. (b), substituted "for assistance. The District shall give priority, however, to an individual or family who establishes proof of residency and homelessness at the time of application for assistance" for "for assistance".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-35</heading>
+      <text>For Law 16-35, see notes following § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-296</heading>
+      <text>For Law 16-296, see notes following § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-367</heading>
+      <text>For history of Law 18-367, see notes under § 4-751.01.</text>
     </level>
   </level>
 </level>

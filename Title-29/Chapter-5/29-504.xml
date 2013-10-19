@@ -1,8 +1,6 @@
 <level type="section">
   <num>29-504</num>
-  <heading>Construction; applicability of Chapter 3 of this title to corporations organized under chapter.</heading>
-  <formerly-cited-as>DC ST 1981 § 29-604</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 29-404</formerly-cited-as>
+  <heading>Construction; applicability of Chapter 3 of this title to corporations organized under [this] chapter.</heading>
   <level>
     <num>(a)</num>
     <text>This chapter shall not repeal, modify, or restrict the laws relating to corporations, or regulating the professions covered by this chapter, unless these laws conflict with this chapter.</text>
@@ -11,28 +9,24 @@
     <num>(b)</num>
     <text>Except as otherwise provided in this chapter, Chapter 3 of this title shall apply to a professional corporation organized under this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 29-404.</text>
-        <text>1981 Ed., § 29-604.</text>
-        <text>1973 Ed., § 29-1104.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Former § 29-504 has been recodified as § 36-504.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 29-404.</text>
+      <text>1981 Ed., § 29-604.</text>
+      <text>1973 Ed., § 29-1104.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Former § 29-504 has been recodified as § 36-504.</text>
     </level>
   </level>
 </level>

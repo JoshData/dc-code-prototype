@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>A</num>
-  <heading>Legal Service.</heading>
+  <heading>General</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-608.51.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-608.52.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-608.53.xml"/>

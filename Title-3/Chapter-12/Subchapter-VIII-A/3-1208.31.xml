@@ -3,7 +3,7 @@
   <heading>Qualifications for licensure.</heading>
   <level>
     <num>(a)</num>
-    <text>The Board of Marriage and Family Therapy shall license as a marriage and family therapist a person who, in addition to meeting the requirements of subchapter V of this chapter and any requirements the Mayor may establish by rule, has:</text>
+    <text>The Board of Marriage and Family Therapy shall license as a marriage and family therapist a person who, in addition to meeting the requirements of subchapter V of this chapter [§ 3-1205.01 et seq.] and any requirements the Mayor may establish by rule, has:</text>
     <level>
       <num>(1)</num>
       <text>Satisfactorily completed the examination process;</text>
@@ -29,7 +29,7 @@
       <text>The course of study for any graduate degree shall include a minimum of 39 semester credits in the following areas:</text>
       <level>
         <num>(A)</num>
-        <text>Marriage and family studies -- 9 semester credit minimum. Studies in this area shall include:</text>
+        <text>Marriage and family studies - 9 semester credit minimum. Studies in this area shall include:</text>
         <level>
           <num>(i)</num>
           <text>Theoretical foundations, history, philosophy, etiology and contemporary conceptual directions of marriage and family therapy or marriage and family counseling;</text>
@@ -45,7 +45,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>Marriage and family therapy -- 9 semester credit minimum. Studies in this area shall include:</text>
+        <text>Marriage and family therapy - 9 semester credit minimum. Studies in this area shall include:</text>
         <level>
           <num>(i)</num>
           <text>The practice of marriage and family therapy related to theory, and a comprehensive survey and substantive understanding of the major models of marriage and family therapy or marriage and family counseling; and</text>
@@ -57,7 +57,7 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>Human development -- 9 semester credit minimum. Studies in this area shall include:</text>
+        <text>Human development - 9 semester credit minimum. Studies in this area shall include:</text>
         <level>
           <num>(i)</num>
           <text>Individual development and transitions across the life span;</text>
@@ -77,7 +77,7 @@
       </level>
       <level>
         <num>(D)</num>
-        <text>Psychological and mental health competency -- 6 semester credit minimum. Studies in this area shall include:</text>
+        <text>Psychological and mental health competency - 6 semester credit minimum. Studies in this area shall include:</text>
         <level>
           <num>(i)</num>
           <text>Psychopathology, including etiology, assessment, evaluation, and treatment of mental disorders, use of the current diagnostic and statistical manual of mental disorders, differential diagnosis, and multiaxial diagnosis;</text>
@@ -93,7 +93,7 @@
       </level>
       <level>
         <num>(E)</num>
-        <text>Professional ethics and identity -- 3 semester credit minimum. Studies in this area shall include:</text>
+        <text>Professional ethics and identity - 3 semester credit minimum. Studies in this area shall include:</text>
         <level>
           <num>(i)</num>
           <text>Professional identity, including professional socialization, professional organizations, training standards, credentialing bodies, licensure, certification, practice settings, and collaboration with other disciplines;</text>
@@ -109,7 +109,7 @@
       </level>
       <level>
         <num>(F)</num>
-        <text>Research -- 3 semester credit minimum. Studies in this area shall include:</text>
+        <text>Research - 3 semester credit minimum. Studies in this area shall include:</text>
         <level>
           <num>(i)</num>
           <text>Research in marriage and family therapy or marriage and family counseling and its application to working with couples and families; and</text>
@@ -137,23 +137,22 @@
       <text>Successful completion of at least 1000 hours of face-to-face contact with couples and families for the purpose of assessment and intervention, and 200 hours of supervision of marriage and family therapy, at least 100 of which are individual supervision.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1986, D.C. Law 6-99, § 831, 33 DCR 729, as added Mar. 10, 2004, D.C. Law 15-88, § 2(i), 50 DCR 10999; June 25, 2008, D.C. Law 17-177, § 6(b), 55 DCR 3696.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-177, in subsec. (b)(2)(C)(ii), substituted "sexual orientation, gender identity or expression" for "sexual orientation".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-88, see notes following § 3-1201.01.</text>
-        <text>For Law 17-177, see notes following § 3-1201.01.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-177, in subsec. (b)(2)(C)(ii), substituted "sexual orientation, gender identity or expression" for "sexual orientation".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-88</heading>
+      <text>For Law 15-88, see notes following § 3-1201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-177</heading>
+      <text>For Law 17-177, see notes following § 3-1201.01.</text>
     </level>
   </level>
 </level>

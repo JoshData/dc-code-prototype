@@ -1,7 +1,6 @@
 <level type="section">
   <num>34-2003</num>
   <heading>Universal Service Trust Fund.</heading>
-  <formerly-cited-as>DC ST 1981 § 43-1453</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Public Service Commission shall establish a Universal Service Trust Fund, and determine those services which shall constitute universal service in the District of Columbia, the costs of providing universal service, and the amount of subsidy needed to maintain the Universal Service Trust Fund. Any subsidy necessary to support universal service shall be separately funded out of the Universal Service Trust Fund, and administered by a Universal Service Trust Fund administrator named by the Public Service Commission.</text>
@@ -25,35 +24,44 @@
     <num>(d)</num>
     <text>The universal service subsidy derived from the Universal Service Trust Fund shall be available for eligible customers regardless of the local exchange carrier which the eligible customers choose to use.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 9, 1996, D.C. Law 11-154, § 4, 43 DCR 3736; June 5, 2008, D.C. Law 17-165, § 3(b), 55 DCR 5171; Sept. 24, 2010, D.C. Law 18-223, § 2224(c), 57 DCR 6242; Sept. 14, 2011, D.C. Law 19-21, § 2083, 58 DCR 6226.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 43-1453.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-165, in subsec. (b), substituted "local exchange carriers and Voice Over Internet Protocol Service providers" for "local exchange carriers", and substituted "LEC's share and Voice Over Internet Protocol Service provider's share" for "LEC's share".</text>
-        <text>D.C. Law 18-223, in subsec. (b), rewrote the second sentence which had read: "The determination of each LEC's share and Voice Over Internet Protocol Service provider's share shall be in proportion to each carrier's total revenues for local exchange services provided in the District during the previous year."</text>
-        <text>D.C. Law 19-21, in subsec. (b), designated the existing text as par. (1); in subsec. (b)(1), substituted "local exchange carriers ('LEC') and Voice Over" for "local exchange carriers and Voice Over"; and added subsec. (b)(2).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2224(c) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-154, see Historical and Statutory Notes following § 34-2001.</text>
-        <text>For Law 17-165, see notes following § 34-403.</text>
-        <text>For Law 18-223, see notes following § 34-706.</text>
-        <text>For history of Law 19-21, see notes under § 34-706.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 34-2002.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 43-1453.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-165, in subsec. (b), substituted "local exchange carriers and Voice Over Internet Protocol Service providers" for "local exchange carriers", and substituted "LEC's share and Voice Over Internet Protocol Service provider's share" for "LEC's share".</text>
+      <text>D.C. Law 18-223, in subsec. (b), rewrote the second sentence which had read: "The determination of each LEC's share and Voice Over Internet Protocol Service provider's share shall be in proportion to each carrier's total revenues for local exchange services provided in the District during the previous year."</text>
+      <text>D.C. Law 19-21, in subsec. (b), designated the existing text as par. (1); in subsec. (b)(1), substituted "local exchange carriers ('LEC') and Voice Over" for "local exchange carriers and Voice Over"; and added subsec. (b)(2).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2224(c) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-154</heading>
+      <text>For legislative history of D.C. Law 11-154, see Historical and Statutory Notes following § 34-2001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-165</heading>
+      <text>For Law 17-165, see notes following § 34-403.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 34-706.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 34-706.</text>
     </level>
   </level>
 </level>

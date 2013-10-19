@@ -2,27 +2,27 @@
   <num>7-771.02</num>
   <heading>Establishment of the Department of Health Care Finance.</heading>
   <text>Pursuant to § 1-204.04(b), there is established a Department of Health Care Finance as a separate, cabinet-level agency, subordinate to the Mayor, within the executive branch of the government of the District of Columbia.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 27, 2008, D.C. Law 17-109, § 3, 55 DCR 216.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 5014 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
-        <text>For temporary (90 day) addition of section, see § 5014 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-109, see notes following § 7-771.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>For Department of Health Care Finance reporting requirements to Council, see § 5014 of D.C. Law 19-168.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-771.01.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 5014 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
+      <text>For temporary (90 day) addition of section, see § 5014 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-109</heading>
+      <text>For Law 17-109, see notes following § 7-771.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>For Department of Health Care Finance reporting requirements to Council, see § 5013 of D.C. Law 19-168.</text>
     </level>
   </level>
 </level>

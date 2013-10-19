@@ -57,22 +57,22 @@
     <num>(g)</num>
     <text>The Chief shall provide to the licensed firearm dealers within the District information about how to obtain a copy of the California Roster of Handguns Certified for Sale and any revisions to it made the Chief.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 24, 1976, D.C. Law 1-85, title II, § 504, as added Mar. 31, 2009, D.C. Law 17-372, § 3(m), 56 DCR 1365.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 3(m) of Firearms Registration Emergency Amendment Act of 2008 (D.C. Act 17-651, January 6, 2009, 56 DCR 911).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-372, see notes following § 7-2501.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-2502.02.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 3(m) of Firearms Registration Emergency Amendment Act of 2008 (D.C. Act 17-651, January 6, 2009, 56 DCR 911).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-372</heading>
+      <text>For Law 17-372, see notes following § 7-2501.01.</text>
     </level>
   </level>
 </level>

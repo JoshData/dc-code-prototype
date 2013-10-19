@@ -3,7 +3,7 @@
   <heading>Officers.</heading>
   <level>
     <num>(a)</num>
-    <text>The officers of a nonprofit corporation shall be the individuals who hold the offices described in its articles of incorporation or bylaws or are appointed or elected in accordance with the articles and bylaws or as authorized by the board of directors. At a minimum, a nonprofit corporation shall have 2 separate officers, one responsible for the management of the corporation, who may be referred to as the "President" or by any other term used in its articles of incorporation or bylaws and another responsible for the financial affairs of the corporation, who may be referred to as the " Treasurer", or by any other term used in its articles of incorporation or bylaws.</text>
+    <text>The officers of a nonprofit corporation shall be the individuals who hold the offices described in its articles of incorporation or bylaws or are appointed or elected in accordance with the articles and bylaws or as authorized by the board of directors. At a minimum, a nonprofit corporation shall have 2 separate officers, one responsible for the management of the corporation, who may be referred to as the "President" or by any other term used in its articles of incorporation or bylaws and another responsible for the financial affairs of the corporation, who may be referred to as the "Treasurer", or by any other term used in its articles of incorporation or bylaws.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -13,18 +13,18 @@
     <num>(c)</num>
     <text>The same individual may simultaneously hold more than one office in a nonprofit corporation.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-401.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

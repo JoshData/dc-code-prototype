@@ -1,8 +1,6 @@
 <level type="section">
   <num>29-603.02</num>
   <heading>Transfer of partnership property.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-153.2</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-103.02</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Partnership property may be transferred as follows:</text>
@@ -39,27 +37,27 @@
     <num>(d)</num>
     <text>If a person holds all of the partners' interests in the partnership, all of the partnership property shall vest in that person. The person may execute a document in the name of the partnership to evidence vesting of the property in that person and may file or record the document.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 33-103.02.</text>
-        <text>1981 Ed., § 41-153.2.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 302 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-609.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 33-103.02.</text>
+      <text>1981 Ed., § 41-153.2.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 302 of the Uniform Partnership Act (1997 Act).</text>
     </level>
   </level>
 </level>

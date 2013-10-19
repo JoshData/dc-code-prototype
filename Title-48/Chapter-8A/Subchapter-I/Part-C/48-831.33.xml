@@ -17,18 +17,18 @@
     <num>(d)</num>
     <text>Beginning no later than October 1, 2005, a participating retail pharmacy shall offer the secondary discounted price, if available.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 18, 2004, D.C. Law 15-164, § 133, 51 DCR 3688.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-164, see notes following § 48-831.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 48-831.06, § 48-831.07, and § 48-831.10.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-164</heading>
+      <text>For Law 15-164, see notes following § 48-831.01.</text>
     </level>
   </level>
 </level>

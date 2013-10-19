@@ -72,7 +72,7 @@
         </level>
         <level>
           <num>(iii)</num>
-          <text>International banking facility time deposits as defined in § 47- 1801.04(31).</text>
+          <text>International banking facility time deposits as defined in § 47-1801.04(31).</text>
         </level>
       </level>
       <level>
@@ -121,16 +121,16 @@
       <level>
         <num>(B)</num>
         <text>Contracting in the District of Columbia with a banking institution engaged in the business of banking under the laws of the District of Columbia to acquire from or through such banking institution a part or the entire interest in:</text>
-        <level>
-          <num>(i)</num>
-          <text>A loan or evidence of debt which such banking institution has made, purchased, or acquired, or will make, purchase, or acquire, for its own account or otherwise; and</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>A like interest in any security and any security instrument proposed to be given, or previously or subsequently given, to secure or evidence such loan or evidence of debt;</text>
-        </level>
       </level>
     </level>
+  </level>
+  <level>
+    <num>(i)</num>
+    <text>A loan or evidence of debt which such banking institution has made, purchased, or acquired, or will make, purchase, or acquire, for its own account or otherwise; and</text>
+  </level>
+  <level>
+    <num>(ii)</num>
+    <text>A like interest in any security and any security instrument proposed to be given, or previously or subsequently given, to secure or evidence such loan or evidence of debt;</text>
     <level>
       <num>(2)</num>
       <text>Enforcing in the District of Columbia obligations previously or subsequently acquired by it in the transaction of business outside the District of Columbia or in the transaction of business authorized by this section; or</text>
@@ -140,23 +140,26 @@
       <text>Acquiring, holding, leasing, mortgaging, contracting with respect to, or otherwise protecting or conveying property in the District of Columbia previously or subsequently assigned, transferred, mortgaged, or conveyed to it as security for, or in whole or part satisfaction of, a loan made by it or an obligation acquired by it in the transaction of business outside the District of Columbia or in the transaction of business authorized by this section.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 3, 2001, D.C. Law 13-268, § 6, 48 DCR 1251; Oct. 19, 2002, D.C. Law 14-213, § 17, 49 DCR 8140.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-213, in subsec. (b)(2)(B)(iii), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-268, see notes following § 26-631.</text>
-        <text>For Law 14-213, see notes following § 26-131.02.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 26-631 and § 26-634.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-213, in subsec. (b)(2)(B)(iii), validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-268</heading>
+      <text>For Law 13-268, see notes following § 26-631.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-213</heading>
+      <text>For Law 14-213, see notes following § 26-131.02.</text>
     </level>
   </level>
 </level>

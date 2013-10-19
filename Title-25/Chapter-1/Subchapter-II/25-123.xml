@@ -19,20 +19,20 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>The provisions of §§ 25-725, 25-741 (a) and (b), 25-742, and 25-753 shall apply to a farm winery retail license.</text>
+    <text>The provisions of §§ 25-725, 25-741(a) and (b), 25-742, and 25-753 shall apply to a farm winery retail license.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 18, 2008, D.C. Law 17-201, § 2(f), 55 DCR 6289.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-201, see notes following § 25-101.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary addition of a section designated as § 25-124, concerning wine pub permit requirements and qualifications, see § 2(g) of the Omnibus Alcoholic Beverage Regulation Emergency Amendment Act of 2012 (D.C. Act 19-597, January 14, 2013, 60 DCR 1001).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-201</heading>
+      <text>For Law 17-201, see notes following § 25-101.</text>
     </level>
   </level>
 </level>

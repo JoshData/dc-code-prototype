@@ -13,18 +13,14 @@
     <num>(c)</num>
     <text>The Office shall assess civil penalties in all cases where the Office determines that an employer or employment agency has committed a violation of this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 31, 2012, D.C. Law 19-132, § 6, 59 DCR 2391.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-132, see notes under § 32-1361.</text>
-      </level>
+      <heading>Legislative History of Law 19-132</heading>
+      <text>For history of Law 19-132, see notes under § 32-1361.</text>
     </level>
   </level>
 </level>

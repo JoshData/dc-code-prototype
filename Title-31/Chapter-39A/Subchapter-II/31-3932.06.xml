@@ -33,18 +33,14 @@
     <num>(f)</num>
     <text>The obligation to repay principal or interest, or both, on the securities issued by the SPFC shall reflect the risk associated with the obligations of the SPFC to the counterparty under the SPFC contract.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 17, 2005, D.C. Law 15-262, § 206, as added Mar. 14, 2007, D.C. Law 16-285, § 2(b), 54 DCR 944.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-285, see notes following § 31-3932.01.</text>
-      </level>
+      <heading>Legislative History of Law 16-285</heading>
+      <text>For Law 16-285, see notes following § 31-3932.01.</text>
     </level>
   </level>
 </level>

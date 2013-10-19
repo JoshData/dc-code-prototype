@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-3302.02</num>
   <heading>Special rules for network plans.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1023</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A health insurer that offers health insurance coverage in the individual market may:</text>
@@ -26,30 +25,26 @@
     <num>(b)</num>
     <text>A health insurer, upon denying health insurance coverage in the District of Columbia in accordance with subsection (a)(2) of this section, may not offer coverage in the individual market within such service area for a period of 180 days after such coverage is denied.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 13, 1999, D.C. Law 12-209, § 202, 45 DCR 8433.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1023.</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>See Historical and Statutory Notes following § 31-3301.01.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>See notes to § 31-3301.01.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-209, see Historical and Statutory Notes following § 31-3301.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1023.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>See Historical and Statutory Notes following § 31-3301.01.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>See notes to § 31-3301.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-209</heading>
+      <text>For legislative history of D.C. Law 12-209, see Historical and Statutory Notes following § 31-3301.01.</text>
     </level>
   </level>
 </level>

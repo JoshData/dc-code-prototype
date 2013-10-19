@@ -1,47 +1,54 @@
 <level type="section">
   <num>16-571</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-571</formerly-cited-as>
-  <text>For purposes of this subchapter --</text>
+  <text>For purposes of this subchapter -</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The term "wages" means compensation paid or payable for personal services whether denominated as wages, salary, commission, bonus, or otherwise, and includes periodic payments pursuant to a pension or retirement program.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The term "disposable wages" means that part of the earnings of any individual remaining after the deduction from those earnings of any amounts required by law to be withheld.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The term "garnishment" means any legal or equitable procedure through which the wages of any individual are required to be withheld for payment of any debt.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The term "domestic partner" shall have the same meaning as provided in § 32-701(3).</text>
-    </level>
+    <num>(1)</num>
+    <text>The term "wages" means compensation paid or payable for personal services whether denominated as wages, salary, commission, bonus, or otherwise, and includes periodic payments pursuant to a pension or retirement program.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The term "disposable wages" means that part of the earnings of any individual remaining after the deduction from those earnings of any amounts required by law to be withheld.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The term "garnishment" means any legal or equitable procedure through which the wages of any individual are required to be withheld for payment of any debt.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The term "domestic partner" shall have the same meaning as provided in § 32-701(3).</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, 77 Stat. 554, Pub. L. 88-241, § 1; Dec. 17, 1971, 85 Stat. 678, Pub. L. 92-200, § 5; Apr. 4, 2006, D.C. Law 16-79, § 4(a), 53 DCR 1035.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-571.</text>
-        <text>1973 Ed., § 16-571.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-79 added par. (4).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 16-79, the "Domestic Partnership Equality Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-52 which was referred to the Committee on Judiciary. The Bill was adopted on first and second readings on December 6, 2005, and January 4, 2006, respectively. Signed by the Mayor on January 26, 2006, it was assigned Act No. 16-265 and transmitted to both Houses of Congress for its review. D.C. Law 16-79 became effective on April 4, 2006.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>District of Columbia employees, attachment and garnishment of wages, see § 1-507.</text>
+      <text>Work release program participants, exemption of wages from attachment and garnishment, see § 24-241.06.</text>
+      <text>Child support enforcement, income withholding, see § 46-208.</text>
+      <text>District of Columbia fiscal management, capital improvements, authorization of lease-purchase financing, see § 1-204.90.</text>
+      <text>Fraudulent conveyances, remedies of creditors, see § 28-3107.</text>
+      <text>Seizures of personal property, exemptions, "earnings" defined, see § 15-503.</text>
+      <text>Superior Court of the District of Columbia, jurisdiction, see § 11-921.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 15-503, § 16-512, and § 16-582.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-571.</text>
+      <text>1973 Ed., § 16-571.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-79 added par. (4).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-79</heading>
+      <text>Law 16-79, the "Domestic Partnership Equality Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-52 which was referred to the Committee on Judiciary. The Bill was adopted on first and second readings on December 6, 2005, and January 4, 2006, respectively. Signed by the Mayor on January 26, 2006, it was assigned Act No. 16-265 and transmitted to both Houses of Congress for its review. D.C. Law 16-79 became effective on April 4, 2006.</text>
     </level>
   </level>
 </level>

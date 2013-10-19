@@ -2,19 +2,18 @@
   <num>1-306.38</num>
   <heading>Zoning Commission powers.</heading>
   <text>Nothing in this part shall require the Zoning Commission to grant or deny an application for a zoning density increase.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 10, 1984, D.C. Law 5-76, § 3, 31 DCR 1049; Apr. 27, 1999, D.C. Law 12-275, § 2(a), 41 DCR 1499.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 5-76, see notes following § 1-306.31.</text>
-        <text>For Law 12-275, see notes following § 1-306.31.</text>
-      </level>
+      <heading>Legislative History of Law 5-76</heading>
+      <text>For Law 5-76, see notes following § 1-306.31.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-275</heading>
+      <text>For Law 12-275, see notes following § 1-306.31.</text>
     </level>
   </level>
 </level>

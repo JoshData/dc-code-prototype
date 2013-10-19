@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-2853.04</num>
   <heading>Regulated non-health related occupations and professions.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-2853.4</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The following non-health related occupations and professions have been determined to require regulation in order to protect public health, safety or welfare, or to assure the public that persons engaged in such occupations or professions have the specialized skills or training required to perform the services offered:</text>
@@ -23,7 +22,7 @@
     </level>
     <level>
       <num>(4A)</num>
-      <text>Body Artist.</text>
+      <text>Body Artist;</text>
     </level>
     <level>
       <num>(5)</num>
@@ -67,7 +66,7 @@
     </level>
     <level>
       <num>(12C)</num>
-      <text>Elevator Inspector;</text>
+      <text>Elevator Inspector.</text>
     </level>
     <level>
       <num>(13)</num>
@@ -183,15 +182,15 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Notaries public shall be regulated by the Mayor, as provided in § 1- 1201.</text>
+      <text>Notaries public shall be regulated by the Mayor, as provided in § 1-1201.</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>Principals, teachers, and other instructional employees of the District of Columbia public schools shall be regulated by the Superintendent of Schools of the District of Columbia as delegated by the Board of Education, pursuant to § 38-105, and teachers and instructional employees of the University of the District of Columbia ("University") by the Board of Trustees of the University pursuant to §§ 38-1202.01 and 38-1202.06 and § 38-1202.11.</text>
+      <text>Principals, teachers, and other instructional employees of the District of Columbia public schools shall be regulated by the Superintendent of Schools of the District of Columbia as delegated by the Board of Education, pursuant to § 38-105 [repealed], and teachers and instructional employees of the University of the District of Columbia ("University") by the Board of Trustees of the University pursuant to §§ 38-1202.01 and 38-1202.06 and § 38-1202.11.</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>Insurance agents and brokers, securities agents and brokers, and investment advisers shall be regulated by the Department of Insurance and Securities Regulation, as provided in subchapter I of Chapter 1 of Title 31, Chapter 36 of Title 3, and Chapter 37 of Title 3.</text>
+      <text>Insurance agents and brokers, securities agents and brokers, and investment advisers shall be regulated by the Department of Insurance and Securities Regulation, as provided in subchapter I of Chapter 1 of Title 31, Chapter 36 of Title 3, and Chapter 37 [repealed] of Title 3.</text>
     </level>
     <level>
       <num>(5)</num>
@@ -203,7 +202,7 @@
     </level>
     <level>
       <num>(7)</num>
-      <text>Special police, security alarm agents and private correctional officers shall be regulated by the Metropolitan Police Department as provided in § 5- 129.02; § 7-2805; and subchapter VII of Chapter 2 of Title 24.</text>
+      <text>Special police, security alarm agents and private correctional officers shall be regulated by the Metropolitan Police Department as provided in § 5-129.02; § 7-2805; and subchapter VII of Chapter 2 of Title 24.</text>
     </level>
     <level>
       <num>(8)</num>
@@ -222,40 +221,45 @@
       <text>Funeral directors shall be regulated by the Mayor in accordance with Chapter 4 of Title 3.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 20, 1999, D.C. Law 12-261, § 1002, 46 DCR 3142; Mar. 3, 2010, D.C. Law 18-111, § 2151(b), 57 DCR 181; Sept. 26, 2012, D.C. Law 19-171, § 121, 59 DCR 6190; Oct. 23, 2012, D.C. Law 19-193, § 3(c), 59 DCR 10388.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-2853.4.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-111, in subsec. (a), deleted "and" from the end of par. (36); substituted "; and" for a period at the end of par. (37), and added pars. (38) to (40).</text>
-        <text>D.C. Law 19-171 redesignated subsecs. (a)(38) to (40) as subsecs. (a)(12A) to (12C).</text>
-        <text>D.C. Law 19-193 added subsec. (a)(4A).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2151(b) of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
-        <text>For temporary (90 day) amendment of section, see § 2151(b) of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
-        <text>For Law 18-111, see notes following § 47-305.02.</text>
-        <text>For history of Law 19-171, see notes under § 47-369.01.</text>
-        <text>For history of Law 19-193, see notes under § 47-2809.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 2150 of D.C. Law 18-111 provided that subtitle P of title II of the act may be cited as the "Elevator Maintenance Standards and Licensing Act of 2009".</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-2853.4.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-111, in subsec. (a), deleted "and" from the end of par. (36); substituted "; and" for a period at the end of par. (37), and added pars. (38) to (40).</text>
+      <text>The 2012 amendment by D.C. Law 19-171 redesignated (a)(38), (a)(39), and (a)(40) as (a)(12A), (12B), and (12C), respectively.</text>
+      <text>The 2012 amendment by D.C. Law 19-193 added (a)(4A).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2151(b) of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
+      <text>For temporary (90 day) amendment of section, see § 2151(b) of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-261</heading>
+      <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-111</heading>
+      <text>For Law 18-111, see notes following § 47-305.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-193</heading>
+      <text>Law 19-193, the "Regulation of Body Artists and Body Art Establishments Act of 2012," was introduced in Council and assigned Bill No. 19-221. The Bill was adopted on first and second readings on June 5, 2012, and July 10, 2012, respectively. Signed by the Mayor on August 17, 2012, it was assigned Act No. 19-448 and transmitted to Congress for its review. D.C. Law 19-193 became effective on Oct. 23, 2012.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 2150 of D.C. Law 18-111 provided that subtitle P of title II of the act may be cited as the "Elevator Maintenance Standards and Licensing Act of 2009".</text>
     </level>
   </level>
 </level>

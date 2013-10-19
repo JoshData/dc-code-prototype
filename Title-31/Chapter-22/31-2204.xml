@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-2204</num>
   <heading>Requirements for trust agreement.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-4404</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The deed of trust and all amendments thereto shall be authenticated in such form and manner as the Commissioner may prescribe and shall not be effective unless approved by the Commissioner upon a finding that:</text>
@@ -24,7 +23,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>The Commissioner may from time to time approve modifications of, or variations in any deed of trust, which in the Commissioner's judgement are not prejudicial to the interest of the people of the District or the United States policyholders and creditors of the U.S. Branch.</text>
+    <text>The Commissioner may from time to time approve modifications of, or variations in any deed of trust, which in the Commissioner's judgment are not prejudicial to the interest of the people of the District or the United States policyholders and creditors of the U.S. Branch.</text>
   </level>
   <level>
     <num>(d)</num>
@@ -94,23 +93,26 @@
     <num>(h)</num>
     <text>Refusal or neglect of any trustee to comply with the requirements of this section shall be grounds for the revocation of the insurer's license or the liquidation of its United States Branch.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 24, 1996, D.C. Law 11-128, § 5, 43 DCR 1562; Mar. 24, 1998, D.C. Law 12-81, § 45(c), 45 DCR 745.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-4404.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-128, see Historical and Statutory Notes following § 31-2201.</text>
-        <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 31-2201.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-2202, § 31-2205, and § 31-2306.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-4404.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-128</heading>
+      <text>For legislative history of D.C. Law 11-128, see Historical and Statutory Notes following § 31-2201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-81</heading>
+      <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 31-2201.</text>
     </level>
   </level>
 </level>

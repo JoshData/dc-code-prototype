@@ -25,22 +25,22 @@
     <num>(f)</num>
     <text>The books and records of the Commission shall be public documents.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 2003, D.C. Law 14-237, § 4, 49 DCR 10485.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 1-173.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-237, see notes following § 1-151.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-173.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 1-173.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-237</heading>
+      <text>For Law 14-237, see notes following § 1-151.</text>
     </level>
   </level>
 </level>

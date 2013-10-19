@@ -1,47 +1,59 @@
 <level type="section">
   <num>22-3005</num>
   <heading>Fourth degree sexual abuse.</heading>
-  <formerly-cited-as>DC ST 1981 § 22-4105</formerly-cited-as>
-  <text>A person shall be imprisoned for not more than 5 years and, in addition, may be fined in an amount not to exceed $50,000, if that person engages in or causes sexual contact with or by another person in the following manner:</text>
+  <text>A person shall be imprisoned for not more than 5 years and, in addition, may be fined not more than the amount set forth in § 22-3571.01, if that person engages in or causes sexual contact with or by another person in the following manner:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>By threatening or placing that other person in reasonable fear (other than by threatening or placing that other person in reasonable fear that any person will be subjected to death, bodily injury, or kidnapping); or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Where the person knows or has reason to know that the other person is:</text>
-      <level>
-        <num>(A)</num>
-        <text>Incapable of appraising the nature of the conduct;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Incapable of declining participation in that sexual contact; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Incapable of communicating unwillingness to engage in that sexual contact.</text>
-      </level>
-    </level>
+    <num>(1)</num>
+    <text>By threatening or placing that other person in reasonable fear (other than by threatening or placing that other person in reasonable fear that any person will be subjected to death, bodily injury, or kidnapping); or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Where the person knows or has reason to know that the other person is:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(May 23, 1995, D.C. Law 10-257, § 204, 42 DCR 53; June 3, 1997, D.C. Law 11-275, § 13(d), 44 DCR 1408.)</text>
+      <num>(A)</num>
+      <text>Incapable of appraising the nature of the conduct;</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 22-4105.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-257, see Historical and Statutory Notes following § 22-3001.</text>
-        <text>For legislative history of D.C. Law 11-275, see Historical and Statutory Notes following § 22-3002.</text>
-      </level>
+      <num>(B)</num>
+      <text>Incapable of declining participation in that sexual contact; or</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Incapable of communicating unwillingness to engage in that sexual contact.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(May 23, 1995, D.C. Law 10-257, § 204, 42 DCR 53; June 3, 1997, D.C. Law 11-275, § 13(d), 44 DCR 1408; June 11, 2013, D.C. Law 19-317, § 232(d), 60 DCR 2064.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 23-113 and § 24-112.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 22-4105.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-317 substituted "not more than the amount set forth in § 22-3571.01" for "in an amount not to exceed $50,000" in the introductory paragraph.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-257</heading>
+      <text>For legislative history of D.C. Law 10-257, see Historical and Statutory Notes following § 22-3001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-275</heading>
+      <text>For legislative history of D.C. Law 11-275, see Historical and Statutory Notes following § 22-3002.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-317</heading>
+      <text>See note to § 22-3002.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
     </level>
   </level>
 </level>

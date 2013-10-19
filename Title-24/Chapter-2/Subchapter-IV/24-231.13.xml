@@ -1,7 +1,6 @@
 <level type="section">
   <num>24-231.13</num>
   <heading>Annual report; annual inventory.</heading>
-  <formerly-cited-as>DC ST 1981 § 24-458.13</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Director shall provide the Mayor and the Council with an annual report on the prison industries program and the Fund no later than December 1 of each year for the fiscal year ending September 30 of the preceding year.</text>
@@ -38,22 +37,18 @@
     <num>(c)</num>
     <text>The Department shall prepare an annual inventory listing prison industries program equipment and materials on hand at the beginning and end of each fiscal year.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 8, 1996, D.C. Law 11-117, § 14, 43 DCR 1179.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 24-458.13.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-117, see Historical and Statutory Notes following § 24-231.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 24-458.13.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-117</heading>
+      <text>For legislative history of D.C. Law 11-117, see Historical and Statutory Notes following § 24-231.01.</text>
     </level>
   </level>
 </level>

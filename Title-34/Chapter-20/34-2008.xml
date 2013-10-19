@@ -1,7 +1,6 @@
 <level type="section">
   <num>34-2008</num>
   <heading>Implementation policy.</heading>
-  <formerly-cited-as>DC ST 1981 § 43-1458</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>In the implementation of this chapter, it shall be the policy of the District government to promote the hiring, education, and training of District residents in every facet of telecommunications endeavor in the District.</text>
@@ -12,38 +11,40 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>Nothing in this chapter shall be construed to contravene any provision in the federal Telecommunications Act of 1996 passed by the U.S. Congress in January and signed into law by President Clinton in February or to be inconsistent with the findings of the PSC in a proceeding pursuant to § 34- 2002(k).</text>
+    <text>Nothing in this chapter shall be construed to contravene any provision in the federal Telecommunications Act of 1996 passed by the U.S. Congress in January and signed into law by President Clinton in February or to be inconsistent with the findings of the PSC in a proceeding pursuant to § 34-2002(k).</text>
   </level>
   <level>
     <num>(d)</num>
     <text>Two years after June 5, 2008, the People's Counsel shall issue a report on the effect of the absence of local regulation of Voice Over Internet Protocol Service telecommunications service in the District of Columbia. The report shall be a general analysis of the impacts and effects of the VOIP act on consumers. The report shall also include an examination of the market availability of Voice Over Internet Protocol Service technology to consumers.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 9, 1996, D.C. Law 11-154, § 10, 43 DCR 3736; Mar. 24, 1998, D.C. Law 12-81, § 52, 45 DCR 745; June 5, 2008, D.C. Law 17-165, § 3(d), 55 DCR 5171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 43-1458.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-165 added subsec. (d).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-154, see Historical and Statutory Notes following § 34-2001.</text>
-        <text>Law 12-81, the "Technical Amendments Act of 1998," was introduced in Council and assigned Bill No. 12-408, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 4, 1997, and December 4, 1997, respectively. Signed by the Mayor on December 22, 1997, it was assigned Act No. 12-246 and transmitted to both Houses of Congress for its review. D.C. Law 12-81 became effective on March 24, 1998.</text>
-        <text>For Law 17-165, see notes following § 34-403.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>The federal Telecommunications Act of 1996, referred to in (c), is Pub. L. 104- 104, which is codified throughout Title 47 of the United States Code.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 43-1458.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-165 added subsec. (d).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-154</heading>
+      <text>For legislative history of D.C. Law 11-154, see Historical and Statutory Notes following § 34-2001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-81</heading>
+      <text>Law 12-81, the "Technical Amendments Act of 1998," was introduced in Council and assigned Bill No. 12-408, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 4, 1997, and December 4, 1997, respectively. Signed by the Mayor on December 22, 1997, it was assigned Act No. 12-246 and transmitted to both Houses of Congress for its review. D.C. Law 12-81 became effective on March 24, 1998.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-165</heading>
+      <text>For Law 17-165, see notes following § 34-403.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>The federal Telecommunications Act of 1996, referred to in (c), is Pub. L. 104-104, which is codified throughout Title 47 of the United States Code.</text>
     </level>
   </level>
 </level>

@@ -57,18 +57,14 @@
     <num>(d)</num>
     <text>An individual licensed to practice naturopathic medicine under this chapter may use the titles "Doctor of Naturopathic Medicine", "Naturopathic Physician", "Licensed Naturopath", "Naturopathic Doctor", "Doctor of Naturopathy", "Naturopath", or the initials "ND" or an "NMD".</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 25, 1986, D.C. Law 6-99, § 621, as added July 8, 2004, D.C. Law 15- 172, § 2(g), 51 DCR 4938.)</text>
+      <heading>History</heading>
+      <text>(Mar. 25, 1986, D.C. Law 6-99, § 621, as added July 8, 2004, D.C. Law 15-172, § 2(g), 51 DCR 4938.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-172, see notes following § 3-1201.02.</text>
-      </level>
+      <heading>Legislative History of Law 15-172</heading>
+      <text>For Law 15-172, see notes following § 3-1201.02.</text>
     </level>
   </level>
 </level>

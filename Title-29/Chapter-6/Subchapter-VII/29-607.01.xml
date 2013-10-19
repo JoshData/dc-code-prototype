@@ -1,15 +1,13 @@
 <level type="section">
   <num>29-607.01</num>
   <heading>Purchase of dissociated partner's interest.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-157.1</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-107.01</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>If a partner is dissociated from a partnership without resulting in a dissolution and winding up of the partnership business under § 29-608.01, the partnership shall cause the dissociated partner's interest in the partnership to be purchased for a buyout price determined pursuant to subsection (b) of this section.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>The buyout price of a dissociated partner's interest shall be the amount that would have been distributable to the dissociating partner under § 29- 608.07(b) if, on the date of dissociation, the assets of the partnership were sold at a price equal to the greater of the liquidation value or the value based on a sale of the entire business as a going concern without the dissociated partner and the partnership were wound up as of that date. Interest shall be paid from the date of dissociation to the date of payment.</text>
+    <text>The buyout price of a dissociated partner's interest shall be the amount that would have been distributable to the dissociating partner under § 29-608.07(b) if, on the date of dissociation, the assets of the partnership were sold at a price equal to the greater of the liquidation value or the value based on a sale of the entire business as a going concern without the dissociated partner and the partnership were wound up as of that date. Interest shall be paid from the date of dissociation to the date of payment.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -55,27 +53,27 @@
     <num>(i)</num>
     <text>A dissociated partner may maintain an action against the partnership, pursuant to § 29-604.05(b)(2)(B), to determine the buyout price of that partner's interest, any offsets under subsection (c) of this section, or other terms of the obligation to purchase. The action shall be commenced within 120 days after the partnership has tendered payment or an offer to pay or within one year after written demand for payment if no payment or offer to pay is tendered. The court shall determine the buyout price of the dissociated partner's interest, any offset due under subsection (c) of this section, and accrued interest, and enter judgment for any additional payment or refund. If deferred payment is authorized under subsection (h) of this section, the court shall also determine the security for payment and other terms of the obligation to purchase. The court may assess reasonable attorneys' fees and the fees and expenses of appraisers or other experts for a party to the action, in amounts the court finds equitable, against a party that the court finds acted arbitrarily, vexatiously, or not in good faith. The finding may be based on the partnership's failure to tender payment or an offer to pay or to comply with subsection (g) of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 41-157.1.</text>
-        <text>2001 Ed., § 33-107.01.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 701 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-601.09.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 41-157.1.</text>
+      <text>2001 Ed., § 33-107.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 701 of the Uniform Partnership Act (1997 Act).</text>
     </level>
   </level>
 </level>

@@ -123,18 +123,14 @@
       <text>Deposit in the escrow account an amount of cash equal to all entrance fees or any other fees or deposits that may be applied toward the entrance fee received by the provider.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 5, 2005, D.C. Law 15-270, § 109, 52 DCR 799.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-270, see notes following § 44-151.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-270</heading>
+      <text>For Law 15-270, see notes following § 44-151.01.</text>
     </level>
   </level>
 </level>

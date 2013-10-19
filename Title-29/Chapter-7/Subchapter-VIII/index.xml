@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>VIII</num>
-  <heading>Dissolution.</heading>
+  <heading>Dissolution</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-708.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-708.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-708.03.xml"/>
@@ -11,4 +11,6 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-708.07.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-708.08.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-708.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-708.10.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-708.11.xml"/>
 </level>

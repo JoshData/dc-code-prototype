@@ -1,21 +1,20 @@
 <level type="section">
   <num>1-1206</num>
   <heading>Exemption from execution.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-806</formerly-cited-as>
   <text>A notary's official seal and his official documents shall be exempt from execution.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1901, 31 Stat. 1279, ch. 854, § 564.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-806.</text>
-        <text>1973 Ed., § 1-507.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-1217.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-806.</text>
+      <text>1973 Ed., § 1-507.</text>
     </level>
   </level>
 </level>

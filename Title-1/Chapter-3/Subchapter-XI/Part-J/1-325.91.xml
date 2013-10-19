@@ -13,37 +13,41 @@
     <num>(c)</num>
     <text>The Solid Waste Disposal Cost Recovery Special Account shall be used to defray the expenses of operating, maintaining, and improving the District's solid waste transfer facilities, and to dispose of solid waste delivered to those facilities.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 18, 2007, D.C. Law 17-20, § 6013, 54 DCR 7052; Sept. 14, 2011, D.C. Law 19-21, § 9099, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 8006, 59 DCR 8025.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-21, in subsec. (a), substituted "lapsing" for "nonlapsing"; and, in subsec. (b), substituted "be used for the purposes set forth in subsection (c) of this section. Any monies not expended at the end of a fiscal year shall revert to the unrestricted fund balance of the General Fund of the District of Columbia." for "not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (c) of this section without regard to fiscal year limitation, subject to authorization by Congress."</text>
-        <text>D.C. Law 19-168, in subsec. (a), substituted "nonlapsing" for "lapsing"; and, in subsec. (b), substituted "not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (c) of this section without regard to fiscal year limitation, subject to authorization by Congress." for "be used for the purposes set forth in subsection (c) of this section. Any monies not expended at the end of a fiscal year shall revert to the unrestricted fund balance of the General Fund of the District of Columbia."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 6013 of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
-        <text>For temporary (90 day) amendment of section, see § 8006 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
-        <text>For temporary (90 day) amendment of section, see § 8006 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 17-20, the "Fiscal Year 2008 Budget Support Act of 2007", was introduced in Council and assigned Bill No. 17-148 which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 15, 2007, and June 5, 2007, respectively. Signed by the Mayor on June 28, 2007, it was assigned Act No. 17-63 and transmitted to both Houses of Congress for its review. D.C. Law 17-20 became effective on September 18, 2007.</text>
-        <text>For history of Law 19-21, see notes under § 1-301.01.</text>
-        <text>For history of Law 19-168, see notes under § 1-137.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 6011 of D.C. Law 17-20 provided that subtitle B of title VI of the act may be cited as the "Solid Waste Disposal Cost Recovery Act of 2007".</text>
-        <text>Section 8010 of D.C. Law 19-168 provides:</text>
-        <text>"Sections 8002, 8003, 8004, 8005, 8006, and 8007 shall apply as of September 14, 2011."</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 19-21, in subsec. (a), substituted "lapsing" for "nonlapsing"; and, in subsec. (b), substituted "be used for the purposes set forth in subsection (c) of this section. Any monies not expended at the end of a fiscal year shall revert to the unrestricted fund balance of the General Fund of the District of Columbia." for "not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (c) of this section without regard to fiscal year limitation, subject to authorization by Congress."</text>
+      <text>The 2012 amendment by D.C. Law 19-168 substituted "nonlapsing" for "lapsing" in (a); and in (b), substituted "not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (c) of this section without regard to fiscal year limitation, subject to authorization by Congress" for "be used for the purposes set forth in subsection (c) of this section" and deleted the former second sentence, which read: "Any monies not expended at the end of a fiscal year shall revert to the unrestricted fund balance of the General Fund of the District of Columbia."</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 6013 of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
+      <text>For temporary (90 day) amendment of section, see § 8006 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
+      <text>For temporary (90 day) amendment of section, see § 8006 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-20</heading>
+      <text>Law 17-20, the "Fiscal Year 2008 Budget Support Act of 2007", was introduced in Council and assigned Bill No. 17-148 which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 15, 2007, and June 5, 2007, respectively. Signed by the Mayor on June 28, 2007, it was assigned Act No. 17-63 and transmitted to both Houses of Congress for its review. D.C. Law 17-20 became effective on September 18, 2007.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 1-301.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>Law 19-168, the "Fiscal Year 2013 Budget Support Act of 2012," was introduced in Council and assigned Bill No. 19-743. The Bill was adopted on first and second readings on May 15, 2012, and June 5, 2012, respectively. Signed by the Mayor on June 22, 2012, it was assigned Act No. 19-385 and transmitted to Congress for its review. D.C. Law 19-168 became effective on September 20, 2012.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 6011 of D.C. Law 17-20 provided that subtitle B of title VI of the act may be cited as the "Solid Waste Disposal Cost Recovery Act of 2007".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 8010 of D.C. Law 19-168 provided that §§ 8002, 8003, 8004, 8005, 8006, and 8007 of the act shall apply as of September 14, 2011.</text>
     </level>
   </level>
 </level>

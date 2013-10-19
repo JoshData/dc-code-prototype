@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-903.06</num>
   <heading>Annual audit.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-782.6</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The examination performed by the independent qualified public accountant engaged pursuant to § 1-732(a)(3)(A) shall be conducted in accordance with generally accepted auditing standards and shall involve such tests of the books and records of the Funds and the Retirement Program as are considered necessary by the accountant. The independent qualified public accountant shall also offer his opinion as to whether the separate schedules required by subsection (b) of this section and the summary material required under § 1-907.03 present fairly, in all material respects, the information contained therein when considered in conjunction with the financial statements taken as a whole. The opinion by the independent qualified public accountant shall be made a part of the annual report required pursuant to § 1-907.02. In offering his opinion, the accountant may rely on the correctness of any actuarial matter certified to by an enrolled actuary if he so states his reliance.</text>
@@ -69,26 +68,22 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 18, 1998, D.C. Law 12-152, § 116, 45 DCR 4045.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-782.6.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-152, see Historical and Statutory Notes following § 1-901.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Application of Law 12-152: See Historical and Statutory Notes following § 1- 901.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-782.6.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-152</heading>
+      <text>For legislative history of D.C. Law 12-152, see Historical and Statutory Notes following § 1-901.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 12-152: See Historical and Statutory Notes following § 1-901.01.</text>
     </level>
   </level>
 </level>

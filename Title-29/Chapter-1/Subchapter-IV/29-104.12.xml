@@ -7,14 +7,14 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>If an entity that delivered to the Mayor for filing a registered-agent filing no longer has a registered agent, or if its registered agent cannot with reasonable diligence be served, the entity may be served by registered or certified mail, return receipt requested, or by similar commercial delivery service, addressed to the governors of the entity by name at its principal office in accordance with any applicable judicial rules and procedures. The names of the governors and the address of the principal office may be as shown in the most recent biennial report filed with the Mayor. Service shall be effective under this subsection on the earliest of:</text>
+    <text>If a represented entity ceases to have a registered agent, or if its registered agent cannot with reasonable diligence be served, the entity may be served by registered or certified mail, return receipt requested, or by similar commercial delivery service, addressed to the entity at its principal office in accordance with any applicable judicial rules and procedures. The address of the principal office shall be shown as in the entity's most recent biennial report filed by the Mayor. Service shall be effective under this subsection on the earliest of:</text>
     <level>
       <num>(1)</num>
       <text>The date that the entity receives the mail or delivery by a similar commercial delivery service;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>The date shown on the return receipt, if signed on behalf of the entity; or</text>
+      <text>The date shown on the return receipt, if signed by the entity; or</text>
     </level>
     <level>
       <num>(3)</num>
@@ -23,11 +23,11 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>Service may be made by handing a copy of the process, notice, or demand to an officer of the entity, a managing or general agent of the entity, or any other agent authorized by appointment or by law to receive service of process for the entity if the individual served is not a plaintiff in the action.</text>
+    <text>Service may be made by handing a copy of the process, notice, or demand to an officer of the entity, a managing or general agent of the entity, or any other agent authorized by designation or by law to receive service of process for the entity if the individual served is not a plaintiff in the action.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text>If a represented entity fails to appoint or maintain a registered agent in the District as required by law, or if a represented entity's registered agent in the District cannot with reasonable diligence be found, and if the person seeking service submits a declaration under penalty of making false statements showing that a registered agent for the represented entity cannot be found, the Mayor shall be an agent of the entity upon whom any process against the entity may be served and upon whom any notice or demand required or permitted by law to be served upon the entity may be served. Service on the Mayor of the process, notice, or demand shall be made by delivering or leaving with the Mayor, or his designee, duplicate copies of the process, notice, or demand. If any process, notice, or demand is so served, the Mayor shall immediately cause one of the copies to be forwarded by registered or certified mail to the entity at its principal office or at its last known address.</text>
+    <text>If an entity fails to designate or maintain a registered agent in the District as required by law, or if an entity's registered agent in the District cannot with reasonable diligence be found, and if the person seeking service submits a declaration under penalty of making false statements showing that a registered agent for the entity cannot be found, the Mayor shall be an agent of the entity upon whom any process against the entity may be served and upon whom any notice or demand required or permitted by law to be served upon the entity may be served. Service on the Mayor of the process, notice, or demand shall be made by delivering or leaving with the Mayor, or his designee, duplicate copies of the process, notice, or demand. If any process, notice, or demand is so served, the Mayor shall immediately cause one of the copies to be forwarded by registered or certified mail to the entity at its principal office or at its last known address.</text>
   </level>
   <level>
     <num>(e)</num>
@@ -37,18 +37,35 @@
     <num>(f)</num>
     <text>Service of process, notice, or demand may be made by other means under law other than this title.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(a)(26), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Withdrawal of foreign filing entity that has converted to a foreign nonfiling entity, see § 29-105.09.</text>
+      <text>Administrative dissolution, reinstatement, see § 29-106.03.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-104.05, § 29-104.06, § 29-104.09, § 29-105.07, § 29-105.09, § 29-106.02, § 29-106.03, § 29-106.04, § 29-202.06, § 29-204.06, § 29-205.06, § 29-307.05, § 29-309.07, § 29-609.03, § 29-809.05, § 29-809.09, § 29-1015.05, § 29-1015.06, § 29-1126, and § 29-1207.05.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 in rewrote the introductory language of (b); substituted "by" for "on behalf of" in (b)(2); substituted "designation" for "appointment" in (c); and in rewrote the first sentence in (d).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-101.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

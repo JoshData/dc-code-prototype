@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-609.54</num>
   <heading>Employment-at-will.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-610.54</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>An appointment to a position in the Management Supervisory Service shall be an at-will appointment. Management Supervisory Service employees shall be given a 15-day notice prior to termination. Upon termination, a person with Career or Educational Service status, or with Excepted Service status due to appointment as an attorney pursuant to § 1-609.09, may retreat, at the discretion of the personnel authority, within 3 months of the effective date of the termination, to a vacant position within the agency to which he or she was promoted for which he or she is qualified.</text>
@@ -9,48 +8,46 @@
   <level>
     <num>(b)</num>
     <text>An individual appointed to the Management Supervisory Service pursuant to this section may be paid severance pay upon separation for non-disciplinary reasons according to the length of the individual's employment with the District government as follows:</text>
+    <level type="form">
+      <text/>
+      <text>
+ 
+ Length of Employment <span style="font-weight: bold; ">Maximum Severance 
+ </span>
+ Up to 6 months 2 weeks of the employee's basic pay 
+ 
+ 6 months to 1 year 4 weeks of the employee's basic pay 
+ 
+ 1 to 3 years 8 weeks of the employee's basic pay 
+ 
+ More than 3 years 10 weeks of the employee's basic pay.</text>
+    </level>
   </level>
-  <text>
-    <text font="'monospace'"> Length of Employment Maximum Severance </text>
-  </text>
-  <text>
-    <text font="'monospace'"> Up to 6 months 2 weeks of the employee's basic pay </text>
-  </text>
-  <text>
-    <text font="'monospace'"> 6 months to 1 year 4 weeks of the employee's basic pay </text>
-  </text>
-  <text>
-    <text font="'monospace'"> 1 to 3 years 8 weeks of the employee's basic pay </text>
-  </text>
-  <text>
-    <text font="'monospace'"> More than 3 years 10 weeks of the employee's basic pay.</text>
-  </text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-139, § 954, as added June 10, 1998, D.C. Law 12-124, § 101(k), 45 DCR 2464; Mar. 14, 2012, D.C. Law 19-115, § 2(f), 59 DCR 461.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-610.54.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-115 repealed subsec. (b), which formerly read:</text>
-        <text>"(b) Employees appointed to the Management Supervisory Service shall be given severance pay in accordance with subchapter XI of this chapter upon separation for non-disciplinary reasons."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-124, see Historical and Statutory Notes following § 1-603.01.</text>
-        <text>For history of Law 19-115, see notes under § 1-608.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Applicability of § 101(k) of D.C. Law 12-124: See Historical and Statutory Notes following § 1-609.51.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-610.54.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 19-115 repealed subsec. (b), which formerly read:</text>
+      <text>"(b) Employees appointed to the Management Supervisory Service shall be given severance pay in accordance with subchapter XI of this chapter upon separation for non-disciplinary reasons."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-124</heading>
+      <text>For legislative history of D.C. Law 12-124, see Historical and Statutory Notes following § 1-603.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-115</heading>
+      <text>For history of Law 19-115, see notes under § 1-608.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of § 101(k) of D.C. Law 12-124: See Historical and Statutory Notes following § 1-609.51.</text>
     </level>
   </level>
 </level>

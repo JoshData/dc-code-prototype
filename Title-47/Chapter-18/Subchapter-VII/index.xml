@@ -1,14 +1,11 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>VII</num>
-  <heading>Tax on Corporations and Financial Institutions.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 47, Ch. 18, Subch. VII, Refs &amp; Annos</text>
-  </level>
+  <heading>Tax on Corporations and Financial Institutions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.02a~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.03~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.04.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.05.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.06.xml"/>

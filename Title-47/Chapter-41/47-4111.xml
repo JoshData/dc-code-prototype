@@ -35,7 +35,7 @@
   </level>
   <level>
     <num>(c-2)</num>
-    <text>The Mayor may pay an amount which he or she may consider appropriate for information to achieve the purposes set forth in subsection (a)(1) or (a)(s) of this section. No person, in the absence of express authority from the Mayor, shall make an offer, promise, or contract, or otherwise bind the Mayor, with respect to such payments or the amount thereof.</text>
+    <text>The Mayor may pay an amount which he or she may consider appropriate for information to achieve the purposes set forth in subsection (a)(1) or (a)(s) [<span style="font-style: italic; ">sic</span>] of this section. No person, in the absence of express authority from the Mayor, shall make an offer, promise, or contract, or otherwise bind the Mayor, with respect to such payments or the amount thereof.</text>
   </level>
   <level>
     <num>(c-3)</num>
@@ -61,23 +61,22 @@
     <num>(d)</num>
     <text>The Mayor may promulgate regulations to carry out the purpose of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-305, § 402(b), 48 DCR 334; Oct. 19, 2002, D.C. Law 14-213, § 33(aa), 49 DCR 8140.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-213, in subsecs. (a)(2) and (c-1)(2), validated previously made technical corrections.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-305, see notes following § 47-901.</text>
-        <text>For Law 14-213, see notes following § 47-820.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-213, in subsecs. (a)(2) and (c-1)(2), validated previously made technical corrections.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-305</heading>
+      <text>For Law 13-305, see notes following § 47-901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-213</heading>
+      <text>For Law 14-213, see notes following § 47-820.</text>
     </level>
   </level>
 </level>

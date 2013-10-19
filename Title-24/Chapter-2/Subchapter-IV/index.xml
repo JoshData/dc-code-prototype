@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>IV</num>
-  <heading>Prison Industries.</heading>
-  <level>
-    <text>DC CODE D. IV, T. 24, Ch. 2, Subch. IV, Refs &amp; Annos</text>
-  </level>
+  <heading>Prison Industries</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-231.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-231.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-231.03.xml"/>

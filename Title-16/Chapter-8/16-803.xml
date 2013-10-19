@@ -3,26 +3,54 @@
   <heading>Sealing of public criminal records in other cases.</heading>
   <level>
     <num>(a)</num>
-    <text>A person arrested for, or charged with, the commission of an eligible misdemeanor pursuant to the District of Columbia Official Code or the District of Columbia Municipal Regulations whose prosecution has been terminated without conviction may file a motion to seal the publicly available records of the arrest and related court proceedings if:</text>
     <level>
       <num>(1)</num>
-      <text>A period of at least 2 years has elapsed since the termination of the case; and</text>
+      <text>A person arrested for, or charged with, the commission of an eligible Municipal Regulations whose prosecution has been terminated without conviction may file a motion to seal the publicly available records of the arrest and related court proceedings if:</text>
+      <level>
+        <num>(A)</num>
+        <text>A waiting period of at least 2 years has elapsed since the termination of the case; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Except as permitted by paragraph (2) of this subsection, the movant does not have a disqualifying arrest or conviction.</text>
+      </level>
     </level>
     <level>
       <num>(2)</num>
-      <text>The movant does not have a disqualifying arrest or conviction.</text>
+      <level>
+        <num>(A)</num>
+        <text>If a period of at least 5 years has elapsed since the completion of the movant's sentence for a disqualifying misdemeanor conviction in the District of Columbia or for a conviction in any jurisdiction for an offense that involved conduct that would constitute a disqualifying misdemeanor conviction if committed in the District, the conviction shall not disqualify the movant from filing a motion to seal an arrest and related court proceedings under this subsection for a case that was terminated without conviction before or after the disqualifying misdemeanor conviction, except when the case terminated without a conviction as a result of the successful completion of a deferred sentencing agreement.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>If a period of at least 10 years has elapsed since the completion of the movant's sentence for a disqualifying felony conviction in the District of Columbia or for a conviction in any jurisdiction for an offense that involved conduct that would constitute a disqualifying felony conviction if committed in the District, the conviction shall not disqualify the movant from filing a motion to seal an arrest and related court proceedings under this subsection for a case that was terminated without conviction before or after the disqualifying felony conviction, except when the case terminated without conviction as the result of the successful completion of a deferred sentencing agreement.</text>
+      </level>
     </level>
   </level>
   <level>
     <num>(b)</num>
-    <text>A person arrested for, or charged with, the commission of any other offense pursuant to the District of Columbia Official Code or the District of Columbia Municipal Regulations whose prosecution has been terminated without conviction may file a motion to seal the publicly available records of the arrest and related court proceedings if:</text>
     <level>
       <num>(1)</num>
-      <text>A period of at least 5 years has elapsed since the termination of the case; and</text>
+      <text>A person arrested for, or charged with, the commission of any other offense pursuant to the District of Columbia Official Code of the District of Columbia Municipal Regulations whose prosecution has been terminated without conviction may file a motion to seal the publicly available records of the arrest and court proceedings if:</text>
+      <level>
+        <num>(A)</num>
+        <text>A waiting period of at least 4 years has elapsed since the termination of the case or, if the case was terminated before charging by the prosecution, a waiting period of at least 3 years has elapsed since the termination of the case; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Except as permitted by paragraph (2) of this subsection, the movant does not have a disqualifying arrest or conviction.</text>
+      </level>
     </level>
     <level>
       <num>(2)</num>
-      <text>The movant does not have a disqualifying arrest or conviction.</text>
+      <level>
+        <num>(A)</num>
+        <text>If a period of at least 5 years has elapsed since the completion of the movant's sentence for a disqualifying misdemeanor conviction in the District of Columbia or for a conviction in any jurisdiction for an offense that involved conduct that would constitute a disqualifying misdemeanor conviction if committed in the District, the conviction shall not disqualify the movant from filing a motion to seal an arrest and related court proceedings under this subsection for a case that was terminated without conviction before or after the disqualifying misdemeanor conviction, except when the case terminated without a conviction as a result of the successful completion of a deferred sentencing agreement.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>If a period of at least 10 years has elapsed since the completion of the movant's sentence for a disqualifying felony conviction in the District of Columbia or for a conviction in any jurisdiction for an offense that involved conduct that would constitute a disqualifying felony conviction if committed in the District, the conviction shall not disqualify the movant from filing a motion to seal an arrest and related court proceedings under this subsection for a case that was terminated without conviction before or after the disqualifying felony conviction, except when the case terminated without conviction as the result of the successful completion of a deferred sentencing agreement.</text>
+      </level>
     </level>
   </level>
   <level>
@@ -30,7 +58,7 @@
     <text>A person who has been convicted of an eligible misdemeanor or an eligible felony pursuant to the District of Columbia Official Code or the District of Columbia Municipal Regulations may file a motion to seal the publicly available records of the arrest, related court proceedings, and conviction if:</text>
     <level>
       <num>(1)</num>
-      <text>A period of at least 10 years has elapsed since the completion of the movant's sentence; and</text>
+      <text>A waiting period of at least 8 years has elapsed since the completion of the movant's sentence; and</text>
     </level>
     <level>
       <num>(2)</num>
@@ -42,6 +70,10 @@
     <text>A person convicted of an offense that was decriminalized after the date of the conviction may file a motion to seal the publicly available records of the arrest, related court proceedings, and conviction.</text>
   </level>
   <level>
+    <num>(c-2)</num>
+    <text>A person to whom a District of Columbia arrest has been attributed, who attests under oath that he or she was incorrectly identified or named, may file a motion to seal publicly available records of the arrest if the law enforcement agency did not take fingerprints at the time of the arrest and no other form of reliable identification was presented by the person who was arrested.</text>
+  </level>
+  <level>
     <num>(d)</num>
     <text>The waiting periods in subsections (a), (b), and (c) of this section, before which a motion to seal cannot be filed, must be satisfied with respect to all of the movant's arrests and convictions unless the movant waives in writing the right to seek sealing of an arrest or conviction as to which the prescribed waiting period has not elapsed.</text>
   </level>
@@ -51,7 +83,7 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>The movant must seek to seal all eligible arrests and convictions in the same proceeding unless the movant waives in writing the right to seek sealing with respect to a particular conviction or arrest.</text>
+    <text>In a motion filed under subsections (a), (b), or (c) of this section, the movant must seek to seal all eligible arrests and convictions in the same proceeding unless the movant waives in writing the right to seek sealing with respect to a particular conviction or arrest.</text>
   </level>
   <level>
     <num>(g)</num>
@@ -89,146 +121,154 @@
       <level>
         <num>(C)</num>
         <text>The history and characteristics of the movant, including the movant's:</text>
-        <level>
-          <num>(i)</num>
-          <text>Character;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Physical and mental condition;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Employment history;</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>Prior and subsequent conduct;</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>History relating to drug or alcohol abuse or dependence and treatment opportunities;</text>
-        </level>
-        <level>
-          <num>(vi)</num>
-          <text>Criminal history; and</text>
-        </level>
-        <level>
-          <num>(vii)</num>
-          <text>Efforts at rehabilitation;</text>
-        </level>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>The number of the arrests or convictions that are the subject of the motion;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>The time that has elapsed since the arrests or convictions that are the subject of the motion;</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Whether the movant has previously obtained sealing or comparable relief under this section or any other provision of law other than by reason of actual innocence; and</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>Any statement made by the victim of the offense.</text>
       </level>
     </level>
   </level>
   <level>
     <num>(i)</num>
-    <level>
-      <num>(1)</num>
-      <text>In a motion filed under subsection (a) of this section, the burden shall be on the prosecutor to establish by a preponderance of the evidence that it is not in the interests of justice to grant relief.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>In a motion filed under subsection (b) of this section, the burden shall be on the movant to establish by a preponderance of the evidence that it is in the interests of justice to grant relief.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>In a motion filed under subsection (c) of this section, the burden shall be on the movant to establish by clear and convincing evidence that it is in the interests of justice to grant relief.</text>
-    </level>
+    <text>Character;</text>
   </level>
   <level>
-    <num>(j)</num>
-    <text>A motion to seal made pursuant to this section may be dismissed without prejudice to permit the movant to renew the motion after further passage of time. The Court may set a waiting period before a renewed motion can be filed.</text>
+    <num>(ii)</num>
+    <text>Physical and mental condition;</text>
   </level>
   <level>
-    <num>(k)</num>
-    <text>A motion to seal made pursuant to this section may be dismissed if it appears that the movant has unreasonably delayed filing the motion and that the government has been prejudiced in its ability to respond to the motion by the delay in its filing, unless the movant shows that the motion is based on grounds which the person could not have raised by the exercise of reasonable diligence before the circumstances prejudicial to the government occurred.</text>
+    <num>(iii)</num>
+    <text>Employment history;</text>
   </level>
   <level>
-    <num>(l)</num>
-    <text>If the Court grants the motion to seal:</text>
-    <level>
-      <num>(1)</num>
-      <level>
-        <num>(A)</num>
-        <text>The Court shall order the prosecutor, any law enforcement agency, and any pretrial, corrections, or community supervision agency to remove from their publicly available records all references that identify the movant as having been arrested, prosecuted, or convicted.</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The prosecutor's office and agencies shall be entitled to retain any and all records relating to the movant's arrest and conviction in a nonpublic file.</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The prosecutor, any law enforcement agency, and any pretrial, corrections, or community supervision agency office shall file a certification with the Court within 90 days that, to the best of its knowledge and belief, all references that identify the movant as having been arrested, prosecuted, or convicted have been removed from its publicly available records.</text>
-      </level>
-    </level>
-    <level>
-      <num>(2)</num>
-      <level>
-        <num>(A)</num>
-        <text>The Court shall order the Clerk to remove or eliminate all publicly available Court records that identify the movant as having been arrested, prosecuted, or convicted.</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The Clerk shall be entitled to retain any and all records relating to the movant's arrest, related court proceedings, or conviction in a nonpublic file.</text>
-      </level>
-    </level>
-    <level>
-      <num>(3)</num>
-      <level>
-        <num>(A)</num>
-        <text>In a case involving co-defendants in which the Court orders the movant's records sealed, the Court may order that only those records, or portions thereof, relating solely to the movant be redacted.</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The Court need not order the redaction of references to the movant that appear in a transcript of court proceedings involving co-defendants.</text>
-      </level>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The Court shall not order the redaction of the movant's name from any published opinion of the trial or appellate courts that refer to the movant.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Unless otherwise ordered by the Court, the Clerk and any other agency shall reply in response to inquiries from the public concerning the existence of records which have been sealed pursuant to this chapter that no records are available.</text>
-    </level>
+    <num>(iv)</num>
+    <text>Prior and subsequent conduct;</text>
   </level>
   <level>
-    <num>(m)</num>
-    <text>No person as to whom such relief has been granted shall be held thereafter under any provision of law to be guilty of perjury or otherwise giving a false statement by reason of failure to recite or acknowledge his or her arrest, charge, trial, or conviction in response to any inquiry made of him or her for any purpose except that the sealing of records under this provision does not relieve a person of the obligation to disclose the sealed arrest or conviction in response to any direct question asked in connection with jury service or in response to any direct question contained in any questionnaire or application for a position with any person, agency, organization, or entity defined in § 16-801(11).</text>
+    <num>(v)</num>
+    <text>History relating to drug or alcohol abuse or dependence and treatment opportunities;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(vi)</num>
+    <text>Criminal history; and</text>
+  </level>
+  <level>
+    <num>(vii)</num>
+    <text>Efforts at rehabilitation;</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(May 5, 2007, D.C. Law 16-307, § 2(b), 54 DCR 868; Oct. 22, 2012, D.C. Law 19-183, § 3, 59 DCR 9429.)</text>
+      <num>(D)</num>
+      <text>The number of the arrests or convictions that are the subject of the motion;</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <num>(E)</num>
+      <text>The time that has elapsed since the arrests or convictions that are the subject of the motion;</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>Whether the movant has previously obtained sealing or comparable relief under this section or any other provision of law other than by reason of actual innocence; and</text>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>Any statement made by the victim of the offense.</text>
       <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-183 added subsec. (c-1).</text>
+        <num>(i)</num>
+        <level>
+          <num>(1)</num>
+          <text>In a motion filed under subsection (a) of this section, the burden shall be on the prosecutor to establish by a preponderance of the evidence that it is not in the interests of justice to grant relief.</text>
+        </level>
+        <level>
+          <num>(2)</num>
+          <text>In a motion filed under subsection (b) of this section, the burden shall be on the movant to establish by a preponderance of the evidence that it is in the interests of justice to grant relief.</text>
+        </level>
+        <level>
+          <num>(3)</num>
+          <text>In a motion filed under subsection (c) of this section, the burden shall be on the movant to establish by clear and convincing evidence that it is in the interests of justice to grant relief.</text>
+        </level>
       </level>
       <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-307, see notes following § 16-801.</text>
-        <text>Law 19-183, the "Criminal Penalty for Unregistered Motorist Repeal Amendment Act of 2012", was introduced in Council and assigned Bill No. 19-552, which was referred to the Committee on Environment, Public Works and Transportation. The Bill was adopted on first and second readings on June 5, 2012, and July 10, 2012, respectively. Signed by the Mayor on July 31, 2012, it was assigned Act No. 19-436 and transmitted to both Houses of Congress for its review. D.C. Law 19-183 became effective on October 22, 2012.</text>
+        <num>(j)</num>
+        <text>A motion to seal made pursuant to this section may be dismissed without prejudice to permit the movant to renew the motion after further passage of time. The Court may set a waiting period before a renewed motion can be filed.</text>
       </level>
+      <level>
+        <num>(k)</num>
+        <text>A motion to seal made pursuant to this section may be dismissed if it appears that the movant has unreasonably delayed filing the motion and that the government has been prejudiced in its ability to respond to the motion by the delay in its filing, unless the movant shows that the motion is based on grounds which the person could not have raised by the exercise of reasonable diligence before the circumstances prejudicial to the government occurred.</text>
+      </level>
+      <level>
+        <num>(l)</num>
+        <text>If the Court grants the motion to seal:</text>
+        <level>
+          <num>(1)</num>
+          <level>
+            <num>(A)</num>
+            <text>The Court shall order the prosecutor, any law enforcement agency, and any pretrial, corrections, or community supervision agency to remove from their publicly available records all references that identify the movant as having been arrested, prosecuted, or convicted.</text>
+          </level>
+          <level>
+            <num>(B)</num>
+            <text>The prosecutor's office and agencies shall be entitled to retain any and all records relating to the movant's arrest and conviction in a nonpublic file.</text>
+          </level>
+          <level>
+            <num>(C)</num>
+            <text>The prosecutor, any law enforcement agency, and any pretrial, corrections, or community supervision agency office shall file a certification with the Court within 90 days that, to the best of its knowledge and belief, all references that identify the movant as having been arrested, prosecuted, or convicted have been removed from its publicly available records.</text>
+          </level>
+        </level>
+        <level>
+          <num>(2)</num>
+          <level>
+            <num>(A)</num>
+            <text>The Court shall order the Clerk to remove or eliminate all publicly available Court records that identify the movant as having been arrested, prosecuted, or convicted.</text>
+          </level>
+          <level>
+            <num>(B)</num>
+            <text>The Clerk shall be entitled to retain any and all records relating to the movant's arrest, related court proceedings, or conviction in a nonpublic file.</text>
+          </level>
+        </level>
+        <level>
+          <num>(3)</num>
+          <level>
+            <num>(A)</num>
+            <text>In a case involving co-defendants in which the Court orders the movant's records sealed, the Court may order that only those records, or portions thereof, relating solely to the movant be redacted.</text>
+          </level>
+          <level>
+            <num>(B)</num>
+            <text>The Court need not order the redaction of references to the movant that appear in a transcript of court proceedings involving co-defendants.</text>
+          </level>
+        </level>
+        <level>
+          <num>(4)</num>
+          <text>The Court shall not order the redaction of the movant's name from any published opinion of the trial or appellate courts that refer to the movant.</text>
+        </level>
+        <level>
+          <num>(5)</num>
+          <text>Unless otherwise ordered by the Court, the Clerk and any other agency shall reply in response to inquiries from the public concerning the existence of records which have been sealed pursuant to this chapter that no records are available.</text>
+        </level>
+      </level>
+      <level>
+        <num>(m)</num>
+        <text>No person as to whom such relief has been granted shall be held thereafter under any provision of law to be guilty of perjury or otherwise giving a false statement by reason of failure to recite or acknowledge his or her arrest, charge, trial, or conviction in response to any inquiry made of him or her for any purpose except that the sealing of records under this provision does not relieve a person of the obligation to disclose the sealed arrest or conviction in response to any direct question asked in connection with jury service or in response to any direct question contained in any questionnaire or application for a position with any person, agency, organization, or entity defined in § 16-801(11).</text>
+      </level>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(May 5, 2007, D.C. Law 16-307, § 2(b), 54 DCR 868; Oct. 22, 2012, D.C. Law 19-183, § 3, 59 DCR 9429; June 15, 2013, D.C. Law 19-319, § 4(b), 60 DCR 2333.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-804 and § 16-806.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-183 added (c-1).</text>
+      <text>The 2013 amendment by D.C. Law 19-319 rewrote (a) and (b); substituted "a waiting period of at least 8 years" for "a waiting period of at least 10 years" in (c)(1); added (c-2); and added "In a motion filed under subsections (a), (b), or (c) of this section" in (f).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-307</heading>
+      <text>For Law 16-307, see notes following § 16-801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-183</heading>
+      <text>Law 19-183, the "Criminal Penalty for Unregistered Motorist Repeal Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-552. The Bill was adopted on first and second readings on June 5, 2012, and July 10, 2012, respectively. Signed by the Mayor on July 31, 2012, it was assigned Act No. 19-436 and transmitted to Congress for its review. D.C. Law 19-183 became effective on Oct. 22, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-319</heading>
+      <text>See note to § 16-801.</text>
     </level>
   </level>
 </level>

@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Subpart</prefix>
+  <num>A</num>
+  <heading>In General</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2A-501.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2A-502.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2A-503.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2A-504.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2A-505.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2A-506.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2A-507.xml"/>
+</level>

@@ -1,11 +1,11 @@
 <level type="toc">
   <prefix>Title</prefix>
   <num>46</num>
-  <heading>Domestic Relations.</heading>
+  <heading>Domestic Relations</heading>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>I</num>
-    <heading>General.</heading>
+    <heading>General</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3/index.xml"/>
@@ -16,7 +16,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>II</num>
-    <heading>Repealed Provisions.</heading>
+    <heading>Repealed Provisions</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-7/index.xml"/>
   </level>
 </level>

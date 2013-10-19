@@ -1,7 +1,6 @@
 <level type="section">
   <num>30-103</num>
   <heading>Sale of unclaimed personal property; application of proceeds.</heading>
-  <formerly-cited-as>DC ST 1981 § 34-103</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -48,19 +47,19 @@
       <text>Any amount remaining after the application provided for by subparagraphs (A) and (B) of paragraph (1) of this subsection shall be paid to the party entitled to the remainder if that party is known and can be located. If that party is not known or cannot be located within one year after the date of the sale, the establishment shall pay, within a reasonable time, the remainder to the government of the District of Columbia.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 8, 1970, 84 Stat. 1396, Pub. L. 91-537, § 3.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 34-103.</text>
-        <text>1973 Ed., § 34-108.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 41-115.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 34-103.</text>
+      <text>1973 Ed., § 34-108.</text>
     </level>
   </level>
 </level>

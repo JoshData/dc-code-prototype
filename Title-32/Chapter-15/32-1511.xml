@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-1511</num>
   <heading>Determination of average weekly wage.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-311</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as otherwise provided in this chapter, the average weekly wage of the injured employee at the time of the injury shall be taken as the basis upon which to compute compensation and shall be determined as follows:</text>
@@ -34,28 +33,30 @@
     <num>(b)</num>
     <text>The terms "average weekly wage" and "total wages" as used in this section shall include reasonable value for board and lodging received from the employer plus gratuities declared for tax purposes by the employee.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 1, 1980, D.C. Law 3-77, § 12, 27 DCR 2503; Apr. 16, 1999, D.C. Law 12-229, § 2(f), 46 DCR 891; Oct. 14, 1999, D.C. Law 13-49, § 12(c), 46 DCR 5153.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-311.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-49 in subsec. (a)(6) inserted the phrase "divided by 26 weeks," after the phrase "salary,".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
-        <text>For legislative history of D.C. Law 12-229, see Historical and Statutory Notes following § 32-1501.</text>
-        <text>For Law 13-49, see notes following § 32-1501.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-311.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-49 in subsec. (a)(6) inserted the phrase "divided by 26 weeks," after the phrase "salary,".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-77</heading>
+      <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-229</heading>
+      <text>For legislative history of D.C. Law 12-229, see Historical and Statutory Notes following § 32-1501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-49</heading>
+      <text>For Law 13-49, see notes following § 32-1501.</text>
     </level>
   </level>
 </level>

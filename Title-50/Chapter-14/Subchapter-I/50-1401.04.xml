@@ -21,18 +21,14 @@
     <num>(e)</num>
     <text>For the purposes of this section, "document" means any printed material, including a letter, notice, bill, receipt, driver's permit, registration card, title, insurance card, passport, picture identification, birth certificate, currency, credit card, check, or copy of the same.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1925, ch. 443, § 8b, as added Mar. 14, 2007, D.C. Law 16-279, § 202(e), 54 DCR 903.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-279, see notes following § 50-312.</text>
-      </level>
+      <heading>Legislative History of Law 16-279</heading>
+      <text>For Law 16-279, see notes following § 50-312.</text>
     </level>
   </level>
 </level>

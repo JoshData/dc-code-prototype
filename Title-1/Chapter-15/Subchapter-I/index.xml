@@ -1,20 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>1975.</heading>
-  <level>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Miscellaneous Notes</heading>
-          <text>Pursuant to section 3 of D.C. Law 18-115, the name of the Office of Property Management was changed to the Department of Real Estate Services.</text>
-          <text>DC CODE D. I, T. 1, Ch. 15, Subch. I, Refs &amp; Annos</text>
-        </level>
-      </level>
-    </level>
-  </level>
+  <heading>1975</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-B/index.xml"/>
 </level>

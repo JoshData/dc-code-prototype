@@ -40,18 +40,18 @@
     <num>(e)</num>
     <text>The District government shall not issue or reissue any license or permit, including a building permit or certificate of occupancy, to any applicant for a license or permit if the applicant is the owner of any Inclusionary Development or unit and found, after a hearing, to be in violation of the Inclusionary Zoning Program until such time as the Mayor certifies that the Inclusionary Development or unit is again in compliance.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 2007, D.C. Law 16-275, § 104, 54 DCR 880.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-275, see notes following § 6-1041.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-1041.07 and § 42-2802.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-275</heading>
+      <text>For Law 16-275, see notes following § 6-1041.01.</text>
     </level>
   </level>
 </level>

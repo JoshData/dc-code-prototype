@@ -1,8 +1,6 @@
 <level type="section">
   <num>29-606.03</num>
   <heading>Effect of partner's dissociation.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-156.3</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-106.03</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>If a partner's dissociation results in a dissolution and winding up of the partnership business, subchapter VIII of this chapter shall apply; otherwise, subchapter VII of this chapter applies.</text>
@@ -12,7 +10,7 @@
     <text>Upon a partner's dissociation:</text>
     <level>
       <num>(1)</num>
-      <text>The partner's right to participate in the management and conduct of the partnership business terminates, except as otherwise provided in § 29- 608.03;</text>
+      <text>The partner's right to participate in the management and conduct of the partnership business terminates, except as otherwise provided in § 29-608.03;</text>
     </level>
     <level>
       <num>(2)</num>
@@ -20,30 +18,43 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>The partner's duty of loyalty under § 29-604.04(b)(1) and (2) and duty of care under § 29-604.04(c) continue only with regard to matters arising and events occurring before the partner's dissociation, unless the partner participates in winding up the partnership's business pursuant to § 29- 608.03.</text>
+      <text>The partner's duty of loyalty under § 29-604.04(b)(1) and (2) and duty of care under § 29-604.04(c) continue only with regard to matters arising and events occurring before the partner's dissociation, unless the partner participates in winding up the partnership's business pursuant to § 29-608.03.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(c)</num>
+    <text>A person's dissociation alone does not discharge the person from a debt, obligation, or other liability to the partnership or to the other partners which the person incurred while a partner.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(f)(6)(B), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 41-156.3.</text>
-        <text>2001 Ed., § 33-106.03.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 603 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-601.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 41-156.3.</text>
+      <text>2001 Ed., § 33-106.03.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 added (c).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-601.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 603 of the Uniform Partnership Act (1997 Act).</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

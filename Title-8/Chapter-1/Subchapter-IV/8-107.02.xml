@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-107.02</num>
   <heading>Sale and use of phosphate cleaners prohibited; exceptions; manufacturer's package statement; testing of products for compliance; exemptions for use of noncomplying cleaners; rules and regulations; annual report by Mayor.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-972</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as provided in subsection (e) of this section, after 180 days after March 25, 1986, no cleaning agent may be used, sold, or furnished in the District of Columbia if it contains a phosphorous compound in a concentration exceeding a trace quantity of phosphorus, except that a cleaning agent with more than a trace quantity of phosphorus may be used for cleaning health care equipment, for use by any commercial or institutional laundry in providing laundry services for a hospital or health care facility; for cleaning food processing equipment, beverage and dairy products handling and processing equipment, and other institutional and industrial applications meeting the requirements of subsection (e) of this section, and designed specifically for cleaning dishes washed in dishwashers.</text>
@@ -68,37 +67,38 @@
     <num>(g)</num>
     <text>The Mayor shall report annually, in writing, to the Council on March 1 the reasons for and the number of exemptions granted pursuant to this section and shall identify each person or organization granted an exemption by name and address.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1986, D.C. Law 6-98, § 3, 33 DCR 723; Mar. 31, 2011, D.C. Law 18-336, § 7, 58 DCR 605.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-972.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-336, in subsec. (b), substituted "0.5%" for "8.7%"; in subsec. (e), deleted "or" from the end of par. (2), substituted "; or" for a period the end of par. (3 ), and added par. (4).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-98, see Historical and Statutory Notes following § 8-107.01.</text>
-        <text>Law 18-336, the "Human and Environmental Health Protection Act of 2010", was introduced in Council and assigned Bill No. 18-521, which was referred to the Committee on Government Operations and the Environment. The Bill was adopted on first and second readings on December 7, 2010, and December 21, 2010, respectively. Signed by the Mayor on January 12, 2011, it was assigned Act No. 18-680 and transmitted to both Houses of Congress for its review. D.C. Law 18- 336 became effective on March 31, 2011.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority pursuant to Law 6-98, see Mayor's Orders 86-102, June 19, 1986; 87-48, February 17, 1987.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 8 of D.C. Law 18-336 provides:</text>
-        <text>"Sec. 8. Applicability.</text>
-        <text>"This act shall apply as of July 1, 2011."</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-107.03, § 8-107.04, and § 8-108.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-972.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-336, in subsec. (b), substituted "0.5%" for "8.7%"; in subsec. (e), deleted "or" from the end of par. (2), substituted "; or" for a period the end of par. (3 ), and added par. (4).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-98</heading>
+      <text>For legislative history of D.C. Law 6-98, see Historical and Statutory Notes following § 8-107.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-336</heading>
+      <text>Law 18-336, the "Human and Environmental Health Protection Act of 2010", was introduced in Council and assigned Bill No. 18-521, which was referred to the Committee on Government Operations and the Environment. The Bill was adopted on first and second readings on December 7, 2010, and December 21, 2010, respectively. Signed by the Mayor on January 12, 2011, it was assigned Act No. 18-680 and transmitted to both Houses of Congress for its review. D.C. Law 18-336 became effective on March 31, 2011.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority pursuant to Law 6-98, see Mayor's Orders 86-102, June 19, 1986; 87-48, February 17, 1987.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 8 of D.C. Law 18-336 provided: "Sec. 8. Applicability. This act shall apply as of July 1, 2011."</text>
     </level>
   </level>
 </level>

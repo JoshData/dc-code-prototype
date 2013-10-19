@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-1316</num>
   <heading>Identification of major generators of hazardous waste and releasers of toxic chemicals.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-732</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Within 180 days of March 8, 1991, the Mayor shall determine and present to the Council a report that identifies the following:</text>
@@ -30,22 +29,22 @@
     <num>(c)</num>
     <text>Every 4 years following March 8, 1991, the Mayor shall reassess the findings required by subsection (a) of this section and make any change in the reporting or targeting of technical assistance indicated.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 16, 1978, D.C. Law 2-64, § 18, as added Mar. 8, 1991, D.C. Law 8- 229, title I, § 102(c), 38 DCR 246.)</text>
+      <heading>History</heading>
+      <text>(Mar. 16, 1978, D.C. Law 2-64, § 18, as added Mar. 8, 1991, D.C. Law 8-229, title I, § 102(c), 38 DCR 246.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-732.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-229, see Historical and Statutory Notes following § 8-1315.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-1315 and § 8-1317.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-732.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-229</heading>
+      <text>For legislative history of D.C. Law 8-229, see Historical and Statutory Notes following § 8-1315.</text>
     </level>
   </level>
 </level>

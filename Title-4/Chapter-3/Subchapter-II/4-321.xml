@@ -3,70 +3,30 @@
   <heading>Definitions.</heading>
   <text>As used in this subchapter, unless the context otherwise requires:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>"Adoption assistance state" means the state that is signatory to an adoption assistance agreement in a particular case.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Department" means the District of Columbia Department of Human Services.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Residence state" means the state where the child is living.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"State" means a state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, or a Territory or Possession of or administered by the United States.</text>
-    </level>
+    <num>(1)</num>
+    <text>"Adoption assistance state" means the state that is signatory to an adoption assistance agreement in a particular case.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Department" means the District of Columbia Department of Human Services.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Residence state" means the state where the child is living.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"State" means a state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, or a Territory or Possession of or administered by the United States.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 27, 2000, D.C. Law 13-136, § 401, 47 DCR 2850.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 13-136, the "Adoption and Safe Families Amendment Act of 2000," was introduced in Council and assigned Bill No. 13-214, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on February 1, 2000, and March 7, 2000, respectively. Signed by the Mayor on March 31, 2000, it was assigned Act No. 13-315 and transmitted to both Houses of Congress for its review. D.C. Law 13-136 became effective on June 27, 2000.</text>
-      </level>
-      <level>
-        <heading>Complementary Legislation:</heading>
-        <text>Ala.--Code 1975, §§ 26-10B-1 to 26-10B-10. </text>
-        <text>Ark.--A.C.A. § 9-29-301. </text>
-        <text>Colo.--West's C.R.S.A. §§ 24-60-2401 to 24-60-2405. </text>
-        <text>Conn.--C.G.S.A. § 17a-116d. </text>
-        <text>Del.--31 Del.C. §§ 5401 to 5406. </text>
-        <text>D.C.--D.C. Official Code, 2001 Ed. §§ 4-321 to 4-328. </text>
-        <text>Fla.--West's F.S.A. §§ 409.406, 409.407. </text>
-        <text>Hawaii--H R S §§ 350C-1 to 350C-7. </text>
-        <text>Idaho--I.C. §§ 39-7501 to 39-7505. </text>
-        <text>Ill.--S.H.A. 45 ILCS 17/5-1 to 17/5-99. </text>
-        <text>Ind.--West's A.I.C. 31-19-29-1 to 31-19-29-6. </text>
-        <text>Iowa--I.C.A. § 600.23. </text>
-        <text>Kan.--K.S.A. 38-335 to 38-340. </text>
-        <text>La.--LSA-Ch.C. arts. 1601 to 1607. </text>
-        <text>Maine--22 M.R.S.A. §§ 4171 to 4176. </text>
-        <text>Md.--Code, Family Law, §§ 5-4A-01 to 5-4A-08. </text>
-        <text>Miss.--Code 1972, §§ 93-17-101 to 93-17-109. </text>
-        <text>Mo.--V.A.M.S. §§ 453.500, 453.503. </text>
-        <text>Nev.--N.R.S. 127.400 to 127.420. </text>
-        <text>N.H.--RSA 126-D:1 to 126-D:7. </text>
-        <text>N.M.--NMSA 1978, §§ 40-7B-1 to 40-7B-6. </text>
-        <text>N.C.--G.S. §§ 7B-3900 to 7B-3906. </text>
-        <text>N.D.--NDCC 50-28-01 to 50-28-05. </text>
-        <text>Okl.--10 Okl.St.Ann. §§ 7510-3.1 to 7510-3.3. </text>
-        <text>Ore.--ORS 417.090 to 417.105. </text>
-        <text>R.I.--Gen.Laws. 1956, §§ 15-7.1-1 to 15-7.1-4. </text>
-        <text>S.C.--Code 1976, §§ 63-9-2000 to 63-9-2050. </text>
-        <text>Tenn.--T.C.A. §§ 36-1-201 to 36-1-206. </text>
-        <text>Tex.--V.T.C.A., Family Code §§ 162.201 to 162.206. </text>
-        <text>U.S.--42 U.S.C.A. § 670 et seq. </text>
-        <text>Va.--Code 1950, §§ 63.2-1401 to 63.2-1405. </text>
-        <text>W.Va.--Code, 49-2C-1 to 49-2C-4.</text>
-      </level>
+      <heading>Legislative History of Law 13-136</heading>
+      <text>Law 13-136, the "Adoption and Safe Families Amendment Act of 2000," was introduced in Council and assigned Bill No. 13-214, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on February 1, 2000, and March 7, 2000, respectively. Signed by the Mayor on March 31, 2000, it was assigned Act No. 13-315 and transmitted to both Houses of Congress for its review. D.C. Law 13-136 became effective on June 27, 2000.</text>
+      <text>Complementary Legislation: Ala. - Code 1975, §§ 26-10B-1 to 26-10B-10. Ark. - A.C.A. § 9-29-301. Colo. - West's C.R.S.A. §§ 24-60-2401 to 24-60-2405. Conn. - C.G.S.A. § 17a-116d. Del. - 31 Del.C. §§ 5401 to 5406. D.C. - D.C. Official Code, 2001 Ed. §§ 4-321 to 4-328. Fla. - West's F.S.A. §§ 409.406, 409.407. Hawaii - H R S §§ 350C-1 to 350C-7. Idaho - I.C. §§ 39-7501 to 39-7505. Ill. - S.H.A. 45 ILCS 17/5-1 to 17/5-99. Ind. - West's A.I.C. 31-19-29-1 to 31-19-29-6. Iowa - I.C.A. § 600.23. Kan. - K.S.A. 38-335 to 38-340. La. - LSA-Ch.C. arts. 1601 to 1607. Maine - 22 M.R.S.A. §§ 4171 to 4176. Md. - Code, Family Law, §§ 5-4A-01 to 5-4A-08. Miss. - Code 1972, §§ 93-17-101 to 93-17-109. Mo. - V.A.M.S. §§ 453.500, 453.503. Nev. - N.R.S. 127.400 to 127.420. N.H. - RSA 126-D:1 to 126-D:7. N.M. - NMSA 1978, §§ 40-7B-1 to 40-7B-6. N.C. - G.S. §§ 7B-3900 to 7B-3906. N.D. - NDCC 50-28-01 to 50-28-05. Okl. - 10 Okl.St.Ann. §§ 7510-3.1 to 7510-3.3. Ore. - ORS 417.090 to 417.105. R.I. - Gen.Laws. 1956, §§ 15-7.1-1 to 15-7.1-4. S.C. - Code 1976, §§ 63-9-2000 to 63-9-2050. Tenn. - T.C.A. §§ 36-1-201 to 36-1-206. Tex. - V.T.C.A., Family Code §§ 162.201 to 162.206. U.S. - 42 U.S.C. § 670 et seq. Va. - Code 1950, §§ 63.2-1401 to 63.2-1405. W.Va. - Code, 49-2C-1 to 49-2C-4.</text>
     </level>
   </level>
 </level>

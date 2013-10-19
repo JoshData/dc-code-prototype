@@ -1,7 +1,6 @@
 <level type="section">
   <num>4-205.03</num>
   <heading>Determination of residency.</heading>
-  <formerly-cited-as>DC ST 1981 § 3-205.3</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A resident of the District of Columbia is one who is living in the District of Columbia voluntarily and not for a temporary purpose; that is, one with no intention of presently removing himself or herself therefrom. A child is residing in the District if he or she is making his or her home in the District.</text>
@@ -14,22 +13,22 @@
     <num>(c)</num>
     <text>Residence as defined for eligibility purposes shall not depend upon the reason for which the individual entered the District, except insofar as it may bear on whether he is there for a temporary purpose.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 6, 1982, D.C. Law 4-101, § 503, 29 DCR 1060.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 3-205.3.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-101, see Historical and Statutory Notes following § 4-201.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-204.07, § 4-251.03, and § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 3-205.3.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-101</heading>
+      <text>For legislative history of D.C. Law 4-101, see Historical and Statutory Notes following § 4-201.01.</text>
     </level>
   </level>
 </level>

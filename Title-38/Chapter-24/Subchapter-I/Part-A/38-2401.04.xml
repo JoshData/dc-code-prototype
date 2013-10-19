@@ -1,11 +1,15 @@
 <level type="section">
   <num>38-2401.04</num>
   <heading>Elementary and secondary education programs.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-1841.3a</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">General authority.</text> -- (1)(A) The Board of Trustees of Gallaudet University is authorized, in accordance with the agreement under § 38-2401.05, to maintain and operate exemplary elementary and secondary education programs, projects, and activities for the primary purpose of developing, evaluating, and disseminating innovative curricula, instructional techniques and strategies, and materials that can be used in various educational environments serving individuals who are deaf or hard of hearing throughout the nation.</text>
+    <heading>General authority</heading>
     <level>
+      <num>(1)</num>
+      <level>
+        <num>(A)</num>
+        <text>The Board of Trustees of Gallaudet University is authorized, in accordance with the agreement under § 38-2401.05, to maintain and operate exemplary elementary and secondary education programs, projects, and activities for the primary purpose of developing, evaluating, and disseminating innovative curricula, instructional techniques and strategies, and materials that can be used in various educational environments serving individuals who are deaf or hard of hearing throughout the nation.</text>
+      </level>
       <level>
         <num>(B)</num>
         <text>The elementary and secondary education programs described in subparagraph (A) of this paragraph shall serve students with a broad spectrum of needs, including students who are lower achieving academically, who come from non-English-speaking homes, who have secondary disabilities, who are members of minority groups, or who are from rural areas.</text>
@@ -32,14 +36,16 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>For whom such residency is necessary for them to receive a free appropriate public education within the meaning of part B of the Individuals with Disabilities Education Act.</text>
+        <text>For whom such residency is necessary for them to receive a free appropriate public education within the meaning of part B of the Individuals with Disabilities Education Act [20 U.S.C. § 1411 et seq.].</text>
       </level>
     </level>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Administrative requirements.</text> -- (1) The elementary and secondary education programs shall:</text>
+    <heading>Administrative requirements</heading>
     <level>
+      <num>(1)</num>
+      <text>The elementary and secondary education programs shall:</text>
       <level>
         <num>(A)</num>
         <text>Provide technical assistance and outreach throughout the nation to meet the training and information needs of parents of infants, children, and youth who are deaf or hard of hearing;</text>
@@ -55,7 +61,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>To the extent possible, the elementary and secondary education programs shall provide the services required under paragraph (1) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of § 618(b) of the Individuals with Disabilities Education Act. Such educational environments shall include:</text>
+      <text>To the extent possible, the elementary and secondary education programs shall provide the services required under paragraph (1) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of § 618(b) of the Individuals with Disabilities Education Act [20 U.S.C. § 1418(b)]. Such educational environments shall include:</text>
       <level>
         <num>(A)</num>
         <text>Regular classes;</text>
@@ -79,7 +85,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>If a local educational agency, intermediate educational unit, or state educational agency refers a child to, or places a child in, one of the elementary or secondary education programs to meet its obligation to make available a free appropriate public education under part B of the Individuals with Disabilities Education Act, the agency or unit shall be responsible for ensuring that the special education and related services provided to the child by the education program are in accordance with part B of that Act and that the child is provided the rights and procedural safeguards under § 615 of that Act.</text>
+      <text>If a local educational agency, intermediate educational unit, or state educational agency refers a child to, or places a child in, one of the elementary or secondary education programs to meet its obligation to make available a free appropriate public education under part B of the Individuals with Disabilities Education Act [20 U.S.C. § 1411 et seq.], the agency or unit shall be responsible for ensuring that the special education and related services provided to the child by the education program are in accordance with part B of that Act and that the child is provided the rights and procedural safeguards under § 615 of that Act [20 U.S.C. § 1415].</text>
     </level>
     <level>
       <num>(4)</num>
@@ -109,32 +115,28 @@
         </level>
         <level>
           <num>(iv)</num>
-          <text>Subsection (f).</text>
+          <text>Subsection (f ).</text>
         </level>
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 4, 1986, Pub. L. 99-371, § 104, as added Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 112; Aug. 11, 1993, 107 Stat. 733, Pub. L. 103-73, § 203(d); Apr. 9, 1997, D.C. Law 11-255, § 35(a), 44 DCR 1271.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-1841.3a.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 11-255, the "Second Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-905. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-519 and transmitted to both Houses of Congress for its review. D.C. Law 11-255 became effective April 9, 1997.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>"The Individuals with Disabilities Education Act" and "§ 615 of that Act", referred to in (a)(2)(B), (b)(3) and (b)(4)(C) are codified at 20 U.S.C. § 1400 et seq. and 20 U.S.C. § 1415, respectively.</text>
-        <text>"Section 618(b) of the Individuals with Disabilities Education Act", referred to in (b)(2), is codified at 20 U.S.C. § 1418(b).</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-1841.3a.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>Law 11-255, the "Second Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-905. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-519 and transmitted to both Houses of Congress for its review. D.C. Law 11-255 became effective April 9, 1997.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>"The Individuals with Disabilities Education Act" and "§ 615 of that Act", referred to in (a)(2)(B), (b)(3) and (b)(4)(C) are codified at 20 U.S.C. § 1400 et seq. and 20 U.S.C. § 1415, respectively.</text>
+      <text>"Section 618(b) of the Individuals with Disabilities Education Act", referred to in (b)(2), is codified at 20 U.S.C. § 1418(b).</text>
     </level>
   </level>
 </level>

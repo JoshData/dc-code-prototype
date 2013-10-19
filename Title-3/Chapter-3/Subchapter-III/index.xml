@@ -1,9 +1,9 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Public Safety at Stadium and Armory.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-341.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-342.xml"/>
+  <heading>Public Safety at Stadium and Armory</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-341~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-342~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-342.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-343.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-343.01.xml"/>

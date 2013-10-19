@@ -1,8 +1,8 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>XII</num>
-  <heading>Electronic Commerce; Acquisition and Disposition. [Recodified]</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-312.01.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-312.02.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-312.03.xml"/>
+  <heading>Electronic Commerce; Acquisition and Disposition</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-312.01~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-312.02~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-312.03~P.xml"/>
 </level>

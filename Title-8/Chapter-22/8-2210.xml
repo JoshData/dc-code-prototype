@@ -2,18 +2,14 @@
   <num>8-2210</num>
   <heading>Complaints.</heading>
   <text>The Department shall keep a record of any written or oral complaints lodged against a wildlife control services provider and shall document action taken by the Department in response to the complaint.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2011, D.C. Law 18-289, § 11, 57 DCR 11499.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-289, see notes under § 8-2201.</text>
-      </level>
+      <heading>Legislative History of Law 18-289</heading>
+      <text>For history of Law 18-289, see notes under § 8-2201.</text>
     </level>
   </level>
 </level>

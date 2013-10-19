@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>Except as permitted by this section, information and records of the Commission shall not be disclosed voluntarily, pursuant to a subpoena, in response to a request for discovery in any adjudicative proceeding, or in response to a request made under subchapter II of Chapter 5 of Title 2, nor shall it be introduced into evidence in any administrative, civil, or criminal proceeding.</text>
+    <text>Except as permitted by this section, information and records of the Commission shall not be disclosed voluntarily, pursuant to a subpoena, in response to a request for discovery in any adjudicative proceeding, or in response to a request made under subchapter II of Chapter 5 of Title 2 [§ 2-531 et seq.], nor shall it be introduced into evidence in any administrative, civil, or criminal proceeding.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -17,23 +17,22 @@
     <num>(d)</num>
     <text>Information and records presented to the Commission shall not be immune from subpoena or discovery, or prohibited from being introduced into evidence, solely because the information and records were made available to the Commission, if the information and records could have been obtained through other sources.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 2007, D.C. Law 16-262, § 205, 54 DCR 794; Mar. 25, 2009, D.C. Law 17-353, § 157(b), 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (c).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-262, see notes following § 7-2271.01.</text>
-        <text>For Law 17-353, see notes following § 7-161.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (c).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-262</heading>
+      <text>For Law 16-262, see notes following § 7-2271.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 7-161.</text>
     </level>
   </level>
 </level>

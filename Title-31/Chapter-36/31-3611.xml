@@ -3,35 +3,29 @@
   <heading>Rules and regulations.</heading>
   <text>The Commissioner may issue rules to implement any provisions of this chapter. The rules may include:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Requirements for any disclosure made under this chapter, including the manner, content, and required disclosures for the sale of long-term care insurance policies, terms of renewability, initial and subsequent conditions of eligibility, nonduplication of coverage provisions, coverage of dependents and preexisting conditions, termination of coverage, continuation or conversion of coverage, probationary periods, limitations, exceptions, reductions, elimination periods, requirements for replacement, recurrent conditions, and definitions;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Loss ratio standards specifically applicable to long-term care insurance policies;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>A standard format, which may include a description of the style, arrangement, overall appearance, and the content of an outline of coverage; and</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Minimum standards for making and reporting practices for long-term care insurance.</text>
-    </level>
+    <num>(1)</num>
+    <text>Requirements for any disclosure made under this chapter, including the manner, content, and required disclosures for the sale of long-term care insurance policies, terms of renewability, initial and subsequent conditions of eligibility, nonduplication of coverage provisions, coverage of dependents and preexisting conditions, termination of coverage, continuation or conversion of coverage, probationary periods, limitations, exceptions, reductions, elimination periods, requirements for replacement, recurrent conditions, and definitions;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Loss ratio standards specifically applicable to long-term care insurance policies;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>A standard format, which may include a description of the style, arrangement, overall appearance, and the content of an outline of coverage; and</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Minimum standards for making and reporting practices for long-term care insurance.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 23, 2000, D.C. Law 13-121, § 12, 47 DCR 2038.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-121, see notes following § 31-3601.</text>
-      </level>
+      <heading>Legislative History of Law 13-121</heading>
+      <text>For Law 13-121, see notes following § 31-3601.</text>
     </level>
   </level>
 </level>

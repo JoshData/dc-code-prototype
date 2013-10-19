@@ -1,30 +1,23 @@
 <level type="section">
   <num>10-505.05</num>
-  <heading>Transfer of member of Metropolitan Police to Capitol Police-- Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 9-120</formerly-cited-as>
+  <heading>Transfer of member of Metropolitan Police to Capitol Police - Definitions.</heading>
   <text>As used in this part:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The term "Metropolitan Police force" means the Metropolitan Police force of the District of Columbia.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The term "police service" means creditable service under § 5-704.</text>
-    </level>
+    <num>(1)</num>
+    <text>The term "Metropolitan Police force" means the Metropolitan Police force of the District of Columbia.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The term "police service" means creditable service under § 5-704.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 20, 1979, 93 Stat. 1099, Pub. L. 96-152, § 5.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 9-120.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 9-120.</text>
     </level>
   </level>
 </level>

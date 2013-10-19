@@ -2,22 +2,18 @@
   <num>26-1152.05</num>
   <heading>No encouragement of default.</heading>
   <text>A lender shall not recommend or encourage the borrower to default on an existing loan or other debt prior to and in connection with the closing or planned closing of a covered loan that refinances all or any portion of the existing loan or other debt.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 7, 2002, D.C. Law 14-132, § 205, 49 DCR 2551.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 205 of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002, 49 DCR 2534).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-132, see notes following § 26-1151.01.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 205 of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002, 49 DCR 2534).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-132</heading>
+      <text>For Law 14-132, see notes following § 26-1151.01.</text>
     </level>
   </level>
 </level>

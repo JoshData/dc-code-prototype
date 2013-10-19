@@ -14,7 +14,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>The Director of the Office of Personnel, or his or her designee, as an <text i="True">ex officio</text> nonvoting member.</text>
+      <text>The Director of the Office of Personnel, or his or her designee, as an ex officio nonvoting member.</text>
     </level>
   </level>
   <level>
@@ -48,18 +48,14 @@
     <num>(g)</num>
     <text>All members of the Commission shall serve without compensation, but may be reimbursed for reasonable actual expenses incurred in the performance of official duties, pursuant to rules issued by the Mayor in accordance with § 1-611.08.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar 3, 1979, D.C. Law 2-139, § 1152, as added Mar. 14, 2007, D.C. Law 16-295, § 2(b), 54 DCR 1092.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-295, see notes following § 1-611.51.</text>
-      </level>
+      <heading>Legislative History of Law 16-295</heading>
+      <text>For Law 16-295, see notes following § 1-611.51.</text>
     </level>
   </level>
 </level>

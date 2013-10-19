@@ -17,22 +17,22 @@
     <num>(d)</num>
     <text>The Mayor shall submit to the Council, as a part of the annual budget, a requested appropriation for expenditures from the State Health Planning and Development Fund. The Mayor's budget request shall be based on an estimated projection of the expenditures necessary to perform the administrative and regulatory functions of the State Health Planning and Development Agency.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 9, 1997, D.C. Law 11-191, § 21a, as added Apr. 22, 2004, D.C. Law 15-149, § 2(i), 51 DCR 2802.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition of section, see § 2(h) of Health Services Planning and Development Temporary Amendment Act of 2003 (D.C. Law 15-19, June 21, 2003, law notification 50 DCR 5463).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-149, see notes following § 44-401.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 44-402.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition of section, see § 2(h) of Health Services Planning and Development Temporary Amendment Act of 2003 (D.C. Law 15-19, June 21, 2003, law notification 50 DCR 5463).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-149</heading>
+      <text>For Law 15-149, see notes following § 44-401.</text>
     </level>
   </level>
 </level>

@@ -1,59 +1,59 @@
 <level type="section">
   <num>44-1002.02</num>
   <heading>Grounds for receivership.</heading>
-  <formerly-cited-as>DC ST 1981 § 32-1412</formerly-cited-as>
   <text>A receiver may be appointed under this subchapter on one or more of the following grounds:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The facility is unlawfully operating without a current District license;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The licensee has abandoned the facility;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The facility is closing within 30 calendar days and cannot offer verifiable evidence that adequate arrangements, designed to minimize transfer trauma, have been made to relocate its residents;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>A condition or practice in the facility poses a serious, widespread danger, either immediate or recurring, to the health, safety, or welfare of the residents;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Violations of residents' rights, established pursuant to § 44-504(a)(4), are chronic, substantial, and widespread;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Insolvency of an owner or the licensee has placed the continued operation of the facility in serious jeopardy; or</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>The facility has been issued a restricted or provisional license by the Department of Health.</text>
-    </level>
+    <num>(1)</num>
+    <text>The facility is unlawfully operating without a current District license;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The licensee has abandoned the facility;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The facility is closing within 30 calendar days and cannot offer verifiable evidence that adequate arrangements, designed to minimize transfer trauma, have been made to relocate its residents;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>A condition or practice in the facility poses a serious, widespread danger, either immediate or recurring, to the health, safety, or welfare of the residents;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Violations of residents' rights, established pursuant to § 44-504(a)(4), are chronic, substantial, and widespread;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Insolvency of an owner or the licensee has placed the continued operation of the facility in serious jeopardy; or</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>The facility has been issued a restricted or provisional license by the Department of Health.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 18, 1986, D.C. Law 6-108, § 202, 33 DCR 1510; Apr. 29, 2010, D.C. Law 18-145, § 4(a), 57 DCR 1834.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-1412.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-145 deleted "or" from the end of par. (5); substituted "; or" for a period at the end of par. (6); and added par. (7).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-108, see Historical and Statutory Notes following § 44-1001.01.</text>
-        <text>For Law 18-145, see notes following § 44-504.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 44-1002.03, § 44-1002.05, and § 44-1002.10.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-1412.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-145 deleted "or" from the end of par. (5); substituted "; or" for a period at the end of par. (6); and added par. (7).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-108</heading>
+      <text>For legislative history of D.C. Law 6-108, see Historical and Statutory Notes following § 44-1001.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-145</heading>
+      <text>For Law 18-145, see notes following § 44-504.</text>
     </level>
   </level>
 </level>

@@ -22,7 +22,7 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Type of affordable housing development/unit (<text i="True">i.e.</text>, single-family, multifamily, townhouse, rental, ownership, condominium, homeowner association, cooperative, limited equity cooperative);</text>
+      <text>Type of affordable housing development/unit (i.e., single-family, multifamily, townhouse, rental, ownership, condominium, homeowner association, cooperative, limited equity cooperative);</text>
     </level>
     <level>
       <num>(6)</num>
@@ -51,20 +51,40 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The Affordable Housing Locator shall display the information required by this chapter in various formats to allow the public the maximum flexibility in sorting through the information. The Affordable Housing Locator that is made available to the public by way of the internet shall be searchable and sortable by ward, target population, income limitation, affordable housing unit size, and rent or sales price.</text>
+    <text>The Affordable Housing Locator shall display the information required by this subchapter in various formats to allow the public the maximum flexibility in sorting through the information. The Affordable Housing Locator that is made available to the public by way of the internet shall be searchable and sortable by ward, target population, income limitation, affordable housing unit size, and rent or sales price.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 15, 2008, D.C. Law 17-215, § 7, 55 DCR 7494.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-215, see notes following § 42-2131.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-2135.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>Sections 2 to 4 of D.C. Law 19- (Act 19-637) added provisions concerning affordable dwelling unit hardship waiver to read as follows:</text>
+      <text>"Sec. 2. Definitions. For the purposes of this act, the term:</text>
+      <text>"(1) 'Affordable Dwelling Unit' shall have the same meaning as the term 'affordable housing unit' as defined in section 2(4) of the Affordable Housing Clearinghouse Directory Act of 2008, effective August 15, 2008 (D.C. Law 17-215; D.C. Official Code § 42-2131(4)).</text>
+      <text>"(2) 'Area Median Income' or 'AMI' shall have the same meaning as provided in section 2(1) of the Housing Production Trust Fund Act of 1988, effective March 16, 1989 (D.C. Law 7-202; D.C. Official Code § 42-2801(1)).</text>
+      <text>"Sec. 3. Hardship waiver eligibility criteria.</text>
+      <text>"(a) Where allowable by law, covenant, contract, and condominium documents, the Mayor may grant a unit owner the ability to rent the unit owner's Affordable Dwelling Unit for one year, which may be renewed annually.</text>
+      <text>"(b) The unit owner must demonstrate a current condominium fee increase on the unit owner's Affordable Dwelling Unit of $150 or 25% or more annually, whichever is greater. "Sec. 4. Comprehensive Affordable Dwelling Unit report.</text>
+      <text>"The Mayor shall submit a report by September 30, 2013, to the Council that examines the following Affordable Dwelling Unit issues:</text>
+      <text>"(1) The Mayor's ability to amend the Affordable Dwelling Unit guidelines of the originating funding source agency or authority.</text>
+      <text>"(2) Whether each originating local subsidy provides the unit owner with the ability to rent the unit owner's Affordable Dwelling Unit.</text>
+      <text>"(3) Recommendations for resources, including staffing, funding, and technology, regarding the District's administration of affordable housing.</text>
+      <text>"(4) The policy and fiscal impacts of granting a unit owner with the ability to rent or sell the unit owner's Affordable Dwelling Unit at an AMI level higher than the level initially set."</text>
+      <text>Section 6(b) of D.C. Law 19- (Act 19-637) provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary addition of provisions concerning hardship waiver eligibility, see §§ 2-4 of the Affordable Dwelling Unit Hardship Waiver Emergency Act of 2012 (D.C. Act 19-620, January 18, 2013, 60 DCR 1334).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-215</heading>
+      <text>For Law 17-215, see notes following § 42-2131.</text>
     </level>
   </level>
 </level>

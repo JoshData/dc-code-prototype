@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-1807.05</num>
   <heading>Reduction of tax credit for insurance premiums; exceptions.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-1807.5</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as provided in subsection (b) of this section, for taxable years beginning after December 31, 1988, the amount of tax payable under this chapter by an incorporated business approved as qualified under § 6-1504 shall be reduced by a credit equal to 50% of the insurance premiums attributable to a certified employee paid to insure employers against liability for compensation to residents of the District of Columbia under Chapter 15 of Title 32, for each of the first 24 months during which the qualified incorporated business has employed a certified employee.</text>
@@ -50,31 +49,38 @@
       <text>Claimed for any taxable year in which the qualified incorporated business was not located within an economic development zone or did not employ a certified employee.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 16, 1947, ch. 258, art. I, title VII, § 4, as added Oct. 20, 1988, D.C. Law 7-177, § 10(b), 35 DCR 6158; enacted, Apr. 9, 1997, D.C. Law 11- 254, § 2, 44 DCR 1575; Sept. 12, 2008, D.C. Law 17-231, § 41(k), 55 DCR 6758.)</text>
+      <heading>History</heading>
+      <text>(July 16, 1947, ch. 258, art. I, title VII, § 4, as added Oct. 20, 1988, D.C. Law 7-177, § 10(b), 35 DCR 6158; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Sept. 12, 2008, D.C. Law 17-231, § 41(k), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-1807.5.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-231, in subsec. (b)(7), substituted "spouse or domestic partner" for "spouse".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-177, see Historical and Statutory Notes following § 47-1803.03.</text>
-        <text>For Law 17-231, see notes following § 47-802.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Mayor authorized to issue rules: See Historical and Statutory Notes following § 47-1803.03.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Economic development zones, eligibility for tax incentives, see § 6-1504.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-1504 and § 47-1808.07.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-1807.5.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-231, in subsec. (b)(7), substituted "spouse or domestic partner" for "spouse".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-177</heading>
+      <text>For legislative history of D.C. Law 7-177, see Historical and Statutory Notes following § 47-1803.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 47-802.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Mayor authorized to issue rules: See Historical and Statutory Notes following § 47-1803.03.</text>
     </level>
   </level>
 </level>

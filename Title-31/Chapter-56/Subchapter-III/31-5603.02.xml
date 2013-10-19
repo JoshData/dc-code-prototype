@@ -1,6 +1,6 @@
 <level type="section">
   <num>31-5603.02</num>
-  <heading>Registration by notification</heading>
+  <heading>Registration by notification.</heading>
   <level>
     <num>(a)</num>
     <text>The following securities may be registered by notification, whether or not the securities are also eligible for registration by coordination under § 31-5603.03:</text>
@@ -144,23 +144,26 @@
       <text>At any earlier time which the Commissioner determines by rule or order.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 26, 2000, D.C. Law 13-203, § 302, 47 DCR 7837; June 25, 2002, D.C. Law 14-150, § 2(e), 49 DCR 4238.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-150, in subsec. (b), substituted "31-5603.06(c)" for "31- 5603.05(c)".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-203, see notes following § 31-5601.01.</text>
-        <text>For Law 14-150, see notes following § 31-5601.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-5603.06, § 31-5604.01, § 31-5604.02, and § 31-5605.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-150, in subsec. (b), substituted "31-5603.06(c)" for "31-5603.05(c)".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-203</heading>
+      <text>For Law 13-203, see notes following § 31-5601.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-150</heading>
+      <text>For Law 14-150, see notes following § 31-5601.01.</text>
     </level>
   </level>
 </level>

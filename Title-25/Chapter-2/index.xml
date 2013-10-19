@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>2</num>
-  <heading>Alcoholic Beverage Regulation Administration.</heading>
+  <heading>Alcoholic Beverage Regulation Administration</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-201.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-202.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-203.xml"/>
@@ -14,4 +14,5 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-209.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-210.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-211.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-212.xml"/>
 </level>

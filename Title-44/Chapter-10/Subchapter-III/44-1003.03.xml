@@ -1,7 +1,6 @@
 <level type="section">
   <num>44-1003.03</num>
   <heading>Hearing.</heading>
-  <formerly-cited-as>DC ST 1981 § 32-1433</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -31,7 +30,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>If the Mayor finds that the existence of a ground listed in § 44- 1003.01(a) has been proven by clear and convincing evidence, the resident shall not be:</text>
+    <text>If the Mayor finds that the existence of a ground listed in § 44-1003.01(a) has been proven by clear and convincing evidence, the resident shall not be:</text>
     <level>
       <num>(1)</num>
       <text>Discharged or transferred from the facility before the 22nd calendar day following his or her receipt of the notice required by § 44-1003.02(a) or the 5th calendar day following his or her notification of the hearing decision, whichever is later, unless a condition set forth in § 44-1003.02(b)(1) and (2) develops in the interim; or</text>
@@ -41,28 +40,35 @@
       <text>Relocated within the facility before the 8th calendar day following his or her receipt of the notice required by § 44-1003.02(a) or the 3rd calendar day following his or her notification of the hearing decision, whichever is later, unless a condition set forth in § 44-1003.02(b)(1) and (2) develops in the interim.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 18, 1986, D.C. Law 6-108, § 303, 33 DCR 1510; Mar. 16, 1989, D.C. Law 7-218, § 602(c), 36 DCR 534.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-1433.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-108, see Historical and Statutory Notes following § 44-1001.01.</text>
-        <text>For legislative history of D.C. Law 7-218, see Historical and Statutory Notes following § 44-1001.01.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority pursuant to D.C. Law 6-108, see Mayor's Order 86-129, August 8, 1986.</text>
-        <text>Delegation of authority pursuant to D.C. Law 6-108, "Nursing Home and Community Residence Facility Residents' Protection Act of 1985.", see Mayor's Order 88- 230, October 19, 1988.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Long-term care ombudsman program, ombudsman duties, see § 7-702.04.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-702.04 and § 44-1003.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-1433.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-108</heading>
+      <text>For legislative history of D.C. Law 6-108, see Historical and Statutory Notes following § 44-1001.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-218</heading>
+      <text>For legislative history of D.C. Law 7-218, see Historical and Statutory Notes following § 44-1001.01.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority pursuant to D.C. Law 6-108, see Mayor's Order 86-129, August 8, 1986.</text>
+      <text>Delegation of authority pursuant to D.C. Law 6-108, "Nursing Home and Community Residence Facility Residents' Protection Act of 1985.", see Mayor's Order 88-230, October 19, 1988.</text>
     </level>
   </level>
 </level>

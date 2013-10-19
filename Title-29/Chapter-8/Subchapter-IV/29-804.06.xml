@@ -3,7 +3,7 @@
   <heading>Liability for improper distributions.</heading>
   <level>
     <num>(a)</num>
-    <text>Except as otherwise provided in subsection (b) of this section, if a member of a member-managed limited liability company or manager of a manager-managed limited liability company consents to a distribution made in violation of § 29-804.05 and, in consenting to the distribution, fails to comply with § 29- 804.09, the member or manager shall be personally liable to the company for the amount of the distribution that exceeds the amount that could have been distributed without the violation of § 29-804.05.</text>
+    <text>Except as otherwise provided in subsection (b) of this section, if a member of a member-managed limited liability company or manager of a manager-managed limited liability company consents to a distribution made in violation of § 29-804.05 and, in consenting to the distribution, fails to comply with § 29-804.09, the member or manager shall be personally liable to the company for the amount of the distribution that exceeds the amount that could have been distributed without the violation of § 29-804.05.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -29,22 +29,22 @@
     <num>(e)</num>
     <text>An action under this section shall be barred if not commenced within 2 years after the distribution.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 406 of the Uniform Limited Company Act (2006 Act). See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-805.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 406 of the Uniform Limited Company Act (2006 Act).</text>
     </level>
   </level>
 </level>

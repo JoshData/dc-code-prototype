@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-2703.08</num>
   <heading>Exemption from rent control.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2128</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Housing projects assisted by the Agency or through the auspices of the Agency under the provisions of this chapter shall be exempt from the provisions of Chapter 35 of this title.</text>
@@ -38,25 +37,27 @@
     <num>(f)</num>
     <text>Prior to the execution of a lease or other rental agreement, a prospective tenant of any unit shall receive notice in writing advising him or her that rent increases for the accommodation are not regulated by Chapter 35 of this title.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-135, § 308, 25 DCR 5008; Aug. 5, 1981, D.C. Law 4-28, § 2(p), 28 DCR 2848; Oct. 5, 1985, D.C. Law 6-44, § 2(f), 32 DCR 4487.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2128.</text>
-        <text>1973 Ed., § 45-1915.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-135, see Historical and Statutory Notes following § 42-2701.01.</text>
-        <text>For legislative history of D.C. Law 4-28, see Historical and Statutory Notes following § 42-2701.02.</text>
-        <text>For legislative history of D.C. Law 6-44, see Historical and Statutory Notes following § 42-2702.07.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2128.</text>
+      <text>1973 Ed., § 45-1915.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-135</heading>
+      <text>For legislative history of D.C. Law 2-135, see Historical and Statutory Notes following § 42-2701.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-28</heading>
+      <text>For legislative history of D.C. Law 4-28, see Historical and Statutory Notes following § 42-2701.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-44</heading>
+      <text>For legislative history of D.C. Law 6-44, see Historical and Statutory Notes following § 42-2702.07.</text>
     </level>
   </level>
 </level>

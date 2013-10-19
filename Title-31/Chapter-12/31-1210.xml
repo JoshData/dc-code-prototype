@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1210</num>
   <heading>Applicability.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-2710</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>All health maintenance organizations, life, health, property, marine, title, casualty, fidelity, surety, insurance companies and fraternal benefit associations now or hereafter incorporated or formed in the District of Columbia or authorized to do business in the District of Columbia, shall be subject to this chapter. This chapter shall also apply to Group Hospitalization and Medical Service, Incorporated, and any other company or organization whether for profit or nonprofit subject to regulation by the Insurance Administration.</text>
@@ -10,23 +9,22 @@
     <num>(b)</num>
     <text>The provisions of this chapter shall not apply until October 1, 1993.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 21, 1993, D.C. Law 10-40, § 11, 40 DCR 6009; Apr. 9, 1997, D.C. Law 11-235, § 24(m), 44 DCR 818.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-2710.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-40, see Historical and Statutory Notes following § 31-1201.</text>
-        <text>For legislative history of D.C. Law 11-235, see Historical and Statutory Notes following § 31-1201.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-2710.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-40</heading>
+      <text>For legislative history of D.C. Law 10-40, see Historical and Statutory Notes following § 31-1201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-235</heading>
+      <text>For legislative history of D.C. Law 11-235, see Historical and Statutory Notes following § 31-1201.</text>
     </level>
   </level>
 </level>

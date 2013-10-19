@@ -40,18 +40,18 @@
     <num>(d)</num>
     <text>A physician recommending the use of medical marijuana by a qualifying patient shall not have a professional office located at a dispensary or cultivation center or receive financial compensation from a dispensary or cultivation center, or a director, officer, member, incorporator, agent, or employee of a dispensary or cultivation center.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 25, 2010, D.C. Law 13-315, § 5, as added July 27, 2010, D.C. Law 18-210, § 2, 57 DCR 4798.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-210, see notes following § 7-1671.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 3-1202.03 and § 7-1671.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-210</heading>
+      <text>For Law 18-210, see notes following § 7-1671.01.</text>
     </level>
   </level>
 </level>

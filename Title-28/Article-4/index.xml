@@ -1,23 +1,10 @@
 <level type="toc">
   <prefix>Article</prefix>
   <num>4</num>
-  <heading>Bank Deposits and Collections.</heading>
-  <level>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Editor's Notes</heading>
-          <text>Many of the cases appearing in the notes to this article were decided under the former statutes in effect prior to the 1995 revision. These earlier cases have been moved to pertinent sections of the revised material where they may be useful in interpreting the current statutes.</text>
-          <text>DC CODE D. V, T. 28, Subt. I, Art. 4, Refs &amp; Annos</text>
-        </level>
-      </level>
-    </level>
-  </level>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-1/index.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-2/index.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-3/index.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-4/index.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-5/index.xml"/>
+  <heading>Bank Deposits and Collections</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-I/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-II/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-III/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-IV/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-V/index.xml"/>
 </level>

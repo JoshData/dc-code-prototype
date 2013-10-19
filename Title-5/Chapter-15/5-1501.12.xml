@@ -3,75 +3,69 @@
   <heading>Functions of the Board.</heading>
   <text>The Board shall:</text>
   <level>
+    <num>(1)</num>
+    <text>Review all reports of allegations of professional negligence, misconduct, or misidentification or other testing error that occurred in the provision of forensic science services at the Department;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>Periodically review the program standards and protocols related to Department operations;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>At least once every 3 years, conduct a review of relevant scientific literature to determine whether modification of any of the manuals and procedures referenced in § 5-1501.04(b) is desirable;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Review and make recommendations as necessary to the Director concerning:</text>
     <level>
-      <num>(1)</num>
-      <text>Review all reports of allegations of professional negligence, misconduct, or misidentification or other testing error that occurred in the provision of forensic science services at the Department;</text>
+      <num>(A)</num>
+      <text>The quality and timeliness of the forensic science services at the Department;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>Periodically review the program standards and protocols related to Department operations;</text>
+      <num>(B)</num>
+      <text>New scientific programs, protocols, methods of testing, and forensic technologies;</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>At least once every 3 years, conduct a review of relevant scientific literature to determine whether modification of any of the manuals and procedures referenced in § 5-1501.04(b) is desirable;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Review and make recommendations as necessary to the Director concerning:</text>
+      <num>(C)</num>
+      <text>Plans for:</text>
       <level>
-        <num>(A)</num>
-        <text>The quality and timeliness of the forensic science services at the Department;</text>
+        <num>(i)</num>
+        <text>The implementation of new programs;</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>New scientific programs, protocols, methods of testing, and forensic technologies;</text>
+        <num>(ii)</num>
+        <text>Sustaining existing programs;</text>
       </level>
       <level>
-        <num>(C)</num>
-        <text>Plans for:</text>
-        <level>
-          <num>(i)</num>
-          <text>The implementation of new programs;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Sustaining existing programs;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Improving programs, where possible; and</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>The elimination of programs no longer needed;</text>
-        </level>
+        <num>(iii)</num>
+        <text>Improving programs, where possible; and</text>
       </level>
       <level>
-        <num>(D)</num>
-        <text>Qualification standards for analyst positions within the Department; and</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Any other matters related to the scientific operation of the Department; and</text>
+        <num>(iv)</num>
+        <text>The elimination of programs no longer needed;</text>
       </level>
     </level>
     <level>
-      <num>(5)</num>
-      <text>Advise the Director or the Mayor and Council, when it considers appropriate, on matters relating to the Department or forensic science.</text>
+      <num>(D)</num>
+      <text>Qualification standards for analyst positions within the Department; and</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Any other matters related to the scientific operation of the Department; and</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(5)</num>
+    <text>Advise the Director or the Mayor and Council, when it considers appropriate, on matters relating to the Department or forensic science.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 17, 2011, D.C. Law 19-18, § 13, 58 DCR 5403.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-18, see notes under § 5-1501.01.</text>
-      </level>
+      <heading>Legislative History of Law 19-18</heading>
+      <text>For history of Law 19-18, see notes under § 5-1501.01.</text>
     </level>
   </level>
 </level>

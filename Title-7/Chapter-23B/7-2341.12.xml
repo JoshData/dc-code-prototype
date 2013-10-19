@@ -13,18 +13,14 @@
     <num>(c)</num>
     <text>The Mayor may fully certify the individual as emergency medical services personnel in the District of Columbia, at the appropriate classification level, upon verification from the state or territory originally granting certification that the individual has successfully completed training and competency evaluation equivalent to that required by the Mayor by this chapter and by rules promulgated pursuant to this chapter, or upon the successful completion by the individual of the District's competency evaluation at the appropriate classification level.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 2009, D.C. Law 17-357, § 13, 56 DCR 1167.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-357, see notes following § 7-2341.01.</text>
-      </level>
+      <heading>Legislative History of Law 17-357</heading>
+      <text>For Law 17-357, see notes following § 7-2341.01.</text>
     </level>
   </level>
 </level>

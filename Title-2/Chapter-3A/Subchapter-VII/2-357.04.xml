@@ -3,31 +3,25 @@
   <heading>Other forms of security.</heading>
   <text>Pursuant to rules promulgated under this chapter, the CPO may require a solicitation to include one or more of the following forms of security to assure the timely, faithful, and uninterrupted provision of operations and maintenance services, procured separately or as one element of design-build-operate-maintain or design-build-finance-operate-maintain services:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Operations period surety bonds that secure the performance of the contractor's operations and maintenance obligations under the project delivery methods set forth in § 2-356.01;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Letters of credit in an amount appropriate to cover the cost to the District of preventing infrastructure service interruptions for a period up to 12 months under the project delivery methods set forth in § 2-356.01; or</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Appropriate written guarantees from the contractor (or depending upon the circumstances, from parent corporations) to secure the recovery of procurement costs to the District in the event of a default in performance by the contractor.</text>
-    </level>
+    <num>(1)</num>
+    <text>Operations period surety bonds that secure the performance of the contractor's operations and maintenance obligations under the project delivery methods set forth in § 2-356.01;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Letters of credit in an amount appropriate to cover the cost to the District of preventing infrastructure service interruptions for a period up to 12 months under the project delivery methods set forth in § 2-356.01; or</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Appropriate written guarantees from the contractor (or depending upon the circumstances, from parent corporations) to secure the recovery of procurement costs to the District in the event of a default in performance by the contractor.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2011, D.C. Law 18-371, § 704, 58 DCR 1185.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-371, see notes under § 2-351.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-371</heading>
+      <text>For history of Law 18-371, see notes under § 2-351.01.</text>
     </level>
   </level>
 </level>

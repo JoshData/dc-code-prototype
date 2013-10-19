@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-206.04</num>
   <heading>Congressional action on certain District matters.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-207</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>This section is enacted by Congress:</text>
@@ -16,7 +15,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>For the purpose of this section, "resolution" means only a joint resolution, the matter after the resolving clause of which is as follows: "That the .......... approves/disapproves of the action of the District of Columbia Council described as follows: ..........", the blank spaces therein being appropriately filled, and either approval or disapproval being appropriately indicated; but does not include a resolution which specifies more than 1 action.</text>
+    <text>For the purpose of this section, "resolution" means only a joint resolution, the matter after the resolving clause of which is as follows: "That the . . . . . . . . . . approves/disapproves of the action of the District of Columbia Council described as follows: . . . . . . . . . .", the blank spaces therein being appropriately filled, and either approval or disapproval being appropriately indicated; but does not include a resolution which specifies more than 1 action.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -50,23 +49,23 @@
     <num>(j)</num>
     <text>Appeals from the decisions of the chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution shall be decided without debate.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 24, 1973, 87 Stat. 816, Pub. L. 93-198, title VI, § 604; Oct. 12, 1984, 98 Stat. 1975, Pub. L. 98-473, § 131(h).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-207.</text>
-        <text>1973 Ed., § 1-127.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Fiscal year: See Historical and Statutory Notes following § 1-203.03.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-203.03 and § 1-206.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-207.</text>
+      <text>1973 Ed., § 1-127.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Fiscal year: See Historical and Statutory Notes following § 1-203.03.</text>
     </level>
   </level>
 </level>

@@ -1,150 +1,166 @@
 <level type="section">
   <num>31-4202</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-302</formerly-cited-as>
   <text>In this subdivision, unless the context otherwise requires:</text>
   <level>
+    <num>(1)</num>
+    <text>"District" means the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Mayor" means the Mayor of the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Commissioner" means the Commissioner of the Department of Insurance, Securities, and Banking of the District of Columbia, or the officer or officers, agency or agencies succeeding to his functions under Reorganization Plan No. 5 of 1952.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Department" means the Department of Insurance, Securities, and Banking of the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Company" means any life insurance company and includes a corporation, company, or association of persons engaged in, or proposing to engage in, the business of life insurance.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Domestic company" means an insurance company organized under the laws of the District, or formed or organized under an act of Congress.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Foreign company" means an insurance company organized under the laws of any state of the United States, or of any territory or insular possession of the United States.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Alien company" means a company organized under the laws of any country other than the United States or a territory or insular possession thereof.</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Person" includes individuals, corporations, associations, and partnerships; personal pronouns include all genders; the singular includes the plural, and the plural includes the singular.</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>The term "general agent" in this subdivision shall include an individual, copartnership, or corporation authorized in writing by a company, association, or exchange to solicit risks and collect premiums, and/or issue policies in its behalf.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>The term "agent" in this subdivision shall include an individual, copartnership, or corporation authorized in writing by a company, association, or exchange to solicit risks and collect premiums in its behalf.</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>The term "solicitor" in this subdivision shall include any individuals authorized in writing by a duly licensed agent to solicit risks and collect premiums in behalf of said agent.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>The terms "agent" and "solicitor" shall not include officers or salaried employees of any company, association, or exchange which is authorized to transact business in the District, who do not solicit, negotiate, or place risks.</text>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>The term "broker" in this subdivision shall include consultant, surveyor and/or any person, partnership, association, or corporation who, for money, commission, or anything of value, acts or aids in any manner on behalf of the insured in negotiating contracts of insurance or placing risks or taking out insurances, including surety bonds.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>"Net premium receipts" means gross premiums received less the sum of the following:</text>
     <level>
-      <num>(1)</num>
-      <text>"District" means the District of Columbia.</text>
+      <num>(A)</num>
+      <text>Premiums returned on policies cancelled or not taken;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Mayor" means the Mayor of the District of Columbia.</text>
+      <num>(B)</num>
+      <text>Premiums paid for reinsurances where the same are paid to companies duly licensed to do business in the District; and</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>"Commissioner" means the Commissioner of the Department of Insurance, Securities, and Banking of the District of Columbia, or the officer or officers, agency or agencies succeeding to his functions under Reorganization Plan No. 5 of 1952.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Department" means the Department of Insurance, Securities, and Banking of the District of Columbia.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Company" means any life insurance company and includes a corporation, company, or association of persons engaged in, or proposing to engage in, the business of life insurance.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Domestic company" means an insurance company organized under the laws of the District, or formed or organized under an act of Congress.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"Foreign company" means an insurance company organized under the laws of any state of the United States, or of any territory or insular possession of the United States.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Alien company" means a company organized under the laws of any country other than the United States or a territory or insular possession thereof.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Person" includes individuals, corporations, associations, and partnerships; personal pronouns include all genders; the singular includes the plural, and the plural includes the singular.</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>The term "general agent" in this subdivision shall include an individual, copartnership, or corporation authorized in writing by a company, association, or exchange to solicit risks and collect premiums, and/or issue policies in its behalf.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>The term "agent" in this subdivision shall include an individual, copartnership, or corporation authorized in writing by a company, association, or exchange to solicit risks and collect premiums in its behalf.</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>The term "solicitor" in this subdivision shall include any individuals authorized in writing by a duly licensed agent to solicit risks and collect premiums in behalf of said agent.</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>The terms "agent" and "solicitor" shall not include officers or salaried employees of any company, association, or exchange which is authorized to transact business in the District, who do not solicit, negotiate, or place risks.</text>
-    </level>
-    <level>
-      <num>(14)</num>
-      <text>The term "broker" in this subdivision shall include consultant, surveyor and/or any person, partnership, association, or corporation who, for money, commission, or anything of value, acts or aids in any manner on behalf of the insured in negotiating contracts of insurance or placing risks or taking out insurances, including surety bonds.</text>
-    </level>
-    <level>
-      <num>(15)</num>
-      <text>"Net premium receipts" means gross premiums received less the sum of the following:</text>
-      <level>
-        <num>(A)</num>
-        <text>Premiums returned on policies cancelled or not taken;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Premiums paid for reinsurances where the same are paid to companies duly licensed to do business in the District; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Dividends paid in cash or used by policyholders in payment of renewal premiums or in purchase of paid-up additional insurance.</text>
-      </level>
-    </level>
-    <level>
-      <num>(16)</num>
-      <text>"Surplus" means the excess of admitted assets over liabilities and capital, in the case of a company with capital stock, and the excess of admitted assets over liabilities in the case of a company without capital stock.</text>
-    </level>
-    <level>
-      <num>(17)</num>
-      <text>"Liabilities" means all debts, due or to become due, contingent or otherwise, of which the company has knowledge, and includes the reserves required by this subdivision.</text>
-    </level>
-    <level>
-      <num>(18)</num>
-      <text>"Industrial life insurance" means that form of life insurance, either: (A) Under which the premiums are payable weekly; or (B) under which the premiums are payable monthly or oftener; if the face amount of insurance provided in the policy is less than $1,000, and the words "industrial policy" are plainly printed upon the policy as a part of the descriptive matter.</text>
-    </level>
-    <level>
-      <num>(19)</num>
-      <text>"Admitted assets" includes the investments authorized or permitted pursuant to the National Association of Insurance Commissioners Accounting Practices and Procedures Manual.</text>
-    </level>
-    <level>
-      <num>(20)</num>
-      <text>"Domestic partner" shall have the same meaning as provided in § 32- 701(3).</text>
-    </level>
-    <level>
-      <num>(21)</num>
-      <text>"Domestic partnership" shall have the same meaning as provided in § 32- 701(4)).</text>
+      <num>(C)</num>
+      <text>Dividends paid in cash or used by policyholders in payment of renewal premiums or in purchase of paid-up additional insurance.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(16)</num>
+    <text>"Surplus" means the excess of admitted assets over liabilities and capital, in the case of a company with capital stock, and the excess of admitted assets over liabilities in the case of a company without capital stock.</text>
+  </level>
+  <level>
+    <num>(17)</num>
+    <text>"Liabilities" means all debts, due or to become due, contingent or otherwise, of which the company has knowledge, and includes the reserves required by this subdivision.</text>
+  </level>
+  <level>
+    <num>(18)</num>
+    <text>"Industrial life insurance" means that form of life insurance, either: (A) Under which the premiums are payable weekly; or (B) under which the premiums are payable monthly or oftener; if the face amount of insurance provided in the policy is less than $1,000, and the words "industrial policy" are plainly printed upon the policy as a part of the descriptive matter.</text>
+  </level>
+  <level>
+    <num>(19)</num>
+    <text>"Admitted assets" includes the investments authorized or permitted pursuant to the National Association of Insurance Commissioners Accounting Practices and Procedures Manual.</text>
+  </level>
+  <level>
+    <num>(20)</num>
+    <text>"Domestic partner" shall have the same meaning as provided in § 32-701(3).</text>
+  </level>
+  <level>
+    <num>(21)</num>
+    <text>"Domestic partnership" shall have the same meaning as provided in § 32-701(4)).</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 19, 1934, 48 Stat. 1128, ch. 672, ch. I, § 2; July 16, 1953, 67 Stat. 172, ch. 196, § 2; Apr. 26, 1994, D.C. Law 10-103, § 2, 41 DCR 1005; May 21, 1997, D.C. Law 11-268, § 10(h), 44 DCR 1730; Mar. 24, 1998, D.C. Law 12-81, § 21, 45 DCR 745; June 12, 2003, D.C. Law 14-310, § 8, 50 DCR 1092; June 11, 2004, D.C. Law 15-166, § 4(aa), 51 DCR 2817; Sept. 12, 2008, D.C. Law 17-231, § 28(a), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-302.</text>
-        <text>1973 Ed., § 35-302.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-310, in par. (4), validated a previously made technical correction.</text>
-        <text>D.C. Law 15-166, in par. (3), substituted "Commissioner of the Department of Insurance, Securities, and Banking" for "Commissioner of Insurance and Securities"; and, in par. (4), substituted "Department of Insurance, Securities, and Banking" for"Department of Insurance and Securities Regulation".</text>
-        <text>D.C. Law 17-231 added pars. (20) and (21).</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2 of Insurance Omnibus Temporary Amendment Act of 1993 (D.C. Law 10-76, March 17, 1994, law notification 41 DCR 1626).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 4(aa) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 10-103, the "Insurance Omnibus Amendment Act of 1994," was introduced in Council and assigned Bill No. 10-394, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on January 4, 1994, and February 1, 1994, respectively. Signed by the Mayor on February 17, 1994, it was assigned Act No. 10-191 and transmitted to both Houses of Congress for its review. D.C. Law 10-103 became effective on April 26, 1994.</text>
-        <text>Law 11-268, the "Department of Insurance and Securities Regulation Establishment Act of 1996," was introduced in Council and assigned Bill No. 11- 415, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 30, 1996, it was assigned Act No. 11-524 and transmitted to both Houses of Congress for its review. D.C. Law 11-268 became effective on May 21, 1997.</text>
-        <text>Law 12-81, the "Technical Amendments Act of 1998," was introduced in Council and assigned Bill No. 12-408, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 4, 1997 and December 4, 1997, respectively. Signed by the Mayor on December 22, 1997, it was assigned Act No. 12-246 and transmitted to both Houses of Congress for its review. D.C. Law 12-81 became effective on March 24, 1998.</text>
-        <text>Law 14-310, the "Criminal Code and Miscellaneous Technical Amendments Act of 2002", was introduced in Council and assigned Bill No. 14-954, which was referred to the Committee on Whole. The Bill was adopted on first and second readings on December 3, 2002, and December 17, 2002, respectively. Signed by the Mayor on January 22, 2003, it was assigned Act No. 14-622 and transmitted to both Houses of Congress for its review. D.C. Law 14-310 became effective on June 12, 2003.</text>
-        <text>For Law 15-166, see notes following § 31-1004.</text>
-        <text>For Law 17-231, see notes following § 31-3301.01.</text>
-      </level>
-      <level>
-        <heading>Change in Government</heading>
-        <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Department of Insurance abolished: The Department of Insurance, including the Superintendent, was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. Reorganization Order No. 43, dated June 23, 1953, as amended, established, under the direction and control of a Commissioner, a Department of Insurance headed by a Superintendent. The Order provided for the organization of the Department, abolished the previously existing Department of Insurance, and provided that all functions and positions of the previous Department would be transferred to the new Department of Insurance, including the duties, powers, and authorities of all officers and employees; and that all personnel, property, records and unexpended balances relating to the functions and positions transferred would also be transferred to the new Department. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. The functions of the Superintendent of Insurance were transferred to the Department of Consumer and Regulatory Affairs by Reorganization Plan No. 1 of 1983, effective March 31, 1983. Pursuant to the provisions of D.C. Law 11- 268, the Department of Insurance and Securities Regulation was established and the duties of the Superintendent of Insurance and the Insurance Administration were assumed by the Commissioner of Insurance and Securities, and the Insurance Administration in the Department of Consumer and Regulatory Affairs was abolished.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Hospital and medical services corporations, applicability of this section, see § 31-3503.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 22-3225.01 and § 31-701.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-302.</text>
+      <text>1973 Ed., § 35-302.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-310, in par. (4), validated a previously made technical correction.</text>
+      <text>D.C. Law 15-166, in par. (3), substituted "Commissioner of the Department of Insurance, Securities, and Banking" for "Commissioner of Insurance and Securities"; and, in par. (4), substituted "Department of Insurance, Securities, and Banking" for "Department of Insurance and Securities Regulation".</text>
+      <text>D.C. Law 17-231 added pars. (20) and (21).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2 of Insurance Omnibus Temporary Amendment Act of 1993 (D.C. Law 10-76, March 17, 1994, law notification 41 DCR 1626).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 4(aa) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-103</heading>
+      <text>Law 10-103, the "Insurance Omnibus Amendment Act of 1994," was introduced in Council and assigned Bill No. 10-394, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on January 4, 1994, and February 1, 1994, respectively. Signed by the Mayor on February 17, 1994, it was assigned Act No. 10-191 and transmitted to both Houses of Congress for its review. D.C. Law 10-103 became effective on April 26, 1994.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>Law 11-268, the "Department of Insurance and Securities Regulation Establishment Act of 1996," was introduced in Council and assigned Bill No. 11-415, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 30, 1996, it was assigned Act No. 11-524 and transmitted to both Houses of Congress for its review. D.C. Law 11-268 became effective on May 21, 1997.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-81</heading>
+      <text>Law 12-81, the "Technical Amendments Act of 1998," was introduced in Council and assigned Bill No. 12-408, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 4, 1997 and December 4, 1997, respectively. Signed by the Mayor on December 22, 1997, it was assigned Act No. 12-246 and transmitted to both Houses of Congress for its review. D.C. Law 12-81 became effective on March 24, 1998.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-310</heading>
+      <text>Law 14-310, the "Criminal Code and Miscellaneous Technical Amendments Act of 2002", was introduced in Council and assigned Bill No. 14-954, which was referred to the Committee on Whole. The Bill was adopted on first and second readings on December 3, 2002, and December 17, 2002, respectively. Signed by the Mayor on January 22, 2003, it was assigned Act No. 14-622 and transmitted to both Houses of Congress for its review. D.C. Law 14-310 became effective on June 12, 2003.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-166</heading>
+      <text>For Law 15-166, see notes following § 31-1004.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 31-3301.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Department of Insurance abolished: The Department of Insurance, including the Superintendent, was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. Reorganization Order No. 43, dated June 23, 1953, as amended, established, under the direction and control of a Commissioner, a Department of Insurance headed by a Superintendent. The Order provided for the organization of the Department, abolished the previously existing Department of Insurance, and provided that all functions and positions of the previous Department would be transferred to the new Department of Insurance, including the duties, powers, and authorities of all officers and employees; and that all personnel, property, records and unexpended balances relating to the functions and positions transferred would also be transferred to the new Department. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. The functions of the Superintendent of Insurance were transferred to the Department of Consumer and Regulatory Affairs by Reorganization Plan No. 1 of 1983, effective March 31, 1983. Pursuant to the provisions of D.C. Law 11-268, the Department of Insurance and Securities Regulation was established and the duties of the Superintendent of Insurance and the Insurance Administration were assumed by the Commissioner of Insurance and Securities, and the Insurance Administration in the Department of Consumer and Regulatory Affairs was abolished.</text>
+    </level>
+    <level>
+      <heading>Change in Government</heading>
+      <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
     </level>
   </level>
 </level>

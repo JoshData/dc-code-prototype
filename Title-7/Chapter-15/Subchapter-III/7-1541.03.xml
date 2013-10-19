@@ -1,10 +1,9 @@
 <level type="section">
   <num>7-1541.03</num>
   <heading>Licenses.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-1603</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>No person shall operate any tissue bank in the District of Columbia without a valid license issued pursuant to this subchapter and §§ 43-119 and 43- 125. No such license shall be issued except to persons duly licensed or duly registered as physicians under Chapter 12 of Title 3 or to persons holding valid licenses to operate and maintain hospitals for humans pursuant to Chapter 5 of Title 44.</text>
+    <text>No person shall operate any tissue bank in the District of Columbia without a valid license issued pursuant to this subchapter and §§ 43-119 and 43-125. No such license shall be issued except to persons duly licensed or duly registered as physicians under Chapter 12 of Title 3 or to persons holding valid licenses to operate and maintain hospitals for humans pursuant to Chapter 5 of Title 44.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -50,34 +49,44 @@
     <num>(e)</num>
     <text>Except with respect to the provisions as to licensing, the provisions of this subchapter and §§ 43-119 and 43-125, and the regulations made pursuant thereto, shall apply to federal agencies situated in the District of Columbia, and to District of Columbia agencies.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 10, 1962, 76 Stat. 535, Pub. L. 87-656, § 4; July 8, 1963, 77 Stat. 78, Pub. L. 88-60, § 6; May 26, 1970, 84 Stat. 270, Pub. L. 91-268, § 9(b); July 29, 1970, 84 Stat. 585, Pub. L. 91-358, title I, § 164(f); May 10, 1989, D.C. Law 7-231, § 8, 36 DCR 492; Apr. 15, 2008, D.C. Law 17-145, § 30(e)(2), 55 DCR 2532; Mar. 25, 2009, D.C. Law 17-353, § 230(f), 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-1603.</text>
-        <text>1973 Ed., § 2-253.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-145, in the introductory language of subsec. (b), substituted " subchapter II-A of this chapter 15" for "subchapter II of this chapter 15"; in subsec. (b)(6), substituted "recovered, screened, tested, processed, stored, distributed, and transported" for "processed, preserved, stored, and transported"; and, in subsec. (b)(7), substituted "recovering, screening, testing, processing, storing, distributing, or transporting" for "processing, preserving, storing, or transporting".</text>
-        <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (b).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 7-231, the "Technical Amendments Act of 1988," was introduced in Council and assigned Bill No. 7-586, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 29, 1988 and December 13, 1988, respectively. Signed by the Mayor on January 6, 1989, it was assigned Act No. 7-285 and transmitted to both Houses of Congress for its review.</text>
-        <text>For Law 17-145, see notes following § 7-1501.01.</text>
-        <text>For Law 17-353, see notes following § 7-161.</text>
-      </level>
-      <level>
-        <heading>Change in Government</heading>
-        <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(36) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Embalming of dead bodies, handling of tissue, see § 43-125.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 43-125.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-1603.</text>
+      <text>1973 Ed., § 2-253.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-145, in the introductory language of subsec. (b), substituted "subchapter II-A of this chapter 15" for "subchapter II of this chapter 15"; in subsec. (b)(6), substituted "recovered, screened, tested, processed, stored, distributed, and transported" for "processed, preserved, stored, and transported"; and, in subsec. (b)(7), substituted "recovering, screening, testing, processing, storing, distributing, or transporting" for "processing, preserving, storing, or transporting".</text>
+      <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (b).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-231</heading>
+      <text>Law 7-231, the "Technical Amendments Act of 1988," was introduced in Council and assigned Bill No. 7-586, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 29, 1988 and December 13, 1988, respectively. Signed by the Mayor on January 6, 1989, it was assigned Act No. 7-285 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-145</heading>
+      <text>For Law 17-145, see notes following § 7-1501.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 7-161.</text>
+    </level>
+    <level>
+      <heading>Change in Government</heading>
+      <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(36) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
     </level>
   </level>
 </level>

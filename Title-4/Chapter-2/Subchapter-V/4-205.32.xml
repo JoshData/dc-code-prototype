@@ -1,34 +1,27 @@
 <level type="section">
   <num>4-205.32</num>
   <heading>Establishment of net payment received.</heading>
-  <formerly-cited-as>DC ST 1981 § 3-205.32</formerly-cited-as>
   <text>The Mayor shall deduct from the gross amount of any accrued statutory benefit, lump-sum payment, or settlement from any source received by a recipient of GPA (provided such money is still available to the recipient when the Mayor learns of its receipt):</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Attorneys' fees, medical expense, and other legitimate expenses of collection or settlement; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Legitimate debts of the recipient incurred for living expenses prior to his or her application for assistance and for which credit was extended in anticipation of the award or settlement.</text>
-    </level>
+    <num>(1)</num>
+    <text>Attorneys' fees, medical expense, and other legitimate expenses of collection or settlement; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Legitimate debts of the recipient incurred for living expenses prior to his or her application for assistance and for which credit was extended in anticipation of the award or settlement.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 6, 1982, D.C. Law 4-101, § 532, 29 DCR 1060.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 3-205.32.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-101, see Historical and Statutory Notes following § 4-201.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 3-205.32.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-101</heading>
+      <text>For legislative history of D.C. Law 4-101, see Historical and Statutory Notes following § 4-201.01.</text>
     </level>
   </level>
 </level>

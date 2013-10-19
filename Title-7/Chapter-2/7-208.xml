@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-208</num>
   <heading>Judicial procedure to establish facts of birth.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-208</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>If a delayed certificate of birth is rejected under § 7-207, a complaint signed and sworn to by the petitioner may be filed with the Court for an order establishing a record of the date and place of the birth and the parentage of the person whose birth is to be registered. A complaint filed under this section shall be governed by the Rules of the Superior Court of the District of Columbia.</text>
@@ -42,22 +41,22 @@
     <num>(e)</num>
     <text>The Court shall forward a certified copy of such order to the Registrar not later than the 10th day of the month following the month during which it was entered. The certified copy of the order shall cause the Registrar to execute a certificate of birth.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 8, 1981, D.C. Law 4-34, § 9, 28 DCR 3271.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-208.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-34, see Historical and Statutory Notes following § 7-201.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-210.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-208.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-34</heading>
+      <text>For legislative history of D.C. Law 4-34, see Historical and Statutory Notes following § 7-201.</text>
     </level>
   </level>
 </level>

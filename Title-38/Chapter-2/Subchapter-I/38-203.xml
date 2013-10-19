@@ -1,7 +1,6 @@
 <level type="section">
   <num>38-203</num>
   <heading>Enforcement; penalties.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-403</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>An accurate daily record of the attendance of all minors covered by § 38-202 and this section shall be kept by the teachers of each public, independent, private, or parochial school and by every teacher who gives instruction privately. These records shall be open for inspection at all times by the Board, the Superintendent of Schools, school attendance officers, or other persons authorized to enforce this subchapter.</text>
@@ -38,77 +37,100 @@
     <num>(i)</num>
     <text>Within 60 days after the end of a school year, each public, independent, private, or parochial school shall report to the Mayor, or the Mayor's designee, and make publicly available, the following data based on the preceding school year:</text>
     <level>
+      <num>(A)</num>
+      <text>The number of minors, categorized by grade, or equivalent grouping for ungraded schools, who had unexcused absences for:</text>
       <level>
-        <num>(A)</num>
-        <text>The number of minors, categorized by grade, or equivalent grouping for ungraded schools, who had unexcused absences for:</text>
-        <level>
-          <num>(i)</num>
-          <text>One to 5 days;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Six to 10 days;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Eleven to 20 days; and</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>Twenty-one or more days;</text>
-        </level>
+        <num>(i)</num>
+        <text>One to 5 days;</text>
       </level>
       <level>
-        <num>(A-i)</num>
-        <text>[Not funded]</text>
+        <num>(ii)</num>
+        <text>Six to 10 days;</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>The number of minors, categorized by grade, or equivalent grouping for ungraded schools, that the school reported to the Child and Family Services Agency pursuant to § 4-1321.02(a-1) and (a-2);</text>
+        <num>(iii)</num>
+        <text>Eleven to 20 days; and</text>
       </level>
       <level>
-        <num>(B-i)</num>
-        <text>[Not funded]; and</text>
+        <num>(iv)</num>
+        <text>Twenty-one or more days;</text>
+      </level>
+    </level>
+    <level>
+      <num>(A-i)</num>
+      <text>The work of the school-based student support teams in reducing unexcused absences, including:</text>
+      <level>
+        <num>(i)</num>
+        <text>The number of students who were referred to a school-based student support team;</text>
       </level>
       <level>
-        <num>(C)</num>
-        <text>The policy on absences, including defined categories of valid excuses, that it used.</text>
+        <num>(ii)</num>
+        <text>The number of students who met with a school-based student support team;</text>
       </level>
+      <level>
+        <num>(iii)</num>
+        <text>A summary of the action plans and strategies implemented by the school-based student support team to eliminate or ameliorate unexcused absences; and</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>A summary of the services utilized by students to reduce unexcused absences;</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>A summary of the common barriers to implementing the recommendations of the school-based student support team;</text>
+      </level>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The number of minors, categorized by grade, or equivalent grouping for ungraded schools, that the school reported to the Child and Family Services Agency pursuant to § 4-1321.02(a-1) and (a-2);</text>
+    </level>
+    <level>
+      <num>(B-i)</num>
+      <text>The number of minors categorized by grade, or equivalent grouping for ungraded schools, that the school referred to the Court Social Services Division of the Family Court of the Superior Court of the District of Columbia for truancy; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The policy on absences, including defined categories of valid excuses, that it used.</text>
     </level>
   </level>
   <level>
     <num>(j)</num>
-    <text>[Not funded]</text>
+    <text>By August 1, 2012, the Mayor shall develop, through rulemaking, appropriate enforcement mechanisms to ensure that each school, principal, and teacher is in full compliance with the requirements of this subchapter and any regulations issued pursuant to this subchapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Feb. 4, 1925, 43 Stat. 806, ch. 140, Art. I, §§ 5-7; renumbered as Art. II, § 2 and amended, Mar. 8, 1991, D.C. Law 8-247, § 2(a), 38 DCR 376; Oct. 26, 2010, D.C. Law 18-242, § 3(b), 57 DCR 7555; June 7, 2012, D.C. Law 19- 141, § 302(b), 59 DCR 3083.)</text>
+      <heading>History</heading>
+      <text>(Feb. 4, 1925, 43 Stat. 806, ch. 140, Art. I, §§ 5-7; renumbered as Art. II, § 2 and amended, Mar. 8, 1991, D.C. Law 8-247, § 2(a), 38 DCR 376; Oct. 26, 2010, D.C. Law 18-242, § 3(b), 57 DCR 7555; June 7, 2012, D.C. Law 19-141, § 302(b), 59 DCR 3083.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-403.</text>
-        <text>1973 Ed., §§ 31-205 -- 31-207.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-242 added subsec. (i).</text>
-        <text>D.C. Law 19-141 added subsecs. (i)(A-i), (B-i), and (j), but is not in effect. See Miscellaneous Notes.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-247, see Historical and Statutory Notes following § 38-201.</text>
-        <text>For history of Law 18-242, see notes under § 38-201.</text>
-        <text>For history of Law 19-141, see notes under § 38-203.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 601 of D.C. Law 19-141, as amended by section 7004 of D.C. Law 19-168, reads as follows: "Sections 302(b)(1), 304, and 502(a) shall apply upon the inclusion of their fiscal effect in an approved budget and financial plan.".</text>
-        <text>The fiscal effect of sections 302(b)(1), 304, and 502 of D.C. Law 19-141 has not been included in an approved budget and financial plan. Therefore, the provisions of this section, enacted by Law 19-141, are not in effect.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-2605.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-403.</text>
+      <text>1973 Ed., §§ 31-205 - 31-207.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-242 added subsec. (i).</text>
+      <text>D.C. Law 19-141 added subsecs. (i)(A-i), (B-i), and (j).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-247</heading>
+      <text>For legislative history of D.C. Law 8-247, see notes under § 38-201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-242</heading>
+      <text>For history of Law 18-242, see notes under § 38-201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-141</heading>
+      <text>For history of Law 19-141, see notes under § 38-201.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 601 of D.C. Law 19-141, as amended by D.C. Law 19-168, § 7004, provided that §§ 302(b)(1), 304, and 502(a) of the act shall apply upon the inclusion of their fiscal effect in an approved budget and financial plan.</text>
     </level>
   </level>
 </level>

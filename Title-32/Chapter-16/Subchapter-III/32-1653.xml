@@ -3,32 +3,26 @@
   <heading>Funding of students.</heading>
   <text>Pursuant to § 51-109.01, a student enrolled in an Educational Stepladder program approved course and who maintains a satisfactory level of attendance and achievement in the program and who is:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Receiving unemployment insurance compensation shall be eligible for an extension of benefits for the duration of the program, up to a maximum amount of 52 times his or her weekly benefit amount, or 100% of the wages for employment paid the individual by employers during his or her base period, whichever is the lesser; this total amount includes regular benefits and any federal extension that may be in effect; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Not receiving unemployment insurance compensation may be eligible for a weekly monetary benefit equal to the unemployment insurance compensation weekly benefit amount a person earning minimum wage would receive, to the extent that funds are available, for the duration of the program, up to a maximum of 52 times the calculated weekly benefit.</text>
-    </level>
+    <num>(1)</num>
+    <text>Receiving unemployment insurance compensation shall be eligible for an extension of benefits for the duration of the program, up to a maximum amount of 52 times his or her weekly benefit amount, or 100% of the wages for employment paid the individual by employers during his or her base period, whichever is the lesser; this total amount includes regular benefits and any federal extension that may be in effect; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Not receiving unemployment insurance compensation may be eligible for a weekly monetary benefit equal to the unemployment insurance compensation weekly benefit amount a person earning minimum wage would receive, to the extent that funds are available, for the duration of the program, up to a maximum of 52 times the calculated weekly benefit.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 7, 2004, D.C. Law 15-205, § 1154, 51 DCR 8441.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 1153 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004, 51 DCR 8236).</text>
-        <text>For temporary (90 day) addition, see § 1153 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004, 51 DCR 11725).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-205, see notes following § 32-1521.01.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 1153 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004, 51 DCR 8236).</text>
+      <text>For temporary (90 day) addition, see § 1153 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004, 51 DCR 11725).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-205</heading>
+      <text>For Law 15-205, see notes following § 32-1521.01.</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,10 @@
 <level type="section">
   <num>1-815.02</num>
   <heading>Jurisdiction and venue.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-768.2</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">In general.</text> -- The United States District Court for the District of Columbia shall have exclusive jurisdiction and venue, regardless of the amount in controversy, of:</text>
+    <heading>In general</heading>
+    <text>The United States District Court for the District of Columbia shall have exclusive jurisdiction and venue, regardless of the amount in controversy, of:</text>
     <level>
       <num>(1)</num>
       <text>Civil actions brought by participants or beneficiaries pursuant to this chapter, and</text>
@@ -16,28 +16,27 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Review by Court of Appeals.</text> -- Notwithstanding any other provision of law, any order of the United States District Court for the District of Columbia issued pursuant to an action described in subsection (a) of this section that concerns the validity or enforceability of any provision of this chapter or seeks injunctive relief against the Secretary or Trustee under this chapter shall be reviewable only pursuant to a notice of appeal to the United States Court of Appeals for the District of Columbia Circuit.</text>
+    <heading>Review by Court of Appeals</heading>
+    <text>Notwithstanding any other provision of law, any order of the United States District Court for the District of Columbia issued pursuant to an action described in subsection (a) of this section that concerns the validity or enforceability of any provision of this chapter or seeks injunctive relief against the Secretary or Trustee under this chapter shall be reviewable only pursuant to a notice of appeal to the United States Court of Appeals for the District of Columbia Circuit.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Review by Supreme Court.</text> -- Notwithstanding any other provision of law, review by the Supreme Court of the United States of a decision of the Court of Appeals that is issued pursuant to subsection (b) of this section may be had only if the petition for relief is filed within 20 calendar days after the entry of such decision.</text>
+    <heading>Review by Supreme Court</heading>
+    <text>Notwithstanding any other provision of law, review by the Supreme Court of the United States of a decision of the Court of Appeals that is issued pursuant to subsection (b) of this section may be had only if the petition for relief is filed within 20 calendar days after the entry of such decision.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Restrictions on declaratory or injunctive relief.</text> -- No order of any court granting declaratory or injunctive relief against the Secretary or the Trustee shall take effect during the pendency of the action before such court, during the time an appeal may be taken, or (if an appeal is taken or petition for certiorari filed) during the period before the court has entered its final order disposing of the action.</text>
+    <heading>Restrictions on declaratory or injunctive relief</heading>
+    <text>No order of any court granting declaratory or injunctive relief against the Secretary or the Trustee shall take effect during the pendency of the action before such court, during the time an appeal may be taken, or (if an appeal is taken or petition for certiorari filed) during the period before the court has entered its final order disposing of the action.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 5, 1997, 111 Stat. 728, Pub. L. 105-33, § 11072.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-768.2.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-768.2.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>15-302</num>
   <heading>Period during which writ of execution may issue; returnable period.</heading>
-  <formerly-cited-as>DC ST 1981 § 15-302</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A writ of execution on a judgment in a civil action may be issued within three years after:</text>
@@ -18,19 +17,33 @@
     <num>(b)</num>
     <text>A writ of execution shall be returnable on or before the sixtieth day after its date.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, 77 Stat. 525, Pub. L. 88-241, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 15-302.</text>
-        <text>1973 Ed., § 15-302.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Disability insurance benefits, exemption from execution, see § 31-4716.01.</text>
+      <text>Exemptions from executions generally, see § 15-101 et seq.</text>
+      <text>forfeited recognizances and judgments, executions upon, see § 16-709.</text>
+      <text>Fraternal benefit association benefits, exemption from execution, see § 31-5711.</text>
+      <text>Group life policies and proceeds, exemption from execution, see § 31-4717.</text>
+      <text>Landlord's lien for rent, enforcement by execution, see §§ 42-3214 and 42-3215.</text>
+      <text>Public assistance, exemption from assignment and execution, see § 4-217.01.</text>
+      <text>Seizure by execution of goods located on leased premises, payment of rent due as prerequisite, see § 42-3216.</text>
+      <text>Teacher retirement annuities, exemption from assignment or execution, see § 38-2001.17.</text>
+      <text>Unemployment compensation benefits, exemption from execution, except for debts accrued for necessaries, see § 51-118.</text>
+      <text>Wrongful death damages, exemption from appropriation for payment of debts and liabilities, see § 16-2703.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 15-301 and § 15-303.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 15-302.</text>
+      <text>1973 Ed., § 15-302.</text>
     </level>
   </level>
 </level>

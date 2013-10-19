@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>X</num>
-  <heading>Hearing Procedures.</heading>
+  <heading>Hearing Procedures</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-210.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-210.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-210.03.xml"/>

@@ -9,25 +9,27 @@
     <num>(b)</num>
     <text>By October 1, of each year, the District Department of Transportation shall provide the Council of the District of Columbia, Committee on Public Works and the Environment, or a successor committee, a report summarizing the public education activities completed during the previous fiscal year, along with any statistics collected regarding bicycle accidents and injuries during the preceding fiscal year.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1985, D.C. Law 5-179, § 8, 32 DCR 764, as added May 23, 2000, D.C. Law 13-112, § 2(b), 47 DCR 1985; July 18, 2008, D.C. Law 17-184, § 2(c), 55 DCR 6101; Mar. 25, 2009, D.C. Law 17-353, § 238(c), 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-184, in subsecs. (a) and (b), substituted "District Department of Transportation" for "Department of Public Works".</text>
-        <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (b).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-112, see notes following § 50-1601.</text>
-        <text>For Law 17-184, see notes following § 50-1603.</text>
-        <text>For Law 17-353, see notes following § 50-324.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-184, in subsecs. (a) and (b), substituted "District Department of Transportation" for "Department of Public Works".</text>
+      <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (b).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-112</heading>
+      <text>For Law 13-112, see notes following § 50-1601.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-184</heading>
+      <text>For Law 17-184, see notes following § 50-1603.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 50-324.</text>
     </level>
   </level>
 </level>

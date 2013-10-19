@@ -1,10 +1,9 @@
 <level type="section">
   <num>31-5104</num>
   <heading>Limitations on amount.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1004</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>The amount of credit life insurance shall not exceed the initial indebtedness however the indebtedness may be repayable; provided, however, that nothing contained herein shall be deemed to supersede or repeal the limitation on the amount of group insurance specified in § 31-4710(2)(D). In cases where an indebtedness is repayable in substantially equal installments, the amount of insurance shall at no time exceed the scheduled amount of unpaid indebtedness in the case of any individual policy or the actual amount of the unpaid indebtedness in the case of any group policy.</text>
+    <text>The amount of credit life insurance shall not exceed the initial indebtedness however the indebtedness may be repayable; provided, however, that nothing contained herein shall be deemed to supersede or repeal the limitation on the amount of group insurance specified in § 31-4710(2)(D) [repealed]. In cases where an indebtedness is repayable in substantially equal installments, the amount of insurance shall at no time exceed the scheduled amount of unpaid indebtedness in the case of any individual policy or the actual amount of the unpaid indebtedness in the case of any group policy.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -14,19 +13,15 @@
     <num>(c)</num>
     <text>Notwithstanding subsections (a) and (b) of this section, the amount of any credit life insurance or credit accident and health insurance with respect to indebtedness incurred to defray educational costs of a student may include the part of a commitment that has not been advanced by the creditor.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 25, 1962, 76 Stat. 581, Pub. L. 87-686, § 4; Sept. 20, 1966, 80 Stat. 821, Pub. L. 89-594, § 2.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1004.</text>
-        <text>1973 Ed., § 35-1604.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1004.</text>
+      <text>1973 Ed., § 35-1604.</text>
     </level>
   </level>
 </level>

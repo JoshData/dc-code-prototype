@@ -1,21 +1,16 @@
 <level type="section">
   <num>1-1310</num>
   <heading>Scale of plats.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-910</formerly-cited-as>
   <text>The plats and squares and subdivisions of the City of Washington shall be drawn upon a uniform scale of not less than 1 inch to 50 feet, and shall show the lines of all subdivisions of the squares as the same existed at the date of the completion of each square.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1901, 31 Stat. 1425, ch. 854, § 1580.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-910.</text>
-        <text>1973 Ed., § 1-610.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-910.</text>
+      <text>1973 Ed., § 1-610.</text>
     </level>
   </level>
 </level>

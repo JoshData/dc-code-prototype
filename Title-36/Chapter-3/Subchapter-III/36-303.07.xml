@@ -1,7 +1,6 @@
 <level type="section">
   <num>36-303.07</num>
   <heading>Application of subchapter.</heading>
-  <formerly-cited-as>DC ST 1981 § 10-227</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>This subchapter shall only apply to that portion of a marketing agreement which concerns the operation of a retail service station which is located within the District of Columbia and only to the extent of the business conducted by a retail dealer within the District of Columbia.</text>
@@ -14,23 +13,19 @@
     <num>(c)</num>
     <text>This subchapter shall also apply to any failure to renew a preexisting marketing agreement.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 19, 1977, D.C. Law 1-123, § 4-207, 24 DCR 2371.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 10-227.</text>
-        <text>1973 Ed., § 10-227.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-123, see Historical and Statutory Notes following § 36-301.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 10-227.</text>
+      <text>1973 Ed., § 10-227.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-123</heading>
+      <text>For legislative history of D.C. Law 1-123, see Historical and Statutory Notes following § 36-301.01.</text>
     </level>
   </level>
 </level>

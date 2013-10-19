@@ -17,26 +17,27 @@
     <num>(d)</num>
     <text>This section shall not prohibit the licensee under an on-premises retailer's license from accepting payment by credit card for sales of alcoholic beverages to customers.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Jan. 24, 1934, 48 Stat. 336, ch. 4, § 35; Dec. 8, 1970, 84 Stat. 1394, Pub. L. 91-535, § 6; Sept. 29, 1982, D.C. Law 4-157, § 14, 29 DCR 3617; Mar. 7, 1987, D.C. Law 6-217, § 15, 34 DCR 907; May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <text>D.C. Law 13-298 amended and enacted into law Title 25 of the District of Columbia Official Code. The text of this section is derived from provisions formerly found in D.C. Code § 25-133.</text>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 25-734.</text>
-        <text>1973 Ed., § 25-133.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-298, see notes following § 25-101.</text>
-        <text>For legislative history of D.C. Law 4-157, see Historical and Statutory Notes following § 25-101.</text>
-        <text>For legislative history of D.C. Law 6-217, see Historical and Statutory Notes following § 25-101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 25-734.</text>
+      <text>1973 Ed., § 25-133.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-298</heading>
+      <text>For D.C. Law 13-298, see notes following § 25-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-157</heading>
+      <text>For legislative history of D.C. Law 4-157, see Historical and Statutory Notes following § 25-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-217</heading>
+      <text>For legislative history of D.C. Law 6-217, see Historical and Statutory Notes following § 25-101.</text>
     </level>
   </level>
 </level>

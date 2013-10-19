@@ -1,45 +1,43 @@
 <level type="section">
   <num>31-5602.08</num>
-  <heading>Denial, suspension, or revocation on grounds of lack of qualification</heading>
+  <heading>Denial, suspension, or revocation on grounds of lack of qualification.</heading>
   <text>A determination by the Commissioner that an applicant or licensed person lacks qualification shall be made subject to the following limitations and considerations:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The Commissioner may not enter an order against a broker-dealer on the basis of the lack of qualification of a person other than the broker-dealer if the broker-dealer is an individual.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The Commissioner may not enter an order against an investment adviser on the basis of the lack of qualification of a person other than the investment adviser if the investment adviser is an individual.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The Commissioner may not enter an order solely because of lack of experience of the applicant or licensed person if the applicant or licensed person is qualified by training or knowledge.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>An agent who will work under the supervision of a licensed broker-dealer need not have the same qualifications as a broker-dealer and an investment adviser representative who will work under the supervision of a licensed investment adviser need not have the same qualifications as an investment adviser.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>An investment adviser is not qualified solely on the basis of experience as a broker-dealer or agent. If the Commissioner finds an applicant for initial or renewal licensure as a broker-dealer is not qualified as an investment adviser, the Commissioner may, by order, condition the applicant's licensure as a broker-dealer upon the broker-dealer not transacting business in the District as an investment adviser.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>The Commissioner may, by rule, provide for an examination, which may be written, oral, or both, to be taken by any class of, or all, applicants. The Commissioner may, by rule or order, waive the examination requirement as to a person or class of persons if the Commissioner determines that the examination is not necessary or appropriate in the public interest or for the protection of investors.</text>
-    </level>
+    <num>(1)</num>
+    <text>The Commissioner may not enter an order against a broker-dealer on the basis of the lack of qualification of a person other than the broker-dealer if the broker-dealer is an individual.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The Commissioner may not enter an order against an investment adviser on the basis of the lack of qualification of a person other than the investment adviser if the investment adviser is an individual.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The Commissioner may not enter an order solely because of lack of experience of the applicant or licensed person if the applicant or licensed person is qualified by training or knowledge.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>An agent who will work under the supervision of a licensed broker-dealer need not have the same qualifications as a broker-dealer and an investment adviser representative who will work under the supervision of a licensed investment adviser need not have the same qualifications as an investment adviser.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>An investment adviser is not qualified solely on the basis of experience as a broker-dealer or agent. If the Commissioner finds an applicant for initial or renewal licensure as a broker-dealer is not qualified as an investment adviser, the Commissioner may, by order, condition the applicant's licensure as a broker-dealer upon the broker-dealer not transacting business in the District as an investment adviser.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>The Commissioner may, by rule, provide for an examination, which may be written, oral, or both, to be taken by any class of, or all, applicants. The Commissioner may, by rule or order, waive the examination requirement as to a person or class of persons if the Commissioner determines that the examination is not necessary or appropriate in the public interest or for the protection of investors.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 26, 2000, D.C. Law 13-203, § 208, 47 DCR 7837.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-203, see notes following § 31-5601.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-5602.07.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-203</heading>
+      <text>For Law 13-203, see notes following § 31-5601.01.</text>
     </level>
   </level>
 </level>

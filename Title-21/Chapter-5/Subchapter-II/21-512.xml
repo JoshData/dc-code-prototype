@@ -1,7 +1,6 @@
 <level type="section">
   <num>21-512</num>
   <heading>Release of voluntary patients.</heading>
-  <formerly-cited-as>DC ST 1981 § 21-512</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A person accepted for voluntary treatment by a hospital, the Department, or a mental health provider, pursuant to section 21-511 may, at any time, if the person is 18 years of age or over, obtain his or her release from the hospital or other treatment by filing a written request with the chief of service or, in the case of the Department, the chief clinical officer. Within a period of 48 hours after the receipt of the request, the chief of service or the chief clinical officer shall ensure that discharge planning is completed and release the person making the request. A person admitted into treatment pursuant to section 21-511 who is under 18 years of age may, at any time, obtain his or her release from the hospital or other treatment in the same manner, upon the written request of the person's spouse or domestic partner, parent, or legal guardian. A person under 18 years of age who has sought voluntary outpatient treatment without the consent of a parent or legal guardian may obtain his or her release from that treatment by filing a written request with the chief of service or chief clinical officer.</text>
@@ -10,47 +9,50 @@
     <num>(b)</num>
     <text>When the chief of service or chief clinical officer determines that the person voluntarily receiving treatment pursuant to section 21-511 has recovered or that continued treatment of the person is no longer beneficial to the person, or advisable, the chief of service or chief clinical officer may discharge the person from the hospital or from other treatment.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 1965, 79 Stat. 752, Pub. L. 89-183, § 1; Apr. 4, 2003, D.C. Law 14-283, § 2(g), 50 DCR 917; Sept. 12, 2008, D.C. Law 17-231, § 22(b), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 21-512.</text>
-        <text>1973 Ed., § 21-512.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-283 rewrote the section which had read as follows:</text>
-        <text>"§ 21-512. Release of voluntary patients."</text>
-        <text>"(a) A voluntary patient admitted to a hospital pursuant to section 21-511 may, at any time, if he is 18 years of age or over, obtain his release from the hospital by filing a written request with the chief of service. Within a period of 48 hours after the receipt of the request, the chief of service shall release the patient making the request. A voluntary patient under 18 years of age, so admitted, may, at any time, obtain his release from the hospital in the same manner, upon the written request of his spouse, parent, or legal guardian.</text>
-        <text>"(b) When the chief of service determines that a voluntary patient hospitalized pursuant to section 21-511 has recovered or that continued hospitalization of the patient is no longer beneficial to him, or advisable, the chief of service may release him from the hospital."</text>
-        <text>D.C. Law 17-231, in subsec. (a), substituted "spouse or domestic partner" for "spouse".</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 2(f) of D.C. Law 14-131 amended this section to read as follows:</text>
-        <text>"(a) A person accepted for voluntary treatment by a hospital, the Department, or a provider, pursuant to section 21-511 may, at any time, if the person is 18 years of age or over, obtain his release from the hospital or other treatment by filing a written request with the chief of service or, in the case of the Department, the chief clinical officer. Within a period of 48 hours after the receipt of the request, the chief of service or the chief clinical officer shall ensure that discharge planning is completed and release the person making the request. A person admitted into treatment pursuant to section 21-511 who is under 18 years of age may, at any time, obtain his release from the hospital or other treatment in the same manner, upon the written request of the person's spouse, parent, or legal guardian. A person under 18 years of age who has sought voluntary outpatient treatment without the consent of a parent or legal guardian may obtain his release from that treatment by filing a written request with the chief of service or chief clinical officer.</text>
-        <text>"(b) When the chief of service or chief clinical officer determines that the person voluntarily receiving treatment pursuant to section 21-511 has recovered or that continued treatment of the person is no longer beneficial to the person, or advisable, the chief of service or chief clinical officer may discharge the person from the hospital or from other treatment."</text>
-        <text>Section 5(b) of D.C. Law 14-131 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(f) of Mental Health Commitment Emergency Amendment Act of 2002 (D.C. Act 14-265, January 30, 2002, 49 DCR 1450).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(f) of Mental Health Commitment Congressional Review Emergency Act of 2002 (D.C. Act 14-350, April 24, 2002, 49 DCR 4417).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(g) of Mental Health Civil Commitment Emergency Act of 2002 (D.C. Act 14-546, December 12, 2002, 50 DCR 199).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(g) of Mental Health Civil Commitment Congressional Review Emergency Act of 2003 (D.C. Act 15-41, March 24, 2003, 50 DCR 2784).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-131, see notes following § 21-501.</text>
-        <text>For Law 14-283, see notes following § 21-501.</text>
-        <text>For Law 17-231, see notes following § 21-501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 21-526.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 21-512.</text>
+      <text>1973 Ed., § 21-512.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-283 rewrote the section.</text>
+      <text>D.C. Law 17-231, in subsec. (a), substituted "spouse or domestic partner" for "spouse".</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 2(f) of D.C. Law 14-131 amended this section to read as follows:</text>
+      <text>"(a) A person accepted for voluntary treatment by a hospital, the Department, or a provider, pursuant to section 21-511 may, at any time, if the person is 18 years of age or over, obtain his release from the hospital or other treatment by filing a written request with the chief of service or, in the case of the Department, the chief clinical officer. Within a period of 48 hours after the receipt of the request, the chief of service or the chief clinical officer shall ensure that discharge planning is completed and release the person making the request. A person admitted into treatment pursuant to section 21-511 who is under 18 years of age may, at any time, obtain his release from the hospital or other treatment in the same manner, upon the written request of the person's spouse, parent, or legal guardian. A person under 18 years of age who has sought voluntary outpatient treatment without the consent of a parent or legal guardian may obtain his release from that treatment by filing a written request with the chief of service or chief clinical officer.</text>
+      <text>"(b) When the chief of service or chief clinical officer determines that the person voluntarily receiving treatment pursuant to section 21-511 has recovered or that continued treatment of the person is no longer beneficial to the person, or advisable, the chief of service or chief clinical officer may discharge the person from the hospital or from other treatment."</text>
+      <text>Section 5(b) of D.C. Law 14-131 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(f) of Mental Health Commitment Emergency Amendment Act of 2002 (D.C. Act 14-265, January 30, 2002, 49 DCR 1450).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(f) of Mental Health Commitment Congressional Review Emergency Act of 2002 (D.C. Act 14-350, April 24, 2002, 49 DCR 4417).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(g) of Mental Health Civil Commitment Emergency Act of 2002 (D.C. Act 14-546, December 12, 2002, 50 DCR 199).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(g) of Mental Health Civil Commitment Congressional Review Emergency Act of 2003 (D.C. Act 15-41, March 24, 2003, 50 DCR 2784).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-131</heading>
+      <text>For Law 14-131, see notes following § 21-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-283</heading>
+      <text>For Law 14-283, see notes following § 21-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 21-501.</text>
     </level>
   </level>
 </level>

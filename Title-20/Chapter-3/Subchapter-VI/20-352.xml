@@ -1,38 +1,31 @@
 <level type="section">
   <num>20-352</num>
   <heading>Petition.</heading>
-  <formerly-cited-as>DC ST 1981 § 20-352</formerly-cited-as>
   <text>Any person eligible for appointment as the personal representative of an estate pursuant to section 20-303 may file a verified petition for administration of a small estate. Such petition shall contain, in addition to the information required by section 20-304:</text>
   <level>
-    <level>
-      <num>(a)</num>
-      <text>A statement that the petitioner has made a diligent search to discover all property and debts of the decedent;</text>
-    </level>
-    <level>
-      <num>(b)</num>
-      <text>A list of the known creditors of the decedent, with the amount of each claim, including contingent and disputed claim; and</text>
-    </level>
-    <level>
-      <num>(c)</num>
-      <text>A statement of any legal proceedings pending in which the decedent was a party.</text>
-    </level>
+    <num>(a)</num>
+    <text>A statement that the petitioner has made a diligent search to discover all property and debts of the decedent;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(b)</num>
+    <text>A list of the known creditors of the decedent, with the amount of each claim, including contingent and disputed claim; and</text>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>A statement of any legal proceedings pending in which the decedent was a party.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 24, 1980, D.C. Law 3-72, § 101, 27 DCR 2155.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 20-352.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-301.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 20-352.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-72</heading>
+      <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-301.</text>
     </level>
   </level>
 </level>

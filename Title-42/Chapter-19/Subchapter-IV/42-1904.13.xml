@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-1904.13</num>
   <heading>Investigations and proceedings; powers of Mayor; enforcement through courts.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-1873</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor may make necessary public or private investigations in accordance with law within or outside of the District of Columbia to determine whether any person has violated or is about to violate this chapter or any rule or order hereunder, or to aid in the enforcement of this chapter or in the prescribing of rules and forms hereunder.</text>
@@ -14,23 +13,23 @@
     <num>(c)</num>
     <text>Upon failure to obey a subpoena or to answer questions propounded by the investigating officer and upon reasonable notice to all persons affected thereby, the Mayor may apply to the Superior Court of the District of Columbia for an order compelling compliance.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 29, 1977, D.C. Law 1-89, title IV, § 413, 23 DCR 9532b.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-1873.</text>
-        <text>1973 Ed., § 5-1273.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-89, see Historical and Statutory Notes following § 42-1901.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-1901.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-1873.</text>
+      <text>1973 Ed., § 5-1273.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-89</heading>
+      <text>For legislative history of D.C. Law 1-89, see Historical and Statutory Notes following § 42-1901.01.</text>
     </level>
   </level>
 </level>

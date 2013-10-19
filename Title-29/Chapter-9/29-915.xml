@@ -1,46 +1,52 @@
 <level type="section">
   <num>29-915</num>
-  <heading>Voting--By mail.</heading>
-  <formerly-cited-as>DC ST 1981 § 29-1115</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 29-915</formerly-cited-as>
+  <heading>Voting - By mail or by electronic mail.</heading>
   <level>
     <num>(a)</num>
-    <text>The articles or bylaws may provide for either or both of the following types of voting by mail:</text>
+    <text>The articles or bylaws may provide for either or both of the following types of voting by mail or by electronic mail in accordance with § 29-305.09[:]</text>
     <level>
       <num>(1)</num>
-      <text>That the secretary shall send to the members a copy of any proposal scheduled to be offered at a meeting, together with the notice of the meeting, and that the mail votes cast by the members shall be counted together with those cast at the meeting if the mail votes are returned to the association within a specified number of days; and</text>
+      <text>That the secretary shall send to the members a copy of any proposal scheduled to be offered at a meeting, together with the notice of the meeting, and that the mail votes or the electronic mail votes by the members shall be counted together with those cast at the meeting if the mail votes or the electronic mail votes are returned to the association within a specified number of days; and</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>That the secretary shall send to any member absent from a meeting an exact copy of the proposal acted upon at the meeting, and that the mail vote of the member upon such proposal, if returned within a specified number of days, shall be counted together with the votes cast at the meeting.</text>
+      <text>That the secretary shall send to any member absent from a meeting an exact copy of the proposal acted upon at the meeting, and that the mail vote or the electronic mail vote of the member upon such proposal, if returned within a specified number of days, shall be counted together with the votes cast at the meeting.</text>
     </level>
   </level>
   <level>
     <num>(b)</num>
-    <text>The articles or bylaws may also determine whether and to what extent mail votes shall be counted in computing a quorum.</text>
+    <text>The articles or bylaws may also determine whether and to what extent the mail votes or the electronic mail votes shall be counted in computing a quorum.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(i)(7), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 29-915.</text>
-        <text>1981 Ed., § 29-1115.</text>
-        <text>1973 Ed., § 29-815.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Former § 29-915 has been recodified as § 29A-915.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-925.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 29-915.</text>
+      <text>1981 Ed., § 29-1115.</text>
+      <text>1973 Ed., § 29-815.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 added "or by electronic mail" at the end of the section heading; added "or by electronic mail in accordance with § 29-305.09" in the introductory language of (a); and added "or the electronic mail vote" and "or the electronic mail votes" throughout (a) and (b).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-905.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

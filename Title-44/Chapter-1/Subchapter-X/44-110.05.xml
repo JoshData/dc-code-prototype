@@ -1,34 +1,35 @@
 <level type="section">
   <num>44-110.05</num>
-  <heading>Accessibility</heading>
+  <heading>Accessibility.</heading>
   <text>An ALR that provides services for residents who use wheelchairs, shall insure that:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Doorways and hallways provide a clear opening of at least 32 inches; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Thresholds exceeding 1/2 inch are modified to provide a 1:12 maximum slope.</text>
-    </level>
+    <num>(1)</num>
+    <text>Doorways and hallways provide a clear opening of at least 32 inches; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Thresholds exceeding 1/2 inch are modified to provide a 1:12 maximum slope.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 24, 2000, D.C. Law 13-127, § 1005, 47 DCR 2647; Sept. 26, 2012, D.C. Law 19-169, § 27(c), 59 DCR 5567.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-169 substituted "residents who use wheelchairs" for "wheelchair-bound residents".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-127, see notes following § 44-101.01.</text>
-        <text>For history of Law 19-169, see notes under § 44-102.01.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-169 substituted "residents who use wheelchairs" for "wheelchair-bound residents" in the introductory language.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-127</heading>
+      <text>For Law 13-127, see notes following § 44-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-169</heading>
+      <text>Law 19-169, the "People First Respectful Language Modernization Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-189. The Bill was adopted on first and second readings on Mar. 6, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 15, 2012, it was assigned Act No. 19-361 and transmitted to Congress for its review. D.C. Law 19-169 became effective on Sept. 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 35 of D.C. Law 19-169 provided that no provision of the act shall impair any right or obligation existing under law.</text>
     </level>
   </level>
 </level>

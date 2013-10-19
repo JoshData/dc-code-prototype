@@ -1,6 +1,6 @@
 <level type="section">
   <num>2-218.66</num>
-  <heading>Services to certified business enterprises.</heading>
+  <heading>Services to certified business enterprise.</heading>
   <level>
     <num>(a)</num>
     <text>The Department shall provide the following services to certified business enterprises:</text>
@@ -41,18 +41,14 @@
       <text>Enter into a memorandum of understanding with a third-party vendor to provide one-on-one counseling with potential borrowers to improve financial presentations to lenders.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 20, 2005, D.C. Law 16-33, § 2366, as added May 27, 2010, D.C. Law 18-159, § 2(g), 57 DCR 3006.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 18-159, the "Small Business Stabilization and Job Creation Strategy Amendment Act of 2010", was introduced in Council and assigned Bill No. 18-457, which was referred to the Committee on Economic Development. The bill was adopted on first and second readings on February 2, 2010, and March 2, 2010, respectively. Signed by the Mayor on March 25, 2010, it was assigned Act No. 18-350 and transmitted to both Houses of Congress for its review. D.C. Law 18-159 became effective on May 27, 2010.</text>
-      </level>
+      <heading>Legislative History of Law 18-159</heading>
+      <text>Law 18-159, the "Small Business Stabilization and Job Creation Strategy Amendment Act of 2010", was introduced in Council and assigned Bill No. 18-457, which was referred to the Committee on Economic Development. The bill was adopted on first and second readings on February 2, 2010, and March 2, 2010, respectively. Signed by the Mayor on March 25, 2010, it was assigned Act No. 18-350 and transmitted to both Houses of Congress for its review. D.C. Law 18-159 became effective on May 27, 2010.</text>
     </level>
   </level>
 </level>

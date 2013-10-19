@@ -1,42 +1,39 @@
 <level type="section">
   <num>1-315.03</num>
   <heading>Process of reorganization defined.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-299.3</formerly-cited-as>
   <text>For the purposes of carrying out the objectives of § 1-315.01, the process of reorganization means that action which results in the transfer, consolidation, abolition, or authorization with respect to functions and hierarchy, between or among agencies, and which affects the structure or structures thereof, at the control or responsibility center level(s), including, but not limited to:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The transfer of the whole or part of an agency, or the whole or part of the functions thereof, to the jurisdiction and control of another agency;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The consolidation of the whole or part of an agency, or the whole or part of the functions thereof, with the whole or part of another agency or the functions thereof;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The abolition of the whole or part of an agency wherein such agency or part thereof does not have or will not have any functions; or</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The authorization of an officer or agency head to delegate functions vested in specific officers or agency heads not presently authorized to be delegated, except as provided in § 1-204.22(6).</text>
-    </level>
+    <num>(1)</num>
+    <text>The transfer of the whole or part of an agency, or the whole or part of the functions thereof, to the jurisdiction and control of another agency;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The consolidation of the whole or part of an agency, or the whole or part of the functions thereof, with the whole or part of another agency or the functions thereof;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The abolition of the whole or part of an agency wherein such agency or part thereof does not have or will not have any functions; or</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The authorization of an officer or agency head to delegate functions vested in specific officers or agency heads not presently authorized to be delegated, except as provided in § 1-204.22(6).</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 17, 1981, D.C. Law 4-42, § 4, 28 DCR 3425.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-299.3.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-42, see Historical and Statutory Notes following § 1-315.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-315.02 and § 1-315.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-299.3.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-42</heading>
+      <text>For legislative history of D.C. Law 4-42, see Historical and Statutory Notes following § 1-315.01.</text>
     </level>
   </level>
 </level>

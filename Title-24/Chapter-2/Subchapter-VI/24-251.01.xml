@@ -1,67 +1,60 @@
 <level type="section">
   <num>24-251.01</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 24-481</formerly-cited-as>
   <text>For the purposes of this subchapter:</text>
   <level>
+    <num>(1)</num>
+    <text>The term "Department" means the District of Columbia Department of Corrections.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>The term "Director" means the Director of the Department of Corrections, or his designated agent.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The term "furlough" means any extension of the limits of the place of confinement of a sentenced prisoner for the purposes outlined in § 24-251.03, and when said purposes are in agreement with the goals of § 24-211.02 when the person sentenced is not escorted by a United States marshal or an officer or employee of the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The term "minimum custody status" means that status of an individual who:</text>
     <level>
-      <num>(1)</num>
-      <text>The term "Department" means the District of Columbia Department of Corrections.</text>
+      <num>(A)</num>
+      <text>In the case of an individual who has been sentenced to serve for a definite number of years, is within 12 months of his earliest possible date of parole;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>The term "Director" means the Director of the Department of Corrections, or his designated agent.</text>
+      <num>(B)</num>
+      <text>In the case of an individual who has been sentenced to serve for a sentence of not less than a minimum period, has served for at least one-half of that minimum period;</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>The term "furlough" means any extension of the limits of the place of confinement of a sentenced prisoner for the purposes outlined in § 24- 251.03, and when said purposes are in agreement with the goals of § 24- 211.02 when the person sentenced is not escorted by a United States marshal or an officer or employee of the District of Columbia.</text>
+      <num>(C)</num>
+      <text>In the case of an individual who has been sentenced to serve for an indefinite period, has served for 12 months; or</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>The term "minimum custody status" means that status of an individual who:</text>
-      <level>
-        <num>(A)</num>
-        <text>In the case of an individual who has been sentenced to serve for a definite number of years, is within 12 months of his earliest possible date of parole;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>In the case of an individual who has been sentenced to serve for a sentence of not less than a minimum period, has served for at least one-half of that minimum period;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>In the case of an individual who has been sentenced to serve for an indefinite period, has served for 12 months; or</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>In the case of an individual who has been sentenced to serve for a definite period of less than 18 months has served for at least one-half of that period.</text>
-      </level>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>The term "resident" means an individual confined, after conviction and sentencing, in an institution or facility of the District of Columbia operated by the Department of Corrections.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>The term "committee" means an institutional review committee established pursuant to § 24-251.06.</text>
+      <num>(D)</num>
+      <text>In the case of an individual who has been sentenced to serve for a definite period of less than 18 months has served for at least one-half of that period.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(5)</num>
+    <text>The term "resident" means an individual confined, after conviction and sentencing, in an institution or facility of the District of Columbia operated by the Department of Corrections.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>The term "committee" means an institutional review committee established pursuant to § 24-251.06.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 23, 1977, D.C. Law 1-130, § 2, 23 DCR 9694.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 24-481.</text>
-        <text>1973 Ed., § 24-481.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 1-130, the "Resocialization Furlough Act of 1976," was introduced in Council and assigned Bill No. 1-223, which was referred to the Committee on Public Safety. The Bill was adopted on first and second readings on July 20, 1976 and November 23, 1976, respectively. Enacted without signature by the Mayor on January 19, 1977, it was assigned Act No. 1-224 and transmitted to both Houses of Congress for its review.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 24-481.</text>
+      <text>1973 Ed., § 24-481.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-130</heading>
+      <text>Law 1-130, the "Resocialization Furlough Act of 1976," was introduced in Council and assigned Bill No. 1-223, which was referred to the Committee on Public Safety. The Bill was adopted on first and second readings on July 20, 1976 and November 23, 1976, respectively. Enacted without signature by the Mayor on January 19, 1977, it was assigned Act No. 1-224 and transmitted to both Houses of Congress for its review.</text>
     </level>
   </level>
 </level>

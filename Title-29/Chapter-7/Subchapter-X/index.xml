@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>X</num>
-  <heading>Merger.</heading>
+  <heading>Merger</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-710.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-710.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-710.03.xml"/>

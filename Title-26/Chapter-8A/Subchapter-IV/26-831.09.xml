@@ -13,18 +13,14 @@
     <num>(c)</num>
     <text>A merchant bank may use as a part of its name the word "bank," "banker", "banking", or any abbreviations of those words.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-308, § 309, 48 DCR 3244.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-308, see notes following § 26-833.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-308</heading>
+      <text>For Law 13-308, see notes following § 26-833.01.</text>
     </level>
   </level>
 </level>

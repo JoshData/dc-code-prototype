@@ -1,7 +1,6 @@
 <level type="section">
   <num>21-106</num>
   <heading>Guardian of estate.</heading>
-  <formerly-cited-as>DC ST 1981 § 21-106</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Subject to sections 21-101 to 21-104, when land descends or is devised to an infant under 18 years of age, or the infant is entitled to a distributive share of the personal estate of an intestate or to a legacy or bequest under a last will, or acquires real or personal property by gift or purchase, the Probate Court may appoint a guardian of the infant's estate; and if there is a guardian of the person of the infant the guardian of the estate so appointed may be the same or a different person.</text>
@@ -14,23 +13,19 @@
     <num>(c)</num>
     <text>Only trust companies may act as guardian of the estate of more than five infants at one time, unless the infants are entitled to shares of the same estate.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 1965, 79 Stat. 738, Pub. L. 89-183, § 1; July 22, 1976, D.C. Law 1-75, § 4(e), 23 DCR 1181.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 21-106.</text>
-        <text>1973 Ed., § 21-106.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-75, see Historical and Statutory Notes following § 21-104.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 21-106.</text>
+      <text>1973 Ed., § 21-106.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-75</heading>
+      <text>For legislative history of D.C. Law 1-75, see Historical and Statutory Notes following § 21-104.</text>
     </level>
   </level>
 </level>

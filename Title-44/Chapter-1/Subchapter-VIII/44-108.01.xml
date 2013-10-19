@@ -2,18 +2,14 @@
   <num>44-108.01</num>
   <heading>General.</heading>
   <text>A resident assessment required by this subchapter shall form the basis for the development of the resident's service plan, and shall be completed for all routine admissions to the ALR.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 24, 2000, D.C. Law 13-127, § 801, 47 DCR 2647.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-127, see notes following § 44-101.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-127</heading>
+      <text>For Law 13-127, see notes following § 44-101.01.</text>
     </level>
   </level>
 </level>

@@ -3,7 +3,7 @@
   <heading>Joint venture business enterprises.</heading>
   <level>
     <num>(a)</num>
-    <text>A business enterprise shall be eligible for certification as a joint venture business enterprise if the joint venture has a member that owns a majority interest or minority interest in the joint venture business enterprise and meets the definition of a certified business enterprise pursuant to § 2- 218.02.</text>
+    <text>A business enterprise shall be eligible for certification as a joint venture business enterprise if the joint venture has a member that owns a majority interest or minority interest in the joint venture business enterprise and meets the definition of a certified business enterprise pursuant to § 2-218.02.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -57,18 +57,14 @@
     <num>(d)</num>
     <text>Decisions concerning the affairs of the business shall require the consent of those members with voting rights holding at least a majority interest in the business.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 20, 2005, D.C. Law 16-33, § 2339a, as added Apr. 20, 2010, D.C. Law 18-141, § 2(g), 57 DCR 1485.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-141, see notes following § 2-218.02.</text>
-      </level>
+      <heading>Legislative History of Law 18-141</heading>
+      <text>For Law 18-141, see notes following § 2-218.02.</text>
     </level>
   </level>
 </level>

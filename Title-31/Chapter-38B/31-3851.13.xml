@@ -3,40 +3,37 @@
   <heading>Transition.</heading>
   <text>For RBC reports required to be filed by health organizations with respect to 2002, the following requirements shall apply in lieu of the provisions of §§ 31-3851.03, 31-3851.04, 31-3851.05, and 31-3851.06:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>In the event of a Company Action Level Event with respect to a domestic health organization, the Commissioner shall take no regulatory action under this chapter.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>In the event of a Regulatory Action Level Event as defined under § 31- 3851.01(19)(A) through (C), the Commissioner shall take the actions required under § 31-3851.03.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>In the event of a Regulatory Action Level Event as defined under § 31- 3851.01(19)(D) through (I), or an Authorized Control Level Event, the Commissioner shall take the action required under § 31-3851.04 with respect to the health organization.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>In the event of a Mandatory Control Level Event, the Commissioner shall take the action required under § 31-3851.05.</text>
-    </level>
+    <num>(1)</num>
+    <text>In the event of a Company Action Level Event with respect to a domestic health organization, the Commissioner shall take no regulatory action under this chapter.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>In the event of a Regulatory Action Level Event as defined under § 31-3851.01(19)(A) through (C), the Commissioner shall take the actions required under § 31-3851.03.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>In the event of a Regulatory Action Level Event as defined under § 31-3851.01(19)(D) through (I), or an Authorized Control Level Event, the Commissioner shall take the action required under § 31-3851.04 with respect to the health organization.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>In the event of a Mandatory Control Level Event, the Commissioner shall take the action required under § 31-3851.05.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 18, 2003, D.C. Law 14-312, § 113, 50 DCR 306; Apr. 13, 2005, D.C. Law 15-354, § 45(d), 52 DCR 2638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-354 validated previously made technical corrections.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-312, see notes following § 31-3851.01.</text>
-        <text>For Law 15-354, see notes following § 31-101.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-354 validated previously made technical corrections.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-312</heading>
+      <text>For Law 14-312, see notes following § 31-3851.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 31-101.</text>
     </level>
   </level>
 </level>

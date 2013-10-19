@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-1302</num>
   <heading>Written statement; written indication of compliance.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-952</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The transferor of any real property described in § 42-1301(a) shall deliver to the prospective transferee a real property disclosure statement on a form to be approved by the Mayor. The written statement shall be signed by the transferor and shall be delivered to the prospective transferee within the following time limits:</text>
@@ -38,26 +37,26 @@
       <text>Occupancy in the event of a lease with option to purchase.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 20, 1999, D.C. Law 12-263, § 3, 46 DCR 2111.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-952.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-263, see Historical and Statutory Notes following § 42-1301.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority under D.C. Act 12-625, the "Residential Real Property Seller Disclosure, Funeral Services Date Change, and Public Service Commission Independent Procurement Authority Act of 1998", see Mayor's Order 99-82, May 21, 1999 (46 DCR 5439).</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-1308.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-952.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-263</heading>
+      <text>For legislative history of D.C. Law 12-263, see Historical and Statutory Notes following § 42-1301.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority under D.C. Act 12-625, the "Residential Real Property Seller Disclosure, Funeral Services Date Change, and Public Service Commission Independent Procurement Authority Act of 1998", see Mayor's Order 99-82, May 21, 1999 (46 DCR 5439).</text>
     </level>
   </level>
 </level>

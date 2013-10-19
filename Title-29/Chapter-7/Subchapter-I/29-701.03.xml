@@ -81,22 +81,22 @@
     <num>(h)</num>
     <text>A general partner's knowledge, notice, or receipt of a notification of a fact relating to the limited partnership shall be effective immediately as knowledge of, notice to, or receipt of a notification by the limited partnership, except in the case of a fraud on the limited partnership committed by or with the consent of the general partner. A limited partner's knowledge, notice, or receipt of a notification of a fact relating to the limited partnership shall not be effective as knowledge of, notice to, or receipt of a notification by the limited partnership.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 103 of the Uniform Limited Partnership Act (2001 Act). See Vol. 6A , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-704.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 103 of the Uniform Limited Partnership Act (2001 Act).</text>
     </level>
   </level>
 </level>

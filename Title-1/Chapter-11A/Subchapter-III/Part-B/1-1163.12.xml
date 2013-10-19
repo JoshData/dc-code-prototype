@@ -9,18 +9,18 @@
     <num>(b)</num>
     <text>In addition, candidates shall provide the Director of Campaign Finance the name and address of the campaign depository or depositories designated by that candidate, together with the title and number of each account and safety deposit box used by that candidate at the depository or depositories, and the identification of each individual authorized to make withdrawals or payments out of the account or box, and other information as shall be required by the Director of Campaign Finance.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2012, D.C. Law 19-124, § 312, 59 DCR 1862.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-1163.08 and § 1-1163.14.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-124</heading>
+      <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
     </level>
   </level>
 </level>

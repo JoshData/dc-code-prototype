@@ -3,13 +3,13 @@
   <heading>District of Columbia Small and Local Business Opportunity Commission Establishment; composition; appointment; term of office; qualifications; vacancies; removal; compensation.</heading>
   <level>
     <num>(a)</num>
-    <text>Pursuant to § 1-204.04(b), there is established the District of Columbia Small and Local Business Opportunity Commission. The Commission is the successor in interest to the Local Business Opportunity Commission, established by § 2-215.03(a).</text>
+    <text>Pursuant to § 1-204.04(b), there is established the District of Columbia Small and Local Business Opportunity Commission. The Commission is the successor in interest to the Local Business Opportunity Commission, established by § 2-215.03(a) [repealed].</text>
   </level>
   <level>
     <num>(b)</num>
     <level>
       <num>(1)</num>
-      <text>The Commission shall consist of 9 members. The Mayor shall appoint one member from each ward of the District and one at-large member to staggered, 2- year terms with the advice and consent of the Council, in accordance with § 1-523.01.</text>
+      <text>The Commission shall consist of 9 members. The Mayor shall appoint one member from each ward of the District and one at-large member to staggered, 2-year terms with the advice and consent of the Council, in accordance with § 1-523.01.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -25,7 +25,7 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Notwithstanding the provisions of this section, current members of the Local Business Opportunity Commission, as established by § 2-215.03(a), shall be considered qualified and may continue to serve as members of the Commission until new members are appointed.</text>
+      <text>Notwithstanding the provisions of this section, current members of the Local Business Opportunity Commission, as established by § 2-215.03(a) [repealed], shall be considered qualified and may continue to serve as members of the Commission until new members are appointed.</text>
     </level>
   </level>
   <level>
@@ -78,28 +78,31 @@
     <num>(i)</num>
     <text>Members of the Commission shall serve without compensation for their service on the Commission.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 20, 2005, D.C. Law 16-33, § 2321, 52 DCR 7503; Sept. 18, 2007, D.C. Law 17-20, § 2062(b), 54 DCR 7052.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-20, in subsec. (f)(4), deleted "for the certification of joint ventures" following "participate in meetings".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 2321 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
-        <text>For temporary (90 day) amendment of section, see § 2062(b) of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-33, see notes following § 2-218.01.</text>
-        <text>For Law 17-20, see notes following § 2-215.24.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-523.01, § 2-218.02, and § 2-1203.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-20, in subsec. (f)(4), deleted "for the certification of joint ventures" following "participate in meetings".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 2321 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+      <text>For temporary (90 day) amendment of section, see § 2062(b) of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-33</heading>
+      <text>For Law 16-33, see notes following § 2-218.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-20</heading>
+      <text>For Law 17-20, see notes following § 2-215.24.</text>
     </level>
   </level>
 </level>

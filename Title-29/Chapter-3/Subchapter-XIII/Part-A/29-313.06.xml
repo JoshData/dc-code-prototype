@@ -10,25 +10,21 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>All, but not less than 2, payments of dividends on securities during a 12- month period, or 2 consecutive payments of dividends on securities during a period of more than 12 months, have been sent to such shareholder at such shareholder's address as shown on the records of the corporation and have been returned undeliverable.</text>
+      <text>All, but not less than 2, payments of dividends on securities during a 12-month period, or 2 consecutive payments of dividends on securities during a period of more than 12 months, have been sent to such shareholder at such shareholder's address as shown on the records of the corporation and have been returned undeliverable.</text>
     </level>
   </level>
   <level>
     <num>(b)</num>
     <text>If any such shareholder delivers to the corporation a written notice setting forth the shareholder's then-current address, the requirement that notice be given to the shareholder is reinstated.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

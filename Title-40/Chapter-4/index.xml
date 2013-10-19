@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>4</num>
-  <heading>Storage Liens.</heading>
+  <heading>Storage Liens</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="40-401.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="40-402.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="40-403.xml"/>

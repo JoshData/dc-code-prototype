@@ -1,7 +1,6 @@
 <level type="section">
   <num>2-1902</num>
   <heading>Interpreters required.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-2702</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Whenever a communication-impaired person is a party or witness, or whenever a juvenile whose parent or parents are communication impaired is brought before a court at any stage of a judicial or quasi-judicial proceeding before a division or office of a court of the District of Columbia, including, but not limited to, civil and criminal court proceedings, proceedings before a commissioner, juvenile proceedings, child support and paternity proceedings, and mental health commitment proceedings, the appointing authority may appoint a qualified interpreter to interpret the proceedings to the communication-impaired person and to interpret the communication-impaired person's testimony. The appointing authority shall appoint a qualified interpreter upon the request of the communication-impaired person.</text>
@@ -45,35 +44,33 @@
       <text>A qualified interpreter shall be used to translate any statement taken by a qualified interviewer into English for use in any criminal or delinquency proceeding.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Jan. 28, 1988, D.C. Law 7-62, § 3, 34 DCR 7426; Apr. 24, 2007, D.C. Law 16-306, § 201(b), 53 DCR 8610.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-2702.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-306 rewrote subsec. (e), which had read as follows:</text>
-        <text>"(e) Whenever a communication-impaired person is arrested and taken into custody for an alleged violation of a criminal law, the arresting officer shall procure a qualified interpreter for any custodial interrogation, warning, notification of rights, or taking of a statement. No person who has been arrested but who is otherwise eligible for release shall be held in custody pending arrival of an interpreter. No answer, statement, or admission, written or oral, made by a communication-impaired person in reply to a question of a law-enforcement officer in any criminal or delinquency proceeding may be used against that communication-impaired person unless either the answer, statement, or admission was made or elicited through a qualified interpreter and was made knowingly, voluntarily, and intelligently or, in the case of a waiver, unless the court makes a special finding upon proof by a preponderance of the evidence that the answer, statement, or admission made by the communication-impaired person was made knowingly, voluntarily, and intelligently."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 201(b) of Omnibus Public Safety Emergency Amendment Act of 2006 (D.C. Act 16-445, July 19, 2006, 53 DCR 6443).</text>
-        <text>For temporary (90 day) amendment of section, see § 201(b) of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-490, October 18, 2006, 53 DCR 8686).</text>
-        <text>For temporary (90 day) amendment of section, see § 201(b) of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-10, January 16, 2007, 54 DCR 1479).</text>
-        <text>For temporary (90 day) amendment of section, see § 201(b) of Omnibus Public Safety Second Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-25, April 19, 2007, 54 DCR 4036).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-62, see Historical and Statutory Notes following § 2-1901.</text>
-        <text>For Law 16-306, see notes following § 2-1901.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-2702.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-306 rewrote subsec. (e), which had read as follows: "(e) Whenever a communication-impaired person is arrested and taken into custody for an alleged violation of a criminal law, the arresting officer shall procure a qualified interpreter for any custodial interrogation, warning, notification of rights, or taking of a statement. No person who has been arrested but who is otherwise eligible for release shall be held in custody pending arrival of an interpreter. No answer, statement, or admission, written or oral, made by a communication-impaired person in reply to a question of a law-enforcement officer in any criminal or delinquency proceeding may be used against that communication-impaired person unless either the answer, statement, or admission was made or elicited through a qualified interpreter and was made knowingly, voluntarily, and intelligently or, in the case of a waiver, unless the court makes a special finding upon proof by a preponderance of the evidence that the answer, statement, or admission made by the communication-impaired person was made knowingly, voluntarily, and intelligently."</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 201(b) of Omnibus Public Safety Emergency Amendment Act of 2006 (D.C. Act 16-445, July 19, 2006, 53 DCR 6443).</text>
+      <text>For temporary (90 day) amendment of section, see § 201(b) of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-490, October 18, 2006, 53 DCR 8686).</text>
+      <text>For temporary (90 day) amendment of section, see § 201(b) of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-10, January 16, 2007, 54 DCR 1479).</text>
+      <text>For temporary (90 day) amendment of section, see § 201(b) of Omnibus Public Safety Second Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-25, April 19, 2007, 54 DCR 4036).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-62</heading>
+      <text>For legislative history of D.C. Law 7-62, see Historical and Statutory Notes following § 2-1901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-306</heading>
+      <text>For Law 16-306, see notes following § 2-1901.</text>
     </level>
   </level>
 </level>

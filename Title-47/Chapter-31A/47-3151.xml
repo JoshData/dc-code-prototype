@@ -1,62 +1,55 @@
 <level type="section">
   <num>47-3151</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-3151</formerly-cited-as>
   <text>For the purposes of this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Drawer" means an individual who makes or signs a check or other draft, but not including a credit or debit card sales draft.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Sale" means any:</text>
     <level>
-      <num>(1)</num>
-      <text>"Drawer" means an individual who makes or signs a check or other draft, but not including a credit or debit card sales draft.</text>
+      <num>(A)</num>
+      <text>Offer, or attempt to sell merchandise, real property, or intangibles for cash or credit; or</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Sale" means any:</text>
-      <level>
-        <num>(A)</num>
-        <text>Offer, or attempt to sell merchandise, real property, or intangibles for cash or credit; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Service or offer for service which relates to any person, building, or equipment.</text>
-      </level>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Service" means any:</text>
-      <level>
-        <num>(A)</num>
-        <text>Building repair or improvement service;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Subprofessional service;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Repair of a motor vehicle, home appliance, or other similar commodity; or</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Repair, installation, or other servicing of any plumbing, heating, electrical, or mechanical device.</text>
-      </level>
+      <num>(B)</num>
+      <text>Service or offer for service which relates to any person, building, or equipment.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(3)</num>
+    <text>"Service" means any:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Building repair or improvement service;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Subprofessional service;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Repair of a motor vehicle, home appliance, or other similar commodity; or</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Repair, installation, or other servicing of any plumbing, heating, electrical, or mechanical device.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Mar. 11, 1992, D.C. Law 9-69, § 2, 39 DCR 16; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-3151.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 9-69, the "Use of Consumer Identification Information Act of 1991," was introduced in Council and assigned Bill No. 9-111, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 5, 1991, and December 3, 1991, respectively. Signed by the Mayor on December 20, 1991, it was assigned Act No. 9-120 and transmitted to both Houses of Congress for its review.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-3151.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-69</heading>
+      <text>Law 9-69, the "Use of Consumer Identification Information Act of 1991," was introduced in Council and assigned Bill No. 9-111, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 5, 1991, and December 3, 1991, respectively. Signed by the Mayor on December 20, 1991, it was assigned Act No. 9-120 and transmitted to both Houses of Congress for its review.</text>
     </level>
   </level>
 </level>

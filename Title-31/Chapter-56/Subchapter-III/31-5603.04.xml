@@ -1,6 +1,6 @@
 <level type="section">
   <num>31-5603.04</num>
-  <heading>Registration by qualification</heading>
+  <heading>Registration by qualification.</heading>
   <level>
     <num>(a)</num>
     <text>A security may be registered by qualification.</text>
@@ -194,7 +194,7 @@
     <text>A registration statement under this section shall become effective no later than 60 calendar days after the date of the registration statement or the last statement other than a price amendment is filed if:</text>
     <level>
       <num>(1)</num>
-      <text>No stop order is in effect and no proceeding is pending under § 31- 5603.06;</text>
+      <text>No stop order is in effect and no proceeding is pending under § 31-5603.06;</text>
     </level>
     <level>
       <num>(2)</num>
@@ -209,23 +209,26 @@
     <num>(d)</num>
     <text>The Commissioner may delay effectiveness for a single period not to exceed 90 days if the Commissioner determines that the registration statement is not complete in all material respects and promptly notifies the registrant of the determination. The Commissioner may delay effectiveness for a single period not to exceed 30 days if the Commissioner determines that delay is necessary, whether or not the Commissioner previously delayed effectiveness under this subsection.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 26, 2000, D.C. Law 13-203, § 304, 47 DCR 7837; June 25, 2002, D.C. Law 14-150, § 2(g), 49 DCR 4238.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-150, in subsec. (b), substituted "31-5603.06(c)" for "31- 5603.05(c)".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-203, see notes following § 31-5601.01.</text>
-        <text>For Law 14-150, see notes following § 31-5601.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-5603.02, § 31-5603.06, § 31-5604.01, § 31-5604.02, and § 31-5605.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-150, in subsec. (b), substituted "31-5603.06(c)" for "31-5603.05(c)".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-203</heading>
+      <text>For Law 13-203, see notes following § 31-5601.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-150</heading>
+      <text>For Law 14-150, see notes following § 31-5601.01.</text>
     </level>
   </level>
 </level>

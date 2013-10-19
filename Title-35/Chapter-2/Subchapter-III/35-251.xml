@@ -1,7 +1,6 @@
 <level type="section">
   <num>35-251</num>
   <heading>Unlawful conduct on public passenger vehicles.</heading>
-  <formerly-cited-as>DC ST 1981 § 44-223</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For the purposes of this section, the term "rail transit station" means a regular rail stopping place for the pick-up and discharge of passengers in regular route service, contract service, special or community-type service, including the fare-paid areas and roofed areas of the rail transit stations (not bus terminals or bus stops) owned, operated, or controlled by the Washington Metropolitan Area Transit Authority; provided, that the term "rail transit station" shall not include parking lots, roadways and other areas intended for vehicle traffic.</text>
@@ -58,27 +57,39 @@
     <num>(d)</num>
     <text>It is unlawful for any person at a rail transit station to stop, impede, interfere with, or tamper with an escalator or elevator or any part of an escalator or elevator apparatus or to use an escalator or elevator emergency stop button, unless this action is taken by a person with the knowledge or the reasonable good faith belief that an emergency makes the action necessary to preserve or protect human life or property, or unless such action is taken by a WMATA employee, other government employees, or WMATA contractor acting pursuant to their official duties.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 23, 1975, D.C. Law 1-18, § 2, 22 DCR 1994; Feb. 22, 1978, D.C. Law 2-40, § 2, 24 DCR 3344; Sept. 18, 1981, D.C. Law 4-31, § 2, 28 DCR 3120; June 29, 1984, D.C. Law 5-91, § 3(a), 31 DCR 2539; Oct. 1, 1992, D.C. Law 9-171, § 2(a), 39 DCR 5831.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 44-223.</text>
-        <text>1973 Ed., § 44-216.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 1-18 was introduced in Council and assigned Bill No. 1-17, which was referred to the Committee on Public Safety. The Bill was adopted on first and second readings on May 13, 1975 and May 27, 1975, respectively. Signed by the Mayor on June 24, 1975, it was assigned Act No. 1-26 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 2-40 was introduced in Council and assigned Bill No. 2-121, which was referred to the Committee on Transportation and Environmental Affairs. The Bill was adopted on first and second readings on July 26, 1977 and September 13, 1977, respectively. Signed by the Mayor on October 25, 1977, it was assigned Act No. 2-92 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 4-31 was introduced in Council and assigned Bill No. 4-216, which was referred to the Committee on Transportation and Environmental Affairs. The Bill was adopted on first and second readings on May 19, 1981, and June 2, 1981, respectively. Signed by the Mayor on June 19, 1981, it was assigned Act No. 4-53 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 5-91, "District of Columbia Public Transit Vehicle Safety Amendment Act of 1984," was introduced in Council and assigned Bill No. 5-295, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on April 10, 1984, and April 30, 1984, respectively. Signed by the Mayor on May 9, 1984, it was assigned Act No. 5-132 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 9-171, the "Public Transit Escalator and Elevator Safety Amendment Act of 1992," was introduced in Council and assigned Bill No. 9-649, which was referred to the Committee on Regional Authorities. The Bill was adopted on first and second readings on June 2, 1992, and July 7, 1992, respectively. Signed by the Mayor on July 23, 1992, it was assigned Act No. 9-269 and transmitted to both Houses of Congress for its review. D.C. Law 9-171 became effective on October 1, 1992.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-1701, § 7-1710, § 35-252, and § 35-253.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 44-223.</text>
+      <text>1973 Ed., § 44-216.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-18</heading>
+      <text>Law 1-18 was introduced in Council and assigned Bill No. 1-17, which was referred to the Committee on Public Safety. The Bill was adopted on first and second readings on May 13, 1975 and May 27, 1975, respectively. Signed by the Mayor on June 24, 1975, it was assigned Act No. 1-26 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-40</heading>
+      <text>Law 2-40 was introduced in Council and assigned Bill No. 2-121, which was referred to the Committee on Transportation and Environmental Affairs. The Bill was adopted on first and second readings on July 26, 1977 and September 13, 1977, respectively. Signed by the Mayor on October 25, 1977, it was assigned Act No. 2-92 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-31</heading>
+      <text>Law 4-31 was introduced in Council and assigned Bill No. 4-216, which was referred to the Committee on Transportation and Environmental Affairs. The Bill was adopted on first and second readings on May 19, 1981, and June 2, 1981, respectively. Signed by the Mayor on June 19, 1981, it was assigned Act No. 4-53 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-91</heading>
+      <text>Law 5-91, "District of Columbia Public Transit Vehicle Safety Amendment Act of 1984," was introduced in Council and assigned Bill No. 5-295, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on April 10, 1984, and April 30, 1984, respectively. Signed by the Mayor on May 9, 1984, it was assigned Act No. 5-132 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-171</heading>
+      <text>Law 9-171, the "Public Transit Escalator and Elevator Safety Amendment Act of 1992," was introduced in Council and assigned Bill No. 9-649, which was referred to the Committee on Regional Authorities. The Bill was adopted on first and second readings on June 2, 1992, and July 7, 1992, respectively. Signed by the Mayor on July 23, 1992, it was assigned Act No. 9-269 and transmitted to both Houses of Congress for its review. D.C. Law 9-171 became effective on October 1, 1992.</text>
     </level>
   </level>
 </level>

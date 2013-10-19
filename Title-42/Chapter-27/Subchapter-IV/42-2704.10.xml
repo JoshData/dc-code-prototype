@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-2704.10</num>
   <heading>District tax exemptions; payments in lieu; exceptions.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2140</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Assets and income of the Agency or of any entity established by the Agency pursuant to § 42-2703.01(20C) are exempt from District taxation. The Agency may make, at its discretion, payment in lieu of taxation.</text>
@@ -10,28 +9,27 @@
     <num>(b)</num>
     <text>Bonds and notes issued by the Agency and the interest thereon are exempt from District taxation except estate, inheritance, and gift taxes.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-135, § 410, 25 DCR 5008; Mar. 25, 2003, D.C. Law 14-239, § 2(f), 49 DCR 11162.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2140.</text>
-        <text>1973 Ed., § 45-1925.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-239, in subsec. (a), substituted "of the Agency or of any entity established by the Agency pursuant to § 42-2703.01(20C)" for "of the Agency".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-135, see Historical and Statutory Notes following § 42-2701.01.</text>
-        <text>For Law 14-239, see notes following § 42-2701.02.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2140.</text>
+      <text>1973 Ed., § 45-1925.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-239, in subsec. (a), substituted "of the Agency or of any entity established by the Agency pursuant to § 42-2703.01(20C)" for "of the Agency".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-135</heading>
+      <text>For legislative history of D.C. Law 2-135, see Historical and Statutory Notes following § 42-2701.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-239</heading>
+      <text>For Law 14-239, see notes following § 42-2701.02.</text>
     </level>
   </level>
 </level>

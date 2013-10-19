@@ -45,18 +45,14 @@
     <num>(b)</num>
     <text>The report shall be made available to the public on the SEA and DCPS Internet sites.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 2007, D.C. Law 16-269, § 116, as added Mar. 20, 2009, D.C. Law 17-304, § 2(e), 55 DCR 12806.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-304, see notes following § 38-2561.01.</text>
-      </level>
+      <heading>Legislative History of Law 17-304</heading>
+      <text>For Law 17-304, see notes following § 38-2561.01.</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>1</num>
-  <heading>Public Welfare Supervision.</heading>
-  <level>
-    <text>DC CODE D. I, T. 4, Ch. 1, Refs &amp; Annos</text>
-  </level>
+  <heading>Public Welfare Supervision</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-101~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-102~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-103~P.xml"/>

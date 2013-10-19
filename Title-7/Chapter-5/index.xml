@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>5</num>
-  <heading>Programs for Older Citizens.</heading>
+  <heading>Programs for Older Citizens</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Unit-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Unit-B/index.xml"/>
 </level>

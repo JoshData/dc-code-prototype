@@ -1,7 +1,6 @@
 <level type="section">
   <num>6-701.05</num>
   <heading>Elevators and stairways extending to basement; exemptions for certain office buildings.</heading>
-  <formerly-cited-as>DC ST 1981 § 5-505</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Each elevator shaft and stairway extending to the basement of the buildings heretofore mentioned shall terminate in a fireproof compartment or enclosure separating the elevator shaft and stairs from other parts of the basement, and no opening shall be made or maintained in such compartment or enclosure unless the same be provided with fireproof doors.</text>
@@ -10,19 +9,19 @@
     <num>(b)</num>
     <text>Such buildings as are used solely for office buildings above the 2nd floor and defined under the building regulations of the District of Columbia to be fireproof are exempted from the requirements of this part as to fire escapes, guide signs, and alarm gongs; but when the face of a wall of any such fireproof building is within 30 feet of a combustible building or structure, or when the side or sides, front or rear of such building or structure faces within 30 feet of a combustible building, or contains a light or air shaft or similar recess within 30 feet of a combustible building, then each and every window or opening in said wall or walls shall be protected from fire by automatic iron shutters or wire glass in fireproof sash and frames.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 19, 1906, 34 Stat. 71, ch. 957, § 5; Mar. 2, 1907, 34 Stat. 1247, ch. 2566; June 4, 1934, 48 Stat. 844, ch. 388.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 5-505.</text>
-        <text>1973 Ed., § 5-305.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Regulation of elevators, general powers of Council, see § 1-303.44.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 5-505.</text>
+      <text>1973 Ed., § 5-305.</text>
     </level>
   </level>
 </level>

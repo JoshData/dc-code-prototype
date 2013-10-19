@@ -1,21 +1,23 @@
 <level type="section">
   <num>38-1806.08</num>
   <heading>Authorization of appropriations.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-2853.68</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Authorization.</text> --</text>
+    <heading>Authorization</heading>
     <level>
       <num>(1)</num>
-      <text><text i="True">Delta Council; access to state-of-the-art educational technology; and workforce preparation initiatives.</text> -- There are authorized to be appropriated to carry out subsections (a), (b), and (d) of § 38-1806.04, $1,000,000 for each of the fiscal years 1997, 1998, and 1999.</text>
+      <heading>Delta Council; access to state-of-the-art educational technology; and workforce preparation initiatives</heading>
+      <text>There are authorized to be appropriated to carry out subsections (a), (b), and (d) of § 38-1806.04, $1,000,000 for each of the fiscal years 1997, 1998, and 1999.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Deal Center.</text> -- There are authorized to be appropriated to carry out § 38-1806.04(c), $2,000,000 for each of the fiscal years 1997, 1998, and 1999.</text>
+      <heading>Deal Center</heading>
+      <text>There are authorized to be appropriated to carry out § 38-1806.04(c), $2,000,000 for each of the fiscal years 1997, 1998, and 1999.</text>
     </level>
     <level>
       <num>(3)</num>
-      <text><text i="True">Jobs for D.C. Graduates Program.</text> -- There are authorized to be appropriated to carry out § 38-1806.07:</text>
+      <heading>Jobs for D.C. Graduates Program</heading>
+      <text>There are authorized to be appropriated to carry out § 38-1806.07:</text>
       <level>
         <num>(A)</num>
         <text>$2,000,000 for fiscal year 1997; and</text>
@@ -28,20 +30,17 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Availability.</text> -- Amounts authorized to be appropriated under subsection (a) are authorized to remain available until expended.</text>
+    <heading>Availability</heading>
+    <text>Amounts authorized to be appropriated under subsection (a) are authorized to remain available until expended.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 26, 1996, 110 Stat. 1321 [269], Pub. L. 104-134, § 2608.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-2853.68.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-2853.68.</text>
     </level>
   </level>
 </level>

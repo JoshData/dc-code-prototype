@@ -3,27 +3,21 @@
   <heading>Special education; reporting requirement.</heading>
   <text>Within 60 days of June 12, 2007, the Department of Education shall report to the Mayor and the Council on the status of:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The Special Education Task Force, and the development of the Special Education Reform Plan, established pursuant to § 38-2551; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The implementation of the recommendations adopted by the Board of Education pursuant to the resolution Adopting the Recommendations of the Ad Hoc Committee on Special Education White Paper and Other Recommendations to Improve the Delivery of Special Education Services within the District of Columbia Public Schools, effective March 13, 2006 (Board of Education resolution SR06-22).</text>
-    </level>
+    <num>(1)</num>
+    <text>The Special Education Task Force, and the development of the Special Education Reform Plan, established pursuant to § 38-2551; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The implementation of the recommendations adopted by the Board of Education pursuant to the resolution Adopting the Recommendations of the Ad Hoc Committee on Special Education White Paper and Other Recommendations to Improve the Delivery of Special Education Services within the District of Columbia Public Schools, effective March 13, 2006 (Board of Education resolution SR06-22).</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 12, 2007, D.C. Law 17-9, § 203, 54 DCR 4102.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-9, see notes following § 38-191.</text>
-      </level>
+      <heading>Legislative History of Law 17-9</heading>
+      <text>For Law 17-9, see notes following § 38-191.</text>
     </level>
   </level>
 </level>

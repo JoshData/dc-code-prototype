@@ -49,7 +49,11 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>A licensee found in violation of a primary tier offense for the fourth time within 4 years shall have the license revoked.</text>
+      <text>A licensee found in violation of a primary tier offense for the 4th time within 4 years shall have the license either revoked or fined no less than $30,000 and suspended for 30 consecutive days.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>A licensee found in violation of a primary tier offense for the 5th time within 4 years shall have the license revoked.</text>
     </level>
   </level>
   <level>
@@ -118,36 +122,54 @@
     <text>Penalties or fines assessed under this chapter shall be credited to the General Fund of the District of Columbia.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(i)</num>
+    <text>It shall be a primary tier violation for a licensee to sell or serve alcohol on a suspended or expired license or a license held in safekeeping.</text>
+  </level>
+  <level>
+    <num>(j)</num>
+    <text>It shall be a primary tier violation for a licensee to fail to comply with either of the statutory food requirements in § 25-113(b)(3)(B).</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959; Mar. 25, 2009, D.C. Law 17-361, § 2(d)(3), 56 DCR 1204.)</text>
+      <heading>History</heading>
+      <text>(May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959; Mar. 25, 2009, D.C. Law 17-361, § 2(d)(3), 56 DCR 1204; May 1, 2013, D.C. Law 19-310, § 2(gg), 60 DCR 3410.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <text>D.C. Law 13-298 amended and enacted into law Title 25 of the District of Columbia Official Code.</text>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-361 rewrote subsec. (e) and added the second sentence to subsec. (f). Prior to amendment, subsec. (e) read as follows:</text>
-        <text>"(e) The Board may specify violations for which a licensee may be given a warning before the issuance of a citation for a first violation."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-298, see notes following § 25-101.</text>
-        <text>For Law 17-361, see notes following § 25-113.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>The reference in subsection (e)(3)(A) to "the act" is a reference to the Alcoholic Beverage Enforcement Amendment Act of 2008, effective March 25, 2009 (D.C. Law 17-361; 56 DCR 1204).</text>
-      </level>
-      <level>
-        <heading>Resolutions</heading>
-        <text>Resolution 15-340, the "Alcoholic Beverage Regulation Civil Penalty Schedule Regulations Approval Resolution of 2003", was approved effective December 2, 2003.</text>
-        <text>Resolution 18-488, the "Egregious First Time Sale to Minor Violation Clarification Regulations Approval Resolution of 2010", was approved effective June 1, 2010.</text>
-        <text>Resolution 18-522, the "East Dupont Circle Moratorium Zone Regulations Approval Resolution of 2010", was approved effective June 29, 2010.</text>
-        <text>Resolution 18-540, the "Drinking and Driving Warning Sign Regulation Approval Resolution of 2010", was approved effective July 13, 2010.</text>
-        <text>Resolution 18-701, the "Georgetown Moratorium Zone Revised Approval Resolution of 2010", was approved effective December 21, 2010.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 25-113, § 25-723, § 25-797, § 25-801, and § 25-823.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-361 rewrote subsec. (e) and added the second sentence to subsec. (f). Prior to amendment, subsec. (e) read as follows: "(e) The Board may specify violations for which a licensee may be given a warning before the issuance of a citation for a first violation."</text>
+      <text>The 2013 amendment by D.C. Law 19-310 rewrote (c)(3), which read "A licensee found in violation of a primary tier offense for the fourth time within 4 years shall have the license revoked"; added (c)(4); and added (i) and (j).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of (c), and addition of (i) and (j), see § 2(gg) of the Omnibus Alcoholic Beverage Regulation Emergency Amendment Act of 2012 (D.C. Act 19-597, January 14, 2013, 60 DCR 1001).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-298</heading>
+      <text>For D.C. Law 13-298, see notes following § 25-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-361</heading>
+      <text>For Law 17-361, see notes following § 25-113.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-310</heading>
+      <text>See note to § 25-101.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>The reference in subsection (e)(3)(A) to "the act" is a reference to the Alcoholic Beverage Enforcement Amendment Act of 2008, effective March 25, 2009 (D.C. Law 17-361; 56 DCR 1204).</text>
+    </level>
+    <level>
+      <heading>Resolutions</heading>
+      <text>Resolution 15-340, the "Alcoholic Beverage Regulation Civil Penalty Schedule Regulations Approval Resolution of 2003", was approved effective December 2, 2003.</text>
+      <text>Resolution 18-488, the "Egregious First Time Sale to Minor Violation Clarification Regulations Approval Resolution of 2010", was approved effective June 1, 2010.</text>
+      <text>Resolution 18-522, the "East Dupont Circle Moratorium Zone Regulations Approval Resolution of 2010", was approved effective June 29, 2010.</text>
+      <text>Resolution 18-540, the "Drinking and Driving Warning Sign Regulation Approval Resolution of 2010", was approved effective July 13, 2010.</text>
+      <text>Resolution 18-701, the "Georgetown Moratorium Zone Revised Approval Resolution of 2010", was approved effective December 21, 2010.</text>
     </level>
   </level>
 </level>

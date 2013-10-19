@@ -35,11 +35,11 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>Foods and beverages sold in public school, public charter school, and participating private school stores shall meet the requirements of subsection (a) of this section.</text>
+    <text>Foods and beverages sold in public school, public charter school, and participating private schools stores shall meet the requirements of subsection (a) of this section.</text>
   </level>
   <level>
     <num>(e)</num>
-    <text>Public schools, public charter schools, and participating private schools shall not permit third parties, other than school-related organizations and school meal service providers, to sell foods or beverages of any type to students on school property from 90 minutes before the school day begins until 90 minutes after the school day ends.</text>
+    <text>Public schools, public charter school, and participating private schools shall not permit third parties, other than school-related organizations and school meal service providers, to sell foods or beverages of any type to students on school property from 90 minutes before the school day begins until 90 minutes after the school day ends.</text>
   </level>
   <level>
     <num>(f)</num>
@@ -57,31 +57,41 @@
     <num>(g)</num>
     <text>After first issuing a warning, the Office of the State Superintendent of Education may impose a penalty, not to exceed $500 per day paid to the Healthy Schools Fund, on public schools and public charter schools that violate this section, subject to the right to a hearing requested within 10 days after the notice of imposition of the penalty is sent.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 27, 2010, D.C. Law 18-209, § 206, 57 DCR 4779; Oct. 20, 2011, D.C. Law 19-37, § 2(h), 58 DCR 6841; Sept. 20, 2012, D.C. Law 19-168, § 4062(f), 59 DCR 8025.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-37, in subsec. (a), substituted "public schools, public charter schools, and participating private schools" for "public schools, public charter schools, and participating private schools"; in subsec. (d), substituted "public school, public charter school, and participating private school" for "public school, public charter school, and participating private school"; and, in subsec. (e), substituted "Public schools, public charter schools, and participating private schools" for "Public schools, public charter schools, and participating private schools".</text>
-        <text>D.C. Law 19-168, in subsec. (b), deleted "and" from the end of par. (3), substituted "; and" for a period the end of par. (4), and added par. (5).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(h) of Healthy Schools Emergency Amendment Act of 2011 (D.C. Act 19-143, August 9, 2011, 58 DCR 6814).</text>
-        <text>For temporary (90 day) amendment of section, see § 4062(f) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
-        <text>For temporary (90 day) amendment of section, see § 4062(f) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-209, see notes following § 38-821.01.</text>
-        <text>For history of Law 19-37, see notes under § 38-821.01.</text>
-        <text>For history of Law 19-168, see notes under § 38-751.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-821.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 19-37, in subsec. (a), substituted "public schools, public charter schools, and participating private schools" for "public schools, public charter schools, and participating private schools"; in subsec. (d), substituted "public school, public charter school, and participating private school" for "public school, public charter school, and participating private school"; and, in subsec. (e), substituted "Public schools, public charter schools, and participating private schools" for "Public schools, public charter schools, and participating private schools".</text>
+      <text>The 2012 amendment by D.C. Law 19-168 added (b)(5); and made related changes.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(h) of Healthy Schools Emergency Amendment Act of 2011 (D.C. Act 19-143, August 9, 2011, 58 DCR 6814).</text>
+      <text>For temporary (90 day) amendment of section, see § 4062(f) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
+      <text>For temporary (90 day) amendment of section, see § 4062(f) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-209</heading>
+      <text>For Law 18-209, see notes following § 38-821.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-37</heading>
+      <text>For history of Law 19-37, see notes under § 38-821.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>See note to § 38-821.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 4063 of D.C. Law 19-168 provided that § 4062 of the act shall apply as of June 20, 2012.</text>
     </level>
   </level>
 </level>

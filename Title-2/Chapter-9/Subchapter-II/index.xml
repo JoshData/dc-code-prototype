@@ -1,11 +1,8 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Submission of State Energy Plans.</heading>
-  <level>
-    <text>DC CODE D. I, T. 2, Ch. 9, Subch. II, Refs &amp; Annos</text>
-  </level>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-911.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-912.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-913.xml"/>
+  <heading>Submission of State Energy Plans</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-911._~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-912~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-913~P.xml"/>
 </level>

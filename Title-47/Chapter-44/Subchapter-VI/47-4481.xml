@@ -118,22 +118,18 @@
       <text>"Obligor" means a person, whose property is subject to a tax lien.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 2011, D.C. Law 19-21, § 8082(b), 58 DCR 6226.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-21, see notes under § 47-305.02.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 8081 of D.C. Law 19-21 provided that subtitle I of title VIII of the act may be cited as "Bank Account Tax Offset Act of 2011".</text>
-      </level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 47-305.02.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 8081 of D.C. Law 19-21 provided that subtitle I of title VIII of the act may be cited as "Bank Account Tax Offset Act of 2011".</text>
     </level>
   </level>
 </level>

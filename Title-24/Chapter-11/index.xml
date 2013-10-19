@@ -1,43 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>11</num>
-  <heading>Interstate Compact on Juveniles.</heading>
-  <level>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Complementary Legislation:</heading>
-          <text>Ariz.--A.R.S. §§ 8-361 to 8-367. </text>
-          <text>Conn.--C.G.S.A. §§ 46b-151 to 46b-151g (Contingent on repeal). </text>
-          <text>Del.--31 Del.C. §§ 5201 to 5203, 5221 to 5229. </text>
-          <text>D.C.--D.C. Official Code, 2001 Ed. §§ 24-1101 to 24-1106. </text>
-          <text>Ga.--O.C.G.A. §§ 39-3-1 to 39-3-7. </text>
-          <text>Ill.--S.H.A. 45 ILCS 10/0.01 to 10/7. </text>
-          <text>Ind.--West's A.I.C. 31-37-23-1 to 31-37-23-10. </text>
-          <text>Iowa--I.C.A. §§ 232.171, 232.172. </text>
-          <text>Kentucky--K.R.S. § 615.010. </text>
-          <text>Maine--34-A M.R.S.A. §§ 9001 to 9016. </text>
-          <text>Mass.--M.G.L.A. c. 120A, §§ 1 to 20. </text>
-          <text>Mich.--M.C.L.A. §§ 3.701 to 3.706. </text>
-          <text>Minn.--M.S.A. §§ 260.51 to 260.57. </text>
-          <text>N.H.--RSA 169-A:1 to 169-A:9. </text>
-          <text>N.J.--N.J.S.A. 9:23-1 to 9:23-4. </text>
-          <text>N.Y.--McKinney's Unconsol.Laws, §§ 1801 to 1806. </text>
-          <text>N.C.--G.S. §§ 7B-2800 to 7B-2827. </text>
-          <text>N.D.--NDCC 27-22-01 to 27-22-07. </text>
-          <text>Okl.--10 Okl.St.Ann. §§ 531 to 537. </text>
-          <text>S.D.--SDCL 26-12-15. </text>
-          <text>Vt.--33 V.S.A. §§ 5721 to 5733. </text>
-          <text>Wash.--West's RCWA 13.24.011 to 13.24.900. </text>
-          <text>W.Va.--Code, 49-8-1 to 49-8-7. </text>
-          <text>Wis.--W.S.A. 938.991.</text>
-          <text>DC CODE D. IV, T. 24, Ch. 11, Refs &amp; Annos</text>
-        </level>
-      </level>
-    </level>
-  </level>
+  <heading>Interstate Compact on Juveniles</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-1101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-1102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-1103.xml"/>

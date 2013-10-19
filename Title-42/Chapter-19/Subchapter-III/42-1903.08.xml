@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-1903.08</num>
   <heading>Unit owners' associations; powers and rights; deemed attorney-in-fact to grant and accept beneficial easements.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-1848</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except to the extent expressly prohibited by the condominium instruments, and subject to any restrictions and limitations specified herein, the unit owners' association shall have the:</text>
@@ -86,24 +85,27 @@
     <num>(d)</num>
     <text>In the performance of duties, an officer or member of the executive board shall exercise the care required of a fiduciary of the unit owners.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 29, 1977, D.C. Law 1-89, title III, § 308, 23 DCR 9532b; Mar. 8, 1991, D.C. Law 8-233, § 2(bb), 38 DCR 261.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-1848.</text>
-        <text>1973 Ed., § 5-1248.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-89, see Historical and Statutory Notes following § 42-1901.01.</text>
-        <text>For legislative history of D.C. Law 8-233, see Historical and Statutory Notes following § 42-1901.07.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-1901.01 and § 42-1903.18.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-1848.</text>
+      <text>1973 Ed., § 5-1248.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-89</heading>
+      <text>For legislative history of D.C. Law 1-89, see Historical and Statutory Notes following § 42-1901.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-233</heading>
+      <text>For legislative history of D.C. Law 8-233, see Historical and Statutory Notes following § 42-1901.07.</text>
     </level>
   </level>
 </level>

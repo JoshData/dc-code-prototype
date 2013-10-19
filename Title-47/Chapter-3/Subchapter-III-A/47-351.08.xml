@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-351.08</num>
   <heading>Collateral and reporting requirements.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-351.8</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except for securities directly purchased without a repurchase agreement and money market funds, an eligible financial institution must at all times provide collateral equal to at least 102% of the District funds held by the eligible financial institution for deposits and investments that are not fully federally insured.</text>
@@ -40,7 +39,7 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>Upon written approval of the Mayor, or the CFO pursuant to § 47- 351.02(c), an eligible financial institution may substitute collateral of greater or equivalent value from the various types listed in subsection (b) of this section.</text>
+    <text>Upon written approval of the Mayor, or the CFO pursuant to § 47-351.02(c), an eligible financial institution may substitute collateral of greater or equivalent value from the various types listed in subsection (b) of this section.</text>
   </level>
   <level>
     <num>(g)</num>
@@ -50,34 +49,43 @@
     <num>(h)</num>
     <text>An eligible financial institution shall submit to the Mayor, or the CFO pursuant to § 47-351.02(c), monthly verified reports that list all segregated collateral for District funds and its market value. The report shall also include the average daily balance of the amount of District funds on deposit or invested for the previous month. An insured institution shall submit copies of its quarterly call reports within 45 days after each fiscal quarter. A noninsured institution shall submit its Form 10K or annual financial statements within 60 days after each fiscal year.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 18, 1998, D.C. Law 12-56, § 2(c), 44 DCR 6933; Apr. 20, 1999, D.C. Law 12-264, § 52(d), 46 DCR 2118; Apr. 12, 2000, D.C. Law 13-91, § 156(a), 47 DCR 520; June 16, 2006, D.C. Law 16-125, § 2(b), 53 DCR 4707.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-351.8.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-91 amending subsec. (h) struck the word "Noninsured" and inserted the word "noninsured" in its place.</text>
-        <text>D.C. Law 16-125, in par. (b)(2), deleted "or"; in par. (b)(3), substituted "; or" for a period at the end; and added par. (b)(4).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>See Historical and Statutory Notes following § 47-351.01.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-56, see Historical and Statutory Notes following § 47-351.01.</text>
-        <text>For legislative history of D.C. Law 12-264, see Historical and Statutory Notes following § 47-351.01.</text>
-        <text>Law 13-91, the "Technical Amendments Act of 1999," was introduced in Council and assigned Bill No. 13-435, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 2, 1999, and December 7, 1999, respectively. Signed by the Mayor on December 29, 1999, it was assigned Act No. 13-234 and transmitted to both Houses of Congress for its review. D.C. Law 13-91 became effective on April 12, 2000.</text>
-        <text>For Law 16-125, see notes following § 47-351.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-351.11 and § 47-351.13.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-351.8.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-91 amending subsec. (h) struck the word "Noninsured" and inserted the word "noninsured" in its place.</text>
+      <text>D.C. Law 16-125, in par. (b)(2), deleted "or"; in par. (b)(3), substituted "; or" for a period at the end; and added par. (b)(4).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>See Historical and Statutory Notes following § 47-351.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-56</heading>
+      <text>For legislative history of D.C. Law 12-56, see Historical and Statutory Notes following § 47-351.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-264</heading>
+      <text>For legislative history of D.C. Law 12-264, see Historical and Statutory Notes following § 47-351.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-91</heading>
+      <text>Law 13-91, the "Technical Amendments Act of 1999," was introduced in Council and assigned Bill No. 13-435, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 2, 1999, and December 7, 1999, respectively. Signed by the Mayor on December 29, 1999, it was assigned Act No. 13-234 and transmitted to both Houses of Congress for its review. D.C. Law 13-91 became effective on April 12, 2000.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-125</heading>
+      <text>For Law 16-125, see notes following § 47-351.01.</text>
     </level>
   </level>
 </level>

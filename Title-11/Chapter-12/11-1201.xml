@@ -1,31 +1,24 @@
 <level type="section">
   <num>11-1201</num>
   <heading>Exclusive jurisdiction.</heading>
-  <formerly-cited-as>DC ST 1981 § 11-1201</formerly-cited-as>
-  <text>The Tax Division of the Superior Court shall be assigned exclusive jurisdiction of --</text>
+  <text>The Tax Division of the Superior Court shall be assigned exclusive jurisdiction of -</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>all appeals from and petitions for review of assessments of tax (and civil penalties thereon) made by the District of Columbia; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>all proceedings brought by the District of Columbia for this imposition of criminal penalties pursuant to the provisions of the statutes relating to taxes levied by or in behalf of the District of Columbia.</text>
-    </level>
+    <num>(1)</num>
+    <text>all appeals from and petitions for review of assessments of tax (and civil penalties thereon) made by the District of Columbia; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>all proceedings brought by the District of Columbia for this imposition of criminal penalties pursuant to the provisions of the statutes relating to taxes levied by or in behalf of the District of Columbia.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 488, Pub. L. 91-358, title I, § 111.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 11-1201.</text>
-        <text>1973 Ed., § 11-1201.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 11-1201.</text>
+      <text>1973 Ed., § 11-1201.</text>
     </level>
   </level>
 </level>

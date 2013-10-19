@@ -1,209 +1,230 @@
 <level type="section">
   <num>34-2202.01</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 43-1671</formerly-cited-as>
   <text>For the purposes of this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Authority" means the District of Columbia Water and Sewer Authority established pursuant to § 34-2202.02(a).</text>
+  </level>
+  <level>
+    <num>(1A)</num>
+    <text>"Contaminant" means a physical, chemical, biological, or radiological substance or matter in water.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Cost" means any and all reasonable expenses related to the purposes or activities of the Authority including expenses for operation and maintenance activities; expenses for preconstruction and construction, acquisition, alteration, improvement, enlargement of furnishing, fixturing and equipping, reconstruction and rehabilitation of the water distribution and sewage collection, treatment, and disposal systems of the District, including without limitation, the purchase or lease expense for all lands, structures, real or personal property, rights, rights-of-way, roads, franchises, easements, and interest acquired or used for, or in connection with the Authority; the expenses of demolishing or removing buildings or structures on land acquired by the Authority, including the expenses incurred for acquiring any lands to which the buildings may be moved or located; the expenses incurred for all utility lines, structures or equipment charges, and interest on financial obligations incurred for a period as the Authority may reasonably determine to be necessary for the effective functioning of the water distribution and sewage collection, treatment, and disposal systems; provisions for reserves for principal and interest for extensions, operating and contingency reserves, enlargements, additions, and improvements; expenses incurred for architectural engineering, energy efficiency technology, design and consulting, financial and legal services, letters of credit, bond insurance, debt service or debt service reserve insurance, surety bonds or similar credit enhancement instruments, plans, specification studies, surveys, and estimates of expenses and of revenues; expenses necessary or incident to determining the feasibility of improvements to the water distribution and sewage collection, treatment, and disposal systems, the financing of such improvements, including a proper allowance for contingencies, and the provision of reasonable initial working capital for operating the improved systems and expenses for obtaining potable water for distribution.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Dedicated revenues" means revenues collected pursuant to water and sewer rates, fees, and charges imposed by the Authority.</text>
+  </level>
+  <level>
+    <num>(3A)</num>
+    <text>"Endocrine disruptor compounds" means chemicals that can affect the hormones in the endocrine system of humans or wildlife and cause adverse physiologic effects, such as changes to the reproductive system or to the growth and development of the biological system.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Joint-use sewerage facilities" means the following:</text>
     <level>
-      <num>(1)</num>
-      <text>"Authority" means the District of Columbia Water and Sewer Authority established pursuant to § 34-2202.02(a).</text>
+      <num>(A)</num>
+      <text>Little Falls Trunk Sewer;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Cost" means any and all reasonable expenses related to the purposes or activities of the Authority including expenses for operation and maintenance activities; expenses for preconstruction and construction, acquisition, alteration, improvement, enlargement of furnishing, fixturing and equipping, reconstruction and rehabilitation of the water distribution and sewage collection, treatment, and disposal systems of the District, including without limitation, the purchase or lease expense for all lands, structures, real or personal property, rights, rights-of-way, roads, franchises, easements, and interest acquired or used for, or in connection with the Authority; the expenses of demolishing or removing buildings or structures on land acquired by the Authority, including the expenses incurred for acquiring any lands to which the buildings may be moved or located; the expenses incurred for all utility lines, structures or equipment charges, and interest on financial obligations incurred for a period as the Authority may reasonably determine to be necessary for the effective functioning of the water distribution and sewage collection, treatment, and disposal systems; provisions for reserves for principal and interest for extensions, operating and contingency reserves, enlargements, additions, and improvements; expenses incurred for architectural engineering, energy efficiency technology, design and consulting, financial and legal services, letters of credit, bond insurance, debt service or debt service reserve insurance, surety bonds or similar credit enhancement instruments, plans, specification studies, surveys, and estimates of expenses and of revenues; expenses necessary or incident to determining the feasibility of improvements to the water distribution and sewage collection, treatment, and disposal systems, the financing of such improvements, including a proper allowance for contingencies, and the provision of reasonable initial working capital for operating the improved systems and expenses for obtaining potable water for distribution.</text>
+      <num>(B)</num>
+      <text>Upper Potomac Interceptor Sewer;</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>"Dedicated revenues" means revenues collected pursuant to water and sewer rates, fees, and charges imposed by the Authority.</text>
+      <num>(C)</num>
+      <text>Upper Potomac Interceptor Relief Sewer;</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>"Joint-use sewerage facilities" means the following:</text>
-      <level>
-        <num>(A)</num>
-        <text>Little Falls Trunk Sewer;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Upper Potomac Interceptor Sewer;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Upper Potomac Interceptor Relief Sewer;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Rock Creek Main Interceptor Sewer;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Rock Creek Main Interceptor Relief Sewer;</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Potomac River Interceptor Sewer;</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>Potomac River Sewage Pumping Station;</text>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>Potomac River Force Mains;</text>
-      </level>
-      <level>
-        <num>(I)</num>
-        <text>Watts Branch Trunk Sewer;</text>
-      </level>
-      <level>
-        <num>(J)</num>
-        <text>Anacostia Force Main (Project 89 Sewer);</text>
-      </level>
-      <level>
-        <num>(K)</num>
-        <text>Anacostia Force Main &amp; Gravity Sewer;</text>
-      </level>
-      <level>
-        <num>(L)</num>
-        <text>Outfall Sewers (Renamed Potomac River Trunk Sewers);</text>
-      </level>
-      <level>
-        <num>(M)</num>
-        <text>Outfall Relief Sewers (Renamed Potomac River Trunk Relief Sewers);</text>
-      </level>
-      <level>
-        <num>(N)</num>
-        <text>Upper Oxon Run Trunk Sewer;</text>
-      </level>
-      <level>
-        <num>(O)</num>
-        <text>Upper Oxon Run Trunk Relief Sewer;</text>
-      </level>
-      <level>
-        <num>(P)</num>
-        <text>Lower Oxon Run Trunk Sewer;</text>
-      </level>
-      <level>
-        <num>(Q)</num>
-        <text>Lower Oxon Run Trunk Relief Sewer;</text>
-      </level>
-      <level>
-        <num>(R)</num>
-        <text>Blue Plains Wastewater Treatment Plant (Blue Plains); and</text>
-      </level>
-      <level>
-        <num>(S)</num>
-        <text>Potomac Interceptor Sewer.</text>
-      </level>
+      <num>(D)</num>
+      <text>Rock Creek Main Interceptor Sewer;</text>
     </level>
     <level>
-      <num>(5)</num>
-      <text>"Other participating jurisdictions" means Montgomery County, Maryland, Prince George's County, Maryland, and Fairfax County, Virginia.</text>
+      <num>(E)</num>
+      <text>Rock Creek Main Interceptor Relief Sewer;</text>
     </level>
     <level>
-      <num>(6)</num>
-      <text>"Revenue bond" means any revenue bond, note, or other obligation (including refunding bonds, notes, or other obligations) used to borrow money to finance, assist in financing, or to refinance undertakings authorized by § 1-204.90, and this chapter.</text>
+      <num>(F)</num>
+      <text>Potomac River Interceptor Sewer;</text>
     </level>
     <level>
-      <num>(7)</num>
-      <text>"Service sewer" means a sewer with which connection may be directly made for the purpose of providing sewage facilities to abutting property.</text>
+      <num>(G)</num>
+      <text>Potomac River Sewage Pumping Station;</text>
     </level>
     <level>
-      <num>(8)</num>
-      <text>"Sewage collection, treatment, and disposal systems" means all the facilities used, or to be used, for the collection, transmission, treatment, and disposal of sanitary sewage and stormwater flow, including the following:</text>
-      <level>
-        <num>(A)</num>
-        <text>Sewers carrying the following:</text>
-        <level>
-          <num>(i)</num>
-          <text>Sewage mixed with storm and surface water;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Sewage discharged from sanitary conveniences;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Commercial or industrial wastes;</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>Water distributed after use;</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>Stormwater run-off; and</text>
-        </level>
-        <level>
-          <num>(vi)</num>
-          <text>Both sanitary sewage run-off and stormwater run-off;</text>
-        </level>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Sanitary, stormwater, and combined pumping stations;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Wastewater treatment plants, including the Blue Plains Wastewater Treatment Plant; and</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Facilities for the processing, management, and disposal of biosolids.</text>
-      </level>
+      <num>(H)</num>
+      <text>Potomac River Force Mains;</text>
     </level>
     <level>
-      <num>(9)</num>
-      <text>"Sewer" means a pipe or conduit carrying sewage or stormwater flow.</text>
+      <num>(I)</num>
+      <text>Watts Branch Trunk Sewer;</text>
     </level>
     <level>
-      <num>(9A)</num>
-      <text>Repealed.</text>
+      <num>(J)</num>
+      <text>Anacostia Force Main (Project 89 Sewer);</text>
     </level>
     <level>
-      <num>(9B)</num>
-      <text>Repealed.</text>
+      <num>(K)</num>
+      <text>Anacostia Force Main &amp; Gravity Sewer;</text>
     </level>
     <level>
-      <num>(10)</num>
-      <text>"Water and sewer rates" means the fees imposed by the Authority on its retail customers for water, sewer, and stormwater services pursuant to this chapter.</text>
+      <num>(L)</num>
+      <text>Outfall Sewers (Renamed Potomac River Trunk Sewers);</text>
     </level>
     <level>
-      <num>(11)</num>
-      <text>"Water distribution system" means all the facilities used, or to be used, for the distribution of potable water situated within the public space of the District.</text>
+      <num>(M)</num>
+      <text>Outfall Relief Sewers (Renamed Potomac River Trunk Relief Sewers);</text>
+    </level>
+    <level>
+      <num>(N)</num>
+      <text>Upper Oxon Run Trunk Sewer;</text>
+    </level>
+    <level>
+      <num>(O)</num>
+      <text>Upper Oxon Run Trunk Relief Sewer;</text>
+    </level>
+    <level>
+      <num>(P)</num>
+      <text>Lower Oxon Run Trunk Sewer;</text>
+    </level>
+    <level>
+      <num>(Q)</num>
+      <text>Lower Oxon Run Trunk Relief Sewer;</text>
+    </level>
+    <level>
+      <num>(R)</num>
+      <text>Blue Plains Wastewater Treatment Plant (Blue Plains); and</text>
+    </level>
+    <level>
+      <num>(S)</num>
+      <text>Potomac Interceptor Sewer.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(5)</num>
+    <text>"Other participating jurisdictions" means Montgomery County, Maryland, Prince George's County, Maryland, and Fairfax County, Virginia.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Revenue bond" means any revenue bond, note, or other obligation (including refunding bonds, notes, or other obligations) used to borrow money to finance, assist in financing, or to refinance undertakings authorized by § 1-204.90, and this chapter.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Service sewer" means a sewer with which connection may be directly made for the purpose of providing sewage facilities to abutting property.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Sewage collection, treatment, and disposal systems" means all the facilities used, or to be used, for the collection, transmission, treatment, and disposal of sanitary sewage and stormwater flow, including the following:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Apr. 18, 1996, D.C. Law 11-111, § 201, 43 DCR 548; Apr. 9, 1997, D.C. Law 11-184, § 202(b), 43 DCR 4265; June 9, 2001, D.C. Law 13-311, § 2(a), 48 DCR 3512; Mar. 25, 2009, D.C. Law 17-371, § 3(a), 56 DCR 1353.)</text>
+      <num>(A)</num>
+      <text>Sewers carrying the following:</text>
+      <level>
+        <num>(i)</num>
+        <text>Sewage mixed with storm and surface water;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Sewage discharged from sanitary conveniences;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Commercial or industrial wastes;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>Water distributed after use;</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>Stormwater run-off; and</text>
+      </level>
+      <level>
+        <num>(vi)</num>
+        <text>Both sanitary sewage run-off and stormwater run-off;</text>
+      </level>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 43-1671.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-311 added pars. (9A) and (9B).</text>
-        <text>D.C. Law 17-371 repealed pars. (9A) and (9B) which had read as follows:</text>
-        <text>"(9A) 'Storm water fee' means the fee established pursuant to § 34-2202.16(e).</text>
-        <text>"(9B) 'Storm water permit' or 'Permit' means NPDES No. DC0000221, issued April 20, 2000."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of section, see § 2(b) of the District of Columbia Water and Sewer Authority Emergency Amendment Act of 1996 (D.C. Act 11-293, July 9, 1996, 43 DCR 4160).</text>
-        <text>For temporary amendment of section, see § 2(b) of the Water and Sewer Authority Congressional Review Emergency Amendment Act of 1996 (D.C. Act 11-397, October 9, 1996, 43 DCR 5686), § 2(b) of the Water and Sewer Authority Second Congressional Review Emergency Amendment Act of 1996 (D.C. Act 11-466, December 30, 1996, 44 DCR 165), and § 2(b) of the Water and Sewer Authority Congressional Review Emergency Amendment Act of 1997 (D.C. Act 12-48, March 31, 1997, 44 DCR 2105).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-111, see Historical and Statutory Notes following § 34-2201.01.</text>
-        <text>For legislative history of D.C. Law 11-184, see Historical and Statutory Notes following § 34-2201.01.</text>
-        <text>Law 13-311, the "Storm Water Permit Compliance Amendment Act of 2000," was introduced in Council and assigned Bill No. 13-813, which was referred to the Committee on Public Works and the Environment. The Bill was adopted on first and second readings on December 5, 2000, and December 19, 2000, respectively. Signed by the Mayor on January 22, 2001, it was assigned Act No. 13-311 and transmitted to both Houses of Congress for its review. D.C. Law 13-580 became effective on June 13, 2001.</text>
-        <text>Law 17-371, the "Comprehensive Stormwater Management Enhancement Amendment Act of 2008", was introduced in Council and assigned Bill No. 17-980 which was referred to the Committee on Public Works and the Environment. The Bill was adopted on first and second readings on December 2, 2008, and December 16, 2008, respectively. Signed by the Mayor on January 23, 2009, it was assigned Act No. 17-706 and transmitted to both Houses of Congress for its review. D.C. Law 17-371 became effective on March 25, 2009.</text>
-      </level>
+      <num>(B)</num>
+      <text>Sanitary, stormwater, and combined pumping stations;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Wastewater treatment plants, including the Blue Plains Wastewater Treatment Plant; and</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Facilities for the processing, management, and disposal of biosolids.</text>
+    </level>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Sewer" means a pipe or conduit carrying sewage or stormwater flow.</text>
+  </level>
+  <level>
+    <num>(9A)</num>
+    <text>Repealed.</text>
+  </level>
+  <level>
+    <num>(9B)</num>
+    <text>Repealed.</text>
+  </level>
+  <level>
+    <num>(9C)</num>
+    <text>"Unregulated contaminant" means the contaminants regulated by the United States Environmental Protection Agency pursuant to the Revisions to the Unregulated Contaminant Monitoring Regulation for Public Water Systems set forth in 40 C.F.R. § 141.40.</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"Water and sewer rates" means the fees imposed by the Authority on its retail customers for water, sewer, and stormwater services pursuant to this chapter.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>"Water distribution system" means all the facilities used, or to be used, for the distribution of potable water situated within the public space of the District.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Apr. 18, 1996, D.C. Law 11-111, § 201, 43 DCR 548; Apr. 9, 1997, D.C. Law 11-184, § 202(b), 43 DCR 4265; June 9, 2001, D.C. Law 13-311, § 2(a), 48 DCR 3512; Mar. 25, 2009, D.C. Law 17-371, § 3(a), 56 DCR 1353; Mar. 19, 2013, D.C. Law 19-240, § 2(a), 59 DCR 14790.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-105.71 and § 8-151.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 43-1671.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-311 added pars. (9A) and (9B).</text>
+      <text>D.C. Law 17-371 repealed pars. (9A) and (9B).</text>
+      <text>The 2013 amendment by D.C. Law 19-240 added (1A), (3A), and (9C).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 2(b) of the District of Columbia Water and Sewer Authority Emergency Amendment Act of 1996 (D.C. Act 11-293, July 9, 1996, 43 DCR 4160).</text>
+      <text>For temporary amendment of section, see § 2(b) of the Water and Sewer Authority Congressional Review Emergency Amendment Act of 1996 (D.C. Act 11-397, October 9, 1996, 43 DCR 5686), § 2(b) of the Water and Sewer Authority Second Congressional Review Emergency Amendment Act of 1996 (D.C. Act 11-466, December 30, 1996, 44 DCR 165), and § 2(b) of the Water and Sewer Authority Congressional Review Emergency Amendment Act of 1997 (D.C. Act 12-48, March 31, 1997, 44 DCR 2105).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-111</heading>
+      <text>For legislative history of D.C. Law 11-111, see Historical and Statutory Notes following § 34-2201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-184</heading>
+      <text>For legislative history of D.C. Law 11-184, see Historical and Statutory Notes following § 34-2201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-311</heading>
+      <text>Law 13-311, the "Storm Water Permit Compliance Amendment Act of 2000," was introduced in Council and assigned Bill No. 13-813, which was referred to the Committee on Public Works and the Environment. The Bill was adopted on first and second readings on December 5, 2000, and December 19, 2000, respectively. Signed by the Mayor on January 22, 2001, it was assigned Act No. 13-311 and transmitted to both Houses of Congress for its review. D.C. Law 13-580 became effective on June 13, 2001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-371</heading>
+      <text>Law 17-371, the "Comprehensive Stormwater Management Enhancement Amendment Act of 2008", was introduced in Council and assigned Bill No. 17-980 which was referred to the Committee on Public Works and the Environment. The Bill was adopted on first and second readings on December 2, 2008, and December 16, 2008, respectively. Signed by the Mayor on January 23, 2009, it was assigned Act No. 17-706 and transmitted to both Houses of Congress for its review. D.C. Law 17-371 became effective on March 25, 2009.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-240</heading>
+      <text>Law 19-240, the "Water Quality Assurance Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-769. The Bill was adopted on first and second readings on Nov. 1, 2012 and Nov. 15, 2012, respectively. Signed by the Mayor on Dec. 4, 2012, it was assigned Act No. 19-560 and transmitted to Congress for its review. D.C. Law 19-240 became effective on Mar. 19, 2013.</text>
     </level>
   </level>
 </level>

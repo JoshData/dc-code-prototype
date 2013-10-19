@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Short Title, Purposes, and Definitions.</heading>
+  <heading>Short Title, Purposes, and Definitions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-201.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-201.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-201.03.xml"/>

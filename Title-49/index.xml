@@ -1,11 +1,11 @@
 <level type="toc">
   <prefix>Title</prefix>
   <num>49</num>
-  <heading>Military.</heading>
+  <heading>Military</heading>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>I</num>
-    <heading>District of Columbia Military Organization.</heading>
+    <heading>District of Columbia Military Organization</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3/index.xml"/>
@@ -19,7 +19,13 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>II</num>
-    <heading>Office of Veterans Affairs.</heading>
+    <heading>Office of Veterans Affairs</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-10/index.xml"/>
+  </level>
+  <level type="toc">
+    <prefix>Subtitle</prefix>
+    <num>III</num>
+    <heading>Military Children</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-11/index.xml"/>
   </level>
 </level>

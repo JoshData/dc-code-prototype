@@ -3,43 +3,41 @@
   <heading>Comfort care; alleviation of pain.</heading>
   <text>EMS personnel may provide the following interventions to a patient who is wearing an intact comfort care bracelet or necklace that has not been defaced to comfort the patient or alleviate pain:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Clear the airway, excluding artificial ventilation, esophageal obturator airway, or advanced airway management;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Administer suction;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Provide oxygen, excluding artificial ventilation, esophageal obturator airway, or advanced airway management;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Provide pain medication;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Control bleeding; or</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Make comfort adjustments.</text>
-    </level>
+    <num>(1)</num>
+    <text>Clear the airway, excluding artificial ventilation, esophageal obturator airway, or advanced airway management;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Administer suction;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Provide oxygen, excluding artificial ventilation, esophageal obturator airway, or advanced airway management;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Provide pain medication;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Control bleeding; or</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Make comfort adjustments.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 3, 2001, D.C. Law 13-224, § 9, 48 DCR 27.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-224, see notes following § 7-651.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-651.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-224</heading>
+      <text>For D.C. Law 13-224, see notes following § 7-651.01.</text>
     </level>
   </level>
 </level>

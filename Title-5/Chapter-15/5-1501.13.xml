@@ -65,18 +65,14 @@
     <num>(e)</num>
     <text>The Stakeholder Council shall meet no fewer than 2 times per year. The chairperson shall fix the time and place of the meetings.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 17, 2011, D.C. Law 19-18, § 14, 58 DCR 5403.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-18, see notes under § 5-1501.01.</text>
-      </level>
+      <heading>Legislative History of Law 19-18</heading>
+      <text>For history of Law 19-18, see notes under § 5-1501.01.</text>
     </level>
   </level>
 </level>

@@ -14,7 +14,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>The activities of the company and the conduct of those activities; and</text>
+      <text>The activities and affairs of the company and the conduct of those activities and affairs; and</text>
     </level>
     <level>
       <num>(4)</num>
@@ -38,7 +38,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Vary the power of the court under § 29-802.04;</text>
+      <text>Vary the provisions of § 29-802.04;</text>
     </level>
     <level>
       <num>(4)</num>
@@ -46,7 +46,7 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Subject to subsections (d) through (g) of this section, eliminate the contractual obligation of good faith and fair dealing under § 29-804.09(d);</text>
+      <text>Eliminate the contractual obligation of good faith and fair dealing under § 29-804.09(d), but the operating agreement may prescribe the standards, if not manifestly unreasonable, by which the performance of the obligation is to be measured;</text>
     </level>
     <level>
       <num>(6)</num>
@@ -54,11 +54,11 @@
     </level>
     <level>
       <num>(7)</num>
-      <text>Vary the power of a court to decree dissolution in the circumstances specified in § 29-807.01(a)(4) and (5);</text>
+      <text>Vary the causes of dissolution specified in § 29-807.01(a)(4) and (5);</text>
     </level>
     <level>
       <num>(8)</num>
-      <text>Vary the requirement to wind up a limited liability company's business as specified in § 29-807.02(a) and (b)(1);</text>
+      <text>Vary the requirement to wind up a limited liability company's activities and affairs as specified in § 29-807.02;</text>
     </level>
     <level>
       <num>(9)</num>
@@ -66,91 +66,91 @@
     </level>
     <level>
       <num>(10)</num>
-      <text>Restrict the right to approve a merger or domestication under § 29- 809.10 or Chapter 2 of this title of a member that will have personal liability with respect to a surviving, converted, or domesticated organization; or</text>
+      <text>Restrict the right to approve a merger or domestication under § 29-809.10 or Chapter 2 of this title of a member that will have personal liability with respect to a surviving, converted, or domesticated organization;</text>
     </level>
     <level>
       <num>(11)</num>
-      <text>Except as otherwise provided in § 29-801.09(b), restrict the rights under this chapter of a person other than a member or manager.</text>
+      <text>Except as otherwise provided in § 29-801.08 or 29-801.09(b), restrict the rights under this chapter of a person other than a member or manager.</text>
+    </level>
+    <level>
+      <num>(12)</num>
+      <text>Vary any requirement, procedure, or other provision of this title pertaining to:</text>
+      <level>
+        <num>(A)</num>
+        <text>Registered agents; or</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The Mayor, including provisions pertaining to records authorized or required to be delivered to the Mayor for filing under this chapter;</text>
+      </level>
+    </level>
+    <level>
+      <num>(13)</num>
+      <text>Relieve or exonerate a person from liability for conduct involving bad faith, willful or intentional misconduct, or knowing violation of the law; or</text>
+    </level>
+    <level>
+      <num>(14)</num>
+      <text>Vary the provisions of § 29-808.05, except that the operating agreement may provide that the company may not have a special litigation committee.</text>
+      <level>
+        <num>(17)</num>
+        <text>[(15)] Vary the power of a person to dissociate under § 29-807.01, except to require that notice of dissociation be in a record.</text>
+      </level>
     </level>
   </level>
   <level>
     <num>(d)</num>
-    <text>If not manifestly unreasonable, the operating agreement may:</text>
+    <text>Subject to subsection (c) of this section, without limiting other terms that may be included in an operating agreement, the following rules apply:</text>
     <level>
       <num>(1)</num>
-      <text>Restrict or eliminate the duty:</text>
-      <level>
-        <num>(A)</num>
-        <text>As required in § 29-804.09(b)(1) and (g), to account to the limited liability company and to hold as trustee for it any property, profit, or benefit derived by the member in the conduct or winding up of the company's business, from a use by the member of the company's property, or from the appropriation of a limited liability company opportunity;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>As required in § 29-804.09(b)(2) and (g), to refrain from dealing with the company in the conduct or winding up of the company's business as or on behalf of a party having an interest adverse to the company; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>As required by § 29-804.09(b)(3) and (g), to refrain from competing with the company in the conduct of the company's business before the dissolution of the company;</text>
-      </level>
+      <text>The operating agreement may specify the method by which a specific act or transaction that would otherwise violate the duty of loyalty may be authorized or ratified by one or more disinterested and independent persons after full disclosure of all material facts.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Identify specific types or categories of activities that do not violate the duty of loyalty;</text>
+      <text>To the extent the operating agreement of a member-managed limited liability company expressly relieves a member of a responsibility that the member would otherwise have under this chapter and imposes the responsibility on one or more other members, the operating agreement may, to the benefit of the member that the operating agreement relieves of the responsibility, also eliminate or limit any fiduciary duty that would have pertained to the responsibility.</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>Alter the duty of care, except to authorize intentional misconduct or knowing violation of law;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Alter any other fiduciary duty, including eliminating particular aspects of that duty; and</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Prescribe the standards by which to measure the performance of the contractual obligation of good faith and fair dealing under § 29-804.09(d).</text>
+      <text>If not manifestly unreasonable, the operating agreement may:</text>
+      <level>
+        <num>(A)</num>
+        <text>Restrict or eliminate the aspects of the duty of loyalty stated in § 29-804.09;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Identify specific types or categories of activities and affairs that do not violate the duty of loyalty;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Alter the duty of care, but may not authorize willful or intentional misconduct or knowing violation of law; and</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Alter or eliminate any other fiduciary duty.</text>
+      </level>
     </level>
   </level>
   <level>
     <num>(e)</num>
-    <text>The operating agreement may specify the method by which a specific act or transaction that would otherwise violate the duty of loyalty may be authorized or ratified by one or more disinterested and independent persons after full disclosure of all material facts.</text>
+    <text>Repealed.</text>
   </level>
   <level>
     <num>(f)</num>
-    <text>To the extent the operating agreement of a member-managed limited liability company expressly relieves a member of a responsibility that the member would otherwise have under this chapter and imposes the responsibility on one or more other members, the operating agreement may, to the benefit of the member that the operating agreement relieves of the responsibility, also eliminate or limit any fiduciary duty that would have pertained to the responsibility.</text>
+    <text>Repealed.</text>
   </level>
   <level>
     <num>(g)</num>
-    <text>The operating agreement may alter or eliminate the indemnification for a member or manager provided by § 29-804.08(a) and may eliminate or limit a member or manager's liability to the limited liability company and members for money damages, except for:</text>
-    <level>
-      <num>(1)</num>
-      <text>Breach of the duty of loyalty;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>A financial benefit received by the member or manager to which the member or manager is not entitled;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>A breach of a duty under § 29-804.06;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Intentional infliction of harm on the company or a member; or</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>An intentional violation of criminal law.</text>
-    </level>
+    <text>Repealed.</text>
   </level>
   <level>
     <num>(h)</num>
-    <text>The Superior Court shall decide any claim under subsection (d) of this section that a term of an operating agreement is manifestly unreasonable. The court:</text>
+    <text>The Superior Court shall decide, as a matter of law, any claim under subsection (c)(5) or (d)(3) of this section that a term of an operating agreement is manifestly unreasonable. The court:</text>
     <level>
       <num>(1)</num>
       <text>Shall make its determination as of the time the challenged term became part of the operating agreement and by considering only circumstances existing at that time; and</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>May invalidate the term only if, in light of the purposes and activities of the limited liability company, it is readily apparent that:</text>
+      <text>May invalidate the term only if, in light of the purposes and activities and affairs of the limited liability company, it is readily apparent that:</text>
       <level>
         <num>(A)</num>
         <text>The objective of the term is unreasonable; or</text>
@@ -161,22 +161,31 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(h)(2)(E), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 110 of the Uniform Limited Company Act (2006 Act). See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-801.02, § 29-801.09, § 29-802.01, and § 29-804.08.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-801.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 110 of the Uniform Limited Company Act (2006 Act).</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

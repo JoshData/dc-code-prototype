@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Admission, Commitment, Discharge, Transfer, Respite Care.</heading>
-  <level>
-    <text>DC CODE D. I, T. 7, Subt. D, Ch. 13, Subch. III, Refs &amp; Annos</text>
-  </level>
+  <heading>Admission, Commitment, Discharge, Transfer, Respite Care</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1303.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1303.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1303.03.xml"/>

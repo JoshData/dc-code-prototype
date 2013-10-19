@@ -3,47 +3,41 @@
   <heading>Workforce development and employment plan.</heading>
   <text>In an effort to maximize employment opportunities to District residents, the Mayor shall establish a workforce development and employment plan that shall incorporate the first source hiring requirements of § 2-219.03, with priority given to employment of:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Residents of economically distressed neighborhoods;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Low-income individuals; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Unemployed and underemployed residents.</text>
-    </level>
+    <num>(1)</num>
+    <text>Residents of economically distressed neighborhoods;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Low-income individuals; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Unemployed and underemployed residents.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 27, 2010, D.C. Law 18-183, § 307, 57 DCR 3406.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>Section 208 of D.C. Law 18-156 added a section to read as follows:</text>
-        <text>"Sec. 208. Workforce development and employment plan; Qualified Apprenticeship Programs.</text>
-        <text>"In an effort to maximize employment opportunities to District residents, the Mayor shall:</text>
-        <text>"(1) Establish a workforce development and employment plan, which shall incorporate the District's first source agreement hiring requirement, with priority given to employment of:</text>
-        <text>"(A) Residents of economically distressed neighborhoods;</text>
-        <text>"(B) Low-income individuals; and</text>
-        <text>"(C) Unemployed and underemployed residents; and</text>
-        <text>"(2) Leverage Qualified Apprenticeship Programs to train individuals for advancement to living wage career path employment."</text>
-        <text>Section 402(b) of D.C. Law 18-156 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 208 of Energy Efficiency Emergency Act of 2009 (D.C. Act 18-324, March 1, 2010, 57 DCR 1851).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-183, see notes following § 8-1778.01.</text>
-      </level>
+      <heading>Temporary Addition of Section</heading>
+      <text>Section 208 of D.C. Law 18-156 added a section to read as follows:</text>
+      <text>"Sec. 208. Workforce development and employment plan; Qualified Apprenticeship Programs.</text>
+      <text>"In an effort to maximize employment opportunities to District residents, the Mayor shall:</text>
+      <text>"(1) Establish a workforce development and employment plan, which shall incorporate the District's first source agreement hiring requirement, with priority given to employment of:</text>
+      <text>"(A) Residents of economically distressed neighborhoods;</text>
+      <text>"(B) Low-income individuals; and</text>
+      <text>"(C) Unemployed and underemployed residents; and</text>
+      <text>"(2) Leverage Qualified Apprenticeship Programs to train individuals for advancement to living wage career path employment."</text>
+      <text>Section 402(b) of D.C. Law 18-156 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 208 of Energy Efficiency Emergency Act of 2009 (D.C. Act 18-324, March 1, 2010, 57 DCR 1851).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-183</heading>
+      <text>For Law 18-183, see notes following § 8-1778.01.</text>
     </level>
   </level>
 </level>

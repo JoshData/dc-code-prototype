@@ -96,25 +96,26 @@
     <num>(h)</num>
     <text>All renovation work shall conform to such additional requirements as may be issued by the Mayor by rule.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 31, 2009, D.C. Law 17-381, § 12, 56 DCR 1596; Mar. 31, 2011, D.C. Law 18-348, § 2(i), 58 DCR 717.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-348, in subsec. (a), substituted "1978," for "March 1, 1978,"; in subsec. (b)(1)(C), substituted "Chapter 35 of Title 24 of the Code of Federal Regulations" for "24 C.F.R. § 35.1330"; rewrote subsecs. (b)(4) and (f)(1), which had read as follows:</text>
-        <text>"(4) Adhere to other requirements established by the Mayor, or promulgated by EPA at 40 C.F.R. § 745.85."</text>
-        <text>"(f)(1) A clearance examination following either elimination of a lead-based paint hazard ordered by the Mayor, or after such work performed in response to a child with an elevated blood lead level, shall not be conducted by a risk assessor or lead inspector who is related to the owner or any tenant by blood or marriage, or is an employee or an entity in which the individual or business entity has a financial interest, or by a dust sampling technician."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-381, see notes following § 8-231.01.</text>
-        <text>For history of Law 18-348, see notes under § 8-231.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-231.03.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-348, in subsec. (a), substituted "1978," for "March 1, 1978,"; in subsec. (b)(1)(C), substituted "Chapter 35 of Title 24 of the Code of Federal Regulations" for "24 C.F.R. § 35.1330"; rewrote subsecs. (b)(4) and (f)(1).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-381</heading>
+      <text>For Law 17-381, see notes following § 8-231.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-348</heading>
+      <text>For history of Law 18-348, see notes under § 8-231.01.</text>
     </level>
   </level>
 </level>

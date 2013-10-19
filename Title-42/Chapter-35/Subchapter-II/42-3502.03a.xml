@@ -1,6 +1,6 @@
 <level type="section">
   <num>42-3502.03a</num>
-  <heading>Rent Administrator--Appointment and removal.</heading>
+  <heading>Rent Administrator - Appointment and removal.</heading>
   <level>
     <num>(a)</num>
     <text>The Rent Administrator shall be appointed by the Mayor with the advice and consent of the Council.</text>
@@ -29,22 +29,18 @@
     <num>(e)</num>
     <text>The Mayor shall remove the Rent Administrator for cause only; provided, that the Mayor shall provide the Council with a written justification within 30 days of the removal.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 17, 1985, D.C. Law 6-10, § 203a, as added Mar. 25, 2009, D.C. Law 17-366, § 2(d), 56 DCR 1332.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-366, see notes following § 42-3401.03.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Former § 42-3502.03a has been recodified as § 42-3502.04b by D.C. Law 17-366, § 2(c).</text>
-      </level>
+      <heading>Legislative History of Law 17-366</heading>
+      <text>For Law 17-366, see notes following § 42-3401.03.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Former § 42-3502.03a has been recodified as § 42-3502.04b by D.C. Law 17-366, § 2(c).</text>
     </level>
   </level>
 </level>

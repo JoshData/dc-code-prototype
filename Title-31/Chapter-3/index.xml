@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>3</num>
-  <heading>Annual Audited Financial Reports.</heading>
+  <heading>Annual Audited Financial Reports</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-301.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-302.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-303.xml"/>

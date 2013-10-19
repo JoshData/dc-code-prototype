@@ -9,22 +9,18 @@
     <num>(b)</num>
     <text>A person may charge a reasonable amount for the removal, processing, preservation, quality control, storage, transportation, implantation, or disposal of a part.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 15, 2008, D.C. Law 17-145, § 16, 55 DCR 2532.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-145, see notes following § 7-1531.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 16 of the Revised Uniform Anatomical Gift Act (2006). See Vol. 8A, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 17-145</heading>
+      <text>For Law 17-145, see notes following § 7-1531.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 16 of the Revised Uniform Anatomical Gift Act (2006).</text>
     </level>
   </level>
 </level>

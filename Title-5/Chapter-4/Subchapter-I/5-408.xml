@@ -1,7 +1,6 @@
 <level type="section">
   <num>5-408</num>
-  <heading>Firefighting Division--Recording annual and sick leave.</heading>
-  <formerly-cited-as>DC ST 1981 § 4-308</formerly-cited-as>
+  <heading>Firefighting Division - Recording annual and sick leave.</heading>
   <level>
     <num>(a)</num>
     <text>For the purpose of recording annual and sick leave on the hourly basis for officers and members of the Firefighting Division of the Fire Department of the District of Columbia, the workday of any workweek shall be considered to be 12 hours.</text>
@@ -18,19 +17,23 @@
       <text>During the night shift of 14 hours, twelve-fourteenths of an hour of leave shall be charged for each hour taken, calculated to the nearest fractional tenth.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 5, 1961, 75 Stat. 832, Pub. L. 87-399, § 6.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 4-308.</text>
-        <text>1973 Ed., § 4-408a.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Merit system, application to police officers and firefighters, see § 1-632.03.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-632.03.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 4-308.</text>
+      <text>1973 Ed., § 4-408a.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-2809</num>
   <heading>Exceptions.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-3109</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>This chapter shall not apply to the use of alarm systems by law-enforcement personnel for law-enforcement purposes.</text>
@@ -30,23 +29,22 @@
     <num>(g)</num>
     <text>This chapter shall not apply to any alarm system used, operated, or installed in any premises or place owned, leased, occupied, or under the control of the governments of the United States or the District of Columbia, nor to any officer, agent, or employee of either government while acting or employed in his official capacity.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 26, 1980, D.C. Law 3-107, § 10, 27 DCR 3760; Mar. 29, 1988, D.C. Law 7-99, § 2(k), 35 DCR 1051.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-3109.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-107, see Historical and Statutory Notes following § 7-2801.</text>
-        <text>For legislative history of D.C. Law 7-99, see Historical and Statutory Notes following § 7-2801.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-3109.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-107</heading>
+      <text>For legislative history of D.C. Law 3-107, see Historical and Statutory Notes following § 7-2801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-99</heading>
+      <text>For legislative history of D.C. Law 7-99, see Historical and Statutory Notes following § 7-2801.</text>
     </level>
   </level>
 </level>

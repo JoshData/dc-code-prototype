@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-4703</num>
-  <heading>Life policies--Required provisions.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-503</formerly-cited-as>
+  <heading>Life policies - Required provisions.</heading>
   <level>
     <num>(a)</num>
     <text>No life insurance policy other than industrial insurance, annuities, and pure endowments shall be issued or delivered in the District or shall be issued by a life company organized under District laws after the 1st day of January, 1935, unless the policy has the following features:</text>
@@ -167,14 +166,14 @@
       </level>
       <level>
         <num>(F)</num>
-        <text>The loan value of the policy shall be determined according to § 31- 4705.04, but no policy shall terminate in a policy year as the sole result of change in the interest rate and the life insurer shall maintain coverage until the time at which it would otherwise have terminated if there had been no increase during that policy year.</text>
+        <text>The loan value of the policy shall be determined according to § 31-4705.04, but no policy shall terminate in a policy year as the sole result of change in the interest rate and the life insurer shall maintain coverage until the time at which it would otherwise have terminated if there had been no increase during that policy year.</text>
       </level>
       <level>
         <num>(G)</num>
         <text>For purposes of subparagraphs (B) through (G) of this paragraph:</text>
         <level>
           <num>(i)</num>
-          <text>The term "published monthly average" means Moody's Corporate Bond Yield Average -- Monthly Average Corporates published by Moody's Investors Service, Inc., or any successor thereto; or in the event that Moody's Corporate Bond Yield Average -- Monthly Average Corporates is no longer published, a substantially similar average, established by regulation issued by the Commissioner.</text>
+          <text>The term "published monthly average" means Moody's Corporate Bond Yield Average - Monthly Average Corporates published by Moody's Investors Service, Inc., or any successor thereto; or in the event that Moody's Corporate Bond Yield Average - Monthly Average Corporates is no longer published, a substantially similar average, established by regulation issued by the Commissioner.</text>
         </level>
         <level>
           <num>(ii)</num>
@@ -235,26 +234,40 @@
     <num>(b)</num>
     <text>Any of the foregoing provisions or portions thereof not applicable to single premium or nonparticipating or term policies shall, to that extent, not be incorporated therein; and any such policy may be issued or delivered in the District which in the opinion of the Commissioner contains provisions on any 1 or more of the several foregoing requirements more favorable to the policyholder than hereinbefore required. The provisions of this section shall not apply to policies of reinsurance, or to policies issued or granted in exchange for lapsed or surrendered policies, or to group insurance.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(June 19, 1934, 48 Stat. 1158, ch. 672, ch. V, § 3; Feb. 19, 1948, 62 Stat. 30, ch. 66, § 2; Oct. 13, 1978, D.C. Law 2-120, § 4, 25 DCR 1519, Mar. 14, 1985, D.C. Law 5-160, § 3(e), 32 DCR 39; Feb. 24, 1987, D.C. Law 6-192, § 25(a)-(d), 33 DCR 7836; May 21, 1997, D.C. Law 11-268, § 10(j), 44 DCR 1730.)</text>
+      <heading>History</heading>
+      <text>(June 19, 1934, 48 Stat. 1158, ch. 672, ch. V, § 3; Feb. 19, 1948, 62 Stat. 30, ch. 66, § 2; Oct. 13, 1978, D.C. Law 2-120, § 4, 25 DCR 1519, Mar. 14, 1985, D.C. Law 5-160, § 3(e), 32 DCR 39; Feb. 24, 1987, D.C. Law 6-192,§ 25(a)-(d), 33 DCR 7836; May 21, 1997, D.C. Law 11-268, § 10(j), 44 DCR 1730.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-503.</text>
-        <text>1973 Ed., § 35-703.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-120, see Historical and Statutory Notes following § 31-4701.</text>
-        <text>For legislative history of D.C. Law 5-160, see Historical and Statutory Notes following § 31-4725.</text>
-        <text>Law 6-192, the "Technical Amendments Act of 1986," was introduced in Council and assigned Bill No. 6-544, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 5, 1986, and November 18, 1986, respectively. Signed by the Mayor on December 10, 1986, it was assigned Act No. 6-246 and transmitted to both Houses of Congress for its review.</text>
-        <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-4701.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>False statements in application, effect, see § 31-4314.</text>
+      <text>Special provisions governing industrial policies, see § 31-4801 et seq.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-4705.01 and § 31-4705.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-503.</text>
+      <text>1973 Ed., § 35-703.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-120</heading>
+      <text>For legislative history of D.C. Law 2-120, see Historical and Statutory Notes following § 31-4701.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-160</heading>
+      <text>For legislative history of D.C. Law 5-160, see Historical and Statutory Notes following § 31-4725.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-192</heading>
+      <text>Law 6-192, the "Technical Amendments Act of 1986," was introduced in Council and assigned Bill No. 6-544, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 5, 1986, and November 18, 1986, respectively. Signed by the Mayor on December 10, 1986, it was assigned Act No. 6-246 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-4701.</text>
     </level>
   </level>
 </level>

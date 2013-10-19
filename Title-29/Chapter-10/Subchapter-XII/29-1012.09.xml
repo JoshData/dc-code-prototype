@@ -26,48 +26,54 @@
     <text>If a dissolved limited cooperative association publishes a notice in accordance with subsection (b) of this section, the claim of each of the following claimants shall be barred unless the claimant commences an action to enforce the claim not later than 3 years after the first publication date of the notice:</text>
     <level>
       <num>(1)</num>
-      <text>A claimant that is entitled to, but did not receive, notice in a record under § 29-1012.08; and</text>
+      <text>A claimant that did not receive, notice in a record under § 29-1012.08;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>A claimant whose claim is contingent or based on an event occurring after the effective date of dissolution.</text>
+      <text>A claimant whose claim is contingent or based on an event occurring after the effective date of dissolution; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>A claimant whose claim was timely sent to the company but not acted on.</text>
     </level>
   </level>
   <level>
     <num>(d)</num>
-    <text>A claim not barred under this section may be enforced:</text>
+    <text>A claim not barred under this section or § 29-1012.08 may be enforced:</text>
     <level>
       <num>(1)</num>
       <text>Against a dissolved limited cooperative association, to the extent of its undistributed assets; or</text>
     </level>
     <level>
       <num>(2)</num>
-      <level>
-        <num>(A)</num>
-        <text>If the association's assets have been distributed in connection with winding up the association's activities against a member or holder of financial rights to the extent of that person's proportionate share of the claim or the association's assets distributed to the person in connection with the winding up, whichever is less.</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The person's total liability for all claims under this paragraph shall not exceed the total amount of assets distributed to the person as part of the winding up of the association.</text>
-      </level>
+      <text>If, except as otherwise provided in § 29-1012.10, the assets of the association have been distributed after dissolution against a member or holder of financial rights to the extent of that person's proportionate share of the claim or the assets distributed to the person after dissolution, whichever is less; however, a person's total liability for all claims under this paragraph may not exceed the total amount of assets distributed to the person after dissolution.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(8)(D), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 1209 of the Uniform Limited Cooperative Association Act . See Vol. 6A , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-1012.10.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 rewrote (c) and (d).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-1001.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 1209 of the Uniform Limited Cooperative Association Act.</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Technology Services Support.</heading>
+  <heading>Technology Services Support</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-1431.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-1432.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-1433.xml"/>

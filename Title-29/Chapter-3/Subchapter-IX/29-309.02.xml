@@ -18,7 +18,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>If the business and affairs of the eligible entity are managed by a group of persons that is not identical to the members or interest holders, that group shall be deemed to be the board of directors.</text>
+      <text>If the activities and affairs of the eligible entity are managed by a group of persons that is not identical to the members or interest holders, that group shall be deemed to be the board of directors.</text>
     </level>
   </level>
   <level>
@@ -58,7 +58,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The articles of incorporation of any corporation that will survive or be created as a result of the merger, except for changes permitted by § 29- 308.05; or</text>
+      <text>The articles of incorporation of any corporation that will survive or be created as a result of the merger, except for changes permitted by § 29-308.05; or</text>
     </level>
     <level>
       <num>(3)</num>
@@ -69,18 +69,30 @@
     <num>(g)</num>
     <text>A merger in which a business corporation and another form of entity are parties shall be governed by Chapter 2 of this title.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(c)(23), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-309.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "activities" for "business" in (c)(2).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-301.03.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

@@ -24,7 +24,7 @@
       <text>The articles of domestication shall contain:</text>
       <level>
         <num>(A)</num>
-        <text>All of the provisions that § 29-302.02(a) requires to be set forth in articles of incorporation and any other desired provisions that § 29- 302.02(b) permits to be included in articles of incorporation; or</text>
+        <text>All of the provisions that § 29-302.02(a) requires to be set forth in articles of incorporation and any other desired provisions that § 29-302.02(b) permits to be included in articles of incorporation; or</text>
       </level>
       <level>
         <num>(B)</num>
@@ -44,18 +44,14 @@
     <num>(d)</num>
     <text>If the foreign corporation is authorized to do business in the District under subchapter V of Chapter 1 of this title, its certificate of registration shall be canceled automatically on the effective date of its domestication.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

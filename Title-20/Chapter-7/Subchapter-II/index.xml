@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Inventory and Appraisal.</heading>
+  <heading>Inventory and Appraisal</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-711.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-712.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-713.xml"/>

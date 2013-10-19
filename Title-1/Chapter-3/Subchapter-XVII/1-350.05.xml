@@ -17,18 +17,14 @@
     <num>(d)</num>
     <text>Upon transferring a delinquent debt to the Central Collection Unit, a transferring agency's authority to file a lien for that debt shall terminate.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 20, 2012, D.C. Law 19-168, § 1046, 59 DCR 8025.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-168, see notes under § 1-350.01.</text>
-      </level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>See note to § 1-350.01.</text>
     </level>
   </level>
 </level>

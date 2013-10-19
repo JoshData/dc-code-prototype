@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>XXI</num>
-  <heading>Health Benefits.</heading>
-  <level>
-    <text>DC CODE D. I, T. 1, Ch. 6, Subch. XXI, Refs &amp; Annos</text>
-  </level>
+  <heading>Health Benefits</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-621.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-621.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-621.03.xml"/>

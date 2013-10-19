@@ -1,34 +1,31 @@
 <level type="section">
   <num>5-1307</num>
-  <heading>Protection of emergency 2-way radio communications--Unlawful acts.</heading>
-  <formerly-cited-as>DC ST 1981 § 4-1107</formerly-cited-as>
+  <heading>Protection of emergency 2-way radio communications - Unlawful acts.</heading>
   <text>It shall be unlawful for any person to do the following:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Knowingly, intentionally, recklessly, or with culpable negligence interrupt, disrupt, impede, or otherwise interfere with the transmission of a 2-way radio communication, the purpose of which is to inform or to inquire about an emergency; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Knowingly, intentionally, recklessly, or with culpable negligence transmit false information about an emergency on any 2-way radio frequency.</text>
-    </level>
+    <num>(1)</num>
+    <text>Knowingly, intentionally, recklessly, or with culpable negligence interrupt, disrupt, impede, or otherwise interfere with the transmission of a 2-way radio communication, the purpose of which is to inform or to inquire about an emergency; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Knowingly, intentionally, recklessly, or with culpable negligence transmit false information about an emergency on any 2-way radio frequency.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 11, 1986, D.C. Law 6-105, § 3, 33 DCR 1162.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 4-1107.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-105, see Historical and Statutory Notes following § 5-1306.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 5-1306.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 4-1107.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-105</heading>
+      <text>For legislative history of D.C. Law 6-105, see Historical and Statutory Notes following § 5-1306.</text>
     </level>
   </level>
 </level>

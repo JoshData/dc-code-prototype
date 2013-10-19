@@ -10,7 +10,7 @@
     <text>If a protest has been received by the Board during the protest period, the Board shall take the following actions:</text>
     <level>
       <num>(1)</num>
-      <text>The Board shall schedule a protest hearing to receive testimony and other evidence regarding the application in accordance with §§ 25-442 and 25- 444.</text>
+      <text>The Board shall schedule a protest hearing, to be held within 75 days of the end of the protest period, for new license applications to receive testimony and other evidence regarding the application in accordance with §§ 25-442 and 25-444.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -32,19 +32,26 @@
       <text>The Board shall issue a decision in accordance with § 25-433.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959.)</text>
+      <heading>History</heading>
+      <text>(May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959; May 1, 2013, D.C. Law 19-310, § 2(p), 60 DCR 3410.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <text>D.C. Law 13-298 amended and enacted into law Title 25 of the District of Columbia Official Code.</text>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-298, see notes following § 25-101.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-310 inserted "to be held within 75 days of the end of the protest period, for new license applications" in (b)(1).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of (b)(1), see § 2(p) of the Omnibus Alcoholic Beverage Regulation Emergency Amendment Act of 2012 (D.C. Act 19-597, January 14, 2013, 60 DCR 1001).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-298</heading>
+      <text>For D.C. Law 13-298, see notes following § 25-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-310</heading>
+      <text>See note to § 25-101.</text>
     </level>
   </level>
 </level>

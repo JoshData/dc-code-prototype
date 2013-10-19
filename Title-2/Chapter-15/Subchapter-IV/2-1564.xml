@@ -138,7 +138,7 @@
   </level>
   <level>
     <num>(l)</num>
-    <text>The Youth Council Chair shall be responsible for calling meetings to order and for facilitating these meetings. Meetings shall be conducted following parliamentary procedures as described in <text i="True">Robert's Rules of Order. </text></text>
+    <text>The Youth Council Chair shall be responsible for calling meetings to order and for facilitating these meetings. Meetings shall be conducted following parliamentary procedures as described in Robert's Rules of Order.</text>
   </level>
   <level>
     <num>(m)</num>
@@ -190,18 +190,14 @@
       <text>The Mayor and his or her designee shall provide administrative support to the Youth Council and may accept resources provided from public or private organizations for the benefit of the Youth Council.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 25, 2002, D.C. Law 14-145, § 5, 49 DCR 4063.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-145, see notes following § 2-1561.</text>
-      </level>
+      <heading>Legislative History of Law 14-145</heading>
+      <text>For Law 14-145, see notes following § 2-1561.</text>
     </level>
   </level>
 </level>

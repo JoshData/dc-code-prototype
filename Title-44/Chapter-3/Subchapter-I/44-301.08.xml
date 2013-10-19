@@ -1,7 +1,6 @@
 <level type="section">
   <num>44-301.08</num>
   <heading>Certification and general requirements for independent review organizations.</heading>
-  <formerly-cited-as>DC ST 1981 § 32-571.8</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Each independent review organization selected by the Director to review external appeals must be certified every 2 years by the Director.</text>
@@ -11,15 +10,19 @@
     <text>The Director shall be responsible for developing, applying, and enforcing certification standards for independent review organizations. These standards shall ensure that an independent review organization:</text>
     <level>
       <num>(1)</num>
-      <text>Properly maintains a policy involving the review of the appeal in strict confidence pursuant to rules established by the Director;</text>
+      <text>Properly maintains a policy involving the review of the appeal in strict confidence pursuant to rules established by the Director and performs reviews at a level of confidentiality equal to or stricter than the standards of confidentiality that are required of the treating health professionals for the treatment being reviewed;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Uses only qualified professional and medical reviewers in any review; and</text>
+      <text>Uses only qualified professional and medical reviewers in any review who do not have conflicts of interest with the patient, the treating health care professional, or the health insurer;</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>Demonstrates an ability to render decisions in an equitable and timely manner and consistent with this chapter.</text>
+      <text>Demonstrates an ability to render decisions in an equitable and timely manner and consistent with this chapter; and</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Is accredited by a nationally recognized private accrediting organization.</text>
     </level>
   </level>
   <level>
@@ -47,7 +50,7 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>The names of all directors, officers, and executives of the independent organization, as well as a statement regarding any relationships the directors, officers, and executives may have with any health care plan, disability insurer, managed care organization, provider group or board or committee.</text>
+      <text>The names of all directors, officers, and executives of the independent organization, as well as a statement regarding any relationships the directors, officers, and executives may have with any health care plan, disability insurer, managed care organization, health or mental health professional group or board or committee.</text>
     </level>
   </level>
   <level>
@@ -69,16 +72,24 @@
       </level>
       <level>
         <num>(D)</num>
-        <text>The institution at which the service or treatment would be provided;</text>
+        <text>The facility or institution at which the service or treatment would be provided;</text>
       </level>
       <level>
         <num>(E)</num>
-        <text>The development or manufacture of the principal drug, device, procedure, or other therapy proposed for the member whose treatment is under review.</text>
+        <text>The development or manufacture of the principal drug, device, procedure, or other therapy proposed for the member whose treatment is under review;</text>
+      </level>
+      <level>
+        <num>(F)</num>
+        <text>The claimant and any related parties to the claimant whose treatment is the subject of the external review; and</text>
+      </level>
+      <level>
+        <num>(G)</num>
+        <text>The plan administration, plan fiduciaries, or plan employees.</text>
       </level>
     </level>
     <level>
       <num>(2)</num>
-      <text>For the purposes of this subsection, the term "conflict of interest" shall not be interpreted to include a contract under which an academic medical center, or other similar medical research center, provides health services to the insurer's member, except as subject to the requirement of paragraph (1)(D) of this subsection, affiliations which are limited to staff privileges at a health facility; or an independent review organization's participation as a contracting insurer's provider where the independent review organization is affiliated with an academic medical center, or other similar medical research center, that is acting as an independent review organization under this section.</text>
+      <text>Repealed.</text>
     </level>
   </level>
   <level>
@@ -110,21 +121,64 @@
     <text>The terms and conditions of a contract entered into pursuant to subsection (j) of this section shall provide that the reasonable direct costs of the external review process, not including costs of representation of a member, shall be paid by the insurer.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(n)</num>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Apr. 27, 1999, D.C. Law 12-274, § 108, 46 DCR 1294.)</text>
+      <num>(1)</num>
+      <text>An independent review organization assigned pursuant to this chapter to conduct an external review shall maintain written records on all requests for which it conducted an external review during a calendar year.</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <num>(2)</num>
+      <text>Each independent review organization shall submit to the Director, upon request, a report on all requests for external reviews.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The report shall include, at minimum:</text>
       <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-571.8.</text>
+        <num>(A)</num>
+        <text>The total number of requests for external review;</text>
       </level>
       <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-274, see Historical and Statutory Notes following § 44-301.01.</text>
+        <num>(B)</num>
+        <text>The number of requests for external review resolved and, of those resolved, the number resolved upholding the adverse determination or final adverse determination and the number resolved reversing the adverse determination or final adverse determination;</text>
       </level>
+      <level>
+        <num>(C)</num>
+        <text>The average length of time for resolution;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>A summary of the types of coverages or cases for which an external review was sought, provided in the format required by the Director; and</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>The number of external reviews that were terminated as the result of a reconsideration by the health carrier of its adverse determination or final adverse determination after the receipt of additional information from the covered person or the covered person's authorized representative.</text>
+      </level>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>The independent review organization shall retain the written records required pursuant to this subsection for at least 3 years.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Apr. 27, 1999, D.C. Law 12-274, § 108, 46 DCR 1294; Mar. 19, 2013, D.C. Law 19-229, § 2(h), 59 DCR 13592.)</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-571.8.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-229 rewrote (b); substituted "health or mental health professional"; for "provider" in (e)(4); substituted "facility or institution" for "institution" in (f)(1); added (f)(1)(F) and (f)(1)(G); repealed (f)(2); added (n); and made related changes.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-274</heading>
+      <text>For legislative history of D.C. Law 12-274, see Historical and Statutory Notes following § 44-301.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-229</heading>
+      <text>See note to § 44-301.01.</text>
     </level>
   </level>
 </level>

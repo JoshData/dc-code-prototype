@@ -1,7 +1,6 @@
 <level type="section">
   <num>5-1115</num>
   <heading>Funding and compensation.</heading>
-  <formerly-cited-as>DC ST 1981 § 4-925</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There are authorized such funds as may be necessary to support the Board and the Office.</text>
@@ -14,22 +13,18 @@
     <num>(c)</num>
     <text>Any entitlement to compensation under this chapter for services rendered shall be dependent upon the availability of appropriated funds to pay such compensation.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 26, 1999, D.C. Law 12-208, § 16, 45 DCR 8107.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 4-925.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-208, see Historical and Statutory Notes following § 5-1101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 4-925.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-208</heading>
+      <text>For legislative history of D.C. Law 12-208, see Historical and Statutory Notes following § 5-1101.</text>
     </level>
   </level>
 </level>

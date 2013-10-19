@@ -1,54 +1,51 @@
 <level type="section">
   <num>38-401.01</num>
   <heading>Annual report.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-201.1</formerly-cited-as>
-  <text>The Board of Education shall submit to the Mayor of the District of Columbia and the Council of the District of Columbia, not later than January 15th of each year, a report covering all activities with respect to public school buildings and grounds that were undertaken during the preceding fiscal year pursuant to the authority granted by this section and §§ 38-401 and 38- 401.02. Such report shall include, but shall not be limited to:</text>
+  <text>The Board of Education shall submit to the Mayor of the District of Columbia and the Council of the District of Columbia, not later than January 15th of each year, a report covering all activities with respect to public school buildings and grounds that were undertaken during the preceding fiscal year pursuant to the authority granted by this section and §§ 38-401 and 38-401.02. Such report shall include, but shall not be limited to:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>All lease, use, or other agreements exceeding a period of 30 days, indicating the name of the tenant and the terms and conditions of the agreement;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>An itemization of all collections and expenditures associated with each agreement;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>A statement of the actual amount of funds transferred by the Board of Education towards the repayment of capital outlay loans and interest outstanding;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>A statement of the actual condition of major structural components of each property under an agreement, and any repairs or improvements made thereto;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>A list, including each parcel, of real property transferred by the Board of Education to the Department of General Services and the date of each transfer; and</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>A statement by the Board of Education of benefits and enhancements to the educational environment and the community resulting from the authority granted by this section and §§ 38-401 and 38-401.02, and recommendations, if any, for the improvement thereof.</text>
-    </level>
+    <num>(1)</num>
+    <text>All lease, use, or other agreements exceeding a period of 30 days, indicating the name of the tenant and the terms and conditions of the agreement;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>An itemization of all collections and expenditures associated with each agreement;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>A statement of the actual amount of funds transferred by the Board of Education towards the repayment of capital outlay loans and interest outstanding;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>A statement of the actual condition of major structural components of each property under an agreement, and any repairs or improvements made thereto;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>A list, including each parcel, of real property transferred by the Board of Education to the Department of General Services and the date of each transfer; and</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>A statement by the Board of Education of benefits and enhancements to the educational environment and the community resulting from the authority granted by this section and §§ 38-401 and 38-401.02, and recommendations, if any, for the improvement thereof.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 29, 1982, D.C. Law 4-158, § 3, 29 DCR 3632.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-201.1.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-158, see Historical and Statutory Notes following § 38-401.</text>
-      </level>
-      <level>
-        <heading>Transfer of Functions</heading>
-        <text>The functions of the Department of General Services were transferred, in part, to the Department of Public Works by Reorganization Plan No. 4 of 1983, effective March 1, 1984, and transferred, in part, to the Department of Administrative Services by Reorganization Plan No. 5 of 1983, effective March 1, 1984.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-401.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-201.1.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-158</heading>
+      <text>For legislative history of D.C. Law 4-158, see Historical and Statutory Notes following § 38-401.</text>
+    </level>
+    <level>
+      <heading>Transfer of Functions</heading>
+      <text>The functions of the Department of General Services were transferred, in part, to the Department of Public Works by Reorganization Plan No. 4 of 1983, effective March 1, 1984, and transferred, in part, to the Department of Administrative Services by Reorganization Plan No. 5 of 1983, effective March 1, 1984.</text>
     </level>
   </level>
 </level>

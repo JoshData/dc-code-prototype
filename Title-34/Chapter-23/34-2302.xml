@@ -1,7 +1,6 @@
 <level type="section">
   <num>34-2302</num>
   <heading>Amnesty program.</heading>
-  <formerly-cited-as>DC ST 1981 § 43-1652</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There is established an amnesty program for any person liable for delinquent water and sanitary sewer services. The amnesty program shall permit the person to pay the full amount of outstanding charges for water and sanitary sewer services, without the imposition of any interest or fine otherwise provided by law.</text>
@@ -26,22 +25,18 @@
     <num>(f)</num>
     <text>Revenue received from the amnesty program shall be credited to the General Fund of the District of Columbia as established by § 47-131.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 18, 1954, ch. 218, title XVIII, § 1802, as added June 13, 1990, D.C. Law 8-136, § 2(g), 37 DCR 2620.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 43-1652.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-136, see Historical and Statutory Notes following § 34-2301.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 43-1652.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-136</heading>
+      <text>For legislative history of D.C. Law 8-136, see Historical and Statutory Notes following § 34-2301.</text>
     </level>
   </level>
 </level>

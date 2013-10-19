@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-909.01</num>
   <heading>Personal financial disclosure by the Retirement Board.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-785.1</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -25,7 +24,7 @@
       </level>
       <level>
         <num>(D)</num>
-        <text>The identity and category of value of any transaction, whether direct or indirect, in securities or commodities futures during the year in excess of $1,000 (excluding any gift to any tax-exempt organization described in 501(c)(3) of the Internal Revenue Code of 1954, approved August 16, 1954 (68A Stat. 163; 26 U.S.C. § 501(c)(3)), and the identity, date, and category of value of any purchase or sale, whether direct or indirect, of any interest in real or tangible personal property during the year the value of which exceeds $1,000 at the time of the purchase or sale (excluding any purchase or sale of any property that is the principal residence of the member or that is used as furnishings for the principal residence);</text>
+        <text>The identity and category of value of any transaction, whether direct or indirect, in securities or commodities futures during the year in excess of $1,000 (excluding any gift to any tax-exempt organization described in § 501(c)(3) of the Internal Revenue Code of 1954, approved August 16, 1954 (68A Stat. 163; 26 U.S.C. § 501(c)(3)), and the identity, date, and category of value of any purchase or sale, whether direct or indirect, of any interest in real or tangible personal property during the year the value of which exceeds $1,000 at the time of the purchase or sale (excluding any purchase or sale of any property that is the principal residence of the member or that is used as furnishings for the principal residence);</text>
       </level>
       <level>
         <num>(E)</num>
@@ -65,26 +64,22 @@
     <num>(c)</num>
     <text>Consistent with § 1-909.05, the information required by this section shall be public information.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 18, 1998, D.C. Law 12-152, § 141, 45 DCR 4045.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-785.1.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-152, see Historical and Statutory Notes following § 1-901.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Application of Law 12-152: See Historical and Statutory Notes following § 1- 901.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-785.1.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-152</heading>
+      <text>For legislative history of D.C. Law 12-152, see Historical and Statutory Notes following § 1-901.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 12-152: See Historical and Statutory Notes following § 1-901.01.</text>
     </level>
   </level>
 </level>

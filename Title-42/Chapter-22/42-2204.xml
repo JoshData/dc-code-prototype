@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-2204</num>
   <heading>Eligibility for loans.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-3004</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>An applicant is eligible for a loan if he or she is a senior citizen homeowner, is a resident of the District, and has resided in his or her principal place of residence for at least 3 years preceding the date of the application for assistance under this chapter. Lower income applicants shall be given priority consideration by the Mayor with respect to the issuance of loans.</text>
@@ -18,22 +17,18 @@
     <num>(d)</num>
     <text>The Mayor shall verify the contents of the application form and determine whether the applicant meets the requirements for age, residency, and principal place of residence.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 24, 1988, D.C. Law 7-96, § 5, 35 DCR 891.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-3004.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-96, see Historical and Statutory Notes following § 42-2201.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-3004.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-96</heading>
+      <text>For legislative history of D.C. Law 7-96, see Historical and Statutory Notes following § 42-2201.</text>
     </level>
   </level>
 </level>

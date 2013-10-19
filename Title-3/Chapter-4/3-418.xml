@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-418</num>
   <heading>Prosecutions.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-2818</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Prosecution for violation of any provision of this chapter shall be conducted in the name of the District of Columbia in the Superior Court of the District of Columbia by the Corporation Counsel or his or her assistant.</text>
@@ -10,22 +9,18 @@
     <num>(b)</num>
     <text>In order to constitute a violation under this chapter, it shall be necessary to prove in any prosecution or hearing only a single act prohibited by law without proving a general course of conduct.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 22, 1984, D.C. Law 5-84, § 19, 31 DCR 1815.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-2818.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-84, see Historical and Statutory Notes following § 3-401.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-2818.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-84</heading>
+      <text>For legislative history of D.C. Law 5-84, see Historical and Statutory Notes following § 3-401.</text>
     </level>
   </level>
 </level>

@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>Private and public space, including buildings, sidewalks, streets, and lawns, within a project subject to this subtitle that discharge directly to the waters of the District, or to either a separate or combined sewer system, shall be designed, constructed, and maintained to comply with the following:</text>
+    <text>Private and public space, including buildings, sidewalks, streets, and lawns, within a project subject to this part that discharge directly to the waters of the District, or to either a separate or combined sewer system, shall be designed, constructed, and maintained to comply with the following:</text>
     <level>
       <num>(1)</num>
       <text>Manage stormwater by:</text>
@@ -116,43 +116,26 @@
     <num>(e)</num>
     <text>Under circumstances described in subsection (c) of this section, transportation projects, or substantially similar projects undertaken by a public utility, in the existing public right-of-way shall be exempt from the requirement for off-site mitigation or payment in lieu of mitigation.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 26, 2008, D.C. Law 17-138, § 456, 55 DCR 1689; Oct. 23, 2012, D.C. Law 19-192, § 2(e), 59 DCR 10174.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-192 rewrote the section, which formerly read:</text>
-        <text>"(a) Private and public space, including buildings, sidewalks, streets, and lawns, within a project subject to this part shall, whether or not the project discharges to separate or combined sewer systems, be designed, constructed, and maintained to comply with the following stormwater control standards:</text>
-        <text>"(1) Reduce stormwater quantity by retaining and beneficially reusing on-site the stormwater generated on-site by a '1 inch in 24 hours' storm following 48 hours of dry conditions; provided, that if the DDOE determines that site conditions, including, soil or groundwater contamination, local geology, or impacts on surrounding landowners, limit the feasibility or appropriateness of on-site stormwater management, off-site mitigation or payment in lieu of mitigation may be used; provided further, that the volume treated equals 1.5 times the volume that would have been required to be treated on-site or 2 times its financial equivalent (where payment is made in lieu of mitigation);</text>
-        <text>"(2) Improve stormwater quality by filtering all stormwater flowing from the project, up to the volume of a 2-year design storm, by passing the flow through a vegetated filtering medium or other on-site controls designed to remove sediment and pollutants of concern as identified in permits by the DDOE or the District of Columbia Water and Sewer Authority ('WASA'), so that the discharges will not cause or contribute to the exceedance of any water-quality standard applicable to the receiving water or cause interference or pass-through of pollutants at the Blue Plains receiving facility;</text>
-        <text>"(3) Achieve the required level of stormwater control using the following methods, identified in order of preference:</text>
-        <text>"(A) Vegetated controls designed to retain and beneficially use stormwater;</text>
-        <text>"(B) Where compatible with groundwater protection, non-vegetated controls designed to promote infiltration;</text>
-        <text>"(C) Other low-impact development practices;</text>
-        <text>"(D) Collection and reuse of stormwater for on-site irrigation; and</text>
-        <text>"(E) Other on-site design techniques as approved by the DDOE;</text>
-        <text>"(4) Employ, where feasible, low-impact development technologies for public spaces regulated by District Department of Transportation ('DDOT');</text>
-        <text>"(5) Restrict the on-site use of:</text>
-        <text>"(A) Fertilizers, pesticides, and herbicides through use of an integrated pest management plan reviewed by the DDOE; and</text>
-        <text>"(B) Coal tar sealants for paved surfaces;</text>
-        <text>"(6) Design stormwater controls to prevent migration of stormwater into contaminated underlying soils or groundwater;</text>
-        <text>"(7) Certify that remediation of contaminated soils or groundwater is either completed as part of the development or that properly functioning long-term remedial measures are in place;</text>
-        <text>"(8) Treat any groundwater produced at a project during construction or after completion of construction to remove sediment and pollutants of concern as required by the DDOE or United States Environmental Protection Agency, depending on which agency has jurisdiction; and</text>
-        <text>"(9) Require that any groundwater discharged from the site into the sanitary sewer system conform to WASA requirements designed to ensure that it will not cause or contribute to the exceedance of any water quality standard applicable to the receiving water or cause interference or pass through of pollutants at the Blue Plains receiving facility.</text>
-        <text>"(b) The DDOE may:</text>
-        <text>"(1) Monitor and inspect projects that are subject to the standards imposed by this part for compliance with these standards; and</text>
-        <text>"(2) Require appropriate monitoring, sampling, analysis, record-keeping and annual certification of ongoing compliance with the standards imposed by this part."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-138, see notes following § 2-1226.31.</text>
-        <text>For history of Law 19-192, see notes under § 2-1226.04.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1226.33 and § 2-1226.40b.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-192 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-138</heading>
+      <text>For Law 17-138, see notes following § 2-1226.31.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-192</heading>
+      <text>See note to § 2-1226.04.</text>
     </level>
   </level>
 </level>

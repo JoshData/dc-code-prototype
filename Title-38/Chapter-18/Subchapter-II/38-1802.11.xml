@@ -1,20 +1,20 @@
 <level type="section">
   <num>38-1802.11</num>
   <heading>Powers and duties of eligible chartering authorities.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-2853.21</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Oversight.</text> --</text>
+    <heading>Oversight</heading>
     <level>
       <num>(1)</num>
-      <text><text i="True">In general.</text> -- An eligible chartering authority:</text>
+      <heading>In general</heading>
+      <text>An eligible chartering authority:</text>
       <level>
         <num>(A)</num>
         <text>Shall monitor the operations of each public charter school to which the eligible chartering authority has granted a charter;</text>
       </level>
       <level>
         <num>(B)</num>
-        <text>Shall ensure that each such school complies with applicable laws and the provisions of the charter granted to such school; and</text>
+        <text>Shall ensure that each such school complies with applicable laws and the provisions of the charter granted to such school;</text>
       </level>
       <level>
         <num>(C)</num>
@@ -27,27 +27,31 @@
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Production of books and records.</text> -- An eligible chartering authority may require a public charter school to which the eligible chartering authority has granted a charter to produce any book, record, paper, or document, if the eligible chartering authority determines that such production is necessary for the eligible chartering authority to carry out its functions under this subchapter.</text>
+      <heading>Production of books and records</heading>
+      <text>An eligible chartering authority may require a public charter school to which the eligible chartering authority has granted a charter to produce any book, record, paper, or document, if the eligible chartering authority determines that such production is necessary for the eligible chartering authority to carry out its functions under this subchapter.</text>
     </level>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Fees.</text> --</text>
+    <heading>Fees</heading>
     <level>
       <num>(1)</num>
-      <text><text i="True">Application fee.</text> -- An eligible chartering authority may charge an eligible applicant a fee, not to exceed $150, for processing a petition to establish a public charter school.</text>
+      <heading>Application fee</heading>
+      <text>An eligible chartering authority may charge an eligible applicant a fee, not to exceed $150, for processing a petition to establish a public charter school.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Administration fee.</text> -- In the case of an eligible chartering authority that has granted a charter to a public charter school, the eligible chartering authority may charge the school a fee, not to exceed one-half of one percent of the annual budget of the school, to cover the cost of undertaking the ongoing administrative responsibilities of the eligible chartering authority with respect to the school that are described in this subchapter. The school shall pay the fee to the eligible chartering authority not later than November 15 of each year.</text>
+      <heading>Administration fee</heading>
+      <text>In the case of an eligible chartering authority that has granted a charter to a public charter school, the eligible chartering authority may charge the school a fee, not to exceed one-half of one percent of the annual budget of the school, to cover the cost of undertaking the ongoing administrative responsibilities of the eligible chartering authority with respect to the school that are described in this subchapter. The school shall pay the fee to the eligible chartering authority not later than November 15 of each year.</text>
     </level>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Immunity from civil liability.</text> --</text>
+    <heading>Immunity from civil liability</heading>
     <level>
       <num>(1)</num>
-      <text><text i="True">In general.</text> -- An eligible chartering authority, the Board of Trustees of such an eligible chartering authority, and a director, officer, employee, or volunteer of such an eligible chartering authority, shall be immune from civil liability, both personally and professionally, for any act or omission within the scope of their official duties unless the act or omission:</text>
+      <heading>In general</heading>
+      <text>An eligible chartering authority, the Board of Trustees of such an eligible chartering authority, and a director, officer, employee, or volunteer of such an eligible chartering authority, shall be immune from civil liability, both personally and professionally, for any act or omission within the scope of their official duties unless the act or omission:</text>
       <level>
         <num>(A)</num>
         <text>Constitutes gross negligence;</text>
@@ -63,12 +67,14 @@
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Common law immunity preserved.</text> -- Paragraph (1) of this subsection shall not be construed to abrogate any immunity under common law of a person described in such paragraph.</text>
+      <heading>Common law immunity preserved</heading>
+      <text>Paragraph (1) of this subsection shall not be construed to abrogate any immunity under common law of a person described in such paragraph.</text>
     </level>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Annual report.</text> -- On or before July 30 of each year, each eligible chartering authority that issues a charter under this subchapter shall submit a report to the Mayor, the District of Columbia Council, the Board of Education, the Secretary of Education, the appropriate congressional committees, and the Consensus Commission that includes the following information:</text>
+    <heading>Annual report</heading>
+    <text>On or before July 30 of each year, each eligible chartering authority that issues a charter under this subchapter shall submit a report to the Mayor, the District of Columbia Council, the Board of Education, the Secretary of Education, the appropriate congressional committees, and the Consensus Commission that includes the following information:</text>
     <level>
       <num>(1)</num>
       <text>A list of the members of the eligible chartering authority and the addresses of such members;</text>
@@ -142,22 +148,22 @@
       <text>What recommendations an authorizing board has made to correct identified deficiencies.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 26, 1996, 110 Stat. 1321 [247], Pub. L. 104-134, § 2211; Oct. 18, 2004, 118 Stat. 1349, Pub. L. 108-335, § 343.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-2853.21.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>Pub. L. 108-335, in subsec. (a), added subpar. (1)(D); and in subsec. (d), added pars. (10) through (15).</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-1802.01 and § 38-1835.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-2853.21.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>Pub. L. 108-335, in subsec. (a), added subpar. (1)(D); and in subsec. (d), added pars. (10) through (15).</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>VIII</num>
-  <heading>Winding Up Partnership Business.</heading>
+  <heading>Dissolution and Winding Up</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-608.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-608.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-608.03.xml"/>
@@ -9,4 +9,9 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-608.05.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-608.06.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-608.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-608.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-608.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-608.10.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-608.11.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-608.12.xml"/>
 </level>

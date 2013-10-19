@@ -28,42 +28,35 @@
       <num>(2)</num>
       <text>Submitted a complete stormwater management plan to DDOE.</text>
     </level>
-    <level>
-      <num>(c)</num>
-      <text>Repealed.</text>
-    </level>
-    <level>
-      <num>(d)</num>
-      <text>Repealed.</text>
-    </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(c)</num>
+    <text>Repealed.</text>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>Repealed.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 26, 2008, D.C. Law 17-138, § 453, 55 DCR 1689; Oct. 23, 2012, D.C. Law 19-192, § 2(c), 59 DCR 10174.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-192 rewrote the section, which formerly read:</text>
-        <text>"(a) This part shall apply as follows:</text>
-        <text>"(1) To development projects located within the Anacostia Waterfront Development Zone as defined in § 2-1226.04; and</text>
-        <text>"(2) To publicly-owned or publicly-financed non-residential and residential new construction or substantial improvement projects, which are:</text>
-        <text>"(A) Initially funded in the Fiscal Year 2008 budget or later; or</text>
-        <text>"(B) Constructed or substantially improved:</text>
-        <text>"(i) As a result of a property disposition by lease or sale where District-owned or District instrumentality-owned property is leased or sold to private entities; or</text>
-        <text>"(ii) Where 15% or more of a project's total project cost is publicly financed in Fiscal Year 2009 or later.</text>
-        <text>"(b) The requirements set forth in §§ 2-1226.34, 2-1226.35, 2-1226.37, and 2- 1226.38 shall apply to publicly-owned or publicly-financed projects beginning on March 26, 2008.</text>
-        <text>"(c) The requirements set forth in § 2-1226.36 shall apply to publicly-owned or publicly-financed projects beginning on the effective date of rules issued by the Mayor to implement § 2-1226.36.</text>
-        <text>"(d) The requirements set forth in §§ 2-1226.34, 2-1226.35, and 2-1226.37 shall apply to private projects beginning with projects for which the first building construction permit application is submitted to the Mayor after January 1, 2012."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-138, see notes following § 2-1226.31.</text>
-        <text>For history of Law 19-192, see notes under § 2-1226.04.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1226.36.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-192 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-138</heading>
+      <text>For Law 17-138, see notes following § 2-1226.31.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-192</heading>
+      <text>See note to § 2-1226.04.</text>
     </level>
   </level>
 </level>

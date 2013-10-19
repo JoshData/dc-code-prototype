@@ -12,7 +12,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>Any funds in the Graffiti Trust Fund, established by § 22-3312.03a(g), on the day before September 18, 2010; and</text>
+        <text>Any funds in the Graffiti Trust Fund, established by § 22-3312.03a(g), [repealed] on the day before September 18, 2010; and</text>
       </level>
       <level>
         <num>(C)</num>
@@ -36,18 +36,18 @@
     <num>(d)</num>
     <text>The Mayor shall submit to the Council an annual statement of the Fund's receipts and disbursements for the preceding year.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 18, 2010, D.C. Law 18-219, § 9, 57 DCR 4353.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-219, see notes following § 42-3141.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3141.11.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-219</heading>
+      <text>For Law 18-219, see notes following § 42-3141.01.</text>
     </level>
   </level>
 </level>

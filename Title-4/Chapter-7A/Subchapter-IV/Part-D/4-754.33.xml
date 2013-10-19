@@ -1,6 +1,6 @@
 <level type="section">
   <num>4-754.33</num>
-  <heading>Notice of program rules.</heading>
+  <heading>Notice of Program Rules.</heading>
   <level>
     <num>(a)</num>
     <level>
@@ -29,7 +29,7 @@
     <text>All providers shall give written and oral notice to clients of their transfer to another provider or of their suspension or termination from services at least 15 days prior to the effective date of the transfer, suspension, or termination, except:</text>
     <level>
       <num>(1)</num>
-      <text>When the sanction results from the client's imminent threat to the health or safety of someone on the premises of the provider in accordance with § 4- 754.38; or</text>
+      <text>When the sanction results from the client's imminent threat to the health or safety of someone on the premises of the provider in accordance with § 4-754.38; or</text>
     </level>
     <level>
       <num>(2)</num>
@@ -64,18 +64,18 @@
     <num>(e)</num>
     <text>Providers shall establish procedures to provide effective notice of rights, rules, sanctions, and denials to clients with special needs, including those who may be mentally impaired or mentally ill, or who may have difficulty reading or have limited English proficiency.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2005, D.C. Law 16-35, § 19, 52 DCR 8113.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-35, see notes following § 4-751.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-754.11, § 4-754.21, § 4-754.34, § 4-754.35, § 4-754.38, and § 4-754.42.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-35</heading>
+      <text>For Law 16-35, see notes following § 4-751.01.</text>
     </level>
   </level>
 </level>

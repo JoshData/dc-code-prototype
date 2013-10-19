@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>VII</num>
-  <heading>Automated Data Processing.</heading>
+  <heading>Automated Data Processing</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-213.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-213.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-213.03~P.xml"/>

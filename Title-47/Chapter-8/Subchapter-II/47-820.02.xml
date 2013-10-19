@@ -30,32 +30,28 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>The Mayor shall promulgate rules for the administration of this section within one year of October 20, 2005.</text>
+    <text>The Mayor shall promulgate rules for the administration of this section within one year of [October 20, 2005].</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 20, 2005, D.C. Law 16-33, § 1281(a)(3), 52 DCR 7503.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) additions, see §§ 1281(a)(3), 1282, 1283 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-33, see notes following § 47-308.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Applicability and expiration of subtitle HH of title I, §§ 1280 to 1284, of D.C. Law 16-33: Sections 1282 and 1283 of D.C. Law 16-33, as amended by D.C. Law 17-219, § 7068(f), (g), provide:</text>
-        <text>"Sec. 1282. Applicability; conditional effect.</text>
-        <text>"(a) Section 1281 shall apply for taxable years beginning after September 30, 2005.</text>
-        <text>"(b) Repealed.</text>
-        <text>"Sec. 1283. Repealed."</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) additions, see §§ 1281(a)(3), 1282, 1283 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-33</heading>
+      <text>For Law 16-33, see notes following § 47-308.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability and expiration of subtitle HH of title I, §§ 1280 to 1284, of D.C. Law 16-33: Sections 1282 and 1283 of D.C. Law 16-33, as amended by D.C. Law 17-219, § 7068(f), (g), provided:</text>
+      <text>"Sec. 1282. Applicability; conditional effect.</text>
+      <text>"(a) Section 1281 shall apply for taxable years beginning after September 30, 2005.</text>
+      <text>"(b) Repealed.</text>
+      <text>"Sec. 1283. Repealed."</text>
     </level>
   </level>
 </level>

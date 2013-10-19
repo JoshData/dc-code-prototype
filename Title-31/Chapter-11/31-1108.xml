@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1108</num>
   <heading>Form and contents of agreements.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1558</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A premium finance agreement shall:</text>
@@ -46,19 +45,15 @@
     <num>(b)</num>
     <text>The items set out in subsection (a)(3) of this section need not be stated in the sequence or order in which they appear in such paragraph, and additional items may be included to explain the computations made in determining the amount to be paid by the insured.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 9, 1940, ch. 792, ch. III, § 58; Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1558.</text>
-        <text>1973 Ed., § 35-1368.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1558.</text>
+      <text>1973 Ed., § 35-1368.</text>
     </level>
   </level>
 </level>

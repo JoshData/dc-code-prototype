@@ -1,88 +1,133 @@
 <level type="section">
   <num>29-601.02</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 41-151.1</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 33-101.01</formerly-cited-as>
   <text>For the purposes of this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Business" includes every trade, occupation, and profession.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Contribution", except in the phrase "right of contribution", means property or a benefit described in § 29-604.03 provided by a person to a partnership to become a partner or in the person's capacity as a partner.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Distribution" means a transfer of money or other property from a partnership to person on account of a transferable interest or in a person's capacity as a partner.</text>
     <level>
-      <num>(1)</num>
-      <text>"Business" includes every trade, occupation, and profession.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Distribution" means a transfer of money or other property from a partnership to a partner in the partner's capacity as a partner or to the partner's transferee.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Domestic partnership" means a partnership whose internal relations are governed by the laws of the District.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Foreign limited liability partnership" means a partnership that:</text>
+      <num>(A)</num>
+      <text>The term includes:</text>
       <level>
-        <num>(A)</num>
-        <text>Is formed under laws other than the laws of the District; and</text>
+        <num>(i)</num>
+        <text>A redemption or other purchase by a partnership of a transferable interest; and</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>Has the status of a limited liability partnership under those laws.</text>
+        <num>(ii)</num>
+        <text>A transfer to a partner in return for the partner's relinquishment of any right to participate as a partner in the management or conduct of the partnership's business or have access to records or other information concerning the partnership's business; and</text>
       </level>
     </level>
     <level>
-      <num>(5)</num>
-      <text>"Foreign partnership" means a partnership other than a domestic partnership.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Limited liability partnership" or "domestic limited liability partnership" means a partnership that has filed a statement of qualification under § 29- 610.01 and does not have a similar statement in effect in any other jurisdiction.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"Partnership" means an association of 2 or more persons to carry on as co-owners a business for profit formed under § 29-602. 02, predecessor law, or comparable law of another jurisdiction.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Partnership agreement" means the agreement, whether written, oral, or implied, among the partners concerning the partnership, including amendments to the partnership agreement.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Partnership at will" means a partnership in which the partners have not agreed to remain partners until the expiration of a definite term or the completion of a particular undertaking.</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Partnership interest" or "partner's interest in the partnership" means all of a partner's interests in the partnership, including the partner's transferable interest and all management and other rights.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>"Statement" means a statement of partnership authority under § 29- 603.03, a statement of denial under § 29-603.04, a statement of dissociation under § 29-607.04, a statement of dissolution under § 29-608.05, a statement of merger under § 29-609.04, a statement of qualification under § 29-610.01, a foreign registration statement under § 29-105.03, or an amendment or cancellation of any of the foregoing.</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>"Surviving partnership" means a domestic or foreign partnership into which one or more domestic or foreign partnerships are merged. A surviving partnership may preexist the merger or be created by the merger.</text>
+      <num>(B)</num>
+      <text>The term does not include amounts constituting reasonable compensation for present or past service or payments made in the ordinary course of business under a bona fide retirement plan or other bona fide benefits program.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(4)</num>
+    <text>"Domestic partnership" means a partnership whose internal relations are governed by the laws of the District.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Foreign limited liability partnership" means a foreign partnership whose partners have limited liability for the debts, obligations, or other liabilities of the foreign partnership under a provision similar to § 29-603.06(c).</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <num>(A)</num>
+      <text>Is formed under laws other than the laws of the District; and</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 33-101.01.</text>
-        <text>1981 Ed., § 41-151.1.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 101 of the Uniform Partnership Act (1997 Act). See Vol. 6, Part I , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <num>(B)</num>
+      <text>Has the status of a limited liability partnership under those laws.</text>
+    </level>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Foreign partnership" means an unincorporated entity formed under the law of a jurisdiction other than the District which would be a partnership if formed under the law of the District.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Limited liability partnership" or "domestic limited liability partnership" means a partnership that has filed a statement of qualification under § 29-610.01 and does not have a similar statement in effect in any other jurisdiction.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Partner" means a person that:</text>
+    <level>
+      <num>(A)</num>
+      <text>Has become a partner in a partnership under § 29-604.02 or was a partner in a partnership when the partnership became subject to this chapter under § 29-611.01; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Has not dissociated as a partner under § 29-606.01.</text>
+    </level>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Partnership" means an association of 2 or more persons to carry on as co-owners a business for profit formed under § 29-602.02, predecessor law, or comparable law of another jurisdiction.</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"Partnership agreement" means the agreement, whether written, oral, or implied, among the partners concerning the partnership, including amendments to the partnership agreement.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>"Partnership at will" means a partnership in which the partners have not agreed to remain partners until the expiration of a definite term or the completion of a particular undertaking.</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>"Partnership interest" or "partner's interest in the partnership" means all of a partner's interests in the partnership, including the partner's transferable interest and all management and other rights.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>"Registered foreign limited liability partnership" means a foreign limited liability partnership that is registered to do business in this state pursuant to a statement of registration filed by the Mayor.</text>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>"Surviving partnership" means a domestic or foreign partnership into which one or more domestic or foreign partnerships are merged. A surviving partnership may preexist the merger or be created by the merger.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>"Transferable interest" means the right, as initially owned by a person in the person's capacity as a partner, to receive distributions from a partnership in accordance with the partnership agreement, whether or not the person remains a partner or continues to own any part of the right. The term applies to any fraction of the interest, by whomever owned.</text>
+  </level>
+  <level>
+    <num>(16)</num>
+    <text>"Transferee" means a person to which all or part of a transferable interest has been transferred, whether or not the transferor is a partner.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(f)(2)(A), 59 DCR 13171.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-610.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 33-101.01.</text>
+      <text>1981 Ed., § 41-151.1.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>Law 19-210, the "'District of Columbia Official Code Title 29 Technical and Harmonizing Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-532. The Bill was adopted on first and second readings on July 10, 2012, and Oct. 2, 2012, respectively. Signed by the Mayor on Oct. 31, 2012, it was assigned Act No. 19-512 and transmitted to Congress for its review. D.C. Law 19-210 became effective on Mar. 5, 2013.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 101 of the Uniform Partnership Act (1997 Act).</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

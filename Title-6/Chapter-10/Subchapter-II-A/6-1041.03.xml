@@ -5,22 +5,20 @@
     <num>(a)</num>
     <text>The Mayor shall establish the maximum rent or purchase price for the first sale of an inclusionary unit based upon either the actual income of the household selected by the Mayor to lease or purchase the unit or based upon a rental and price schedule as follows:</text>
     <level>
-      <level>
-        <num>(1)</num>
-        <text>Rents based upon the actual income of a household shall be established so that the household will not expend more than approximately 30% of its annual income on rent and utilities.</text>
-      </level>
-      <level>
-        <num>(2)</num>
-        <text>Purchase prices based upon the actual income of a household shall be established so that the household will not expend more than approximately 30% of its annual income on mortgage payments, including principal, interest, and property insurance and taxes, home owner association or condominium fees, and utilities.</text>
-      </level>
-      <level>
-        <num>(3)</num>
-        <text>Maximum rent and purchase prices established through a schedule applicable to low-income households shall be set so that a household earning 50% of the Metropolitan Statistical Area median will expend no more than approximately 30% of its annual income on the applicable housing costs identified in subsections (b) and (c) of this section.</text>
-      </level>
-      <level>
-        <num>(4)</num>
-        <text>Maximum rent and purchase prices established through a schedule applicable to moderate-income households shall be set so that a household earning 80% of the Metropolitan Statistical Area median will expend no more than approximately 30% of its annual income on the applicable housing costs identified in subsections (b) and (c) of this section.</text>
-      </level>
+      <num>(1)</num>
+      <text>Rents based upon the actual income of a household shall be established so that the household will not expend more than approximately 30% of its annual income on rent and utilities.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Purchase prices based upon the actual income of a household shall be established so that the household will not expend more than approximately 30% of its annual income on mortgage payments, including principal, interest, and property insurance and taxes, home owner association or condominium fees, and utilities.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Maximum rent and purchase prices established through a schedule applicable to low-income households shall be set so that a household earning 50% of the Metropolitan Statistical Area median will expend no more than approximately 30% of its annual income on the applicable housing costs identified in subsections (b) and (c) of this section.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Maximum rent and purchase prices established through a schedule applicable to moderate-income households shall be set so that a household earning 80% of the Metropolitan Statistical Area median will expend no more than approximately 30% of its annual income on the applicable housing costs identified in subsections (b) and (c) of this section.</text>
     </level>
   </level>
   <level>
@@ -35,26 +33,26 @@
     <num>(d)</num>
     <text>The purchase price for the second and all subsequent sales of an inclusionary unit sold to the Mayor shall equal the purchase price paid by each seller plus the costs of the improvements permitted by regulation to be added to the purchase price, which amount shall be multiplied by 25% or the percentage that the consumer price index has risen or fallen, whichever is lower, since the date on which that seller purchased the property.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 2007, D.C. Law 16-275, § 103, 54 DCR 880.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2(a) of Inclusionary Zoning Implementation Temporary Amendment Act of 2008 (D.C. Law 17-161, May 13, 2008, law notification 55 DCR 5894).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(a) of Inclusionary Zoning Implementation Emergency Amendment Act of 2008 (D.C. Act 17-304, February 22, 2008, 55 DCR 2514).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-275, see notes following § 6-1041.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-1041.02 and § 42-2802.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2(a) of Inclusionary Zoning Implementation Temporary Amendment Act of 2008 (D.C. Law 17-161, May 13, 2008, law notification 55 DCR 5894).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(a) of Inclusionary Zoning Implementation Emergency Amendment Act of 2008 (D.C. Act 17-304, February 22, 2008, 55 DCR 2514).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-275</heading>
+      <text>For Law 16-275, see notes following § 6-1041.01.</text>
     </level>
   </level>
 </level>

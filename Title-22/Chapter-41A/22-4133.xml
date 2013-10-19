@@ -79,18 +79,18 @@
     <num>(f)</num>
     <text>An order granting or denying relief under this section is a final order for purposes of appeal.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 17, 2002, D.C. Law 14-134, § 4, 49 DCR 408.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-134, see notes following § 22-4131.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 22-4132.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-134</heading>
+      <text>For Law 14-134, see notes following § 22-4131.</text>
     </level>
   </level>
 </level>

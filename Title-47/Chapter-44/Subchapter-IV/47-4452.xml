@@ -7,31 +7,33 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>[Repealed.]</text>
+    <text>Repealed.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-305, § 405(b), 48 DCR 334; Dec. 7, 2004, D.C. Law 15-217, § 4(p), 51 DCR 9126.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-217 repealed subsec. (b) which had read as follows:</text>
-        <text>"(b) If a jeopardy assessment has been made under § 47-4451, the taxpayer may administratively appeal, within 5 business days, the assessment of tax or the seizure of property and the property seized for the collection of the tax shall not be sold until any appeal is completed."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 3(p) of Office of Administrative Hearings Establishment Emergency Amendment Act of 2004 (D.C. Act 15-513, August 2, 2004, 51 DCR 8976).</text>
-        <text>For temporary (90 day) amendment of section, see § 3(p) of Office of Administrative Hearings Establishment Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-553, October 26, 2004, 51 DCR 10359).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-305, see notes under § 47-4401.</text>
-        <text>For Law 15-217, see notes following § 47-1528.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-875.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-217 repealed subsec. (b) which had read as follows: "(b) If a jeopardy assessment has been made under § 47-4451, the taxpayer may administratively appeal, within 5 business days, the assessment of tax or the seizure of property and the property seized for the collection of the tax shall not be sold until any appeal is completed."</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 3(p) of Office of Administrative Hearings Establishment Emergency Amendment Act of 2004 (D.C. Act 15-513, August 2, 2004, 51 DCR 8976).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(p) of Office of Administrative Hearings Establishment Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-553, October 26, 2004, 51 DCR 10359).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-305</heading>
+      <text>For Law 13-305, see notes under § 47-4401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-217</heading>
+      <text>For Law 15-217, see notes following § 47-1528.</text>
     </level>
   </level>
 </level>

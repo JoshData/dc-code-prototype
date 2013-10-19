@@ -1,33 +1,35 @@
 <level type="section">
   <num>42-3507.01</num>
   <heading>Notice of right to assistance.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2571</formerly-cited-as>
   <text>No housing provider shall substantially rehabilitate, demolish, or discontinue any housing accommodation unless there has first been served upon each tenant residing in the housing accommodation a written notice of intent to rehabilitate, demolish, or discontinue the housing accommodation in accordance with § 42-3505.01(f), (g), (h), or (i), as appropriate. The notice shall advise the tenants of their right to relocation assistance under this chapter or any other District law, and the procedures for applying for the assistance. The Rental Housing Commission shall prescribe the content of the notice. No tenant may be evicted from a housing accommodation which the housing provider intends to substantially rehabilitate, demolish, or discontinue housing use, or which the housing provider intends to sell to another person who, to the housing provider's knowledge, intends to substantially rehabilitate, demolish, or discontinue housing use, unless the requirements of this section have been met. Nothing contained in this section shall be construed to limit a housing provider's right to evict a tenant for nonpayment of rent or violation of an obligation of the tenancy, if the action to evict is in compliance with § 42-3505.01.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 17, 1985, D.C. Law 6-10, § 701, 32 DCR 3089; June 22, 2006, D.C. Law 16-140, § 2(b), 53 DCR 3686.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2571.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-140 substituted "in accordance with section § 42-3505.01(f), (g), (h), or (i)" for "in accordance with § 42-3505.01(g), (h), or (i)".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 45-3501.01.</text>
-        <text>For Law 16-140, see notes following § 42-3505.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Termination of Law 6-10: Section 907 of D.C. Law 6-10, as amended by § 2(d) of D.C. Law 8-48 and § 818 of D.C. Law 11-52, provided that all subchapters of the act, except III and V, shall terminate on December 31, 2000.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-231.03.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2571.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-140 substituted "in accordance with section § 42-3505.01(f), (g), (h), or (i)" for "in accordance with § 42-3505.01(g), (h), or (i)".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-10</heading>
+      <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 45-3501.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-140</heading>
+      <text>For Law 16-140, see notes following § 42-3505.01.</text>
+    </level>
+    <level>
+      <heading>Termination of law Termination of Law 6-10</heading>
+      <text>Section 907 of D.C. Law 6-10, as amended by § 2(d) of D.C. Law 8-48 and § 818 of D.C. Law 11-52, provided that all subchapters of the act, except III and V, shall terminate on December 31, 2000.</text>
     </level>
   </level>
 </level>

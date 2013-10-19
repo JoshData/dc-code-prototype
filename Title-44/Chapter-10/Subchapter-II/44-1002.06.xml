@@ -1,7 +1,6 @@
 <level type="section">
   <num>44-1002.06</num>
   <heading>Powers and duties of receiver.</heading>
-  <formerly-cited-as>DC ST 1981 § 32-1416</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A receiver shall:</text>
@@ -152,22 +151,22 @@
     <num>(h)</num>
     <text>A receiver shall be entitled to a reasonable fee established by the court to be paid from the revenues of the facility.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 18, 1986, D.C. Law 6-108, § 206, 33 DCR 1510.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-1416.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-108, see Historical and Statutory Notes following § 44-1001.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 44-1002.07.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-1416.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-108</heading>
+      <text>For legislative history of D.C. Law 6-108, see Historical and Statutory Notes following § 44-1001.01.</text>
     </level>
   </level>
 </level>

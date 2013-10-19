@@ -1,10 +1,9 @@
 <level type="section">
   <num>15-101</num>
   <heading>Enforceable period of judgments; expiration.</heading>
-  <formerly-cited-as>DC ST 1981 § 15-101</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>Except as provided by subsection (b) of this section, every final judgment or final decree for the payment of money rendered in the --</text>
+    <text>Except as provided by subsection (b) of this section, every final judgment or final decree for the payment of money rendered in the -</text>
     <level>
       <num>(1)</num>
       <text>United States District Court for the District of Columbia; or</text>
@@ -19,23 +18,32 @@
     <num>(b)</num>
     <text>At the expiration of the twelve-year period provided by subsection (a) of this section, the judgment or decree shall cease to have any operation or effect. Thereafter, except in the case of a proceeding that may be then pending for the enforcement of the judgment or decree, action may not be brought on it, nor may it be revived, and execution may not issue on it.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, 77 Stat. 522, Pub. L. 88-241, § 1; Nov. 2, 1966, 80 Stat. 1177, Pub. L. 89-745, §§ 1(a), 7; Mar. 11, 1968, 82 Stat. 42, Pub. L. 90-263, § 1; July 29, 1970, 84 Stat. 553, Pub. L. 91-358, title I, § 144(1).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 15-101.</text>
-        <text>1973 Ed., § 15-101.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 27 of D.C. Law 15-354 provides that Title 15 is designated Title 15 of the District of Columbia Official Code.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Action of account, see § 16-101.</text>
+      <text>Adoption proceedings, entry of interlocutory or final decrees, see § 16-309.</text>
+      <text>Child support, withholding of income after lapse, see § 46-215.</text>
+      <text>Enforcement of foreign judgments, see § 12-307.</text>
+      <text>Interest on judgments, see § 15-108 et seq.</text>
+      <text>Superior Court judgments, lapse, see § 16-578.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-578 and § 46-215.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 15-101.</text>
+      <text>1973 Ed., § 15-101.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 27 of D.C. Law 15-354 provided that Title 15 is designated Title 15 of the District of Columbia Official Code.</text>
     </level>
   </level>
 </level>

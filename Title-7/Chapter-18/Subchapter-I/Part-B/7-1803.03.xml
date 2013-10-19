@@ -142,18 +142,18 @@
       <text>Sell, offer, or possess for sale, in the District, or import for personal consumption in the District, cigarettes of a Tobacco Product Manufacturer or Brand Family not included in the Directory.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 22, 2004, D.C. Law 15-150, § 4, 51 DCR 2809.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-150, see notes following § 7-1803.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-1803.05, § 7-1803.06, § 7-1803.07, and § 47-2402.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-150</heading>
+      <text>For Law 15-150, see notes following § 7-1803.01.</text>
     </level>
   </level>
 </level>

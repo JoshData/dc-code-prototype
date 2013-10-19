@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-1538</num>
   <heading>Insurance policies.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-338</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Every policy or contract of insurance issued under authority of this chapter shall contain:</text>
@@ -37,34 +36,39 @@
       <text>The Commissioner of the Department of Banking and Financial Institutions may promulgate rules and regulations necessary for the implementation and enforcement of this section.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 1, 1980, D.C. Law 3-77, § 39, 27 DCR 2503; Apr. 16, 1999, D.C. Law 12-229, § 2(i), 46 DCR 891; June 11, 2004, D.C. Law 15-166, § 4(jj)(1), 51 DCR 2817; Apr. 13, 2005, D.C. Law 15-354, § 50, 52 DCR 2638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-338.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-166, in par. (2) of subsec. (c), substituted "Department of Insurance, Securities, and Banking" for "Department of Insurance and Securities Regulation".</text>
-        <text>D.C. Law 15-354, in subsec. (c)(4), substituted "Commissioner of the Department of Banking and Financial Institutions" for "Commissioner of Insurance and Securities".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 4(jj)(1) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
-        <text>For legislative history of D.C. Law 12-229, see Historical and Statutory Notes following § 32-1501.</text>
-        <text>For Law 15-166, see notes following § 31-1004.</text>
-        <text>For Law 15-354, see notes following § 32-402.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-338.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-166, in par. (2) of subsec. (c), substituted "Department of Insurance, Securities, and Banking" for "Department of Insurance and Securities Regulation".</text>
+      <text>D.C. Law 15-354, in subsec. (c)(4), substituted "Commissioner of the Department of Banking and Financial Institutions" for "Commissioner of Insurance and Securities".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 4(jj)(1) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-77</heading>
+      <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-229</heading>
+      <text>For legislative history of D.C. Law 12-229, see Historical and Statutory Notes following § 32-1501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-166</heading>
+      <text>For Law 15-166, see notes following § 31-1004.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 32-402.</text>
     </level>
   </level>
 </level>

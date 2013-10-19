@@ -3,35 +3,29 @@
   <heading>Discrimination based on status as unemployed unlawful.</heading>
   <text>No employer or employment agency shall:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Fail or refuse to consider for employment, or fail or refuse to hire, an individual as an employee because of the individual's status as unemployed; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Publish, in print, on the Internet, or in any other medium, an advertisement or announcement for any vacancy in a job for employment that includes:</text>
-      <level>
-        <num>(A)</num>
-        <text>Any provision stating or indicating that an individual's status as unemployed disqualifies the individual for the job; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Any provision stating or indicating that an employment agency will not consider or hire an individual for employment based on that individual's status as unemployed.</text>
-      </level>
-    </level>
+    <num>(1)</num>
+    <text>Fail or refuse to consider for employment, or fail or refuse to hire, an individual as an employee because of the individual's status as unemployed; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Publish, in print, on the Internet, or in any other medium, an advertisement or announcement for any vacancy in a job for employment that includes:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Any provision stating or indicating that an individual's status as unemployed disqualifies the individual for the job; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Any provision stating or indicating that an employment agency will not consider or hire an individual for employment based on that individual's status as unemployed.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(May 31, 2012, D.C. Law 19-132, § 3, 59 DCR 2391.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-132, see notes under § 32-1361.</text>
-      </level>
+      <heading>Legislative History of Law 19-132</heading>
+      <text>For history of Law 19-132, see notes under § 32-1361.</text>
     </level>
   </level>
 </level>

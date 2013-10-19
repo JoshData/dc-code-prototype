@@ -21,18 +21,14 @@
     <num>(e)</num>
     <text>For the purposes of this section, "Bus" means public transit such as Metrobuses, the Downtown Circulator, the Georgetown Blue Buses, Maryland and Virginia State commuter charters, and Tourmobile vehicles.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Oct. 9, 1987, D.C. Law 7-34, § 2a, as added Sept. 29, 2006, D.C. Law 16- 165, § 2, 53 DCR 6190.)</text>
+      <heading>History</heading>
+      <text>(Oct. 9, 1987, D.C. Law 7-34, § 2a, as added Sept. 29, 2006, D.C. Law 16-165, § 2, 53 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 16-165, the "Pedestrian Protection Bus Safety Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-188 which was referred to the Committee on Public Works and Environment The Bill was adopted on first and second readings on June 20, 2006, and July 11, 2006, respectively. Signed by the Mayor on July 18, 2006, it was assigned Act No. 16-433 and transmitted to both Houses of Congress for its review. D.C. Law 16-165 became effective on September 29, 2006.</text>
-      </level>
+      <heading>Legislative History of Law 16-165</heading>
+      <text>Law 16-165, the "Pedestrian Protection Bus Safety Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-188 which was referred to the Committee on Public Works and Environment The Bill was adopted on first and second readings on June 20, 2006, and July 11, 2006, respectively. Signed by the Mayor on July 18, 2006, it was assigned Act No. 16-433 and transmitted to both Houses of Congress for its review. D.C. Law 16-165 became effective on September 29, 2006.</text>
     </level>
   </level>
 </level>

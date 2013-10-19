@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>6</num>
-  <heading>Boxing and Wrestling Commission.</heading>
-  <level>
-    <text>DC CODE D. I, T. 3, Subt. I, Ch. 6, Refs &amp; Annos</text>
-  </level>
+  <heading>Boxing and Wrestling Commission</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-601.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-602.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-603.xml"/>

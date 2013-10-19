@@ -45,18 +45,14 @@
     <num>(c)</num>
     <text>The Director is permitted to increase the dollar amount of the total loan repayment annually to adjust for inflation. All quarterly disbursements shall be adjusted accordingly.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2006, D.C. Law 16-71, § 9, 53 DCR 61.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-71, see notes following § 7-751.01.</text>
-      </level>
+      <heading>Legislative History of Law 16-71</heading>
+      <text>For Law 16-71, see notes following § 7-751.01.</text>
     </level>
   </level>
 </level>

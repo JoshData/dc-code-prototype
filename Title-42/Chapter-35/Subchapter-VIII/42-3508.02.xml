@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-3508.02</num>
   <heading>Tax abatement for new or rehabilitated vacant rental housing.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2582</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There shall be an 80% reduction of the property tax liability during the first year newly constructed rental housing accommodations become available for rental. Tax for succeeding years shall be increased by increments of 16% of the full tax liability, until the time the full liability absent this provision, is reached.</text>
@@ -26,32 +25,42 @@
     <num>(f)</num>
     <text>This section shall not apply to property which receives tax relief pursuant to §§ 47-857.03 through 47-857.10.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 17, 1985, D.C. Law 6-10, § 802, 32 DCR 3089; Aug. 25, 1994, D.C. Law 10-155, § 2(c), 41 DCR 4873; Apr. 19, 2002, D.C. Law 14-114, § 602, 49 DCR 1468.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2582.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-114 added subsec. (f).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
-        <text>For legislative history of D.C. Law 10-155, see Historical and Statutory Notes following § 42-3508.06.</text>
-        <text>For Law 14-114, see notes following § 42-2102.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Termination of Law 6-10: See Historical and Statutory Notes following § 42- 3508.01.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Establishment of real property tax rates, see § 47-812.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3508.04, § 47-857.02, and § 47-859.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2582.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-114 added subsec. (f).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-10</heading>
+      <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-155</heading>
+      <text>For legislative history of D.C. Law 10-155, see Historical and Statutory Notes following § 42-3508.06.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-114</heading>
+      <text>For Law 14-114, see notes following § 42-2102.</text>
+    </level>
+    <level>
+      <heading>Termination of law Termination of Law 6-10</heading>
+      <text>See Historical and Statutory Notes following § 42-3508.01.</text>
     </level>
   </level>
 </level>

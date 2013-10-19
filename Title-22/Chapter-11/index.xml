@@ -1,12 +1,8 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>11</num>
-  <heading>Cruelty to Children.</heading>
-  <level>
-    <text>DC CODE D. IV, T. 22, Subt. I, Ch. 11, Refs &amp; Annos</text>
-  </level>
+  <heading>Cruelty to Children</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1102.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1103~22-1106~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1103~22-1106~P.xml"/>
 </level>

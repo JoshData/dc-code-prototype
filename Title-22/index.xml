@@ -1,11 +1,11 @@
 <level type="toc">
   <prefix>Title</prefix>
   <num>22</num>
-  <heading>Criminal Offenses and Penalties.</heading>
+  <heading>Criminal Offenses and Penalties</heading>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>I</num>
-    <heading>Criminal Offenses.</heading>
+    <heading>Criminal Offenses</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3/index.xml"/>
@@ -54,11 +54,12 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-34/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-35/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-35A/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-35B/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>II</num>
-    <heading>Enhanced Penalties.</heading>
+    <heading>Enhanced Penalties</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-36/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-36A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-37/index.xml"/>
@@ -67,7 +68,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>III</num>
-    <heading>Sex Offenders.</heading>
+    <heading>Sex Offenders</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-38/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-39/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-40/index.xml"/>
@@ -76,14 +77,14 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>III-A</num>
-    <heading>DNA Testing.</heading>
+    <heading>DNA Testing</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-41A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-41B/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>IV</num>
-    <heading>Prevention, Solution, and Punishment of Crimes.</heading>
+    <heading>Prevention, Solution, and Punishment of Crimes</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-42/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-42A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-42B/index.xml"/>
@@ -91,20 +92,20 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>V</num>
-    <heading>Harbor, Game and Fish Laws.</heading>
+    <heading>Harbor, Game and Fish Laws</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-43/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-44/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>VI</num>
-    <heading>Regulation and Possession of Weapons.</heading>
+    <heading>Regulation and Possession of Weapons</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-45/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>VII</num>
-    <heading>Repealed Provisions.</heading>
+    <heading>Repealed Provisions</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-46/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-47/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-48/index.xml"/>

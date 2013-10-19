@@ -1,10 +1,9 @@
 <level type="section">
   <num>2-1401.03</num>
   <heading>Exceptions.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-2503</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>Any practice which has a discriminatory effect and which would otherwise be prohibited by this chapter shall not be deemed unlawful if it can be established that such practice is not intentionally devised or operated to contravene the prohibitions of this chapter and can be justified by business necessity. Under this chapter, a "business necessity" exception is applicable only in each individual case where it can be proved by a respondent that, without such exception, such business cannot be conducted; a "business necessity" exception cannot be justified by the facts of increased cost to business, business efficiency, the comparative characteristics of one group as opposed to another, the stereotyped characterization of one group as opposed to another, and the preferences of co-workers, employers, customers or any other person. The business necessity exemption is inapplicable to complaints of unlawful discrimination in residential real estate transactions and to complaints alleging violations of the Fair Housing Act, approved April 11, 1968 (42 U.S.C. § 3601 et seq.)(" FHA").</text>
+    <text>Any practice which has a discriminatory effect and which would otherwise be prohibited by this chapter shall not be deemed unlawful if it can be established that such practice is not intentionally devised or operated to contravene the prohibitions of this chapter and can be justified by business necessity. Under this chapter, a "business necessity" exception is applicable only in each individual case where it can be proved by a respondent that, without such exception, such business cannot be conducted; a "business necessity" exception cannot be justified by the facts of increased cost to business, business efficiency, the comparative characteristics of one group as opposed to another, the stereotyped characterization of one group as opposed to another, and the preferences of co-workers, employers, customers or any other person. The business necessity exemption is inapplicable to complaints of unlawful discrimination in residential real estate transactions and to complaints alleging violations of the Fair Housing Act, approved April 11, 1968 (42 U.S.C. § 3601 et seq.) ("FHA").</text>
   </level>
   <level>
     <num>(b)</num>
@@ -34,31 +33,40 @@
       <text>Determine an employee's susceptibility or level of exposure to potentially toxic substances in the workplace; provided, that the employee provides, in writing, his or her informed consent, and the genetic information is provided to the employee in writing as soon as it is available, and the genetic information is not disclosed to any other person.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 13, 1977, D.C. Law 2-38, title I, § 103, 24 DCR 6038; Apr. 20, 1999, D.C. Law 12-242, § 2(c), 46 DCR 952; Apr. 12, 2000, D.C. Law 13-91, § 159(b), 47 DCR 520; Apr. 5, 2005, D.C. Law 15-263, § 2(c), 52 DCR 237.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-2503.</text>
-        <text>1973 Ed., § 6-2203.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-91 validated a previously made technical correction in subsec. (d).</text>
-        <text>D.C. Law 15-263 added subsecs. (e) and (f).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-38, see Historical and Statutory Notes following § 2-1401.01.</text>
-        <text>For legislative history of D.C. Law 12-242, see Historical and Statutory Notes following § 2-1401.01.</text>
-        <text>For Law 13-91, see notes following § 2-1209.06.</text>
-        <text>For Law 15-263, see notes following § 2-1401.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1402.41.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-2503.</text>
+      <text>1973 Ed., § 6-2203.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-91 validated a previously made technical correction in subsec. (d).</text>
+      <text>D.C. Law 15-263 added subsecs. (e) and (f).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-38</heading>
+      <text>For legislative history of D.C. Law 2-38, see Historical and Statutory Notes following § 2-1401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-242</heading>
+      <text>For legislative history of D.C. Law 12-242, see Historical and Statutory Notes following § 2-1401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-91</heading>
+      <text>For Law 13-91, see notes following § 2-1209.06.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-263</heading>
+      <text>For Law 15-263, see notes following § 2-1401.01.</text>
     </level>
   </level>
 </level>

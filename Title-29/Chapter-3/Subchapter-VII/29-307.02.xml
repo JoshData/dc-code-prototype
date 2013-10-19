@@ -33,7 +33,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>Would be entitled to vote as a separate group on a provision of the plan that, if contained in a proposed amendment to articles of incorporation, would require action by separate voting groups under § 29-308. 04; or</text>
+        <text>Would be entitled to vote as a separate group on a provision of the plan that, if contained in a proposed amendment to articles of incorporation, would require action by separate voting groups under § 29-308.04; or</text>
       </level>
       <level>
         <num>(C)</num>
@@ -45,18 +45,14 @@
       <text>If any provision of the articles of incorporation, bylaws, or an agreement to which any of the directors or shareholders are parties, adopted, or entered into before the effective date of this chapter, applies to a merger of the corporation and that document does not refer to a domestication of the corporation, the provision shall apply to a domestication of the corporation until such time as the provision is amended subsequent to that date.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-1303.11</num>
   <heading>Payment for habilitation and care.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-1931</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A person with an intellectual disability, or the father, mother, spouse, or adult child of a person with an intellectual disability, who receives habilitation, care, or both from the District pursuant to this chapter, shall pay to the District the costs of habilitation, care, or both received by the person with an intellectual disability if the person with an intellectual disability, or the father, mother, spouse, or adult child of the person with an intellectual disability, or the estate of the person with an intellectual disability is able to pay the costs of habilitation, care, or both received.</text>
@@ -41,46 +40,55 @@
       <text>The Department of Disability Services shall work with and support the person to become District Medicaid-eligible and to maintain District Medicaid eligibility, and the person and his or her representatives, estate, or both shall fully cooperate in such efforts.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-137, § 311, 25 DCR 5094; Sept. 26, 1995, D.C. Law 11-52, § 506(i), 42 DCR 3684; Sept. 14, 2011, D.C. Law 19-21, § 5002(a), 58 DCR 6226; Sept. 26, 2012, D.C. Law 19-169, § 17(n), 59 DCR 5567.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-1931.</text>
-        <text>1973 Ed., § 6-1664.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-21 added subsec. (d).</text>
-        <text>D.C. Law 19-169 substituted "an intellectual disability" for "mental retardation".</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 505(j) of Multiyear Budget Spending Reduction and Support Temporary Act of 1995 (D.C. Law 10-253, March 23, 1995, law notification 42 DCR 1652).</text>
-        <text>For temporary (225 day) amendment of section, see § 4(a) of Human Services Spending Reduction Temporary Amendment Act of 1995 (D.C. Law 11-29, July 25, 1995, law notification 42 DCR 4002).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of section, see § 505(j) of the Multiyear Budget Spending Reduction and Support Emergency Act of 1994 (D.C. Act 10-389, December 29, 1994, 42 DCR 197).</text>
-        <text>For temporary amendment of section, see § 4(a) of the Human Services Spending Reduction Emergency Amendment Act of 1995 (D.C. Act 11-35, April 11, 1995, 42 DCR 1834) and § 4(a) of the Human Services Spending Reduction Congressional Recess Emergency Amendment Act of 1995 (D.C. Act 11-104, July 21, 1995, 42 DCR 4014).</text>
-        <text>For temporary amendment of section, see § 506(i) of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995, 42 DCR 4160).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-137, see Historical and Statutory Notes following § 7-1301.02.</text>
-        <text>For legislative history of D.C. Law 11-52, see Historical and Statutory Notes following § 7-1301.02.</text>
-        <text>For history of Law 19-21, see notes under § 7-731.</text>
-        <text>For history of Law 19-169, see notes under § 7-761.02. </text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 5001 of D.C. Law 19-21 provided that subtitle A of title V of the act may be cited as "Intellectual Disability Services Medicaid Maximization Reform Amendment Act of 2011".</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-1931.</text>
+      <text>1973 Ed., § 6-1664.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 19-21 added subsec. (d).</text>
+      <text>The 2012 amendment by D.C. Law 19-169 substituted "an intellectual disability" for "mental retardation" wherever it appears in the section.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 505(j) of Multiyear Budget Spending Reduction and Support Temporary Act of 1995 (D.C. Law 10-253, March 23, 1995, law notification 42 DCR 1652).</text>
+      <text>For temporary (225 day) amendment of section, see § 4(a) of Human Services Spending Reduction Temporary Amendment Act of 1995 (D.C. Law 11-29, July 25, 1995, law notification 42 DCR 4002).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 505(j) of the Multiyear Budget Spending Reduction and Support Emergency Act of 1994 (D.C. Act 10-389, December 29, 1994, 42 DCR 197).</text>
+      <text>For temporary amendment of section, see § 4(a) of the Human Services Spending Reduction Emergency Amendment Act of 1995 (D.C. Act 11-35, April 11, 1995, 42 DCR 1834) and § 4(a) of the Human Services Spending Reduction Congressional Recess Emergency Amendment Act of 1995 (D.C. Act 11-104, July 21, 1995, 42 DCR 4014).</text>
+      <text>For temporary amendment of section, see § 506(i) of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995, 42 DCR 4160).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-137</heading>
+      <text>For legislative history of D.C. Law 2-137, see Historical and Statutory Notes following § 7-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-52</heading>
+      <text>For legislative history of D.C. Law 11-52, see Historical and Statutory Notes following § 7-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 7-731.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-169</heading>
+      <text>See note to § 7-1303.01.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 5001 of D.C. Law 19-21 provided that subtitle A of title V of the act may be cited as "Intellectual Disability Services Medicaid Maximization Reform Amendment Act of 2011".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 35 of D.C. Law 19-169 provided that no provision of the act shall impair any right or obligation existing under law.</text>
     </level>
   </level>
 </level>

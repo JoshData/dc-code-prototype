@@ -1,24 +1,23 @@
 <level type="section">
   <num>50-506</num>
   <heading>Listing of odometer readings.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-1306</formerly-cited-as>
   <text>The Department of Public Works shall list the odometer readings at the time of registration or transfer of registration on the title of all motor vehicles registered in the District.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 1985, D.C. Law 5-162, § 8, 32 DCR 160.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-1306.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-162, see Historical and Statutory Notes following § 50-501.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Registration of motor vehicles, issuance and expiration of registration documents, see § 50-1501.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-1306.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-162</heading>
+      <text>For legislative history of D.C. Law 5-162, see Historical and Statutory Notes following § 50-501.</text>
     </level>
   </level>
 </level>

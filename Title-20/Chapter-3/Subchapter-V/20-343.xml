@@ -1,14 +1,15 @@
 <level type="section">
   <num>20-343</num>
   <heading>Publication and claims of creditors.</heading>
-  <formerly-cited-as>DC ST 1981 § 20-343</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Publication.</text> -- A foreign personal representative of a decedent who owned any property located in the District of Columbia shall publish once a week for 3 successive weeks a notice in a newspaper of general circulation in the District of Columbia and any other publication as the Court may provide by Rule. This notice shall include an announcement of such representative's appointment, name and address, agent's name and address in the District of Columbia for service of process on file with the Register, the name of the court that made such appointment, a brief description of all real property owned by the decedent in the District of Columbia and, if appropriate, a statement that the decedent owned personal property in the District. If the property located in the District of Columbia is real property (not leasehold), the notice shall also state that claims against the estate may be filed with the Register at any time within 6 months from the date of first publication. The foreign personal representative shall record in the Register's office a certification that such notice was published.</text>
+    <heading>Publication</heading>
+    <text>A foreign personal representative of a decedent who owned any property located in the District of Columbia shall publish once a week for 3 successive weeks a notice in a newspaper of general circulation in the District of Columbia and any other publication as the Court may provide by Rule. This notice shall include an announcement of such representative's appointment, name and address, agent's name and address in the District of Columbia for service of process on file with the Register, the name of the court that made such appointment, a brief description of all real property owned by the decedent in the District of Columbia and, if appropriate, a statement that the decedent owned personal property in the District. If the property located in the District of Columbia is real property (not leasehold), the notice shall also state that claims against the estate may be filed with the Register at any time within 6 months from the date of first publication. The foreign personal representative shall record in the Register's office a certification that such notice was published.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Personal or leasehold property.</text> -- With regard to personal or leasehold property located in the District of Columbia, a foreign personal representative may remove, lease, or transfer the property:</text>
+    <heading>Personal or leasehold property</heading>
+    <text>With regard to personal or leasehold property located in the District of Columbia, a foreign personal representative may remove, lease, or transfer the property:</text>
     <level>
       <num>(1)</num>
       <text>upon the first publication of notice pursuant to subsection (a) if such representative holds letters from:</text>
@@ -36,7 +37,8 @@
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Real property.</text> -- With regard to real property located in the District of Columbia, a foreign personal representative may lease or transfer the property if such representative:</text>
+    <heading>Real property</heading>
+    <text>With regard to real property located in the District of Columbia, a foreign personal representative may lease or transfer the property if such representative:</text>
     <level>
       <num>(1)</num>
       <text>posts bond with a penalty amount equal to the value of the property and makes first publication of notice pursuant to subsection (a); or</text>
@@ -48,36 +50,39 @@
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Statement of claim.</text> -- Any creditor may, within 6 months from the date of the first publication of notice, file a written statement of claim, pursuant to section 20-905, with the Register and deliver or mail a copy of the statement to the personal representative. The Register shall record all such claims and releases. Unless a release of a validly recorded claim has been recorded or the claim has finally been determined in favor of the personal representative, such claim shall constitute a lien against all real property owned by the decedent in the District of Columbia at death for a period of 12 years from date of death: Except, that if the personal representative is empowered to sell the property such claim shall constitute a lien against the net proceeds from the sale.</text>
+    <heading>Statement of claim</heading>
+    <text>Any creditor may, within 6 months from the date of the first publication of notice, file a written statement of claim, pursuant to section 20-905, with the Register and deliver or mail a copy of the statement to the personal representative. The Register shall record all such claims and releases. Unless a release of a validly recorded claim has been recorded or the claim has finally been determined in favor of the personal representative, such claim shall constitute a lien against all real property owned by the decedent in the District of Columbia at death for a period of 12 years from date of death: Except, that if the personal representative is empowered to sell the property such claim shall constitute a lien against the net proceeds from the sale.</text>
   </level>
   <level>
     <num>(e)</num>
-    <text><text i="True">No other action necessary.</text> -- It shall not be necessary for the foreign personal representative to institute any other proceedings before the Register with respect to any assets subject to the jurisdiction of the District of Columbia.</text>
+    <heading>No other action necessary</heading>
+    <text>It shall not be necessary for the foreign personal representative to institute any other proceedings before the Register with respect to any assets subject to the jurisdiction of the District of Columbia.</text>
   </level>
   <level>
     <num>(f)</num>
-    <text><text i="True">Responsibility for payment of death taxes.</text> -- This section shall not be construed to relieve the foreign personal representative of the responsibility for paying all death taxes due the District of Columbia.</text>
+    <heading>Responsibility for payment of death taxes</heading>
+    <text>This section shall not be construed to relieve the foreign personal representative of the responsibility for paying all death taxes due the District of Columbia.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 24, 1980, D.C. Law 3-72, § 101, 27 DCR 2155; Oct. 16, 2006, 120 Stat. 2024, Pub. L. 109-356, § 111(c).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 20-343.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>Pub. L. 109-356, in subsec. (d), substituted "The Register shall record all such claims and releases." for "The Register shall maintain a book known as the 'Claims Against Nonresident Decedents' in which all such claims and releases thereof shall be recorded."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-301.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 20-106.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 20-343.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>Pub. L. 109-356, in subsec. (d), substituted "The Register shall record all such claims and releases." for "The Register shall maintain a book known as the 'Claims Against Nonresident Decedents' in which all such claims and releases thereof shall be recorded."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-72</heading>
+      <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-301.</text>
     </level>
   </level>
 </level>

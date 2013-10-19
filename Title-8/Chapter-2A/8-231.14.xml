@@ -3,55 +3,49 @@
   <heading>Denial, suspension, or revocation.</heading>
   <text>The Mayor, after notice and opportunity for hearing, may suspend, revoke, modify, or refuse to issue, renew, or restore a certificate or accreditation issued under this chapter if the Mayor finds that the applicant or holder:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Has failed to comply with any provision of this chapter or rule issued pursuant to this chapter;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Has misrepresented facts relating to a lead-based paint activity to a client or customer;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Has made a false statement or misrepresentation material to the issuance, modification, or renewal of a certificate, permit, or accreditation;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Has submitted a false or fraudulent record, invoice, or report;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>As a training provider, or as an instructor, has provided inaccurate information or inadequate training;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Fails to meet any qualifications required by this chapter;</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>Does not possess proof of required accreditation, as prescribed by the Mayor;</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>Has had a history of repeated violations; or</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>Has had a certificate, permit, or accreditation denied, revoked, or suspended in another state or jurisdiction.</text>
-    </level>
+    <num>(1)</num>
+    <text>Has failed to comply with any provision of this chapter or rule issued pursuant to this chapter;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Has misrepresented facts relating to a lead-based paint activity to a client or customer;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Has made a false statement or misrepresentation material to the issuance, modification, or renewal of a certificate, permit, or accreditation;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Has submitted a false or fraudulent record, invoice, or report;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>As a training provider, or as an instructor, has provided inaccurate information or inadequate training;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Fails to meet any qualifications required by this chapter;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>Does not possess proof of required accreditation, as prescribed by the Mayor;</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>Has had a history of repeated violations; or</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>Has had a certificate, permit, or accreditation denied, revoked, or suspended in another state or jurisdiction.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 31, 2009, D.C. Law 17-381, § 15, 56 DCR 1596.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-381, see notes following § 8-231.01.</text>
-      </level>
+      <heading>Legislative History of Law 17-381</heading>
+      <text>For Law 17-381, see notes following § 8-231.01.</text>
     </level>
   </level>
 </level>

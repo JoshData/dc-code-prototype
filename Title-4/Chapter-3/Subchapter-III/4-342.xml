@@ -3,48 +3,46 @@
   <heading>Definitions.</heading>
   <text>For the purpose of this subchapter, the term:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>"Attorneys' fees" means the legal costs and expenses which are directly related to the adoption of a foster child or foster children.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Foster care" means 24 hour substitute care for children placed away from their parents or guardians for whom the Child and Family Services Agency has placement care and responsibility.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Foster child" and "foster children" mean a child, or children, who comes under the jurisdiction of the Superior Court of the District of Columbia pursuant to § 16-2320 or whose parents' rights have been relinquished pursuant to § 4-1406.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Foster parent" means an individual with whom a foster child is legally placed.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Homestudy" means the "investigation, report and recommendation" required by § 16-307.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Related sibling group" means a group of siblings with at least one parent in common, residing together in the home of a foster parent.</text>
-    </level>
+    <num>(1)</num>
+    <text>"Attorneys' fees" means the legal costs and expenses which are directly related to the adoption of a foster child or foster children.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Foster care" means 24 hour substitute care for children placed away from their parents or guardians for whom the Child and Family Services Agency has placement care and responsibility.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Foster child" and "foster children" mean a child, or children, who comes under the jurisdiction of the Superior Court of the District of Columbia pursuant to § 16-2320 or whose parents' rights have been relinquished pursuant to § 4-1406.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Foster parent" means an individual with whom a foster child is legally placed.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Homestudy" means the "investigation, report and recommendation" required by § 16-307.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Related sibling group" means a group of siblings with at least one parent in common, residing together in the home of a foster parent.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 19, 2000, D.C. Law 13-172, § 3803, 47 DCR 6308.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) addition of section, see § 3803 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000, 47 DCR 6574).</text>
-        <text>For temporary (90 day) amendment of section, see §§ 3802 to 3807 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-172, see notes following § 4-341.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-608.01 and § 4-1303.03.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) addition of section, see § 3803 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000, 47 DCR 6574).</text>
+      <text>For temporary (90 day) amendment of section, see §§ 3802 to 3807 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-172</heading>
+      <text>For D.C. Law 13-172, see notes following § 4-341.</text>
     </level>
   </level>
 </level>

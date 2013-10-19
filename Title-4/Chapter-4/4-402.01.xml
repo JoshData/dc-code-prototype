@@ -37,22 +37,18 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 19, 1979, D.C. Law 3-16, § 3a, as added Nov. 13, 2003, D.C. Law 15-39, § 2702, 50 DCR 5668.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-39, see notes following § 4-204.11.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title of title XXVII of Law 15-39: Section 2701 of D.C. Law 15-39 provided that title XXVII of the act may be cited as the Day Care in Schools Eligibility Requirement Amendment Act of 2003.</text>
-      </level>
+      <heading>Legislative History of Law 15-39</heading>
+      <text>For Law 15-39, see notes following § 4-204.11.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title of title XXVII of Law 15-39: Section 2701 of D.C. Law 15-39 provided that title XXVII of the act may be cited as the Day Care in Schools Eligibility Requirement Amendment Act of 2003.</text>
     </level>
   </level>
 </level>

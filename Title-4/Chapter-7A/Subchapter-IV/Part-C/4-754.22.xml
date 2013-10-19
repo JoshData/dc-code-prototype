@@ -3,39 +3,37 @@
   <heading>Additional standards for providers of severe weather shelter.</heading>
   <text>In addition to the standards in § 4-754.21, providers of severe weather shelter shall provide:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>When severe weather conditions continue overnight, a clean bed with clean linens, pad, and blanket for each bed;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Basic needs, such as food and clothing and other supportive services, or information about where to obtain such basic needs and supportive services;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>24-hour, properly functioning toilet facilities;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Cool water, available via water cooler, fountain, or other means; and</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Properly functioning heating and cooling systems during the appropriate seasons.</text>
-    </level>
+    <num>(1)</num>
+    <text>When severe weather conditions continue overnight, a clean bed with clean linens, pad, and blanket for each bed;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Basic needs, such as food and clothing and other supportive services, or information about where to obtain such basic needs and supportive services;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>24-hour, properly functioning toilet facilities;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Cool water, available via water cooler, fountain, or other means; and</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Properly functioning heating and cooling systems during the appropriate seasons.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2005, D.C. Law 16-35, § 13, 52 DCR 8113.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-35, see notes following § 4-751.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-754.23, § 4-754.24, and § 4-754.25.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-35</heading>
+      <text>For Law 16-35, see notes following § 4-751.01.</text>
     </level>
   </level>
 </level>

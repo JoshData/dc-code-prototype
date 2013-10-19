@@ -3,62 +3,56 @@
   <heading>Definitions.</heading>
   <text>For purposes of this chapter, the term:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>"Advanced Metering Infrastructure" or "AMI" means a system capable of providing 2-way communication with metering equipment to gather at least hourly energy consumption data on a daily basis for all customers.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"ARRA" means the American Recovery and Reinvestment Act of 2009, approved February 17, 2009 (123 Stat. 115; 26 U.S. C. § 1, note).</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Commission" means the Public Service Commission.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Customer" shall have the same meaning as set forth in § 34-1501(12).</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Electric company" shall have the same meaning as set forth in § 34-207.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Meter Data Management System" means a system that provides a single data repository which can gather data from multiple metering systems and then supply that data to multiple applications such as billing, forecasting, customer service, system operation and maintenance.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"Regulatory asset" means specific costs that a public utility may defer to its balance sheet and accrue earnings thereon at its authorized rate of return.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Smart Grid" means the installation of advanced technology to enhance the operation of the electric distribution and transmission system.</text>
-    </level>
+    <num>(1)</num>
+    <text>"Advanced Metering Infrastructure" or "AMI" means a system capable of providing 2-way communication with metering equipment to gather at least hourly energy consumption data on a daily basis for all customers.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"ARRA" means the American Recovery and Reinvestment Act of 2009, approved February 17, 2009 (123 Stat. 115; 26 U.S.C. § 1, note).</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Commission" means the Public Service Commission.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Customer" shall have the same meaning as set forth in § 34-1501(12).</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Electric company" shall have the same meaning as set forth in § 34-207.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Meter Data Management System" means a system that provides a single data repository which can gather data from multiple metering systems and then supply that data to multiple applications such as billing, forecasting, customer service, system operation and maintenance.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Regulatory asset" means specific costs that a public utility may defer to its balance sheet and accrue earnings thereon at its authorized rate of return.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Smart Grid" means the installation of advanced technology to enhance the operation of the electric distribution and transmission system.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 2010, D.C. Law 18-111, § 2161, 57 DCR 181.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 2 of Advanced Metering Infrastructure Implementation and Cost Recovery Authorization Emergency Act of 2009 (D.C. Act 18-107, June 18, 2009, 56 DCR 4929).</text>
-        <text>For temporary (90 day) additions, see §§ 2001, 2002 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009, 56 DCR 7374).</text>
-        <text>For temporary (90 day) addition, see § 2161 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
-        <text>For temporary (90 day) addition, see § 2161 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 18-111, the "Fiscal Year 2010 Budget Support Act of 2009", was introduced in Council and assigned Bill No. 18-203, which was referred to the Committee on the Whole. The bill was adopted on first and second readings on May 12, 2009, and September 22, 2009, respectively. Signed by the Mayor on December 18, 2009, it was assigned Act No. 18-255 and transmitted to both Houses of Congress for its review. D.C. Law 18-111 became effective on March 3, 2010.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 2160 of D.C. Law 18-111 provided that subtitle Q of title II of the act may be cited as the "Advanced Metering Infrastructure Implementation and Cost Recovery Authorization Act of 2009".</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 2 of Advanced Metering Infrastructure Implementation and Cost Recovery Authorization Emergency Act of 2009 (D.C. Act 18-107, June 18, 2009, 56 DCR 4929).</text>
+      <text>For temporary (90 day) additions, see §§ 2001, 2002 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009, 56 DCR 7374).</text>
+      <text>For temporary (90 day) addition, see § 2161 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
+      <text>For temporary (90 day) addition, see § 2161 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-111</heading>
+      <text>Law 18-111, the "Fiscal Year 2010 Budget Support Act of 2009", was introduced in Council and assigned Bill No. 18-203, which was referred to the Committee on the Whole. The bill was adopted on first and second readings on May 12, 2009, and September 22, 2009, respectively. Signed by the Mayor on December 18, 2009, it was assigned Act No. 18-255 and transmitted to both Houses of Congress for its review. D.C. Law 18-111 became effective on March 3, 2010.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 2160 of D.C. Law 18-111 provided that subtitle Q of title II of the act may be cited as the "Advanced Metering Infrastructure Implementation and Cost Recovery Authorization Act of 2009".</text>
     </level>
   </level>
 </level>

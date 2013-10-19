@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-1904</num>
   <heading>Investigations.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-2504</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -57,33 +56,39 @@
     <num>(e)</num>
     <text>The scope of an investigation under this section shall be only that which is minimally necessary for an APS worker to determine whether an adult is in need of protective services, and, if so, what protective services are needed to remedy or substantially reduce the likelihood of abuse, neglect, self-neglect, or exploitation by others.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 1985, D.C. Law 5-156, § 5, 32 DCR 13; Mar. 8, 2006, D.C. Law 16-67, § 2(d), 53 DCR 40; Mar. 25, 2009, D.C. Law 17-353, § 102(a), 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-2504.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-67, in subsec. (b), substituted "another or that the adult is incapacitated, the investigation shall be terminated, for "another, the investigation shall be terminated," and "Attorney General to petition for an ex parte order pursuant to subsection (c) of this section. Where good cause exists to believe that a self-neglecting person is incapacitated, the APS worker, the Department, or the Attorney General may provide protective services pursuant to § 7-1905(c-1)." for "Corporation Counsel to petition for an ex parte order pursuant to subsection (c) of this section."; in subsec. (c), substituted "Attorney General" for "Corporation Counsel"; and, in subsec. (e), substituted "neglect, self-neglect," for "neglect,".</text>
-        <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (b).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-156, see Historical and Statutory Notes following § 7-1901.</text>
-        <text>For Law 16-67, see notes following § 7-1901.</text>
-        <text>For Law 17-353, see notes following § 7-161.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Delayed application of Law 5-156: See Historical and Statutory Notes following § 7-1901.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-1905 and § 7-1909.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-2504.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-67, in subsec. (b), substituted "another or that the adult is incapacitated, the investigation shall be terminated," for "another, the investigation shall be terminated," and "Attorney General to petition for an ex parte order pursuant to subsection (c) of this section. Where good cause exists to believe that a self-neglecting person is incapacitated, the APS worker, the Department, or the Attorney General may provide protective services pursuant to § 7-1905(c-1)." for "Corporation Counsel to petition for an ex parte order pursuant to subsection (c) of this section."; in subsec. (c), substituted "Attorney General" for "Corporation Counsel"; and, in subsec. (e), substituted "neglect, self-neglect," for "neglect,".</text>
+      <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (b).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-156</heading>
+      <text>For legislative history of D.C. Law 5-156, see Historical and Statutory Notes following § 7-1901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-67</heading>
+      <text>For Law 16-67, see notes following § 7-1901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 7-161.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Delayed application of Law 5-156: See Historical and Statutory Notes following § 7-1901.</text>
     </level>
   </level>
 </level>

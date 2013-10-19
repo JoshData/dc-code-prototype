@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>6</num>
-  <heading>Tax Assessor.</heading>
+  <heading>Tax Assessor</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-601.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-602.xml"/>
 </level>

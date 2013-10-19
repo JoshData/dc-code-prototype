@@ -1,51 +1,43 @@
 <level type="section">
   <num>14-309</num>
   <heading>Clergy.</heading>
-  <formerly-cited-as>DC ST 1981 § 14-309</formerly-cited-as>
-  <text>A priest, clergyman, rabbi, or other duly licensed, ordained, or consecrated minister of a religion authorized to perform a marriage ceremony in the District of Columbia or duly accredited practitioner of Christian Science may not be examined in any civil or criminal proceedings in the Federal courts in the District of Columbia and District of Columbia courts with respect to any --</text>
+  <text>A priest, clergyman, rabbi, or other duly licensed, ordained, or consecrated minister of a religion authorized to perform a marriage ceremony in the District of Columbia or duly accredited practitioner of Christian Science may not be examined in any civil or criminal proceedings in the Federal courts in the District of Columbia and District of Columbia courts with respect to any -</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>confession, or communication, made to him, in his professional capacity in the course of discipline enjoined by the church or other religious body to which he belongs, without the consent of the person making the confession or communication; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>communication made to him, in his professional capacity in the course of giving religious or spiritual advice, without the consent of the person seeking the advice; or</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <level>
-        <num>(A)</num>
-        <text>communication made to him, in his professional capacity, by either spouse or domestic partner, in connection with an effort to reconcile estranged spouses or domestic partners, without the consent of the spouse or domestic partner making the communication.</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>for the purposes of this paragraph, the term "domestic partner" shall have the same meaning as provided in § 32-701(3).</text>
-      </level>
-    </level>
+    <num>(1)</num>
+    <text>confession, or communication, made to him, in his professional capacity in the course of discipline enjoined by the church or other religious body to which he belongs, without the consent of the person making the confession or communication; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>communication made to him, in his professional capacity in the course of giving religious or spiritual advice, without the consent of the person seeking the advice; or</text>
+  </level>
+  <level>
+    <num>(3)</num>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>communication made to him, in his professional capacity, by either spouse or domestic partner, in connection with an effort to reconcile estranged spouses or domestic partners, without the consent of the spouse or domestic partner making the communication.</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>for the purposes of this paragraph, the term "domestic partner" shall have the same meaning as provided in § 32-701(3).</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, 77 Stat. 520, Pub. L. 88-241, § 1; July 29, 1970, 84 Stat. 553, Pub. L. 91-358, title I, § 143(4); Apr. 4, 2006, D.C. Law 16-79, § 2(c), 53 DCR 1035.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 14-309.</text>
-        <text>1973 Ed., § 14-309.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-79 rewrote par. (3) which had read as follows:</text>
-        <text>"(3) communication made to him, in his professional capacity, by either spouse, in connection with an effort to reconcile estranged spouses, without the consent of the spouse making the communication."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-79, see notes following § 14-306.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 14-309.</text>
+      <text>1973 Ed., § 14-309.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-79 rewrote par. (3) which had read as follows: "(3) communication made to him, in his professional capacity, by either spouse, in connection with an effort to reconcile estranged spouses, without the consent of the spouse making the communication."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-79</heading>
+      <text>For Law 16-79, see notes following § 14-306.</text>
     </level>
   </level>
 </level>

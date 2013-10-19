@@ -2,23 +2,19 @@
   <num>6-224</num>
   <heading>Disposition of assets on dissolution.</heading>
   <text>If the Authority is dissolved by repeal of this chapter or ceases to exist for any other reason, all of its assets (including cash, accounts receivable, reserve funds, real or personal property, and contract and other rights) shall become the property of the District. In such event, no funds in the Fund shall be deposited into any District fund or account without the prior written approval of HUD; provided, that in the event of such approval, all such funds shall be deposited and maintained in an account or accounts separate from the General Fund of the District.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 9, 2000, D.C. Law 13-105, § 25, 47 DCR 1325.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) addition of section, see § 24 of the District of Columbia Housing Authority Emergency Act of 1999 (D.C. Act 13-259, February 9, 2000, 47 DCR 1129).</text>
-        <text>For temporary (90-day) addition of section, see § 24 of the District of Columbia Housing Authority Congressional Review Emergency Act of 2000 (D.C. Act 13-346, June 5, 2000, 47 DCR 4980).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-105, see notes following § 6-201.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) addition of section, see § 24 of the District of Columbia Housing Authority Emergency Act of 1999 (D.C. Act 13-259, February 9, 2000, 47 DCR 1129).</text>
+      <text>For temporary (90-day) addition of section, see § 24 of the District of Columbia Housing Authority Congressional Review Emergency Act of 2000 (D.C. Act 13-346, June 5, 2000, 47 DCR 4980).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-105</heading>
+      <text>For Law 13-105, see notes following § 6-201.</text>
     </level>
   </level>
 </level>

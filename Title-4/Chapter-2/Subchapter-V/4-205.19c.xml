@@ -1,10 +1,9 @@
 <level type="section">
   <num>4-205.19c</num>
   <heading>Failure to comply with job search and job readiness requirements for TANF applicants.</heading>
-  <formerly-cited-as>DC ST 1981 § 3-205.19c</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>If a TANF applicant who is not exempt pursuant to § 4-205.19g(a) fails, without good cause, to participate in work activities pursuant to § 4- 205.19b, the failure shall result in a sanction pursuant to § 4-205.19f.</text>
+    <text>If a TANF applicant who is not exempt pursuant to § 4-205.19g(a) fails, without good cause, to participate in work activities pursuant to § 4-205.19b, the failure shall result in a sanction pursuant to § 4-205.19f.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -45,33 +44,36 @@
     <num>(f)</num>
     <text>Notwithstanding subsection (c), (d), or (e) of this section, the Mayor may sanction a TANF applicant if the applicant quits paid employment without good cause or voluntarily reduces income without good cause within 60 days before the determination of eligibility for TANF.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 6, 1982, D.C. Law 4-101, § 519c, as added Apr. 20, 1999, D.C. Law 12-241, § 2(w), 46 DCR 905; Apr. 8, 2011, D.C. Law 18-366, § 2(b), 58 DCR 981.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 3-205.19c.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-366 substituted "in work activities" for "in job search or job readiness activities".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (225 day) addition of section, see § 2(i) of Public Assistance Temporary Amendment Act of 1997 (D.C. Law 12-7, August 1, 1997, law notification 44 DCR 4639).</text>
-        <text>For temporary (225 day) addition of section, see § 2(i) of Public Assistance Temporary Amendment Act of 1998 (D.C. Law 12-130, July 24, 1998, law notification 45 DCR 6501).</text>
-        <text>For temporary (225 day) addition of section, see § 2(w) of Public Assistance Temporary Amendment Act of 1998 (D.C. Law 12-130, July 24, 1998, law notification 45 DCR 6501).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-241, see Historical and Statutory Notes following § 4-201.01.</text>
-        <text>For history of Law 18-366, see notes under § 4-205.19b.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-205.19a and § 4-205.19m.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 3-205.19c.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-366 substituted "in work activities" for "in job search or job readiness activities".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (225 day) addition of section, see § 2(i) of Public Assistance Temporary Amendment Act of 1997 (D.C. Law 12-7, August 1, 1997, law notification 44 DCR 4639).</text>
+      <text>For temporary (225 day) addition of section, see § 2(i) of Public Assistance Temporary Amendment Act of 1998 (D.C. Law 12-130, July 24, 1998, law notification 45 DCR 6501).</text>
+      <text>For temporary (225 day) addition of section, see § 2(w) of Public Assistance Temporary Amendment Act of 1998 (D.C. Law 12-130, July 24, 1998, law notification 45 DCR 6501).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-241</heading>
+      <text>For legislative history of D.C. Law 12-241, see Historical and Statutory Notes following § 4-201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-366</heading>
+      <text>For history of Law 18-366, see notes under § 4-205.19b.</text>
     </level>
   </level>
 </level>

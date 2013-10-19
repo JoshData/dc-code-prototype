@@ -2,22 +2,18 @@
   <num>22-4232</num>
   <heading>Establishment of the Criminal Justice Coordinating Council.</heading>
   <text>There is established as an independent agency within the District of Columbia government the Criminal Justice Coordinating Council.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 3, 2001, D.C. Law 14-28, § 1503, 48 DCR 6981.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 1403 of Fiscal Year 2002 Budget Support Emergency Act of 2001 (D.C. Act 14-124, August 3, 2001, 48 DCR 7861).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-28, see notes following § 22-4231.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 1403 of Fiscal Year 2002 Budget Support Emergency Act of 2001 (D.C. Act 14-124, August 3, 2001, 48 DCR 7861).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-28</heading>
+      <text>For Law 14-28, see notes following § 22-4231.</text>
     </level>
   </level>
 </level>

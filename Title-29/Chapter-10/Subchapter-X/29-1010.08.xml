@@ -3,44 +3,53 @@
   <heading>Liability for improper distributions; limitation of action.</heading>
   <level>
     <num>(a)</num>
-    <text>A director who consents to a distribution that violates § 29-1010.07 shall be personally liable to the limited cooperative association for the amount of the distribution which exceeds the amount that could have been distributed without the violation if it is established that, in consenting to the distribution, the director failed to comply with § 29-1008.18 or § 29-1008.19.</text>
+    <text>Except as otherwise provided in subsection (b) of this section, if a director of a limited cooperative association consents to a distribution made in violation of § 29-1010.07 and in consenting to the distribution fails to comply with § 29-1008.18, the director is personally liable to the association for the amount of the distribution that exceeds the amount which could have been distributed without violating § 29-1010.07.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>A member or transferee of financial rights which received a distribution knowing that the distribution was made in violation of § 29-1010.07 shall be personally liable to the limited cooperative association to the extent the distribution exceeded the amount that could have been properly paid.</text>
+    <text>A person that receives a distribution knowing that the distribution was made in violation of § 29-1010.07 shall be personally liable to the limited cooperative association to the extent the distribution exceeded the amount that could have been properly paid.</text>
   </level>
   <level>
     <num>(c)</num>
     <text>A director against whom an action is commenced under subsection (a) of this section may implead in the action any:</text>
     <level>
       <num>(1)</num>
-      <text>Other director who is liable under subsection (a) of this section and implead in the action any compel contribution from the person; and</text>
+      <text>Other person who is liable under subsection (a) of this section and seek to enforce a right of contribution from the person; and</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Person that is liable under subsection (b) of this section and compel contribution from the person in the amount the person received as described in subsection (b) of this section.</text>
+      <text>Person that receives a distribution in violation of subsection (b) of this section and may seek to enforce a right of contribution from the person in the amount the person received in violation [of] subsection (b) of this section.</text>
     </level>
   </level>
   <level>
     <num>(d)</num>
     <text>An action under this section shall be barred if it is commenced later than 2 years after the distribution.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(6)(B), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 1008 of the Uniform Limited Cooperative Association Act . See Vol. 6A , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-1001.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 rewrote (a); substituted "person that receives" for "member or transferee of financial rights which received" in (b); and rewrote (c).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-1001.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 1008 of the Uniform Limited Cooperative Association Act.</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

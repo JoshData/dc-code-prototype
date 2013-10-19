@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-1523</num>
   <heading>Reporting requirement; valuation of property.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-1523</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The full and true value and the current value of tangible personal property, including taxable leasehold improvements, having a taxable situs in the District shall be reported on the return. The full and true value shall be the original costs of the tangible personal property in an arms-length transaction, computed as of July 1st of the tax year. The current value of the tangible personal property shall be the full and true value less a reasonable allowance for straight line depreciation in accordance with rules promulgated by the Mayor and the provisions under subsections (b), (c), (d), and (e) of this section. Tangible personal property items with a useful life of one year or less shall be reported at cost. No proration of value shall be permitted in anticipation of the disposition of an item of tangible personal property. In no event shall the current value reported be less than 25% of the original cost or exchange value of the tangible personal property, except as permitted under subsection (b) of this section.</text>
@@ -58,31 +57,30 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 28, 1987, D.C. Law 6-212, § 4, 34 DCR 850; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Oct. 20, 1999, D.C. Law 13-38, § 2702(e), 46 DCR 6373.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-1523.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-38 rewrote this section adding thereto provisions comprising the exception at the end of subsec. (a) and added the provisions contained in subsecs. (b) through (e).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) amendment of section, see §§ 2702(e) and 2703(b) of the Service Improvement and Fiscal Year 2000 Budget Support Emergency Act of 1999 (D.C. Act 13-110, July 28, 1999, 46 DCR 6320).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-212, see Historical and Statutory Notes following § 47-1521.</text>
-        <text>For Law 13-38, see notes following § 47-1522.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-1523.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-38 rewrote this section adding thereto provisions comprising the exception at the end of subsec. (a) and added the provisions contained in subsecs. (b) through (e).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) amendment of section, see §§ 2702(e) and 2703(b) of the Service Improvement and Fiscal Year 2000 Budget Support Emergency Act of 1999 (D.C. Act 13-110, July 28, 1999, 46 DCR 6320).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-212</heading>
+      <text>For legislative history of D.C. Law 6-212, see Historical and Statutory Notes following § 47-1521.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-38</heading>
+      <text>For Law 13-38, see notes following § 47-1522.</text>
     </level>
   </level>
 </level>

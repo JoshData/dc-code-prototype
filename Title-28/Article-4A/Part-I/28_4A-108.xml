@@ -1,0 +1,46 @@
+<level type="section">
+  <num>28:4A-108</num>
+  <heading>Relationship to Electronic Fund Transfers Act.</heading>
+  <level>
+    <num>(a)</num>
+    <text>Except as otherwise provided in subsection (b) of this section, this article does not apply to a funds transfer any part of which is governed by the Electronic Fund Transfer Act, approved November 10, 1978 (92 Stat. 3728; 15 U.S.C. § 1693 et seq.).</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>This article applies to a funds transfer that is a remittance transfer as defined in section 919(g)(2) of the Electronic Fund Transfer Act, approved July 21, 2010 (124 Stat. 2065; 15 U.S.C. § 1693o-1(g)(2)), unless the remittance transfer is an electronic fund transfer as defined in section 903(7) of the Electronic Fund Transfer Act, approved November 10, 1978 (92 Stat. 3728; 15 U.S.C. § 1693a(7)).</text>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>In the event of an inconsistency between a provision of this article and the Electronic Fund Transfer Act, the Electronic Fund Transfer Act governs to the extent of the inconsistency.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Apr. 30, 1992, D.C. Law 9-95, § 2(c), 39 DCR 1595; Apr. 27, 2013, D.C. Law 19-299, § 7(c), 60 DCR 2634.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28:4A-102.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28:4A-108.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-299 rewrote the section, which read: "This article does not apply to a funds transfer any part of which is governed by the Electronic Fund Transfer Act of 1978 (title XX, Public Law 95-630, 92 Stat. 3728, 15 U.S.C. § 1693 et seq.) as amended from time to time."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-95</heading>
+      <text>For legislative history of D.C. Law 9-95, see Historical and Statutory Notes following § 28:4A-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-299</heading>
+      <text>See note to § 28:4A-105.</text>
+    </level>
+    <level>
+      <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
+      <text>The Electronic Fund Transfer Act of 1978 is a federal statute that covers a wide variety of electronic funds transfers involving consumers. The types of transfers covered by the federal statute are essentially different from the wholesale wire transfers that are the primary focus of Article 4A. Section 4A-108 excludes a funds transfer from Article 4A if any part of the transfer is covered by the federal law. Existing procedures designed to comply with federal law will not be affected by Article 4A. The effect of Section 4A-108 is to make Article 4A and EFTA mutually exclusive. For example, if a funds transfer is to a consumer account in the beneficiary's bank and the funds transfer is made in part by use of Fedwire and in part by means of an automated clearing house, EFTA applies to the ACH part of the transfer but not to the Fedwire part. Under Section 4A-108, Article 4A does not apply to any part of the transfer. However, in the absence of any law to govern the part of the funds transfer that is not subject to EFTA, a court might apply appropriate principles from Article 4A by analogy.</text>
+    </level>
+  </level>
+</level>

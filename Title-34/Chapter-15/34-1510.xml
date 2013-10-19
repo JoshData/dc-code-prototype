@@ -1,6 +1,6 @@
 <level type="section">
   <num>34-1510</num>
-  <heading>Transition costs, transition benefits</heading>
+  <heading>Transition costs, transition benefits.</heading>
   <level>
     <num>(a)</num>
     <text>The electric company shall be provided an opportunity to recover all of its prudently incurred and verifiable net transition costs, subject to full mitigation, following the Commission's determination under subsection (b) of this section. In connection with the foregoing:</text>
@@ -108,18 +108,18 @@
     <num>(c)</num>
     <text>The Commission shall establish procedures for an annual review of actual market conditions to determine if the authorized competitive transition charge is overcompensating or undercompensating the electric company for the transition costs established under subsection (b)(3) of this section. If an annual review demonstrates that the authorized competitive transition charge is overcompensating or undercompensating the electric company for the transition costs established under subsection (b)(3) of this section, the Commission shall adjust the competitive transition charge accordingly.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 9, 2000, D.C. Law 13-107, § 110, 47 DCR 1091.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-107, see notes following § 34-1501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 34-1501 and § 34-1511.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-107</heading>
+      <text>For Law 13-107, see notes following § 34-1501.</text>
     </level>
   </level>
 </level>

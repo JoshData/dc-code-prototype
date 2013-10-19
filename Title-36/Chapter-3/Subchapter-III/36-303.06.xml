@@ -1,7 +1,6 @@
 <level type="section">
   <num>36-303.06</num>
   <heading>Civil actions.</heading>
-  <formerly-cited-as>DC ST 1981 § 10-226</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -45,23 +44,19 @@
     <num>(c)</num>
     <text>A civil action brought by a retail dealer against a distributor pursuant to this section shall be commenced within 2 years after such cause of action arose.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 19, 1977, D.C. Law 1-123, § 4-206, 24 DCR 2371.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 10-226.</text>
-        <text>1973 Ed., § 10-226.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-123, see Historical and Statutory Notes following § 36-301.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 10-226.</text>
+      <text>1973 Ed., § 10-226.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-123</heading>
+      <text>For legislative history of D.C. Law 1-123, see Historical and Statutory Notes following § 36-301.01.</text>
     </level>
   </level>
 </level>

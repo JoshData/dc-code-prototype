@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>10</num>
-  <heading>Money Transmissions.</heading>
+  <heading>Money Transmissions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1001.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1002.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-1003.xml"/>

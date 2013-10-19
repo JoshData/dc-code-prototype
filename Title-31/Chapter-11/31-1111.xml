@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1111</num>
   <heading>Cancellation of insurance contracts.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1561</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>When a premium finance agreement contains a power of attorney enabling the premium finance company to cancel any insurance contract or contracts listed in the agreement, the insurance contract or contracts shall not be canceled by the premium finance company unless such cancellation is effectuated in accordance with this section.</text>
@@ -30,23 +29,19 @@
     <num>(g)</num>
     <text>When a default results in the cancellation of an insurance contract listed in the premium finance agreement, the premium finance agreement may provide for the payment by the insured of a cancellation charge equal to the difference between any delinquent charge imposed in respect of the installment or installments in default and $10; provided, however, that should the cancellation notice be withdrawn prior to its effective date and the insurance coverage reinstated, the agreement may provide for payment by the insured of a reinstatement charge equal to the cancellation charge herein provided.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 9, 1940, ch. 792, ch. III, § 61; Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1; Nov. 15, 1983, D.C. Law 5-40, § 2(c), 30 DCR 4994.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1561.</text>
-        <text>1973 Ed., § 35-1371.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-40, see Historical and Statutory Notes following § 31-1109.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1561.</text>
+      <text>1973 Ed., § 35-1371.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-40</heading>
+      <text>For legislative history of D.C. Law 5-40, see Historical and Statutory Notes following § 31-1109.</text>
     </level>
   </level>
 </level>

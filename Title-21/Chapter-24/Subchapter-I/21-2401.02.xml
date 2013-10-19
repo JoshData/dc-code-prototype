@@ -3,83 +3,77 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>"Adult" means an individual who has attained 18 years of age.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>"Conservator" means a person appointed by the court to administer the property of an adult, including a person appointed under §§ 21-2001 to 21-2077.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Guardian" means a person appointed by the court to make decisions regarding the person of an adult, including a person appointed under §§ 21- 2001 to 21-2077.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Guardianship order" means an order appointing a guardian.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Guardianship proceeding" means a judicial proceeding in which an order for the appointment of a guardian is sought or has been issued.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Incapacitated person" means an adult for whom a guardian has been appointed.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"Party" means the respondent, petitioner, guardian, conservator, or any other person allowed by the court to participate in a guardianship or protective proceeding.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Person," except in the term "incapacitated person" or "protected person", means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Protected person" means an adult for whom a protective order has been issued.</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Protective order" means an order appointing a conservator or other order related to management of an adult's property.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>"Protective proceeding" means a judicial proceeding in which a protective order is sought or has been issued.</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>"Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>"Respondent" means an adult for whom a protective order or the appointment of a guardian is sought.</text>
-    </level>
-    <level>
-      <num>(14)</num>
-      <text>"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, a federally recognized Indian tribe, or any territory or insular possession subject to the jurisdiction of the United States.</text>
-    </level>
-    <level>
-      <num>(15)</num>
-      <text>"Superior Court" means the Superior Court of the District of Columbia.</text>
-    </level>
+    <num>(1)</num>
+    <text>"Adult" means an individual who has attained 18 years of age.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Conservator" means a person appointed by the court to administer the property of an adult, including a person appointed under §§ 21-2001 to 21-2077.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Guardian" means a person appointed by the court to make decisions regarding the person of an adult, including a person appointed under §§ 21-2001 to 21-2077.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Guardianship order" means an order appointing a guardian.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Guardianship proceeding" means a judicial proceeding in which an order for the appointment of a guardian is sought or has been issued.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Incapacitated person" means an adult for whom a guardian has been appointed.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Party" means the respondent, petitioner, guardian, conservator, or any other person allowed by the court to participate in a guardianship or protective proceeding.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Person," except in the term "incapacitated person" or "protected person", means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Protected person" means an adult for whom a protective order has been issued.</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"Protective order" means an order appointing a conservator or other order related to management of an adult's property.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>"Protective proceeding" means a judicial proceeding in which a protective order is sought or has been issued.</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>"Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>"Respondent" means an adult for whom a protective order or the appointment of a guardian is sought.</text>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, a federally recognized Indian tribe, or any territory or insular possession subject to the jurisdiction of the United States.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>"Superior Court" means the Superior Court of the District of Columbia.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Nov. 25, 2008, D.C. Law 17-270, § 2(b), 55 DCR 11018.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-270, see notes following § 21-2401.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 102 of the Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act. See Vol. 8A, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 17-270</heading>
+      <text>For Law 17-270, see notes following § 21-2401.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 102 of the Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act.</text>
     </level>
   </level>
 </level>

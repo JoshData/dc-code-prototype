@@ -1,38 +1,31 @@
 <level type="section">
   <num>48-902.07</num>
   <heading>Schedule III tests.</heading>
-  <formerly-cited-as>DC ST 1981 § 33-517</formerly-cited-as>
   <text>The Mayor shall place a substance in Schedule III if the Mayor finds that:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The substance has a potential for abuse less than the substances listed in Schedules I and II;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The substance has currently accepted medical use in treatment in the United States or the District of Columbia; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The abuse of the substance may lead to moderate or low physical dependence or high psychological dependence.</text>
-    </level>
+    <num>(1)</num>
+    <text>The substance has a potential for abuse less than the substances listed in Schedules I and II;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The substance has currently accepted medical use in treatment in the United States or the District of Columbia; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The abuse of the substance may lead to moderate or low physical dependence or high psychological dependence.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 5, 1981, D.C. Law 4-29, § 207, 28 DCR 3081.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 33-517.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-29, see Historical and Statutory Notes following § 48-901.02.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 33-517.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-29</heading>
+      <text>For legislative history of D.C. Law 4-29, see Historical and Statutory Notes following § 48-901.02.</text>
     </level>
   </level>
 </level>

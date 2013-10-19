@@ -1,10 +1,9 @@
 <level type="section">
   <num>47-2885.20</num>
   <heading>Penalties; prosecutions; injunction.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-2020</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>Any person who violates any provision of this part shall be guilty of a misdemeanor and shall be punished by a fine of not more than $500 or by imprisonment for not more than 6 months or both for each violation.</text>
+    <text>Any person who violates any provision of this part shall be guilty of a misdemeanor and shall be punished by a fine of not more than the amount set forth in [§ 22-3571.01] or by imprisonment for not more than 6 months or both for each violation.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -18,30 +17,44 @@
     <num>(d)</num>
     <text>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this part, or any rules or regulations issued under the authority of this part, pursuant to Chapter 18 of Title 2. Adjudication of any infraction of this chapter shall be pursuant to Chapter 18 of Title 2.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 16, 1980, D.C. Law 3-98, § 21, 27 DCR 3528; Oct. 5, 1985, D.C. Law 6-42, § 409, 32 DCR 4450; Apr. 13, 2005, D.C. Law 15-354, § 75(a), 52 DCR 2638; Sept. 26, 2012, D.C. Law 19-171, § 302(b), 59 DCR 6190.)</text>
+      <heading>History</heading>
+      <text>(Sept. 16, 1980, D.C. Law 3-98, § 21, 27 DCR 3528; Oct. 5, 1985, D.C. Law 6-42, § 409, 32 DCR 4450; Apr. 13, 2005, D.C. Law 15-354, § 75(a), 52 DCR 2638; Sept. 26, 2012, D.C. Law 19-171, § 302, 59 DCR 6190; June 11, 2013, D.C. Law 19-317, § 286(w), 60 DCR 2064.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-2020.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-354 substituted "Attorney General for the District of Columbia" for "Corporation Counsel".</text>
-        <text>D.C. Law 19-171 enacted into law Part C of subchapter IV of Chapter 28 of Title 47.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-98, see Historical and Statutory Notes following § 47-2885.01.</text>
-        <text>Law 6-42, the "Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985," was introduced in Council and assigned Bill No. 6-187, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on June 25, 1985, and July 9, 1985, respectively. Signed by the Mayor on July 16, 1985, it was assigned Act No. 6- 60 and transmitted to both Houses of Congress for its review.</text>
-        <text>For Law 15-354, see notes following § 47-340.03.</text>
-        <text>For history of Law 19-171, see notes under § 47-2885.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-2020.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-354 substituted "Attorney General for the District of Columbia" for "Corporation Counsel".</text>
+      <text>D.C. Law 19-171 enacted this subchapter into law.</text>
+      <text>The 2013 amendment by D.C. Law 19-317 substituted "not more than the amount set forth in [§ 22-3571.01]" for "not more than $500" in (a).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-98</heading>
+      <text>For legislative history of D.C. Law 3-98, see Historical and Statutory Notes following § 47-2885.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-42</heading>
+      <text>Law 6-42, the "Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985," was introduced in Council and assigned Bill No. 6-187, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on June 25, 1985, and July 9, 1985, respectively. Signed by the Mayor on July 16, 1985, it was assigned Act No. 6-60 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 47-340.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 47-2881.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-317</heading>
+      <text>See note to § 47-2808.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
     </level>
   </level>
 </level>

@@ -30,11 +30,15 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Any premises other than the licensed establishment which are located within a C-1, C-2, C-3, C-4, C-M, or M zone, as defined in the zoning regulations for the District; or</text>
+      <text>Any premises other than the licensed establishment which are located within a C-1, C-2, C-3, C-4, C-M, or M zone, as defined in the zoning regulations for the District;</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>Sounds, noises, or music occasioned by normal opening of entrance and exit doors for the purpose of ingress and egress.</text>
+      <text>Sounds, noises, or music occasioned by normal opening of entrance and exit doors for the purpose of ingress and egress; or</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Heating, ventilation, and air conditioning devices.</text>
     </level>
   </level>
   <level>
@@ -42,18 +46,72 @@
     <text>The licensees under this subchapter shall comply with the noise level requirements set forth in Chapter 27 of Title 20 of the District of Columbia Municipal Regulations.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(d)</num>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959.)</text>
+      <num>(1)</num>
+      <text>ABRA shall maintain a complaint program to receive noise complaints by phone, email, and fax. The complaint program shall be staffed by an ABRA employee until at least one hour after the end time for the legal sale of alcoholic beverages as set forth in § 25-723.</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <text>D.C. Law 13-298 amended and enacted into law Title 25 of the District of Columbia Official Code.</text>
+      <num>(2)</num>
+      <text>ABRA shall keep records regarding noise complaints and record the following information at the time the complaint is made:</text>
       <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-298, see notes following § 25-101.</text>
+        <num>(A)</num>
+        <text>The time and date of the complaint;</text>
       </level>
+      <level>
+        <num>(B)</num>
+        <text>The name and address of the establishment that is the subject of the complaint;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The name and address of the complainant, if available;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>The nature of the noise complaint; and</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>Whether the complaint was substantiated by ABRA.</text>
+      </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Upon receipt of a noise complaint, ABRA shall attempt to contact the establishment by phone or in person and inform the ABC manager on-duty that a noise complaint has been received and describe the nature of the complaint.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>ABRA shall notify the licensee of the complaint by e-mail, phone, or registered mail within 72 hours of receiving the complaint. ABRA shall notify the licensee of the results of any investigation that may result in a show cause hearing within 90 days as required by § 25-832.</text>
+    </level>
+  </level>
+  <level>
+    <num>(e)</num>
+    <text>The windows and doors of an establishment from which noise can be heard shall remain open or closed, as they were at the time the complaint was made, in order for an ABRA investigator or Metropolitan Police Department officer to determine whether a violation of subsection (a) of this section exists. The ABRA investigator shall have the authority to direct that windows and doors be closed or opened.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959; May 1, 2013, D.C. Law 19-310, § 2(bb), 60 DCR 3410.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 25-123 and § 25-313.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-310 added (b)(5), (d) and (e); and made related changes.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of (b), and addition of (d) and (e), see § 2(bb) of the Omnibus Alcoholic Beverage Regulation Emergency Amendment Act of 2012 (D.C. Act 19-597, January 14, 2013, 60 DCR 1001).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-298</heading>
+      <text>For D.C. Law 13-298, see notes following § 25-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-310</heading>
+      <text>See note to § 25-101.</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>12</num>
-  <heading>Notaries Public.</heading>
-  <level>
-    <text>DC CODE D. I, T. 1, Ch. 12, Refs &amp; Annos</text>
-  </level>
+  <heading>Notaries Public</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-1201.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-1202.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-1203.xml"/>

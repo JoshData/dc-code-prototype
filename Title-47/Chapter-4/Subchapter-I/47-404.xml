@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-404</num>
   <heading>Account books of Collector.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-404</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>It shall be the duty of the Collector to keep in his office account books, in which shall be entered:</text>
@@ -34,23 +33,19 @@
     <num>(b)</num>
     <text>His books shall at all times be open to the inspection of any officer who may be authorized by the Mayor of the District of Columbia to examine the same.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Leg. Assem., Aug. 23, 1871, ch. 108, § 1; June 20, 1874, 18 Stat. 116, ch. 337, § 2; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-404.</text>
-        <text>1973 Ed., § 47-305.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Office of Collector of Taxes abolished: See Historical and Statutory Notes following § 47-401.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-404.</text>
+      <text>1973 Ed., § 47-305.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Office of Collector of Taxes abolished: See Historical and Statutory Notes following § 47-401.</text>
     </level>
   </level>
 </level>

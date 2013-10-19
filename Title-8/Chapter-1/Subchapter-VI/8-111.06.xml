@@ -1,42 +1,35 @@
 <level type="section">
   <num>8-111.06</num>
   <heading>Reprimands; suspensions; revocations.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-991.6</formerly-cited-as>
   <text>The Mayor may reprimand an asbestos worker or business entity or suspend or revoke the license or permit of an asbestos worker or business entity, pursuant to § 2-509, if the asbestos worker or business entity:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Attempts to remove or encapsulate asbestos or material that contains asbestos without a license or permit required under this subchapter;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Fraudulently or deceptively obtains or attempts to obtain a license or permit;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Violates any provision of this subchapter or any rule promulgated pursuant to this subchapter; or</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Fails to meet any applicable federal or District standard for asbestos abatement.</text>
-    </level>
+    <num>(1)</num>
+    <text>Attempts to remove or encapsulate asbestos or material that contains asbestos without a license or permit required under this subchapter;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Fraudulently or deceptively obtains or attempts to obtain a license or permit;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Violates any provision of this subchapter or any rule promulgated pursuant to this subchapter; or</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Fails to meet any applicable federal or District standard for asbestos abatement.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 1, 1990, D.C. Law 8-116, § 7, 37 DCR 1641.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-991.6.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-116, see Historical and Statutory Notes following § 8-111.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-991.6.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-116</heading>
+      <text>For legislative history of D.C. Law 8-116, see Historical and Statutory Notes following § 8-111.01.</text>
     </level>
   </level>
 </level>

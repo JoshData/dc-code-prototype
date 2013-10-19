@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-2002</num>
   <heading>RBC Reports.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-4602</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Every domestic insurer shall, on or prior to each March 1 ("filing date"), prepare and submit to the Commissioner a report of its RBC Levels as of the end of the calendar year just ended, in a form and containing such information as is required by the RBC Instructions. In addition, every domestic insurer shall file its RBC Report:</text>
@@ -78,22 +77,22 @@
     <num>(g)</num>
     <text>If a domestic insurer files an RBC Report which in the judgment of the Commissioner is inaccurate, then the Commissioner shall adjust the RBC Report to correct the inaccuracy and shall notify the insurer of the adjustment. The notice shall contain a statement of the reason for the adjustment.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 9, 1997, D.C. Law 11-233, § 3, 44 DCR 765.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-4602.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-233, see Historical and Statutory Notes following § 31-2001.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-2001, § 31-2010, and § 31-3931.22.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-4602.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-233</heading>
+      <text>For legislative history of D.C. Law 11-233, see Historical and Statutory Notes following § 31-2001.</text>
     </level>
   </level>
 </level>

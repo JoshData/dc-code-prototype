@@ -1,43 +1,40 @@
 <level type="section">
   <num>11-709</num>
   <heading>Reports.</heading>
-  <formerly-cited-as>DC ST 1981 § 11-709</formerly-cited-as>
   <text>Each judge shall submit to the chief judge such reports and data as the chief judge may request. Each judge shall submit a monthly written report to the chief judge and the Commission on Judicial Disabilities and Tenure which shall be in a form prescribed by the chief judge after consultation with the Commission and which shall set forth the following:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The number of days' attendance in court of the judge during the month covered.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The division of the court which the judge attended.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The number of hours per day of the judge's attendance.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The number and type of matters disposed of by the judge during the month covered.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Such other data as the chief judge may require.</text>
-    </level>
+    <num>(1)</num>
+    <text>The number of days' attendance in court of the judge during the month covered.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The division of the court which the judge attended.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The number of hours per day of the judge's attendance.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The number and type of matters disposed of by the judge during the month covered.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Such other data as the chief judge may require.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 480, Pub. L. 91-358, title I, § 111; June 13, 1994, Pub. L. 103-266, §§ 1(b)(5), (6), 108 Stat. 713.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 11-709.</text>
-        <text>1973 Ed., § 11-709.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 11-1730.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 11-709.</text>
+      <text>1973 Ed., § 11-709.</text>
     </level>
   </level>
 </level>

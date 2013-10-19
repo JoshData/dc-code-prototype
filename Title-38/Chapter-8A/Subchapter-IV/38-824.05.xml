@@ -3,27 +3,21 @@
   <heading>Mandatory reporting.</heading>
   <text>Beginning in 2011, on or before September 30 of each year, the Office of the State Superintendent of Education shall report to the Mayor, the Council, and the Healthy Schools and Youth Commission annually regarding:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Compliance of public schools and public charter schools with the physical and health education requirements in this subchapter; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Student achievement with respect to health and physical education standards.</text>
-    </level>
+    <num>(1)</num>
+    <text>Compliance of public schools and public charter schools with the physical and health education requirements in this subchapter; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Student achievement with respect to health and physical education standards.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 27, 2010, D.C. Law 18-209, § 405, 57 DCR 4779.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-209, see notes following § 38-821.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-209</heading>
+      <text>For Law 18-209, see notes following § 38-821.01.</text>
     </level>
   </level>
 </level>

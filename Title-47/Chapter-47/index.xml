@@ -1,8 +1,12 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>47</num>
-  <heading>Exemptions and Abatements Approval Requirements.</heading>
+  <heading>Exemptions and Abatements Approval Requirements</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-4701.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-4702.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-4703.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-4656~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-4657~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-4658~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-4659~P.xml"/>
 </level>

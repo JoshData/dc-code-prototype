@@ -2,26 +2,22 @@
   <num>5-1414</num>
   <heading>Autopsies performed under court order.</heading>
   <text>In the case of unexplained, sudden, violent, or suspicious death, when the body is buried without investigation, or there has been an inadequate investigation, the United States Attorney, on his or her own motion, or on request of a medical examiner, or the Metropolitan Police Department, or other law enforcement agency, may petition the appropriate court for an order to conduct an inquiry. The court may order the body exhumed and an autopsy performed. In such cases, records and reports shall be filed as if the autopsy were performed prior to burial; except that, a copy of the report shall be furnished directly to the court.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 19, 2000, D.C. Law 13-172, § 2915, 47 DCR 6308.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 11-2311.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 2915 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-172, see notes following § 5-1401.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 11-2311.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 2915 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-172</heading>
+      <text>For Law 13-172, see notes following § 5-1401.</text>
     </level>
   </level>
 </level>

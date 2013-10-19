@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>6</num>
-  <heading>Rules of Construction.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 45, Ch. 6, Refs &amp; Annos</text>
-  </level>
+  <heading>Rules of Construction</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="45-601.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="45-602.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="45-603.xml"/>

@@ -80,18 +80,18 @@
       <text>An insurer that is a SOX Compliant Entity or a direct or indirect wholly-owned subsidiary of a SOX Compliant Entity.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 21, 1993, D.C. Law 10-48, § 12a, as added Mar. 12, 2011, D.C. Law 18-317, § 2(j), 57 DCR 12418.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-317, see notes under § 31-301.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-301, § 31-302, and § 31-312.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-317</heading>
+      <text>For history of Law 18-317, see notes under § 31-301.</text>
     </level>
   </level>
 </level>

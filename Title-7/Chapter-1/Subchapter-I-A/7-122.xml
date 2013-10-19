@@ -41,18 +41,18 @@
     <num>(b)</num>
     <text>The Mayor's Council may solicit and receive contributions to support the purposes of this subchapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 2, 2011, D.C. Law 19-58, § 3, 58 DCR 8969.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-58, see notes under § 7-121.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-124.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-58</heading>
+      <text>For history of Law 19-58, see notes under § 7-121.</text>
     </level>
   </level>
 </level>

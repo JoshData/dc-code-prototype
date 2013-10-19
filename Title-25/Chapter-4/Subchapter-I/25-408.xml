@@ -3,32 +3,25 @@
   <heading>Application for a tasting permit for a class A licensee.</heading>
   <text>The application for issuance or renewal of a tasting permit for off-premises retailer's license, class A, shall include:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>A copy of the applicant's off-premises's retailers license, class A;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Drawings of the premises indicating the areas where sampling is to occur; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The hours and days during which the tasting is to occur.</text>
-    </level>
+    <num>(1)</num>
+    <text>A copy of the applicant's off-premises's retailers license, class A;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Drawings of the premises indicating the areas where sampling is to occur; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The hours and days during which the tasting is to occur.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <text>D.C. Law 13-298 amended and enacted into law Title 25 of the District of Columbia Official Code.</text>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-298, see notes following § 25-101.</text>
-      </level>
+      <heading>Legislative History of Law 13-298</heading>
+      <text>For D.C. Law 13-298, see notes following § 25-101.</text>
     </level>
   </level>
 </level>

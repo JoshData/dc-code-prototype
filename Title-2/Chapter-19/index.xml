@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>19</num>
-  <heading>Government Language Accessibility.</heading>
-  <level>
-    <text>DC CODE D. I, T. 2, Ch. 19, Refs &amp; Annos</text>
-  </level>
+  <heading>Government Language Accessibility</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
 </level>

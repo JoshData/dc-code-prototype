@@ -35,7 +35,7 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>The Commissioner may suspend a universal bank's authority under § 26- 1401.09(a)(2) or (3) if the Commissioner determines that the universal bank is not exercising, or will not exercise, authority under § 26-1401.09(a)(2) or (3) in a safe and sound manner or that the condition of the universal bank is not, or will not be, safe and sound. In making a determination to suspend a universal bank's authority under this subsection, the Commissioner shall consider the universal bank's capital adequacy, asset quality, earnings quantity, earnings quality, adequacy of liquidity, and sensitivity to market risk; the ability of the management of the universal bank; and any other factor the Commissioner determines is appropriate. If the Commissioner suspends the authority of a universal bank under this subsection, the Commissioner may specify how the universal bank or its subsidiary shall treat an outstanding loan.</text>
+    <text>The Commissioner may suspend a universal bank's authority under § 26-1401.09(a)(2) or (3) if the Commissioner determines that the universal bank is not exercising, or will not exercise, authority under § 26-1401.09(a)(2) or (3) in a safe and sound manner or that the condition of the universal bank is not, or will not be, safe and sound. In making a determination to suspend a universal bank's authority under this subsection, the Commissioner shall consider the universal bank's capital adequacy, asset quality, earnings quantity, earnings quality, adequacy of liquidity, and sensitivity to market risk; the ability of the management of the universal bank; and any other factor the Commissioner determines is appropriate. If the Commissioner suspends the authority of a universal bank under this subsection, the Commissioner may specify how the universal bank or its subsidiary shall treat an outstanding loan.</text>
   </level>
   <level>
     <num>(e)</num>
@@ -69,18 +69,18 @@
       <text>Created by the discounting of bills of exchange drawn in good faith against actually existing values or the discounting of commercial or business paper actually owned by the person negotiating the commercial or business paper.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-308, § 212, 48 DCR 3244.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-308, see notes following § 26-1401.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 26-1401.09.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-308</heading>
+      <text>For Law 13-308, see notes following § 26-1401.01.</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,10 @@
 <level type="section">
   <num>47-392.09</num>
   <heading>Control periods described.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-392.9</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Initiation.</text> -- For purposes of this Act, a "control period" is initiated upon the occurrence of any of the following events (as determined by the Authority based upon information obtained through the Mayor, the Inspector General of the District of Columbia, or such other sources as the Authority considers appropriate):</text>
+    <heading>Initiation</heading>
+    <text>For purposes of this Act, a "control period" is initiated upon the occurrence of any of the following events (as determined by the Authority based upon information obtained through the Mayor, the Inspector General of the District of Columbia, or such other sources as the Authority considers appropriate):</text>
     <level>
       <num>(1)</num>
       <text>The requisitioning by the Mayor of advances from the Treasury of the United States under title VI of the District of Columbia Revenue Act of 1939 (§§ 47-3401 through 47-3401.04), or the existence of any unreimbursed amounts obtained pursuant to such authority;</text>
@@ -36,10 +36,11 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Termination.</text> --</text>
+    <heading>Termination</heading>
     <level>
       <num>(1)</num>
-      <text><text i="True">In general.</text> -- A control period terminates upon the certification by the Authority that:</text>
+      <heading>In general</heading>
+      <text>A control period terminates upon the certification by the Authority that:</text>
       <level>
         <num>(A)</num>
         <text>The District government has adequate access to both short-term and long-term credit markets at reasonable interest rates to meet its borrowing needs; and</text>
@@ -51,29 +52,35 @@
     </level>
     <level>
       <num>(2)</num>
-      <text><text i="True">Consultation with Inspector General.</text> -- In making the determination under this subsection, the Authority shall consult with the Inspector General of the District of Columbia.</text>
+      <heading>Consultation with Inspector General</heading>
+      <text>In making the determination under this subsection, the Authority shall consult with the Inspector General of the District of Columbia.</text>
     </level>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Control period deemed to exist upon enactment.</text> -- For purposes of this part, a control period is deemed to exist beginning April 17, 1995.</text>
+    <heading>Control period deemed to exist upon enactment</heading>
+    <text>For purposes of this part, a control period is deemed to exist beginning April 17, 1995.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 17, 1995, 109 Stat. 136, Pub. L. 104-8, § 209; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-392.9.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>"This Act," referred to in the introductory language of (a), is the District of Columbia Financial Responsibility and Management Assistance Act of 1995, approved April 17, 1995, 109 Stat. 97, Pub. L. 104-8.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>National capital revitalization corporation, evaluation, submission of reports, see § 1-1219.13.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-204.90, § 7-1831.03, § 47-391.07, § 47-392.21, and § 47-393.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-392.9.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>"This Act," referred to in the introductory language of (a), is the District of Columbia Financial Responsibility and Management Assistance Act of 1995, approved April 17, 1995, 109 Stat. 97, Pub. L. 104-8.</text>
     </level>
   </level>
 </level>

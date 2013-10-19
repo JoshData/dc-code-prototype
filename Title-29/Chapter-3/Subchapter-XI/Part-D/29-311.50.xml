@@ -30,7 +30,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Is an interested transaction, unless it has been recommended by the board of directors in the same manner as is provided in § 29-306.72 and has been approved by the shareholders in the same manner as is provided in § 29- 306.73 as if the interested transaction were a director's conflicting interest transaction; or</text>
+      <text>Is an interested transaction, unless it has been recommended by the board of directors in the same manner as is provided in § 29-306.72 and has been approved by the shareholders in the same manner as is provided in § 29-306.73 as if the interested transaction were a director's conflicting interest transaction; or</text>
     </level>
     <level>
       <num>(4)</num>
@@ -45,18 +45,14 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

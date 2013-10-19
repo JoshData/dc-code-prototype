@@ -1,7 +1,6 @@
 <level type="section">
   <num>2-704</num>
   <heading>Use of expedited services; use of officially marked envelopes; payment for nonconforming enclosures prohibited; inspection of agency mail; promulgation of rules and regulations.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-1704</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Funds administered by District agencies, whether appropriated funds, or grant funds, may not be used to pay for the use of telegrams, night letters, mailgrams, or similar types of mail, except in emergency circumstances and as provided by regulations promulgated pursuant to subsection (f) of this section.</text>
@@ -30,28 +29,31 @@
     <num>(g)</num>
     <text>For the Council of the District of Columbia, the rules to implement this law shall be those adopted in rules of the Council.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 7, 1977, D.C. Law 1-118, § 5, 23 DCR 8746; Mar. 16, 1989, D.C. Law 7-188, § 2(b), 35 DCR 8651.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-1704.</text>
-        <text>1973 Ed., § 1-1704.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-118, see Historical and Statutory Notes following § 2-701.</text>
-        <text>For legislative history of D.C. Law 7-188, see Historical and Statutory Notes following § 2-701.</text>
-      </level>
-      <level>
-        <heading>Transfer of Functions</heading>
-        <text>The functions of the Department of General Services were transferred, in part, to the Department of Public Works by Reorganization Plan No. 4 of 1983, effective March 1, 1984, and transferred, in part, to the Department of Administrative Services by Reorganization Plan No. 5 of 1983, effective March 1, 1984.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-706.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-1704.</text>
+      <text>1973 Ed., § 1-1704.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-118</heading>
+      <text>For legislative history of D.C. Law 1-118, see Historical and Statutory Notes following § 2-701.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-188</heading>
+      <text>For legislative history of D.C. Law 7-188, see Historical and Statutory Notes following § 2-701.</text>
+    </level>
+    <level>
+      <heading>Transfer of Functions</heading>
+      <text>The functions of the Department of General Services were transferred, in part, to the Department of Public Works by Reorganization Plan No. 4 of 1983, effective March 1, 1984, and transferred, in part, to the Department of Administrative Services by Reorganization Plan No. 5 of 1983, effective March 1, 1984.</text>
     </level>
   </level>
 </level>

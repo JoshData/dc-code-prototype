@@ -36,7 +36,7 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>To parents and legal guardians upon request.</text>
+        <text>To parents and legal guardians upon request</text>
       </level>
     </level>
     <level>
@@ -48,31 +48,41 @@
     <num>(c)</num>
     <text>This section shall apply as of January 1, 2012.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 27, 2010, D.C. Law 18-209, § 205, 57 DCR 4779; Oct. 20, 2011, D.C. Law 19-37, § 2(g), 58 DCR 6841; Sept. 20, 2012, D.C. Law 19-168, § 4062(e), 59 DCR 8025.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-37, in subsec. (a), substituted "public schools, public charter schools, and participating private schools" for "public schools, public charter schools, and participating private schools"; in subsecs. (b)(1) and (2), substituted "Public schools, public charter schools, and participating private schools" for "Public schools, public charter schools, and participating private schools"; and added subsec. (c).</text>
-        <text>D.C. Law 19-168, in subsec. (a)(3), substituted "if requested by parents and legal guardians; and" for "; and"; in subsec. (b)(1), substituted "provide" for "post" in the lead-in language, deleted "and" from the end of subpar. (A), inserted a comma following "Online" and substituted "; and" for a period in subpar. (B), and added subpar. (C).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(g) of Healthy Schools Emergency Amendment Act of 2011 (D.C. Act 19-143, August 9, 2011, 58 DCR 6814).</text>
-        <text>For temporary (90 day) amendment of section, see § 4062(e) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
-        <text>For temporary (90 day) amendment of section, see § 4062(e) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-209, see notes following § 38-821.01.</text>
-        <text>For history of Law 19-37, see notes under § 38-821.01.</text>
-        <text>For history of Law 19-168, see notes under § 38-751.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-821.02 and § 38-826.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 19-37, in subsec. (a), substituted "public schools, public charter schools, and participating private schools" for "public schools, public charter schools, and participating private schools"; in subsecs. (b)(1) and (2), substituted "Public schools, public charter schools, and participating private schools" for "Public schools, public charter schools, and participating private schools"; and added subsec. (c).</text>
+      <text>The 2012 amendment by D.C. Law 19-168 added "if requested by parents and legal guardians" in (a)(3); substituted "shall provide" for "shall post" in the introductory language of (b)(1); added the comma following "Online" in (b)(1)(B); added (b)(1)(C); and made related changes.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(g) of Healthy Schools Emergency Amendment Act of 2011 (D.C. Act 19-143, August 9, 2011, 58 DCR 6814).</text>
+      <text>For temporary (90 day) amendment of section, see § 4062(e) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
+      <text>For temporary (90 day) amendment of section, see § 4062(e) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-209</heading>
+      <text>For Law 18-209, see notes following § 38-821.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-37</heading>
+      <text>For history of Law 19-37, see notes under § 38-821.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>See note to § 38-821.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 4063 of D.C. Law 19-168 provided that § 4062 of the act shall apply as of June 20, 2012.</text>
     </level>
   </level>
 </level>

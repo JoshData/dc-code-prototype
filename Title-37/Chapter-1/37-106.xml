@@ -1,7 +1,6 @@
 <level type="section">
   <num>37-106</num>
   <heading>Eastern Market building and tenants.</heading>
-  <formerly-cited-as>DC ST 1981 § 10-306</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Tenants shall not occupy any space or stand inside the Eastern Market building without first having entered into a written contract with the market manager.</text>
@@ -42,22 +41,18 @@
       <text>The written consent of the market manager.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 16, 1999, D.C. Law 12-228, § 7, 46 DCR 1066.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 10-306.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-228, see Historical and Statutory Notes following § 37-101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 10-306.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-228</heading>
+      <text>For legislative history of D.C. Law 12-228, see Historical and Statutory Notes following § 37-101.</text>
     </level>
   </level>
 </level>

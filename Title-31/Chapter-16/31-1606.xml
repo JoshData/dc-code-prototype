@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1606</num>
   <heading>Informed consent requirements; restrictions on disclosure.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-226</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>No insurer shall request or require a proposed insured to take the testing protocol certified pursuant to § 31-1604 without first obtaining the signature of the proposed insured or the legal guardian of the named insured on a standard informed consent statement prepared and furnished by the Commissioner of Insurance and Securities.</text>
@@ -41,7 +40,7 @@
       <num>(3)</num>
       <level>
         <num>(A)</num>
-        <text>The Commissioner of Insurance and Securities may, by rule, require an insurer to report numerical data regarding test results to the Commissioner for the limited purpose of performing epidemiological studies. The name, address, or other information that reveals the identity of the individual tested shall not be reported to the Commissioner of Insurance and Securities.</text>
+        <text>The Commissioner of Insurance and Securities [Commissioner of the Department of Insurance, Securities, and Banking] may, by rule, require an insurer to report numerical data regarding test results to the Commissioner for the limited purpose of performing epidemiological studies. The name, address, or other information that reveals the identity of the individual tested shall not be reported to the Commissioner of Insurance and Securities [Commissioner of the Department of Insurance, Securities, and Banking].</text>
       </level>
       <level>
         <num>(B)</num>
@@ -49,25 +48,34 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 7, 1986, D.C. Law 6-132, § 7, 33 DCR 3615; Mar. 16, 1989, D.C. Law 7-208, § 2(e), 36 DCR 471; Feb. 5, 1994. D.C. Law 10-68, § 30, 40 DCR 6311; May 21, 1997, D.C. Law 11-268, § 10(g), 44 DCR 1730.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-226.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-132, see Historical and Statutory Notes following § 31-1601.</text>
-        <text>For legislative history of D.C. Law 7-208, see Historical and Statutory Notes following § 31-1610.</text>
-        <text>Law 10-68, the "Technical Amendments Act of 1993," was introduced in Council and assigned Bill No. 10-166, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 23, 1993, it was assigned Act No. 10-107 and transmitted to both Houses of Congress for its review. D.C. Law 10-68 became effective on February 5, 1994.</text>
-        <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-2501.03.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1608.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-226.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-132</heading>
+      <text>For legislative history of D.C. Law 6-132, see Historical and Statutory Notes following § 31-1601.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-208</heading>
+      <text>For legislative history of D.C. Law 7-208, see Historical and Statutory Notes following § 31-1610.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-68</heading>
+      <text>Law 10-68, the "Technical Amendments Act of 1993," was introduced in Council and assigned Bill No. 10-166, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 23, 1993, it was assigned Act No. 10-107 and transmitted to both Houses of Congress for its review. D.C. Law 10-68 became effective on February 5, 1994.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-2501.03.</text>
     </level>
   </level>
 </level>

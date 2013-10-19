@@ -1,14 +1,9 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>43</num>
-  <heading>Game and Fish Laws.</heading>
-  <level>
-    <text>DC CODE D. IV, T. 22, Subt. V, Ch. 43, Refs &amp; Annos</text>
-  </level>
+  <heading>Game and Fish Laws</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-4301~22-4306~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-4301~22-4306~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-4307.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-4308~22-4327~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-4307~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-4308~22-4327~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-4328.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-4329.xml"/>

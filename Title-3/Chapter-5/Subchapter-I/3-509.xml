@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-509</num>
   <heading>Denial, suspension, or revocation of licenses; grounds; reinstatement.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-2729</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor may suspend, revoke, refuse to issue, renew, or restore a license issued under this subchapter if the Mayor finds that the applicant or holder thereof:</text>
@@ -66,22 +65,22 @@
     <num>(c)</num>
     <text>The Mayor may reinstate a license which has previously been revoked upon application in writing and after an opportunity for a hearing. No application for reinstatement of a license shall be accepted by the Mayor before the expiration of at least 1 year following the date on which the applicant's license was revoked.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 9, 1983, D.C. Law 4-171, § 10, 29 DCR 5297.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-2729.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-171, see Historical and Statutory Notes following § 3-501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 3-507 and § 3-515.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-2729.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-171</heading>
+      <text>For legislative history of D.C. Law 4-171, see Historical and Statutory Notes following § 3-501.</text>
     </level>
   </level>
 </level>

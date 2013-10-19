@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-142</num>
   <heading>Notarial acts.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-622</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>In taking an acknowledgment, the notarial officer shall determine from personal knowledge or satisfactory evidence that the person who appears before the officer and makes the acknowledgment is the person whose true signature is on the instrument.</text>
@@ -30,26 +29,26 @@
       <text>Identified on the basis of identification documents.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 6, 1991, D.C. Law 8-205, § 3, 37 DCR 8444.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-622.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-205, see Historical and Statutory Notes following § 42-141.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 2 of the Uniform Law on Notarial Acts. See 14 Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-147.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-622.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-205</heading>
+      <text>For legislative history of D.C. Law 8-205, see Historical and Statutory Notes following § 42-141.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 2 of the Uniform Law on Notarial Acts.</text>
     </level>
   </level>
 </level>

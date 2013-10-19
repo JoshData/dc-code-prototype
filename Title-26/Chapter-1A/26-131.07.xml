@@ -9,18 +9,14 @@
     <num>(b)</num>
     <text>If person using an automated teller machine uses an access device issued by a person other than the operator of the automated teller machine, the operator of the automated teller machine shall disclose to the person using the automated teller machine that, in addition to any surcharge charged by the operator, a fee may be charged by the person's financial institution for the use of the automated teller machine.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-308, § 507, 48 DCR 3244.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-308, see notes following § 26-131.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-308</heading>
+      <text>For Law 13-308, see notes following § 26-131.01.</text>
     </level>
   </level>
 </level>

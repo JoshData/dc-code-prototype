@@ -24,7 +24,7 @@
       </level>
       <level>
         <num>(D)</num>
-        <text>Income sourced to the District from the sale or exchange of capital or assets, and from involuntary conversions, as determined under § 47- 1810.05(b)(8);</text>
+        <text>Income sourced to the District from the sale or exchange of capital or assets, and from involuntary conversions, as determined under § 47-1810.05(b)(8);</text>
       </level>
       <level>
         <num>(E)</num>
@@ -67,34 +67,57 @@
       <text>The property, payroll, and sales of a partnership shall be included in the determination of the partner's apportionment percentage in proportion to a ratio the numerator of which is the amount of the partner's distributive share of partnership's unitary income included in the income of the combined group in accordance with § 47-1810.05 and the denominator of which is the amount of the partnership's total unitary income.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 2011, D.C. Law 19-21, § 8002(d), 58 DCR 6226; Sept. 26, 2012, D.C. Law 19-171, § 114(h), 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-171, in subsec. (b)(2), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 302(d) of Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 10, 2012, 59 DCR 12478).</text>
-        <text>For temporary (90 day) addition of applicability provision, see § 303 of Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 10, 2012, 59 DCR 12478).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-21, see notes under § 47-305.02.</text>
-        <text>For history of Law 19-171, see notes under § 47-369.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 8004 of D.C. Law 19-21 provides:</text>
-        <text>"Sec. 8004. Applicability.</text>
-        <text>"This subtitle shall apply for taxable years beginning after December 31, 2010."</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-1805.02a and § 47-1810.05.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-171 deleted the comma preceding "results" in (b)(2).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 302(d) of D.C. Law 19-226 amended this section to read as follows:</text>
+      <text>"§ 47-1810.04. Determination of taxable income or loss using combined report; components of income subject to tax in the District, application of tax credits and post- apportionment deductions; determination of taxpayer's share of the business income of a combine group apportionable to the District.</text>
+      <text>"(a) The use of a combined report does not disregard the separate identities of the taxpayer members of the combined group. Each taxpayer member is responsible for tax based on its taxable income or loss apportioned or allocated to the District, which shall include, in addition to other types of income, the taxpayer member's apportioned share of business income of the combined group, where business income of the combined group is calculated as a summation of the individual net business incomes of all members of the combined group. A member's net business income is determined by removing all but business income, expense, and loss from that member's total income, as provided in this section and § 47-1810.05.</text>
+      <text>"(b)(1) Each taxpayer member is responsible for tax based on its taxable income or loss apportioned or allocated to the District, which shall include its:</text>
+      <text>"(A) Share of any business income apportionable to the District of each of the combined groups of which it is a member, as determined under subsection (c) of this section;</text>
+      <text>"(B) Share of any business income apportionable to the District of a distinct business activity conducted within and without the District wholly by the taxpayer member, as determined under the provisions for apportionment of business income set forth in this chapter;</text>
+      <text>"(C) Income from a business conducted wholly by the taxpayer member entirely within the District;</text>
+      <text>"(D) Income sourced to the District from the sale or exchange of capital or assets, and from involuntary conversions, as determined under § 47-1810.05(b)(8);</text>
+      <text>"(E) Nonbusiness income or loss allocable to the District as determined under the provisions for allocation of nonbusiness income set forth in this chapter;</text>
+      <text>"(F) Income or loss allocated or apportioned in an earlier year required to be taken into account as District source income during the income year, other than a net operating loss; and</text>
+      <text>"(G) Net operating loss carryover.</text>
+      <text>"(2) If the taxable income computed pursuant to this section and § 47-1810.05 results in a loss for a taxpayer member of the combined group, that taxpayer member has a District net operating loss, subject to the net operating loss limitations and carryover provisions of this chapter. The District net operating loss shall be applied as a deduction in the subsequent year only if that taxpayer has District source positive net income, whether or not the taxpayer is a member of a combined reporting group in the subsequent year.</text>
+      <text>"(3) Except where otherwise provided, no tax credit or post-apportionment deduction earned by one member of the group, but not fully used by or allowed to that member, may be used, in whole or in part, by another member of the group or applied, in whole or in part, against the total income of the combined group. A post-apportionment deduction carried over into a subsequent year as to the member that incurred it, and available as a deduction to that member in a subsequent year, will be considered in the computation of the income of that member in the subsequent year regardless of the composition of that income as apportioned, allocated, or wholly within the District.</text>
+      <text>"(c)(1) The taxpayer's share of the business income apportionable to the District of each combined group of which it is a member shall be the product of the:</text>
+      <text>"(A) Business income of the combined group, determined under § 47- 1810.05; and</text>
+      <text>"(B) Taxpayer member's apportionment percentage, determined in accordance with this chapter, including in the property, payroll, and sales factor numerators of the taxpayer's property, payroll, and sales, respectively, associated with the combined group's unitary business in the District and including in the denominator the property, payroll, and sales of all members of the combined group, including the taxpayer, which property, payroll, and sales are associated with the combined group's unitary business wherever located.</text>
+      <text>"(2) If any member owns an interest in a partnership that is not an unincorporated business, as defined by § 47-1808.01, the income or loss of such partnership shall be apportioned to the District using the apportionment factor of the partnership, and the combined group member-partner's distributive share of such income shall be added to the combined group member-partner's income."</text>
+      <text>Section 303 of D.C. Law 19-226 provided that § 302 of the act shall apply for taxable years beginning after December 31, 2010.</text>
+      <text>Section 402(b) of D.C. Law 19-226 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 302(d) of the Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 12, 2012, 59 DCR 12478), applicable for taxable years beginning after December 31, 2010.</text>
+      <text>For temporary amendment of section, see § 302(c) of the Fiscal Year 2013 Budget Support Technical Clarification Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-604, January 14, 2013, 60 DCR 1045), applicable for taxable years beginning after December 31, 2010.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 47-305.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 8004 of D.C. Law 19-21 provided: "Sec. 8004. Applicability. This subtitle shall apply for taxable years beginning after December 31, 2010."</text>
     </level>
   </level>
 </level>

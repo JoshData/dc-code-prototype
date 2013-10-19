@@ -77,7 +77,7 @@
     </level>
     <level>
       <num>(13)</num>
-      <text>For properties with a mortgage insured or held by the Secretary of the U.S. Department of Housing and Urban Development under sections 236(j)(1), 221(d)(3) BMIR, 241(f)/221-BMIR, or 241(f)/236 of the National Housing Act, approved June 27, 1934 (48 Stat. 1246; 12 U.S.C. § 1701 <text i="True">et seq.</text>), an indication of whether the owner has issued a notice of prepayment of the mortgage and the date of such notice;</text>
+      <text>For properties with a mortgage insured or held by the Secretary of the U.S. Department of Housing and Urban Development under sections 236(j)(1), 221(d)(3) BMIR, 241(f)/221-BMIR, or 241(f)/236 of the National Housing Act, approved June 27, 1934 (48 Stat. 1246; 12 U.S.C. § 1701 et seq.), an indication of whether the owner has issued a notice of prepayment of the mortgage and the date of such notice;</text>
     </level>
     <level>
       <num>(14)</num>
@@ -96,18 +96,18 @@
     <num>(b)</num>
     <text>The Affordable Housing Inventory shall include a unique identification number for each affordable housing development.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 15, 2008, D.C. Law 17-215, § 6, 55 DCR 7494.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-215, see notes following § 42-2131.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-2133 and § 42-2134.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-215</heading>
+      <text>For Law 17-215, see notes following § 42-2131.</text>
     </level>
   </level>
 </level>

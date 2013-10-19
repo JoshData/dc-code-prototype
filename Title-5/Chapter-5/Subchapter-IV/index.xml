@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>IV</num>
-  <heading>Conversion of New Salary Schedule.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-561.01~P.xml"/>
+  <heading>Conversion of New Salary Schedule</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-561.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="5-561.02.xml"/>
 </level>

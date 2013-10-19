@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-1902.29</num>
   <heading>Condominium lease; recordation; terms; leasehold payments; increases; sale or assignation; offer to unit owners' association; renewal.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-1839</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The declarant of a leasehold condominium shall record with the condominium instruments any lease pursuant to which the condominium is a leasehold condominium ("condominium lease"); provided, however, it shall be sufficient for the declarant to record a statement of the book, page and date of recordation of such lease if such lease has previously been recorded among the land records of the District of Columbia. Condominium instruments establishing a leasehold condominium containing more than 3 residential units shall not be effective unless the condominium lease(s) comply with the requirements of subsections (b), (c) and (d) of this section.</text>
@@ -37,23 +36,19 @@
     <num>(d)</num>
     <text>The lessor of a condominium lease shall give the lessee of such lease a statement not less than 5 years prior to the expiration of such lease of whether the lease is to be renewed and on what terms the lease is to be renewed. If the lessor offers to renew the lease, the lessor shall give the lessee a period of at least 180 days within which to accept or reject the offer.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 29, 1977, D.C. Law 1-89, title II, § 229, 23 DCR 9532b.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-1839.</text>
-        <text>1973 Ed., § 5-1239.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-89, see Historical and Statutory Notes following § 42-1901.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-1839.</text>
+      <text>1973 Ed., § 5-1239.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-89</heading>
+      <text>For legislative history of D.C. Law 1-89, see Historical and Statutory Notes following § 42-1901.01.</text>
     </level>
   </level>
 </level>

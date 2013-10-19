@@ -2,320 +2,97 @@
   <num>25-504</num>
   <heading>Minimum annual fees for on-premises retail licenses, class C and D.</heading>
   <text>The minimum annual fees for an on-premises retailer's licenses, class C and D, shall be as set forth on the following schedule. Capacity shall be the posted level of occupancy approved under the Construction Codes, as defined under § 6-1401 and as set forth in Title 12 of the District of Columbia Municipal Regulations.</text>
-  <text>
-    <text font="'monospace'"> -------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Type Capacity Class C (beer, Class D (beer &amp; </text>
-  </text>
-  <text>
-    <text font="'monospace'"> wine, spirits) wine) </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Restaurant 99 or fewer. $500 $300 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'"> 100 to 199. $1,000 $600 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'"> 200 to 499. $1,500 $900 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'"> 500 or more. $2,000 $1,200 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Tavern 99 or fewer. $800 $500 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'"> 100 to 199. $1,600 $1,000 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'"> 200 or more. $2,400 $1,500 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Nightclub 99 or fewer. $1,500 $1,000 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'"> 100 to 199. $2,000 $1,250 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'"> 200 to 499. $2,500 $1,500 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'"> 500 to 999. $3,500 $2,000 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'"> 1,000 or more. $4,500 $3,500 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Hotel 99 or fewer $2,000 $1,000 </text>
-  </text>
-  <text>
-    <text font="'monospace'"> guest rooms. </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'"> 100 or more $4,000 $2,000 </text>
-  </text>
-  <text>
-    <text font="'monospace'"> guest rooms. </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Club $1,500 $500 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Multipurpose facility $1,500 $500 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Marine vessel Single vessel. $1,500 $750 </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Marine vessel line 3 or fewer $2,500 $1,000 </text>
-  </text>
-  <text>
-    <text font="'monospace'"> vessels and </text>
-  </text>
-  <text>
-    <text font="'monospace'"> dockside </text>
-  </text>
-  <text>
-    <text font="'monospace'"> waiting areas. </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'"> Each additional $1,500 $500 </text>
-  </text>
-  <text>
-    <text font="'monospace'"> vessel or </text>
-  </text>
-  <text>
-    <text font="'monospace'"> dockside </text>
-  </text>
-  <text>
-    <text font="'monospace'"> waiting area. </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Railroad dining or club Single car. $500 $250 </text>
-  </text>
-  <text>
-    <text font="'monospace'"> car </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Railroad company All dining or $1,500 $750 </text>
-  </text>
-  <text>
-    <text font="'monospace'"> club cars. </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Caterer More than $5,000 -- </text>
-  </text>
-  <text>
-    <text font="'monospace'"> $1,000,000 per </text>
-  </text>
-  <text>
-    <text font="'monospace'"> year gross </text>
-  </text>
-  <text>
-    <text font="'monospace'"> annual </text>
-  </text>
-  <text>
-    <text font="'monospace'"> receipts </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Caterer $1,000,000 or $4,000 -- </text>
-  </text>
-  <text>
-    <text font="'monospace'"> less per year </text>
-  </text>
-  <text>
-    <text font="'monospace'"> gross annual </text>
-  </text>
-  <text>
-    <text font="'monospace'"> receipts </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Caterer $500,000 or less $3,000 -- </text>
-  </text>
-  <text>
-    <text font="'monospace'"> per year gross </text>
-  </text>
-  <text>
-    <text font="'monospace'"> annual </text>
-  </text>
-  <text>
-    <text font="'monospace'"> receipts </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Caterer $300,000 or less $2,000 -- </text>
-  </text>
-  <text>
-    <text font="'monospace'"> per year gross </text>
-  </text>
-  <text>
-    <text font="'monospace'"> annual </text>
-  </text>
-  <text>
-    <text font="'monospace'"> receipts </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Caterer $200,000 or less $1,000 -- </text>
-  </text>
-  <text>
-    <text font="'monospace'"> per year gross </text>
-  </text>
-  <text>
-    <text font="'monospace'"> annual </text>
-  </text>
-  <text>
-    <text font="'monospace'"> receipts </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Caterer $100,000 or less $750 -- </text>
-  </text>
-  <text>
-    <text font="'monospace'"> per year gross </text>
-  </text>
-  <text>
-    <text font="'monospace'"> annual </text>
-  </text>
-  <text>
-    <text font="'monospace'"> receipts </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Caterer $50,000 or less $500 -- </text>
-  </text>
-  <text>
-    <text font="'monospace'"> per year gross </text>
-  </text>
-  <text>
-    <text font="'monospace'"> annual </text>
-  </text>
-  <text>
-    <text font="'monospace'"> receipts </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <text>
-    <text font="'monospace'">Caterer $25,000 or less $300 -- </text>
-  </text>
-  <text>
-    <text font="'monospace'"> per year gross </text>
-  </text>
-  <text>
-    <text font="'monospace'"> annual </text>
-  </text>
-  <text>
-    <text font="'monospace'"> receipts </text>
-  </text>
-  <text>
-    <text font="'monospace'">-------------------------------------------------------------------------------</text>
-  </text>
-  <level>
-    <type>annotations</type>
+  <level type="table">
+    <text>Type Capacity Class C (beer,
+ wine, spirits) Class D (beer &amp;
+ wine)
+Restaurant 99 or fewer. $500 $300
+ 100 to 199. $1,000 $600
+ 200 to 499. $1,500 $900
+ 500 or more. $2,000 $1,200
+Tavern 99 or fewer. $800 $500
+ 100 to 199. $1,600 $1,000
+ 200 or more. $2,400 $1,500
+Nightclub 99 or fewer. $1,500 $1,000
+ 100 to 199. $2,000 $1,250
+ 200 to 499. $2,500 $1,500
+ 500 to 999. $3,500 $2,000
+ 1,000 or more. $4,500 $3,500
+Hotel 99 or fewer
+ guest rooms $2,000 $1,000
+ 100 or more
+ guest rooms $4,000 $2,000
+Club $1,500 $500
+Multipurpose $1,500 $500
+facility
+Marine vessel Single vessel. $1,500 $750
+Marine vessel
+line 3 or fewer
+ vessels and
+ dockside
+ waiting areas $2,500 $1,000
+ Each additional
+ vessel or
+ dockside
+ waiting area. $1,500 $500
+Railroad
+dining or club
+car Single car. $500 $250
+Railroad
+company All dining or
+ club cars $1,500 $750
+Caterer More than
+ $1,000,000 per
+ year gross
+ annual receipts $5,000 -
+Caterer $1,000,000 or
+ less per year
+ gross annual
+ receipts $4,000 -
+Caterer $500,000 or
+ less per year
+ gross annual
+ receipts $3,000 -
+Caterer $300,000 or
+ less per year
+ gross annual
+ receipts $2,000 -
+Caterer $200,000 or
+ less per year
+ gross annual
+ receipts $1,000 -
+Caterer $100,000 or
+ less per year
+ gross annual
+ receipts $750 -
+Caterer $50,000 or less
+ per year gross
+ annual receipts $500 -
+Caterer $25,000 or less
+ per year gross
+ annual receipts $300 -</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Jan. 24, 1934, 48 Stat. 324, ch. 4, § 11; Apr. 30, 1934, 48 Stat. 654, ch. 181, § 1; June 18, 1934, 48 Stat. 997, ch. 588; July 2, 1935, 49 Stat. 444, ch. 359; Aug. 27, 1935, 49 Stat. 898, 899, ch. 756, §§ 3-7; June 15, 1938, 52 Stat. 691, ch. 396, §§ 1, 2; May 27, 1949, 63 Stat. 133, ch. 146, title V, § 501; June 29, 1953, 67 Stat. 103, ch. 159, § 404(d); May 31, 1962, 76 Stat. 89, Pub. L. 87-470, § 1; Dec. 8, 1970, 84 Stat. 1393, Pub. L. 91-535, § 2; Apr. 6, 1977, D.C. Law 1-102, § 2(a), (b), 23 DCR 8732; Apr. 18, 1978, D.C. Law 2-73, § 3, 24 DCR 7066; Mar. 5, 1981, D.C. Law 3-157, § 2(b), 27 DCR 5117; Sept. 29, 1982, D.C. Law 4-157, §§ 6, 15, 29 DCR 3617; Mar. 10, 1983, D.C. Law 4-204, § 2, 30 DCR 185; Aug. 2, 1983, D.C. Law 5-16, § 3, 30 DCR 3193; Mar. 8, 1984, D.C. Law 5-51, § 2(a), 30 DCR 5927; Mar. 7, 1987, D.C. Law 6-217, § 5, 34 DCR 907; Aug. 17, 1991, D.C. Law 9-40, § 2(b), 38 DCR 4974; May 24, 1994, D.C. Law 10-122, § 2(e), 41 DCR 1658; Mar. 26, 1999, D.C. Law 12-202, § 2(b), 45 DCR 8412; Apr. 20, 1999, D.C. Law 12-261, § 2003(q)(1), 46 DCR 3142; May 3, 2001, D.C. Law 13- 298, § 101, 48 DCR 2959; Sept. 30, 2004, D.C. Law 15-187, § 101(v), 51 DCR 6525.)</text>
+      <heading>History</heading>
+      <text>(Jan. 24, 1934, 48 Stat. 324, ch. 4, § 11; Apr. 30, 1934, 48 Stat. 654, ch. 181, § 1; June 18, 1934, 48 Stat. 997, ch. 588; July 2, 1935, 49 Stat. 444, ch. 359; Aug. 27, 1935, 49 Stat. 898, 899, ch. 756, §§ 3-7; June 15, 1938, 52 Stat. 691, ch. 396, §§ 1, 2; May 27, 1949, 63 Stat. 133, ch. 146, title V, § 501; June 29, 1953, 67 Stat. 103, ch. 159, § 404(d); May 31, 1962, 76 Stat. 89, Pub. L. 87-470, § 1; Dec. 8, 1970, 84 Stat. 1393, Pub. L. 91-535, § 2; Apr. 6, 1977, D.C. Law 1-102, § 2(a), (b), 23 DCR 8732; Apr. 18, 1978, D.C. Law 2-73, § 3, 24 DCR 7066; Mar. 5, 1981, D.C. Law 3-157, § 2(b), 27 DCR 5117; Sept. 29, 1982, D.C. Law 4-157, §§ 6, 15, 29 DCR 3617; Mar. 10, 1983, D.C. Law 4-204, § 2, 30 DCR 185; Aug. 2, 1983, D.C. Law 5-16, § 3, 30 DCR 3193; Mar. 8, 1984, D.C. Law 5-51, § 2(a), 30 DCR 5927; Mar. 7, 1987, D.C. Law 6-217, § 5, 34 DCR 907; Aug. 17, 1991, D.C. Law 9-40, § 2(b), 38 DCR 4974; May 24, 1994, D.C. Law 10-122, § 2(e), 41 DCR 1658; Mar. 26, 1999, D.C. Law 12-202, § 2(b), 45 DCR 8412; Apr. 20, 1999, D.C. Law 12-261, § 2003(q)(1), 46 DCR 3142; May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959; Sept. 30, 2004, D.C. Law 15-187, § 101(v), 51 DCR 6525.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <text>D.C. Law 13-298 amended and enacted into law Title 25 of the District of Columbia Official Code. The text of this section is derived from provisions formerly found in D.C. Code § 25-111(a). For notes from former § 25-111, see § 25-110.</text>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 25-504.</text>
-        <text>1973 Ed., § 25-111.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-187 added a new row after the row designated "Nightclub"; deleted the five rows designated as "Caterer" which pertained to capacity in terms of annual revenue and also set forth the license fees; and added eight new rows designated as "Caterer".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-298, see notes following § 25-101.</text>
-        <text>For Law 15-187, see notes following § 25-101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 25-504.</text>
+      <text>1973 Ed., § 25-111.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-187 added a new row after the row designated "Nightclub"; deleted the five rows designated as "Caterer" which pertained to capacity in terms of annual revenue and also set forth the license fees; and added eight new rows designated as "Caterer".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-298</heading>
+      <text>For D.C. Law 13-298, see notes following § 25-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-187</heading>
+      <text>For Law 15-187, see notes following § 25-101.</text>
     </level>
   </level>
 </level>

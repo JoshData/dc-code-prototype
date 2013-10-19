@@ -1,7 +1,6 @@
 <level type="section">
   <num>44-805</num>
   <heading>Use of peer review reports, records, or statements in judicial and administrative proceedings.</heading>
-  <formerly-cited-as>DC ST 1981 § 32-505</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as otherwise provided by this section:</text>
@@ -26,24 +25,23 @@
     <num>(c)</num>
     <text>This section shall not affect the right of any health professional to discover or to have admitted into evidence the minutes and reports of a peer review body concerning the health professional for the limited purpose of adjudicating the appropriateness of an adverse action affecting the employment, membership, privileges, or association of the health professional by the peer review body.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 29, 1978, D.C. Law 2-112, § 6, 25 DCR 1471; Mar. 17, 1993, D.C. Law 9-234, § 2(d), 40 DCR 605.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-505.</text>
-        <text>1973 Ed., § 32-365.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-112, see Historical and Statutory Notes following § 44-801.</text>
-        <text>For legislative history of D.C. Law 9-234, see Historical and Statutory Notes following § 44-801.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-505.</text>
+      <text>1973 Ed., § 32-365.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-112</heading>
+      <text>For legislative history of D.C. Law 2-112, see Historical and Statutory Notes following § 44-801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-234</heading>
+      <text>For legislative history of D.C. Law 9-234, see Historical and Statutory Notes following § 44-801.</text>
     </level>
   </level>
 </level>

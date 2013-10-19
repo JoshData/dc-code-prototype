@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-109.03</num>
   <heading>Environmental Impact Statement requirements.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-983</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Whenever the Mayor or a board, commission, authority, or person proposes or approves a major action that is likely to have substantial negative impact on the environment, if implemented, the Mayor, board, commission, authority, or person shall prepare or cause to be prepared, and transmit, in accordance with subsection (b) of this section, a detailed EIS at least 60 days prior to implementation of the proposed major action, unless the Mayor determines that the proposed major action has been or is subject to the functional equivalent of an EIS. The EIS shall be written in a concise manner. The EIS shall describe and, where appropriate, analyze:</text>
@@ -81,22 +80,22 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 18, 1989, D.C. Law 8-36, § 4, 36 DCR 5741.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-983.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-36, see Historical and Statutory Notes following § 8-109.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-109.05.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-983.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-36</heading>
+      <text>For legislative history of D.C. Law 8-36, see Historical and Statutory Notes following § 8-109.01.</text>
     </level>
   </level>
 </level>

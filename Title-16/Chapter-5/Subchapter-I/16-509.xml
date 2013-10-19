@@ -1,7 +1,6 @@
 <level type="section">
   <num>16-509</num>
   <heading>Attachment of personal property; undertaking by defendant or person in possession.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-509</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>An attachment shall be levied upon personal chattels by the officer taking them into his possession and custody, unless the defendant gives the officer his undertaking to be filed in the cause, with sufficient security, substantially in the form set forth in subsection (b) of this section, or unless the person in whose possession the property is attached gives the officer his undertaking to be filed in the cause substantially in the form set forth in subsection (c) of this section. In cases where such undertakings are given, the attachment is sufficiently levied by the taking of the undertaking.</text>
@@ -9,51 +8,42 @@
   <level>
     <num>(b)</num>
     <text>An undertaking by the defendant shall contain the substance of the following form:</text>
+    <level type="form">
+      <text/>
+      <text> A B, plaintiff, 
+ versus Civil Action No. __________. 
+ C D, defendant.</text>
+      <text>
+ The defendant and ____, his surety, in consideration of the discharge from the custody of the marshal of the property seized by him, upon the attachment sued out against the defendant, on the ____ day of ________, anno Domini nineteen hundred ____, in the above entitled cause, appear, and submitting to the jurisdiction of the court, hereby undertake, for themselves and each of them, their and each of their heirs, executors, and administrators, or successors or assigns, to abide by and perform the judgment of the court in the premises in relation to the property, which judgment may be rendered against any or all the parties whose names are hereto signed.</text>
+      <text>
+ (Signed) C D. 				E F.
+ 
+ 
+(c) An undertaking by the person in whose possession the property is attached shall contain the substance of the following form:</text>
+      <text>
+ A B, plaintiff, 
+ versus Civil Action No. __________. 
+ C D, defendant.</text>
+      <text>
+ Whereas by virtue of an attachment issued in the above-entitled suit, the United States marshal for the District of Columbia has attached certain property in the hands of the undersigned E F, as garnishee, namely, (here describe) of the value of ________ dollars; and now, therefore, E F and G H, as surety, appearing in the action, and submitting to the jurisdiction of the court, hereby undertake for themselves and each of them, their and each of their heirs, executors, and administrators to abide by the judgment of the court in relation to said property, and that if the same shall be condemned to satisfy the claim of the plaintiff, judgment may be rendered against all the undersigned for the value of the property and costs, to be executed against them, and each of them, unless the property shall be forthcoming to satisfy the judgment of condemnation.</text>
+      <text>
+ (Signed) E F. 				G H.</text>
+    </level>
   </level>
-  <text>
-    <text font="'monospace'"> A B, plaintiff, </text>
-  </text>
-  <text>
-    <text font="'monospace'"> versus Civil Action No. __________.</text>
-  </text>
-  <text>
-    <text font="'monospace'">C D, defendant. </text>
-  </text>
-  <text>The defendant and ___, his surety, in consideration of the discharge from the custody of the marshal of the property seized by him, upon the attachment sued out against the defendant, on the ___ day of ___, anno Domini nineteen hundred ___, in the above entitled cause, appear, and submitting to the jurisdiction of the court, hereby undertake, for themselves and each of them, their and each of their heirs, executors, and administrators, or successors or assigns, to abide by and perform the judgment of the court in the premises in relation to the property, which judgment may be rendered against any or all the parties whose names are hereto signed.</text>
-  <text>
-    <text font="'monospace'"> (Signed) C D. E F.</text>
-  </text>
-  <level>
-    <num>(c)</num>
-    <text>An undertaking by the person in whose possession the property is attached shall contain the substance of the following form:</text>
-  </level>
-  <text>
-    <text font="'monospace'"> A B, plaintiff, </text>
-  </text>
-  <text>
-    <text font="'monospace'"> versus Civil Action No. __________.</text>
-  </text>
-  <text>
-    <text font="'monospace'">C D, defendant. </text>
-  </text>
-  <text>Whereas by virtue of an attachment issued in the above-entitled suit, the United States marshal for the District of Columbia has attached certain property in the hands of the undersigned E F, as garnishee, namely, (here describe) of the value of ___ dollars; and now, therefore, E F and G H, as surety, appearing in the action, and submitting to the jurisdiction of the court, hereby undertake for themselves and each of them, their and each of their heirs, executors, and administrators to abide by the judgment of the court in relation to said property, and that if the same shall be condemned to satisfy the claim of the plaintiff, judgment may be rendered against all the undersigned for the value of the property and costs, to be executed against them, and each of them, unless the property shall be forthcoming to satisfy the judgment of condemnation.</text>
-  <text>
-    <text font="'monospace'"> (Signed) E F. G H.</text>
-  </text>
   <text>The recital of the undertaking in this subsection shall contain a sufficient description of the property and its value ascertained by an appraisement to be made under direction of the officer and returned with the writ.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, 77 Stat. 546, Pub. L. 88-241, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-509.</text>
-        <text>1973 Ed., § 16-509.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-510 and § 16-527.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-509.</text>
+      <text>1973 Ed., § 16-509.</text>
     </level>
   </level>
 </level>

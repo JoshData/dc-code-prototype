@@ -1,14 +1,13 @@
 <level type="section">
   <num>34-2002</num>
   <heading>Regulation of local exchange carriers.</heading>
-  <formerly-cited-as>DC ST 1981 § 43-1452</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Public Service Commission may, upon petition by the incumbent local exchange carrier and pursuant to procedures developed by the PSC, reclassify any telecommunications service offered by the incumbent local exchange carrier.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>Pursuant to the federal Telecommunications Act of 1996 (Public Law 104- 104), the Public Service Commission shall establish a procedure to facilitate entry into the District for providers of all forms of telecommunications service in order to foster the availability of competitive telecommunications options to consumers in the District, and to encourage the development of a technological infrastructure which will afford District residents increased access to the information highway.</text>
+    <text>Pursuant to the federal Telecommunications Act of 1996 (Public Law 104-104), the Public Service Commission shall establish a procedure to facilitate entry into the District for providers of all forms of telecommunications service in order to foster the availability of competitive telecommunications options to consumers in the District, and to encourage the development of a technological infrastructure which will afford District residents increased access to the information highway.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -98,7 +97,7 @@
     <text>All local exchange carriers in the District are required to unbundle network elements to the extent that federal law requires, and to interconnect networks and exchange local exchange service calls under terms that are reasonable and efficient.</text>
     <level>
       <num>(1)</num>
-      <text>All LECs shall reciprocally terminate each other's local exchange service calls and shall financially compensate each other for this service if the PSC determines that a traffic imbalance exists. As between any two LECs, if at any time after implementation of local number portability pursuant to this chapter the traffic terminated by one provider, on a quarterly basis, is at least 5% greater than the traffic terminated by the other provider, the two affected LECs shall mutually negotiate an agreement regarding the charges, terms, and conditions for the termination of local exchange service calls that originate on their respective networks.</text>
+      <text>All LECs shall reciprocally terminate each other's local exchange service calls and shall financially compensate each other for this service if the PSC determines that a traffic imbalance exists. As between any two LECs, if at any time after implementation of local number portability pursuant to this chapter the traffic terminated by one provider, on a quarterly basis, is at least 5 % greater than the traffic terminated by the other provider, the two affected LECs shall mutually negotiate an agreement regarding the charges, terms, and conditions for the termination of local exchange service calls that originate on their respective networks.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -285,11 +284,11 @@
     </level>
     <level>
       <num>(9)</num>
-      <text>Incentives to facilitate the involvement in the telecommunications industry in the District of Columbia of small and disadvantaged businesses, including telecommunications service providers with gross annual revenues of less than $50 million; and in addressing the issue of incentives to assist small and disadvantaged businesses, the PSC shall monitor the Federal Communications Commission implementation of § 257 of the federal Telecommunications Act of 1996 to follow the development of strategies which may be useful to the District of Columbia; examine ways to facilitate access for eligible District of Columbia businesses to the capital and programs of the Telecommunications Development Fund established by § 714 of the federal Telecommunications Act of 1996; and require, to the extent permissible under the federal Telecommunications Competition Act of 1996, that telecommunications providers authorized to operate in the District of Columbia agree to provide, in the manner that the existing monopoly utilities historically have agreed to provide them, contracting opportunities for small and disadvantaged businesses and employment and training programs for District residents;</text>
+      <text>Incentives to facilitate the involvement in the telecommunications industry in the District of Columbia of small and disadvantaged businesses, including telecommunications service providers with gross annual revenues of less than $50 million; and in addressing the issue of incentives to assist small and disadvantaged businesses, the PSC shall monitor the Federal Communications Commission implementation of § 257 [47 U.S.C. § 257] of the federal Telecommunications Act of 1996 to follow the development of strategies which may be useful to the District of Columbia; examine ways to facilitate access for eligible District of Columbia businesses to the capital and programs of the Telecommunications Development Fund established by § 714 [47 U.S.C. § 614] of the federal Telecommunications Act of 1996; and require, to the extent permissible under the federal Telecommunications Competition Act of 1996, that telecommunications providers authorized to operate in the District of Columbia agree to provide, in the manner that the existing monopoly utilities historically have agreed to provide them, contracting opportunities for small and disadvantaged businesses and employment and training programs for District residents;</text>
     </level>
     <level>
       <num>(10)</num>
-      <text>Strategies necessary to implement the mandate to state commissions contained in § 706 of the federal Telecommunications Act of 1996 to encourage the deployment on a reasonable and timely basis of advanced telecommunications capability to all Americans, including, in particular, elementary and secondary schools and classrooms, and methods of facilitating access for eligible District of Columbia institutions to the funding and assistance available from the National Education Technology Funding Corporation, as well as the development of incentives for telecommunications providers authorized to operate in the District of Columbia to invest appropriate resources in the National Education Technology Funding Corporation;</text>
+      <text>Strategies necessary to implement the mandate to state commissions contained in § 706 [47 U.S.C. § 157, note] of the federal Telecommunications Act of 1996 to encourage the deployment on a reasonable and timely basis of advanced telecommunications capability to all Americans, including, in particular, elementary and secondary schools and classrooms, and methods of facilitating access for eligible District of Columbia institutions to the funding and assistance available from the National Education Technology Funding Corporation, as well as the development of incentives for telecommunications providers authorized to operate in the District of Columbia to invest appropriate resources in the National Education Technology Funding Corporation;</text>
     </level>
     <level>
       <num>(11)</num>
@@ -312,49 +311,60 @@
     <num>(n)</num>
     <text>Within 12 months of September 9, 1996, or upon a finding of the PSC, whichever is earlier, the Public Service Commission shall promulgate rules in respect to the notice requirements for abandonment of any service, and delineate the responsibilities, if any, incumbent upon the telecommunications service provider consequent to service abandonment.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 9, 1996, D.C. Law 11-154, § 3, 43 DCR 3736; September 9, 1996, D.C. Law 11-155, § 25(a), 43 DCR 4213; Apr. 12, 2005, D.C. Law 15-342, § 307, 52 DCR 2346; Sept. 24, 2010, D.C. Law 18-223, § 2224(b), 57 DCR 6242.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 43-1452.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-342, in subsec. (m), substituted "$250,000" for "$100,000", and substituted "$150,000" for "50,000".</text>
-        <text>D.C. Law 18-223 added subsecs. (h-1) to (h-5).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see §§ 305, 402 of Omnibus Utility Emergency Amendment Act of 2005 (D.C. Act 16-12, January 28, 2005, 52 DCR 2945).</text>
-        <text>For temporary (90 day) amendment of section, see § 2224(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-154, see Historical and Statutory Notes following § 34-2001.</text>
-        <text>Law 11-155, the "Mortgage Lender and Broker Act of 1996," was introduced in Council and assigned Bill No. 11-637, which was referred to the Committee on Economic Development. The Bill was adopted on first and second readings on May 7, 1996, and June 4, 1996, respectively. Signed by the Mayor on June 19, 1996, it was assigned Act No. 11-309 and transmitted to both Houses of Congress for its review. D.C. Law 11-155 became effective on September 9, 1996.</text>
-        <text>For Law 15-342, see notes following § 34-401.</text>
-        <text>For Law 18-223, see notes following § 34-706.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>The federal Telecommunications Act of 1996, Pub. L. 104-104, referred to in (b) and (k), is codified throughout Title 47 of the United States Code.</text>
-      </level>
-      <level>
-        <heading>Resolutions</heading>
-        <text>Resolution 15-250, the "Public Service Commission Telecommunications Competition Fund Expenditure Increase Approval Resolution of 2003", was approved effective October 7, 2003.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 401 of D.C. Law 15-342 provides:</text>
-        <text>"Sec. 401. Applicability.</text>
-        <text>"Sections 303(c)(1) and 307 shall apply as of October 1, 2004."</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Investigations of public utilities, assessing expenses, see § 34-912.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 34-912 and § 34-2008.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 43-1452.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-342, in subsec. (m), substituted "$250,000" for "$100,000", and substituted "$150,000" for "50,000".</text>
+      <text>D.C. Law 18-223 added subsecs. (h-1) to (h-5).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see §§ 305, 402 of Omnibus Utility Emergency Amendment Act of 2005 (D.C. Act 16-12, January 28, 2005, 52 DCR 2945).</text>
+      <text>For temporary (90 day) amendment of section, see § 2224(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-154</heading>
+      <text>For legislative history of D.C. Law 11-154, see Historical and Statutory Notes following § 34-2001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-155</heading>
+      <text>Law 11-155, the "Mortgage Lender and Broker Act of 1996," was introduced in Council and assigned Bill No. 11-637, which was referred to the Committee on Economic Development. The Bill was adopted on first and second readings on May 7, 1996, and June 4, 1996, respectively. Signed by the Mayor on June 19, 1996, it was assigned Act No. 11-309 and transmitted to both Houses of Congress for its review. D.C. Law 11-155 became effective on September 9, 1996.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-342</heading>
+      <text>For Law 15-342, see notes following § 34-401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 34-706.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>The federal Telecommunications Act of 1996, Pub. L. 104-104, referred to in (b) and (k), is codified throughout Title 47 of the United States Code.</text>
+    </level>
+    <level>
+      <heading>Resolutions</heading>
+      <text>Resolution 15-250, the "Public Service Commission Telecommunications Competition Fund Expenditure Increase Approval Resolution of 2003", was approved effective October 7, 2003.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 401 of D.C. Law 15-342 provided: "Sec. 401. Applicability. Sections 303(c)(1) and 307 shall apply as of October 1, 2004."</text>
     </level>
   </level>
 </level>

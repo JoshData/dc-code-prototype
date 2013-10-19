@@ -61,18 +61,18 @@
     <num>(f)</num>
     <text>The Special Assessment shall be an assessment for purposes of §§ 47-832 through 47-835 relating to subdivision of lots, parcels, or tracts.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2008, D.C. Law 17-252, § 301(b), 55 DCR 9251.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-252, see notes following § 47-895.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-895.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-252</heading>
+      <text>For Law 17-252, see notes following § 47-895.01.</text>
     </level>
   </level>
 </level>

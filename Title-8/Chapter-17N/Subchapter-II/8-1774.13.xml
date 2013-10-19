@@ -21,22 +21,18 @@
     <num>(c)</num>
     <text>Within 60 days after the close of the record of the investigation, the Commission shall issue a report, including findings, on the feasibility of the implementation of the proposal set forth in subsections (a) and (b) of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2008, D.C. Law 17-250, § 213, 55 DCR 9225.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 213 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008, 55 DCR 10856).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-250, see notes following § 8-1773.01.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 213 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008, 55 DCR 10856).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-250</heading>
+      <text>For Law 17-250, see notes following § 8-1773.01.</text>
     </level>
   </level>
 </level>

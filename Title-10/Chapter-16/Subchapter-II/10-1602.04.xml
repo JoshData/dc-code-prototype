@@ -32,18 +32,14 @@
     <num>(c)</num>
     <text>The request shall outline the manner in which funds shall be used to develop, maintain, and improve physical facilities and infrastructure owned by the District of Columbia, particularly for projects or improvements in community plans that do not qualify for capital budget funding.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2005, D.C. Law 15-320, § 204, 52 DCR 1757.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-320, see notes following § 10-1602.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-320</heading>
+      <text>For Law 15-320, see notes following § 10-1602.01.</text>
     </level>
   </level>
 </level>

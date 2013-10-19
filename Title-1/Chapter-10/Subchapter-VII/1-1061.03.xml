@@ -3,39 +3,37 @@
   <heading>Elections covered.</heading>
   <text>The voting procedures in this subchapter apply to:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>A general, special, or primary election for President, Vice President, or District of Columbia Delegate to the United States House of Representatives;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>A general, special, or primary election for Mayor, Chairman of the Council, member of the Council, member of the State Board of Education, or Attorney General for the District of Columbia;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>An initiative, referendum, or recall measure; and</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>A proposed Charter amendment.</text>
-    </level>
+    <num>(1)</num>
+    <text>A general, special, or primary election for President, Vice President, or District of Columbia Delegate to the United States House of Representatives;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>A general, special, or primary election for Mayor, Chairman of the Council, member of the Council, member of the State Board of Education, or Attorney General for the District of Columbia;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>An initiative, referendum, or recall measure; and</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>A proposed Charter amendment.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 5, 2012, D.C. Law 19-137, § 103, 59 DCR 2542.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-137, see notes under § 1-1061.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 3 of the Uniform Military and Overseas Voters Act. See Vol. 13, Part II, Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-1061.09 and § 1-1061.11.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-137</heading>
+      <text>For history of Law 19-137, see notes under § 1-1061.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 3 of the Uniform Military and Overseas Voters Act.</text>
     </level>
   </level>
 </level>

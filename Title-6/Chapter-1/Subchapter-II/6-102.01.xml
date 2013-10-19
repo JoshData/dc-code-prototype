@@ -1,35 +1,32 @@
 <level type="section">
   <num>6-102.01</num>
   <heading>"Housing project" and "development" defined.</heading>
-  <formerly-cited-as>DC ST 1981 § 5-111</formerly-cited-as>
   <text>As used in this subchapter:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The term "housing project" shall mean any low-rent housing (as defined in the United States Housing Act of 1937), the development or administration of which is assisted by the United States Department of Housing and Urban Development.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The term "development" shall mean any or all undertakings necessary for planning, financing (including payment of carrying charges), land acquisition, demolition, construction, or equipment, in connection with a housing project, but not beyond the point of physical completion.</text>
-    </level>
+    <num>(1)</num>
+    <text>The term "housing project" shall mean any low-rent housing (as defined in the United States Housing Act of 1937 [42 U.S.C. § 1437 et seq.]), the development or administration of which is assisted by the United States Department of Housing and Urban Development.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The term "development" shall mean any or all undertakings necessary for planning, financing (including payment of carrying charges), land acquisition, demolition, construction, or equipment, in connection with a housing project, but not beyond the point of physical completion.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 12, 1934, ch. 465, title II, § 201; June 25, 1938, 52 Stat. 1188, ch. 691, § 5.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 5-111.</text>
-        <text>1973 Ed., § 5-112.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>The United States Housing Act of 1937, referred to in paragraph (1) of this section, is the Act of September 1, 1937, ch. 896.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-102.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 5-111.</text>
+      <text>1973 Ed., § 5-112.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>The United States Housing Act of 1937, referred to in paragraph (1) of this section, is the Act of September 1, 1937, ch. 896.</text>
     </level>
   </level>
 </level>

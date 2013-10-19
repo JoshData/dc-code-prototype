@@ -1,39 +1,32 @@
 <level type="section">
   <num>8-501</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-801</formerly-cited-as>
   <text>As used in this chapter:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The term "mattress" includes any quilt, comfort, pad, pillow, cushion, or bag stuffed with hair, down, feathers, wool, cotton, excelsior, jute, or any other soft material and designed for use for sleeping or reclining purposes.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The term "person" means individual, partnership, corporation, or association.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The term "Mayor" means the Mayor of the District of Columbia.</text>
-    </level>
+    <num>(1)</num>
+    <text>The term "mattress" includes any quilt, comfort, pad, pillow, cushion, or bag stuffed with hair, down, feathers, wool, cotton, excelsior, jute, or any other soft material and designed for use for sleeping or reclining purposes.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The term "person" means individual, partnership, corporation, or association.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The term "Mayor" means the Mayor of the District of Columbia.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 3, 1926, 44 Stat. 838, ch. 768, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-801.</text>
-        <text>1973 Ed., § 6-601.</text>
-      </level>
-      <level>
-        <heading>Change in Government</heading>
-        <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-801.</text>
+      <text>1973 Ed., § 6-601.</text>
+    </level>
+    <level>
+      <heading>Change in Government</heading>
+      <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
     </level>
   </level>
 </level>

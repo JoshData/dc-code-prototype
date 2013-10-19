@@ -21,18 +21,18 @@
     <num>(e)</num>
     <text>The witnesses and the authorized person shall then and there attest the will by signing in the presence of the testator.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2001, D.C. Law 13-292, § 102(b), 48 DCR 2087.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-292, see notes following § 18-701.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 18-704.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-292</heading>
+      <text>For D.C. Law 13-292, see notes following § 18-701.</text>
     </level>
   </level>
 </level>

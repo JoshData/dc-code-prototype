@@ -22,7 +22,7 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Issue an emergency executive order pursuant to Chapter 23 of Title 7 as may be necessary to protect the public health or welfare or the environment; and</text>
+      <text>Issue an emergency executive order pursuant to Chapter 23 of Title 7 [§ 7-2301 et seq.], as may be necessary to protect the public health or welfare or the environment; and</text>
     </level>
     <level>
       <num>(6)</num>
@@ -73,28 +73,31 @@
       <text>The response action selected will attain a standard of performance that is equivalent to that required under the otherwise applicable standard, requirement, or limitation, through use of another method or approach.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 13, 2001, D.C. Law 13-312, § 401, 48 DCR 3804; Apr. 8, 2011, D.C. Law 18-369, § 2(i), 58 DCR 996.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-369 rewrote the section, which formerly read:</text>
-        <text>"Within one year of June 13, 2001, the Mayor shall develop and publish in the District of Columbia Register, a comprehensive hazardous substances response plan which shall include policies and procedures for responding to, and evaluating hazardous substance releases that may threaten public health and the environment. The response plan shall not be inconsistent with the provisions of this chapter."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(i) of Brownfield Revitalization Emergency Amendment Act of 2010 (D.C. Act 18-667, December 28, 2010, 58 DCR 95).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-312, see notes following § 8-631.01.</text>
-        <text>For history of Law 18-369, see notes under § 8-631.02.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-634.05, § 8-634.06, and § 8-636.03.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-369 rewrote the section, which formerly read:</text>
+      <text>"Within one year of June 13, 2001, the Mayor shall develop and publish in the District of Columbia Register, a comprehensive hazardous substances response plan which shall include policies and procedures for responding to, and evaluating hazardous substance releases that may threaten public health and the environment. The response plan shall not be inconsistent with the provisions of this chapter."</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(i) of Brownfield Revitalization Emergency Amendment Act of 2010 (D.C. Act 18-667, December 28, 2010, 58 DCR 95).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-312</heading>
+      <text>For Law 13-312, see notes following § 8-631.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-369</heading>
+      <text>For history of Law 18-369, see notes under § 8-631.02.</text>
     </level>
   </level>
 </level>

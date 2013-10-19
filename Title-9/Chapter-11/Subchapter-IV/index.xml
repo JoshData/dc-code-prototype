@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>IV</num>
-  <heading>Washington Metropolitan Area Transit Authority Compact.</heading>
-  <level>
-    <text>DC CODE D. I, T. 9, Subt. III, Ch. 11, Subch. IV, Refs &amp; Annos</text>
-  </level>
+  <heading>Washington Metropolitan Area Transit Authority Compact</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1107.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1107.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1107.03.xml"/>

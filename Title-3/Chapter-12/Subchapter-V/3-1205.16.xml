@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-1205.16</num>
   <heading>Cease and desist orders.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-3305.16</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>When a board or the Mayor, after investigation but prior to a hearing, has cause to believe that any person is violating any provision of this chapter and the violation has caused or may cause immediate and irreparable harm to the public, the board or the Mayor may issue an order requiring the alleged violator to cease and desist immediately from the violation. The order shall be served by certified mail or delivery in person.</text>
@@ -44,22 +43,22 @@
     <num>(f)</num>
     <text>If any person fails to comply with a lawful order of a board or the Mayor issued pursuant to this section, the board or the Mayor may petition the court to issue an order compelling compliance or take any other action authorized by this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1986, D.C. Law 6-99, § 516, 33 DCR 729.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-3305.16.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 3-1205.14.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-3305.16.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-99</heading>
+      <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
     </level>
   </level>
 </level>

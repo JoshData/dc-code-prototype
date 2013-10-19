@@ -1,7 +1,6 @@
 <level type="section">
   <num>50-712</num>
   <heading>Civil penalty.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-2011</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Each person who fails to comply with any of the provisions of this chapter, prevents any inspection authorized by this chapter, or keeps false records shall be punished by a fine not to exceed $5,000.</text>
@@ -10,22 +9,18 @@
     <num>(b)</num>
     <text>Each violation of, or failure to comply with, this chapter shall constitute a separate offense and the penalties described in subsection (a) of this section shall be applicable to each separate offense.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 8, 1991, D.C. Law 8-243, § 13, as added Mar. 14, 1995, D.C. Law 10- 201, § 2(g), 41 DCR 7178.)</text>
+      <heading>History</heading>
+      <text>(Mar. 8, 1991, D.C. Law 8-243, § 13, as added Mar. 14, 1995, D.C. Law 10-201, § 2(g), 41 DCR 7178.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-2011.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-201, see Historical and Statutory Notes following § 50-701.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-2011.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-201</heading>
+      <text>For legislative history of D.C. Law 10-201, see Historical and Statutory Notes following § 50-701.</text>
     </level>
   </level>
 </level>

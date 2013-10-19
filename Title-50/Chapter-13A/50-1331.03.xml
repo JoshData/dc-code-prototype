@@ -1,6 +1,6 @@
 <level type="section">
   <num>50-1331.03</num>
-  <heading>Duty to Notify Lessors, Purchasers, Department, of Flood Vehicle Status.</heading>
+  <heading>Duty to notify lessors, purchasers, Department, of Flood Vehicle Status.</heading>
   <level>
     <num>(a)</num>
     <text>An owner or lessor of a Flood Vehicle transferring ownership of the Flood Vehicle shall:</text>
@@ -17,18 +17,14 @@
     <num>(b)</num>
     <text>A lessee of a vehicle that becomes a Flood Vehicle shall, within 30 days of the damage, give the lessor written notice that the vehicle is a Flood Vehicle.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2005, D.C. Law 15-307, § 103, 52 DCR 1700.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-307, see notes following § 50-1331.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-307</heading>
+      <text>For Law 15-307, see notes following § 50-1331.01.</text>
     </level>
   </level>
 </level>

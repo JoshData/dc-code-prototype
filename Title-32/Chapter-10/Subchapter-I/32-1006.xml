@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-1006</num>
   <heading>Regulatory powers of Mayor.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-220.5</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor shall make and revise regulations, including definitions of terms, as deemed appropriate to carry out the purposes of this subchapter or necessary to prevent its circumvention or evasion and to safeguard the minimum wage rates and the overtime provisions established by this subchapter.</text>
@@ -50,22 +49,22 @@
     <num>(d)</num>
     <text>The Council of the District of Columbia shall review and make recommendations, as needed, to the Mayor or the Mayor's authorized representative, to ensure that the minimum wage set by the federal government, plus $1, is fair and adequate for employees in the District of Columbia.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1993, D.C. Law 9-248, § 7, 40 DCR 761.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-220.5.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 9-248, see Historical and Statutory Notes following § 32-1001.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-1002 and § 32-1010.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-220.5.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-248</heading>
+      <text>For legislative history of D.C. Law 9-248, see Historical and Statutory Notes following § 32-1001.</text>
     </level>
   </level>
 </level>

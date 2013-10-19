@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-103.07</num>
   <heading>Location of discharge; recognition of reduction of pollutants; restrictions on quantity of materials discharged; discharge of used motor oil to sewer prohibited.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-927</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>While pollution from point sources into storm sewers shall be considered discharges into District waters, the location of the discharge of the storm sewer wastewater into the waters of the District or other jurisdictions shall be the location of the discharge for any permit issued by the Mayor.</text>
@@ -22,22 +21,18 @@
     <num>(e)</num>
     <text>The discharge of used motor oil to any sewer is prohibited.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1985, D.C. Law 5-188, § 8, 32 DCR 919.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-927.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-188, see Historical and Statutory Notes following § 8-103.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-927.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-188</heading>
+      <text>For legislative history of D.C. Law 5-188, see Historical and Statutory Notes following § 8-103.01.</text>
     </level>
   </level>
 </level>

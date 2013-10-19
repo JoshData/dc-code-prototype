@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-1809</num>
   <heading>Animal hobby permit.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-1009</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>No person shall own or keep 7 or more mammals, larger than a guinea pig and over the age of 4 months, without obtaining an animal hobby permit: Except, that this section shall not apply to a licensed pet shop, licensed veterinary hospital, circus or traveling exhibition.</text>
@@ -42,33 +41,35 @@
     <num>(h)</num>
     <text>The Mayor may revoke an animal hobby permit for failure to comply with the provisions of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 18, 1979, D.C. Law 3-30, § 10, 26 DCR 765; Dec. 5, 2008, D.C. Law 17-281, § 104(f), 55 DCR 9186.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-1009.</text>
-        <text>1973 Ed., § 6-2409.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-281, in subsecs. (a) and (b), substituted "7 or more" for "5 or more"; and rewrote subsec. (d)(1), which had read as follows:</text>
-        <text>"(1) A dog owner unless the owner has obtained a license for each dog as provided in § 8-1804;".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-30, see Historical and Statutory Notes following § 8-1801.</text>
-        <text>For Law 17-281, see notes following § 8-1801.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority pursuant to Law 3-30, see Mayor's Order 83-206, August 2, 1983, as amended by Mayor's Order 86-64, April 22, 1986.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-1805.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-1009.</text>
+      <text>1973 Ed., § 6-2409.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-281, in subsecs. (a) and (b), substituted "7 or more" for "5 or more"; and rewrote subsec. (d)(1), which had read as follows: "(1) A dog owner unless the owner has obtained a license for each dog as provided in § 8-1804;".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-30</heading>
+      <text>For legislative history of D.C. Law 3-30, see Historical and Statutory Notes following § 8-1801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-281</heading>
+      <text>For Law 17-281, see notes following § 8-1801.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority pursuant to Law 3-30, see Mayor's Order 83-206, August 2, 1983, as amended by Mayor's Order 86-64, April 22, 1986.</text>
     </level>
   </level>
 </level>

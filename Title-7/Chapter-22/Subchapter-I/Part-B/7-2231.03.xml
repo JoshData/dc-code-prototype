@@ -37,18 +37,18 @@
     <num>(c)</num>
     <text>Beginning one year after the establishment of the Program, the Mayor shall submit an annual report to the Council describing the current level of the preparedness of the District of Columbia, including reports on the District's homeland security capabilities, priority unmet needs and the cost of meeting those needs, relevant training and readiness exercises, resident education, and the utilization of mutual aid.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 11, 1950, 64 Stat. 440, ch. 686, § 203, as added Mar. 14, 2007, D.C. Law 16-262, § 101(e), 54 DCR 794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-262, see notes following § 7-2231.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-2231.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-262</heading>
+      <text>For Law 16-262, see notes following § 7-2231.01.</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,13 @@
 <level type="section">
   <num>42-3503.04</num>
   <heading>Tenant assistance payments.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2534</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Basic formula.</text> -- (1) The amount of the tenant assistance payment shall be the amount by which the actual rent or fair market rent applicable to the family, whichever is lower, exceeds 30% of the family's monthly income. Where the head of household is an elderly tenant or tenant with a disability, the amount of the tenant assistance payment shall be the amount by which the actual rent or fair market rent, whichever is lower, exceeds 25% of the family's monthly income. Monthly income is 1/12 of annual adjusted income. Annual income is the anticipated total income from all sources received by the family head and spouse, even if temporarily absent, and by each additional member of the family, including all net income derived from assets, for the 12-month period following the effective date of the Department's initial determination or reexamination of income, exclusive of income that is temporary, nonrecurring, or sporadic such as irregular gifts, scholarships, inheritances, insurance payments, and capital gains. Annual income is also exclusive of income from employment of children, including foster children, under the age of 18 years; payments received for the care of foster children; the value of the allotment provided to an eligible household for coupons under the Food Stamp Act of 1977 (7 U.S.C. §§ 2011-2030); and payments or allowances made under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.), and the District of Columbia Low Income Energy Assistance Program.</text>
+    <heading>Basic formula</heading>
+    <level>
+      <num>(1)</num>
+      <text>The amount of the tenant assistance payment shall be the amount by which the actual rent or fair market rent applicable to the family, whichever is lower, exceeds 30% of the family's monthly income. Where the head of household is an elderly tenant or tenant with a disability, the amount of the tenant assistance payment shall be the amount by which the actual rent or fair market rent, whichever is lower, exceeds 25% of the family's monthly income. Monthly income is <span style="font-style: italic; ">1</span>/<span style="">12</span> of annual adjusted income. Annual income is the anticipated total income from all sources received by the family head and spouse, even if temporarily absent, and by each additional member of the family, including all net income derived from assets, for the 12-month period following the effective date of the Department's initial determination or reexamination of income, exclusive of income that is temporary, nonrecurring, or sporadic such as irregular gifts, scholarships, inheritances, insurance payments, and capital gains. Annual income is also exclusive of income from employment of children, including foster children, under the age of 18 years; payments received for the care of foster children; the value of the allotment provided to an eligible household for coupons under the Food Stamp Act of 1977 (7 U.S.C. §§ 2011-2030); and payments or allowances made under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.), and the District of Columbia Low Income Energy Assistance Program.</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>Annual income includes, but is not limited to:</text>
@@ -48,11 +51,16 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Applicable fair market rent.</text> -- The Department shall compute the tenant assistance payment for a family entering the Tenant Assistance Program on the most recent published fair market rents on the date of lease approval for the family.</text>
+    <heading>Applicable fair market rent</heading>
+    <text>The Department shall compute the tenant assistance payment for a family entering the Tenant Assistance Program on the most recent published fair market rents on the date of lease approval for the family.</text>
   </level>
   <level>
     <num>(b-1)</num>
-    <text><text i="True">Payment cap.</text> -- (1) Except in the case of elderly tenants or tenants with a disability, no tenant assistance payment shall exceed 60% of the amount of rent for the recipient's rental unit. In the case of persons receiving tenant assistance payments on and before March 17, 1993, and continuously thereafter, this subsection shall apply 2 years from October 21, 1993.</text>
+    <heading>Payment cap</heading>
+    <level>
+      <num>(1)</num>
+      <text>Except in the case of elderly tenants or tenants with a disability, no tenant assistance payment shall exceed 60% of the amount of rent for the recipient's rental unit. In the case of persons receiving tenant assistance payments on and before March 17, 1993, and continuously thereafter, this subsection shall apply 2 years from October 21, 1993.</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>In the case of persons who are granted Tenant Assistance Program certification after March 17, 1993, if those persons have previously received Tenant Assistance Program subsidies, the subsidies provided those persons shall not exceed 60% of the amount of rent for the recipient's rental unit.</text>
@@ -60,15 +68,18 @@
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Rent not capped by payment standard.</text> -- Under the tenant assistance payment computation described in subsections (a) and (b) of this section, the amount of tenant assistance payment does not increase if the unit rents for more than the applicable fair market rent, but a tenant is not prohibited from renting such a unit.</text>
+    <heading>Rent not capped by payment standard</heading>
+    <text>Under the tenant assistance payment computation described in subsections (a) and (b) of this section, the amount of tenant assistance payment does not increase if the unit rents for more than the applicable fair market rent, but a tenant is not prohibited from renting such a unit.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">No reimbursement of amounts family owes housing provider.</text> -- The Department shall not reimburse the housing provider for the portion of the rent not covered by the tenant assistance payment, damages, or other amounts due under the lease.</text>
+    <heading>No reimbursement of amounts family owes housing provider</heading>
+    <text>The Department shall not reimburse the housing provider for the portion of the rent not covered by the tenant assistance payment, damages, or other amounts due under the lease.</text>
   </level>
   <level>
     <num>(e)</num>
-    <text><text i="True">No payments for vacancies.</text> -- If a family moves out, the housing provider shall promptly notify the Department and the Department shall make no additional tenant assistance payments to the housing provider for any month after that in which the family moves. The housing provider may retain the tenant assistance payment for the month in which the family moves.</text>
+    <heading>No payments for vacancies</heading>
+    <text>If a family moves out, the housing provider shall promptly notify the Department and the Department shall make no additional tenant assistance payments to the housing provider for any month after that in which the family moves. The housing provider may retain the tenant assistance payment for the month in which the family moves.</text>
   </level>
   <level>
     <num>(f)</num>
@@ -76,42 +87,64 @@
   </level>
   <level>
     <num>(g)</num>
-    <text><text i="True">Finders-keepers policy.</text> -- (1) A family with a certificate of eligibility is responsible for finding a rental unit suitable to the family's needs and desires. A family may select the rental unit which it already occupies if the unit qualifies. Upon request, the Department shall assist families in finding units where, because of age, disability, large family size, or other reasons, the family is unable to locate an approvable unit. The Department shall also provide this assistance where the family alleges that illegal discrimination on grounds of race, religion, sex, national origin, age, or disability is preventing it from finding a suitable unit.</text>
+    <heading>Finders-keepers policy</heading>
+    <level>
+      <num>(1)</num>
+      <text>A family with a certificate of eligibility is responsible for finding a rental unit suitable to the family's needs and desires. A family may select the rental unit which it already occupies if the unit qualifies. Upon request, the Department shall assist families in finding units where, because of age, disability, large family size, or other reasons, the family is unable to locate an approvable unit. The Department shall also provide this assistance where the family alleges that illegal discrimination on grounds of race, religion, sex, national origin, age, or disability is preventing it from finding a suitable unit.</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>Neither in assisting a family in finding a unit nor by any other action shall the Department directly or indirectly reduce the family's opportunity to choose among the available units in the housing market, except in accordance with § 42-3503.02(d).</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 17, 1985, D.C. Law 6-10, § 304, 32 DCR 3089; Oct. 2, 1987, D.C. Law 7-30, § 3(j), 34 DCR 5304; Mar. 17, 1993, D.C. Law 9-237, § 2(d), 40 DCR 6049; Feb. 5, 1994, D.C. Law 10-68, § 39(a), 40 DCR 6311; May 16, 1995, D.C. Law 10-255, § 38, 41 DCR 5193; Apr. 24, 2007, D.C. Law 16-305, 67(e), 53 DCR 6198.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2534.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-305, in subsec. (a)(1), substituted "tenant or tenant with a disability" for "or handicapped tenant"; in subsec. (b-1)(1), substituted "tenants or tenants with a disability" for "or handicapped tenants"; and in subsec. (g), substituted "disability" for "handicap".</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2(j) of Tenant Assistance Program Amendment Temporary Act of 1987 (D.C. Law 7-48, December 10, 1987, law notification 34 DCR 8107).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
-        <text>For legislative history of D.C. Law 7-30, see Historical and Statutory Notes following § 42-3502.01.</text>
-        <text>For legislative history of D.C. Law 9-237, see Historical and Statutory Notes following § 42-3503.01.</text>
-        <text>D.C. Law 10-45, the "Tenant Assistance Program Payment Limitation Amendment Act of 1993," was introduced in Council and assigned Bill No. 10-213, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 4, 1993, it was assigned Act No. 10-80 and transmitted to both Houses of Congress for its review. D.C. Law 10- 45 became effective on October 21, 1993.</text>
-        <text>D.C. Law 10-68, the "Technical Amendments Act of 1993," was introduced in Council and assigned Bill No. 10-166, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 23, 1993, it was assigned Act No. 10-107 and transmitted to both Houses of Congress for its review. D.C. Law 10-68 became effective on February 5, 1994.</text>
-        <text>Law 10-255, the "Technical Amendments Act of 1994," was introduced in Council and assigned Bill No. 10-673, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 21, 1994, and July 5, 1994, respectively. Signed by the Mayor on July 25, 1994, it was assigned Act No. 10-302 and transmitted to both Houses of Congress for its review. D.C. Law 10-255 became effective May 16, 1995.</text>
-        <text>For Law 16-305, see notes following § 42-820.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3503.03.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2534.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-305, in subsec. (a)(1), substituted "tenant or tenant with a disability" for "or handicapped tenant"; in subsec. (b-1)(1), substituted "tenants or tenants with a disability" for "or handicapped tenants"; and in subsec. (g), substituted "disability" for "handicap".</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2(j) of Tenant Assistance Program Amendment Temporary Act of 1987 (D.C. Law 7-48, December 10, 1987, law notification 34 DCR 8107).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-10</heading>
+      <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-30</heading>
+      <text>For legislative history of D.C. Law 7-30, see Historical and Statutory Notes following § 42-3502.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-237</heading>
+      <text>For legislative history of D.C. Law 9-237, see Historical and Statutory Notes following § 42-3503.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-45</heading>
+      <text>D.C. Law 10-45, the "Tenant Assistance Program Payment Limitation Amendment Act of 1993," was introduced in Council and assigned Bill No. 10-213, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 4, 1993, it was assigned Act No. 10-80 and transmitted to both Houses of Congress for its review. D.C. Law 10-45 became effective on October 21, 1993.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-68</heading>
+      <text>D.C. Law 10-68, the "Technical Amendments Act of 1993," was introduced in Council and assigned Bill No. 10-166, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 23, 1993, it was assigned Act No. 10-107 and transmitted to both Houses of Congress for its review. D.C. Law 10-68 became effective on February 5, 1994.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-255</heading>
+      <text>Law 10-255, the "Technical Amendments Act of 1994," was introduced in Council and assigned Bill No. 10-673, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 21, 1994, and July 5, 1994, respectively. Signed by the Mayor on July 25, 1994, it was assigned Act No. 10-302 and transmitted to both Houses of Congress for its review. D.C. Law 10-255 became effective May 16, 1995.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-305</heading>
+      <text>For Law 16-305, see notes following § 42-820.</text>
     </level>
   </level>
 </level>

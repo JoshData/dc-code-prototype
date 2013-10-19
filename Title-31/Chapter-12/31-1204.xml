@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1204</num>
   <heading>Failure to pay share of assessment.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-2704</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any insurer or health maintenance organization that fails to pay an assessment on or before the date set forth in § 31-1203 shall be subject to a penalty imposed by the Mayor, which shall be 10% of the assessment plus interest at one-half of 1% per month for the period between the due date and the date of full payment. If a payment is made in an amount later found to be in error, the Mayor shall do one of the following:</text>
@@ -22,25 +21,34 @@
     <num>(c)</num>
     <text>In the event that any insurer or health maintenance organization fails, by reason of insolvency, impairment of capital and surplus, or other reason approved by the Mayor, to pay its assessment in full, the unpaid amounts shall be assessed against the remaining insurers or health maintenance organizations respectively, on a proportionate basis in comparison to their direct gross receipts. Any insurer or health maintenance organization paying this additional assessment shall have a claim against the defaulting insurer or health maintenance organization for the amount paid.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 21, 1993, D.C. Law 10-40, § 5, 40 DCR 6009; May 16, 1995, D.C. Law 10-255, § 28, 41 DCR 5193; Apr. 9, 1997, D.C. Law 11-235, §§ 24(f)-(h), 44 DCR 818; Mar. 24, 1998, D.C. Law 12-81, § 36(b), 45 DCR 745.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-2704.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-40, see Historical and Statutory Notes following § 31-1201.</text>
-        <text>Law 10-255, the "Technical Amendments Act of 1994," was introduced in Council and assigned Bill No. 10-673, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 21, 1994, and July 5, 1994, respectively. Signed by the Mayor on July 25, 1994, it was assigned Act No. 10-302 and transmitted to both Houses of Congress for its review. D.C. Law 10-255 became effective May 16, 1995.</text>
-        <text>For legislative history of D.C. Law 11-235, see Historical and Statutory Notes following § 31-1201.</text>
-        <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 31-1201.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1205.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-2704.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-40</heading>
+      <text>For legislative history of D.C. Law 10-40, see Historical and Statutory Notes following § 31-1201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-255</heading>
+      <text>Law 10-255, the "Technical Amendments Act of 1994," was introduced in Council and assigned Bill No. 10-673, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 21, 1994, and July 5, 1994, respectively. Signed by the Mayor on July 25, 1994, it was assigned Act No. 10-302 and transmitted to both Houses of Congress for its review. D.C. Law 10-255 became effective May 16, 1995.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-235</heading>
+      <text>For legislative history of D.C. Law 11-235, see Historical and Statutory Notes following § 31-1201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-81</heading>
+      <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 31-1201.</text>
     </level>
   </level>
 </level>

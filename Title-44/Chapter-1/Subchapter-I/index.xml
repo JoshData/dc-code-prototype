@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Purpose and Philosophy of Care.</heading>
+  <heading>Purpose and Philosophy of Care</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-101.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-101.02.xml"/>
 </level>

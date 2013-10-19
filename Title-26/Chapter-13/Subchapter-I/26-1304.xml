@@ -1,47 +1,40 @@
 <level type="section">
   <num>26-1304</num>
   <heading>Organization certificate; execution; contents.</heading>
-  <formerly-cited-as>DC ST 1981 § 26-404</formerly-cited-as>
   <text>The persons referred to in § 26-1301 shall, under their hands and seals, execute before some officer in said District competent to take the acknowledgment of deeds, an organization certificate, which shall specifically state:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The name of the corporation;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The purposes for which it is formed;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The term for which it is to exist, which shall not exceed the term of 50 years, and be subject to alteration, amendment, or repeal by Congress at any time;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The number of its directors and the names and residences of the officers who for the first year are to manage the affairs of the company; and</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>The amount of its capital stock and its subdivision into shares.</text>
-    </level>
+    <num>(1)</num>
+    <text>The name of the corporation;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The purposes for which it is formed;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The term for which it is to exist, which shall not exceed the term of 50 years, and be subject to alteration, amendment, or repeal by Congress at any time;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The number of its directors and the names and residences of the officers who for the first year are to manage the affairs of the company; and</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>The amount of its capital stock and its subdivision into shares.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 3, 1901, 31 Stat. 1303, ch. 854, § 716; Apr. 9, 1997, D.C. Law 11- 255, § 24(b), 44 DCR 1271.)</text>
+      <heading>History</heading>
+      <text>(Mar. 3, 1901, 31 Stat. 1303, ch. 854, § 716; Apr. 9, 1997, D.C. Law 11-255, § 24(b), 44 DCR 1271.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 26-404.</text>
-        <text>1973 Ed., § 26-304.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 26-1301.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 26-404.</text>
+      <text>1973 Ed., § 26-304.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 26-1301.</text>
     </level>
   </level>
 </level>

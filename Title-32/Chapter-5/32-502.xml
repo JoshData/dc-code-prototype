@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-502</num>
   <heading>Family leave requirement.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-1302</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>An employee shall be entitled to a total of 16 workweeks of family leave during any 24-month period for:</text>
@@ -99,22 +98,26 @@
       <text>Any employer who willfully violates this subsection shall be assessed a civil penalty of $1,000 for each offense.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 3, 1990, D.C. Law 8-181, § 3, 37 DCR 5043.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-1302.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-181, see Historical and Statutory Notes following § 32-501.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Adoption of a child, see § 32-705.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-504, § 32-505, § 32-506, and § 32-705.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-1302.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-181</heading>
+      <text>For legislative history of D.C. Law 8-181, see Historical and Statutory Notes following § 32-501.</text>
     </level>
   </level>
 </level>

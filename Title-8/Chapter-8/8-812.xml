@@ -7,29 +7,32 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The statistics shall identify, by Metropolitan Police Department district, the number of notices issued and dismissed</text>
+    <text>The statistics shall identify, by Metropolitan Police Department district, the number of notices issued and dismissed.</text>
   </level>
   <level>
     <num>(c)</num>
     <text>Statistics shall be provided on a calendar-year basis and shall be transmitted to the Council by January 31st, with the first report due January 31, 2010.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 25, 1986, D.C. Law 6-100, § 13, as added Mar. 20, 2009, D.C. Law 17-314, § 2(b), 56 DCR 200; renumbered § 11b, Sept. 26, 2012, D.C. Law 19- 171, § 59(b), 59 DCR 6190.)</text>
+      <heading>History</heading>
+      <text>(Mar. 25, 1986, D.C. Law 6-100, § 13, as added Mar. 20, 2009, D.C. Law 17-314, § 2(b), 56 DCR 200; redesignated as § 11b, Sept. 26, 2012, D.C. Law 19-171, § 59(b), 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-171 redesignated § 13 of D.C. Law 6-100 as § 11b of D.C. Law 6-100.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-314, see notes following § 8-802.</text>
-        <text>For history of Law 19-171, see notes under § 8-105.02.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Licensure, clean hands requirement, prohibition against issuance of licenses, see § 47-2862.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-171 redesignated D.C. Law 6-100, § 13 as D.C. Law 6-100, § 11b .</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-314</heading>
+      <text>For Law 17-314, see notes following § 8-802.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 8-811.</text>
     </level>
   </level>
 </level>

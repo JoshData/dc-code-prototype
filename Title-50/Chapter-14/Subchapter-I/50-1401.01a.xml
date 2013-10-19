@@ -2,18 +2,14 @@
   <num>50-1401.01a</num>
   <heading>Notification of operator's permit expiration.</heading>
   <text>The Mayor shall notify an owner of the expiration date of the owner's operator's permit. The required notice shall be mailed to the named owner at the address of record at least 30 days prior to the date of expiration.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1925, ch. 443, § 7a, as added Apr. 8, 2005, D.C. Law 15-307, § 702, 52 DCR 1700.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-307, see notes following § 50-1331.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-307</heading>
+      <text>For Law 15-307, see notes following § 50-1331.01.</text>
     </level>
   </level>
 </level>

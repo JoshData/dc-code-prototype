@@ -1,7 +1,6 @@
 <level type="section">
   <num>16-304</num>
   <heading>Consent; exceptions.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-304</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A petition for adoption may not be granted by the court unless there is filed with the petition a written statement of consent, as provided by this section, signed and acknowledged before an officer authorized by law to take acknowledgments, before a representative of a licensed child-placing agency, or before the Mayor of the District, or unless a relinquishment of parental rights with respect to the prospective adoptee has been recorded and filed as provided by section 4-1406.</text>
@@ -56,36 +55,45 @@
   </level>
   <level>
     <num>(g)</num>
-    <text>The court may grant a petition for adoption without consent when there has been a relinquishment of parental rights and the termination of parental rights pursuant to § 4-1451.05.</text>
+    <text>The court may grant a petition for adoption without consent when there has been a relinquishment of parental rights and the termination of parental rights pursuant to [§ 4-1451.05].</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, 77 Stat. 538, Pub. L. 88-241, § 1; July 29, 1970, 84 Stat. 555, Pub. L. 91-358, title I, § 145(a)(2); Oct. 22, 1970, 84 Stat. 1086, Pub. L. 91-488; July 22, 1976, D.C. Law 1-75, § 5(e), 23 DCR 1182; Oct. 1, 1976, D.C. Law 1-87, § 12, 23 DCR 2544; Apr. 30, 1988, D.C. Law 7-104, § 4(b), 35 DCR 147; May 27, 2010, D.C. Law 18-158, § 201, 57 DCR 3000.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-304.</text>
-        <text>1973 Ed., § 16-304.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-158, in the section heading, inserted "; exceptions"; and added subsec. (g).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 201 of Newborn Safe Haven Emergency Act of 2009 (D.C. Act 18-321, March 1, 2010, 57 DCR 1842).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 1-75, the "District of Columbia Age of Majority Act," was introduced in Council and assigned Bill No. 1-252, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first and second readings on April 6, 1976, and April 20, 1976, respectively. Signed by the Mayor on May 14, 1976, it was assigned Act No. 1-116 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 1-87, the "Anti-Sex Discriminatory Language Act," was introduced in Council and assigned Bill No. 1-36, which was referred to the Committee on the Judiciary and Criminal Law. The Bill was adopted on first and second readings on June 15, 1976, and June 29, 1976, respectively. Signed by the Mayor on July 27, 1976, it was assigned Act No. 1-143 and transmitted to both Houses of Congress for its review.</text>
-        <text>For legislative history of D.C. Law 7-104, see Historical and Statutory Notes following § 16-301.</text>
-        <text>Law 18-158, the "Newborn Safe Haven Amendment Act of 2010", was introduced in Council and assigned Bill No. 18-180, which was referred to the Committee on Human Services and the Committee on Public Safety and the Judiciary. The bill was adopted on first and second readings on January 5, 2010, and February 2, 2010, respectively. Signed by the Mayor on March 25, 2010, it was assigned Act No. 18-349 and transmitted to both Houses of Congress for its review. D.C. Law 18-158 became effective on May 27, 2010.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-1451.05 and § 16-316.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-304.</text>
+      <text>1973 Ed., § 16-304.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-158, in the section heading, inserted "; exceptions"; and added subsec. (g).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 201 of Newborn Safe Haven Emergency Act of 2009 (D.C. Act 18-321, March 1, 2010, 57 DCR 1842).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-75</heading>
+      <text>Law 1-75, the "District of Columbia Age of Majority Act," was introduced in Council and assigned Bill No. 1-252, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first and second readings on April 6, 1976, and April 20, 1976, respectively. Signed by the Mayor on May 14, 1976, it was assigned Act No. 1-116 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-87</heading>
+      <text>Law 1-87, the "Anti-Sex Discriminatory Language Act," was introduced in Council and assigned Bill No. 1-36, which was referred to the Committee on the Judiciary and Criminal Law. The Bill was adopted on first and second readings on June 15, 1976, and June 29, 1976, respectively. Signed by the Mayor on July 27, 1976, it was assigned Act No. 1-143 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-104</heading>
+      <text>For legislative history of D.C. Law 7-104, see Historical and Statutory Notes following § 16-301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-158</heading>
+      <text>Law 18-158, the "Newborn Safe Haven Amendment Act of 2010", was introduced in Council and assigned Bill No. 18-180, which was referred to the Committee on Human Services and the Committee on Public Safety and the Judiciary. The bill was adopted on first and second readings on January 5, 2010, and February 2, 2010, respectively. Signed by the Mayor on March 25, 2010, it was assigned Act No. 18-349 and transmitted to both Houses of Congress for its review. D.C. Law 18-158 became effective on May 27, 2010.</text>
     </level>
   </level>
 </level>

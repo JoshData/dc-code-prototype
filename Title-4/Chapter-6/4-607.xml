@@ -1,7 +1,6 @@
 <level type="section">
   <num>4-607</num>
   <heading>Lien.</heading>
-  <formerly-cited-as>DC ST 1981 § 3-507</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as limited by subsections (b) and (c) of this section, the District shall have a lien, perfected in accordance with subsection (d) of this section, upon any judgment or settlement awarded or executed in favor of a beneficiary against a third party for that amount of the judgment or settlement that represents the care and treatment it has undertaken to provide or pay for as health-care assistance.</text>
@@ -30,23 +29,26 @@
     <num>(e)</num>
     <text>If after receiving a notice of lien under paragraph (2) of subsection (d) of this section, a beneficiary, third party, or an insurer of a third-party tortfeasor disposes of funds covered by a lien perfected under this section without paying the District the amount of its lien that could have been satisfied from those funds after paying off any prior liens, that beneficiary, third party, or insurer shall, for a period of 1 year from the date the funds were improperly disposed of, be liable to the District for any amount that, because of the disposition, it is unable to recover.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 14, 1984, D.C. Law 5-86, § 8, 31 DCR 2098; Mar. 24, 1990, D.C. Law 8-99, § 2, 37 DCR 1067.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 3-507.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-86, see Historical and Statutory Notes following § 4-601.</text>
-        <text>Law 8-99, the "Health-Care Assistance Reimbursement Amendment Act of 1990," was introduced in Council and assigned Bill No. 8-305, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on January 2, 1990, and January 16, 1990, respectively. Signed by the Mayor on January 26, 1990, it was assigned Act No. 8-152 and transmitted to both Houses of Congress for its review.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-606 and § 4-608.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 3-507.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-86</heading>
+      <text>For legislative history of D.C. Law 5-86, see Historical and Statutory Notes following § 4-601.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-99</heading>
+      <text>Law 8-99, the "Health-Care Assistance Reimbursement Amendment Act of 1990," was introduced in Council and assigned Bill No. 8-305, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on January 2, 1990, and January 16, 1990, respectively. Signed by the Mayor on January 26, 1990, it was assigned Act No. 8-152 and transmitted to both Houses of Congress for its review.</text>
     </level>
   </level>
 </level>

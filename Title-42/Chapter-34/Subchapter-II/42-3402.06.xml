@@ -1,40 +1,50 @@
 <level type="section">
   <num>42-3402.06</num>
   <heading>Cooperative conversion.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-1615</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Notice.</text> -- An owner shall provide each tenant with prior written notice of an intent to convert of at least 120 days by first class mail and by conspicuous posting in common areas of the housing accommodation. An owner shall not provide notice prior to the Mayor's certification of compliance for purposes of cooperative conversion.</text>
+    <heading>Notice</heading>
+    <text>An owner shall provide each tenant with prior written notice of an intent to convert of at least 120 days by first class mail and by conspicuous posting in common areas of the housing accommodation. An owner shall not provide notice prior to the Mayor's certification of compliance for purposes of cooperative conversion.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Tenant opportunity to purchase unit.</text> -- An owner shall make to each tenant of the housing accommodation a bona fide offer to sell to each tenant a share or membership interest in the cooperative. An offer includes, at a minimum, the asking price for the share or membership interest and a summary of tenant rights and sources of technical assistance as published in the D.C. Register by the Mayor, if published. An owner shall afford the tenant at least 60 days in which to make a contract to purchase the share or membership interest at a mutually agreeable price and under mutually agreeable terms, which shall be at least as favorable as those offered to the general public. An owner shall not provide notice prior to the Mayor's certification of compliance for purposes of cooperative conversion.</text>
+    <heading>Tenant opportunity to purchase unit</heading>
+    <text>An owner shall make to each tenant of the housing accommodation a bona fide offer to sell to each tenant a share or membership interest in the cooperative. An offer includes, at a minimum, the asking price for the share or membership interest and a summary of tenant rights and sources of technical assistance as published in the D.C. Register by the Mayor, if published. An owner shall afford the tenant at least 60 days in which to make a contract to purchase the share or membership interest at a mutually agreeable price and under mutually agreeable terms, which shall be at least as favorable as those offered to the general public. An owner shall not provide notice prior to the Mayor's certification of compliance for purposes of cooperative conversion.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Notice to vacate.</text> -- An owner shall not serve a notice to vacate until at least 90 days after the tenant received notice of intention to convert, or prior to expiration of the 60-day period of notice of opportunity to purchase.</text>
+    <heading>Notice to vacate</heading>
+    <text>An owner shall not serve a notice to vacate until at least 90 days after the tenant received notice of intention to convert, or prior to expiration of the 60-day period of notice of opportunity to purchase.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 10, 1980, D.C. Law 3-86, § 206, 27 DCR 2975; Nov. 5, 1983, D.C. Law 5-38, § 2(d), 30 DCR 4866.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-1615.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-86, see Historical and Statutory Notes following § 42-3401.01.</text>
-        <text>For legislative history of D.C. Law 5-38, see Historical and Statutory Notes following § 42-3405.03a.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Reenactment of Law 3-86: See Historical and Statutory Notes following § 42- 3401.01.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Conversion condominiums, see § 42-1904.08.</text>
+      <text>Tenant evictions, exceptions, see § 42-3505.01.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3505.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-1615.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-86</heading>
+      <text>For legislative history of D.C. Law 3-86, see Historical and Statutory Notes following § 42-3401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-38</heading>
+      <text>For legislative history of D.C. Law 5-38, see Historical and Statutory Notes following § 42-3405.03a.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Reenactment of Law 3-86: See Historical and Statutory Notes following § 42-3401.01.</text>
     </level>
   </level>
 </level>

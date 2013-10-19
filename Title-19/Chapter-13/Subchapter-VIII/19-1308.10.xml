@@ -17,22 +17,18 @@
     <num>(d)</num>
     <text>If the trustee maintains records clearly indicating the respective interests, a trustee may invest as a whole the property of 2 or more separate trusts.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 10, 2004, D.C. Law 15-104, § 2(b), 51 DCR 208.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-104, see notes following § 19-1301.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 810 of the Uniform Trust Code. See 7C, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 15-104</heading>
+      <text>For Law 15-104, see notes following § 19-1301.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 810 of the Uniform Trust Code.</text>
     </level>
   </level>
 </level>

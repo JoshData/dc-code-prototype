@@ -1,9 +1,6 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>VIII-A</num>
-  <heading>Educational Service.</heading>
-  <level>
-    <text>DC CODE D. I, T. 1, Ch. 6, Subch. VIII-A, Refs &amp; Annos</text>
-  </level>
+  <heading>Educational Service</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-608.01a.xml"/>
 </level>

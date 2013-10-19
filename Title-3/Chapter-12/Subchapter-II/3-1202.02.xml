@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-1202.02</num>
   <heading>Board of Dietetics and Nutrition.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-3302.2</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There is established a Board of Dietetics and Nutrition to consist of 3 members appointed by the Mayor.</text>
@@ -22,22 +21,22 @@
     <num>(e)</num>
     <text>Of the members initially appointed under this section, 1 shall be appointed for a term of 1 year, 1 shall be appointed for a term of 2 years, and 1 shall be appointed for a term of 3 years.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1986, D.C. Law 6-99, § 202, 33 DCR 729.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-3302.2.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-523.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-3302.2.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-99</heading>
+      <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
     </level>
   </level>
 </level>

@@ -44,18 +44,14 @@
       <text>The first evaluation shall take place no later than 2 years after April 12, 2005.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 12, 2005, D.C. Law 15-331, § 4, 52 DCR 1981.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-331, see notes following § 7-2071.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-331</heading>
+      <text>For Law 15-331, see notes following § 7-2071.01.</text>
     </level>
   </level>
 </level>

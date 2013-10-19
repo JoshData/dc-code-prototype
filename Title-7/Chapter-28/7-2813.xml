@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-2813</num>
   <heading>Trial.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-3113</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Unless otherwise provided, the conduct of any civil trial commenced pursuant to § 7-2812 shall be governed by the Rules of the Superior Court of the District of Columbia.</text>
@@ -10,22 +9,22 @@
     <num>(b)</num>
     <text>In such trial, the complaint of a violation of this chapter shall be brought in the name of the District of Columbia by the Corporation Counsel. The burden of proof shall be upon the District of Columbia and no violation of this chapter may be established except upon proof by a preponderance of the evidence.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 26, 1980, D.C. Law 3-107, § 14, 27 DCR 3760.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-3113.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-107, see Historical and Statutory Notes following § 7-2801.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-2812.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-3113.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-107</heading>
+      <text>For legislative history of D.C. Law 3-107, see Historical and Statutory Notes following § 7-2801.</text>
     </level>
   </level>
 </level>

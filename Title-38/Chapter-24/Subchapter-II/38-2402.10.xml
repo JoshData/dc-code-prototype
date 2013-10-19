@@ -1,18 +1,20 @@
 <level type="section">
   <num>38-2402.10</num>
   <heading>International students.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-1842.10</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Enrollment.</text> -- Effective with new admissions for academic year 1993-1994 and each succeeding academic year, the University (including preparatory, undergraduate, and graduate students) and NTID shall limit the enrollment of international students to approximately 10 percent of the total postsecondary student population enrolled respectively at the University or NTID.</text>
+    <heading>Enrollment</heading>
+    <text>Effective with new admissions for academic year 1993-1994 and each succeeding academic year, the University (including preparatory, undergraduate, and graduate students) and NTID shall limit the enrollment of international students to approximately 10 percent of the total postsecondary student population enrolled respectively at the University or NTID.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Tuition surcharge.</text> -- Effective with new admissions, the tuition for postsecondary international students enrolled in the University (including preparatory, undergraduate, and graduate students) or NTID shall include a surcharge of 75% for the academic year 1993-1994 and 90 percent beginning with the academic year 1994-1995.</text>
+    <heading>Tuition surcharge</heading>
+    <text>Effective with new admissions, the tuition for postsecondary international students enrolled in the University (including preparatory, undergraduate, and graduate students) or NTID shall include a surcharge of 75% for the academic year 1993-1994 and 90 percent beginning with the academic year 1994-1995.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Reduction of surcharge.</text> -- Beginning with the academic year 1993-1994, the University or NTID may reduce the surcharge under subsection (b) of this section to 50% if:</text>
+    <heading>Reduction of surcharge</heading>
+    <text>Beginning with the academic year 1993-1994, the University or NTID may reduce the surcharge under subsection (b) of this section to 50% if:</text>
     <level>
       <num>(1)</num>
       <text>A student described under subsection (b) of this section is from a developing country;</text>
@@ -28,24 +30,21 @@
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Definition.</text> -- For purposes of subsection (c), the term "developing country" means a country that has a 1990 per capita income not in excess of $4,000 in 1990 United States dollars.</text>
+    <heading>Definition</heading>
+    <text>For purposes of subsection (c), the term "developing country" means a country that has a 1990 per capita income not in excess of $4,000 in 1990 United States dollars.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 210, formerly § 410, renumbered and amended Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 139; Aug. 11, 1993, 107 Stat. 735, Pub. L. 103-73, § 204(h); Apr. 9, 1997, D.C. Law 11-255, § 36, 44 DCR 1271.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-1842.10.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 38-2401.04.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-1842.10.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 38-2401.04.</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Prohibited Acts of Discrimination.</heading>
-  <level>
-    <text>DC CODE D. I, T. 2, Ch. 14, Subch. II, Refs &amp; Annos</text>
-  </level>
+  <heading>Prohibited Acts of Discrimination</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-B/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-C/index.xml"/>

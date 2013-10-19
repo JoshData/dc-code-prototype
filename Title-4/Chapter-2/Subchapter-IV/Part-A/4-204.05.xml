@@ -1,43 +1,47 @@
 <level type="section">
   <num>4-204.05</num>
   <heading>Medicaid benefits.</heading>
-  <formerly-cited-as>DC ST 1981 § 3-204.5</formerly-cited-as>
   <text>The District state plan required under title XIX of the Social Security Amendments of 1965 (42 U.S.C. § 1396 et seq.) shall provide that all persons in the following categories are eligible for full Medicaid benefits:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>All persons receiving Supplemental Security Income benefits;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>All persons categorically related to the Supplemental Security Income ("SSI") program (that is, aged, blind, or persons with permanent disabilities) and receiving benefits under the Old Age and Survivors Disability Insurance ("OASDI") program and who were eligible for SSI benefits (but for OASDI) cost-of-living increases received since April, 1977; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>All persons categorically related to the SSI program (that is, aged, blind, or persons with permanent disabilities) whose monthly countable income, regardless of source, is equal to or less than the combined maximum monthly payment of SSI plus the District supplement for the person having no other income or resources.</text>
-    </level>
+    <num>(1)</num>
+    <text>All persons receiving Supplemental Security Income benefits;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>All persons categorically related to the Supplemental Security Income ("SSI") program (that is, aged, blind, or persons with permanent disabilities) and receiving benefits under the Old Age and Survivors Disability Insurance ("OASDI") program and who were eligible for SSI benefits (but for OASDI) cost-of-living increases received since April, 1977; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>All persons categorically related to the SSI program (that is, aged, blind, or persons with permanent disabilities) whose monthly countable income, regardless of source, is equal to or less than the combined maximum monthly payment of SSI plus the District supplement for the person having no other income or resources.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 6, 1982, D.C. Law 4-101, § 405, 29 DCR 1060; Apr. 24, 2007, D.C. Law 16-305, § 13(a), 53 DCR 6198.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 3-204.5.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-305 substituted "persons with permanent disabilities" for "permanently disabled", throughout the section.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-101, see Historical and Statutory Notes following § 4-201.01.</text>
-        <text>For Law 16-305, see notes following § 4-110.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Medical assistance program, see § 1-30</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-307.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 3-204.5.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-305 substituted "persons with permanent disabilities" for "permanently disabled", throughout the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-101</heading>
+      <text>For legislative history of D.C. Law 4-101, see Historical and Statutory Notes following § 4-201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-305</heading>
+      <text>For Law 16-305, see notes following § 4-110.</text>
     </level>
   </level>
 </level>

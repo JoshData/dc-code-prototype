@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>B</num>
-  <heading>Child Protection Register.</heading>
+  <heading>Child Protection Register</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-1302.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-1302.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-1302.03.xml"/>

@@ -52,18 +52,14 @@
       <text>In discharging its responsibilities, the ODCA shall protect the confidentiality of MPD files and records.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 13, 2005, D.C. Law 15-352, § 212, 52 DCR 2296.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-352, see notes following § 5-331.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-352</heading>
+      <text>For Law 15-352, see notes following § 5-331.01.</text>
     </level>
   </level>
 </level>

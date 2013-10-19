@@ -1,231 +1,224 @@
 <level type="section">
   <num>28-3101</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-3101</formerly-cited-as>
   <text>For the purposes of this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Affiliate" means:</text>
     <level>
-      <num>(1)</num>
-      <text>"Affiliate" means:</text>
+      <num>(A)</num>
+      <text>A person who directly or indirectly owns, controls, or holds with power to vote 20% or more of the outstanding voting securities of the debtor, other than a person who holds the securities:</text>
       <level>
-        <num>(A)</num>
-        <text>A person who directly or indirectly owns, controls, or holds with power to vote 20% or more of the outstanding voting securities of the debtor, other than a person who holds the securities:</text>
-        <level>
-          <num>(i)</num>
-          <text>As a fiduciary or agent without sole discretionary power to vote the securities; or</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Solely to secure a debt, if the person has not exercised the power to vote;</text>
-        </level>
+        <num>(i)</num>
+        <text>As a fiduciary or agent without sole discretionary power to vote the securities; or</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>A corporation having 20% or more of its outstanding voting securities that are directly or indirectly owned, controlled, or held with power to vote by the debtor or a person who directly or indirectly owns, controls, or holds with power to vote 20% or more of the outstanding voting securities of the debtor, other than a person who holds the securities:</text>
-        <level>
-          <num>(i)</num>
-          <text>As a fiduciary or agent without sole power to vote the securities; or</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Solely to secure a debt, if the person has not in fact exercised the power to vote;</text>
-        </level>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>A person whose business is operated by the debtor under a lease or other agreement, or a person whose assets are substantially all controlled by the debtor; or</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>A person who operates the debtor's business under a lease or other agreement or controls substantially all of the debtor's assets.</text>
+        <num>(ii)</num>
+        <text>Solely to secure a debt, if the person has not exercised the power to vote;</text>
       </level>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Asset" means property of a debtor, but does not include:</text>
+      <num>(B)</num>
+      <text>A corporation having 20% or more of its outstanding voting securities that are directly or indirectly owned, controlled, or held with power to vote by the debtor or a person who directly or indirectly owns, controls, or holds with power to vote 20% or more of the outstanding voting securities of the debtor, other than a person who holds the securities:</text>
       <level>
-        <num>(A)</num>
-        <text>Property to the extent it is encumbered by a valid lien;</text>
+        <num>(i)</num>
+        <text>As a fiduciary or agent without sole power to vote the securities; or</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>Property to the extent it is generally exempt under nonbankruptcy law; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>An interest in property held in tenancy by the entireties to the extent it is not subject to process by a creditor holding a claim against only one tenant.</text>
+        <num>(ii)</num>
+        <text>Solely to secure a debt, if the person has not in fact exercised the power to vote;</text>
       </level>
     </level>
     <level>
-      <num>(3)</num>
-      <text>"Claim" means a right to payment, whether or not the right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured.</text>
+      <num>(C)</num>
+      <text>A person whose business is operated by the debtor under a lease or other agreement, or a person whose assets are substantially all controlled by the debtor; or</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>"Creditor" means a person who has a claim.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Debt" means liability on a claim.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Debtor" means a person who is liable on a claim.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"Insider" includes:</text>
-      <level>
-        <num>(A)</num>
-        <text>If the debtor is an individual:</text>
-        <level>
-          <num>(i)</num>
-          <text>A relative of the debtor or of a general partner of the debtor;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>A partnership in which the debtor is a general partner;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>A general partner in a partnership described in sub-subparagraph (ii) of this subparagraph;</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>A corporation of which the debtor is a director, officer, or person in control;</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>An unincorporated business organization in which the debtor has capital participation as a member or partner with limitation of liability for that participation, if that capital participation includes the right to conduct the business of the organization; or</text>
-        </level>
-        <level>
-          <num>(vi)</num>
-          <text>A member or partner in an unincorporated business organization described in sub-subparagraph (v) of this subparagraph who has the right to conduct the business of the organization or who controls the organization;</text>
-        </level>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>If the debtor is a corporation:</text>
-        <level>
-          <num>(i)</num>
-          <text>A director of the debtor;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>An officer of the debtor;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>A person in control of the debtor;</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>A partnership in which the debtor is a general partner;</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>A general partner in a partnership described in sub-subparagraph (iv) of this subparagraph; or</text>
-        </level>
-        <level>
-          <num>(vi)</num>
-          <text>A relative of a general partner, director, officer, or person in control of the debtor;</text>
-        </level>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>If the debtor is a partnership:</text>
-        <level>
-          <num>(i)</num>
-          <text>A general partner in the debtor;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>A relative of a general partner in, or a general partner of, the partnership, or a person in control of the debtor;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Another partnership in which the debtor is a general partner;</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>A general partner in a partnership described in sub-subparagraph (iii) of this subparagraph; or</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>A person in control of the debtor;</text>
-        </level>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>If the debtor is an unincorporated business organization in which members or partners receive limitation of liability for their capital participation in the organization:</text>
-        <level>
-          <num>(i)</num>
-          <text>A member or partner of the organization who has the right to conduct the business of the organization;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>A person who controls the organization; or</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>A relative of a person described in sub-subparagraph (i) or (ii) of this subparagraph;</text>
-        </level>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>An affiliate, or an insider of an affiliate as if the affiliate were the debtor; and</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>A managing agent of the debtor.</text>
-      </level>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Lien" means a charge against, or an interest in, property to secure payment of a debt or performance of an obligation, and includes a security interest created by agreement, a judicial lien obtained by legal or equitable process or proceedings, a common-law lien, or a statutory lien.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Person" means an individual, partnership, corporation, association, organization, limited liability company, government or governmental subdivision or agency, business trust, estate, trust, or any other legal or commercial entity.</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Property" means anything that may be the subject of ownership.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>"Relative" means an individual related by consanguinity within the third degree as determined by the common law, a spouse, or an individual related to a spouse within the third degree as so determined, and includes an individual in an adoptive relationship within the third degree.</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>"Transfer" means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of, or parting with, an asset or an interest in an asset, and includes payment of money, release, lease, and creation of a lien or other encumbrance.</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>"Valid lien" means a lien that is effective against the holder of a judicial lien subsequently obtained by legal or equitable process or proceedings.</text>
+      <num>(D)</num>
+      <text>A person who operates the debtor's business under a lease or other agreement or controls substantially all of the debtor's assets.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>"Asset" means property of a debtor, but does not include:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Property to the extent it is encumbered by a valid lien;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Property to the extent it is generally exempt under nonbankruptcy law; or</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>An interest in property held in tenancy by the entireties to the extent it is not subject to process by a creditor holding a claim against only one tenant.</text>
+    </level>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Claim" means a right to payment, whether or not the right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Creditor" means a person who has a claim.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Debt" means liability on a claim.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Debtor" means a person who is liable on a claim.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Insider" includes:</text>
+    <level>
+      <num>(A)</num>
+      <text>If the debtor is an individual:</text>
+      <level>
+        <num>(i)</num>
+        <text>A relative of the debtor or of a general partner of the debtor;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>A partnership in which the debtor is a general partner;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>A general partner in a partnership described in sub-subparagraph (ii) of this subparagraph;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>A corporation of which the debtor is a director, officer, or person in control;</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>An unincorporated business organization in which the debtor has capital participation as a member or partner with limitation of liability for that participation, if that capital participation includes the right to conduct the business of the organization; or</text>
+      </level>
+      <level>
+        <num>(vi)</num>
+        <text>A member or partner in an unincorporated business organization described in sub-subparagraph (v) of this subparagraph who has the right to conduct the business of the organization or who controls the organization;</text>
+      </level>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>If the debtor is a corporation:</text>
+      <level>
+        <num>(i)</num>
+        <text>A director of the debtor;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>An officer of the debtor;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>A person in control of the debtor;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>A partnership in which the debtor is a general partner;</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>A general partner in a partnership described in sub-subparagraph (iv) of this subparagraph; or</text>
+      </level>
+      <level>
+        <num>(vi)</num>
+        <text>A relative of a general partner, director, officer, or person in control of the debtor;</text>
+      </level>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>If the debtor is a partnership:</text>
+      <level>
+        <num>(i)</num>
+        <text>A general partner in the debtor;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>A relative of a general partner in, or a general partner of, the partnership, or a person in control of the debtor;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Another partnership in which the debtor is a general partner;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>A general partner in a partnership described in sub-subparagraph (iii) of this subparagraph; or</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>A person in control of the debtor;</text>
+      </level>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>If the debtor is an unincorporated business organization in which members or partners receive limitation of liability for their capital participation in the organization:</text>
+      <level>
+        <num>(i)</num>
+        <text>A member or partner of the organization who has the right to conduct the business of the organization;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>A person who controls the organization; or</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>A relative of a person described in sub-subparagraph (i) or (ii) of this subparagraph;</text>
+      </level>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>An affiliate, or an insider of an affiliate as if the affiliate were the debtor; and</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>A managing agent of the debtor.</text>
+    </level>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Lien" means a charge against, or an interest in, property to secure payment of a debt or performance of an obligation, and includes a security interest created by agreement, a judicial lien obtained by legal or equitable process or proceedings, a common-law lien, or a statutory lien.</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Person" means an individual, partnership, corporation, association, organization, limited liability company, government or governmental subdivision or agency, business trust, estate, trust, or any other legal or commercial entity.</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"Property" means anything that may be the subject of ownership.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>"Relative" means an individual related by consanguinity within the third degree as determined by the common law, a spouse, or an individual related to a spouse within the third degree as so determined, and includes an individual in an adoptive relationship within the third degree.</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>"Transfer" means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of, or parting with, an asset or an interest in an asset, and includes payment of money, release, lease, and creation of a lien or other encumbrance.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>"Valid lien" means a lien that is effective against the holder of a judicial lien subsequently obtained by legal or equitable process or proceedings.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Aug. 30, 1964, 78 Stat. 674, Pub. L. 88-509, § 1; Feb. 9, 1996, D.C. Law 11-83, § 2, 42 DCR 6773.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-3101.</text>
-        <text>1973 Ed., § 28-3101.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 11-83, the "Uniform Fraudulent Transfer Act of 1995," was introduced in Council and assigned Bill No. 11-228, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on October 10, 1995, and November 7, 1995, respectively. Signed by the Mayor on November 27, 1995, it was assigned Act No. 11-160 and transmitted to both Houses of Congress for its review. D.C. Law 11-83 became effective on February 9, 1996.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 1 of the Uniform Fraudulent Transfer Act. See Volume 7A, Part II Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-3101.</text>
+      <text>1973 Ed., § 28-3101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-83</heading>
+      <text>Law 11-83, the "Uniform Fraudulent Transfer Act of 1995," was introduced in Council and assigned Bill No. 11-228, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on October 10, 1995, and November 7, 1995, respectively. Signed by the Mayor on November 27, 1995, it was assigned Act No. 11-160 and transmitted to both Houses of Congress for its review. D.C. Law 11-83 became effective on February 9, 1996.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 1 of the Uniform Fraudulent Transfer Act.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Specific Licensing Provisions.</heading>
+  <heading>Specific Licensing Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2801~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2802~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2803~P.xml"/>
@@ -38,6 +38,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2831.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2832.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2832.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2832.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2833~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2834~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2835.xml"/>

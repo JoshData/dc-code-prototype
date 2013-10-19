@@ -3,27 +3,21 @@
   <heading>Report on misconduct allegations and grievances.</heading>
   <text>The Chief of Police and the Fire Chief shall, not later than January 15 of each calendar year, beginning in 2006, deliver a report to the Mayor and the Council concerning misconduct and grievances filed by or against members of their respective departments. The report shall contain:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The number of individuals, of all rank and services, investigated and disciplined for misconduct, categorized by the nature of the misconduct allegations, the nature of those misconduct allegations that are substantiated, and the discipline given for substantiated allegations; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The number of formal grievances filed by individuals, including complaints filed with each agency's Equal Employment Opportunity Officer, categorized by the nature of the grievance filed and the nature of those grievances that are substantiated.</text>
-    </level>
+    <num>(1)</num>
+    <text>The number of individuals, of all rank and services, investigated and disciplined for misconduct, categorized by the nature of the misconduct allegations, the nature of those misconduct allegations that are substantiated, and the discipline given for substantiated allegations; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The number of formal grievances filed by individuals, including complaints filed with each agency's Equal Employment Opportunity Officer, categorized by the nature of the grievance filed and the nature of those grievances that are substantiated.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 30, 2004, D.C. Law 15-194, § 503, 51 DCR 9406.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-194, see notes following § 5-1031.</text>
-      </level>
+      <heading>Legislative History of Law 15-194</heading>
+      <text>For Law 15-194, see notes following § 5-1031.</text>
     </level>
   </level>
 </level>

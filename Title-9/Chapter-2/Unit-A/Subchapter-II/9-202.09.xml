@@ -1,7 +1,6 @@
 <level type="section">
   <num>9-202.09</num>
   <heading>Approval subject to contingencies; relocation assistance.</heading>
-  <formerly-cited-as>DC ST 1981 § 7-429</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Council may make the approval of a closing of all or part of a street or alley contingent upon any or all of the following:</text>
@@ -38,7 +37,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>The preferential opportunity to return referred to in subparagraph (1) (A) of this subsection includes at least a written offer to return to space to be leased in the new or rehabilitated building upon completion.</text>
+      <text>The preferential opportunity to return referred to in subparagraph (1)(A) of this subsection includes at least a written offer to return to space to be leased in the new or rehabilitated building upon completion.</text>
     </level>
     <level>
       <num>(4)</num>
@@ -91,36 +90,45 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>An applicant who obtains a street or alley closing or a zoning density increase and who is required to construct or rehabilitate affordable housing pursuant to section 308b of the Comprehensive Plan (10 DCMR) shall not be issued a building permit for the applicant's commercial development until the applicant certifies to the District either that a building permit has been issued for the required amount of affordable housing, or that the applicant has contributed sufficient funds to a housing provider to construct or rehabilitate the required amount of affordable housing.</text>
+    <text>An applicant who obtains a street or alley closing or a zoning density increase and who is required to construct or rehabilitate affordable housing pursuant to section 308b of the Comprehensive Plan (10 DCMR) [10 DCMR § 308b] shall not be issued a building permit for the applicant's commercial development until the applicant certifies to the District either that a building permit has been issued for the required amount of affordable housing, or that the applicant has contributed sufficient funds to a housing provider to construct or rehabilitate the required amount of affordable housing.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 10, 1983, D.C. Law 4-201, § 209, 30 DCR 148; Aug. 7, 1986, D.C. Law 6-133, § 2, 33 DCR 3625; Oct. 6, 1994, D.C. Law 10-193, § 3(c), 41 DCR 5536; Apr. 27, 1999, D.C. Law 12-275, § 4, 46 DCR 1441.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 7-429.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-201, see Historical and Statutory Notes following § 9-201.01.</text>
-        <text>Law 6-133, the "Street and Alley Closing and Acquisition Procedures Act of 1982 Relocation Assistance Amendment Act of 1986," was introduced in Council and assigned Bill No. 6-330, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 13, 1986 and May 27, 1986, respectively. Signed by the Mayor on June 6, 1986, it was assigned Act No. 6- 171 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 10-193, the "Comprehensive Plan Amendments Act of 1994," was introduced in Council and assigned Bill No. 10-212, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 7, 1994, and June 21, 1994, respectively. Signed by the Mayor on August 8, 1994, it was assigned Act No. 10-323 and transmitted to both Houses of Congress for its review. D.C. Law 10-193 became effective on October 6, 1994.</text>
-        <text>Law 12-275, the "Comprehensive Plan Amendment Act of 1998," was introduced in Council and assigned Bill No. 12-99. The Bill was adopted on first and second readings on December 1, 1998, and December 15, 1998, respectively. Signed by the Mayor on December 31, 1998, it was assigned Act No. 12-609 and transmitted to both Houses of Congress for its review. D.C. Law 12-275 became effective on April 27, 1999.</text>
-      </level>
-      <level>
-        <heading>Effective Dates</heading>
-        <text>Section 4(b) of D.C. Law 10-193 provided that no District element of the Comprehensive Plan for the National Capital shall take effect until it has been reviewed by the National Capital Planning Commission as provided in § 2-1002(a) and § 1-204.23.</text>
-        <text>Section 7(b) of D.C. Law 12-275 provided that no District element of the Comprehensive Plan for the National Capital shall take effect until it has been reviewed by the National Capital Planning Commission as provided in § 2-1002(a) and § 1-204.23.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>Section 308b of the Comprehensive Plan (10 DCMR) referred to in (f) is codified as § 308b of Title 10 of the D.C. Municipal Regulations.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 9-202.12.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 7-429.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-201</heading>
+      <text>For legislative history of D.C. Law 4-201, see Historical and Statutory Notes following § 9-201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-133</heading>
+      <text>Law 6-133, the "Street and Alley Closing and Acquisition Procedures Act of 1982 Relocation Assistance Amendment Act of 1986," was introduced in Council and assigned Bill No. 6-330, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 13, 1986 and May 27, 1986, respectively. Signed by the Mayor on June 6, 1986, it was assigned Act No. 6-171 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-193</heading>
+      <text>Law 10-193, the "Comprehensive Plan Amendments Act of 1994," was introduced in Council and assigned Bill No. 10-212, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 7, 1994, and June 21, 1994, respectively. Signed by the Mayor on August 8, 1994, it was assigned Act No. 10-323 and transmitted to both Houses of Congress for its review. D.C. Law 10-193 became effective on October 6, 1994.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-275</heading>
+      <text>Law 12-275, the "Comprehensive Plan Amendment Act of 1998," was introduced in Council and assigned Bill No. 12-99. The Bill was adopted on first and second readings on December 1, 1998, and December 15, 1998, respectively. Signed by the Mayor on December 31, 1998, it was assigned Act No. 12-609 and transmitted to both Houses of Congress for its review. D.C. Law 12-275 became effective on April 27, 1999.</text>
+    </level>
+    <level>
+      <heading>Effective Dates</heading>
+      <text>Section 4(b) of D.C. Law 10-193 provided that no District element of the Comprehensive Plan for the National Capital shall take effect until it has been reviewed by the National Capital Planning Commission as provided in § 2-1002(a) and § 1-204.23.</text>
+      <text>Section 7(b) of D.C. Law 12-275 provided that no District element of the Comprehensive Plan for the National Capital shall take effect until it has been reviewed by the National Capital Planning Commission as provided in § 2-1002(a) and § 1-204.23.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>Section 308b of the Comprehensive Plan (10 DCMR) referred to in (f) is codified as § 308b of Title 10 of the D.C. Municipal Regulations.</text>
     </level>
   </level>
 </level>

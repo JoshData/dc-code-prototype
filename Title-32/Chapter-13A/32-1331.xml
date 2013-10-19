@@ -1,6 +1,6 @@
 <level type="section">
   <num>32-1331</num>
-  <heading>Transitional Employment Program.</heading>
+  <heading>Transitional employment program.</heading>
   <level>
     <num>(a)</num>
     <text>The Mayor shall establish and implement a program, subject to the annual appropriation of funds, to provide transitional employment for District of Columbia residents residing in persistent problem areas who face barriers to employment due to deficiencies in education, work experience, work training, work skills, prior incarceration, or the loss of certain occupations or industries from the economy of the District or the Washington Metropolitan Area.</text>
@@ -29,26 +29,26 @@
     <num>(g)</num>
     <text>Participants may be provided with additional placement and supportive services for up to 6 months after the conclusion of their work experience jobs if these services are found to enhance the participants' chances of obtaining or continuing in unsubsidized employment.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 20, 2005, D.C. Law 16-33, § 2102, 52 DCR 7503.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 2102 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-33, see notes following § 32-242.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title of subtitle H of title II of Law 16-33: Section 2101 of D.C. Law 16-33 provided that subtitle H of title II of the act may be cited as the Transitional Employment Program and Apprenticeship Initiative Establishment Act of 2005.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-328.05, § 2-219.01, and § 32-771.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 2102 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-33</heading>
+      <text>For Law 16-33, see notes following § 32-242.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title of subtitle H of title II of Law 16-33: Section 2101 of D.C. Law 16-33 provided that subtitle H of title II of the act may be cited as the Transitional Employment Program and Apprenticeship Initiative Establishment Act of 2005.</text>
     </level>
   </level>
 </level>

@@ -44,18 +44,18 @@
     <num>(i)</num>
     <text>The Board shall determine the qualifications and credentialing for health care professionals to receive the privilege of practicing within a health-care facility under the Corporation's jurisdiction and make reasonable policies and procedures for the conduct of a person on the staff of a facility within the Corporation's jurisdiction, consistent with District law.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 2011, D.C. Law 19-21, § 5116, 58 DCR 6226.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-21, see notes under § 44-951.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 44-951.06 and § 44-951.17.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 44-951.01.</text>
     </level>
   </level>
 </level>

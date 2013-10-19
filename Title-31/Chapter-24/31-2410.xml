@@ -1,14 +1,15 @@
 <level type="section">
   <num>31-2410</num>
   <heading>Special provisions.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-2110</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Election of deductible.</text> -- An insurer offering to provide personal injury protection insurance in the District may offer, at appropriately reduced premium rates, a deductible of a specified dollar amount up to the amount prescribed by the Mayor, upon the recommendation of the Commissioner. This deductible may be applicable to all or any specified type of personal injury protection benefit, except that it may not be made applicable to any medical, paramedical, ambulance, or hospital services furnished to a victim on an emergency basis during the 72 hours immediately following an accident.</text>
+    <heading>Election of deductible</heading>
+    <text>An insurer offering to provide personal injury protection insurance in the District may offer, at appropriately reduced premium rates, a deductible of a specified dollar amount up to the amount prescribed by the Mayor, upon the recommendation of the Commissioner. This deductible may be applicable to all or any specified type of personal injury protection benefit, except that it may not be made applicable to any medical, paramedical, ambulance, or hospital services furnished to a victim on an emergency basis during the 72 hours immediately following an accident.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Subtraction of certain other benefits.</text> -- All benefits (less reasonably incurred collection costs) that an individual receives or may receive, with respect to an injury, from:</text>
+    <heading>Subtraction of certain other benefits</heading>
+    <text>All benefits (less reasonably incurred collection costs) that an individual receives or may receive, with respect to an injury, from:</text>
     <level>
       <num>(1)</num>
       <text>Repealed;</text>
@@ -29,7 +30,11 @@
   <text>shall be subtracted in calculating personal injury protection benefits unless the law authorizing or providing for those benefits makes them secondary to or duplicative of personal injury protection benefits.</text>
   <level>
     <num>(c)</num>
-    <text><text i="True">Penalty for overdue payment of personal injury protection benefits.</text> -- (1) All personal injury protection benefits are payable as loss accrues, subject to receipt by the applicable insurer of reasonable proof of the fact and amount of loss sustained. If personal injury protection benefits are not paid within 30 days after receipt of such proof, the payment is overdue.</text>
+    <heading>Penalty for overdue payment of personal injury protection benefits</heading>
+    <level>
+      <num>(1)</num>
+      <text>All personal injury protection benefits are payable as loss accrues, subject to receipt by the applicable insurer of reasonable proof of the fact and amount of loss sustained. If personal injury protection benefits are not paid within 30 days after receipt of such proof, the payment is overdue.</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>An overdue payment of personal injury protection benefits bears interest at the prime rate of interest generally prevailing in the District on the date upon which such payment is first overdue per annum from the date upon which such payment is first overdue.</text>
@@ -41,11 +46,16 @@
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Assignment of rights to future benefits.</text> -- An agreement for the assignment of a right to any personal injury protection benefits payable in the future is void.</text>
+    <heading>Assignment of rights to future benefits</heading>
+    <text>An agreement for the assignment of a right to any personal injury protection benefits payable in the future is void.</text>
   </level>
   <level>
     <num>(e)</num>
-    <text><text i="True">Payment of attorneys fees.</text> -- (1) An attorney may receive a reasonable fee for advising and representing a claimant in an action for personal injury protection benefits which are overdue. The fee shall be paid by the applicable insurer in addition to the amount of the personal injury protection benefits which are overdue and the penalty under subsection (c) of this section if a court finds that the insurer did not promptly pay the amount due.</text>
+    <heading>Payment of attorneys fees</heading>
+    <level>
+      <num>(1)</num>
+      <text>An attorney may receive a reasonable fee for advising and representing a claimant in an action for personal injury protection benefits which are overdue. The fee shall be paid by the applicable insurer in addition to the amount of the personal injury protection benefits which are overdue and the penalty under subsection (c) of this section if a court finds that the insurer did not promptly pay the amount due.</text>
+    </level>
     <level>
       <num>(2)</num>
       <text>An insurer may be allowed, by a court, an award of a reasonable sum for a fee for its attorney for the legal cost of defending against a claim that is or was fraudulent in some significant respect. The award may be treated as an offset against the amount of any personal injury protection benefits then or thereafter owing by that insurer to the person making that claim.</text>
@@ -53,33 +63,49 @@
   </level>
   <level>
     <num>(f)</num>
-    <text><text i="True">Primacy of personal injury protection.</text> -- Repealed.</text>
+    <heading>Primacy of personal injury protection</heading>
+    <text>Repealed.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 18, 1982, D.C. Law 4-155, § 11, 29 DCR 3491; Mar. 14, 1985, D.C. Law 5-159, § 13(b), 32 DCR 30; Mar. 4, 1986, D.C. Law 6-96, § 2(j), 32 DCR 7245; May 21, 1997, D.C. Law 11-268, § 10(v), 44 DCR 1730; Mar. 24, 1998, D.C. Law 12-81, § 32(a), 45 DCR 745; Apr. 20, 1999, D.C. Law 12-264, § 37, 46 DCR 2118.)</text>
+      <heading>History</heading>
+      <text>(Sept. 18, 1982, D.C. Law 4-155, § 11, 29 DCR 3491; Mar. 14, 1985, D.C. Law 5-159, § 13(b), 32 DCR 30; Mar. 4, 1986, D.C. Law 6-96, § 2(j), 32 DCR 7245; May 21, 1997, D.C. Law 11-268, § 10(v), 44 DCR 1730; Mar. 24, 1998, D.C. Law 12-81, § 32(a), 45 DCR 745; Apr. 20, 1999, D.C. Law 12-264,§ 37, 46 DCR 2118.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-2110.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-155, see Historical and Statutory Notes following § 31-2401.</text>
-        <text>For legislative history of D.C. Law 5-159, see Historical and Statutory Notes following § 31-2403.</text>
-        <text>For legislative history of D.C. Law 6-96, see Historical and Statutory Notes following § 31-2408.01.</text>
-        <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-2402.</text>
-        <text>Law 12-81, the "Technical Amendments Act of 1998," was introduced in Council and assigned Bill No. 12-408, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 4, 1997, and December 4, 1997, respectively. Signed by the Mayor on December 22, 1997, it was assigned Act No. 12-246 and transmitted to both Houses of Congress for its review. D.C. Law 12-81 became effective on March 24, 1998.</text>
-        <text>Law 12-264, the "Health Insurance Portability and Accountability Federal Law Conformity and No-Fault Motor Vehicle Insurance Act of 1998," was introduced in Council and assigned Bill No. 12-804, which was referred to the Committee of the Whole. The Bill was adopted on first and second reading on November 10, 1998, and December 1, 1998, respectively. Signed by the Mayor on January 7, 1999, it was assigned Act No. 12-626, and transmitted to both Houses of Congress for review. D.C. Law 12-264 became effective on April 20, 1999.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Department of Insurance abolished: See Historical and Statutory Notes following § 31-2402.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-2411.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-2110.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-155</heading>
+      <text>For legislative history of D.C. Law 4-155, see Historical and Statutory Notes following § 31-2401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-159</heading>
+      <text>For legislative history of D.C. Law 5-159, see Historical and Statutory Notes following § 31-2403.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-96</heading>
+      <text>For legislative history of D.C. Law 6-96, see Historical and Statutory Notes following § 31-2408.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-2402.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-81</heading>
+      <text>Law 12-81, the "Technical Amendments Act of 1998," was introduced in Council and assigned Bill No. 12-408, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 4, 1997, and December 4, 1997, respectively. Signed by the Mayor on December 22, 1997, it was assigned Act No. 12-246 and transmitted to both Houses of Congress for its review. D.C. Law 12-81 became effective on March 24, 1998.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-264</heading>
+      <text>Law 12-264, the "Health Insurance Portability and Accountability Federal Law Conformity and No-Fault Motor Vehicle Insurance Act of 1998," was introduced in Council and assigned Bill No. 12-804, which was referred to the Committee of the Whole. The Bill was adopted on first and second reading on November 10, 1998, and December 1, 1998, respectively. Signed by the Mayor on January 7, 1999, it was assigned Act No. 12-626, and transmitted to both Houses of Congress for review. D.C. Law 12-264 became effective on April 20, 1999.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Department of Insurance abolished: See Historical and Statutory Notes following § 31-2402.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>11-741</num>
   <heading>Contempt powers.</heading>
-  <formerly-cited-as>DC ST 1981 § 11-741</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Subject to the limitation described in subsection (b), and in addition to the powers conferred by section 402 of title 18, United States Code, the District of Columbia Court of Appeals, or a judge thereof, may punish for disobedience of an order or for contempt committed in the presence of the court.</text>
@@ -20,11 +19,11 @@
       <num>(3)</num>
       <level>
         <num>(A)</num>
-        <text>An individual imprisoned for 6 consecutive months for civil contempt for disobedience of an order in a proceeding described in paragraph (1) who continues to disobey such order may be prosecuted for criminal contempt for disobedience of such order at any time before the expiration of the 12-month period that begins on the first day of such individual's imprisonment, except that an individual so imprisoned as of the date of the enactment of this subsection may be prosecuted under this subsection at any time during the 90- day period that begins on the date of the enactment of this subsection.</text>
+        <text>An individual imprisoned for 6 consecutive months for civil contempt for disobedience of an order in a proceeding described in paragraph (1) who continues to disobey such order may be prosecuted for criminal contempt for disobedience of such order at any time before the expiration of the 12-month period that begins on the first day of such individual's imprisonment, except that an individual so imprisoned as of the date of the enactment of this subsection may be prosecuted under this subsection at any time during the 90-day period that begins on the date of the enactment of this subsection.</text>
       </level>
       <level>
         <num>(B)</num>
-        <text>The trial of an individual prosecuted for criminal contempt pursuant to this paragraph --</text>
+        <text>The trial of an individual prosecuted for criminal contempt pursuant to this paragraph -</text>
         <level>
           <num>(i)</num>
           <text>shall begin not later than 90 days after the date on which such individual is charged with criminal contempt;</text>
@@ -40,23 +39,19 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 481, Pub. L. 91-358, title I, § 111; Sept. 23, 1989, 103 Stat. 634, Pub. L. 101-97, § 2(b).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 11-741.</text>
-        <text>1973 Ed., § 11-741.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Application of §§ 2 and 3 of Pub. L. 101-97: Section 5 of Pub. L. 101-97 provided that the amendments made by §§ 2 and 3 shall apply with respect to any individual imprisoned before the expiration of the 18-month period that begins on the date of the enactment of this Act for disobedience of an order or for contempt committed in the presence of the Superior Court of the District of Columbia or the District of Columbia Court of Appeals.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 11-741.</text>
+      <text>1973 Ed., § 11-741.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of §§ 2 and 3 of Pub. L. 101-97: Section 5 of Pub. L. 101-97 provided that the amendments made by §§ 2 and 3 shall apply with respect to any individual imprisoned before the expiration of the 18-month period that begins on the date of the enactment of this Act for disobedience of an order or for contempt committed in the presence of the Superior Court of the District of Columbia or the District of Columbia Court of Appeals.</text>
     </level>
   </level>
 </level>

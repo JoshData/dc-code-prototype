@@ -10,7 +10,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>There are over 3,500 bus stops in the District of Columbia:</text>
+      <text>There are over 3,500 bus stops in the District of Columbia;</text>
     </level>
     <level>
       <num>(3)</num>
@@ -42,7 +42,7 @@
     <text>The purposes of this chapter are to:</text>
     <level>
       <num>(1)</num>
-      <text>Provide the District of Columbia with bus shelters along its bus transportation routes:</text>
+      <text>Provide the District of Columbia with bus shelters along its bus transportation routes;</text>
     </level>
     <level>
       <num>(2)</num>
@@ -50,7 +50,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Permit advertisement to be displayed on some of the bus shelters: and</text>
+      <text>Permit advertisement to be displayed on some of the bus shelters; and</text>
     </level>
     <level>
       <num>(4)</num>
@@ -61,18 +61,14 @@
     <num>(c)</num>
     <text>Nothing in this chapter shall be construed as comprising the franchise agreement.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 10, 1980, D.C. Law 3-67, § 2, 27 DCR 1266.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 3-67 was introduced in the Council and assigned Bill No. 3-145. The Bill was adopted on first and second readings on February 5, 1980, and February 19, 1980, respectively. Signed by the Mayor on March 17, 1980, it was assigned Act No. 3-166 and transmitted to both Houses of Congress for its review.</text>
-      </level>
+      <heading>Legislative History of Law 3-67</heading>
+      <text>Law 3-67 was introduced in the Council and assigned Bill No. 3-145. The Bill was adopted on first and second readings on February 5, 1980, and February 19, 1980, respectively. Signed by the Mayor on March 17, 1980, it was assigned Act No. 3-166 and transmitted to both Houses of Congress for its review.</text>
     </level>
   </level>
 </level>

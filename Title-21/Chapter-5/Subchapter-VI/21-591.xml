@@ -1,54 +1,55 @@
 <level type="section">
   <num>21-591</num>
   <heading>Offenses and penalties.</heading>
-  <formerly-cited-as>DC ST 1981 § 21-591</formerly-cited-as>
   <text>Whoever:</text>
   <level>
+    <num>(1)</num>
+    <text>without probable cause for believing a person to be mentally ill:</text>
     <level>
-      <num>(1)</num>
-      <text>without probable cause for believing a person to be mentally ill:</text>
-      <level>
-        <num>(A)</num>
-        <text>causes or conspires with or assists another person to cause the hospitalization, under this chapter, of the person first referred to; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>executes a petition, application, or certificate pursuant to this chapter, by which he secures or attempts to secure the apprehension, hospitalization, detention, or restraint of the person first referred to;</text>
-      </level>
+      <num>(A)</num>
+      <text>causes or conspires with or assists another person to cause the hospitalization, under this chapter, of the person first referred to; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>executes a petition, application, or certificate pursuant to this chapter, by which he secures or attempts to secure the apprehension, hospitalization, detention, or restraint of the person first referred to;</text>
     </level>
   </level>
   <text>or</text>
   <level>
-    <level>
-      <num>(2)</num>
-      <text>causes or conspires with or assists another person to cause the denial to a person of a right accorded to him by this chapter;</text>
-    </level>
+    <num>(2)</num>
+    <text>causes or conspires with or assists another person to cause the denial to a person of a right accorded to him by this chapter;</text>
   </level>
   <text>or</text>
   <level>
-    <level>
-      <num>(3)</num>
-      <text>being a physician, psychiatrist or qualified psychologist, knowingly makes a false certificate or application pursuant to this chapter as to the mental condition of a person --</text>
-    </level>
+    <num>(3)</num>
+    <text>being a physician, psychiatrist or qualified psychologist, knowingly makes a false certificate or application pursuant to this chapter as to the mental condition of a person -</text>
   </level>
-  <text>shall be fined not more than $5,000 or imprisoned not more than three years, or both.</text>
-  <level>
-    <type>annotations</type>
+  <text>shall be fined not more than the amount set forth in [§ 22-3571.01] or imprisoned not more than three years, or both.</text>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 14, 1965, 79 Stat. 761, Pub. L. 89-183, § 1; Feb. 24, 1984, D.C. Law 5-48, § 11(a)(20), 30 DCR 5778.)</text>
+      <heading>History</heading>
+      <text>(Sept. 14, 1965, 79 Stat. 761, Pub. L. 89-183, § 1; Feb. 24, 1984, D.C. Law 5-48, § 11(a)(20), 30 DCR 5778; June 11, 2013, D.C. Law 19-317, § 282, 60 DCR 2064.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 21-591.</text>
-        <text>1973 Ed., § 21-591.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-48, see Historical and Statutory Notes following § 21-501.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 21-591.</text>
+      <text>1973 Ed., § 21-591.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-317 substituted "not more than the amount set forth in [§ 22-3571.01]" for "not more than $5,000" in the last line.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-48</heading>
+      <text>For legislative history of D.C. Law 5-48, see Historical and Statutory Notes following § 21-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-317</heading>
+      <text>Law 19-317, the "Criminal Fine Proportionality Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-214. The Bill was adopted on first and second readings on Oct. 16, 2012, and Nov. 1, 2012, respectively. Signed by the Mayor on Jan. 23, 2013, it was assigned Act No. 19-641 and transmitted to Congress for its review. D.C. Law 19-317 became effective on June 11, 2013.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
     </level>
   </level>
 </level>

@@ -65,34 +65,35 @@
     <num>(f)</num>
     <text>The requirements of this section shall not apply to solicitor's licenses, manager's licenses, caterer's licenses, or to temporary licenses.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959; Oct. 1, 2002, D.C. Law 14-190, § 1702(h), 49 DCR 6968; Sept. 30, 2004, D.C. Law 15-187, § 201(d), 51 DCR 6525.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <text>D.C. Law 13-298 amended and enacted into law Title 25 of the District of Columbia Official Code.</text>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-190 rewrote subsec. (d), and added subsec. (e). Subsec. (d) had read as follows:</text>
-        <text>"(d) No moratorium request shall be considered by the Board unless all of the requirements of subsection (a) of this section have been met and the following conditions are satisfied:"</text>
-        <text>"(1) If the requested moratorium area is a locality, there shall exist in that area at least 3 licensed establishments of the same class or 6 licensed establishments of any class or combination of classes;"</text>
-        <text>"(2) If the requested moratorium area is a section, there shall exist in that area at least 6 establishments of the same class or 12 establishments of any class or combination of classes; and"</text>
-        <text>"(3) If the requested moratorium area is a portion, there shall exist in that area at least 9 establishments of the same class or 18 establishments of any class or combination of classes."</text>
-        <text>D.C. Law 15-187 added subsec. (f).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 1702(h) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-298, see notes following § 25-101.</text>
-        <text>For Law 14-190, see notes following § 25-101.</text>
-        <text>For Law 15-187, see notes following § 25-101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 25-353.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-190 rewrote subsec. (d), and added subsec. (e).</text>
+      <text>D.C. Law 15-187 added subsec. (f).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 1702(h) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-298</heading>
+      <text>For D.C. Law 13-298, see notes following § 25-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-190</heading>
+      <text>For Law 14-190, see notes following § 25-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-187</heading>
+      <text>For Law 15-187, see notes following § 25-101.</text>
     </level>
   </level>
 </level>

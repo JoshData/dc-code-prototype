@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>1</num>
-  <heading>Advisory Commission on Sentencing.</heading>
-  <level>
-    <text>DC CODE D. I, T. 3, Subt. I, Ch. 1, Refs &amp; Annos</text>
-  </level>
+  <heading>Advisory Commission on Sentencing</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-101.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-102.xml"/>

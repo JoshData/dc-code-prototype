@@ -1,28 +1,12 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I-A</num>
-  <heading>Chief Financial Officer of the District of Columbia.</heading>
-  <level>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Editor's Notes</heading>
-          <text>For District of Columbia Home Rule Act provisions, see §§ 1-204.24a through 1- 204.24f.</text>
-          <text>DC CODE D. VIII, T. 47, Ch. 3, Subch. I-A, Refs &amp; Annos</text>
-        </level>
-      </level>
-    </level>
-  </level>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.01~47-317.03~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.01~47-317.03~P.xml"/>
+  <heading>Chief Financial Officer of the District of Columbia</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.01~47-317.03~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.03a.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.04~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.04a.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.05~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.06~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.05~47-317.06~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.07.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.08~P.xml"/>
 </level>

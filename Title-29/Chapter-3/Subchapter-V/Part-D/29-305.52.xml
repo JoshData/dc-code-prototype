@@ -3,35 +3,41 @@
   <heading>Demand.</heading>
   <text>A shareholder shall not commence a derivative proceeding until:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>A written demand has been made upon the corporation to take suitable action; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Ninety days have expired from the date the demand was made unless</text>
-      <level>
-        <num>(A)</num>
-        <text>The shareholder has earlier been notified that the demand has been rejected by the corporation; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Irreparable injury to the corporation would result by waiting for the expiration of the 90-day period.</text>
-      </level>
-    </level>
+    <num>(1)</num>
+    <text>A written demand has been made upon the corporation to take suitable action; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Ninety days have expired from the date the delivery of the demand was made unless</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <num>(A)</num>
+      <text>The shareholder has earlier been notified that the demand has been rejected by the corporation; or</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <num>(B)</num>
+      <text>Irreparable injury to the corporation would result by waiting for the expiration of the 90-day period.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(c)(15), 59 DCR 13171.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "the delivery of the demand" for "the demand" in (2).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-301.03.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

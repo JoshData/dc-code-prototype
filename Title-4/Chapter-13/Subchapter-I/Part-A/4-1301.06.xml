@@ -1,7 +1,6 @@
 <level type="section">
   <num>4-1301.06</num>
   <heading>Investigation.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-2104</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The full investigation shall be completed no more than 30 days after the receipt of the first notice of the suspected abuse or neglect.</text>
@@ -38,7 +37,7 @@
       </level>
       <level>
         <num>(E)</num>
-        <text>Whether any child who is at risk should be removed from the home or can be protected by the provision of resources, such as those listed in §§ 4- 1303.03 and 4-1303.03a.</text>
+        <text>Whether any child who is at risk should be removed from the home or can be protected by the provision of resources, such as those listed in §§ 4-1303.03 and 4-1303.03a.</text>
       </level>
     </level>
   </level>
@@ -61,42 +60,40 @@
     <num>(e)</num>
     <text>Nothing in this section shall be read as abrogating the responsibility of the Metropolitan Police Department for criminal investigations.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 23, 1977, D.C. Law 2-22, title I, § 106, 24 DCR 3341; Apr. 4, 2001, D.C. Law 13-277, § 2(d), 48 DCR 2043; Apr. 12, 2005, D.C. Law 15-341, § 2(c), 52 DCR 2315.)</text>
+      <heading>History</heading>
+      <text>(Sept. 23, 1977, D.C. Law 2-22, title I, § 106, 24 DCR 3341; Apr. 4, 2001, D.C. Law 13-277, § 2(d), 48 DCR 2043; Apr. 12, 2005, D.C. Law 15-341,§ 2(c), 52 DCR 2315.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-2104.</text>
-        <text>1973 Ed., § 6-2104.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-277, in subsec. (a), substituted "with the Agency" for "with the Division" and substituted "either the Agency" for "either the department of Human Services".</text>
-        <text>D.C. Law 15-341 rewrote the section which had read as follows:</text>
-        <text>"(a) The primary responsibility for the initial investigation is with the police in cases of an allegedly abused child and with the Agency in other cases of an allegedly neglected child: Provided, however, that the investigation of a report involving acts or omissions of either the Agency or the police shall be conducted by the department which is not involved.</text>
-        <text>"(b) The purpose of the initial investigation shall be to determine:</text>
-        <text>"(1) The nature, extent, and cause of the abuse or neglect;</text>
-        <text>"(2) The identity of the person responsible for the abuse or neglect;</text>
-        <text>"(3) The name, age, sex, and condition of the abused or neglected child and all other children in the home;</text>
-        <text>"(4) The conditions in the home at the time of the investigation;</text>
-        <text>"(5) Whether there is any child in the home whose health, safety, or welfare is in jeopardy because of his or her treatment in the home or his or her home environment; and</text>
-        <text>"(6) Whether any child who is in jeopardy because of treatment in the home or his or her home environment should be removed from the home or can be protected by the provision of resources such as those listed in § 4-1303.04."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 4-1301.02.</text>
-        <text>For D.C. Law 13-277, see notes following § 4-1301.02.</text>
-        <text>For Law 15-341, see notes following § 4-1301.02.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>For applicability of D.C. Law 13-277, see note following § 4-1303.01a.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-1301.06a, § 4-1303.03, and § 16-2353.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-2104.</text>
+      <text>1973 Ed., § 6-2104.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-277, in subsec. (a), substituted "with the Agency" for "with the Division" and substituted "either the Agency" for "either the department of Human Services".</text>
+      <text>D.C. Law 15-341 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-22</heading>
+      <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 4-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-277</heading>
+      <text>For D.C. Law 13-277, see notes following § 4-1301.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-341</heading>
+      <text>For Law 15-341, see notes following § 4-1301.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>For applicability of D.C. Law 13-277, see note following § 4-1303.01a.</text>
     </level>
   </level>
 </level>

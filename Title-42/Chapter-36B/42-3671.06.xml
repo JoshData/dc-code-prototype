@@ -3,43 +3,37 @@
   <heading>Prohibited practices.</heading>
   <text>A lease-purchase agreement shall not contain:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>A confession of judgment;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>A negotiable instrument;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>A security interest or any other claim of a property interest in any goods except those goods delivered by the lessor under the lease-purchase agreement;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>A wage assignment;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>A waiver by the consumer of claims or defenses; or</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>A provision authorizing the lessor, or the lessor's agent, to enter upon the consumer's premises or to commit any breach of the peace in the repossession of goods.</text>
-    </level>
+    <num>(1)</num>
+    <text>A confession of judgment;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>A negotiable instrument;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>A security interest or any other claim of a property interest in any goods except those goods delivered by the lessor under the lease-purchase agreement;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>A wage assignment;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>A waiver by the consumer of claims or defenses; or</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>A provision authorizing the lessor, or the lessor's agent, to enter upon the consumer's premises or to commit any breach of the peace in the repossession of goods.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 13, 2002, D.C. Law 14-99, § 7, 49 DCR 1000.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 14-99, see notes following § 42-3671.01.</text>
-      </level>
+      <heading>Legislative History of Law 14-99</heading>
+      <text>For D.C. Law 14-99, see notes following § 42-3671.01.</text>
     </level>
   </level>
 </level>

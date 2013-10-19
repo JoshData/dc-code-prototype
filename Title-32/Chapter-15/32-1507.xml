@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-1507</num>
   <heading>Medical services, supplies, and insurance.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-307</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The employer shall furnish such medical, surgical, vocational rehabilitation services, including necessary travel expenses and other attendance or treatment, nurse and hospital service, medicine, crutches, false teeth or the repair thereof, eye glasses or the repair thereof, artificial or any prosthetic appliance for such period as the nature of the injury or the process of recovery may require. The employer shall furnish such additional payment as the Mayor may determine is necessary for the maintenance of an employee undergoing vocational rehabilitation, not to exceed $50 a week.</text>
@@ -42,46 +41,46 @@
     <level>
       <num>(1)</num>
       <text>, (2) Repealed.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The employee shall have the right to choose an attending physician to provide medical care under this chapter. If, due to the nature of the injury, the employee is unable to select a physician and the nature or the injury requires immediate treatment and care, the employer shall select a physician for him. Where medically necessary or advisable, or at the request of the employee, the attending physician shall consult with the employee's personal physician.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The Mayor shall supervise the medical care rendered to injured employees, shall require periodic reports as to the medical care being rendered to injured employees, shall have the authority to determine the necessity, character, and sufficiency of any medical aid furnished or to be furnished, and may order a change of physician or hospital when in his judgment such change is necessary or desirable.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Each person who provides medical care or service under this chapter shall utilize a standard coding system for reports and bills pursuant to rules issued by the Mayor. Medical care and service shall be billed at a usual and customary rate.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Any medical care or service furnished or scheduled to be furnished under this chapter shall be subject to utilization review. Utilization review may be accomplished prospectively, concurrently, or retrospectively.</text>
       <level>
-        <num>(A)</num>
-        <text>In order to determine the necessity, character, or sufficiency of any medical care or service furnished or scheduled to be furnished under this chapter and to allow for the performance of competent utilization review, a utilization review organization or individual used pursuant to this chapter shall be certified by the Utilization Review Accreditation Commission.</text>
+        <num>(3)</num>
+        <text>The employee shall have the right to choose an attending physician to provide medical care under this chapter. If, due to the nature of the injury, the employee is unable to select a physician and the nature or the injury requires immediate treatment and care, the employer shall select a physician for him. Where medically necessary or advisable, or at the request of the employee, the attending physician shall consult with the employee's personal physician.</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>When it appears that the necessity, character, or sufficiency of medical care or service to an employee is improper or that medical care or service scheduled to be furnished must be clarified, the Mayor, employee, or employer may initiate review by a utilization review organization or individual.</text>
+        <num>(4)</num>
+        <text>The Mayor shall supervise the medical care rendered to injured employees, shall require periodic reports as to the medical care being rendered to injured employees, shall have the authority to determine the necessity, character, and sufficiency of any medical aid furnished or to be furnished, and may order a change of physician or hospital when in his judgment such change is necessary or desirable.</text>
       </level>
       <level>
-        <num>(C)</num>
-        <text>If the medical care provider disagrees with the opinion of the utilization review organization or individual, the medical care provider shall have the right to request reconsideration of the opinion by the utilization review organization or individual 60 calendar days from receipt of the utilization review report. The request for reconsideration shall be written and contain reasonable medical justification for the reconsideration.</text>
+        <num>(5)</num>
+        <text>Each person who provides medical care or service under this chapter shall utilize a standard coding system for reports and bills pursuant to rules issued by the Mayor. Medical care and service shall be billed at a usual and customary rate.</text>
       </level>
       <level>
-        <num>(D)</num>
-        <text>Disputes between a medical care provider, employee, or employer on the issue of necessity, character, or sufficiency of the medical care or service furnished, or scheduled to be furnished, or the fees charged by the medical care provider shall be resolved by the Mayor upon application for a hearing on the dispute by the medical care provider, employee, or employer. A party who is adversely affected or aggrieved by the decision of the Mayor may petition for review of the decision by the District of Columbia Court of Appeals.</text>
+        <num>(6)</num>
+        <text>Any medical care or service furnished or scheduled to be furnished under this chapter shall be subject to utilization review. Utilization review may be accomplished prospectively, concurrently, or retrospectively.</text>
+        <level>
+          <num>(A)</num>
+          <text>In order to determine the necessity, character, or sufficiency of any medical care or service furnished or scheduled to be furnished under this chapter and to allow for the performance of competent utilization review, a utilization review organization or individual used pursuant to this chapter shall be certified by the Utilization Review Accreditation Commission.</text>
+        </level>
+        <level>
+          <num>(B)</num>
+          <text>When it appears that the necessity, character, or sufficiency of medical care or service to an employee is improper or that medical care or service scheduled to be furnished must be clarified, the Mayor, employee, or employer may initiate review by a utilization review organization or individual.</text>
+        </level>
+        <level>
+          <num>(C)</num>
+          <text>If the medical care provider disagrees with the opinion of the utilization review organization or individual, the medical care provider shall have the right to request reconsideration of the opinion by the utilization review organization or individual 60 calendar days from receipt of the utilization review report. The request for reconsideration shall be written and contain reasonable medical justification for the reconsideration.</text>
+        </level>
+        <level>
+          <num>(D)</num>
+          <text>Disputes between a medical care provider, employee, or employer on the issue of necessity, character, or sufficiency of the medical care or service furnished, or scheduled to be furnished, or the fees charged by the medical care provider shall be resolved by the Mayor upon application for a hearing on the dispute by the medical care provider, employee, or employer. A party who is adversely affected or aggrieved by the decision of the Mayor may petition for review of the decision by the District of Columbia Court of Appeals.</text>
+        </level>
+        <level>
+          <num>(E)</num>
+          <text>The employer shall pay the cost of a utilization review if the employee seeks the review and is the prevailing party.</text>
+        </level>
       </level>
       <level>
-        <num>(E)</num>
-        <text>The employer shall pay the cost of a utilization review if the employee seeks the review and is the prevailing party.</text>
+        <num>(7)</num>
+        <text>Medical care providers shall not hold employees liable for service rendered in connection with a compensable injury under this chapter.</text>
       </level>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>Medical care providers shall not hold employees liable for service rendered in connection with a compensable injury under this chapter.</text>
     </level>
   </level>
   <level>
@@ -112,33 +111,42 @@
     <num>(i)</num>
     <text>The employee and employer are entitled upon request to all medical reports made pursuant to claims arising under this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 1, 1980, D.C. Law 3-77, § 8, 27 DCR 2503; Mar. 6, 1991, D.C. Law 8-198, § 2(c), 37 DCR 6890; Apr. 16, 1999, D.C. Law 12-229, § 2(d), 46 DCR 891; Apr. 24, 2007, D.C. Law 16-305, § 48(b), 53 DCR 6198.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-307.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-305, in subsec. (c) substituted "employees with disabilities" for "disabled employees".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
-        <text>For legislative history of D.C. Law 8-198, see Historical and Statutory Notes following § 32-1542.01.</text>
-        <text>For legislative history of D.C. Law 12-229, see Historical and Statutory Notes following § 32-1501.</text>
-        <text>For Law 16-305, see notes following § 32-241.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Mayor authorized to issue rules: See Historical and Statutory Notes following § 32-1501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-1505, § 32-1519, § 32-1530, § 32-1535, and § 32-1540.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-307.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-305, in subsec. (c) substituted "employees with disabilities" for "disabled employees".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-77</heading>
+      <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-198</heading>
+      <text>For legislative history of D.C. Law 8-198, see Historical and Statutory Notes following § 32-1542.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-229</heading>
+      <text>For legislative history of D.C. Law 12-229, see Historical and Statutory Notes following § 32-1501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-305</heading>
+      <text>For Law 16-305, see notes following § 32-241.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Mayor authorized to issue rules: See Historical and Statutory Notes following § 32-1501.</text>
     </level>
   </level>
 </level>

@@ -3,40 +3,37 @@
   <heading>License renewal.</heading>
   <text>The Board of Medicine shall renew the license of a surgical assistant who, in addition to meeting the requirements of § 3-1205.04(q), has submitted to the Board, along with the application for renewal, documentation of current certification as a surgical assistant by:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The National Surgical Assistant Association;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The American Board of Surgical Assistants; or</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The National Board of Surgical Technology and Surgical Assisting.</text>
-    </level>
+    <num>(1)</num>
+    <text>The National Surgical Assistant Association;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The American Board of Surgical Assistants; or</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The National Board of Surgical Technology and Surgical Assisting.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 25, 1986, D.C. Law 6-99, § 642, as added Mar. 6, 2007, D.C. Law 16- 228, § 2(i), 53 DCR 10244; July 18, 2009, D.C. Law 18-26, § 2(f), 56 DCR 4043.)</text>
+      <heading>History</heading>
+      <text>(Mar. 25, 1986, D.C. Law 6-99, § 642, as added Mar. 6, 2007, D.C. Law 16-228, § 2(i), 53 DCR 10244; July 18, 2009, D.C. Law 18-26, § 2(f), 56 DCR 4043.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-26, in par. (1), deleted "or" from the end; in par. (2), substituted "; or" for a period at the end; and added par. (3).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(f) of Health Occupations Revision General Amendment Emergency Act of 2009 (D.C. Act 18-146, July 28, 2009, 56 DCR 6308).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-228, see notes following § 3-1206.41.</text>
-        <text>For Law 18-26, see notes following § 3-1201.01.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-26, in par. (1), deleted "or" from the end; in par. (2), substituted "; or" for a period at the end; and added par. (3).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(f) of Health Occupations Revision General Amendment Emergency Act of 2009 (D.C. Act 18-146, July 28, 2009, 56 DCR 6308).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-228</heading>
+      <text>For Law 16-228, see notes following § 3-1206.41.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-26</heading>
+      <text>For Law 18-26, see notes following § 3-1201.01.</text>
     </level>
   </level>
 </level>

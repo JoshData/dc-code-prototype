@@ -37,27 +37,27 @@
     <num>(d)</num>
     <text>The Task Force shall provide all interested persons a reasonable opportunity to be heard at the public meetings.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(March 10, 2004, D.C. Law 15-73, § 4, 50 DCR 10909.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-73, see notes following § 6-1051.</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition, see § 4 of Comprehensive Housing Strategy Temporary Act of 2003 (D.C. Law 15-52, December 9, 2003, law notification 51 DCR 1787).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 4 of Comprehensive Housing Strategy Emergency Act of 2003 (D.C. Act 15-143, July 29, 2003, 50 DCR 6888).</text>
-        <text>For temporary (90 day) addition, see § 4 of Comprehensive Housing Strategy Congressional Review Emergency Act of 2003 (D.C. Act 15-215, November 7, 2003, 50 DCR 10023).</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-1054.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition, see § 4 of Comprehensive Housing Strategy Temporary Act of 2003 (D.C. Law 15-52, December 9, 2003, law notification 51 DCR 1787).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 4 of Comprehensive Housing Strategy Emergency Act of 2003 (D.C. Act 15-143, July 29, 2003, 50 DCR 6888).</text>
+      <text>For temporary (90 day) addition, see § 4 of Comprehensive Housing Strategy Congressional Review Emergency Act of 2003 (D.C. Act 15-215, November 7, 2003, 50 DCR 10023).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-73</heading>
+      <text>For Law 15-73, see notes following § 6-1051.</text>
     </level>
   </level>
 </level>

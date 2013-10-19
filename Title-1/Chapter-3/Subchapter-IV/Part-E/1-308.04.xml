@@ -17,18 +17,14 @@
     <num>(d)</num>
     <text>The unpaid payments in lieu of taxes may be collected in accordance with Chapter 13A of Title 47.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 5, 2005, D.C. Law 15-293, § 5, 52 DCR 1465.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-293, see notes following § 1-308.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-293</heading>
+      <text>For Law 15-293, see notes following § 1-308.01.</text>
     </level>
   </level>
 </level>

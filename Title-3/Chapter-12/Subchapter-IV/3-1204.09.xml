@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-1204.09</num>
   <heading>Fees.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-3304.9</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as provided in subsection (b) of this section, the Mayor is authorized to establish a fee schedule for all services related to the regulation of all health occupations under this chapter, in accordance with the requirements of District law.</text>
@@ -21,32 +20,36 @@
       <text>The fee for the issuance of a license to practice by a physician-in-training, if any, shall be determined by the Board of Medicine.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1986, D.C. Law 6-99, § 409, 33 DCR 729; Mar. 14, 2007, D.C. Law 16-263, § 201(b), 54 DCR 807; Mar. 26, 2008, D.C. Law 17-131, § 102(d), 55 DCR 1659; Mar. 14, 2012, D.C. Law 19-104, § 2(c), 59 DCR 435.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-3304.9.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-263 inserted "; provided, that the fee for the issuance of a medical license shall be set by the Board of Medicine; provided further, that the fee shall be no less than $500 and shall be sufficient to fund the programmatic needs of the Board".</text>
-        <text>D.C. Law 17-131 rewrote the section, which had read as follows:</text>
-        <text>"The Mayor is authorized to establish a fee schedule for all services related to the regulation of all health occupations under this chapter, in accordance with the requirements of District law; provided, that the fee for the issuance of a medical license shall be set by the Board of Medicine; provided further, that the fee shall be no less than $500 and shall be sufficient to fund the programmatic needs of the Board."</text>
-        <text>D.C. Law 19-104 added subsec. (b)(3).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
-        <text>For Law 16-263, see notes following § 3-1202.03.</text>
-        <text>For Law 17-131, see notes following § 3-1201.02.</text>
-        <text>For history of Law 19-104, see notes under § 3-1201.02.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-3304.9.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-263 inserted "; provided, that the fee for the issuance of a medical license shall be set by the Board of Medicine; provided further, that the fee shall be no less than $500 and shall be sufficient to fund the programmatic needs of the Board".</text>
+      <text>D.C. Law 17-131 rewrote the section, which had read as follows: "The Mayor is authorized to establish a fee schedule for all services related to the regulation of all health occupations under this chapter, in accordance with the requirements of District law; provided, that the fee for the issuance of a medical license shall be set by the Board of Medicine; provided further, that the fee shall be no less than $500 and shall be sufficient to fund the programmatic needs of the Board."</text>
+      <text>D.C. Law 19-104 added subsec. (b)(3).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-99</heading>
+      <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-263</heading>
+      <text>For Law 16-263, see notes following § 3-1202.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-131</heading>
+      <text>For Law 17-131, see notes following § 3-1201.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-104</heading>
+      <text>For history of Law 19-104, see notes under § 3-1201.02.</text>
     </level>
   </level>
 </level>

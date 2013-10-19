@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>4</num>
-  <heading>Civil Jurisdiction and Service Outside the District of Columbia.</heading>
-  <level>
-    <text>DC CODE D. II, T. 13, Ch. 4, Refs &amp; Annos</text>
-  </level>
+  <heading>Civil Jurisdiction and Service Outside the District of Columbia</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-III/index.xml"/>

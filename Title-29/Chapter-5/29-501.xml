@@ -2,22 +2,24 @@
   <num>29-501</num>
   <heading>Short title.</heading>
   <text>This chapter may be cited as the "Professional Corporation Act of 2010".</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Former § 29-501 has been recodified as § 36-501.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Accountants, registration of firms of CPAs, compliance with this chapter, see § 47-2853.44.</text>
+      <text>Income and franchise taxes, "corporation" defined, see § 47-1801.04.</text>
+      <text>Income and franchise taxes, "unincorporated business" defined, see § 47-1801.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Former § 29-501 has been recodified as § 36-501.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>A</num>
-  <heading>Definitions and Requirements.</heading>
+  <heading>Definitions and Requirements</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1801.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1801.02.xml"/>
 </level>

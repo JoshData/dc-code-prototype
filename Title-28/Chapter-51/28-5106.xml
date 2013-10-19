@@ -17,18 +17,18 @@
     <num>(b)</num>
     <text>An art dealer who accepts a work of fine art, on a fee, commission, or other compensation basis, on consignment from the artist who created the work of fine art shall compensate the artist for loss or damage to the consigned work of fine art.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 12, 2011, D.C. Law 18-310, § 7, 57 DCR 12392.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-310, see notes under § 28-5101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28-5108.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-310</heading>
+      <text>For history of Law 18-310, see notes under § 28-5101.</text>
     </level>
   </level>
 </level>

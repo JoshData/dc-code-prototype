@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Boot Camp Program.</heading>
+  <heading>Boot Camp Program</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-921.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-922.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-923.xml"/>

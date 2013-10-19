@@ -1,9 +1,9 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Findings; Purposes; Definitions.</heading>
+  <heading>Findings; Purposes; Definitions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3401.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3401.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3401.03.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3401.0.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3401.04.xml"/>
 </level>

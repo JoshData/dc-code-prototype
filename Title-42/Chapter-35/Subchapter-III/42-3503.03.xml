@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-3503.03</num>
   <heading>Authorization to enter into contracts for tenant assistance payments; determination of eligibility; procedure upon determination of eligibility.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2533</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor may enter into contracts to make rental assistance payments to housing providers of rental dwelling units on behalf of eligible families in accordance with this section. Unit A of Chapter 3 of Title 2 shall not apply to the contracts authorized by this subchapter.</text>
@@ -55,7 +54,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>All single-person households shall be assigned a 0-bedroom unit if 0- bedroom units are available. Where there are no 0-bedroom units available, single-person households shall be assigned a 1-bedroom unit. A single, elderly person or single person with a disability planning to live with an unrelated person essential to his or her care may be assigned a 2-bedroom unit.</text>
+      <text>All single-person households shall be assigned a 0-bedroom unit if 0-bedroom units are available. Where there are no 0-bedroom units available, single-person households shall be assigned a 1-bedroom unit. A single, elderly person or single person with a disability planning to live with an unrelated person essential to his or her care may be assigned a 2-bedroom unit.</text>
     </level>
   </level>
   <level>
@@ -84,38 +83,47 @@
     <num>(h)</num>
     <text>Owners of rental accommodations in the District shall notify tenants of the existence of the Tenant Assistance Program and shall refer interested parties to the Department for further information.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 17, 1985, D.C. Law 6-10, § 303, 32 DCR 3089; Oct. 2, 1987, D.C. Law 7-30, § 3(f)-(i), 34 DCR 5304; Apr. 24, 2007, D.C. Law 16-305, § 67(d), 53 DCR 6198; Sept. 12, 2008, D.C. Law 17-231, § 38, 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2533.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-305, in subsec. (c), substituted "individuals with disabilities" for "the handicapped"; and, in subsec. (e)(3), substituted "A single, elderly person or single person with a disability" for "An elderly, handicapped, or disable single person".</text>
-        <text>D.C. Law 17-231, in subsec. (e)(2), substituted "other than spouses" for "other than the husband and wife".</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2(f)-(i) of Tenant Assistance Program Amendment Temporary Act of 1987 (D.C. Law 7-48, December 10, 1987, law notification 34 DCR 8107).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
-        <text>For legislative history of D.C. Law 7-30, see Historical and Statutory Notes following § 42-3502.01.</text>
-        <text>For Law 16-305, see notes following § 42-820.</text>
-        <text>For Law 17-231, see notes following § 42-516.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: See Historical and Statutory Notes following § 42-3501.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3508.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2533.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-305, in subsec. (c), substituted "individuals with disabilities" for "the handicapped"; and, in subsec. (e)(3), substituted "A single, elderly person or single person with a disability" for "An elderly, handicapped, or disable single person".</text>
+      <text>D.C. Law 17-231, in subsec. (e)(2), substituted "other than spouses" for "other than the husband and wife".</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2(f)-(i) of Tenant Assistance Program Amendment Temporary Act of 1987 (D.C. Law 7-48, December 10, 1987, law notification 34 DCR 8107).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-10</heading>
+      <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-30</heading>
+      <text>For legislative history of D.C. Law 7-30, see Historical and Statutory Notes following § 42-3502.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-305</heading>
+      <text>For Law 16-305, see notes following § 42-820.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 42-516.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: See Historical and Statutory Notes following § 42-3501.01.</text>
     </level>
   </level>
 </level>

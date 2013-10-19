@@ -1,8 +1,8 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>D</num>
-  <heading>51st State Commission. [Not Funded]</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-136.01.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-136.02.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-136.03.xml"/>
+  <heading>51St State Commission</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-136.01~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-136.02~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-136.03~P.xml"/>
 </level>

@@ -1,7 +1,6 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>IV</num>
-  <heading>Psychologists.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2304.01~3-2304.18~P.xml"/>
+  <heading>Psychologists</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2304.01~3-2304.18~P.xml"/>
 </level>

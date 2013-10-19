@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-1307</num>
   <heading>Inspections; analyses; right of entry; notice; posting.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-707</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For the purpose of enforcing this chapter or any rule or regulation promulgated pursuant to this chapter, the Mayor may at any reasonable time, within reasonable limits, and in a reasonable manner, upon presenting appropriate credentials to the owner, operator or agent in charge:</text>
@@ -30,25 +29,27 @@
     <num>(d)</num>
     <text>When dangerous chemicals and hazardous waste on property pose an imminent threat to human health or the environment, the Mayor may post the property and restrict access. The posting shall provide the public with notice that a dangerous condition exists and shall prohibit the owner from removing or handling the waste without prior approval by the Mayor.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1978, D.C. Law 2-64, § 8, 24 DCR 6289; Aug. 10, 1984, D.C. Law 5-103, § 2(e), 31 DCR 3032; Oct. 18, 1989, D.C. Law 8-37, § 2(e), 36 DCR 5748.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-707.</text>
-        <text>1973 Ed., § 6-527.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-64, see Historical and Statutory Notes following § 8-1301.</text>
-        <text>For legislative history of D.C. Law 5-103, see Historical and Statutory Notes following § 8-1301.</text>
-        <text>For legislative history of D.C. Law 8-37, see Historical and Statutory Notes following § 8-1313.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-707.</text>
+      <text>1973 Ed., § 6-527.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-64</heading>
+      <text>For legislative history of D.C. Law 2-64, see Historical and Statutory Notes following § 8-1301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-103</heading>
+      <text>For legislative history of D.C. Law 5-103, see Historical and Statutory Notes following § 8-1301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-37</heading>
+      <text>For legislative history of D.C. Law 8-37, see Historical and Statutory Notes following § 8-1313.</text>
     </level>
   </level>
 </level>

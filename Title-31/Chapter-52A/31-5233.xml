@@ -24,23 +24,26 @@
     <num>(d)</num>
     <text>A Certified Investor shall not be required to reduce the amount of premium tax included by the Certified Investor in connection with ratemaking in the District, for any insurance written by the Certified Investor or affiliate thereof, because of a reduction in the Certified Investor's District Premium Tax Liability from the utilization of the Premium Tax Credits.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 10, 2004, D.C. Law 15-87, § 4, 50 DCR 10982; Apr. 13, 2005, D.C. Law 15-354, § 49(b), 52 DCR 2638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-354, in pars. (1) and (2) of subsec. (c), validated previously made technical corrections.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-87, see notes following § 31-5231.</text>
-        <text>For Law 15-354, see notes following § 31-101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-5231.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-354, in pars. (1) and (2) of subsec. (c), validated previously made technical corrections.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-87</heading>
+      <text>For Law 15-87, see notes following § 31-5231.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 31-101.</text>
     </level>
   </level>
 </level>

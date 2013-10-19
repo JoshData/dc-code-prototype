@@ -27,7 +27,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>The court shall have jurisdiction to enter a judgment enforcing, modifying, and enforcing as so modified, or setting aside, in whole or in part, the order and the decision of the Ethics Board or it may remand the proceedings to the Ethics Board for such further action as it may direct. The court may determine <text i="True">de novo</text> all issues of law, but the Ethics Board's findings of fact, if supported by substantial evidence, shall be conclusive.</text>
+        <text>The court shall have jurisdiction to enter a judgment enforcing, modifying, and enforcing as so modified, or setting aside, in whole or in part, the order and the decision of the Ethics Board or it may remand the proceedings to the Ethics Board for such further action as it may direct. The court may determine de novo all issues of law, but the Ethics Board's findings of fact, if supported by substantial evidence, shall be conclusive.</text>
       </level>
     </level>
   </level>
@@ -41,7 +41,7 @@
       <num>(2)</num>
       <level>
         <num>(A)</num>
-        <text>Prosecutions of violations of this subsection shall be brought by the Attorney General of the District of Columbia; provided, that if the conduct also violates criminal provisions that could be prosecuted by the United States Attorney for the District of Columbia, the United States Attorney for the District of Columbia consents to the prosecution by the Attorney General of the District of Columbia.</text>
+        <text>Prosecutions of violations of this subsection shall be brought by the Attorney General of the District of Columbia; provided, that if the conduct also violates criminal provisions that could be prosecuted by the United States Attorney of the District of Columbia, the United States Attorney of the District of Columbia consents to the prosecution by the Attorney General of the District of Columbia.</text>
       </level>
       <level>
         <num>(B)</num>
@@ -65,18 +65,18 @@
     <num>(f)</num>
     <text>The penalties set forth in this section shall not apply to part E of this subchapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2012, D.C. Law 19-124, § 221, 59 DCR 1862.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-1161.01, § 1-1162.10, § 1-1162.15, § 1-1162.22, § 1-1162.32, and § 1-1163.38.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-124</heading>
+      <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
     </level>
   </level>
 </level>

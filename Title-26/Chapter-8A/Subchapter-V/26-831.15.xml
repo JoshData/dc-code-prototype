@@ -61,23 +61,22 @@
       <text>Exercise any other power and duty authorized by the Superior Court.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-308, § 315, 48 DCR 3244; Oct. 19, 2002, D.C. Law 14-213, § 18(e), 49 DCR 8140.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-213, in subsec. (a)(7), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-308, see notes following § 26-833.01.</text>
-        <text>For Law 14-213, see notes following § 26-131.02.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-213, in subsec. (a)(7), validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-308</heading>
+      <text>For Law 13-308, see notes following § 26-833.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-213</heading>
+      <text>For Law 14-213, see notes following § 26-131.02.</text>
     </level>
   </level>
 </level>

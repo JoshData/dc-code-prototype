@@ -1,24 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>18</num>
-  <heading>Income and Franchise Taxes.</heading>
-  <level>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Effect of Amendments</heading>
-          <text>D.C. Law 14-213 made a technical change in item § 47-1806.09b.</text>
-        </level>
-        <level>
-          <heading>Legislative History of Laws</heading>
-          <text>For Law 14-213, see notes following § 47-820.</text>
-          <text>DC CODE D. VIII, T. 47, Ch. 18, Refs &amp; Annos</text>
-        </level>
-      </level>
-    </level>
-  </level>
+  <heading>Income and Franchise Taxes</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-III/index.xml"/>

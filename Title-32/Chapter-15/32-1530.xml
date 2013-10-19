@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-1530</num>
   <heading>Attorney fees.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-330</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>If the employer or carrier declines to pay any compensation on or before the 30th day after receiving written notice from the Mayor that a claim for compensation has been filed, on the grounds that there is no liability for compensation within the provisions of this chapter, and the person seeking benefits thereafter utilizes the services of an attorney-at-law in the successful prosecution of his claim, there shall be awarded, in addition to the award of compensation, in a compensation order, a reasonable attorney's fee against the employer or carrier in an amount approved by the Mayor, or court, as the case may be, which shall be paid directly by the employer or carrier to the attorney for the claimant in a lump sum after the compensation order becomes final.</text>
@@ -26,22 +25,22 @@
     <num>(f)</num>
     <text>At no time shall an attorney's fee be approved in excess of 20% of the actual benefit secured through the efforts of the attorney. This provision applies to all benefits secured through the efforts of an attorney, including settlements provided for under this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 1, 1980, D.C. Law 3-77, § 31, 27 DCR 2503.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-330.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-1508.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-330.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-77</heading>
+      <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
     </level>
   </level>
 </level>

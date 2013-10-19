@@ -1,500 +1,581 @@
 <level type="section">
   <num>48-902.04</num>
   <heading>Schedule I enumerated.</heading>
-  <formerly-cited-as>DC ST 1981 § 33-514</formerly-cited-as>
   <text>The controlled substances listed in this section are included in Schedule I, unless and until removed therefrom pursuant to § 48-902.01:</text>
   <level>
+    <num>(1)</num>
+    <text>Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of these isomers, esters, ethers and salts is possible within the specific chemical designation:</text>
     <level>
-      <num>(1)</num>
-      <text>Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of these isomers, esters, ethers and salts is possible within the specific chemical designation:</text>
-      <level>
-        <num>(A)</num>
-        <text>Acetylmethadol;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Allylprodine;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Alphacetylmethadol (except levo-alphacetylmethadol, also known as levo-alphaacetylmethadol, levomethadyl, accetate, or LAAM);</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Alphameprodine;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Alphamethadol;</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Benzethidine;</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>Betacetylmethadol;</text>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>Betameprodine;</text>
-      </level>
-      <level>
-        <num>(I)</num>
-        <text>Betamethadol;</text>
-      </level>
-      <level>
-        <num>(J)</num>
-        <text>Betaprodine;</text>
-      </level>
-      <level>
-        <num>(K)</num>
-        <text>Clonitazene;</text>
-      </level>
-      <level>
-        <num>(L)</num>
-        <text>Dextromoramide;</text>
-      </level>
-      <level>
-        <num>(M)</num>
-        <text>Diampromide;</text>
-      </level>
-      <level>
-        <num>(N)</num>
-        <text>Diethylthiambutene;</text>
-      </level>
-      <level>
-        <num>(O)</num>
-        <text>Difenoxin;</text>
-      </level>
-      <level>
-        <num>(P)</num>
-        <text>Dimenoxadol;</text>
-      </level>
-      <level>
-        <num>(Q)</num>
-        <text>Dimepheptanol;</text>
-      </level>
-      <level>
-        <num>(R)</num>
-        <text>Dimethylthiambutene;</text>
-      </level>
-      <level>
-        <num>(S)</num>
-        <text>Dioxaphetylbutyrate;</text>
-      </level>
-      <level>
-        <num>(T)</num>
-        <text>Dipipanone;</text>
-      </level>
-      <level>
-        <num>(U)</num>
-        <text>Ethylmethylthiambutene;</text>
-      </level>
-      <level>
-        <num>(V)</num>
-        <text>Etonitazene;</text>
-      </level>
-      <level>
-        <num>(W)</num>
-        <text>Etoxeridine;</text>
-      </level>
-      <level>
-        <num>(X)</num>
-        <text>Furethidine;</text>
-      </level>
-      <level>
-        <num>(Y)</num>
-        <text>Hydroxypethidine;</text>
-      </level>
-      <level>
-        <num>(Z)</num>
-        <text>Ketobemidone;</text>
-      </level>
-      <level>
-        <num>(AA)</num>
-        <text>Levomoramide;</text>
-      </level>
-      <level>
-        <num>(BB)</num>
-        <text>Levophenacylmorphan;</text>
-      </level>
-      <level>
-        <num>(CC)</num>
-        <text>Morpheridine;</text>
-      </level>
-      <level>
-        <num>(DD)</num>
-        <text>Noracymethadol;</text>
-      </level>
-      <level>
-        <num>(EE)</num>
-        <text>Norlevorphanol;</text>
-      </level>
-      <level>
-        <num>(FF)</num>
-        <text>Normethadone;</text>
-      </level>
-      <level>
-        <num>(GG)</num>
-        <text>Norpipanone;</text>
-      </level>
-      <level>
-        <num>(HH)</num>
-        <text>Phenadoxone;</text>
-      </level>
-      <level>
-        <num>(II)</num>
-        <text>Phenampromide;</text>
-      </level>
-      <level>
-        <num>(JJ)</num>
-        <text>Phenomorphan;</text>
-      </level>
-      <level>
-        <num>(KK)</num>
-        <text>Phenoperidine;</text>
-      </level>
-      <level>
-        <num>(LL)</num>
-        <text>Piritramide;</text>
-      </level>
-      <level>
-        <num>(MM)</num>
-        <text>Proheptazine;</text>
-      </level>
-      <level>
-        <num>(NN)</num>
-        <text>Properidine;</text>
-      </level>
-      <level>
-        <num>(OO)</num>
-        <text>Propiram;</text>
-      </level>
-      <level>
-        <num>(PP)</num>
-        <text>Racemoramide;</text>
-      </level>
-      <level>
-        <num>(QQ)</num>
-        <text>Thiophene;</text>
-      </level>
-      <level>
-        <num>(RR)</num>
-        <text>Trimeperidine;</text>
-      </level>
-      <level>
-        <num>(SS)</num>
-        <text>Acetyl-Alpha-Methylfentanyl;</text>
-      </level>
-      <level>
-        <num>(TT)</num>
-        <text>Alphe-methylfentanyl;</text>
-      </level>
-      <level>
-        <num>(UU)</num>
-        <text>Alpha-Methylthiofentanyl;</text>
-      </level>
-      <level>
-        <num>(VV)</num>
-        <text>Beta-hydroxyfentanyl;</text>
-      </level>
-      <level>
-        <num>(WW)</num>
-        <text>Beta-hydroxy-3-Methylfentanyl;</text>
-      </level>
-      <level>
-        <num>(XX)</num>
-        <text>3-Methylfentanyl;</text>
-      </level>
-      <level>
-        <num>(YY)</num>
-        <text>3-Methylthiofentanyl;</text>
-      </level>
-      <level>
-        <num>(ZZ)</num>
-        <text>MPPP;</text>
-      </level>
-      <level>
-        <num>(AAA)</num>
-        <text>Para-flurofentanyl;</text>
-      </level>
-      <level>
-        <num>(BBB)</num>
-        <text>PEPAP;</text>
-      </level>
-      <level>
-        <num>(CCC)</num>
-        <text>Thiofentanyl; and</text>
-      </level>
-      <level>
-        <num>(DDD)</num>
-        <text>Tilidine;</text>
-      </level>
+      <num>(A)</num>
+      <text>Acetylmethadol;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>Unless specifically excepted or unless listed in another schedule, any of the following opium derivatives, its salts, isomers, and salts of isomers, whenever the existence of these salts, isomers, and salts of isomers is possible within the specific chemical designation:</text>
-      <level>
-        <num>(A)</num>
-        <text>Acetorphine;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Acetyldihydrocodeine;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Benzylmorphine;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Codeine methylbromide;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Codeine-N-Oxide;</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Cyprenorphine;</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>Desomorphine;</text>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>Dihydromorphine;</text>
-      </level>
-      <level>
-        <num>(I)</num>
-        <text>Drotepanol;</text>
-      </level>
-      <level>
-        <num>(J)</num>
-        <text>Etorphine (except hydrochloride salt);</text>
-      </level>
-      <level>
-        <num>(K)</num>
-        <text>Diacetylated morphine (heroin);</text>
-      </level>
-      <level>
-        <num>(L)</num>
-        <text>Hydromorphinol;</text>
-      </level>
-      <level>
-        <num>(M)</num>
-        <text>Methyldesorphine;</text>
-      </level>
-      <level>
-        <num>(N)</num>
-        <text>Methyldihydromorphine;</text>
-      </level>
-      <level>
-        <num>(O)</num>
-        <text>Morphine methylbromide;</text>
-      </level>
-      <level>
-        <num>(P)</num>
-        <text>Morphine methylsulfonate;</text>
-      </level>
-      <level>
-        <num>(Q)</num>
-        <text>Morphine-N-Oxide;</text>
-      </level>
-      <level>
-        <num>(R)</num>
-        <text>Myrophine;</text>
-      </level>
-      <level>
-        <num>(S)</num>
-        <text>Nicocodeine;</text>
-      </level>
-      <level>
-        <num>(T)</num>
-        <text>Nicomorphine;</text>
-      </level>
-      <level>
-        <num>(U)</num>
-        <text>Normorphine;</text>
-      </level>
-      <level>
-        <num>(V)</num>
-        <text>Pholcodine; and</text>
-      </level>
-      <level>
-        <num>(W)</num>
-        <text>Thebacon;</text>
-      </level>
+      <num>(B)</num>
+      <text>Allylprodine;</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following hallucinogenic substances, its salts, isomers and salts of isomers, whenever the existence of these salts, isomers, and salts of isomers is possible within the specific chemical designation (for purposes of this paragraph only, the term "isomer" includes the optical, position, and geometric isomers):</text>
-      <level>
-        <num>(A)</num>
-        <text>4-bromo-2, 5-dimethoxyamphetamine;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>2, 5 dimethoxyamphetamine;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>4-methoxyamphetamine;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>5-methoxy-3, 4-methylenedioxy amphetamine;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>4-methyl-2,5-dimethoxyamphetamine;</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>3,4-methylenedioxyamphetamine [MDA];</text>
-      </level>
-      <level>
-        <num>(G)</num>
-        <text>3, 4, 5-trimethoxy amphetamine;</text>
-      </level>
-      <level>
-        <num>(H)</num>
-        <text>Bufotenine;</text>
-      </level>
-      <level>
-        <num>(I)</num>
-        <text>Diethyltryptamine;</text>
-      </level>
-      <level>
-        <num>(J)</num>
-        <text>Dimethyltryptamine;</text>
-      </level>
-      <level>
-        <num>(K)</num>
-        <text>Ethylamide analog of phencyclidine, PCE;</text>
-      </level>
-      <level>
-        <num>(L)</num>
-        <text>Ibogaine;</text>
-      </level>
-      <level>
-        <num>(M)</num>
-        <text>Lysergic acid diethylamide;</text>
-      </level>
-      <level>
-        <num>(N)</num>
-        <text>Mescaline;</text>
-      </level>
-      <level>
-        <num>(O)</num>
-        <text>Peyote;</text>
-      </level>
-      <level>
-        <num>(P)</num>
-        <text>N-ethyl-3-piperidyl benzilate;</text>
-      </level>
-      <level>
-        <num>(Q)</num>
-        <text>N-methyl-3-piperidyl benzilate;</text>
-      </level>
-      <level>
-        <num>(R)</num>
-        <text>Psilocybin;</text>
-      </level>
-      <level>
-        <num>(S)</num>
-        <text>Psilocyn;</text>
-      </level>
-      <level>
-        <num>(T)</num>
-        <text>Pyrrolidine analog of phencyclidine, PCPY;</text>
-      </level>
-      <level>
-        <num>(U)</num>
-        <text>Thiophene analog of phencyclidine;</text>
-      </level>
-      <level>
-        <num>(V)</num>
-        <text>Repealed;</text>
-      </level>
-      <level>
-        <num>(W)</num>
-        <text>Parahexyl;</text>
-      </level>
-      <level>
-        <num>(X)</num>
-        <text>4-bromo-2,5-dimethoxyphenethylamine; and</text>
-      </level>
-      <level>
-        <num>(Y)</num>
-        <text>3,4-methylenedioxymethamphetamine [MDMA];</text>
-      </level>
+      <num>(C)</num>
+      <text>Alphacetylmethadol (except levo-alphacetylmethadol, also known as levo-alphaacetylmethadol, levomethadyl, accetate, or LAAM);</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>Unless specifically excepted or unless listed in another schedule, any material, compound, or mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:</text>
-      <level>
-        <num>(A)</num>
-        <text>Mecloqualone; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Methaqualone; and</text>
-      </level>
+      <num>(D)</num>
+      <text>Alphameprodine;</text>
     </level>
     <level>
-      <num>(5)</num>
-      <text>Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers, and salts of isomers:</text>
-      <level>
-        <num>(A)</num>
-        <text>Fenethyline;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>N-ethylamphetamine; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Cathinone.</text>
-      </level>
+      <num>(E)</num>
+      <text>Alphamethadol;</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>Benzethidine;</text>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>Betacetylmethadol;</text>
+    </level>
+    <level>
+      <num>(H)</num>
+      <text>Betameprodine;</text>
+    </level>
+    <level>
+      <num>(I)</num>
+      <text>Betamethadol;</text>
+    </level>
+    <level>
+      <num>(J)</num>
+      <text>Betaprodine;</text>
+    </level>
+    <level>
+      <num>(K)</num>
+      <text>Clonitazene;</text>
+    </level>
+    <level>
+      <num>(L)</num>
+      <text>Dextromoramide;</text>
+    </level>
+    <level>
+      <num>(M)</num>
+      <text>Diampromide;</text>
+    </level>
+    <level>
+      <num>(N)</num>
+      <text>Diethylthiambutene;</text>
+    </level>
+    <level>
+      <num>(O)</num>
+      <text>Difenoxin;</text>
+    </level>
+    <level>
+      <num>(P)</num>
+      <text>Dimenoxadol;</text>
+    </level>
+    <level>
+      <num>(Q)</num>
+      <text>Dimepheptanol;</text>
+    </level>
+    <level>
+      <num>(R)</num>
+      <text>Dimethylthiambutene;</text>
+    </level>
+    <level>
+      <num>(S)</num>
+      <text>Dioxaphetylbutyrate;</text>
+    </level>
+    <level>
+      <num>(T)</num>
+      <text>Dipipanone;</text>
+    </level>
+    <level>
+      <num>(U)</num>
+      <text>Ethylmethylthiambutene;</text>
+    </level>
+    <level>
+      <num>(V)</num>
+      <text>Etonitazene;</text>
+    </level>
+    <level>
+      <num>(W)</num>
+      <text>Etoxeridine;</text>
+    </level>
+    <level>
+      <num>(X)</num>
+      <text>Furethidine;</text>
+    </level>
+    <level>
+      <num>(Y)</num>
+      <text>Hydroxypethidine;</text>
+    </level>
+    <level>
+      <num>(Z)</num>
+      <text>Ketobemidone;</text>
+    </level>
+    <level>
+      <num>(AA)</num>
+      <text>Levomoramide;</text>
+    </level>
+    <level>
+      <num>(BB)</num>
+      <text>Levophenacylmorphan;</text>
+    </level>
+    <level>
+      <num>(CC)</num>
+      <text>Morpheridine;</text>
+    </level>
+    <level>
+      <num>(DD)</num>
+      <text>Noracymethadol;</text>
+    </level>
+    <level>
+      <num>(EE)</num>
+      <text>Norlevorphanol;</text>
+    </level>
+    <level>
+      <num>(FF)</num>
+      <text>Normethadone;</text>
+    </level>
+    <level>
+      <num>(GG)</num>
+      <text>Norpipanone;</text>
+    </level>
+    <level>
+      <num>(HH)</num>
+      <text>Phenadoxone;</text>
+    </level>
+    <level>
+      <num>(II)</num>
+      <text>Phenampromide;</text>
+    </level>
+    <level>
+      <num>(JJ)</num>
+      <text>Phenomorphan;</text>
+    </level>
+    <level>
+      <num>(KK)</num>
+      <text>Phenoperidine;</text>
+    </level>
+    <level>
+      <num>(LL)</num>
+      <text>Piritramide;</text>
+    </level>
+    <level>
+      <num>(MM)</num>
+      <text>Proheptazine;</text>
+    </level>
+    <level>
+      <num>(NN)</num>
+      <text>Properidine;</text>
+    </level>
+    <level>
+      <num>(OO)</num>
+      <text>Propiram;</text>
+    </level>
+    <level>
+      <num>(PP)</num>
+      <text>Racemoramide;</text>
+    </level>
+    <level>
+      <num>(QQ)</num>
+      <text>Thiophene;</text>
+    </level>
+    <level>
+      <num>(RR)</num>
+      <text>Trimeperidine;</text>
+    </level>
+    <level>
+      <num>(SS)</num>
+      <text>Acetyl-Alpha-Methylfentanyl;</text>
+    </level>
+    <level>
+      <num>(TT)</num>
+      <text>Alphe-methylfentanyl;</text>
+    </level>
+    <level>
+      <num>(UU)</num>
+      <text>Alpha-Methylthiofentanyl;</text>
+    </level>
+    <level>
+      <num>(VV)</num>
+      <text>Beta-hydroxyfentanyl;</text>
+    </level>
+    <level>
+      <num>(WW)</num>
+      <text>Beta-hydroxy-3-Methylfentanyl;</text>
+    </level>
+    <level>
+      <num>(XX)</num>
+      <text>3-Methylfentanyl;</text>
+    </level>
+    <level>
+      <num>(YY)</num>
+      <text>3-Methylthiofentanyl;</text>
+    </level>
+    <level>
+      <num>(ZZ)</num>
+      <text>MPPP;</text>
+    </level>
+    <level>
+      <num>(AAA)</num>
+      <text>Para-flurofentanyl;</text>
+    </level>
+    <level>
+      <num>(BBB)</num>
+      <text>PEPAP;</text>
+    </level>
+    <level>
+      <num>(CCC)</num>
+      <text>Thiofentanyl; and</text>
+    </level>
+    <level>
+      <num>(DDD)</num>
+      <text>Tilidine;</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Unless specifically excepted or unless listed in another schedule, any of the following opium derivatives, its salts, isomers, and salts of isomers, whenever the existence of these salts, isomers, and salts of isomers is possible within the specific chemical designation:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Aug. 5, 1981, D.C. Law 4-29, § 204, 28 DCR 3081; amended by rule, 39 DCR 1882; amended by rule, Dec. 7, 1994, 41 DCR 7967; May 9, 2000, D.C. Law 13- 99, § 2(a), 47 DCR 791; Dec. 10, 2009, D.C. Law 18-88, § 225, 56 DCR 7413.)</text>
+      <num>(A)</num>
+      <text>Acetorphine;</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 33-514.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-99 corrected the way in which two chemicals were stated in subsec. (3) and added provisions contained in (X) and (Y) in subsec. (3).</text>
-        <text>D.C. Law 18-88, in par. (5), deleted "and" from the end of subpar. (A), substituted "; and" for a period at the end of subpar. (B), and added subpar. (C).</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 2 of Uniform Controlled Substances Temporary Amendment Act of 1999 (D.C. Law 13-34, October 7, 1999, law notification 47 DCR 3423).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) amendment of section, see § 2 of the Uniform Controlled Substances Emergency Amendment Act of 1999 (D.C. Act 13-96, June 15, 1999, 46 DCR 5640).</text>
-        <text>For temporary (90-day) amendment of section, see § 2 of the Uniform Controlled Substances Congressional Review Emergency Amendment Act of 1999 (D.C. Act 13- 144, October 18, 1999, 46 DCR 9904).</text>
-        <text>For temporary (90 day) amendment of section, see § 225 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009, 56 DCR 6903).</text>
-        <text>For temporary (90 day) amendment of section, see § 225 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18- 227, October 21, 2009, 56 DCR 8668).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-29, see Historical and Statutory Notes following § 48-901.02.</text>
-        <text>Law 13-99, the "Uniform Controlled Substances Amendment Act of 1999," was introduced in Council and assigned Bill No. 13-291, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on December 7, 1999, and December 21, 1999, respectively. Signed by the Mayor on January 10, 2000, it was assigned Act No. 13-245 and transmitted to both Houses of Congress for its review. D.C. Law 13-99 became effective on May 9, 2000.</text>
-        <text>Law 18-88, the "Omnibus Public Safety and Justice Amendment Act of 2009", as introduced in Council and assigned Bill No. 18-151, which was referred to the Committee on Public Safety and the Judiciary. The bill as adopted on first and second readings on June 30, 2009, and July 31, 2009, respectively. Signed by the Mayor on August 26, 2009, it was assigned Act No. 18-189 and transmitted to both Houses of Congress for its review. D.C. Law 18-88 became effective on December 10, 2009.</text>
-      </level>
+      <num>(B)</num>
+      <text>Acetyldihydrocodeine;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Benzylmorphine;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Codeine methylbromide;</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Codeine-N-Oxide;</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>Cyprenorphine;</text>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>Desomorphine;</text>
+    </level>
+    <level>
+      <num>(H)</num>
+      <text>Dihydromorphine;</text>
+    </level>
+    <level>
+      <num>(I)</num>
+      <text>Drotepanol;</text>
+    </level>
+    <level>
+      <num>(J)</num>
+      <text>Etorphine (except hydrochloride salt);</text>
+    </level>
+    <level>
+      <num>(K)</num>
+      <text>Diacetylated morphine (heroin);</text>
+    </level>
+    <level>
+      <num>(L)</num>
+      <text>Hydromorphinol;</text>
+    </level>
+    <level>
+      <num>(M)</num>
+      <text>Methyldesorphine;</text>
+    </level>
+    <level>
+      <num>(N)</num>
+      <text>Methyldihydromorphine;</text>
+    </level>
+    <level>
+      <num>(O)</num>
+      <text>Morphine methylbromide;</text>
+    </level>
+    <level>
+      <num>(P)</num>
+      <text>Morphine methylsulfonate;</text>
+    </level>
+    <level>
+      <num>(Q)</num>
+      <text>Morphine-N-Oxide;</text>
+    </level>
+    <level>
+      <num>(R)</num>
+      <text>Myrophine;</text>
+    </level>
+    <level>
+      <num>(S)</num>
+      <text>Nicocodeine;</text>
+    </level>
+    <level>
+      <num>(T)</num>
+      <text>Nicomorphine;</text>
+    </level>
+    <level>
+      <num>(U)</num>
+      <text>Normorphine;</text>
+    </level>
+    <level>
+      <num>(V)</num>
+      <text>Pholcodine; and</text>
+    </level>
+    <level>
+      <num>(W)</num>
+      <text>Thebacon;</text>
+    </level>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following hallucinogenic substances, its salts, isomers and salts of isomers, whenever the existence of these salts, isomers, and salts of isomers is possible within the specific chemical designation (for purposes of this paragraph only, the term "isomer" includes the optical, position, and geometric isomers):</text>
+    <level>
+      <num>(A)</num>
+      <text>4-bromo-2, 5-dimethoxyamphetamine;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>2, 5 dimethoxyamphetamine;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>4-methoxyamphetamine;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>5-methoxy-3, 4-methylenedioxy amphetamine;</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>4-methyl-2,5-dimethoxyamphetamine;</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>3,4-methylenedioxyamphetamine [MDA];</text>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>3, 4, 5-trimethoxy amphetamine;</text>
+    </level>
+    <level>
+      <num>(H)</num>
+      <text>Bufotenine;</text>
+    </level>
+    <level>
+      <num>(I)</num>
+      <text>Diethyltryptamine;</text>
+    </level>
+    <level>
+      <num>(J)</num>
+      <text>Dimethyltryptamine;</text>
+    </level>
+    <level>
+      <num>(K)</num>
+      <text>Ethylamide analog of phencyclidine, PCE;</text>
+    </level>
+    <level>
+      <num>(L)</num>
+      <text>Ibogaine;</text>
+    </level>
+    <level>
+      <num>(M)</num>
+      <text>Lysergic acid diethylamide;</text>
+    </level>
+    <level>
+      <num>(N)</num>
+      <text>Mescaline;</text>
+    </level>
+    <level>
+      <num>(O)</num>
+      <text>Peyote;</text>
+    </level>
+    <level>
+      <num>(P)</num>
+      <text>N-ethyl-3-piperidyl benzilate;</text>
+    </level>
+    <level>
+      <num>(Q)</num>
+      <text>N-methyl-3-piperidyl benzilate;</text>
+    </level>
+    <level>
+      <num>(R)</num>
+      <text>Psilocybin;</text>
+    </level>
+    <level>
+      <num>(S)</num>
+      <text>Psilocyn;</text>
+    </level>
+    <level>
+      <num>(T)</num>
+      <text>Pyrrolidine analog of phencyclidine, PCPY;</text>
+    </level>
+    <level>
+      <num>(U)</num>
+      <text>Thiophene analog of phencyclidine;</text>
+    </level>
+    <level>
+      <num>(V)</num>
+      <text>Repealed;</text>
+    </level>
+    <level>
+      <num>(W)</num>
+      <text>Parahexyl;</text>
+    </level>
+    <level>
+      <num>(X)</num>
+      <text>4-bromo-2,5-dimethoxyphenethylamine;</text>
+    </level>
+    <level>
+      <num>(Y)</num>
+      <text>3,4-methylenedioxymethamphetamine [MDMA];</text>
+    </level>
+    <level>
+      <num>(Z)</num>
+      <text>Alpha-methyltryptamine (other name: AMT);</text>
+    </level>
+    <level>
+      <num>(AA)</num>
+      <text>5-methoxy-N,N-diisopropyltryptamine (other name: 5- MeO-DIPT);</text>
+    </level>
+    <level>
+      <num>(BB)</num>
+      <text>2,5-dimethoxy-4-(n)-propylthiophenethylamine (other name: 2C-T-7);</text>
+    </level>
+    <level>
+      <num>(CC)</num>
+      <text>2-(2,5-Dimethoxy-4-ethylphenyl)ethanamine (2C-E);</text>
+    </level>
+    <level>
+      <num>(DD)</num>
+      <text>2-(2,5-Dimethoxy-4-methylphenyl)ethanamine (2C-D);</text>
+    </level>
+    <level>
+      <num>(EE)</num>
+      <text>2-(4-Chloro-2,5-dimethoxyphenyl)ethanamine (2C-C);</text>
+    </level>
+    <level>
+      <num>(FF)</num>
+      <text>2-(4-Iodo-2,5-dimethoxyphenyl)ethanamine (2C-I);</text>
+    </level>
+    <level>
+      <num>(GG)</num>
+      <text>2-[4-(Ethylthio)-2,5-dimethoxyphenyl]ethanamine (2C-T-2);</text>
+    </level>
+    <level>
+      <num>(HH)</num>
+      <text>2-[4-(Isopropylthio)-2,5-dimethoxyphenyl]ethanamine (2C- T-4);</text>
+    </level>
+    <level>
+      <num>(II)</num>
+      <text>2-(2,5-Dimethoxyphenyl)ethanamine (2C-H);</text>
+    </level>
+    <level>
+      <num>(JJ)</num>
+      <text>2-(2,5-Dimethoxy-4-nitro-phenyl)ethanamine (2C-N); and</text>
+    </level>
+    <level>
+      <num>(KK)</num>
+      <text>2-(2,5-Dimethoxy-4-(n)-propylphenyl)ethanamine (2C-P);</text>
+    </level>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Unless specifically excepted or unless listed in another schedule, any material, compound, or mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:</text>
+    <level>
+      <num>(A)</num>
+      <text>Mecloqualone;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Methaqualone; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Gamma-hydroxybutyric acid (some other names include GHB; gamma-hydroxybutyrate; 4-hydroxybutyrate; 4-hydroxybutanoic acid; sodium oxybate; sodium oxybutyrate);</text>
+    </level>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including their analogues or derivatives and its salts, isomers, and salts of isomers:</text>
+    <level>
+      <num>(A)</num>
+      <text>Fenethyline;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>N-ethylamphetamine;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Cathinone;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>N-Benzylpiperazine (some other names: BZP, 1- benzylpiperazine);</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Methcathinone (Some other names: 2-(methylamino)- propiophenone; alpha-(methylamino)propiophenone; 2-(methylamino)-1-phenylpropan-1- one; alpha- -methylaminopropiophenone; monomethylpropion; ephedrone; - methylcathinone; methylcathinone; AL-464; AL-422; AL-463 and UR1432), its salts, optical isomers and salts of optical isomers, as well as synthetic substances, derivatives, and their isomers with similar chemical structure and pharmacological activity to methcathinone;</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>4-methyl-N-methylcathinone (other name: mephedrone);</text>
+    </level>
+    <level>
+      <num>(G)</num>
+      <text>3,4-methylenedioxypyrovalerone (other name: MDPV); and</text>
+    </level>
+    <level>
+      <num>(H)</num>
+      <text>3,4-methylenedioxy-N-methylcathinone (other name: methylone).</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Aug. 5, 1981, D.C. Law 4-29, § 204, 28 DCR 3081; amended by rule, 39 DCR 1882; amended by rule, Dec. 7, 1994, 41 DCR 7967; May 9, 2000, D.C. Law 13-99, § 2(a), 47 DCR 791; Dec. 10, 2009, D.C. Law 18-88, § 225, 56 DCR 7413; June 19, 2013, D.C. Law 19-320, § 301(b), 60 DCR 3390.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-3002, § 44-1201, § 48-901.02, § 48-902.01, § 48-902.02, § 48-1004, and § 50-2206.13.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 33-514.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-99 corrected the way in which two chemicals were stated in subsec. (3) and added provisions contained in (X) and (Y) in subsec. (3).</text>
+      <text>D.C. Law 18-88, in par. (5), deleted "and" from the end of subpar. (A), substituted "; and" for a period at the end of subpar. (B), and added subpar. (C).</text>
+      <text>The 2013 amendment by D.C. Law 19-320 added (3)(Z) through (3)(KK); added (4)(C); inserted "their analogues or derivatives and" in the introductory language of (5); added (5)(D) through (5)(H); and made related changes.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 2 of Uniform Controlled Substances Temporary Amendment Act of 1999 (D.C. Law 13-34, October 7, 1999, law notification 47 DCR 3423).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) amendment of section, see § 2 of the Uniform Controlled Substances Emergency Amendment Act of 1999 (D.C. Act 13-96, June 15, 1999, 46 DCR 5640).</text>
+      <text>For temporary (90-day) amendment of section, see § 2 of the Uniform Controlled Substances Congressional Review Emergency Amendment Act of 1999 (D.C. Act 13-144, October 18, 1999, 46 DCR 9904).</text>
+      <text>For temporary (90 day) amendment of section, see § 225 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009, 56 DCR 6903).</text>
+      <text>For temporary (90 day) amendment of section, see § 225 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009, 56 DCR 8668).</text>
+      <text>For temporary amendment of section, see § 301(b) of the Omnibus Public Safety and Justice Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013, 60 DCR 1017).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-29</heading>
+      <text>For legislative history of D.C. Law 4-29, see Historical and Statutory Notes following § 48-901.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-99</heading>
+      <text>Law 13-99, the "Uniform Controlled Substances Amendment Act of 1999," was introduced in Council and assigned Bill No. 13-291, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on December 7, 1999, and December 21, 1999, respectively. Signed by the Mayor on January 10, 2000, it was assigned Act No. 13-245 and transmitted to both Houses of Congress for its review. D.C. Law 13-99 became effective on May 9, 2000.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-88</heading>
+      <text>Law 18-88, the "Omnibus Public Safety and Justice Amendment Act of 2009", as introduced in Council and assigned Bill No. 18-151, which was referred to the Committee on Public Safety and the Judiciary. The bill as adopted on first and second readings on June 30, 2009, and July 31, 2009, respectively. Signed by the Mayor on August 26, 2009, it was assigned Act No. 18-189 and transmitted to both Houses of Congress for its review. D.C. Law 18-88 became effective on December 10, 2009.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-320</heading>
+      <text>See note to § 48-902.01.</text>
     </level>
   </level>
 </level>

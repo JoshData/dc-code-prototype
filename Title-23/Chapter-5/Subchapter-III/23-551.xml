@@ -1,10 +1,9 @@
 <level type="section">
   <num>23-551</num>
   <heading>Procedure for disclosure and suppression of intercepted wire or oral communications.</heading>
-  <formerly-cited-as>DC ST 1981 § 23-551</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>The contents of any intercepted wire or oral communication or evidence derived therefrom shall not be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States or the District of Columbia unless not less than ten days before the trial, hearing, or proceeding --</text>
+    <text>The contents of any intercepted wire or oral communication or evidence derived therefrom shall not be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States or the District of Columbia unless not less than ten days before the trial, hearing, or proceeding -</text>
     <level>
       <num>(1)</num>
       <text>the inventory as provided in section 23-550 has been served; and</text>
@@ -17,7 +16,7 @@
   <text>This ten-day period may be waived by court order where a court finds that it was not possible to furnish the party with the above information ten days before the trial hearing, or proceeding and that the party will not be prejudiced by the delay in receiving the information.</text>
   <level>
     <num>(b)</num>
-    <text>Any aggrieved person in any trial, hearing, or proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States or the District of Columbia, may move to suppress the contents of any intercepted wire or oral communication, or evidence derived therefrom, on the grounds that --</text>
+    <text>Any aggrieved person in any trial, hearing, or proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States or the District of Columbia, may move to suppress the contents of any intercepted wire or oral communication, or evidence derived therefrom, on the grounds that -</text>
     <level>
       <num>(1)</num>
       <text>the communication was unlawfully intercepted;</text>
@@ -40,19 +39,19 @@
     </level>
   </level>
   <text>The motion shall be made before the trial, hearing or proceeding unless there was no opportunity to make the motion or the person was not aware of the grounds of the motion. If the motion is granted, the contents of the intercepted wire or oral communication, or evidence derived therefrom, shall be treated as having been obtained in violation of this subchapter and shall not be received in evidence in the trial, hearing, or proceeding. The judge, upon the filing of the motion by the aggrieved person, may in his discretion make available to the aggrieved person or his counsel for inspection such portions of the intercepted communication or evidence derived therefrom as the judge determines to be in the interests of justice.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 624, Pub. L. 91-358, title II, § 210(a); Dec. 7, 1970, 84 Stat. 1390, Pub. L. 91-530, § 2(c).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 23-551.</text>
-        <text>1973 Ed., § 23-551.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 23-552 and § 23-556.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 23-551.</text>
+      <text>1973 Ed., § 23-551.</text>
     </level>
   </level>
 </level>

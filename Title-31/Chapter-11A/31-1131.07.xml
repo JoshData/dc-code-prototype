@@ -14,7 +14,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>'Property, consisting of insurance coverage for the direct or consequential loss or damage to property of every kind;</text>
+      <text>"Property, consisting of insurance coverage for the direct or consequential loss or damage to property of every kind;</text>
     </level>
     <level>
       <num>(4)</num>
@@ -54,6 +54,10 @@
       <level>
         <num>(C)</num>
         <text>Crop;</text>
+      </level>
+      <level>
+        <num>(C-i)</num>
+        <text>Portable electronics;</text>
       </level>
       <level>
         <num>(D)</num>
@@ -101,37 +105,35 @@
     <num>(g)</num>
     <text>To assist in the performance of the Commissioner's duties, the Commissioner may contract with a third party, including the NAIC, or its affiliates or subsidiaries, to perform any ministerial functions, including the collection of fees, related to producer licensing that the Commissioner may consider appropriate.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 27, 2003, D.C. Law 14-264, § 7, 50 DCR 260; May 13, 2008, D.C. Law 17-155, § 2(g), 55 DCR 3683.)</text>
+      <heading>History</heading>
+      <text>(Mar. 27, 2003, D.C. Law 14-264, § 7, 50 DCR 260; May 13, 2008, D.C. Law 17-155, § 2(g), 55 DCR 3683; May 1, 2013, D.C. Law 19-306, § 201, 60 DCR 2746.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-155 rewrote the section which had read as follows:</text>
-        <text>"(a) Unless denied licensure under § 31-1131.12, persons who have met the requirements of §§ 31-1131.05 and 31-1131.06 shall be issued an insurance producer license. An insurance producer may receive qualification for a license in one or more of the following lines of insurance permitted under law or regulations:</text>
-        <text>"(1) Insurance coverage on human lives, including benefits of endowment and annuities, benefits in the event of death or dismemberment by accident, and benefits for disability income;</text>
-        <text>"(2) Insurance coverage for sickness, bodily injury, or accidental death, including benefits for disability income;</text>
-        <text>"(3) Insurance coverage for the direct or consequential loss or damage to property of every kind;</text>
-        <text>"(4) Insurance coverage against legal liability, including that for death, injury, or disability, or damage to real or personal property;</text>
-        <text>"(5) Insurance coverage provided under variable life insurance contracts and variable annuities;</text>
-        <text>"(6) Property and casualty insurance coverage sold to individuals and families for primarily noncommercial purposes; and</text>
-        <text>"(7) Limited line credit insurance.</text>
-        <text>"(b) An insurance producer license shall remain in effect unless revoked or suspended; provided, that all fees prescribed by the Commissioner are paid and the education requirements for resident individual producers are met.</text>
-        <text>"(c) An individual insurance producer who allows his or her license to lapse may, within one year from the due date of the renewal fee, reinstate the same license without the necessity of passing a written examination; provided, that a penalty in the amount of twice the unpaid renewal fee shall be required.</text>
-        <text>"(d) An insurance producer who is unable to comply with license renewal procedures due to military service or some other extenuating circumstance may request a waiver of those procedures. The insurance producer may also request a waiver of any examination requirement or any other fine or sanction imposed for failure to comply with renewal procedures.</text>
-        <text>"(e) The license shall contain the licensee's name, address, personal identification number, the date of issuance, the lines of authority, the expiration date, and any other information the Commissioner considers necessary.</text>
-        <text>"(f) A licensee shall inform the Commissioner by any means acceptable to the Commissioner of a change of address within 30 days of the change of address. Failure to timely inform the Commissioner of a change in legal name or address shall result in a fine as prescribed by the Commissioner.</text>
-        <text>"(g) To assist in the performance of the Commissioner's duties, the Commissioner may contract with a third party, including the NAIC, or its affiliates or subsidiaries, to perform any ministerial functions, including the collection of fees, related to producer licensing that the Commissioner may consider appropriate."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-264, see notes following § 31-1031.02.</text>
-        <text>For Law 17-155, see notes following § 31-1131.02.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Portable electronics insurance, § 31-5051.01 et seq.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1131.02 and § 31-1131.08.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-155 rewrote the section.</text>
+      <text>The 2013 amendment by D.C. Law 19-306 added (a)(10)(C-i).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-264</heading>
+      <text>For Law 14-264, see notes following § 31-1031.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-155</heading>
+      <text>For Law 17-155, see notes following § 31-1131.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-306</heading>
+      <text>Law 19-306, the "Portable Electronics Insurance Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-986. The Bill was adopted on first and second readings on December 4, 2012, and December 18, 2012, respectively. Signed by the Mayor on February 5, 2013, it was assigned Act No. 19-673 and transmitted to Congress for its review. D.C. Law 19-306 became effective on May 1, 2013.</text>
     </level>
   </level>
 </level>

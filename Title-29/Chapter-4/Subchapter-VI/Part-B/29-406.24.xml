@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The articles of incorporation or bylaws may authorize a quorum of the board of directors to consist of no fewer than the greater of 1/3 of the number of directors in office or 2 directors.</text>
+    <text>The articles of incorporation or bylaws may authorize a quorum of the board of directors to consist of no fewer than the greater of <span style="font-style: italic; ">1</span>/<span style="">3</span> of the number of directors in office or 2 directors.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -37,18 +37,18 @@
     <num>(e)</num>
     <text>The right of dissent or abstention shall not be available to a director who votes in favor of the action taken.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-401.50, § 29-406.25, and § 29-406.53.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

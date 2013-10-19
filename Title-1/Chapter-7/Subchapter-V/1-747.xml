@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-747</num>
   <heading>Civil enforcement.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-747</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A civil action may be brought:</text>
@@ -54,23 +53,19 @@
     <num>(d)</num>
     <text>In any action under this chapter by a participant, beneficiary, fiduciary, or the Board, the court in its discretion may allow a reasonable attorney's fee and costs of action to either party.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Nov. 17, 1979, 93 Stat. 866, Pub. L. 96-122, § 187; Mar. 24, 1990, D.C. Law 8-97, § 2(f), 37 DCR 1046.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-747.</text>
-        <text>1973 Ed., § 1-1847.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-97, see Historical and Statutory Notes following § 1-702.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-747.</text>
+      <text>1973 Ed., § 1-1847.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-97</heading>
+      <text>For legislative history of D.C. Law 8-97, see Historical and Statutory Notes following § 1-702.</text>
     </level>
   </level>
 </level>

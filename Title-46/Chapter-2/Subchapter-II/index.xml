@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Medical Support Enforcement.</heading>
+  <heading>Medical Support Enforcement</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-251.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-251.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-251.03.xml"/>

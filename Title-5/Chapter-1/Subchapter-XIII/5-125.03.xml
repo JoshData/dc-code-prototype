@@ -1,7 +1,6 @@
 <level type="section">
   <num>5-125.03</num>
   <heading>Trachea hold prohibited; carotid artery hold restricted.</heading>
-  <formerly-cited-as>DC ST 1981 § 4-190</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The use of the trachea hold by any police officer shall be prohibited under any circumstances and the carotid artery hold shall be prohibited except under those circumstances and conditions under which the use of lethal force is necessary to protect the life of a civilian or a law enforcement officer, and has been effected to control or subdue an individual, and the Metropolitan Police Department has issued procedures and policies which require, at a minimum, all the following:</text>
@@ -41,26 +40,26 @@
     <num>(d)</num>
     <text>The trachea hold is prohibited and the carotid artery hold shall be classified as a service weapon and all relevant Metropolitan Police Department general orders, special orders, and circulars shall be applicable.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Jan. 25, 1986, D.C. Law 6-77, § 4, 32 DCR 6497.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 4-190.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-77, see Historical and Statutory Notes following § 5-125.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Mayor authorized to issue rules: See Historical and Statutory Notes following § 5-125.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 5-302.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 4-190.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-77</heading>
+      <text>For legislative history of D.C. Law 6-77, see Historical and Statutory Notes following § 5-125.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Mayor authorized to issue rules: See Historical and Statutory Notes following § 5-125.01.</text>
     </level>
   </level>
 </level>

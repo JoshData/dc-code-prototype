@@ -149,18 +149,14 @@
     <num>(f)</num>
     <text>The resident's continuing care contract shall permit the resident to identify the resident's estate or the person or persons to whom payment shall be made if a refund is due by reason of the resident's death.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 5, 2005, D.C. Law 15-270, § 106, 52 DCR 799.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-270, see notes following § 44-151.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-270</heading>
+      <text>For Law 15-270, see notes following § 44-151.01.</text>
     </level>
   </level>
 </level>

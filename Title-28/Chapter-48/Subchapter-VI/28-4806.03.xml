@@ -3,31 +3,25 @@
   <heading>Transitional matters.</heading>
   <text>Section 28-4804.09 applies to a trust described in § 28-4804.09(d) on and after the following dates:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>If the trust is not funded as of [July 23, 2010], the date of the decedent's death;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>If the trust is initially funded in the calendar year beginning January 1, 2010, the date of the decedent's death; or</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>If the trust is not described in paragraph (1) or (2) of this section, January 1, 2010.</text>
-    </level>
+    <num>(1)</num>
+    <text>If the trust is not funded as of [July 23, 2010], the date of the decedent's death;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>If the trust is initially funded in the calendar year beginning January 1, 2010, the date of the decedent's death; or</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>If the trust is not described in paragraph (1) or (2) of this section, January 1, 2010.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 23, 2010, D.C. Law 18-197, § 2(d), 57 DCR 4524.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-197, see notes following § 28-4804.09.</text>
-      </level>
+      <heading>Legislative History of Law 18-197</heading>
+      <text>For Law 18-197, see notes following § 28-4804.09.</text>
     </level>
   </level>
 </level>

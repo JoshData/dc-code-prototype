@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-2505.02</num>
   <heading>Permissible sales and transfers.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-2352</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any person or organization eligible to register a firearm may sell or otherwise transfer ammunition or any firearm, except those which are unregisterable under § 7-2502.02, to a licensed dealer.</text>
@@ -11,11 +10,11 @@
     <text>Any licensed dealer may sell or otherwise transfer:</text>
     <level>
       <num>(1)</num>
-      <text>Ammunition, excluding restricted pistol bullets, and any firearm or destructive device which is lawfully a part of such licensee's inventory, to any nonresident person or business licensed under the acts of Congress and the jurisdiction where such person resides or conducts such business;</text>
+      <text>Ammunition, excluding one or more restricted pistol bullets, and any firearm or destructive device which is lawfully a part of such licensee's inventory, to any nonresident person or business licensed under the acts of Congress and the jurisdiction where such person resides or conducts such business;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Ammunition, including restricted pistol bullets, and any firearm or destructive device which is lawfully a part of such licensee's inventory to:</text>
+      <text>Ammunition, including one or more restricted pistol bullets, and any firearm or destructive device which is lawfully a part of such licensee's inventory to:</text>
       <level>
         <num>(A)</num>
         <text>Any other licensed dealer;</text>
@@ -54,37 +53,51 @@
     <num>(e)</num>
     <text>Any licensed dealer may sell ammunition to any person holding an ammunition collector's certificate on September 24, 1976; provided, that the collector's certificate shall be exhibited to the licensed dealer whenever the collector purchases ammunition for his collection; provided further, that the collector shall sign a receipt for the ammunition, which shall be treated in the same manner as that required under paragraph (4) of subsection (d) of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 24, 1976, D.C. Law 1-85, title V, § 502, 23 DCR 2464; Mar. 16, 1978, D.C. Law 2-62, § 2, 24 DCR 5780; Aug. 2, 1983, D.C. Law 5-19, § 3, 30 DCR 3328.)</text>
+      <heading>History</heading>
+      <text>(Sept. 24, 1976, D.C. Law 1-85, title V, § 502, 23 DCR 2464; Mar. 16, 1978, D.C. Law 2-62, § 2, 24 DCR 5780; Aug. 2, 1983, D.C. Law 5-19, § 3, 30 DCR 3328; Apr. 27, 2013, D.C. Law 19-295, § 2(b), 60 DCR 2623.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-2352.</text>
-        <text>1973 Ed., § 6-1852.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) provisions prohibiting the transfer by the Metropolitan Police Department of ammunition feeding devices, see § 2 of Prohibition on the Transfer of Firearms Temporary Act of 1995 (D.C. Law 11-35, September 8, 1995, law notification 42 DCR 5304).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary provisions prohibiting the transfer by the Metropolitan Police Department of ammunition feeding devices, see § 2 of the Prohibition on the Transfer of Firearms Emergency Act of 1995 (D.C. Act 11-58, May 18, 1995, 42 DCR 2574).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-85, see Historical and Statutory Notes following § 7-2501.01.</text>
-        <text>For legislative history of D.C. Law 2-62, see Historical and Statutory Notes following § 7-2501.01.</text>
-        <text>For legislative history of D.C. Law 5-19, see Historical and Statutory Notes following § 7-2501.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Prohibition on transfer of ammunition feeding devices: For provisions prohibiting the transfer by the Metropolitan Police Department of ammunition feeding devices, see § 4-191.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-2505.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-2352.</text>
+      <text>1973 Ed., § 6-1852.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-295 substituted "one or more restricted pistol bullets" for "restricted pistol bullets" in (b)(1) and (b)(2).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) provisions prohibiting the transfer by the Metropolitan Police Department of ammunition feeding devices, see § 2 of Prohibition on the Transfer of Firearms Temporary Act of 1995 (D.C. Law 11-35, September 8, 1995, law notification 42 DCR 5304).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary provisions prohibiting the transfer by the Metropolitan Police Department of ammunition feeding devices, see § 2 of the Prohibition on the Transfer of Firearms Emergency Act of 1995 (D.C. Act 11-58, May 18, 1995, 42 DCR 2574).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-85</heading>
+      <text>For legislative history of D.C. Law 1-85, see Historical and Statutory Notes following § 7-2501.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-62</heading>
+      <text>For legislative history of D.C. Law 2-62, see Historical and Statutory Notes following § 7-2501.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-19</heading>
+      <text>For legislative history of D.C. Law 5-19, see Historical and Statutory Notes following § 7-2501.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-295</heading>
+      <text>See note to § 7-2501.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Prohibition on transfer of ammunition feeding devices: For provisions prohibiting the transfer by the Metropolitan Police Department of ammunition feeding devices, see § 4-191.</text>
     </level>
   </level>
 </level>

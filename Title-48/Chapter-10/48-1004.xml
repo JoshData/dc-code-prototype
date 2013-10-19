@@ -1,7 +1,6 @@
 <level type="section">
   <num>48-1004</num>
   <heading>Prohibition.</heading>
-  <formerly-cited-as>DC ST 1981 § 33-584</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>It shall be unlawful for a person to congregate in a group of 2 or more persons in public space on public property within the perimeter of a drug free zone established pursuant to § 48-1002 and to fail to disperse after being instructed to disperse by a uniformed officer of the Police Department who reasonably believes the person is congregating for the purpose of participating in the use, purchase, or sale of illegal drugs.</text>
@@ -27,7 +26,7 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Such person is a known unlawful drug user, possessor, or seller. For purposes of this chapter, the phrase a "known unlawful drug user, possessor, or seller" means a person who has, within the knowledge of the arresting officer, been convicted in any court of any violation involving the use, possession, or distribution of any of the substances referred to in § 48-902.04, § 48- 902.06, § 48-902.08, § 48-902.10 or § 48-902.12; or is a person who displays physical characteristics of drug use, including, but not limited to, "needle tracks";</text>
+      <text>Such person is a known unlawful drug user, possessor, or seller. For purposes of this chapter, the phrase a "known unlawful drug user, possessor, or seller" means a person who has, within the knowledge of the arresting officer, been convicted in any court of any violation involving the use, possession, or distribution of any of the substances referred to in § 48-902.04, § 48-902.06, § 48-902.08, § 48-902.10 or § 48-902.12; or is a person who displays physical characteristics of drug use, including, but not limited to, "needle tracks";</text>
     </level>
     <level>
       <num>(6)</num>
@@ -38,26 +37,26 @@
       <text>Any vehicle involved in the observed circumstances is registered to a known unlawful drug user, possessor, or seller, or a person for whom there is an outstanding arrest warrant for a crime involving drug-related activity.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 3, 1997, D.C. Law 11-270, § 5, 43 DCR 4493.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 33-584.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary addition of subchapter, see note to § 48-1001.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-270, see Historical and Statutory Notes following § 48-1001.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 48-1005.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 33-584.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary addition of subchapter, see note to § 48-1001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-270</heading>
+      <text>For legislative history of D.C. Law 11-270, see Historical and Statutory Notes following § 48-1001.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-3303.11</num>
   <heading>Rules used to determine group size.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1041</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>All employers treated as a single employer under subsection (b), (c), (m), or (o) of § 414 of the Internal Revenue Code of 1986 (26 U.S.C. § 414) shall be treated as one employer.</text>
@@ -14,30 +13,26 @@
     <num>(c)</num>
     <text>Any reference in this section to an employer shall include a reference to any predecessor of such employer.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 13, 1999, D.C. Law 12-209, § 311, 45 DCR 8433.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1041.</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>See Historical and Statutory Notes following § 31-3301.01.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>See notes to § 31-3301.01.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-209, see Historical and Statutory Notes following § 31-3301.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1041.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>See Historical and Statutory Notes following § 31-3301.01.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>See notes to § 31-3301.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-209</heading>
+      <text>For legislative history of D.C. Law 12-209, see Historical and Statutory Notes following § 31-3301.01.</text>
     </level>
   </level>
 </level>

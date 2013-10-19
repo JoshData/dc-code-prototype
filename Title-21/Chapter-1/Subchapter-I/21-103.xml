@@ -1,7 +1,6 @@
 <level type="section">
   <num>21-103</num>
   <heading>Appointment of guardians of the person by court; limitation of number of wards.</heading>
-  <formerly-cited-as>DC ST 1981 § 21-103</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>When an infant has neither a natural nor testamentary guardian, a guardian of the person may be appointed by the Probate Court in its own discretion or on the application of a next friend of the infant.</text>
@@ -10,19 +9,20 @@
     <num>(b)</num>
     <text>Only trust companies may act as guardian of the person for more than five infants at one time, unless the infants are members of one family.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 1965, 79 Stat. 738, Pub. L. 89-183, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 21-103.</text>
-        <text>1973 Ed., § 21-103.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Abuse of adults, duty to report, see § 7-1903.</text>
+      <text>Probate Court, jurisdiction, pleadings and practice, see §§ 11-921, 16-3101 et seq.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 21-103.</text>
+      <text>1973 Ed., § 21-103.</text>
     </level>
   </level>
 </level>

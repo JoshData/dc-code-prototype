@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-503</num>
   <heading>Qualified United States financial institutions.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-3303</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For purposes of this chapter, the term "qualified United States financial institution" means an institution that:</text>
@@ -30,27 +29,30 @@
       <text>Is regulated, supervised and examined by federal or state authorities having regulatory authority over banks and trust companies.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 15, 1993, D.C. Law 10-36, § 4, 40 DCR 5812; May 21, 1997, D.C. Law 11-268, § 10(cc), 44 DCR 1730.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-3303.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-36, see Historical and Statutory Notes following § 31-501.</text>
-        <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-501.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Application of Law 10-36: See Historical and Statutory Notes following § 31- 501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-501.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-3303.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-36</heading>
+      <text>For legislative history of D.C. Law 10-36, see Historical and Statutory Notes following § 31-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-501.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 10-36: See Historical and Statutory Notes following § 31-501.</text>
     </level>
   </level>
 </level>

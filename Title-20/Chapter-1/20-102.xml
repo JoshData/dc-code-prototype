@@ -1,32 +1,51 @@
 <level type="section">
   <num>20-102</num>
   <heading>Verification.</heading>
-  <formerly-cited-as>DC ST 1981 § 20-102</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>When a writing is required by this title to be verified, verification shall be sufficient if the writing is signed by the person required to make the verification and contains the following representation:</text>
-    <text>"I do solemnly declare and affirm under penalty of law that the contents of the foregoing document are true and correct to the best of my knowledge, information, and belief."</text>
   </level>
+  <text>"I do solemnly declare and affirm under penalty of law that the contents of the foregoing document are true and correct to the best of my knowledge, information, and belief."</text>
   <level>
     <num>(b)</num>
     <text>Any person who in making a verification under this section willfully and contrary to the verification states any material matter that such person does not believe to be true shall be guilty of an offense. Any person convicted of this offense shall be punished by imprisonment for not less than 2 or more than 10 years.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(c)</num>
+    <text>In addition to any other penalty provided under this section, a person may be fined an amount not more than the amount set forth in [§ 22-3571.01].</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(June 24, 1980, D.C. Law 3-72, § 101, 27 DCR 2155.)</text>
+      <heading>History</heading>
+      <text>(June 24, 1980, D.C. Law 3-72, § 101, 27 DCR 2155; June 11, 2013, D.C. Law 19-317, § 302, 60 DCR 2064.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 20-102.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-101.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Presentation of claims, see § 20-905.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 20-905.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 20-102.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-317 added (c).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-72</heading>
+      <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 20-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-317</heading>
+      <text>Law 19-317, the "Criminal Fine Proportionality Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-214. The Bill was adopted on first and second readings on Oct. 16, 2012, and Nov. 1, 2012, respectively. Signed by the Mayor on Jan. 23, 2013, it was assigned Act No. 19-641 and transmitted to Congress for its review. D.C. Law 19-317 became effective on June 11, 2013.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
     </level>
   </level>
 </level>

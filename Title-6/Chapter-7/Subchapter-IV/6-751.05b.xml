@@ -40,18 +40,14 @@
       <text>Additional information regarding the effectiveness of the program.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(June 20, 1978, D.C. Law 2-81, § 6b, as added Mar. 20, 2009, D.C. Law 17- 313, § 2, 56 DCR 37.)</text>
+      <heading>History</heading>
+      <text>(June 20, 1978, D.C. Law 2-81, § 6b, as added Mar. 20, 2009, D.C. Law 17-313, § 2, 56 DCR 37.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-313, see notes following § 6-751.05a.</text>
-      </level>
+      <heading>Legislative History of Law 17-313</heading>
+      <text>For Law 17-313, see notes following § 6-751.05a.</text>
     </level>
   </level>
 </level>

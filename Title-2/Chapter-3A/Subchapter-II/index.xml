@@ -1,11 +1,11 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Procurement Organization.</heading>
+  <heading>Procurement Organization</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-352.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-352.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-352.03.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-352.04.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-352.05.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-352.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-352.06~P.xml"/>
 </level>

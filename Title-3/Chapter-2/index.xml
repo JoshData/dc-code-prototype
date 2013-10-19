@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>2</num>
-  <heading>Anatomical Board.</heading>
-  <level>
-    <text>DC CODE D. I, T. 3, Subt. I, Ch. 2, Refs &amp; Annos</text>
-  </level>
+  <heading>Anatomical Board</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-201.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-202.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-203.xml"/>

@@ -2,18 +2,23 @@
   <num>29-401.01</num>
   <heading>Short title.</heading>
   <text>This chapter may be cited as the "Nonprofit Corporation Act of 2010".</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Licenses to conduct bingo games, raffles, or Monte Carlo night parties, see § 3-1323.</text>
+      <text>Child abuse and neglect prevention children's trust fund, see § 4-1341.06.</text>
+      <text>Financial institutions, licensing of money lenders, "community development corporation" defined, see § 26-910.</text>
+      <text>Cable television, Public Access Corporation, formation, see § 34-1229.</text>
+      <text>Museum of the City of Washington, powers, see § 39-303.</text>
+      <text>Nonprofit healthcare entities, sale, lease, or exchange of assets with for-profit entities, see § 44-603.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

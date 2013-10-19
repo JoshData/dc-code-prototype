@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>B</num>
-  <heading>First Source Compliance.</heading>
+  <heading>First Source Compliance</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-219.31.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-219.32.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-219.33.xml"/>

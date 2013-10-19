@@ -1,7 +1,6 @@
 <level type="section">
   <num>22-3241</num>
   <heading>Forgery.</heading>
-  <formerly-cited-as>DC ST 1981 § 22-3841</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For the purposes of this subchapter, the term:</text>
@@ -54,22 +53,28 @@
     <num>(b)</num>
     <text>A person commits the offense of forgery if that person makes, draws, or utters a forged written instrument with intent to defraud or injure another.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 1, 1982, D.C. Law 4-164, § 141, 29 DCR 3976.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 22-3841.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-164, see Historical and Statutory Notes following § 22-3201.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Credit card fraud, see § 22-3223.</text>
+      <text>Forgery of authorization for medical consent for a minor by an adult caregiver, see § 16-4901.</text>
+      <text>Fraud, see § 22-3221.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-4901.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 22-3841.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-164</heading>
+      <text>For legislative history of D.C. Law 4-164, see Historical and Statutory Notes following § 22-3201.</text>
     </level>
   </level>
 </level>

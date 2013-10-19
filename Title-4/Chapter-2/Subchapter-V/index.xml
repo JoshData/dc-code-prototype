@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>V</num>
-  <heading>Public Assistance Programs.</heading>
-  <level>
-    <text>DC CODE D. I, T. 4, Ch. 2, Subch. V, Refs &amp; Annos</text>
-  </level>
+  <heading>Public Assistance Programs</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.03.xml"/>
@@ -25,7 +22,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.13a.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.14~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.15.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.16.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.16~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.17~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.18.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.19.xml"/>
@@ -93,8 +90,8 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.64.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.65.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.66.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.67~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.68~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.67.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.68.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.69.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.70.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-205.71.xml"/>

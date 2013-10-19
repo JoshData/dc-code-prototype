@@ -60,18 +60,14 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2007, D.C. Law 16-238, § 2(b), 54 DCR 397.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-238, see notes following § 28-3861.</text>
-      </level>
+      <heading>Legislative History of Law 16-238</heading>
+      <text>For Law 16-238, see notes following § 28-3861.</text>
     </level>
   </level>
 </level>

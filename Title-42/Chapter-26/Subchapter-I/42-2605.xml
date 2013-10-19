@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-2605</num>
   <heading>Annual audit; report to Congress and Council; appropriations.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2205</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>An annual audit of the operations of the Fund shall be conducted by the Office of the Inspector General of the District of Columbia.</text>
@@ -14,28 +13,27 @@
     <num>(c)</num>
     <text>The Mayor shall include in the budget estimates of the District of Columbia for each fiscal year, and there is authorized to be appropriated annually, such amounts out of the revenues of the District of Columbia as may be required for the Fund.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 12, 1978, D.C. Law 2-103, § 6, 25 DCR 1977; Oct. 24, 1981, D.C. Law 4-44, § 2(e), 28 DCR 4265.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2205.</text>
-        <text>1973 Ed., § 45-1805.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-103, see Historical and Statutory Notes following § 42-2601.</text>
-        <text>For legislative history of D.C. Law 4-44, see Historical and Statutory Notes following § 42-2601.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Office of Internal Audits and Inspections abolished: The District of Columbia Office of Internal Audits and Inspections was replaced by Mayor's Order 79-7, dated January 2, 1979, and Mayor's Order 79-224, dated September 24, 1979, which Orders established the Office of the Inspection General of the District of Columbia.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2205.</text>
+      <text>1973 Ed., § 45-1805.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-103</heading>
+      <text>For legislative history of D.C. Law 2-103, see Historical and Statutory Notes following § 42-2601.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-44</heading>
+      <text>For legislative history of D.C. Law 4-44, see Historical and Statutory Notes following § 42-2601.</text>
+    </level>
+    <level>
+      <heading>Mayor's orders</heading>
+      <text>Office of Internal Audits and Inspections abolished: The District of Columbia Office of Internal Audits and Inspections was replaced by Mayor's Order 79-7, dated January 2, 1979, and Mayor's Order 79-224, dated September 24, 1979, which Orders established the Office of the Inspection General of the District of Columbia.</text>
     </level>
   </level>
 </level>

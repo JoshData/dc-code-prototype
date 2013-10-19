@@ -1,7 +1,6 @@
 <level type="section">
   <num>6-1304.01</num>
   <heading>Notice of lapse of termination of liability insurance; report of motor vehicles, vessels, and aircraft owned by members of mission; fee for unsatisfied judgments or damages.</heading>
-  <formerly-cited-as>DC ST 1981 § 5-1204.1</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -10,7 +9,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Not later than February 1 of each year, the head of each foreign mission shall prepare and transmit to the Director a report including a list of motor vehicles, vessels, and aircraft registered in the United States by members of the mission, members of the families of such members, individuals described in § 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946, and by the mission itself. Such list shall set forth for each such motor vehicle, vessel, or aircraft:</text>
+      <text>Not later than February 1 of each year, the head of each foreign mission shall prepare and transmit to the Director a report including a list of motor vehicles, vessels, and aircraft registered in the United States by members of the mission, members of the families of such members, individuals described ins § 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946, and by the mission itself. Such list shall set forth for each such motor vehicle, vessel, or aircraft:</text>
       <level>
         <num>(A)</num>
         <text>The jurisdiction in which it is registered;</text>
@@ -49,22 +48,18 @@
       <text>The terms "members of a mission" and "family" have the same meaning as is ascribed to them by paragraphs (1) and (2) of § 2 of the Diplomatic Relations Act (22 U.S.C. § 254a).</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 24, 1982, Pub. L. 97-241, § 204A, as added Nov. 22, 1983, 97 Stat. 1017, Pub. L. 98-164, § 204A.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 5-1204.1.</text>
-      </level>
-      <level>
-        <heading>Effective Dates</heading>
-        <text>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § 6-1301.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 5-1204.1.</text>
+    </level>
+    <level>
+      <heading>Effective Dates</heading>
+      <text>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § 6-1301.</text>
     </level>
   </level>
 </level>

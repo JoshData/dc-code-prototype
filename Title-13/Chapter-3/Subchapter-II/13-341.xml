@@ -1,7 +1,6 @@
 <level type="section">
   <num>13-341</num>
   <heading>Service by publication on persons unknown to be living or dead and on unknown heirs and devisees.</heading>
-  <formerly-cited-as>DC ST 1981 § 13-341</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>When a person would be a proper party to a judicial proceeding if living, and upon allegation under oath and proof satisfactory to the court that it is unknown whether he is living or dead, he may be proceeded against as if he were living, and with like effect, if a representative of or claimant under him does not intervene in the action before final determination thereof, after notice by publication as in the case of nonresident parties.</text>
@@ -18,19 +17,23 @@
       <text>an order, judgment or decree may not be entered against the parties unless the court is satisfied that due diligence has been used to ascertain the unknown heirs.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, 77 Stat. 515, Pub. L. 88-241, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 13-341.</text>
-        <text>1973 Ed., § 13-341.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Service of process, limitations, see § 13-331.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-3301.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 13-341.</text>
+      <text>1973 Ed., § 13-341.</text>
     </level>
   </level>
 </level>

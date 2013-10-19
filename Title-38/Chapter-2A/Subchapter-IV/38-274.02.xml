@@ -32,34 +32,37 @@
     <num>(c)</num>
     <text>An individual who accepts the scholarship and fails to fulfill the 3-year commitment shall be required to repay the scholarship.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 18, 2008, D.C. Law 17-202, § 402, 55 DCR 6297; Mar. 8, 2011, D.C. Law 18-285, § 2(h), 57 DCR 11005.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-285 , in subsec. (a), substituted "grants" for "grants to pre-k teachers and assistant teachers" and "the University of the District of Columbia" for "OSSE".</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 2(i) of D.C. Law 18-142 deleted "to pre-k teachers and assistant teachers"; and substituted " the University of the District of Columbia" for "OSSE" both times it appears.</text>
-        <text>Section 5(a) of D.C. Law 18-142 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(i) of Pre-K Acceleration and Clarification Emergency Amendment Act of 2009 (D.C. Act 18-304, January 28, 2010, 57 DCR 1475).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(h) of Pre-k Acceleration and Clarification Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-602, December 1, 2010, 57 DCR 11039).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(h) of Pre-k Acceleration and Clarification Congressional Review Emergency Amendment Act of 2010 (D.C. Act 19-4, February 11, 2011, 58 DCR 1399).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-202, see notes following § 38-271.01.</text>
-        <text>For history of Law 18-285, see notes under § 38-271.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-271.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-285, in subsec. (a), substituted "grants" for "grants to pre-k teachers and assistant teachers" and "the University of the District of Columbia" for "OSSE".</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 2(i) of D.C. Law 18-142 deleted "to pre-k teachers and assistant teachers"; and substituted "the University of the District of Columbia" for "OSSE" both times it appears.</text>
+      <text>Section 5(a) of D.C. Law 18-142 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(i) of Pre-K Acceleration and Clarification Emergency Amendment Act of 2009 (D.C. Act 18-304, January 28, 2010, 57 DCR 1475).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(h) of Pre-k Acceleration and Clarification Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-602, December 1, 2010, 57 DCR 11039).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(h) of Pre-k Acceleration and Clarification Congressional Review Emergency Amendment Act of 2010 (D.C. Act 19-4, February 11, 2011, 58 DCR 1399).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-202</heading>
+      <text>For Law 17-202, see notes following § 38-271.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-285</heading>
+      <text>For history of Law 18-285, see notes under § 38-271.01.</text>
     </level>
   </level>
 </level>

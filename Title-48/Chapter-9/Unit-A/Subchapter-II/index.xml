@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Standards and Schedules.</heading>
+  <heading>Standards and Schedules</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-902.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-902.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-902.03.xml"/>

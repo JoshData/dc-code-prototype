@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>11</num>
-  <heading>Occupational Safety and Health.</heading>
-  <level>
-    <text>DC CODE D. V, T. 32, Ch. 11, Refs &amp; Annos</text>
-  </level>
+  <heading>Occupational Safety and Health</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1103.xml"/>

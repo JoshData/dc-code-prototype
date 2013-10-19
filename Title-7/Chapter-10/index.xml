@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>10</num>
-  <heading>Rights of Blind and Physically Disabled Persons.</heading>
-  <level>
-    <text>DC CODE D. I, T. 7, Subt. B-i, Ch. 10, Refs &amp; Annos</text>
-  </level>
+  <heading>Rights of Blind and Physically Disabled Persons</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1001.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1002.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1003~P.xml"/>

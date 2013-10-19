@@ -71,11 +71,19 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>In the case of an interest created by a beneficiary designation made before the time the designation becomes irrevocable, a disclaimer must be delivered to the person making the beneficiary designation.</text>
+    <text>In the case of an interest created by a beneficiary designation which is disclaimed before the designation becomes irrevocable, the disclaimer must be delivered to the person making the beneficiary designation.</text>
   </level>
   <level>
     <num>(g)</num>
-    <text>In the case of an interest created by a beneficiary designation made after the time the designation becomes irrevocable, a disclaimer must be delivered to the person obligated to distribute the interest.</text>
+    <text>In the case of an interest created by a beneficiary designation which is disclaimed after the designation becomes irrevocable:</text>
+    <level>
+      <num>(1)</num>
+      <text>The disclaimer of an interest in personal property must be delivered to the person obligated to distribute the interest; and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The disclaimer of an interest in real property must be recorded with the Recorder of Deeds.</text>
+    </level>
   </level>
   <level>
     <num>(h)</num>
@@ -113,22 +121,30 @@
     <num>(l)</num>
     <text>In the case of a disclaimer of a power by an agent, the disclaimer must be delivered to the principal or the principal's representative.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 2, 2007, D.C. Law 16-205, § 2(b), 53 DCR 9063.)</text>
+      <heading>History</heading>
+      <text>(Mar. 2, 2007, D.C. Law 16-205, § 2(b), 53 DCR 9063; Mar. 19, 2013, D.C. Law 19-230, § 3(a), 59 DCR 13606.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-205, see notes following § 19-1501.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 12 of the Uniform Disclaimer of Property Interests Act (1999). See 8A, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 19-1505 and § 19-1515.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-230, in (f), substituted "which is disclaimed before" for "made before the time" and substituted "the disclaimer" for "a disclaimer"; and rewrote (g).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-205</heading>
+      <text>For Law 16-205, see notes following § 19-1501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-230</heading>
+      <text>Law 19-230, the "Uniform Real Property Transfer on Death Act of 2012," was introduced in Council and assigned Bill No. 19-753. The Bill was adopted on first and second readings on Oct. 16, 2012, and Nov. 1, 2012, respectively. Signed by the Mayor on Nov. 20, 2012, it was assigned Act No. 19-547 and transmitted to Congress for its review. D.C. Law 19-230 became effective on Mar. 19, 2013.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 12 of the Uniform Disclaimer of Property Interests Act (1999).</text>
     </level>
   </level>
 </level>

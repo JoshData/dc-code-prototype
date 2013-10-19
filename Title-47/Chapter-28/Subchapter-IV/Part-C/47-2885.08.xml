@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-2885.08</num>
   <heading>Licensing of pharmacies.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-2008</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The application for a pharmacy license shall be made on a form to be prescribed by the Mayor and shall be accompanied by the required fee. The license shall be valid for a period of time to be determined by the Mayor. No license fee shall be required for the operation of a pharmacy by the United States government or by the District of Columbia government.</text>
@@ -30,35 +29,44 @@
     <num>(g)</num>
     <text>Any license issued pursuant to this section shall be issued as a Public Health: Pharmacy and Pharmaceuticals endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 16, 1980, D.C. Law 3-98, § 9, 27 DCR 3528; Apr. 20, 1999, D.C. Law 12-261, § 2003(d), 46 DCR 3142; Oct. 28, 2003, D.C. Law 15-38, § 3(hh) (4)(Z), 50 DCR 6913; Sept. 26, 2012, D.C. Law 19-171, § 302(b), 59 DCR 6190.)</text>
+      <heading>History</heading>
+      <text>(Sept. 16, 1980, D.C. Law 3-98, § 9, 27 DCR 3528; Apr. 20, 1999, D.C. Law 12-261, § 2003(d), 46 DCR 3142; Oct. 28, 2003, D.C. Law 15-38, § 3(hh)(4)(Z), 50 DCR 6913; Sept. 26, 2012, D.C. Law 19-171, § 302, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-2008.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-38, in subsec. (g), substituted "Public Health: Pharmacy and Pharmaceuticals endorsement to a basic business license under the basic" for "Class A Public Health: Pharmacy and Pharmaceuticals endorsement to a master business license under the master".</text>
-        <text>D.C. Law 19-171 enacted into law Part C of subchapter IV of Chapter 28 of Title 47.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 3(hh)(4)(Z) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003, 50 DCR 6896).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-98, see Historical and Statutory Notes following § 47-2885.01.</text>
-        <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2885.06.</text>
-        <text>For Law 12-261, see note to § 2-2006.</text>
-        <text>For Law 15-38, see notes following § 47-2404.</text>
-        <text>For history of Law 19-171, see notes under § 47-2885.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-2885.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-2008.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-38, in subsec. (g), substituted "Public Health: Pharmacy and Pharmaceuticals endorsement to a basic business license under the basic" for "Class A Public Health: Pharmacy and Pharmaceuticals endorsement to a master business license under the master".</text>
+      <text>Section 302 of D.C. Law 19-171 enacted this subchapter into law.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 3(hh)(4)(Z) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003, 50 DCR 6896).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-98</heading>
+      <text>For legislative history of D.C. Law 3-98, see Historical and Statutory Notes following § 47-2885.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-261</heading>
+      <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2885.06.</text>
+      <text>For Law 12-261, see note to § 2-2006.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-38</heading>
+      <text>For Law 15-38, see notes following § 47-2404.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 47-2881.</text>
     </level>
   </level>
 </level>

@@ -1,6 +1,6 @@
 <level type="section">
   <num>7-1831.02</num>
-  <heading>Sale of Rights under Master Settlement Agreement.</heading>
+  <heading>Sale of rights under Master Settlement Agreement.</heading>
   <level>
     <num>(a)</num>
     <text>For the purpose of financing the costs of the National Capital Medical Center, healthcare related issues, or other capital projects, and the repayment of outstanding indebtedness issued for certain capital projects and other undertakings of the District, the District may sell to the Corporation all of the District's right, title, and interest in and to the Master Settlement Agreement, including all the moneys, and any interest thereon, payable to or received by the District thereunder (except for the first payment of $16.05 million which has already been received by the District), in exchange for: (1) a cash payment in the amount of the net sales proceeds of the Bonds (other than the Residual Bond); (2) the Residual Bond; and (3) the agreement of the Corporation to repay certain indebtedness of the District.</text>
@@ -21,30 +21,36 @@
       <text>The Remainder Certificate, if any.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 19, 2000, D.C. Law 13-172, § 3703, 47 DCR 6308; July 25, 2006, D.C. Law 16-142, § 3(b), 53 DCR 4412; Mar. 25, 2009, D.C. Law 17-353, § 120, 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-142, in subsec. (a), substituted "For the purpose of financing the costs of the National Capital Medical Center, healthcare related issues, or other capital projects, and the repayment" for "For the purpose of the repayment"; in subsec. (b), substituted "Purchase Agreement or the Residual Bond Purchase Agreement" for "Purchase Agreement" and substituted "indebtedness of the District, to finance or refinance the National Capital Medical Center, healthcare related issues, or other capital projects or undertakings of the District," for "indebtedness of the District"; and added subsec. (b-1).</text>
-        <text>D.C. Law 17-353 redesignated subsec. (b-1) as subsec. (c).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) addition of section, see notes following § 7-1831.01.</text>
-        <text>For temporary (90 day) amendment of section, see §§ 3702 to 3707 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-172, see notes following § 7-1811.01.</text>
-        <text>For Law 16-142, see notes following § 7-1811.01.</text>
-        <text>For Law 17-353, see notes following § 7-161.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-1811.01, § 7-1811.03, and § 7-1831.03.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-142, in subsec. (a), substituted "For the purpose of financing the costs of the National Capital Medical Center, healthcare related issues, or other capital projects, and the repayment" for "For the purpose of the repayment"; in subsec. (b), substituted "Purchase Agreement or the Residual Bond Purchase Agreement" for "Purchase Agreement" and substituted "indebtedness of the District, to finance or refinance the National Capital Medical Center, healthcare related issues, or other capital projects or undertakings of the District," for "indebtedness of the District"; and added subsec. (b-1).</text>
+      <text>D.C. Law 17-353 redesignated subsec. (b-1) as subsec. (c).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) addition of section, see notes following § 7-1831.01.</text>
+      <text>For temporary (90 day) amendment of section, see §§ 3702 to 3707 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-172</heading>
+      <text>For Law 13-172, see notes following § 7-1811.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-142</heading>
+      <text>For Law 16-142, see notes following § 7-1811.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 7-161.</text>
     </level>
   </level>
 </level>

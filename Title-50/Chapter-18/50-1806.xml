@@ -1,7 +1,6 @@
 <level type="section">
   <num>50-1806</num>
   <heading>Enforcement of chapter.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-1606</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There shall not be penalties for violating the Mandatory Use of Seat Belts Amendment Act of 1996 during the first 6 months after December 12, 1985. Instead, the Mayor of the District of Columbia shall issue warnings to drivers and passengers who violate the Mandatory Use of Seat Belts Amendment Act of 1996 during those 6 months.</text>
@@ -41,41 +40,43 @@
     <num>(f)</num>
     <text>The driver of the vehicle, except operators of passenger vehicles for hire, shall be responsible for ensuring that passengers comply with this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 12, 1985, D.C. Law 6-73, § 7, 32 DCR 6344; Apr. 9, 1997, D.C. Law 11-244, § 2(c), 44 DCR 1155; Apr. 27, 2001, D.C. Law 13-289, § 303, 48 DCR 2057.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-1606.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-289 rewrote subsec. (d) which had read:</text>
-        <text>"(d) The Department of Public Works shall assign 2 points pursuant to 18 DCMR 303 to the driving record of a driver found in violation of this chapter."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-73, see Historical and Statutory Notes following § 50-1801.</text>
-        <text>For legislative history of D.C. Law 11-244, see Historical and Statutory Notes following § 50-1802.</text>
-        <text>For D.C. Law 13-289, see notes following § 50-401.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>The "Mandatory Use of Seat Belts Amendment Act of 1996," referred to in (a), is codified as §§ 50-1802, 50-1805, and 50-1806.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority pursuant to Law 6-73, see Mayor's Order 86-138, August 19, 1986.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Expiration of Law 6-73: See Historical and Statutory Notes following § 50- 1801.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-1606.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-289 rewrote subsec. (d) which had read:</text>
+      <text>"(d) The Department of Public Works shall assign 2 points pursuant to 18 DCMR 303 to the driving record of a driver found in violation of this chapter."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-73</heading>
+      <text>For legislative history of D.C. Law 6-73, see Historical and Statutory Notes following § 50-1801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-244</heading>
+      <text>For legislative history of D.C. Law 11-244, see Historical and Statutory Notes following § 50-1802.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-289</heading>
+      <text>For D.C. Law 13-289, see notes following § 50-401.</text>
+    </level>
+    <level>
+      <heading>Expiration of law Expiration of Law 6-73</heading>
+      <text>See Historical and Statutory Notes following § 50-1801.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>The "Mandatory Use of Seat Belts Amendment Act of 1996," referred to in (a), is codified as §§ 50-1802, 50-1805, and 50-1806.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority pursuant to Law 6-73, see Mayor's Order 86-138, August 19, 1986.</text>
     </level>
   </level>
 </level>

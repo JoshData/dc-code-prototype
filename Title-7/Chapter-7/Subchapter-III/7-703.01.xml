@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-703.01</num>
   <heading>Access to long-term care facilities.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-3521</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The operator of a long-term care facility shall permit the ombudsman or his or her designee access to the facility to:</text>
@@ -82,28 +81,30 @@
     <num>(m)</num>
     <text>Nothing in this section shall be construed to restrict any right or privilege of a resident to receive a visitor who is not a representative of a community organization, legal services program, or the program.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1989, D.C. Law 7-218, § 301, 36 DCR 534; Mar. 12, 2011, D.C. Law 18-321, § 2(f), 57 DCR 12438.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-3521.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-321, in subsec. (b), substituted "to the ombudsman or his or her designee 24 hours a day, 7 days a week" for "between the hours of 8:00 a.m. and 8:00 p.m. daily, unless the nature of the complaint requires investigation at other times"; and repealed subsec. (f), which had read as follows:</text>
-        <text>"(f) A communication between a resident and a person who has access under this section shall be confidential, unless the resident authorizes the release of the communication."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-218, see Historical and Statutory Notes following § 7-701.01.</text>
-        <text>For history of Law 18-321, see notes under § 7-701.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-702.06.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-3521.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-321, in subsec. (b), substituted "to the ombudsman or his or her designee 24 hours a day, 7 days a week" for "between the hours of 8:00 a.m. and 8:00 p.m. daily, unless the nature of the complaint requires investigation at other times"; and repealed subsec. (f), which had read as follows: "(f) A communication between a resident and a person who has access under this section shall be confidential, unless the resident authorizes the release of the communication."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-218</heading>
+      <text>For legislative history of D.C. Law 7-218, see Historical and Statutory Notes following § 7-701.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-321</heading>
+      <text>For history of Law 18-321, see notes under § 7-701.01.</text>
     </level>
   </level>
 </level>

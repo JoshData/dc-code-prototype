@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-1314</num>
   <heading>Actions against guarantor.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-714</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any claim arising from conduct of an owner or operator of a hazardous waste treatment, storage, or disposal facility for which evidence of financial responsibility is required, may be asserted directly against the guarantor that provides evidence of financial responsibility if:</text>
@@ -22,22 +21,18 @@
     <num>(c)</num>
     <text>The total liability of any guarantor shall be limited to the aggregate amount that the guarantor has provided as evidence of financial responsibility to the owner or operator.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 16, 1978, D.C. Law 2-64, § 16, as added Oct. 18, 1989, D.C. Law 8- 37, § 2(g), 36 DCR 5748.)</text>
+      <heading>History</heading>
+      <text>(Mar. 16, 1978, D.C. Law 2-64, § 16, as added Oct. 18, 1989, D.C. Law 8-37, § 2(g), 36 DCR 5748.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-714.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-37, see Historical and Statutory Notes following § 8-1013.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-714.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-37</heading>
+      <text>For legislative history of D.C. Law 8-37, see Historical and Statutory Notes following § 8-1013.</text>
     </level>
   </level>
 </level>

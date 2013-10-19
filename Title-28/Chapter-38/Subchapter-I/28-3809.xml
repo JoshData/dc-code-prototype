@@ -1,10 +1,9 @@
 <level type="section">
   <num>28-3809</num>
   <heading>Lender subject to defenses arising from sales.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-3809</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>A lender who makes a direct installment loan for the purpose of enabling a consumer to purchase goods or services is subject to all claims and defenses of the consumer against the seller arising out of the purchase of the goods or service if such lender acts at the express request of the seller, and --</text>
+    <text>A lender who makes a direct installment loan for the purpose of enabling a consumer to purchase goods or services is subject to all claims and defenses of the consumer against the seller arising out of the purchase of the goods or service if such lender acts at the express request of the seller, and -</text>
     <level>
       <num>(1)</num>
       <text>the seller participates in the preparation of the loan instruments, or</text>
@@ -22,19 +21,15 @@
     <num>(b)</num>
     <text>The lender's liability under this section may not exceed the amount of the loan. Rights of the debtor can only be asserted affirmatively in an action to cancel and void the sale from its inception, or as a matter of defense to or set-off against a claim by the lender.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 17, 1971, 85 Stat. 671, Pub. L. 92-200, § 4.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-3809.</text>
-        <text>1973 Ed., § 28-3809.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-3809.</text>
+      <text>1973 Ed., § 28-3809.</text>
     </level>
   </level>
 </level>

@@ -37,23 +37,23 @@
     <num>(b)</num>
     <text>A notice of the action shall be served upon the tenant or occupant and housing provider at least 5 days prior to a hearing.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 19, 2000, D.C. Law 13-172, § 1303, 47 DCR 6308.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) addition of section, see § 1303 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000, 47 DCR 6574).</text>
-        <text>For temporary (90 day) amendment of section, see § 1303 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-172, see notes following § 42-3601.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3603, § 42-3604, and § 42-3606.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) addition of section, see § 1303 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000, 47 DCR 6574).</text>
+      <text>For temporary (90 day) amendment of section, see § 1303 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-172</heading>
+      <text>For Law 13-172, see notes following § 42-3601.</text>
     </level>
   </level>
 </level>

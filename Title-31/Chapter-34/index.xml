@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>34</num>
-  <heading>Health Maintenance Organizations.</heading>
+  <heading>Health Maintenance Organizations</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3401.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3402.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3403.xml"/>
@@ -16,7 +16,6 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3410~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3411.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3412.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3413.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3414.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3415.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3416.xml"/>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>26-1114</num>
   <heading>Prohibited practices.</heading>
-  <formerly-cited-as>DC ST 1981 § 26-1014</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>No mortgage broker, mortgage lender, mortgage loan originator, or loan officer required to be licensed under this chapter, or person required to be licensed under this chapter, shall:</text>
@@ -63,7 +62,7 @@
     </level>
     <level>
       <num>(11)</num>
-      <text>Engage in the business as a mortgage loan originator, mortgage lender, loan officer, or mortgage broker, or hold himself out to the public to be a mortgage loan originator, loan officer, mortgage lender, or mortgage broker, without a license under § 26-1104 or without an exemption under § 26- 1102.</text>
+      <text>Engage in the business as a mortgage loan originator, mortgage lender, loan officer, or mortgage broker, or hold himself out to the public to be a mortgage loan originator, loan officer, mortgage lender, or mortgage broker, without a license under § 26-1104 or without an exemption under § 26-1102.</text>
     </level>
   </level>
   <level>
@@ -82,29 +81,18 @@
       <level>
         <num>(A)</num>
         <text>Receive compensation for negotiating, placing, or finding a mortgage loan where a mortgage broker, or any person affiliated with such mortgage broker, has otherwise acted as a real estate broker, agent, or salesperson in connection with the sale of the real estate which secures the mortgage loan and such mortgage broker or affiliated person has received or will receive any other compensation or thing of value from the lender, borrower, seller, or any other person, unless the borrower is given the following notice in writing at the time the mortgage broker's services are first offered to the borrower:</text>
+        <level type="form">
+          <text/>
+          <text class="centered"> DISCLOSURE OF DUAL CAPACITY</text>
+          <text> WE HAVE OFFERED TO ASSIST YOU IN OBTAINING A MORTGAGE LOAN. IF WE ARE SUCCESSFUL IN OBTAINING A LOAN FOR YOU, WE WILL CHARGE AND COLLECT FROM YOU A FEE NOT TO EXCEED ________ % OF THE LOAN AMOUNT. THIS FEE IS IN ADDITION TO ANY OTHER FEE WE MAY RECEIVE IN CONNECTION WITH THE SALE OR PURCHASE OF THE REAL ESTATE THAT WILL SECURE THE LOAN. WE DO NOT REPRESENT ALL OF THE LENDERS IN THE MARKET AND THE LENDERS WE DO REPRESENT MAY NOT OFFER THE LOWEST INTEREST RATES OR BEST TERMS AVAILABLE TO YOU. YOU ARE FREE TO SEEK A LOAN WITHOUT OUR ASSISTANCE, IN WHICH EVENT YOU WILL NOT BE REQUIRED TO PAY US A FEE FOR THAT SERVICE. THE BORROWER ACKNOWLEDGES HAVING READ AND UNDERSTOOD THIS DISCLOSURE OF DUAL CAPACITY AND HAVING RECEIVED A COPY HEREOF. 
+ 
+ ____________________________________ _____________ 
+ BORROWER'S SIGNATURE DATE 
+ 
+ ____________________________________ _____________ 
+ BROKER'S SIGNATURE DATE</text>
+        </level>
       </level>
-    </level>
-  </level>
-  <text>
-    <text b="True">DISCLOSURE OF DUAL CAPACITY</text>
-  </text>
-  <text>
-    <text b="True">WE HAVE OFFERED TO ASSIST YOU IN OBTAINING A MORTGAGE LOAN. IF WE ARE SUCCESSFUL IN OBTAINING A LOAN FOR YOU, WE WILL CHARGE AND COLLECT FROM YOU A FEE NOT TO EXCEED ___% OF THE LOAN AMOUNT. THIS FEE IS IN ADDITION TO ANY OTHER FEE WE MAY RECEIVE IN CONNECTION WITH THE SALE OR PURCHASE OF THE REAL ESTATE THAT WILL SECURE THE LOAN. WE DO NOT REPRESENT ALL OF THE LENDERS IN THE MARKET AND THE LENDERS WE DO REPRESENT MAY NOT OFFER THE LOWEST INTEREST RATES OR BEST TERMS AVAILABLE TO YOU. YOU ARE FREE TO SEEK A LOAN WITHOUT OUR ASSISTANCE, IN WHICH EVENT YOU WILL NOT BE REQUIRED TO PAY US A FEE FOR THAT SERVICE. THE BORROWER ACKNOWLEDGES HAVING READ AND UNDERSTOOD THIS DISCLOSURE OF DUAL CAPACITY AND HAVING RECEIVED A COPY HEREOF.</text>
-  </text>
-  <text>
-    <text font="'monospace'"> ___________________________________ _________________________</text>
-  </text>
-  <text>
-    <text font="'monospace'">BORROWER'S SIGNATURE DATE </text>
-  </text>
-  <text>
-    <text font="'monospace'">___________________________________ _________________________</text>
-  </text>
-  <text>
-    <text font="'monospace'">BROKER'S SIGNATURE DATE </text>
-  </text>
-  <level>
-    <level>
       <level>
         <num>(B)</num>
         <text>The foregoing notice shall be at least 10-point type and the prospective borrower shall acknowledge receipt of the written notice.</text>
@@ -179,59 +167,58 @@
       <text>Fail to truthfully account for monies belonging to a party to a residential mortgage loan transaction.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 9, 1996, D.C. Law 11-155, § 15, 43 DCR 4213; May 7, 2002, D.C. Law 14-132, § 601(a)(3), 49 DCR 2551); July 18, 2009, D.C. Law 18-38, § 2(i), 56 DCR 4290.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 26-1014.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-132, in subsec. (a),substituted ", or person required to be licensed under this chapter, shall;" for "shall"; made nonsubstantive changes in subsecs. (a)(7) and (a)(8); and added subsecs. (a)(9), (a)(10), and (a)(11).</text>
-        <text>D.C. Law 18-38, in subsec. (a), rewrote the introductory language and par. (11); and added subsec. (d). Prior to amendment, the introductory language and par. (11) of subsec. (a) read as follows:</text>
-        <text>"(a) No mortgage lender or mortgage broker required to be licensed under this chapter, or person required to be licensed under this chapter, shall:"</text>
-        <text>"(11) Engage in the business as a mortgage lender, mortgage broker, or hold himself or herself out to the public to be a mortgage lender or mortgage broker, without a license under § 26-1104 or an exemption under § 26-1102."</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 2(i) of D.C. Law 17-350, in subsec. (a), substituted "mortgage broker, mortgage lender, mortgage loan originator, or loan officer" for "mortgage broker or lender" in the lead-in text and rewrote par. (11) to read as follows:</text>
-        <text>"(11) Engage in the business as a mortgage loan originator, mortgage lender, loan officer, or mortgage broker, or hold himself out to the public to be a mortgage loan originator, loan officer, mortgage lender, or mortgage broker, without a license under section 5 or without an exemption under section 3."</text>
-        <text>; and added subsec. (d) to read as follows:</text>
-        <text>"(d) A mortgage loan originator or loan officer required to be licensed under this act shall not:</text>
-        <text>"(1) Directly or indirectly employ any scheme, device, or artifice to defraud or mislead borrowers or lenders or to defraud any person;</text>
-        <text>"(2) Engage in any unfair or deceptive practice toward any person;</text>
-        <text>"(3) Obtain property by fraud or misrepresentation;</text>
-        <text>"(4) Solicit or enter into a contract with a borrower that provides in substance that the person or individual subject to this act may earn a fee or commission through "best efforts" to obtain a loan even though no loan is actually obtained for the borrower;</text>
-        <text>"(5) Solicit, advertise, or enter into a contract for specific interest rates, points, or other financing terms unless the terms are actually available at the time of soliciting, advertising, or contracting;</text>
-        <text>"(6) Assist or aid or abet any person in the conduct of business under this act without a valid license as required under this act;</text>
-        <text>"(7) Fail to make disclosures as required by this act and any other applicable federal or District law, including regulations thereunder;</text>
-        <text>"(8) Fail to comply with this act or rules promulgated under this act, or fail to comply with any other federal or District law, including the rules and regulations thereunder, applicable to any business authorized or conducted under this act;</text>
-        <text>"(9) Make, in any manner, any false or deceptive statement or representation, including with regard to the rates, points, or other financing terms or conditions for a residential mortgage loan, or engage in bait and switch advertising;</text>
-        <text>"(10) Negligently make any false statement or knowingly and willfully make any omission of material fact in connection with any information or reports filed with a governmental agency or the NMLSR or in connection with any investigation conducted by the Commissioner or another governmental agency;</text>
-        <text>"(11) Make any payment, threat, or promise, directly or indirectly, to any person for the purposes of influencing the independent judgment of the person in connection with a residential mortgage loan, or make any payment, threat, or promise, directly or indirectly, to any appraiser of a property for the purposes of influencing the independent judgment of the appraiser with respect to the value of the property;</text>
-        <text>"(12) Collect, charge, attempt to collect or charge, or use or propose any agreement purporting to collect or charge any fee prohibited by this act;</text>
-        <text>"(13) Cause or require a borrower to obtain property insurance coverage in an amount that exceeds the replacement cost of the improvements as established by the property insurer; or</text>
-        <text>"(14) Fail to truthfully account for monies belonging to a party to a residential mortgage loan transaction."</text>
-        <text>Section 5(b) of D.C. Law 17-350 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 601(a)(3) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002, 49 DCR 2534).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(i) of Mortgage Lender and Broker Emergency Amendment Act of 2008 (D.C. Act 17-617, December 22, 2008, 56 DCR 189).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(i) of Mortgage Lender and Broker Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-31, March 16, 2009, 56 DCR 2327).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-155, see Historical and Statutory Notes following § 26-1101.</text>
-        <text>For Law 14-132, see notes following § 26-603.</text>
-        <text>For Law 18-38, see notes following § 26-1101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 26-1014.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-132, in subsec. (a),substituted ", or person required to be licensed under this chapter, shall;" for "shall"; made nonsubstantive changes in subsecs. (a)(7) and (a)(8); and added subsecs. (a)(9), (a)(10), and (a)(11).</text>
+      <text>D.C. Law 18-38, in subsec. (a), rewrote the introductory language and par. (11); and added subsec. (d).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 2(i) of D.C. Law 17-350, in subsec. (a), substituted "mortgage broker, mortgage lender, mortgage loan originator, or loan officer" for "mortgage broker or lender" in the lead-in text and rewrote par. (11) to read as follows:</text>
+      <text>"(11) Engage in the business as a mortgage loan originator, mortgage lender, loan officer, or mortgage broker, or hold himself out to the public to be a mortgage loan originator, loan officer, mortgage lender, or mortgage broker, without a license under section 5 or without an exemption under section 3."; and added subsec. (d) to read as follows:</text>
+      <text>"(d) A mortgage loan originator or loan officer required to be licensed under this act shall not:</text>
+      <text>"(1) Directly or indirectly employ any scheme, device, or artifice to defraud or mislead borrowers or lenders or to defraud any person;</text>
+      <text>"(2) Engage in any unfair or deceptive practice toward any person;</text>
+      <text>"(3) Obtain property by fraud or misrepresentation;</text>
+      <text>"(4) Solicit or enter into a contract with a borrower that provides in substance that the person or individual subject to this act may earn a fee or commission through "best efforts" to obtain a loan even though no loan is actually obtained for the borrower;</text>
+      <text>"(5) Solicit, advertise, or enter into a contract for specific interest rates, points, or other financing terms unless the terms are actually available at the time of soliciting, advertising, or contracting;</text>
+      <text>"(6) Assist or aid or abet any person in the conduct of business under this act without a valid license as required under this act;</text>
+      <text>"(7) Fail to make disclosures as required by this act and any other applicable federal or District law, including regulations thereunder;</text>
+      <text>"(8) Fail to comply with this act or rules promulgated under this act, or fail to comply with any other federal or District law, including the rules and regulations thereunder, applicable to any business authorized or conducted under this act;</text>
+      <text>"(9) Make, in any manner, any false or deceptive statement or representation, including with regard to the rates, points, or other financing terms or conditions for a residential mortgage loan, or engage in bait and switch advertising;</text>
+      <text>"(10) Negligently make any false statement or knowingly and willfully make any omission of material fact in connection with any information or reports filed with a governmental agency or the NMLSR or in connection with any investigation conducted by the Commissioner or another governmental agency;</text>
+      <text>"(11) Make any payment, threat, or promise, directly or indirectly, to any person for the purposes of influencing the independent judgment of the person in connection with a residential mortgage loan, or make any payment, threat, or promise, directly or indirectly, to any appraiser of a property for the purposes of influencing the independent judgment of the appraiser with respect to the value of the property;</text>
+      <text>"(12) Collect, charge, attempt to collect or charge, or use or propose any agreement purporting to collect or charge any fee prohibited by this act;</text>
+      <text>"(13) Cause or require a borrower to obtain property insurance coverage in an amount that exceeds the replacement cost of the improvements as established by the property insurer; or</text>
+      <text>"(14) Fail to truthfully account for monies belonging to a party to a residential mortgage loan transaction."</text>
+      <text>Section 5(b) of D.C. Law 17-350 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 601(a)(3) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002, 49 DCR 2534).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(i) of Mortgage Lender and Broker Emergency Amendment Act of 2008 (D.C. Act 17-617, December 22, 2008, 56 DCR 189).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(i) of Mortgage Lender and Broker Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-31, March 16, 2009, 56 DCR 2327).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-155</heading>
+      <text>For legislative history of D.C. Law 11-155, see Historical and Statutory Notes following § 26-1101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-132</heading>
+      <text>For Law 14-132, see notes following § 26-603.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-38</heading>
+      <text>For Law 18-38, see notes following § 26-1101.</text>
     </level>
   </level>
 </level>

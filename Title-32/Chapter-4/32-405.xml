@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-405</num>
   <heading>Requirements for operation of employment counseling services.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-1005</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Each employment counseling service shall maintain a file of all of its advertisements identified by date and publication. All advertisements and other promotional material shall carry the name under which the employment counseling service is licensed to do business, and shall carry a notice stating that the employment counseling service is not an employment agency, does not arrange job interviews, and does not provide job placement services.</text>
@@ -65,7 +64,7 @@
       <text>Each contract between an employment counseling service and a job-seeker shall contain the following notice in type which is more prominent than the type used for the remainder of the contract:</text>
     </level>
   </level>
-  <text>NOTICE</text>
+  <text class="centered">NOTICE</text>
   <text>YOU HAVE THE RIGHT TO CANCEL THIS CONTRACT FOR ANY REASON WITHIN 3 DAYS FROM THE DATE OF SIGNING. IF YOU CHOOSE TO CANCEL THIS CONTRACT, YOU MUST PROVIDE (name of employment counseling service) WRITTEN NOTIFICATION OF YOUR CANCELLATION WITHIN 3 DAYS.</text>
   <text>IF YOU FEEL THAT YOU HAVE BEEN THE VICTIM OF AN UNLAWFUL TRADE PRACTICE RELATED TO THIS CONTRACT, YOU HAVE THE RIGHT TO FILE A COMPLAINT WITH THE DEPARTMENT OF CONSUMER AND REGULATORY AFFAIRS OF THE DISTRICT OF COLUMBIA.</text>
   <level>
@@ -96,22 +95,22 @@
       <text>Violate any provision of Chapter 39 of Title 28.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 13, 1985, D.C. Law 5-136, § 6, 31 DCR 5727.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-1005.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-136, see Historical and Statutory Notes following § 32-401.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28-3904.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-1005.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-136</heading>
+      <text>For legislative history of D.C. Law 5-136, see Historical and Statutory Notes following § 32-401.</text>
     </level>
   </level>
 </level>

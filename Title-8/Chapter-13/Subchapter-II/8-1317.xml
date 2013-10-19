@@ -1,17 +1,16 @@
 <level type="section">
   <num>8-1317</num>
   <heading>Annual hazardous waste and toxic chemical reports.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-733</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>Within 270 days of March 8, 1991, and annually thereafter, a business shall submit EPA Form R to the Mayor, including Part III #8, pursuant to 40 CFR 372.85, if the business:</text>
+    <text>Within 270 days of March 8, 1991, and annually thereafter, a business shall submit EPA Form R to the Mayor, including Part III #8, pursuant to 40 C.F.R. 372.85, if the business:</text>
     <level>
       <num>(1)</num>
-      <text>Releases a toxic chemical subject to regulation in accordance with 40 CFR 372;</text>
+      <text>Releases a toxic chemical subject to regulation in accordance with 40 C.F.R. 372;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Generates hazardous waste subject to regulation in accordance with 40 CFR 261, 262, 263, or 264; or</text>
+      <text>Generates hazardous waste subject to regulation in accordance with 40 C.F.R. 261, 262, 263, or 264; or</text>
     </level>
     <level>
       <num>(3)</num>
@@ -26,26 +25,26 @@
     <num>(c)</num>
     <text>EPA Form R, and any additional data required, shall be signed by a senior-level manager who shall be liable for any inaccuracies contained in the submission.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 16, 1978, D.C. Law 2-64, § 19, as added Mar. 8, 1991, D.C. Law 8- 229, title I, § 102(c), 38 DCR 246.)</text>
+      <heading>History</heading>
+      <text>(Mar. 16, 1978, D.C. Law 2-64, § 19, as added Mar. 8, 1991, D.C. Law 8-229, title I, § 102(c), 38 DCR 246.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-733.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-229, see Historical and Statutory Notes following § 8-1315.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>The "Pollution Prevention Act", referred to in (b), is Pub. L. 101-508, § 6601 et seq., codified at 42 U.S.C. § 13101 et seq. Section 6607 of the Pollution Prevention Act, referred to in (b), is codified at 42 U.S.C. § 13106.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-1318.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-733.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-229</heading>
+      <text>For legislative history of D.C. Law 8-229, see Historical and Statutory Notes following § 8-1315.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>The "Pollution Prevention Act", referred to in (b), is Pub. L. 101-508, § 6601 et seq., codified at 42 U.S.C. § 13101 et seq. Section 6607 of the Pollution Prevention Act, referred to in (b), is codified at 42 U.S.C. § 13106.</text>
     </level>
   </level>
 </level>

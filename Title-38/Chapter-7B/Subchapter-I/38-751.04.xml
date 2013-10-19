@@ -2,18 +2,14 @@
   <num>38-751.04</num>
   <heading>Survey.</heading>
   <text>The Mayor shall survey a sample of schools to identify existing initiatives used to support high school and college readiness and increase graduation rates. Results of the survey shall be submitted to the Council within 90 days of June 19, 2012.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 19, 2012, D.C. Law 19-142, § 104, 59 DCR 3642.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-142, see notes under § 38-751.01.</text>
-      </level>
+      <heading>Legislative History of Law 19-142</heading>
+      <text>For history of Law 19-142, see notes under § 38-751.01.</text>
     </level>
   </level>
 </level>

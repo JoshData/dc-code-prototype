@@ -1,10 +1,9 @@
 <level type="section">
   <num>4-516</num>
   <heading>Assessments.</heading>
-  <formerly-cited-as>DC ST 1981 § 3-436</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>In addition to and separate from punishment imposed, an assessment of $100 for each violation of § 50-2201.05, an assessment of between $50 and $250 for other serious traffic or misdemeanor offenses, and an assessment of between $100 and $5,000 for each felony offense shall be imposed upon each person convicted of or pleading guilty or <text i="True">nolo contendere</text> to the offense in the Superior Court of the District of Columbia or any other court in which the offense is charged. The decision of the sentencing court regarding assessments is final. If an offender is indigent at the time of sentencing and is later employed for salary, receives compensation while on probation or parole, or is incarcerated in a facility of the Department of Corrections or elsewhere and receives wages or compensation therein, the amount of assessments under this section shall be paid from such salary, wages, or other compensation.</text>
+    <text>In addition to and separate from punishment imposed, an assessment of $100 for each violation of § 50-2201.05, an assessment of between $50 and $250 for other serious traffic or misdemeanor offenses, and an assessment of between $100 and $5,000 for each felony offense shall be imposed upon each person convicted of or pleading guilty or nolo contendere to the offense in the Superior Court of the District of Columbia or any other court in which the offense is charged. The decision of the sentencing court regarding assessments is final. If an offender is indigent at the time of sentencing and is later employed for salary, receives compensation while on probation or parole, or is incarcerated in a facility of the Department of Corrections or elsewhere and receives wages or compensation therein, the amount of assessments under this section shall be paid from such salary, wages, or other compensation.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -14,26 +13,26 @@
     <num>(c)</num>
     <text>Assessments under this chapter shall be collected as fines. Failure to pay assessments as ordered by the Court will subject a defendant so ordered to sanctions provided pursuant to § 16-706.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 9, 1997, D.C. Law 11-243, § 17, 44 DCR 1142.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 3-436.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>See note to § 4-501.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-243, see Historical and Statutory Notes following § 4-501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-515.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 3-436.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>See note to § 4-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-243</heading>
+      <text>For legislative history of D.C. Law 11-243, see Historical and Statutory Notes following § 4-501.</text>
     </level>
   </level>
 </level>

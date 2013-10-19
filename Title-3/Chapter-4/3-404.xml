@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-404</num>
   <heading>Fees.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-2804</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor may establish, by rule, a fee schedule for all services related to the regulation of the practice of funeral directing. The fees shall be reasonably related to the cost of administering the licensing, certification, or registration, including the cost of testing, processing, and issuing the license, certificate, or registration, and a proportionate share of the cost of running the Board and any hearing procedures, and other administrative functions. Application fees paid under this section shall not be refundable, even if the applicant withdraws his or her application for licensure, certification, or registration, or is found by the Board to be not qualified.</text>
@@ -10,37 +9,34 @@
     <num>(b)</num>
     <text>The Mayor may establish and change the expiration date of licenses provided for in this chapter. Upon the change of an expiration date, the renewal fee for licenses shall be prorated on the basis of the time covered.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 22, 1984, D.C. Law 5-84, § 5, 31 DCR 1815; Sept. 24, 2010, D.C. Law 18-223, § 2082(b), 57 DCR 6242.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-2804.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-223 rewrote the section, which had read as follows:</text>
-        <text>"(a) The Mayor shall establish, increase, or decrease the fees necessary to cover the costs of administering this chapter. The Mayor shall not revise the fees except after a 30-day notice.</text>
-        <text>"(b) The Mayor is authorized after a 30-day notice to establish and to change the expiration date of licenses provided for in this chapter. Upon the change of an expiration date, the renewal fee for licenses shall be prorated on the basis of the time covered."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2082(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-84, see Historical and Statutory Notes following § 3-401.</text>
-        <text>For Law 18-223, see notes following § 3-402.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority pursuant to Law 5-84, see Mayor's Order 87-186, August 3, 1987.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-2804.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-223 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2082(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-84</heading>
+      <text>For legislative history of D.C. Law 5-84, see Historical and Statutory Notes following § 3-401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 3-402.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority pursuant to Law 5-84, see Mayor's Order 87-186, August 3, 1987.</text>
     </level>
   </level>
 </level>

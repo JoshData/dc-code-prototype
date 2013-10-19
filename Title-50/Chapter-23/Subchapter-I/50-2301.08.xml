@@ -1,247 +1,240 @@
 <level type="section">
   <num>50-2301.08</num>
   <heading>Report to Council.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-608</formerly-cited-as>
   <text>By June 30th of each year, the Mayor shall submit to the Council a report on parking and traffic enforcement for the previous calendar year. The report shall include, but not be limited to, the following:</text>
   <level>
+    <num>(1)</num>
+    <text>The number of persons hired as hearing examiners:</text>
     <level>
-      <num>(1)</num>
-      <text>The number of persons hired as hearing examiners:</text>
+      <num>(A)</num>
+      <text>The level of compensation for each hearing examiner;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The length of time each hearing examiner has served in that capacity; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The qualifications for hearing examiners;</text>
+    </level>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>The number of notices of infraction issued:</text>
+    <level>
+      <num>(A)</num>
+      <text>The number of notices of infraction issued for moving infractions;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The number of notices of infraction issued for parking, standing, stopping and pedestrian infractions; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The number of notices of infraction issued by each agency authorized to issue notices of infraction;</text>
+    </level>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The number of answers filed for moving infractions:</text>
+    <level>
+      <num>(A)</num>
+      <text>The number of "admit" answers filed for moving infractions:</text>
       <level>
-        <num>(A)</num>
-        <text>The level of compensation for each hearing examiner;</text>
+        <num>(i)</num>
+        <text>The number of hearings held for respondents who admit the commission of moving infractions; and</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>The length of time each hearing examiner has served in that capacity; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The qualifications for hearing examiners;</text>
+        <num>(ii)</num>
+        <text>The number of suspensions and revocations of respondents who admit the commission of moving infractions;</text>
       </level>
     </level>
     <level>
-      <num>(2)</num>
-      <text>The number of notices of infraction issued:</text>
+      <num>(B)</num>
+      <text>The number of "admit with explanation" answers filed for moving infractions; the number of suspensions and revocations of respondents who admit with explanation the commission of a moving infraction;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The number of "deny" answers filed for moving infractions:</text>
       <level>
-        <num>(A)</num>
-        <text>The number of notices of infraction issued for moving infractions;</text>
+        <num>(i)</num>
+        <text>The number of determinations of liability of respondents who deny the commission of moving infractions;</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>The number of notices of infraction issued for parking, standing, stopping and pedestrian infractions; and</text>
+        <num>(ii)</num>
+        <text>The number of dismissals of respondents who deny the commission of moving infractions; and</text>
       </level>
       <level>
-        <num>(C)</num>
-        <text>The number of notices of infraction issued by each agency authorized to issue notices of infraction;</text>
+        <num>(iii)</num>
+        <text>The number of suspensions and revocations of respondents who deny the commission of moving infractions;</text>
       </level>
     </level>
     <level>
-      <num>(3)</num>
-      <text>The number of answers filed for moving infractions:</text>
-      <level>
-        <num>(A)</num>
-        <text>The number of "admit" answers filed for moving infractions:</text>
-        <level>
-          <num>(i)</num>
-          <text>The number of hearings held for respondents who admit the commission of moving infractions; and</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>The number of suspensions and revocations of respondents who admit the commission of moving infractions;</text>
-        </level>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The number of "admit with explanation" answers filed for moving infractions; the number of suspensions and revocations of respondents who admit with explanation the commission of a moving infraction;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The number of "deny" answers filed for moving infractions:</text>
-        <level>
-          <num>(i)</num>
-          <text>The number of determinations of liability of respondents who deny the commission of moving infractions;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>The number of dismissals of respondents who deny the commission of moving infractions; and</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>The number of suspensions and revocations of respondents who deny the commission of moving infractions;</text>
-        </level>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>The number of suspensions for failure to answer notices of infraction; and</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>The number of suspensions for failure to appear at a hearing;</text>
-      </level>
+      <num>(D)</num>
+      <text>The number of suspensions for failure to answer notices of infraction; and</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>The number of answers filed for parking, standing, stopping and pedestrian infractions:</text>
-      <level>
-        <num>(A)</num>
-        <text>The number of "admit" answers filed for parking, standing, stopping and pedestrian infractions;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The number of "admit with explanation" answers filed for parking, standing, stopping and pedestrian infractions; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The number of "deny" answers filed for parking, standing, stopping and pedestrian infractions:</text>
-        <level>
-          <num>(i)</num>
-          <text>The number of determinations of liability of respondents who deny the commission of parking, standing, stopping and pedestrian infractions; and</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>The number of dismissals of respondents who deny the commission of parking, standing, stopping and pedestrian infractions;</text>
-        </level>
-      </level>
+      <num>(E)</num>
+      <text>The number of suspensions for failure to appear at a hearing;</text>
+    </level>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The number of answers filed for parking, standing, stopping and pedestrian infractions:</text>
+    <level>
+      <num>(A)</num>
+      <text>The number of "admit" answers filed for parking, standing, stopping and pedestrian infractions;</text>
     </level>
     <level>
-      <num>(5)</num>
-      <text>The number of notices of infraction for which sanctions are imposed:</text>
-      <level>
-        <num>(A)</num>
-        <text>The number of notices of infraction for which a civil fine is imposed;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The number of notices of infraction for which a penalty is imposed; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The number of notices of infraction for which attendance at traffic school is required;</text>
-      </level>
+      <num>(B)</num>
+      <text>The number of "admit with explanation" answers filed for parking, standing, stopping and pedestrian infractions; and</text>
     </level>
     <level>
-      <num>(6)</num>
-      <text>The number of notices of infraction issued to lessors covered under § 50-2303.04:</text>
+      <num>(C)</num>
+      <text>The number of "deny" answers filed for parking, standing, stopping and pedestrian infractions:</text>
       <level>
-        <num>(A)</num>
-        <text>The penalties and fines imposed for infractions under § 50-2303.04;</text>
+        <num>(i)</num>
+        <text>The number of determinations of liability of respondents who deny the commission of parking, standing, stopping and pedestrian infractions; and</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>The penalties and fines actually paid under § 50-2303.04;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The number of outstanding infractions under § 50-2303.04; and</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>The amount of fines and penalties outstanding under § 50-2303.04;</text>
-      </level>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>The number of appeals filed with the appeals boards:</text>
-      <level>
-        <num>(A)</num>
-        <text>The number of decisions set aside by appeals boards;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The number of decisions affirmed by appeals boards;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The list of attorneys available for service on appeals boards;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>The list of citizens available for service on appeals boards; and</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>A list of each appeals board appointed by the Director;</text>
-      </level>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>The number of appeals filed with the Superior Court of the District of Columbia:</text>
-      <level>
-        <num>(A)</num>
-        <text>The number of decisions set aside by the Superior Court of the District of Columbia; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The number of decisions affirmed by the Superior Court of the District of Columbia;</text>
-      </level>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>The number of appeals filed with the District of Columbia Court of Appeals:</text>
-      <level>
-        <num>(A)</num>
-        <text>The number of decisions set aside by the District of Columbia Court of Appeals; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The number of decisions affirmed by the District of Columbia Court of Appeals;</text>
-      </level>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>The number of vehicles towed and booted:</text>
-      <level>
-        <num>(A)</num>
-        <text>The number of vehicles towed;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The number of vehicles booted;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The average cost of each tow; and</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>The average cost of each booting; and</text>
-      </level>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>The total revenues generated by this chapter:</text>
-      <level>
-        <num>(A)</num>
-        <text>The total collected in fines and penalties;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The total collected in towing fees; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The total collected in booting fees.</text>
+        <num>(ii)</num>
+        <text>The number of dismissals of respondents who deny the commission of parking, standing, stopping and pedestrian infractions;</text>
       </level>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(5)</num>
+    <text>The number of notices of infraction for which sanctions are imposed:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>The number of notices of infraction for which a civil fine is imposed;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The number of notices of infraction for which a penalty is imposed; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The number of notices of infraction for which attendance at traffic school is required;</text>
+    </level>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>The number of notices of infraction issued to lessors covered under § 50-2303.04:</text>
+    <level>
+      <num>(A)</num>
+      <text>The penalties and fines imposed for infractions under § 50-2303.04;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The penalties and fines actually paid under § 50-2303.04;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The number of outstanding infractions under § 50-2303.04; and</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>The amount of fines and penalties outstanding under § 50-2303.04;</text>
+    </level>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>The number of appeals filed with the appeals boards:</text>
+    <level>
+      <num>(A)</num>
+      <text>The number of decisions set aside by appeals boards;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The number of decisions affirmed by appeals boards;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The list of attorneys available for service on appeals boards;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>The list of citizens available for service on appeals boards; and</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>A list of each appeals board appointed by the Director;</text>
+    </level>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>The number of appeals filed with the Superior Court of the District of Columbia:</text>
+    <level>
+      <num>(A)</num>
+      <text>The number of decisions set aside by the Superior Court of the District of Columbia; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The number of decisions affirmed by the Superior Court of the District of Columbia;</text>
+    </level>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>The number of appeals filed with the District of Columbia Court of Appeals:</text>
+    <level>
+      <num>(A)</num>
+      <text>The number of decisions set aside by the District of Columbia Court of Appeals; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The number of decisions affirmed by the District of Columbia Court of Appeals;</text>
+    </level>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>The number of vehicles towed and booted:</text>
+    <level>
+      <num>(A)</num>
+      <text>The number of vehicles towed;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The number of vehicles booted;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The average cost of each tow; and</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>The average cost of each booting; and</text>
+    </level>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>The total revenues generated by this chapter:</text>
+    <level>
+      <num>(A)</num>
+      <text>The total collected in fines and penalties;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The total collected in towing fees; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The total collected in booting fees.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Sept. 12, 1978, D.C. Law 2-104, § 108, 25 DCR 1275.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-608.</text>
-        <text>1973 Ed., § 40-1108.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-104, see Historical and Statutory Notes following § 50-2301.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-608.</text>
+      <text>1973 Ed., § 40-1108.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-104</heading>
+      <text>For legislative history of D.C. Law 2-104, see Historical and Statutory Notes following § 50-2301.01.</text>
     </level>
   </level>
 </level>

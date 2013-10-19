@@ -1,7 +1,6 @@
 <level type="section">
   <num>28-4505</num>
   <heading>Civil investigative demand.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-4505</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Whenever the Corporation Counsel has reason to believe that any person may be in possession, custody, or control of any documentary material, or may have any information, relevant to a civil antitrust investigation, the Corporation Counsel may, prior to the institution of a proceeding thereon, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to produce such documentary material for inspection and copying or reproduction, to answer written interrogatories, to give oral testimony concerning documentary material or information, or to furnish any combination of such material, answers, or testimony.</text>
@@ -131,7 +130,7 @@
   </level>
   <level>
     <num>(h)</num>
-    <text>Whenever any person fails to comply with any civil investigative demand duly served upon that person under this section or whenever satisfactory copying or reproduction of any such material cannot be done and such person refuses to surrender such material, the Corporation Counsel may file, in the Superior Court of the District of Columbia and serve upon such person a petition for an order of such court for the enforcement of this chapter. A person who, with the intent to avoid, prevent, or obstruct compliance, in whole or in part, with an investigative demand duly and properly made under this section, withholds, misrepresents, removes from any place, conceals, covers up, destroys, mutilates, alters, or by other means falsifies any documentary material, answers to written interrogatories, or oral testimony which is the subject of such demand, or who attempts to do so or solicits another to do so shall upon conviction thereof be fined not more than $5,000 or imprisoned not more than one (1) year or both.</text>
+    <text>Whenever any person fails to comply with any civil investigative demand duly served upon that person under this section or whenever satisfactory copying or reproduction of any such material cannot be done and such person refuses to surrender such material, the Corporation Counsel may file, in the Superior Court of the District of Columbia and serve upon such person a petition for an order of such court for the enforcement of this chapter. A person who, with the intent to avoid, prevent, or obstruct compliance, in whole or in part, with an investigative demand duly and properly made under this section, withholds, misrepresents, removes from any place, conceals, covers up, destroys, mutilates, alters, or by other means falsifies any documentary material, answers to written interrogatories, or oral testimony which is the subject of such demand, or who attempts to do so or solicits another to do so shall upon conviction thereof be fined not more than not more than the amount set forth in [§ 22-3571.01] or imprisoned not more than one (1) year or both.</text>
   </level>
   <level>
     <num>(i)</num>
@@ -149,23 +148,42 @@
     <num>(l)</num>
     <text>Unless otherwise authorized or required by law, any employee of the District of Columbia who shall intentionally disclose information kept confidential by subsection (k) of this section shall be guilty of a misdemeanor punishable by a fine up to $500.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 5, 1981, D.C. Law 3-169, § 2, 27 DCR 5368; Apr. 9, 1997, D.C. Law 11-255, § 27(dd), 44 DCR 1271.)</text>
+      <heading>History</heading>
+      <text>(Mar. 5, 1981, D.C. Law 3-169, § 2, 27 DCR 5368; Apr. 9, 1997, D.C. Law 11-255, § 27(dd), 44 DCR 1271; June 11, 2013, D.C. Law 19-317, § 285(d), 60 DCR 2064.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-4505.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-169, see Historical and Statutory Notes following § 28-4501.</text>
-        <text>Law 11-255, the "Second Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-905, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-519 and transmitted to both Houses of Congress for its review. D.C. Law 11-255 became effective on April 9, 1997.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Freedom of information, exemptions from disclosure, redaction, see § 2-534.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-534 and § 28-4513.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-4505.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-317 substituted "not more than the amount set forth in [§ 22-3571.01]" for "not more than $5,000" in (h).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-169</heading>
+      <text>For legislative history of D.C. Law 3-169, see Historical and Statutory Notes following § 28-4501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>Law 11-255, the "Second Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-905, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-519 and transmitted to both Houses of Congress for its review. D.C. Law 11-255 became effective on April 9, 1997.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-317</heading>
+      <text>Law 19-317, the "Criminal Fine Proportionality Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-214. The Bill was adopted on first and second readings on Oct. 16, 2012, and Nov. 1, 2012, respectively. Signed by the Mayor on Jan. 23, 2013, it was assigned Act No. 19-641 and transmitted to Congress for its review. D.C. Law 19-317 became effective on June 11, 2013.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
     </level>
   </level>
 </level>

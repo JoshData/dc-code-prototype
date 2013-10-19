@@ -1,7 +1,6 @@
 <level type="section">
   <num>21-101</num>
   <heading>Natural guardians of the person.</heading>
-  <formerly-cited-as>DC ST 1981 § 21-101</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The father and mother are the natural guardians of the person of their minor children. When either dies or is incapable of acting, the natural guardianship of the person devolves upon the other.</text>
@@ -10,23 +9,33 @@
     <num>(b)</num>
     <text>This section does not affect the power of a court of competent jurisdiction to appoint another person guardian of the children when it appears to the court that the welfare of the children requires it.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 1965, 79 Stat. 737, Pub. L. 89-183, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 21-101.</text>
-        <text>1973 Ed., § 21-101.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 33(a) of D.C. Law 15-354, as amended by section 48(a) of D.C. Law 16- 191, provides that Title 21 is designated Title 21 of the District of Columbia Official Code.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Adoption, see § 16-301 et seq.</text>
+      <text>Infant owners of condemned buildings, appointment of guardian, see § 6-909.</text>
+      <text>Life estate and contingency remainder sale, guardian ad litem, see § 42-1402.</text>
+      <text>Nonresident infants, appointment of ancillary guardian, see §§ 21-111, 21-112.</text>
+      <text>Trust companies, authority to act as guardian, see § 26-1309 et seq.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 21-106.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 21-101.</text>
+      <text>1973 Ed., § 21-101.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 33(a) of D.C. Law 15-354, as amended by section 48(a) of D.C. Law 16-191, provided that Title 21 is designated Title 21 of the District of Columbia Official Code.</text>
+      <text>Section 21(a) of D.C. Law 19-169 substituted "Persons with Mental Illness" for "the Mentally Ill" in the Title heading.</text>
+      <text>Section 35 of D.C. Law 19-169 provided that no provision of the act shall impair any right or obligation existing under law.</text>
     </level>
   </level>
 </level>

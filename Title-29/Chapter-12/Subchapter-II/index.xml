@@ -1,8 +1,10 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Formation; Certificate of Trust and Other Filings; Process.</heading>
+  <heading>Formation; Certificate of Trust and Other Filings; Process</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1202.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1202.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1202.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1202.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1202.05.xml"/>
 </level>

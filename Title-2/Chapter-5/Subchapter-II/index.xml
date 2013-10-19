@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Freedom of Information.</heading>
-  <level>
-    <text>DC CODE D. I, T. 2, Ch. 5, Subch. II, Refs &amp; Annos</text>
-  </level>
+  <heading>Freedom of Information</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-531.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-532.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-533.xml"/>

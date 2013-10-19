@@ -88,18 +88,14 @@
       <text>Specification of any required notice and any penalty for early termination of contract.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 2005, D.C. Law 15-227, § 9, 51 DCR 10549.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-227, see notes following § 34-1651.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-227</heading>
+      <text>For Law 15-227, see notes following § 34-1651.01.</text>
     </level>
   </level>
 </level>

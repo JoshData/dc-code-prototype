@@ -1,31 +1,32 @@
 <level type="section">
   <num>5-1303</num>
-  <heading>Service in Armed Forces--Rank or grade preserved; restriction on compensation.</heading>
-  <formerly-cited-as>DC ST 1981 § 4-1103</formerly-cited-as>
+  <heading>Service in Armed Forces - Rank or grade preserved; restriction on compensation.</heading>
   <text>No officer or member of the Metropolitan Police force or of the Fire Department of the District of Columbia shall, by reason of the enactment of § 5-1302, be:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Reduced in rank or grade; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Entitled to any compensation for any period prior to July 1, 1947.</text>
-    </level>
+    <num>(1)</num>
+    <text>Reduced in rank or grade; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Entitled to any compensation for any period prior to July 1, 1947.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 1, 1947, 61 Stat. 240, ch. 193, § 2.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 4-1103.</text>
-        <text>1973 Ed., § 4-903.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Merit system, application to police officers and firefighters, see § 1-632.03.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-632.03.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 4-1103.</text>
+      <text>1973 Ed., § 4-903.</text>
     </level>
   </level>
 </level>

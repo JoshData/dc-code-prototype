@@ -1,6 +1,6 @@
 <level type="section">
   <num>31-5608.02</num>
-  <heading>District of Columbia Securities Advisory Committee</heading>
+  <heading>District of Columbia Securities Advisory Committee.</heading>
   <level>
     <num>(a)</num>
     <text>The Mayor shall appoint a District of Columbia Advisory Committee which shall consist of 6 members who shall be residents of the District, Maryland, or Virginia, at least 2 of whom shall be actively engaged in the securities business and at least 2 of whom shall be members of the bar of the District of Columbia.</text>
@@ -21,18 +21,14 @@
     <num>(e)</num>
     <text>The Advisory Committee shall give the Commissioner the benefit of its advice on any and all matters pertaining to the administration of this chapter, particularly the adoption, amendment of repeal of rules, regulations, and forms.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 26, 2000, D.C. Law 13-203, § 802, 47 DCR 7837.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-203, see notes following § 31-5601.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-203</heading>
+      <text>For Law 13-203, see notes following § 31-5601.01.</text>
     </level>
   </level>
 </level>

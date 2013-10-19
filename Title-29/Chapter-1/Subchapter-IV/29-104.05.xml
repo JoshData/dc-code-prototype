@@ -3,10 +3,10 @@
   <heading>Listing of commercial registered agent.</heading>
   <level>
     <num>(a)</num>
-    <text>A person may become listed as a commercial registered agent by filing with the Mayor a commercial registered agent listing statement signed by or on behalf of the person which states:</text>
+    <text>A person may become listed as a commercial registered agent by delivering to the Mayor for filing a commercial registered agent listing statement signed by the person which states:</text>
     <level>
       <num>(1)</num>
-      <text>The name of the individual or the name of the entity, Type of entity, and jurisdiction of formation of the entity;</text>
+      <text>The name of the individual or the name of the entity, type of entity, and jurisdiction of formation of the entity;</text>
     </level>
     <level>
       <num>(2)</num>
@@ -14,7 +14,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>The address of a place of business of the person in the District to which service of process and other notice and documents being served on or sent to entities represented by the person may be delivered.</text>
+      <text>The address of a place of business of the person in the District to which service of process, notices, and demands being served on or sent to entities represented by the person may be delivered.</text>
     </level>
   </level>
   <level>
@@ -23,28 +23,45 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>If the name of a person filing a commercial registered agent listing statement is not distinguishable on the records of the Mayor from the name of another commercial registered agent listed under this section, the person shall adopt a fictitious name that is distinguishable and use that name in its statement and when it does business in the District as a commercial registered agent.</text>
+    <text>If the name of a person delivering to the Mayor for filing a commercial registered agent listing statement is not distinguishable on the records of the Mayor from the name of another commercial registered agent listed under this section, the person shall adopt a fictitious name that is distinguishable and use that name in its statement and when it does business in the District as a commercial registered agent.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text>A listing statement shall be effective on filing by the Mayor.</text>
-  </level>
-  <level>
-    <num>(e)</num>
-    <text>The Mayor shall note the filing of the commercial registered agent listing statement in the index of filings maintained by the Mayor for each entity represented by the agent at the time of the filing. The statement shall be deemed to delete the address of the agent from the filing of each of those entities.</text>
-  </level>
-  <level>
-    <type>annotations</type>
+    <text>The Mayor shall note the filing of the commercial registered agent listing statement in the records maintained by the Mayor for each entity represented by the agent at the time of the filing. The statement has the effect of amending the registered agent filing for each of those entities to:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <num>(1)</num>
+      <text>Designate the person becoming listed as the commercial registered agent of each of those entities; and</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <num>(2)</num>
+      <text>Delete the address of the former agent from the registered agent filing of each of those entities.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(a)(19), 59 DCR 13171.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-101.02, § 29-104.06, § 29-104.09, § 29-104.12, and § 29-104.13.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 rewrote the section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-101.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 2(a)(19)(B) of D.C. Law 19-210 provided: "(B) Subsection (b) is amended by striking the phrase 'and other notice and documents' and inserting the phrase ', notices, and demands' in its place." Because this language did not match the statute text of § 29-104.05(b), the amendment could not be implemented.</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

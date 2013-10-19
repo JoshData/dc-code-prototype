@@ -1,7 +1,6 @@
 <level type="section">
   <num>22-2302</num>
   <heading>Prohibited acts.</heading>
-  <formerly-cited-as>DC ST 1981 § 22-3312</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>No person may ask, beg, or solicit alms, including money and other things of value, in an aggressive manner in any place open to the general public, including sidewalks, streets, alleys, driveways, parking lots, parks, plazas, buildings, doorways and entrances to buildings, and gasoline service stations, and the grounds enclosing buildings.</text>
@@ -34,22 +33,22 @@
     <num>(h)</num>
     <text>No person may ask, beg, or solicit alms on private property or residential property, without permission from the owner or occupant.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Nov. 17, 1993, D.C. Law 10-54, § 3, 40 DCR 5450.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 22-3312.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-54, see Historical and Statutory Notes following § 22-2301.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 22-2304.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 22-3312.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-54</heading>
+      <text>For legislative history of D.C. Law 10-54, see Historical and Statutory Notes following § 22-2301.</text>
     </level>
   </level>
 </level>

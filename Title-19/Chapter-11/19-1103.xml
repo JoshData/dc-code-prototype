@@ -3,7 +3,7 @@
   <heading>Custodial trustee for future payment or transfer.</heading>
   <level>
     <num>(a)</num>
-    <text>A person having the right to designate the recipient of property payable or transferable upon a future event may create a custodial trust upon the occurrence of the future event by designating in writing the recipient, followed in substance by: "as custodial trustee for __________ (name of beneficiary) under the District of Columbia's Uniform Custodial Trust Act."</text>
+    <text>A person having the right to designate the recipient of property payable or transferable upon a future event may create a custodial trust upon the occurrence of the future event by designating in writing the recipient, followed in substance by: "as custodial trustee for ____________ (name of beneficiary) under the District of Columbia's Uniform Custodial Trust Act."</text>
   </level>
   <level>
     <num>(b)</num>
@@ -13,18 +13,18 @@
     <num>(c)</num>
     <text>A designation under this section may be made in a will, a trust, a deed, a multiple-party account, an insurance policy, an instrument exercising a power of appointment, or a writing designating a beneficiary of contractual rights. If the designation is not made in one of the foregoing ways, the designation must be registered with or delivered to the fiduciary, payor, issuer, or obligor of the future right in order to be effective.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 23, 2002, D.C. Law 14-177, § 2(b), 49 DCR 5092.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-177, see notes following § 19-1101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 19-1105 and § 19-1113.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-177</heading>
+      <text>For Law 14-177, see notes following § 19-1101.</text>
     </level>
   </level>
 </level>

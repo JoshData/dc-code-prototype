@@ -33,29 +33,35 @@
     <num>(c)</num>
     <text>The Mayor shall list all known minimum requirements as part of the RFP.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 2, 2003, D.C. Law 14-267, § 4, 50 DCR 420; June 8, 2006, D.C. Law 16-119, § 3(c), 53 DCR 2609; Mar. 2, 2007, D.C. Law 16-191, § 42, 53 DCR 6794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-119, in par. (a)(3), substituted "offered for sale or rental" for "offered for sale"; and repealed pars. (a)(4) and (a)(5).</text>
-        <text>D.C. Law 16-191, in subsec. (a)(2), substituted "Department of Small and Local Business Development, established by § 2-218.11" for "Office of Local Business Development".</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition, see § 4 of Abandoned and Vacant Properties Community Development Disposition, and Disapproval of Disposition of Certain Scattered Vacant and Abandoned Properties Temporary of 2002 (D.C. Law 14-203, October 17, 2002, law notification 49 DCR 10021).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-267, see notes following § 10-831.</text>
-        <text>For Law 16-119, see notes following § 10-831.</text>
-        <text>For Law 16-191, see notes following § 10-801.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 10-835.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-119, in par. (a)(3), substituted "offered for sale or rental" for "offered for sale"; and repealed pars. (a)(4) and (a)(5).</text>
+      <text>D.C. Law 16-191, in subsec. (a)(2), substituted "Department of Small and Local Business Development, established by § 2-218.11" for "Office of Local Business Development".</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition, see § 4 of Abandoned and Vacant Properties Community Development Disposition, and Disapproval of Disposition of Certain Scattered Vacant and Abandoned Properties Temporary of 2002 (D.C. Law 14-203, October 17, 2002, law notification 49 DCR 10021).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-267</heading>
+      <text>For Law 14-267, see notes following § 10-831.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-119</heading>
+      <text>For Law 16-119, see notes following § 10-831.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 10-801.</text>
     </level>
   </level>
 </level>

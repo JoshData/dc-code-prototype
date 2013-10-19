@@ -1,10 +1,11 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>VIII</num>
-  <heading>Dissolution and Winding Up.</heading>
+  <heading>Dissolution and Winding Up</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1208.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1208.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1208.03.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1208.04.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1208.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-1208.06.xml"/>
 </level>

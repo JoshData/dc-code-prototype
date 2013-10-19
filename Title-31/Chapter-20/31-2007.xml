@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-2007</num>
   <heading>Hearings.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-4607</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The insurer shall have a right to a hearing, at which the insurer may challenge any of the following determinations or actions by the Commissioner:</text>
@@ -34,22 +33,22 @@
     <num>(b)</num>
     <text>The insurer shall notify the Commissioner of its request for a hearing within 5 days after the notification by the Commissioner under subsection (a) of this section. Upon receipt of the insurer's request for a hearing, the Commissioner shall set a date for the hearing, which date shall be no less than 10 nor more than 30 days after the date of the insurer's request.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 9, 1997, D.C. Law 11-233, § 8, 44 DCR 765.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-4607.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-233, see Historical and Statutory Notes following § 31-2001.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-2003, § 31-2004, § 31-2005, and § 31-2006.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-4607.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-233</heading>
+      <text>For legislative history of D.C. Law 11-233, see Historical and Statutory Notes following § 31-2001.</text>
     </level>
   </level>
 </level>

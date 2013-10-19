@@ -35,20 +35,16 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>Violations of subsection (a) of this section shall be adjudicated as moving violations pursuant to Chapter 23 of this title.</text>
+    <text>Violations of subsection (a) of this section shall be adjudicated as moving violations pursuant to Chapter 23 of this title [§ 50-2301.01 et seq.].</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 20, 1990, D.C. Law 8-161, § 6a, as added Mar. 14, 2007, D.C. Law 16-279, § 102(b), 54 DCR 903.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-279, see notes following § 50-312.</text>
-      </level>
+      <heading>Legislative History of Law 16-279</heading>
+      <text>For Law 16-279, see notes following § 50-312.</text>
     </level>
   </level>
 </level>

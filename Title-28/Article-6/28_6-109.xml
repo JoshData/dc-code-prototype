@@ -1,7 +1,6 @@
 <level type="section">
   <num>28:6-109</num>
   <heading>What constitutes filing; duties of filing officer; information from filing officer.</heading>
-  <formerly-cited-as>DC ST 1981 § 28:6-109</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Presentation of a notice or list of claimants for filing and tender of the filing fee or acceptance of the notice or list by the filing officer constitutes filing under this article.</text>
@@ -36,50 +35,45 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>Upon request of any person, the filing officer shall issue a certificate showing whether any notice or list with respect to a particular seller or buyer is on file on the date and hour stated in the certificate. If a notice or list is on file, the certificate must give the date and hour of filing of each notice or list and the name and address of each seller, buyer, auctioneer, or liquidator. Upon request of any person, and payment of the required fee, the filing officer shall furnish a copy of any filed notice or list. The fee for a certificate in the standard form prescribed by the Mayor, the fee for a certificate not in the standard form, and the fee for a copy of a filed notice or list shall be established by the Mayor by rulemaking adopted pursuant to the District of Columbia Administrative Procedure Act (D.C. Official Code § 2- 501 et seq.).</text>
+    <text>Upon request of any person, the filing officer shall issue a certificate showing whether any notice or list with respect to a particular seller or buyer is on file on the date and hour stated in the certificate. If a notice or list is on file, the certificate must give the date and hour of filing of each notice or list and the name and address of each seller, buyer, auctioneer, or liquidator. Upon request of any person, and payment of the required fee, the filing officer shall furnish a copy of any filed notice or list. The fee for a certificate in the standard form prescribed by the Mayor, the fee for a certificate not in the standard form, and the fee for a copy of a filed notice or list shall be established by the Mayor by rulemaking adopted pursuant to the District of Columbia Administrative Procedure Act (D.C. Official Code § 2-501 et seq.).</text>
   </level>
   <level>
     <num>(f)</num>
     <text>The filing officer shall keep each notice or list for 2 years after it is filed.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 30, 1963, 77 Stat. 716, Pub. L. 88-243, § 1; renumbered and amended, Apr. 9, 1997, D.C. Law 11-239, § 2, 44 DCR 936.)</text>
     </level>
     <level>
-      <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
-      <text><text b="True">Prior Uniform Statutory Provision:</text> None</text>
-      <level>
-        <heading>Purposes of New Matter:</heading>
-        <text>This Article contemplates public filing of bulk sale notices and lists of claimants in a single filing office in each state. This section, which derives substantially from Sections 9-403 and 9-407, governs filing. The filing system is designed to enable one seeking information about a sale to discover any filed notices or lists by searching under either the seller's or the buyer's (but not the auctioneer's or liquidator's) individual, partnership, or corporate name.</text>
-      </level>
-      <level>
-        <heading>Cross-References:</heading>
-        <text>Sections 6-103, 6-105, 9-403, and 9-407.</text>
-      </level>
-      <level>
-        <heading>Definitional Cross-References:</heading>
-        <text>"Auctioneer". Section 6-102.</text>
-        <text>"Buyer". Section 2-103.</text>
-        <text>"Liquidator". Section 6-102.</text>
-        <text>"Person". Section 1-201.</text>
-        <text>"Seller". Section 2-103.</text>
-        <text>"Send". Section 1-201.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28:6-109.</text>
+      <text>1973 Ed., § 28:6-109.</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28:6-109.</text>
-        <text>1973 Ed., § 28:6-109.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-239, see Historical and Statutory Notes following § 28:6-101.</text>
-      </level>
+      <heading>Legislative History of Law 11-239</heading>
+      <text>For legislative history of D.C. Law 11-239, see Historical and Statutory Notes following § 28:6-101.</text>
+    </level>
+    <level>
+      <heading>Prior Uniform Statutory Provision:</heading>
+      <text>None Purposes of New Matter:</text>
+      <text>This Article contemplates public filing of bulk sale notices and lists of claimants in a single filing office in each state. This section, which derives substantially from Sections 9-403 and 9-407, governs filing. The filing system is designed to enable one seeking information about a sale to discover any filed notices or lists by searching under either the seller's or the buyer's (but not the auctioneer's or liquidator's) individual, partnership, or corporate name.</text>
+    </level>
+    <level>
+      <heading>Cross-References:</heading>
+      <text/>
+      <text>Sections 6-103, 6-105, 9-403, and 9-407.</text>
+    </level>
+    <level>
+      <heading>Definitional Cross-References:</heading>
+      <text/>
+      <text>"Auctioneer". Section 6-102.</text>
+      <text>"Buyer". Section 2-103.</text>
+      <text>"Liquidator". Section 6-102.</text>
+      <text>"Person". Section 1-201.</text>
+      <text>"Seller". Section 2-103.</text>
+      <text>"Send". Section 1-201.</text>
     </level>
   </level>
 </level>

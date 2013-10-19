@@ -2,22 +2,18 @@
   <num>34-1731.10</num>
   <heading>Not a franchise agreement.</heading>
   <text>This chapter shall not constitute, or be construed to comprise, a franchise agreement.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 2, 2007, D.C. Law 16-210, § 11, 53 DCR 9122.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 11 of Digital Inclusion Emergency Act of 2006 (D.C. Act 16-467, July 25, 2006, 53 DCR 6754).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-210, see notes following § 34-1731.01.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 11 of Digital Inclusion Emergency Act of 2006 (D.C. Act 16-467, July 25, 2006, 53 DCR 6754).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-210</heading>
+      <text>For Law 16-210, see notes following § 34-1731.01.</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,9 @@
 <level type="section">
   <num>8-406</num>
   <heading>Pesticide operators.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-751.6</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>No person shall act in the capacity of a pesticide operator, or advertise as or assume to act as a pesticide operator at any time unless he is licensed by the Mayor in accordance with this chapter and the rules and regulations promulgated pursuant thereto.</text>
+    <text>No person shall act in the capacity of a pesticide operator, or advertise as or assume to act as a pesticide operator at any time unless he is licensed by the Mayor in accordance with this subchapter and the rules and regulations promulgated pursuant thereto.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -42,25 +41,21 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>No licensed pesticide operator (as defined in § 8-401(bb)(2)) shall permit the use of any restricted use pesticide by any person who is not a licensed commercial or public applicator designated pursuant to § 8- 406(b)(5), or a registered employee of the pesticide operator acting under the direct supervision of the licensed applicator.</text>
+      <text>No licensed pesticide operator (as defined in § 8-401(bb)(2)) shall permit the use of any restricted use pesticide by any person who is not a licensed commercial or public applicator designated pursuant to § 8-406(b)(5), or a registered employee of the pesticide operator acting under the direct supervision of the licensed applicator.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 18, 1978, D.C. Law 2-70, § 7, 24 DCR 6867.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-751.6.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-70, see Historical and Statutory Notes following § 8-401.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-751.6.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-70</heading>
+      <text>For legislative history of D.C. Law 2-70, see Historical and Statutory Notes following § 8-401.</text>
     </level>
   </level>
 </level>

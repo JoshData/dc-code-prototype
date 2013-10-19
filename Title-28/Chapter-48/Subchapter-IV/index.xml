@@ -1,8 +1,8 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>IV</num>
-  <heading>Allocation of Receipts During Administration of Trust.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-A/index.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-B/index.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-C/index.xml"/>
+  <heading>Allocation of Receipts During Administration of Trust</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-1/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-2/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-3/index.xml"/>
 </level>

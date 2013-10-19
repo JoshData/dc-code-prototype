@@ -40,28 +40,26 @@
       <text>Repays all amounts of loan repayments paid to the participant under the contract.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2006, D.C. Law 16-71, § 16, 53 DCR 61; Apr. 8, 2011, D.C. Law 18-370, § 532(c), 58 DCR 1008.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-370 rewrote the section heading which had read as follows: " "Suspension and waiver of contract"; repealed subsec. (b)(2); and added subsecs. (c) and (d). Prior to repeal, subsec. (b)(2) read as follows:</text>
-        <text>"(2) Death of the participant."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 532(c) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011, 58 DCR 662).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-71, see notes following § 7-751.01.</text>
-        <text>For history of Law 18-370, see notes under § 7-751.11.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-370 rewrote the section heading which had read as follows: "Suspension and waiver of contract"; repealed subsec. (b)(2); and added subsecs. (c) and (d). Prior to repeal, subsec. (b)(2) read as follows: "(2) Death of the participant."</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 532(c) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011, 58 DCR 662).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-71</heading>
+      <text>For Law 16-71, see notes following § 7-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-370</heading>
+      <text>For history of Law 18-370, see notes under § 7-751.11.</text>
     </level>
   </level>
 </level>

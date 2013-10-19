@@ -51,7 +51,7 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>Consistent with § 1-204.90(a)(4)(B) and, notwithstanding Article 9 of Title 28:</text>
+    <text>Consistent with § 1-204.90(a)(4)(B) and, notwithstanding Article 9 of Title 28 [§ 28:9-101 et seq.]:</text>
     <level>
       <num>(1)</num>
       <text>A pledge made and security interest created in respect of any Bonds or pursuant to any related financing document shall be valid, binding, and perfected from the time the security interest is created, with or without physical delivery of any funds or any property and with or without any further action;</text>
@@ -65,18 +65,14 @@
       <text>The security interest shall be valid, binding, and perfected whether or not any statement, document, or instrument relating to the security interest is recorded or filed.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 5, 2005, D.C. Law 15-293, § 8, 52 DCR 1465.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-293, see notes following § 1-308.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-293</heading>
+      <text>For Law 15-293, see notes following § 1-308.01.</text>
     </level>
   </level>
 </level>

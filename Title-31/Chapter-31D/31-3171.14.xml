@@ -3,27 +3,21 @@
   <heading>Powers of the Mayor.</heading>
   <text>Notwithstanding any other provision of this chapter, all powers and authority vested by this chapter in the Authority shall remain with the Mayor until:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>A majority of members of the executive board have been confirmed by the Council; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The executive board has hired an executive director.</text>
-    </level>
+    <num>(1)</num>
+    <text>A majority of members of the executive board have been confirmed by the Council; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The executive board has hired an executive director.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 2, 2012, D.C. Law 19-94, § 15, 59 DCR 213.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-94, see notes under § 31-3171.01.</text>
-      </level>
+      <heading>Legislative History of Law 19-94</heading>
+      <text>For history of Law 19-94, see notes under § 31-3171.01.</text>
     </level>
   </level>
 </level>

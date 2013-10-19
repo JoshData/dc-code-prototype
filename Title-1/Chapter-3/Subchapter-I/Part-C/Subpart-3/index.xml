@@ -1,9 +1,0 @@
-<level type="toc">
-  <prefix>Subpart</prefix>
-  <num>3</num>
-  <heading>Legislative Procedures.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.45.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.46.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.47.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.47a.xml"/>
-</level>

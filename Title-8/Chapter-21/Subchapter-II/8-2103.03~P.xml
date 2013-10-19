@@ -2,27 +2,23 @@
   <reason>Expired</reason>
   <section>8-2103.03</section>
   <heading>Disbursements from the Fund.</heading>
-  <level>
-    <type>annotations</type>
+  <text>Expired.</text>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 19, 2000, D.C. Law 13-172, § 906, 47 DCR 6308.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see §§ 902 to 908 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-172, see notes following § 8-2101.01.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Pursuant to subsection (f) of this section, this section expired on September 30, 2002.</text>
-        <text>DC CODE § 8-2103.03</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see §§ 902 to 908 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-172</heading>
+      <text>For Law 13-172, see notes following § 8-2101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Pursuant to subsection (f) of this section, this section expired on September 30, 2002.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>7-1604</num>
   <heading>AIDS Program Coordination Office.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-2804</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor shall establish, within the Department of Health, an AIDS Program Coordination Office.</text>
@@ -46,29 +45,31 @@
       <text>Perform other duties appropriate to accomplish the objectives of this subchapter.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 10, 1986, D.C. Law 6-121, § 5, 33 DCR 2451; Mar. 2, 2007, D.C. Law 16-191, § 7, 53 DCR 6794; Mar. 25, 2009, D.C. Law 17-353, § 130(b), 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-2804.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-191 substituted "Health" for "Human Services".</text>
-        <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (a).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-121, see Historical and Statutory Notes following § 7-1601.</text>
-        <text>For Law 16-191, see notes following § 7-103.</text>
-        <text>For Law 17-353, see notes following § 7-161.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-2804.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-191 substituted "Health" for "Human Services".</text>
+      <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (a).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-121</heading>
+      <text>For legislative history of D.C. Law 6-121, see Historical and Statutory Notes following § 7-1601.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 7-103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 7-161.</text>
     </level>
   </level>
 </level>

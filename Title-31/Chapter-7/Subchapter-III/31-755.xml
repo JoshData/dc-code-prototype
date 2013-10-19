@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-755</num>
   <heading>Insurers rehabilitation and liquidation.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-3745</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A mutual insurance holding company shall be deemed to be an insurer subject to Chapter 13 of this title ("Insurers Rehabilitation and Liquidation Act"), and shall automatically be a party to any proceeding under the Insurers Rehabilitation and Liquidation Act involving an insurance company, which as a result of a conversion or merger pursuant to § 31-702 or § 31-703 is directly or indirectly a subsidiary of the mutual insurance holding company. In any proceeding under the Insurers Rehabilitation and Liquidation Act involving the converted or merged insurance company, the assets of the mutual insurance holding company shall be deemed to be assets of the estate of the converted or merged insurance company for purposes of satisfying the claims of the converted or merged insurance company's policyholders.</text>
@@ -10,26 +9,22 @@
     <num>(b)</num>
     <text>A mutual insurance holding company shall not dissolve or liquidate without the approval of the Commissioner or as ordered by a District of Columbia court pursuant to the Insurers Rehabilitation and Liquidation Act.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 12, 1998, D.C. Law 12-112, § 6, 45 DCR 1794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-3745.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>See Historical and Statutory Notes following § 31-751.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-112, see Historical and Statutory Notes following § 31-751.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-3745.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>See Historical and Statutory Notes following § 31-751.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-112</heading>
+      <text>For legislative history of D.C. Law 12-112, see Historical and Statutory Notes following § 31-751.</text>
     </level>
   </level>
 </level>

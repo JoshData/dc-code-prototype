@@ -75,23 +75,22 @@
     <num>(d)</num>
     <text>If the amount of the credit allowable under this section exceeds the tax otherwise due from a Qualified High Technology Company, the unused amount of the credit may be carried forward for 10 years.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 3, 2001, D.C. Law 13-256, § 201(b), 48 DCR 730; Sept. 12, 2008, D.C. Law 17-231, § 41(n), 55 DCR 6758.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-231, in subsec. (c)(2)(D), substituted "spouse, domestic partner," for "spouse".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-256, see notes following § 47-1817.01.</text>
-        <text>For Law 17-231, see notes following § 47-802.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-231, in subsec. (c)(2)(D), substituted "spouse, domestic partner," for "spouse".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-256</heading>
+      <text>For Law 13-256, see notes following § 47-1817.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 47-802.</text>
     </level>
   </level>
 </level>

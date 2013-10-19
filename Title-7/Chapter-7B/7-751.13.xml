@@ -57,31 +57,35 @@
     <num>(e)</num>
     <text>The Department of Health may pursue any additional legal remedies against a participant found to be in breach of contract, including the garnishment of wages and civil penalties.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2006, D.C. Law 16-71, § 14, 53 DCR 61; Aug. 16, 2008, D.C. Law 17-219, § 5033(d), 55 DCR 7598; Apr. 8, 2011, D.C. Law 18-370, § 532(b), 58 DCR 1008.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-219 rewrote subsec. (b), which had read as follows:</text>
-        <text>"(b) A participant found in breach of contract is liable to pay the District of Columbia the difference between the lump sum payment for the year of obligated service and a prorated amount for the days of service obligation left unfulfilled, beginning on the date the participant caused a breach of contract. This amount shall be repaid within one year of the date of breach of contract, or a longer period as determined by the Director."</text>
-        <text>D.C. Law 18-370 rewrote subsec. (b), which had read as follows:</text>
-        <text>"(b) A participant found in breach of contract shall repay the District of Columbia for each unfulfilled day of service remaining in the participant's period of service obligation. The amount of such repayment shall be determined by dividing the sum amount previously paid to the participant by the number of days of obligated service required for the payment and multiplying the result by the number of unfulfilled days from the time of the breach of contract. This amount shall be paid within one year of the date of the breach of contract, or a longer period as determined by the Director."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 532(b) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011, 58 DCR 662).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-71, see notes following § 7-751.01.</text>
-        <text>For Law 17-219, see notes following § 7-651.17.</text>
-        <text>For history of Law 18-370, see notes under § 7-751.11.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-751.07.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-219 rewrote subsec. (b), which had read as follows: "(b) A participant found in breach of contract is liable to pay the District of Columbia the difference between the lump sum payment for the year of obligated service and a prorated amount for the days of service obligation left unfulfilled, beginning on the date the participant caused a breach of contract. This amount shall be repaid within one year of the date of breach of contract, or a longer period as determined by the Director."</text>
+      <text>D.C. Law 18-370 rewrote subsec. (b), which had read as follows: "(b) A participant found in breach of contract shall repay the District of Columbia for each unfulfilled day of service remaining in the participant's period of service obligation. The amount of such repayment shall be determined by dividing the sum amount previously paid to the participant by the number of days of obligated service required for the payment and multiplying the result by the number of unfulfilled days from the time of the breach of contract. This amount shall be paid within one year of the date of the breach of contract, or a longer period as determined by the Director."</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 532(b) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011, 58 DCR 662).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-71</heading>
+      <text>For Law 16-71, see notes following § 7-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-219</heading>
+      <text>For Law 17-219, see notes following § 7-651.17.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-370</heading>
+      <text>For history of Law 18-370, see notes under § 7-751.11.</text>
     </level>
   </level>
 </level>

@@ -1,22 +1,17 @@
 <level type="placeholder">
-  <reason>Expired</reason>
   <section-start>42-4041</section-start>
   <section-end>42-4048</section-end>
   <section-range-type>range</section-range-type>
-  <formerly-cited-as>DC ST 1981 § 45-1541 to 45-1548</formerly-cited-as>
-  <level>
-    <type>annotations</type>
+  <heading>[Expired]</heading>
+  <text>Expired.</text>
+  <level type="annotations">
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-131, see Historical and Statutory Notes following § 42-4001.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Expiration of subchapter: Section 907 of D.C. Law 3-131 provided that all subchapters of this chapter, except subchapter V, shall terminate on April 30, 1985.</text>
-        <text>DC CODE § 42-4041</text>
-      </level>
+      <heading>Legislative History of Law 3-131</heading>
+      <text>For legislative history of D.C. Law 3-131, see Historical and Statutory Notes following § 42-4001.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Expiration of subchapter: Section 907 of D.C. Law 3-131 provided that all subchapters of this chapter, except subchapter V, shall terminate on April 30, 1985.</text>
     </level>
   </level>
 </level>

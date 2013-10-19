@@ -1,7 +1,6 @@
 <level type="section">
   <num>21-541</num>
   <heading>Petition to Commission; copy to person affected.</heading>
-  <formerly-cited-as>DC ST 1981 § 21-541</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Proceedings for the judicial commitment of a person in the District of Columbia may be commenced by the filing of a petition with the Commission by his spouse, parent, or legal guardian, by a physician or a qualified psychologist, by a duly accredited officer or agent of the Department, by the Director of the Department or the Director's designee, or by an officer authorized to make arrests in the District of Columbia. The petition shall be accompanied by:</text>
@@ -26,53 +25,75 @@
     <num>(b)</num>
     <text>Within three days after the Department receives a petition filed under subsection (a) of this section, the Department shall send a copy of the petition by registered mail to the person with respect to whom it was filed.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 14, 1965, 79 Stat. 754, Pub. L. 89-183, § 1; Feb. 24, 1984, D.C. Law 5-48, § 11(a)(12), 30 DCR 5778; Apr. 30, 1988, D.C. Law 7-104, § 6(g), 35 DCR 147; Dec. 18, 2001, D.C. Law 14-56, § 116(g)(2), 48 DCR 7674; April 4, 2003, D.C. Law 14-283, § 2(p), 50 DCR 917; Mar. 13, 2004, D.C. Law 15-105, § 57, 51 DCR 881.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 21-541.</text>
-        <text>1973 Ed., § 21-541.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-56, in subsec. (a), substituted "Department of Mental Health" for "Department of Human Services".</text>
-        <text>D.C. Law 14-283 rewrote the introductory paragraph of subsec. (a); in par. (1) of subsec. (a), substituted "not committed" for "allowed to remain at liberty"; and in par. (2)(A) of subsec. (a), substituted "not committed" for "allowed to remain at liberty". Prior to amendment, the introductory paragraph of subsec. (a) had read as follows:</text>
-        <text>"(a) Proceedings for the judicial hospitalization of a person in the District of Columbia may be commenced by the filing of a petition with the Department of Mental Health by his spouse, parent, or legal guardian, by a physician or a qualified psychologist, by a duly accredited officer or agent of the Department of Mental Health, or by an officer authorized to make arrests in the District of Columbia. The petition shall be accompanied by:"</text>
-        <text>D.C. Law 15-105 validated previously made technical corrections.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 16(g)(2) of D.C. Law 14-51, in subsec. (a), substituted "Department of Mental Health" for "Department of Human Services".</text>
-        <text>Section 19(b) of D.C. Law 14-51 provides that the act shall expire after 225 days of its having taken effect.</text>
-        <text>Section 2(o) of D.C. Law 14-131, in subsec. (a), in the introductory language, substituted "commitment" for "hospitalization"; and in pars. (1) and (2)(A), substituted "not committed" for "allowed to remain at liberty".</text>
-        <text>Section 5(b) of D.C. Law 14-131 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 116(g)(2) of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
-        <text>For temporary (90 day) amendment of section, see § 16(g)(2) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001, 48 DCR 4390).</text>
-        <text>For temporary (90 day) amendment of section, see § 16(g)(2) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001, 48 DCR 7123).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(o) of Mental Health Commitment Emergency Amendment Act of 2002 (D.C. Act 14-265, January 30, 2002, 49 DCR 1450).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(o) of Mental Health Commitment Congressional Review Emergency Act of 2002 (D.C. Act 14-350, April 24, 2002, 49 DCR 4417).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(p) of Mental Health Civil Commitment Emergency Act of 2002 (D.C. Act 14-546, December 12, 2002, 50 DCR 199).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(p) of Mental Health Civil Commitment Congressional Review Emergency Act of 2003 (D.C. Act 15-41, March 24, 2003, 50 DCR 2784).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-48, see Historical and Statutory Notes following § 21-501.</text>
-        <text>For legislative history of D.C. Law 7-104, see Historical and Statutory Notes following § 21-501.</text>
-        <text>For D.C. Law 14-51, see notes following § 21-521.</text>
-        <text>For Law 14-56, see notes following § 21-521.</text>
-        <text>For Law 14-131, see notes following § 21-501.</text>
-        <text>For Law 14-283, see notes following § 21-501.</text>
-        <text>Law 15-105, the "Technical Amendments Act of 2003", was introduced in Council and assigned Bill No. 15-437, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 4, 2003, and December 2, 2003, respectively. Signed by the Mayor on January 6, 2004, it was assigned Act No. 15-291 and transmitted to both Houses of Congress for its review. D.C. Law 15-105 became effective on March 13, 2004.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Criminally insane persons, payment of hospital expenses, see § 24-501.</text>
+      <text>Information needed for civil commitment proceedings, see § 7-1204.02.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-1204.02, § 21-542, § 21-582, § 24-531.02, and § 24-531.07.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 21-541.</text>
+      <text>1973 Ed., § 21-541.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-56, in subsec. (a), substituted "Department of Mental Health" for "Department of Human Services".</text>
+      <text>D.C. Law 14-283 rewrote the introductory paragraph of subsec. (a); in par. (1) of subsec. (a), substituted "not committed" for "allowed to remain at liberty"; and in par. (2)(A) of subsec. (a), substituted "not committed" for "allowed to remain at liberty". Prior to amendment, the introductory paragraph of subsec. (a) had read as follows: "(a) Proceedings for the judicial hospitalization of a person in the District of Columbia may be commenced by the filing of a petition with the Department of Mental Health by his spouse, parent, or legal guardian, by a physician or a qualified psychologist, by a duly accredited officer or agent of the Department of Mental Health, or by an officer authorized to make arrests in the District of Columbia. The petition shall be accompanied by:"</text>
+      <text>D.C. Law 15-105 validated previously made technical corrections.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 16(g)(2) of D.C. Law 14-51, in subsec. (a), substituted "Department of Mental Health" for "Department of Human Services".</text>
+      <text>Section 19(b) of D.C. Law 14-51 provided that the act shall expire after 225 days of its having taken effect.</text>
+      <text>Section 2(o) of D.C. Law 14-131, in subsec. (a), in the introductory language, substituted "commitment" for "hospitalization"; and in pars. (1) and (2)(A), substituted "not committed" for "allowed to remain at liberty".</text>
+      <text>Section 5(b) of D.C. Law 14-131 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 116(g)(2) of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
+      <text>For temporary (90 day) amendment of section, see § 16(g)(2) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001, 48 DCR 4390).</text>
+      <text>For temporary (90 day) amendment of section, see § 16(g)(2) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001, 48 DCR 7123).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(o) of Mental Health Commitment Emergency Amendment Act of 2002 (D.C. Act 14-265, January 30, 2002, 49 DCR 1450).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(o) of Mental Health Commitment Congressional Review Emergency Act of 2002 (D.C. Act 14-350, April 24, 2002, 49 DCR 4417).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(p) of Mental Health Civil Commitment Emergency Act of 2002 (D.C. Act 14-546, December 12, 2002, 50 DCR 199).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(p) of Mental Health Civil Commitment Congressional Review Emergency Act of 2003 (D.C. Act 15-41, March 24, 2003, 50 DCR 2784).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-48</heading>
+      <text>For legislative history of D.C. Law 5-48, see Historical and Statutory Notes following § 21-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-104</heading>
+      <text>For legislative history of D.C. Law 7-104, see Historical and Statutory Notes following § 21-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-51</heading>
+      <text>For D.C. Law 14-51, see notes following § 21-521.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-56</heading>
+      <text>For Law 14-56, see notes following § 21-521.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-131</heading>
+      <text>For Law 14-131, see notes following § 21-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-283</heading>
+      <text>For Law 14-283, see notes following § 21-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>Law 15-105, the "Technical Amendments Act of 2003", was introduced in Council and assigned Bill No. 15-437, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 4, 2003, and December 2, 2003, respectively. Signed by the Mayor on January 6, 2004, it was assigned Act No. 15-291 and transmitted to both Houses of Congress for its review. D.C. Law 15-105 became effective on March 13, 2004.</text>
     </level>
   </level>
 </level>

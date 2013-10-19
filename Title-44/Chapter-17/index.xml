@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>17</num>
-  <heading>Charitable Solicitations.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 44, Subt. IV, Ch. 17, Refs &amp; Annos</text>
-  </level>
+  <heading>Charitable Solicitations</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-1701.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-1702.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-1703.xml"/>

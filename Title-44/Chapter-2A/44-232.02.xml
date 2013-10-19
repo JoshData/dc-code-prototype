@@ -37,18 +37,14 @@
       <text>An enumeration of the public facilities recommended for installation of AEDs.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2001, D.C. Law 13-278, § 3b, as added Mar. 25, 2009, D.C. Law 17-362, § 2(c), 56 DCR 1211.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-362, see notes following § 44-231.</text>
-      </level>
+      <heading>Legislative History of Law 17-362</heading>
+      <text>For Law 17-362, see notes following § 44-231.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>28-3812</num>
   <heading>Limitation on creditors' remedies.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-3812</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>This section applies to actions or other proceedings to enforce rights arising from consumer credit sales, consumer leases, and direct installment loans (other than a loan directly secured on real estate or a direct motor vehicle installment loan covered by Chapter 36 of Title 28, District of Columbia Official Code); and, in addition, to extortionate extensions of credit.</text>
@@ -25,7 +24,7 @@
     <num>(c)</num>
     <level>
       <num>(1)</num>
-      <text>The debtor may redeem the collateral from the creditor at any time --</text>
+      <text>The debtor may redeem the collateral from the creditor at any time -</text>
       <level>
         <num>(A)</num>
         <text>within fifteen days of the creditor's taking possession of the collateral, or</text>
@@ -72,7 +71,7 @@
     </level>
     <level>
       <num>(7)</num>
-      <text>If the creditor elects to bring an action against the buyer for a debt arising from a consumer credit sale of goods or services, when under this section he would not be entitled to a deficiency judgment if he repossessed the collateral, and obtains judgment --</text>
+      <text>If the creditor elects to bring an action against the buyer for a debt arising from a consumer credit sale of goods or services, when under this section he would not be entitled to a deficiency judgment if he repossessed the collateral, and obtains judgment -</text>
       <level>
         <num>(A)</num>
         <text>he may not repossess the collateral, and</text>
@@ -98,7 +97,7 @@
     <num>(g)</num>
     <level>
       <num>(1)</num>
-      <text>With respect to a consumer credit sale, or direct installment loan, if the court as a matter of law finds --</text>
+      <text>With respect to a consumer credit sale, or direct installment loan, if the court as a matter of law finds -</text>
       <level>
         <num>(A)</num>
         <text>the agreement to have been unconscionable at the time it was made, or to have been induced by unconscionable conduct, the court may refuse to enforce the agreement, or</text>
@@ -117,19 +116,23 @@
       <text>For the purpose of this section, a charge or practice expressly permitted by this section is not in and of itself unconscionable in the absence of other practices and circumstances.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 17, 1971, 85 Stat. 673, Pub. L. 92-200, § 4.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-3812.</text>
-        <text>1973 Ed., § 28-3812.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Consumer protection procedures, restraining prohibited acts, see § 28-3909.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28-3909.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-3812.</text>
+      <text>1973 Ed., § 28-3812.</text>
     </level>
   </level>
 </level>

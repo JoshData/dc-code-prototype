@@ -1,7 +1,6 @@
 <level type="section">
   <num>23-1324</num>
   <heading>Appeal from conditions of release.</heading>
-  <formerly-cited-as>DC ST 1981 § 23-1324</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A person who is detained, or whose release on a condition requiring him to return to custody after specified hours is continued, after review of his application pursuant to § 23-1321(c)(4) by a judicial officer, other than a judge of the court having original jurisdiction over the offense with which he is charged or a judge of a United States court of appeals or a Justice of the Supreme Court, may move the court having original jurisdiction over the offense with which he is charged to amend the order. Such motion shall be determined promptly.</text>
@@ -16,7 +15,7 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>In any case in which --</text>
+    <text>In any case in which -</text>
     <level>
       <num>(1)</num>
       <text>a person is released, with or without the setting of terms or conditions of release, or a motion for the pretrial detention of a person is denied, by a judge of the court having original jurisdiction over the offense with which the person is charged, or</text>
@@ -27,23 +26,23 @@
     </level>
   </level>
   <text>the United States attorney may appeal to the court having appellate jurisdiction over such court. Any order so appealed shall be affirmed if it is supported by the proceedings below. If the order is not so supported, (A) the court may remand the case for a further hearing, (B) with or without additional evidence, change the terms or conditions of release, or (C) in cases in which the United States attorney requested pretrial detention pursuant to sections 23-1322 and 23-1323, order such detention.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 29, 1970, 84 Stat. 647, Pub. L. 91-358, title II, § 210(a); July 3, 1992, D.C. Law 9-125, § 5, 39 DCR 2134.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 23-1324.</text>
-        <text>1973 Ed., § 23-1324.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 9-125, see Historical and Statutory Notes following § 23-1321.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 23-1325.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 23-1324.</text>
+      <text>1973 Ed., § 23-1324.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-125</heading>
+      <text>For legislative history of D.C. Law 9-125, see Historical and Statutory Notes following § 23-1321.</text>
     </level>
   </level>
 </level>

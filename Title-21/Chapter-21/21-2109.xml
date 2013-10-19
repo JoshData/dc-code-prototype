@@ -1,118 +1,111 @@
 <level type="section">
   <num>21-2109</num>
   <heading>Construction of power relating to business operating transactions.</heading>
-  <formerly-cited-as>DC ST 1981 § 21-2109</formerly-cited-as>
   <text>In a statutory power of attorney the language granting power with respect to business operating transactions empowers the agent to:</text>
   <level>
+    <num>(1)</num>
+    <text>Operate, buy, sell, enlarge, reduce, and terminate a business interest;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>To the extent that an agent is permitted by law to act for a principal and subject to the terms of the partnership agreement to:</text>
     <level>
-      <num>(1)</num>
-      <text>Operate, buy, sell, enlarge, reduce, and terminate a business interest;</text>
+      <num>(A)</num>
+      <text>Perform a duty or discharge a liability and exercise a right, power, privilege, or option that the principal has, may have, or claims to have, under a partnership agreement, whether or not the principal is a partner;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>To the extent that an agent is permitted by law to act for a principal and subject to the terms of the partnership agreement to:</text>
-      <level>
-        <num>(A)</num>
-        <text>Perform a duty or discharge a liability and exercise a right, power, privilege, or option that the principal has, may have, or claims to have, under a partnership agreement, whether or not the principal is a partner;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Enforce the terms of a partnership agreement by litigation or otherwise; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Defend, submit to arbitration, settle, or compromise litigation to which the principal is a party because of membership in the partnership;</text>
-      </level>
+      <num>(B)</num>
+      <text>Enforce the terms of a partnership agreement by litigation or otherwise; and</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>Exercise in person or by proxy, or enforce by litigation or otherwise, a right, power, privilege, or option the principal has or claims to have as the holder of a bond, share, or other instrument of similar character and defend, submit to arbitration, settle, or compromise litigation to which the principal is a party because of a bond, share, or similar instrument;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>With respect to a business owned solely by the principal:</text>
-      <level>
-        <num>(A)</num>
-        <text>Continue, modify, renegotiate, extend, and terminate a contract made with an individual or a legal entity, firm, association, or corporation by or on behalf of the principal with respect to the business before execution of the power of attorney;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Determine:</text>
-        <level>
-          <num>(i)</num>
-          <text>The location of its operation;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>The nature and extent of its business;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>The methods of manufacturing, selling, merchandising, financing, accounting, and advertising employed in its operation;</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>The amount and types of insurance carried; and</text>
-        </level>
-        <level>
-          <num>(v)</num>
-          <text>The mode of engaging, compensating, and dealing with its accountants, attorneys, and other agents and employees;</text>
-        </level>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Change the name or form of organization under which the business is operated and enter into a partnership agreement with other persons or organize a corporation to take over all or part of the operation of the business; and</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Demand and receive money due or claimed by the principal or on the principal's behalf in the operation of the business, and control and disburse the money in the operation of the business;</text>
-      </level>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Put additional capital into a business in which the principal has an interest;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Join in a plan of reorganization, consolidation, or merger of the business;</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>Sell or liquidate a business or part of it at the time and upon the terms the agent considers desirable;</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>Establish the value of a business under a buy-out agreement to which the principal is a party;</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>Prepare, sign, file, and deliver reports, compilations of information, returns, or other papers with respect to a business which are required by a governmental agency or instrumentality or which the agent considers desirable, and make related payments; and</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>Pay, compromise, or contest taxes or assessments and do any other act which the agent considers desirable to protect the principal from illegal or unnecessary taxation, fines, penalties, or assessments with respect to a business, including attempts to recover, in any manner permitted by law, money paid before or after the execution of the power of attorney.</text>
+      <num>(C)</num>
+      <text>Defend, submit to arbitration, settle, or compromise litigation to which the principal is a party because of membership in the partnership;</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(3)</num>
+    <text>Exercise in person or by proxy, or enforce by litigation or otherwise, a right, power, privilege, or option the principal has or claims to have as the holder of a bond, share, or other instrument of similar character and defend, submit to arbitration, settle, or compromise litigation to which the principal is a party because of a bond, share, or similar instrument;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>With respect to a business owned solely by the principal:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>Continue, modify, renegotiate, extend, and terminate a contract made with an individual or a legal entity, firm, association, or corporation by or on behalf of the principal with respect to the business before execution of the power of attorney;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Determine:</text>
+      <level>
+        <num>(i)</num>
+        <text>The location of its operation;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>The nature and extent of its business;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>The methods of manufacturing, selling, merchandising, financing, accounting, and advertising employed in its operation;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>The amount and types of insurance carried; and</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>The mode of engaging, compensating, and dealing with its accountants, attorneys, and other agents and employees;</text>
+      </level>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Change the name or form of organization under which the business is operated and enter into a partnership agreement with other persons or organize a corporation to take over all or part of the operation of the business; and</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Demand and receive money due or claimed by the principal or on the principal's behalf in the operation of the business, and control and disburse the money in the operation of the business;</text>
+    </level>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Put additional capital into a business in which the principal has an interest;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Join in a plan of reorganization, consolidation, or merger of the business;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>Sell or liquidate a business or part of it at the time and upon the terms the agent considers desirable;</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>Establish the value of a business under a buy-out agreement to which the principal is a party;</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>Prepare, sign, file, and deliver reports, compilations of information, returns, or other papers with respect to a business which are required by a governmental agency or instrumentality or which the agent considers desirable, and make related payments; and</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>Pay, compromise, or contest taxes or assessments and do any other act which the agent considers desirable to protect the principal from illegal or unnecessary taxation, fines, penalties, or assessments with respect to a business, including attempts to recover, in any manner permitted by law, money paid before or after the execution of the power of attorney.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Sept. 18, 1998, D.C. Law 12-147, § 2, 45 DCR 3853.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 21-2109.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-147, see Historical and Statutory Notes following § 21-2101.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 9 of the Uniform Statutory Form Power of Attorney Act. See 8B Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 21-2109.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-147</heading>
+      <text>For legislative history of D.C. Law 12-147, see Historical and Statutory Notes following § 21-2101.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 9 of the Uniform Statutory Form Power of Attorney Act.</text>
     </level>
   </level>
 </level>

@@ -1,11 +1,11 @@
 <level type="toc">
   <prefix>Title</prefix>
   <num>50</num>
-  <heading>Motor and Non-Motor Vehicles and Traffic.</heading>
+  <heading>Motor and Non-Motor Vehicles and Traffic</heading>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>I</num>
-    <heading>Commercial and Government Vehicles.</heading>
+    <heading>Commercial and Government Vehicles</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3/index.xml"/>
@@ -14,14 +14,14 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>II</num>
-    <heading>Consumer Protection.</heading>
+    <heading>Consumer Protection</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-5/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-6/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>III</num>
-    <heading>Environmental Protection.</heading>
+    <heading>Environmental Protection</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-7/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-7A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-8/index.xml"/>
@@ -29,7 +29,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>IV</num>
-    <heading>Motorized Vehicle Registration, Inspection, Licensing.</heading>
+    <heading>Motorized Vehicle Registration, Inspection, Licensing</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-9/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-9A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-10/index.xml"/>
@@ -44,14 +44,14 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>V</num>
-    <heading>Non-Motorized Vehicles.</heading>
+    <heading>Non-Motorized Vehicles</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-16/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-16A/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>VI</num>
-    <heading>Safety.</heading>
+    <heading>Safety</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-17/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-17A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-18/index.xml"/>
@@ -59,18 +59,20 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-19A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-20/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-21/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-21A/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>VII</num>
-    <heading>Traffic.</heading>
+    <heading>Traffic</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-22/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-23/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-23A/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>VIII</num>
-    <heading>Vehicles on Public and Private Space.</heading>
+    <heading>Vehicles on Public and Private Space</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-24/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-25/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-25A/index.xml"/>

@@ -34,7 +34,7 @@
     <text>Subject to subsection (c) of this section, a resolution to dissolve shall be approved by:</text>
     <level>
       <num>(1)</num>
-      <text>At least 2/3 of the voting power of members present at a members meeting called under subsection (a)(2) of this section; and</text>
+      <text>At least <span style="font-style: italic; ">2</span>/<span style="">3</span> of the voting power of members present at a members meeting called under subsection (a)(2) of this section; and</text>
     </level>
     <level>
       <num>(2)</num>
@@ -57,22 +57,22 @@
       <text>A combination of paragraphs (1) and (2) of this subsection.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 1205 of the Uniform Limited Cooperative Association Act . See Vol. 6A , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-1001.09 and § 29-1012.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 1205 of the Uniform Limited Cooperative Association Act.</text>
     </level>
   </level>
 </level>

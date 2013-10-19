@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>XIV</num>
-  <heading>Transition Provisions.</heading>
+  <heading>Transition Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-314.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-314.02.xml"/>
 </level>

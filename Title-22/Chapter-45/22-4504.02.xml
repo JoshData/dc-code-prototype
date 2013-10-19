@@ -32,24 +32,22 @@
       <text>Separate from any ammunition.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 8, 1932, 47 Stat. 651, ch. 456, § 4b, as added May 20, 2009, D.C. Law 17-388, § 2(d), 56 DCR 1162.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-388, see notes following § 22-4501.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 3 of D.C. Law 17-388 provides:</text>
-        <text>"Sec. 3. Savings clause.</text>
-        <text>"Nothing in section 2 shall affect any action, proceeding, or prosecution commenced before September 16, 2008. Any such action, proceeding, or prosecution shall continue, or may be enforced, in the same manner and to the same extent as if the amendments made by that section had not been made."</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-2502.01, § 7-2502.04, § 7-2505.04, § 7-2507.05, § 22-4505, and § 22-4508.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-388</heading>
+      <text>For Law 17-388, see notes following § 22-4501.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 3 of D.C. Law 17-388 provided: "Sec. 3. Savings clause. Nothing in section 2 shall affect any action, proceeding, or prosecution commenced before September 16, 2008. Any such action, proceeding, or prosecution shall continue, or may be enforced, in the same manner and to the same extent as if the amendments made by that section had not been made."</text>
     </level>
   </level>
 </level>

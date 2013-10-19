@@ -20,29 +20,28 @@
     <num>(c)</num>
     <text>This section shall not apply to disclosures of information authorized pursuant to other District law or to federal law.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 4, 2010, D.C. Law 18-273, § 105, 57 DCR 7171; Sept. 26, 2012, D.C. Law 19-171, § 53(a), 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-171 validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 105 of Data-Sharing and Information Coordination Emergency Amendment Act of 2010 (D.C. Act 18-530, August 6, 2010, 57 DCR 8099).</text>
-        <text>For temporary (90 day) addition, see § 105 of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18- 582, October 20, 2010, 57 DCR 10118).</text>
-        <text>For temporary (90 day) amendment of section, see § 211(b) of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-582, October 20, 2010, 57 DCR 10118).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-273, see notes following § 7-241.</text>
-        <text>For history of Law 19-171, see notes under § 7-242.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-171 validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 105 of Data-Sharing and Information Coordination Emergency Amendment Act of 2010 (D.C. Act 18-530, August 6, 2010, 57 DCR 8099).</text>
+      <text>For temporary (90 day) addition, see § 105 of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-582, October 20, 2010, 57 DCR 10118).</text>
+      <text>For temporary (90 day) amendment of section, see § 211(b) of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-582, October 20, 2010, 57 DCR 10118).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-273</heading>
+      <text>For Law 18-273, see notes following § 7-241.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 7-242.</text>
     </level>
   </level>
 </level>

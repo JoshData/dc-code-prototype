@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>General Provisions.</heading>
+  <heading>General Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-601.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-601.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-601.03.xml"/>
@@ -9,4 +9,8 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-601.05.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-601.06.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-601.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-601.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-601.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-601.10.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-601.11.xml"/>
 </level>

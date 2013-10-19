@@ -6,11 +6,11 @@
     <text>There is established the Corporate Recordation Fund ("Fund"), which shall be classified as a proprietary fund and a type of enterprise fund for the purposes of § 47-373(1). The Fund shall be credited with all fees:</text>
     <level>
       <num>(1)</num>
-      <text>That are identified in § 29-102.12 that are collected for Chapters 10 and 12;</text>
+      <text>That are identified in § 29-102.12 that are collected for Chapters 10, 12, and 13;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>That are identified as expedited fees and the fees collected for the enforcement of Chapters 10 and 12; and</text>
+      <text>That are identified as expedited fees and the fees collected for the enforcement of Chapters 10, 12, and 13; and</text>
     </level>
     <level>
       <num>(3)</num>
@@ -37,18 +37,26 @@
     <num>(f)</num>
     <text>The Mayor may cancel a processed filing due to nonpayment.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; May 1, 2013, D.C. Law 19-305, § 2(c), 60 DCR 2735.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-2855.05.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-305 substituted "10, 12, and 13" for "10 and 12" in (a)(1) and (a)(2).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-305</heading>
+      <text>See note to § 29-102.12.</text>
     </level>
   </level>
 </level>

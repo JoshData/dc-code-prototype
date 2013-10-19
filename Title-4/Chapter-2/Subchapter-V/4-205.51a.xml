@@ -57,22 +57,18 @@
     <num>(c)</num>
     <text>The Mayor shall submit a draft plan of the TANF Universal Service Delivery Model to the Council for its review by March 1, 2011.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 6, 1982, D.C. Law 4-101, § 551a, as added Apr. 8, 2011, D.C. Law 18-370, § 522(e), 58 DCR 1008.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-370, see notes under § 4-202.05.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Former § 4-205.51a has been recodified as § 4-205.51b.</text>
-      </level>
+      <heading>Legislative History of Law 18-370</heading>
+      <text>For history of Law 18-370, see notes under § 4-202.05.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Former § 4-205.51a has been recodified as § 4-205.51b.</text>
     </level>
   </level>
 </level>

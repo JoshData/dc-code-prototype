@@ -1,10 +1,6 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>1</num>
-  <heading>United States Court of Appeals for the District of Columbia Circuit. [Repealed]</heading>
-  <level>
-    <text>DC CODE D. II, T. 17, Ch. 1, Refs &amp; Annos</text>
-  </level>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="17-101~17-104~P.xml"/>
+  <heading>United States Court of Appeals for the District of Columbia Circuit</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="17-101~17-104~P.xml"/>
 </level>

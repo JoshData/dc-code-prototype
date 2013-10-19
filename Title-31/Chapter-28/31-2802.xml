@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-2802</num>
   <heading>Covered services.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-4802</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>All health insurers, hospitals or medical services corporations, and health maintenance organizations shall reimburse for emergency services that are due to a medical emergency.</text>
@@ -18,22 +17,18 @@
     <num>(d)</num>
     <text>A health insurer, hospital or medical services corporation, or health maintenance organization may not deny reimbursement, except for co-payments, deductibles, and co-insurance, for the provision of emergency services that are due to a medical emergency solely because the member failed to obtain pre-authorization for emergency services from the health insurer, hospital or medical services corporation, or health maintenance organization.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 11, 1998, D.C. Law 12-145, § 3, 45 DCR 3785.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-4802.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-145, see Historical and Statutory Notes following § 31-2801.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-4802.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-145</heading>
+      <text>For legislative history of D.C. Law 12-145, see Historical and Statutory Notes following § 31-2801.</text>
     </level>
   </level>
 </level>

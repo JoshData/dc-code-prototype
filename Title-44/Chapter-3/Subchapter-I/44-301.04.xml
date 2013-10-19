@@ -1,39 +1,88 @@
 <level type="section">
   <num>44-301.04</num>
   <heading>Grievance process.</heading>
-  <formerly-cited-as>DC ST 1981 § 32-571.4</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>A member or member representative may appeal any grievance decision resulting in a denial, termination, or other limitation of covered health care services in accordance with the provisions of this section.</text>
+    <text>A member or member representative may appeal any adverse benefit determination decision resulting in a rescission, denial, termination, or other limitation of a benefit in accordance with the provisions of this chapter.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>At the time a grievance decision is determined, an insurer shall provide to the affected member or member representative a written description of the procedures for filing grievances.</text>
+    <text>At the time an insurer denies, reduces, terminates, or limits a benefit, an insurer shall provide to the affected member or member representative a written description of the procedures for filing appeals, including procedures to request expedited internal or external review if the matter concerns an emergency or urgent medical condition. The notice shall adhere to requirements of Title XXVII of the Public Health Service Act, approved July 1, 1944 (42 U.S.C. § 300gg et seq.), and the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (Pub. L. No. 93-406; 88 Stat. 829), and shall include information sufficient to identify the claim, the reason for the denial, any standards relied on to deny the claim, contact information for the Health Care Ombudsman, and notice of the right of the claimant to receive free of charge all documents relevant to the claim.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text>The grievance process shall consist of 3 separate grievance levels: informal internal review by the insurer; formal review by the insurer; and formal external review by an independent review organization.</text>
+    <text>The appeal process shall consist of 2 separate appeal levels:</text>
+    <level>
+      <num>(1)</num>
+      <text>Review by the insurer; and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>External review by an independent review organization.</text>
+    </level>
   </level>
   <level>
     <num>(d)</num>
     <text>Nothing in the health benefits plan shall prohibit a member or member representative from discussing or exercising the right to appeal pursuant to this section.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(e)</num>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Apr. 27, 1999, D.C. Law 12-274, § 104, 46 DCR 1294.)</text>
+      <num>(1)</num>
+      <text>The insurer shall notify a member seeking a resolution of an adverse benefit determination about the:</text>
+      <level>
+        <num>(A)</num>
+        <text>Availability of the Health Care Ombudsman;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Right to review; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Procedures for obtaining continued coverage pending the outcome of the grievance.</text>
+      </level>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-571.4.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-274, see Historical and Statutory Notes following § 44-301.01.</text>
-      </level>
+      <num>(2)</num>
+      <text>For grievances and appeals concerning urgent or emergency medical conditions, the member has the right to continued coverage at the level of benefits provided before the reduction, termination, or limitation, pending the outcome of the appeal.</text>
+    </level>
+  </level>
+  <level>
+    <num>(f)</num>
+    <level>
+      <num>(1)</num>
+      <text>Any request that a physician, with knowledge of the covered person's medical condition, determines involves an emergency or urgent medical condition shall be treated as an urgent care request.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>An individual acting on behalf of the health insurer shall apply the judgment of a prudent layperson who possesses an average knowledge of health and medicine to determine if other requests involve an emergency or urgent medical condition.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>For the purposes of expedited external review, the Director, or the Director's designee, shall apply the judgment of a prudent layperson that possesses an average knowledge of health and medicine to determine if other requests involve an emergency or urgent medical condition.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Apr. 27, 1999, D.C. Law 12-274, § 104, 46 DCR 1294; Mar. 19, 2013, D.C. Law 19-229, § 2(c), 59 DCR 13592.)</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-571.4.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-229 rewrote (a) through (c); and added (e) and (f).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-274</heading>
+      <text>For legislative history of D.C. Law 12-274, see Historical and Statutory Notes following § 44-301.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-229</heading>
+      <text>See note to § 44-301.01.</text>
     </level>
   </level>
 </level>

@@ -1,10 +1,9 @@
 <level type="section">
   <num>16-2333</num>
   <heading>Police and other law enforcement records.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-2333</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>Except as otherwise provided in this section and in section 16-2333. 01, law enforcement records and files concerning a child shall not be open to public inspection nor shall their contents or existence be disclosed to the public unless:</text>
+    <text>Except as otherwise provided in this section and in section 16-2333.01, law enforcement records and files concerning a child shall not be open to public inspection nor shall their contents or existence be disclosed to the public unless:</text>
     <level>
       <num>(1)</num>
       <text>A charge of delinquency is transferred for criminal prosecution under section 16-2307;</text>
@@ -157,7 +156,7 @@
       <text>The information shall be available only regarding:</text>
       <level>
         <num>(A)</num>
-        <text>A juvenile who has been adjudicated delinquent of a crime of violence (as defined in section 23-1331(4)), or any felony offense under Chapter 45 of Title 22 (weapons) or Chapter 23 of Title 6 (Firearms Control);</text>
+        <text>A juvenile who has been adjudicated delinquent of a crime of violence (as defined in section 23-1331(4)), or any felony offense under Chapter 45 of Title 22 (weapons) [§ 22-4501 et seq.] or Chapter 23 of Title 6 (Firearms Control) [Chapter 25 of Title 7, § 7-2501.01 et seq. (2001 Ed.)];</text>
       </level>
       <level>
         <num>(B)</num>
@@ -176,7 +175,7 @@
         </level>
         <level>
           <num>(iv)</num>
-          <text>A assault (as defined in section 22-404(a)(2)); or</text>
+          <text>A assault [Assault] (as defined in section 22-404(a)(2)); or</text>
         </level>
         <level>
           <num>(v)</num>
@@ -209,82 +208,106 @@
     <num>(g)</num>
     <text>No person shall disclose, inspect, or use records in violation of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 29, 1970, 84 Stat. 541, Pub. L. 91-358, title I, § 121(a); Sept. 23, 1977, D.C. Law 2-22, title I, § 110(h), title IV, § 408(a), 24 DCR 3341; Oct. 3, 2001, D.C. Law 14-28, § 4620(d), 48 DCR 6981; Mar. 13, 2004, D.C. Law 15-105, § 10(d), 51 DCR 881; Mar. 17, 2005, D.C. Law 15-261, § 302(c), 52 DCR 1188; Dec. 4, 2010, D.C. Law 18-273, § 210(c), 57 DCR 7171; Mar. 8, 2011, D.C. Law 18-284, §§ 3(e), 4, 57 DCR 10477; June 3, 2011, D.C. Law 18-377, § 6(b), 58 DCR 1174; Sept. 26, 2012, D.C. Law 19- 171, § 53(c), 59 DCR 6190.)</text>
+      <heading>History</heading>
+      <text>(July 29, 1970, 84 Stat. 541, Pub. L. 91-358, title I, § 121(a); Sept. 23, 1977, D.C. Law 2-22, title I, § 110(h), title IV, § 408(a), 24 DCR 3341; Oct. 3, 2001, D.C. Law 14-28, § 4620(d), 48 DCR 6981; Mar. 13, 2004, D.C. Law 15-105, § 10(d), 51 DCR 881; Mar. 17, 2005, D.C. Law 15-261, § 302(c), 52 DCR 1188; Dec. 4, 2010, D.C. Law 18-273, § 210(c), 57 DCR 7171; Mar. 8, 2011, D.C. Law 18-284, §§ 3(e), 4, 57 DCR 10477; June 3, 2011, D.C. Law 18-377, § 6(b), 58 DCR 1174; Sept. 26, 2012, D.C. Law 19-171, § 53(c), 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-2333.</text>
-        <text>1973 Ed., § 16-2333.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-28, in subsec. (b), made nonsubstantive changes in pars. (6), (7), and (8), and added par. (9).</text>
-        <text>D.C. Law 15-105, in subsec. (b)(9), substituted "the Child" for "The Child".</text>
-        <text>D.C. Law 15-261, in subsec. (b), added par. (4A), rewrote par. (5), made nonsubstantive changes to the end of pars. (8) and (9), and added pars. (10), (11), and (12); and added subsec. (b-1). Prior to amendment, par. (5) of subsec. (b) read as follows:</text>
-        <text>"(5) a court in which a person is charged with a criminal offense for the purposes of determining conditions of release or bail;"</text>
-        <text>D.C. Law 18-273 added subsec. (b)(10A).</text>
-        <text>D.C. Law 18-284 repealed the amendment by Law 18-273, § 210, and rewrote the section, which formerly read:</text>
-        <text>"(a) Law enforcement records and files concerning a child shall not be open to public inspection nor shall their contents or existence be disclosed to the public unless a charge of delinquency is transferred for criminal prosecution under section 16-2307, the interest of national security requires, or the court otherwise orders in the interest of the child.</text>
-        <text>"(b) Inspection of such records and files is permitted by --</text>
-        <text>"(1) the Superior Court, having the child currently before it in any proceedings;</text>
-        <text>"(2) the officers of public and private institutions or agencies to which the child is currently committed, and those professional persons or agencies responsible for his supervision after release;</text>
-        <text>"(3) any other person, agency or institution, by order of the court, having a professional interest in the child or in the work of the law enforcement department;</text>
-        <text>"(4) law enforcement officers of the United States, the District of Columbia, and other jurisdictions when necessary for the discharge of their current official duties;</text>
-        <text>"(4A) the United States Attorney for the District of Columbia, his assistants, and any other prosecuting attorneys when necessary for the discharge of their official duties;</text>
-        <text>"(5) any court in which respondent is charged or convicted as a respondent in a delinquency matter, or status offense, or as a defendant in a criminal offense, or the court's probation staff, and counsel for the respondent or defendant in that case;</text>
-        <text>"(6) a court in which a person is convicted of a criminal offense for the purpose of a presentence report or other dispositional proceeding, or by officials of penal institutions and other penal facilities to which he is committed, or by a parole board in considering his parole or discharge or in exercising supervision over him;</text>
-        <text>"(7) the parent, guardian, or other custodian and counsel for the child;</text>
-        <text>"(8) professional employees of the Social Rehabilitation Administration of the Department of Human Services when necessary for the discharge of their official duties;</text>
-        <text>"(9) the Child Fatality Review Committee when necessary for the discharge of its official duties;</text>
-        <text>"(10) authorized personnel in the Mayor's Family Court Liaison, the Department of Health, the Department of Mental Health, the Child and Family Services Agency, the Department of Human Services, and the District of Columbia Public Schools for the purpose of delivery of services to individuals under the jurisdiction of the Family Court, or their families;</text>
-        <text>"(10A) authorized persons for the purposes of and in accordance with Chapter 2A of Title 7; except, that the information derived from termination of parental rights and guardianship proceedings shall not be disclosed without the prior written consent of the identified individual, as that term is defined in § 7- 241(6).</text>
-        <text>"(11) the Children's Advocacy Center and the public and private agencies and institutions that are members of the multidisciplinary investigation team, for purposes of carrying out their official duties, except that only information contained in the records, and not the records or copies of the records, may be provided pursuant to this paragraph; and</text>
-        <text>"(12) each eyewitness, victim, or the immediate family members or caretakers of the eyewitness or victim if the eyewitness or victim is a child or is deceased or incapacitated, and their duly authorized attorney, when the records relate to the incident in which they were an eyewitness or a victim.</text>
-        <text>"(b-1) Notwithstanding subsection (b) of this section, the Division, upon application of the Corporation Counsel and notice and opportunity for respondent or his counsel to respond to the application, may order the release of certain information contained in the law enforcement records if:</text>
-        <text>"(1) The respondent has escaped from detention or from the custody of the Youth Services Administration and is likely to pose a danger or threat of bodily harm to another person;</text>
-        <text>"(2) Release of such information is necessary to protect the public safety and welfare; and</text>
-        <text>"(3) The respondent has been charged with a crime of violence as defined in section 23-1331(4).</text>
-        <text>"(c) Photographs may be displayed to potential witnesses for identification purposes, in accordance with the standards of fairness applicable to adults.</text>
-        <text>"(d) No person shall disclose, inspect, or use records or files in violation of this section."</text>
-        <text>D.C. Law 18-377 added subsec. (a)(1A).</text>
-        <text>D.C. Law 19-171 made a technical correction in subsec. (b)(10A) subsequent to its deletion by D.C. Law 18-284.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 6 of the Attendance and School Safety Temporary Act of 2000 (D.C. Law 13-151, July 18, 2000, law notification 47 DCR 6101).</text>
-        <text>For temporary (225 day) amendment of section, see § 20(d) of Child Fatality Review Committee Establishment Temporary Act of 2001 (D.C. Law 14-20, September 6, 2001, law notification 48 DCR 9090).</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition of sections, see §§ 2 to 6 of the Attendance and School Safety Temporary Act of 2000 (D.C. Law 13-151, July 18, 2000, law notification 47 DCR 6101).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) amendment of section, see § 6 of the Attendance and School Safety Emergency Act of 2000 (D.C. Act 13-319, April 17, 2000, 47 DCR 2882).</text>
-        <text>For temporary (90 day) amendment of section, see § 20(d) of Child Fatality Review Committee Establishment Emergency Act of 2001 (D.C. Act 14-40, April 25, 2001, 48 DCR 5917).</text>
-        <text>For temporary (90 day) amendment of section, see § 20(d) of Child Fatality Review Committee Establishment Legislative Review Emergency Act of 2001 (D.C. Act 14-82, July 9, 2001, 48 DCR 6355).</text>
-        <text>For temporary (90 day) amendment of section, see § 210(c) of Data-Sharing and Information Coordination Emergency Amendment Act of 2010 (D.C. Act 18-530, August 6, 2010, 57 DCR 8099).</text>
-        <text>For temporary (90 day) amendment of section, see § 210(c) of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-582, October 20, 2010, 57 DCR 10118).</text>
-        <text>For temporary (90 day) amendment of section, see § 506(b) of Public Safety Legislation Sixty-Day Layover Emergency Amendment Act of 2010 (D.C. Act 18-693, January 18, 2011, 58 DCR 640).</text>
-        <text>For temporary (90 day) amendment of section, see § 506(b) of Public Safety Legislation Sixty-Day Layover Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-45, April 20, 2011, 58 DCR 3701).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 16-2301.</text>
-        <text>For Law 14-28, see notes following § 16-311.</text>
-        <text>For Law 15-105, see notes following § 16-1005.</text>
-        <text>For Law 15-261, see notes following § 16-2301.</text>
-        <text>For Law 18-273, see notes following § 16-2331.</text>
-        <text>For history of Law 18-284, see notes under § 16-2301.</text>
-        <text>For history of Law 18-377, see notes under § 16-711.01.</text>
-        <text>For history of Law 19-171, see notes under § 16-2331.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Confidentiality of juvenile records, see § 16-2363.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1515.06, § 4-1371.06, § 16-1054, § 16-2316, § 16-2331, § 16-2332, § 16-2333.01, § 16-2333.02, § 16-2335, § 16-2363, and § 16-2393.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-2333.</text>
+      <text>1973 Ed., § 16-2333.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-28, in subsec. (b), made nonsubstantive changes in pars. (6), (7), and (8), and added par. (9).</text>
+      <text>D.C. Law 15-105, in subsec. (b)(9), substituted "the Child" for "The Child".</text>
+      <text>D.C. Law 15-261, in subsec. (b), added par. (4A), rewrote par. (5), made nonsubstantive changes to the end of pars. (8) and (9), and added pars. (10), (11), and (12); and added subsec. (b-1). Prior to amendment, par. (5) of subsec. (b) read as follows: "(5) a court in which a person is charged with a criminal offense for the purposes of determining conditions of release or bail;"</text>
+      <text>D.C. Law 18-273 added subsec. (b)(10A).</text>
+      <text>D.C. Law 18-284 repealed the amendment by Law 18-273, § 210, and rewrote the section, which formerly read:</text>
+      <text>"(a) Law enforcement records and files concerning a child shall not be open to public inspection nor shall their contents or existence be disclosed to the public unless a charge of delinquency is transferred for criminal prosecution under section 16-2307, the interest of national security requires, or the court otherwise orders in the interest of the child.</text>
+      <text>"(b) Inspection of such records and files is permitted by -</text>
+      <text>"(1) the Superior Court, having the child currently before it in any proceedings;</text>
+      <text>"(2) the officers of public and private institutions or agencies to which the child is currently committed, and those professional persons or agencies responsible for his supervision after release;</text>
+      <text>"(3) any other person, agency or institution, by order of the court, having a professional interest in the child or in the work of the law enforcement department;</text>
+      <text>"(4) law enforcement officers of the United States, the District of Columbia, and other jurisdictions when necessary for the discharge of their current official duties;</text>
+      <text>"(4A) the United States Attorney for the District of Columbia, his assistants, and any other prosecuting attorneys when necessary for the discharge of their official duties;</text>
+      <text>"(5) any court in which respondent is charged or convicted as a respondent in a delinquency matter, or status offense, or as a defendant in a criminal offense, or the court's probation staff, and counsel for the respondent or defendant in that case;</text>
+      <text>"(6) a court in which a person is convicted of a criminal offense for the purpose of a presentence report or other dispositional proceeding, or by officials of penal institutions and other penal facilities to which he is committed, or by a parole board in considering his parole or discharge or in exercising supervision over him;</text>
+      <text>"(7) the parent, guardian, or other custodian and counsel for the child;</text>
+      <text>"(8) professional employees of the Social Rehabilitation Administration of the Department of Human Services when necessary for the discharge of their official duties;</text>
+      <text>"(9) the Child Fatality Review Committee when necessary for the discharge of its official duties;</text>
+      <text>"(10) authorized personnel in the Mayor's Family Court Liaison, the Department of Health, the Department of Mental Health, the Child and Family Services Agency, the Department of Human Services, and the District of Columbia Public Schools for the purpose of delivery of services to individuals under the jurisdiction of the Family Court, or their families;</text>
+      <text>"(10A) authorized persons for the purposes of and in accordance with Chapter 2A of Title 7; except, that the information derived from termination of parental rights and guardianship proceedings shall not be disclosed without the prior written consent of the identified individual, as that term is defined in § 7-241(6).</text>
+      <text>"(11) the Children's Advocacy Center and the public and private agencies and institutions that are members of the multidisciplinary investigation team, for purposes of carrying out their official duties, except that only information contained in the records, and not the records or copies of the records, may be provided pursuant to this paragraph; and</text>
+      <text>"(12) each eyewitness, victim, or the immediate family members or caretakers of the eyewitness or victim if the eyewitness or victim is a child or is deceased or incapacitated, and their duly authorized attorney, when the records relate to the incident in which they were an eyewitness or a victim.</text>
+      <text>"(b-1) Notwithstanding subsection (b) of this section, the Division, upon application of the Corporation Counsel and notice and opportunity for respondent or his counsel to respond to the application, may order the release of certain information contained in the law enforcement records if:</text>
+      <text>"(1) The respondent has escaped from detention or from the custody of the Youth Services Administration and is likely to pose a danger or threat of bodily harm to another person;</text>
+      <text>"(2) Release of such information is necessary to protect the public safety and welfare; and</text>
+      <text>"(3) The respondent has been charged with a crime of violence as defined in section 23-1331(4).</text>
+      <text>"(c) Photographs may be displayed to potential witnesses for identification purposes, in accordance with the standards of fairness applicable to adults.</text>
+      <text>"(d) No person shall disclose, inspect, or use records or files in violation of this section."</text>
+      <text>D.C. Law 18-377 added subsec. (a)(1A).</text>
+      <text>The 2012 amendment by D.C. Law 19-171 made a stylistic change in former (b)(10A).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 6 of the Attendance and School Safety Temporary Act of 2000 (D.C. Law 13-151, July 18, 2000, law notification 47 DCR 6101).</text>
+      <text>For temporary (225 day) amendment of section, see § 20(d) of Child Fatality Review Committee Establishment Temporary Act of 2001 (D.C. Law 14-20, September 6, 2001, law notification 48 DCR 9090).</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition of sections, see §§ 2 to 6 of the Attendance and School Safety Temporary Act of 2000 (D.C. Law 13-151, July 18, 2000, law notification 47 DCR 6101).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) amendment of section, see § 6 of the Attendance and School Safety Emergency Act of 2000 (D.C. Act 13-319, April 17, 2000, 47 DCR 2882).</text>
+      <text>For temporary (90 day) amendment of section, see § 20(d) of Child Fatality Review Committee Establishment Emergency Act of 2001 (D.C. Act 14-40, April 25, 2001, 48 DCR 5917).</text>
+      <text>For temporary (90 day) amendment of section, see § 20(d) of Child Fatality Review Committee Establishment Legislative Review Emergency Act of 2001 (D.C. Act 14-82, July 9, 2001, 48 DCR 6355).</text>
+      <text>For temporary (90 day) amendment of section, see § 210(c) of Data-Sharing and Information Coordination Emergency Amendment Act of 2010 (D.C. Act 18-530, August 6, 2010, 57 DCR 8099).</text>
+      <text>For temporary (90 day) amendment of section, see § 210(c) of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-582, October 20, 2010, 57 DCR 10118).</text>
+      <text>For temporary (90 day) amendment of section, see § 506(b) of Public Safety Legislation Sixty-Day Layover Emergency Amendment Act of 2010 (D.C. Act 18-693, January 18, 2011, 58 DCR 640).</text>
+      <text>For temporary (90 day) amendment of section, see § 506(b) of Public Safety Legislation Sixty-Day Layover Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-45, April 20, 2011, 58 DCR 3701).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-22</heading>
+      <text>For legislative history of D.C. Law 2-22, see Historical and Statutory Notes following § 16-2301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-28</heading>
+      <text>For Law 14-28, see notes following § 16-311.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>For Law 15-105, see notes following § 16-1005.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-261</heading>
+      <text>For Law 15-261, see notes following § 16-2301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-273</heading>
+      <text>For Law 18-273, see notes following § 16-2331.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-284</heading>
+      <text>For history of Law 18-284, see notes under § 16-2301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-377</heading>
+      <text>For history of Law 18-377, see notes under § 16-711.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
     </level>
   </level>
 </level>

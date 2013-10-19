@@ -36,23 +36,26 @@
     <num>(c)</num>
     <text>Any person or entity who acquires an AED shall notify an agent of the Fire Chief, the EMS Medical Director, and the emergency communications or vehicle dispatch center of the existence of the AED and the Department of the existence, location, and type of AED. If an AED is removed, the Department shall be notified.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2001, D.C. Law 13-278, § 3, 48 DCR 1869; Mar. 25, 2009, D.C. Law 17-362, § 2(b), 56 DCR 1211.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-362, in subsec. (b), designated the existing text as par. (1), inserted "Except as provided in paragraph (2) of this subsection," and added par. (2).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-278, see notes following § 44-231.</text>
-        <text>For Law 17-362, see notes following § 44-231.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 44-232.01 and § 44-234.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-362, in subsec. (b), designated the existing text as par. (1), inserted "Except as provided in paragraph (2) of this subsection," and added par. (2).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-278</heading>
+      <text>For D.C. Law 13-278, see notes following § 44-231.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-362</heading>
+      <text>For Law 17-362, see notes following § 44-231.</text>
     </level>
   </level>
 </level>

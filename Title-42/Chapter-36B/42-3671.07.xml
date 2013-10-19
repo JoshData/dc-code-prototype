@@ -29,18 +29,18 @@
     <num>(d)</num>
     <text>Nothing in this section shall prevent a lessor from attempting to repossess property during the reinstatement period, but repossession shall not affect the consumer's right to reinstate. Upon reinstatement, the lessor shall provide the consumer with the same property or substitute property of comparable quality and condition.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 13, 2002, D.C. Law 14-99, § 8, 49 DCR 1000.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 14-99, see notes following § 42-3671.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3671.04.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-99</heading>
+      <text>For D.C. Law 14-99, see notes following § 42-3671.01.</text>
     </level>
   </level>
 </level>

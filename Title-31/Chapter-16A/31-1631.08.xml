@@ -40,18 +40,14 @@
     <num>(e)</num>
     <text>A licensee shall not charge the client a fee that exceeds 10% of the total insurance recovery of the client.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 27, 2003, D.C. Law 14-256, § 8, 50 DCR 238.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-256, see notes following § 31-1631.01.</text>
-      </level>
+      <heading>Legislative History of Law 14-256</heading>
+      <text>For Law 14-256, see notes following § 31-1631.01.</text>
     </level>
   </level>
 </level>

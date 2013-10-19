@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-2202</num>
   <heading>Authorization of entry.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-4402</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A non-U.S. insurer may use the District as a state of entry to transact insurance in the United States through a U.S. branch by:</text>
@@ -26,23 +25,26 @@
       <text>To an examination of the insurer's affairs at its principal office within the United States. However, the Commissioner may instead accept a report of the insurance supervisory official of the insurer's home jurisdiction.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(May 24, 1996, D.C. Law 11-128, §3, 43 DCR 1562; Mar. 24, 1998, D.C. Law 12-81, § 45(b), 45 DCR 745.)</text>
+      <heading>History</heading>
+      <text>(May 24, 1996, D.C. Law 11-128, § 3, 43 DCR 1562; Mar. 24, 1998, D.C. Law 12-81, § 45(b), 45 DCR 745.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-4402.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-128, see Historical and Statutory Notes following § 31-2201.</text>
-        <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 31-2201.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1371.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-4402.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-128</heading>
+      <text>For legislative history of D.C. Law 11-128, see Historical and Statutory Notes following § 31-2201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-81</heading>
+      <text>For legislative history of D.C. Law 12-81, see Historical and Statutory Notes following § 31-2201.</text>
     </level>
   </level>
 </level>

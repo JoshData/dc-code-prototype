@@ -2,23 +2,22 @@
   <num>16-2822</num>
   <heading>Mediator costs.</heading>
   <text>Unless otherwise agreed by the parties, the costs of mediation, if any, shall be equally shared by the parties.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 2007, D.C. Law 16-263, § 302, 54 DCR 807; Mar. 25, 2009, D.C. Law 17-353, §§ 158(b), 257, 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-353 validated a previously made technical correction in the section designation.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-263, see notes following § 16-2801.</text>
-        <text>For Law 17-353, see notes following § 16-571.01.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-353 validated a previously made technical correction in the section designation.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-263</heading>
+      <text>For Law 16-263, see notes following § 16-2801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 16-571.01.</text>
     </level>
   </level>
 </level>

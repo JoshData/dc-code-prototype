@@ -45,18 +45,14 @@
       <text>Any other agency the Mayor deems appropriate.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 1, 1982, D.C. Law 4-164, § 126m, as added June 8, 2001, D.C. Law 13-301, § 102, 47 DCR 7039.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-301, see notes following § 22-3226.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-301</heading>
+      <text>For Law 13-301, see notes following § 22-3226.01.</text>
     </level>
   </level>
 </level>

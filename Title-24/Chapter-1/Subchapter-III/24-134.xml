@@ -1,7 +1,6 @@
 <level type="section">
   <num>24-134</num>
   <heading>Authorization of appropriations.</heading>
-  <formerly-cited-as>DC ST 1981 § 24-1234</formerly-cited-as>
   <text>There are authorized to be appropriated in each fiscal year such sums as may be necessary for the following:</text>
   <level>
     <num>(1)</num>
@@ -19,18 +18,14 @@
     <num>(4)</num>
     <text>Operation of the Trusteeship described in § 24-132.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 5, 1997, 111 Stat. 751, Pub. L. 105-33, § 11234; Oct. 21, 1998, 112 Stat. 2425, Pub. L. 105-274, §§ 6(b)(2), 7(a)(3).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 24-1234.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 24-1234.</text>
     </level>
   </level>
 </level>

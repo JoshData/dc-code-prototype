@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-732</num>
   <heading>Annual report.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-732</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -255,23 +254,28 @@
       <text>If any such company, service, or other organization does not maintain separate experience records covering the specific groups it serves, the report shall include, in lieu of the information required by subparagraph (B) of paragraph (1) of this subsection, a statement as the basis of its premium rate or subscription charge, the total amount of premiums or subscription charges received from the Fund, and a copy of the financial report of the company, service, or other organization and, if such company, service, or organization incurs specific costs in connection with the acquisition or retention of any particular Fund or Funds, a detailed statement of such costs.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Nov. 17, 1979, 93 Stat. 885, Pub. L. 96-122, § 162; June 30, 1994, D.C. Law 10-135, § 201(b)(3), 41 DCR 2618.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-732.</text>
-        <text>1973 Ed., § 1-1832.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Transmittal required by Board: Public Law 104-194, 110 Stat. 2363, the District of Columbia Appropriations Act, 1997, provided that the District of Columbia Retirement Board shall provide to the Congress and to the Council of the District of Columbia a quarterly report of the allocations of charges by fund and of expenditures of all funds: Provided further, That the District of Columbia Retirement Board shall provide the Mayor, for transmittal to the Council of the District of Columbia, an item accounting of the planned use of appropriated funds in time for each annual budget submission and the actual use of such funds in time for each annual audited financial report.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Police Officers, Fire Fighters, and Teachers Retirement Benefit Replacement Plan, annual audit, see § 1-903.06.</text>
+      <text>Police Officers, Fire Fighters, and Teachers Retirement Benefit Replacement Plan, calculation of payments to the Police Officers and Fire Fighters' Retirement Fund, the Teachers' Retirement Fund, and the Judges' Retirement Fund, see § 1-907.03.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-711, § 1-722, § 1-734, § 1-903.06, and § 1-907.03.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-732.</text>
+      <text>1973 Ed., § 1-1832.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Transmittal required by Board: Public Law 104-194, 110 Stat. 2363, the District of Columbia Appropriations Act, 1997, provided that the District of Columbia Retirement Board shall provide to the Congress and to the Council of the District of Columbia a quarterly report of the allocations of charges by fund and of expenditures of all funds: Provided further, That the District of Columbia Retirement Board shall provide the Mayor, for transmittal to the Council of the District of Columbia, an item accounting of the planned use of appropriated funds in time for each annual budget submission and the actual use of such funds in time for each annual audited financial report.</text>
     </level>
   </level>
 </level>

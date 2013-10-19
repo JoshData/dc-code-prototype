@@ -2,12 +2,10 @@
   <num>6-1451.02</num>
   <heading>Publicly-owned, leased, and financed buildings and projects.</heading>
   <level>
+    <num>(a)</num>
     <level>
-      <num>(a)</num>
-      <level>
-        <num>(1)</num>
-        <text>This subsection shall apply to all new construction and substantial improvement of:</text>
-      </level>
+      <num>(1)</num>
+      <text>This subsection shall apply to all new construction and substantial improvement of:</text>
       <level>
         <num>(A)</num>
         <text>Projects that are District-owned or District instrumentality-owned; and</text>
@@ -40,7 +38,7 @@
         </level>
         <level>
           <num>(ii)</num>
-          <text>Be annually benchmarked using the Energy Star® Portfolio Manager benchmarking tool; and</text>
+          <text>Be annually benchmarked using the Energy Star®Portfolio Manager benchmarking tool; and</text>
         </level>
         <level>
           <num>(iii)</num>
@@ -147,7 +145,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Beginning January 20, 2009, the District shall benchmark 10 buildings owned or operated by the District using the Energy Star® Portfolio Manager benchmarking tool.</text>
+      <text>Beginning January 20, 2009, the District shall benchmark 10 buildings owned or operated by the District using the Energy Star®Portfolio Manager benchmarking tool.</text>
     </level>
     <level>
       <num>(3)</num>
@@ -166,61 +164,53 @@
       <text>Benchmark and Energy Star® statements of energy performance for each building shall be made available to DDOE within 60 days of being generated. Upon receipt, DDOE shall make the benchmark and Energy Star® statements available to the public via an online database accessible through the DDOE website.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 8, 2007, D.C. Law 16-234, § 3, 54 DCR 377; Oct. 22, 2008, D.C. Law 17-250, § 501(a), 55 DCR 9225; July 27, 2010, D.C. Law 18-209, § 504(a), 57 DCR 4779; Mar. 31, 2011, D.C. Law 18-349, § 2(b), 58 DCR 724; June 5, 2012, D.C. Law 19-139, § 2(b), 59 DCR 2555.)</text>
+      <heading>History</heading>
+      <text>(Mar. 8, 2007, D.C. Law 16-234, § 3, 54 DCR 377; Oct. 22, 2008, D.C. Law 17-250, § 501(a), 55 DCR 9225; July 27, 2010, D.C. Law 18-209, § 504(a), 57 DCR 4779; Mar. 31, 2011, D.C. Law 18-349, § 2(b), 58 DCR 724; June 5, 2012, D.C. Law 19-139, § 2(b), 59 DCR)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-250 added subsec. (a-1).</text>
-        <text>D.C. Law 18-209, in subsec. (b)(1)(C)(iii), inserted "Notwithstanding the foregoing sentence, the District shall meet LEED for Schools certification at the Gold level or higher if sufficient funding for the construction or renovation is provided."</text>
-        <text>D.C. Law 18-349 rewrote the section, which formerly read as follows:</text>
-        <text>"(a) This section shall apply to all new construction and substantial improvements of District-owned or District instrumentality-owned projects, which are:</text>
-        <text>"(A) Initially funded in the Fiscal Year 2008 budget or later,</text>
-        <text>"(B) Constructed or substantially improved:</text>
-        <text>"(i) As a result of a property disposition by lease where District-owned or District instrumentality-owned property is leased to private entities; or</text>
-        <text>"(ii) If 15% or more of a project's total project cost is publicly financed in Fiscal Year 2009 or later.</text>
-        <text>"(a-1)(1) Beginning 90 days after October 22, 2008, 10 buildings owned or operated by the District of Columbia shall be benchmarked using the Energy Star® Portfolio Manager benchmarking tool, and the results made available to the public on the Internet through the DDOE website.</text>
-        <text>"(2) Beginning one year after October 22, 2008, all buildings owned or operated by the District or any of its instrumentalities shall be benchmarked annually using the Energy Star® Portfolio Manager benchmarking tool; provided, that the building has at least 10,000 square feet of gross floor area and is of a building type for which Energy Star® benchmarking tools are available. Benchmark and Energy Star® statements of energy performance for each building shall, within 60 days of being generated, be made available to DDOE, which shall then make them accessible to the public via an online database.</text>
-        <text>"(b)(1) A nonresidential project shall:</text>
-        <text>"(A)(i) Be designed to achieve 75 points on the EPA national energy performance rating system as determined by the ENERGY STAR Target Finder Tool and be benchmarked annually using the ENERGY STAR Portfolio Manager benchmarking tool; provided, that the building has 10,000 square feet of gross floor area or more and is of a building type for which ENERGY STAR tools are available.</text>
-        <text>"(ii) Renovated buildings shall be exempt from the Target Finder requirement. Benchmark and Target Finder scores and ENERGY STAR statements of energy performance for each building shall be made available to the general public within 60 days after they are generated;</text>
-        <text>"(B) Upon receipt of a certificate of occupancy, institute building systems monitoring and maintenance accountability methods; and</text>
-        <text>"(C)(i) Within 2 years after the receipt of a certificate of occupancy, be verified as having fulfilled or exceeded the standard set forth in sub-subparagraph (ii) or (iii) of this subparagraph.</text>
-        <text>"(ii) Nonresidential projects other than public schools shall be verified as having fulfilled or exceeded the LEED-NC 2.2 or the LEED-CS 2.0 standard at the silver level.</text>
-        <text>"(iii) Within the later of 90 days of the release by USGBC of the LEED for Schools rating system or March 8, 2007, the Mayor shall review LEED for Schools and shall promulgate rules to require public schools to be verified as having fulfilled or exceeded either LEED for Schools standard at the certification level or a substantially equivalent rating system that requires full-building commissioning. Notwithstanding the foregoing sentence, the District shall meet LEED for Schools certification at the Gold level or higher if sufficient funding for the construction or renovation is provided.</text>
-        <text>"(c) A residential project with 10,000 square feet of gross floor area or more shall fulfill or exceed the Green Communities 2006 standard or a substantially equivalent standard. All such projects shall submit a copy of the Green Communities Self Certification Check List and verification of meeting Green Communities requirements for energy efficiency to the Department as part of the application for a certificate of occupancy.</text>
-        <text>"(d) On or before October 1, 2008, each tenant of a building that has a certificate of occupancy for a commercial use and that improves District-owned or District instrumentality-owned building space of at least 30,000 square feet gross floor area or more, with an improvement that requires comprehensive construction or alteration of partitions, electrical systems, HVAC &amp; R, and finishes, shall obtain a verification that the improved building space fulfills or exceeds the LEED-CI 2.0 standard at the certification level."</text>
-        <text>D.C. Law 19-139 rewrote subsec. (a)(1); in subsec. (a)(2)(A), designated the existing text as sub-subpar. (i) and added sub-subpar. (ii); added subsecs. (a)(5) and (6); and, in subsec. (b)(2), substituted "institutional buildings, LEED for Commercial Interiors, or LEED for Retail: Commercial Interiors" for "institutional buildings". Prior to amendment, subsecs. (a)(1) and (a)(2)(A) had read as follows:</text>
-        <text>"(a)(1) This subsection shall apply to all new construction and substantial improvement of District-owned or financed, and District instrumentality-owned and financed, projects if 15% or more of a project's total project cost was financed by the District or a District instrumentality."</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 2(a) of D.C. Law 19-71 added subsec. (a)(2)(A-i) to read as follows: </text>
-        <text>"(A-i) Notwithstanding subparagraph (A) of this paragraph, a public school shall be verified as having fulfilled or exceeded the current edition of the LEED standard for commercial and institutional buildings at the gold level or higher, if sufficient funding for the construction or renovation is provided.".</text>
-        <text>Section 4(b) of D.C. Law 19-71provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 501(a) of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008, 55 DCR 10856).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(1) of Green Building Technical Corrections Emergency Amendment Act of 2011 (D.C. Act 19-164, October 11, 2011, 58 DCR 8894).</text>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Green Building Compliance Emergency Amendment Act of 2011 (D.C. Act 19-257, December 21, 2011, 58 DCR 11222).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-234, see notes following § 6-1451.01.</text>
-        <text>Law 18-209, the "Healthy Schools Act of 2010", was introduced in Council and assigned Bill No. 18-564, which was referred to the Committee of the Whole and the Committee on Government Operations and the Environment. The Bill was adopted on first and second readings on April 20, 2010, and May 4, 2010, respectively. Signed by the Mayor on May 21, 2010, it was assigned Act No. 18- 428 and transmitted to both Houses of Congress for its review. D.C. Law 18-209 became effective on July 27, 2010.</text>
-        <text>For history of Law 18-349, see notes under § 6-1451.01.</text>
-        <text>For history of Law 19-139, see notes under § 6-1412.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of Authority--Green Building Act of 2006, see Mayor's Order 2010-1, January 15, 2010 (57 DCR 641).</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-1451.04, § 6-1451.05, and § 6-1451.10.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-250 added subsec. (a-1).</text>
+      <text>D.C. Law 18-209, in subsec. (b)(1)(C)(iii), inserted "Notwithstanding the foregoing sentence, the District shall meet LEED for Schools certification at the Gold level or higher if sufficient funding for the construction or renovation is provided."</text>
+      <text>D.C. Law 18-349 rewrote the section.</text>
+      <text>D.C. Law 19-139 rewrote subsec. (a)(1); in subsec. (a)(2)(A), designated the existing text as sub-subpar. (i) and added sub-subpar. (ii); added subsecs. (a)(5) and (6); and, in subsec. (b)(2), substituted "institutional buildings, LEED for Commercial Interiors, or LEED for Retail: Commercial Interiors" for "institutional buildings".</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 2(a) of D.C. Law 19-71 added subsec. (a)(2)(A-i) to read as follows:</text>
+      <text>"(A-i) Notwithstanding subparagraph (A) of this paragraph, a public school shall be verified as having fulfilled or exceeded the current edition of the LEED standard for commercial and institutional buildings at the gold level or higher, if sufficient funding for the construction or renovation is provided.".</text>
+      <text>Section 4(b) of D.C. Law 19-71 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 501(a) of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008, 55 DCR 10856).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(1) of Green Building Technical Corrections Emergency Amendment Act of 2011 (D.C. Act 19-164, October 11, 2011, 58 DCR 8894).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Green Building Compliance Emergency Amendment Act of 2011 (D.C. Act 19-257, December 21, 2011, 58 DCR 11222).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-234</heading>
+      <text>For Law 16-234, see notes following § 6-1451.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-209</heading>
+      <text>Law 18-209, the "Healthy Schools Act of 2010", was introduced in Council and assigned Bill No. 18-564, which was referred to the Committee of the Whole and the Committee on Government Operations and the Environment. The Bill was adopted on first and second readings on April 20, 2010, and May 4, 2010, respectively. Signed by the Mayor on May 21, 2010, it was assigned Act No. 18-428 and transmitted to both Houses of Congress for its review. D.C. Law 18-209 became effective on July 27, 2010.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-349</heading>
+      <text>For history of Law 18-349, see notes under § 6-1451.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-139</heading>
+      <text>For history of Law 19-139, see notes under § 6-1412.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of Authority - Green Building Act of 2006, see Mayor's Order 2010-1, January 15, 2010 (57 DCR 641).</text>
     </level>
   </level>
 </level>

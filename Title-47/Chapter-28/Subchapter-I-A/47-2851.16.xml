@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-2851.16</num>
   <heading>Third party inspections for license endorsements.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-2851.16</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Director shall determine the feasibility of allowing certain businesses the option of obtaining inspections at the applicant's expense by authorized third party inspectors.</text>
@@ -32,38 +31,40 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>The Department shall accept the findings of the third party inspector, and shall consider third party inspections permitted under this section as proper inspections for the purpose of issuance of a master business license or endorsement issued pursuant to this chapter.</text>
+    <text>The Department shall accept the findings of the third party inspector, and shall consider third party inspections permitted under this section as proper inspections for the purpose of issuance of a master [basic] business license or endorsement issued pursuant to this chapter.</text>
   </level>
   <level>
     <num>(f)</num>
     <text>Persons who avail themselves of the third party inspection option are not entitled to a refund of any portion of the license fee.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 29, 1998, D.C. Law 12-86, § 101(b), 45 DCR 1172; Apr. 20, 1999, D.C. Law 12-261, § 2002(k), 46 DCR 3142; Oct. 28, 2003, D.C. Law 15-38, § 2(p), 50 DCR 6913.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-2851.16.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-38, in the section name line, deleted "Class A" preceding 'license" and in subsecs. (c) and (d), substituted "basic" for "master".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(p) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003, 50 DCR 6896).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-86, see Historical and Statutory Notes following § 47-2851.01.</text>
-        <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
-        <text>For Law 15-38, see notes following § 47-2404.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-2851.16.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-38, in the section heading, deleted "Class A" preceding "license" and in subsecs. (c) and (d), substituted "basic" for "master".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(p) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003, 50 DCR 6896),</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-86</heading>
+      <text>For legislative history of D.C. Law 12-86, see Historical and Statutory Notes following § 47-2851.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-261</heading>
+      <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-38</heading>
+      <text>For Law 15-38, see notes following § 47-2404.</text>
     </level>
   </level>
 </level>

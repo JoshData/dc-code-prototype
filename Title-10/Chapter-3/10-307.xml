@@ -1,19 +1,65 @@
 <level type="section">
   <num>10-307</num>
   <heading>Rules.</heading>
-  <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2, may issue rules to implement the provisions of this chapter. The proposed rules shall be submitted to the Council for a 30-day period of review, excluding Saturdays, Sundays, holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, by resolution, within the 30-day review period, the proposed rules shall be deemed approved.</text>
   <level>
-    <type>annotations</type>
+    <num>(a)</num>
+    <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ 2-501 et seq.], may issue rules to implement the provisions of this chapter. The proposed rules shall be submitted to the Council for a 30-day period of review, excluding Saturdays, Sundays, holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, by resolution, within the 30-day review period, the proposed rules shall be deemed approved.</text>
+  </level>
+  <level>
+    <num>(b)</num>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>((Mar. 23, 1995, D.C. Law 10-246, § 7a, as added Sept. 14, 2011, D.C. Law 19-21, § 6042(d), 58 DCR 6226.)</text>
+      <num>(1)</num>
+      <text>Within 180 days of April 23, 2013, the Mayor shall issue rules, which shall:</text>
+      <level>
+        <num>(A)</num>
+        <text>Ensure maximum permissible use of Department areas and facilities by appropriate distribution of users, with special attention to the balance of uses between Department programs, community uses, and fee-based uses;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Ensure equitable access to fee-based uses through provisions for modest, reduced, or waived fees;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Ensure proper, orderly, and equitable use through scheduling;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Ensure protection and preservation of areas and facilities by not overtaxing facilities;</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>Promote the health, safety, and welfare of users;</text>
+      </level>
+      <level>
+        <num>(F)</num>
+        <text>Establish clear procedures for obtaining permits and revocation of permits; and</text>
+      </level>
+      <level>
+        <num>(G)</num>
+        <text>Update the entire Department fee and permit schedules, maintaining a lower cost for residents.</text>
+      </level>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-21, see notes under § 10-301.</text>
-      </level>
+      <num>(2)</num>
+      <text>The authority granted to the Department in § 10-302(b-1) and (d), § 10-302.01, and § 10-302.02 shall not be exercised until the rules required by paragraph (1) of this subsection have been adopted.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Mar. 23, 1995, D.C. Law 10-246, § 7a, as added Sept. 14, 2011, D.C. Law 19-21, § 6042(d), 58 DCR 6226; Apr. 23, 2013, D.C. Law 19-280, § 2(d), 60 DCR 2124.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-280 redesignated the existing paragraph as (a); and added (b).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 10-301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-280</heading>
+      <text>See note to § 10-301.</text>
     </level>
   </level>
 </level>

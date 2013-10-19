@@ -1,14 +1,15 @@
 <level type="section">
   <num>9-109.01</num>
   <heading>District of Columbia emergency highway relief.</heading>
-  <formerly-cited-as>DC ST 1981 § 7-134.1</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Temporary Waiver of Non-Federal Share.</text> -- Notwithstanding any other law, during fiscal years 1995 and 1996, the Federal share of the costs of an eligible project shall be a percentage requested by the District of Columbia, but not to exceed 100 percent of the costs of the project.</text>
+    <heading>Temporary Waiver of Non-Federal Share</heading>
+    <text>Notwithstanding any other law, during fiscal years 1995 and 1996, the Federal share of the costs of an eligible project shall be a percentage requested by the District of Columbia, but not to exceed 100 percent of the costs of the project.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Eligible Projects.</text> -- In this section, the term "eligible project" means a highway project in the District of Columbia:</text>
+    <heading>Eligible Projects</heading>
+    <text>In this section, the term "eligible project" means a highway project in the District of Columbia:</text>
     <level>
       <num>(1)</num>
       <text>For which the United States:</text>
@@ -38,18 +39,18 @@
       <text>With respect to which the District of Columbia certifies that sufficient funds are not available to pay the non-Federal share of the costs of the project.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 4, 1995, 109 Stat. 257, Pub. L. 104-21, § 2.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 7-134.1.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 9-109.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 7-134.1.</text>
     </level>
   </level>
 </level>

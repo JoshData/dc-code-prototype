@@ -1,19 +1,28 @@
 <level type="section">
   <num>9-1103.01</num>
   <heading>Congressional consent given for Virginia, Maryland and District of Columbia to enter into Compact.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-2411</formerly-cited-as>
   <text>The consent and approval of Congress is hereby given to the States of Virginia and Maryland and to the District of Columbia to enter into a Compact, substantially as follows, for the regulation and improvement of mass transit in the Washington metropolitan area, which Compact, known as the Washington Metropolitan Area Transit Regulation Compact, has been negotiated by representatives of the States and the District of Columbia and has been adopted by the State of Virginia (Ch. 627, 1958 Acts of Assembly), and in substance by the State of Maryland.</text>
   <text>The States of Maryland and Virginia and the District of Columbia, hereinafter referred to as signatories, do hereby covenant and agree as follows:</text>
-  <text>TITLE I</text>
-  <text>GENERAL COMPACT PROVISIONS</text>
-  <text>ARTICLE I</text>
+  <text class="centered">TITLE I</text>
+  <text class="centered">GENERAL COMPACT PROVISIONS</text>
+  <text class="centered">ARTICLE I</text>
   <text>There is hereby created the Washington Metropolitan Transit District, hereinafter referred to as the Metropolitan District, which shall embrace the District of Columbia, the cities of Alexandria, Falls Church, and Fairfax, the counties of Arlington, Fairfax, and Loudoun, and political subdivisions of the Commonwealth of Virginia located within those counties, and the counties of Montgomery and Prince George's in the State of Maryland and political subdivisions of the State of Maryland located within those counties.</text>
-  <text>ARTICLE II</text>
-  <text>1. The signatories hereby create the "Washington Metropolitan Area Transit Commission," hereafter called the "Commission," which shall be an instrumentality of the District of Columbia, the Commonwealth of Virginia, and the State of Maryland, and shall have the powers and duties set forth in the Compact and those additional powers and duties conferred upon it by subsequent action of the signatories.</text>
-  <text>2. The Commission shall have jurisdiction coextensive with the Metropolitan District for the regulation of passenger transportation within the Metropolitan District on a coordinated basis, without regard to political boundaries within the Metropolitan District, as set forth in this Compact.</text>
-  <text>ARTICLE III</text>
-  <text>1.(a) The Commission shall be composed of three members, one member appointed by the Governor of Virginia from the Department of Motor Vehicles of the Commonwealth of Virginia, one member appointed by the Governor of Maryland from the Maryland Public Service Commission, and one member appointed by the Mayor of the District of Columbia from a District of Columbia agency with oversight of matters relating to the Commission.</text>
+  <text class="centered">ARTICLE II</text>
   <level>
+    <num>1.</num>
+    <text>The signatories hereby create the "Washington Metropolitan Area Transit Commission," hereafter called the "Commission," which shall be an instrumentality of the District of Columbia, the Commonwealth of Virginia, and the State of Maryland, and shall have the powers and duties set forth in the Compact and those additional powers and duties conferred upon it by subsequent action of the signatories.</text>
+  </level>
+  <level>
+    <num>2.</num>
+    <text>The Commission shall have jurisdiction coextensive with the Metropolitan District for the regulation of passenger transportation within the Metropolitan District on a coordinated basis, without regard to political boundaries within the Metropolitan District, as set forth in this Compact.</text>
+  </level>
+  <text class="centered">ARTICLE III</text>
+  <level>
+    <num>1.</num>
+    <level>
+      <num>(a)</num>
+      <text>The Commission shall be composed of three members, one member appointed by the Governor of Virginia from the Department of Motor Vehicles of the Commonwealth of Virginia, one member appointed by the Governor of Maryland from the Maryland Public Service Commission, and one member appointed by the Mayor of the District of Columbia from a District of Columbia agency with oversight of matters relating to the Commission.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>A member appointed shall serve for a term coincident with the term of that member on the agency of the signatory, and a member may be removed or suspended from office as the law of the appointing signatory provides.</text>
@@ -22,31 +31,52 @@
       <num>(c)</num>
       <text>Vacancies shall be filled for an unexpired term in the same manner as an original appointment.</text>
     </level>
+    <level>
+      <num>(d)</num>
+      <text>An amendment to Section 1(a) of this Article shall not affect any member in office on the amendment's effective date.</text>
+    </level>
   </level>
   <level>
-    <num>(d)</num>
-    <text>An amendment to Section 1(a) of this Article shall not affect any member in office on the amendment's effective date.</text>
+    <num>2.</num>
+    <text>A person in the employment of or holding an official relation to a person or company subject to the jurisdiction of the Commission or having an interest of any nature in a person or company or affiliate or associate thereof, may not hold the office of Commissioner or serve as an employee of the Commission or have any power or duty or receive any compensation in relation to the Commission.</text>
   </level>
-  <text>2. A person in the employment of or holding an official relation to a person or company subject to the jurisdiction of the Commission or having an interest of any nature in a person or company or affiliate or associate thereof, may not hold the office of Commissioner or serve as an employee of the Commission or have any power or duty or receive any compensation in relation to the Commission.</text>
-  <text>3.(a) The Commission shall select a chairman from among its members.</text>
   <level>
+    <num>3.</num>
+    <level>
+      <num>(a)</num>
+      <text>The Commission shall select a chairman from among its members.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>The chairman shall be responsible for the Commission's work and shall have all powers to discharge that duty.</text>
     </level>
   </level>
-  <text>4. A signatory may pay the Commissioner from its jurisdiction the salary or expenses, if any, that it considers appropriate.</text>
-  <text>5.(a) The Commission may employ engineering, technical, legal, clerical, and other personnel on a regular, part-time, or consulting basis to assist in the discharge of its functions.</text>
   <level>
+    <num>4.</num>
+    <text>A signatory may pay the Commissioner from its jurisdiction the salary or expenses, if any, that it considers appropriate.</text>
+  </level>
+  <level>
+    <num>5.</num>
+    <level>
+      <num>(a)</num>
+      <text>The Commission may employ engineering, technical, legal, clerical, and other personnel on a regular, part-time, or consulting basis to assist in the discharge of its functions.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>The Commission is not bound by any statute or regulation of a signatory in the employment or discharge of an officer or employee of the Commission, except that contained in this Compact.</text>
     </level>
   </level>
-  <text>6. The Commission shall establish its office at a location to be determined by the Commission within the Metropolitan District and shall publish rules and regulations governing the conduct of its operations.</text>
-  <text>ARTICLE IV</text>
-  <text>1.(a) The signatories shall bear the expenses of the Commission in the manner set forth here.</text>
   <level>
+    <num>6.</num>
+    <text>The Commission shall establish its office at a location to be determined by the Commission within the Metropolitan District and shall publish rules and regulations governing the conduct of its operations.</text>
+  </level>
+  <text class="centered">ARTICLE IV</text>
+  <level>
+    <num>1.</num>
+    <level>
+      <num>(a)</num>
+      <text>The signatories shall bear the expenses of the Commission in the manner set forth here.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>The Commission shall submit to the Governor of Virginia, the Governor of Maryland, and the Mayor of the District of Columbia, when requested, a budget of its requirements for the period required by the laws of the signatories for presentation to the legislature.</text>
@@ -71,8 +101,12 @@
       <text>The Governors of the two states and the Mayor of the District of Columbia shall approve the allocation made by the Commission.</text>
     </level>
   </level>
-  <text>2.(a) The signatories shall appropriate their proportion of the budget for the expenses of the Commission and shall pay that appropriation of the Commission.</text>
   <level>
+    <num>2.</num>
+    <level>
+      <num>(a)</num>
+      <text>The signatories shall appropriate their proportion of the budget for the expenses of the Commission and shall pay that appropriation of the Commission.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>The budget of the Commission and the appropriations of the signatories may not include a sum for the payment of salaries or expenses of the Commissioners.</text>
@@ -82,9 +116,11 @@
       <text>The provisions of section 2.1-30 (1979) of the Code of Virginia do not apply to any official or employee of the Commonwealth of Virginia acting or performing services under this subchapter.</text>
     </level>
   </level>
-  <text>3.(a) If the Commission requests and a signatory makes available personnel, services, or material which the Commission would otherwise have to employ or purchase, the Commission shall:</text>
   <level>
+    <num>3.</num>
     <level>
+      <num>(a)</num>
+      <text>If the Commission requests and a signatory makes available personnel, services, or material which the Commission would otherwise have to employ or purchase, the Commission shall:</text>
       <level>
         <num>(i)</num>
         <text>Determine an amount; and</text>
@@ -99,57 +135,93 @@
       <text>If any services in kind are rendered, the Commission shall return to the signatory an amount equivalent to the savings to the Commission represented by the contribution in kind.</text>
     </level>
   </level>
-  <text>4.(a) The Commission shall have the power to establish fees under regulations, including but not limited to filing fees and annual fees.</text>
   <level>
+    <num>4.</num>
+    <level>
+      <num>(a)</num>
+      <text>The Commission shall have the power to establish fees under regulations, including but not limited to filing fees and annual fees.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>The Commission shall return to the signatories fees established by it in proportion to the share of the Commission's expenses borne by each signatory in the fiscal year during which the fees were collected.</text>
     </level>
   </level>
-  <text>5.(a) The Commission shall keep accurate books of account, showing in full its receipts and disbursements.</text>
   <level>
+    <num>5.</num>
+    <level>
+      <num>(a)</num>
+      <text>The Commission shall keep accurate books of account, showing in full its receipts and disbursements.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>The books of account shall be open for inspection by representatives of the respective signatories at any reasonable time.</text>
     </level>
   </level>
-  <text>ARTICLE V</text>
-  <text>1. An action by the Commission may not be effective unless a majority of the members concur.</text>
-  <text>2. An order entered by the Commission under the provisions of Title II of this subchapter which affect operations or matters solely intrastate or solely within the District of Columbia may not be effective unless the Commissioner from the affected signatory concurs.</text>
-  <text>3. Two members of the Commission are a quorum.</text>
-  <text>4. The Commission may delegate by regulation the tasks that it considers appropriate.</text>
-  <text>ARTICLE VI</text>
-  <text>This Compact does not amend, alter, or affect the power of the signatories and their political subdivisions to levy and collect taxes on the property or income of any person or company subject to this subchapter or upon any material, equipment, or supplies purchased by that person or company or to levy, assess, and collect franchise or other similar taxes, or fees for the licensing of vehicles and their operation.</text>
-  <text>ARTICLE VII</text>
-  <text>This amended Compact shall become effective 90 days after the signatories adopt it.</text>
-  <text>ARTICLE VIII</text>
-  <text>1.(a) This Compact may be amended from time to time without the prior consent or approval of the Congress of the United States and any amendment shall be effective unless, within one year, the Congress disapproves that amendment.</text>
+  <text class="centered">ARTICLE V</text>
   <level>
+    <num>1.</num>
+    <text>An action by the Commission may not be effective unless a majority of the members concur.</text>
+  </level>
+  <level>
+    <num>2.</num>
+    <text>An order entered by the Commission under the provisions of Title II of this subchapter which affect operations or matters solely intrastate or solely within the District of Columbia may not be effective unless the Commissioner from the affected signatory concurs.</text>
+  </level>
+  <level>
+    <num>3.</num>
+    <text>Two members of the Commission are a quorum.</text>
+  </level>
+  <level>
+    <num>4.</num>
+    <text>The Commission may delegate by regulation the tasks that it considers appropriate.</text>
+  </level>
+  <text class="centered">ARTICLE VI</text>
+  <text>This Compact does not amend, alter, or affect the power of the signatories and their political subdivisions to levy and collect taxes on the property or income of any person or company subject to this subchapter or upon any material, equipment, or supplies purchased by that person or company or to levy, assess, and collect franchise or other similar taxes, or fees for the licensing of vehicles and their operation.</text>
+  <text class="centered">ARTICLE VII</text>
+  <text>This amended Compact shall become effective 90 days after the signatories adopt it.</text>
+  <text class="centered">ARTICLE VIII</text>
+  <level>
+    <num>1.</num>
+    <level>
+      <num>(a)</num>
+      <text>This Compact may be amended from time to time without the prior consent or approval of the Congress of the United States and any amendment shall be effective unless, within one year, the Congress disapproves that amendment.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>An amendment may not be effective unless adopted by each of the signatories.</text>
     </level>
   </level>
-  <text>2.(a) A signatory may withdraw from the Compact upon written notice to the other signatories.</text>
   <level>
+    <num>2.</num>
+    <level>
+      <num>(a)</num>
+      <text>A signatory may withdraw from the Compact upon written notice to the other signatories.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>In the event of a withdrawal, the Compact shall be terminated at the end of the Commission's next full fiscal year following the notice.</text>
     </level>
   </level>
-  <text>3. Upon the termination of this Compact, the jurisdiction over the matters and persons covered by this subchapter shall revert to the signatories and the federal government, as their interest may appear, and the applicable laws of the signatories and the federal government shall be reactivated without further legislation.</text>
-  <text>ARTICLE IX</text>
-  <text>Each of the signatories pledges to each of the other signatories faithful cooperation in the regulation of passenger transportation within the Metropolitan District and agrees to enact any necessary legislation to achieve the objectives of the Compact for the mutual benefit of the citizens living in the Metropolitan District.</text>
-  <text>ARTICLE X</text>
-  <text>1. If a provision of this subchapter or its application to any person or circumstance is held invalid in a court of competent jurisdiction, the invalidity does not affect other provisions or any other application of this subchapter which can be given effect without the invalid provision or application, and for this purpose the provisions of this subchapter are declared severable.</text>
-  <text>2. In accordance with the ordinary rules for construction of interstate compacts, this subchapter shall be liberally construed to effectuate its purposes.</text>
-  <text>TITLE II</text>
-  <text>
-    <text i="True">COMPACT REGULATORY PROVISIONS</text>
-  </text>
-  <text>ARTICLE XI</text>
-  <text>1. This subchapter shall apply to the transportation for hire by any carrier of persons between any points in the Metropolitan District, including but not limited to:</text>
   <level>
+    <num>3.</num>
+    <text>Upon the termination of this Compact, the jurisdiction over the matters and persons covered by this subchapter shall revert to the signatories and the federal government, as their interest may appear, and the applicable laws of the signatories and the federal government shall be reactivated without further legislation.</text>
+  </level>
+  <text class="centered">ARTICLE IX</text>
+  <text>Each of the signatories pledges to each of the other signatories faithful cooperation in the regulation of passenger transportation within the Metropolitan District and agrees to enact any necessary legislation to achieve the objectives of the Compact for the mutual benefit of the citizens living in the Metropolitan District.</text>
+  <text class="centered">ARTICLE X</text>
+  <level>
+    <num>1.</num>
+    <text>If a provision of this subchapter or its application to any person or circumstance is held invalid in a court of competent jurisdiction, the invalidity does not affect other provisions or any other application of this subchapter which can be given effect without the invalid provision or application, and for this purpose the provisions of this subchapter are declared severable.</text>
+  </level>
+  <level>
+    <num>2.</num>
+    <text>In accordance with the ordinary rules for construction of interstate compacts, this subchapter shall be liberally construed to effectuate its purposes.</text>
+  </level>
+  <text class="centered">TITLE II</text>
+  <text class="centered">COMPACT REGULATORY PROVISIONS</text>
+  <text class="centered">ARTICLE XI</text>
+  <level>
+    <num>1.</num>
+    <text>This subchapter shall apply to the transportation for hire by any carrier of persons between any points in the Metropolitan District, including but not limited to:</text>
     <level>
       <num>(a)</num>
       <text>As to interstate and foreign commerce, transportation performed over a regular route between a point in the Metropolitan District and a point outside the Metropolitan District if:</text>
@@ -175,8 +247,9 @@
       </level>
     </level>
   </level>
-  <text>2. Solely for the purposes of this section and section 18 of this Article:</text>
   <level>
+    <num>2.</num>
+    <text>Solely for the purposes of this section and section 18 of this Article:</text>
     <level>
       <num>(a)</num>
       <text>The Metropolitan District shall include that portion of Anne Arundel County, Maryland, occupied by the Baltimore-Washington International Airport; and</text>
@@ -186,8 +259,9 @@
       <text>Jurisdiction of the Commission shall apply to taxicab rates, charges, regulations, and minimum insurance requirements for interstate transportation between the Baltimore-Washington International Airport and other points in the Metropolitan District, unless conducted by a taxicab licensed by the State of Maryland or a political subdivision of the State of Maryland, or operated under a contract with the State of Maryland.</text>
     </level>
   </level>
-  <text>3. Excluded from the application of this subchapter are:</text>
   <level>
+    <num>3.</num>
+    <text>Excluded from the application of this subchapter are:</text>
     <level>
       <num>(a)</num>
       <text>Transportation by water, air, or rail;</text>
@@ -229,9 +303,10 @@
       <text>The exercise of any power of the discharge of any duty conferred or imposed upon the State Corporation Commission of Virginia by the Virginia Constitution.</text>
     </level>
   </level>
-  <text>Definitions</text>
-  <text>4. In this subchapter the following words have the meanings indicated.</text>
+  <text class="centered">Definitions</text>
   <level>
+    <num>4.</num>
+    <text>In this subchapter the following words have the meanings indicated.</text>
     <level>
       <num>(a)</num>
       <text>"Carrier" means a person who engages in the transportation of passengers by motor vehicle or other form or means of hire.</text>
@@ -249,9 +324,10 @@
       <text>"Taxicab" means a motor vehicle for hire (other than a vehicle operated under a Certificate of Authority issued by the Commission) having a seating capacity of 9 persons or less, including the driver, used to accept or solicit passengers along the public streets for transportation.</text>
     </level>
   </level>
-  <text>General Duties of Carriers</text>
-  <text>5. Each authorized carrier shall</text>
+  <text class="centered">General Duties of Carriers</text>
   <level>
+    <num>5.</num>
+    <text>Each authorized carrier shall:</text>
     <level>
       <num>(a)</num>
       <text>Provide safe and adequate transportation service, equipment, and facilities; and</text>
@@ -261,9 +337,13 @@
       <text>Observe and enforce Commission regulations established under this subchapter.</text>
     </level>
   </level>
-  <text>Certificates of Authority</text>
-  <text>6.(a) A person may not engage in transportation subject to this subchapter unless there is in force a "Certificate of Authority" issued by the Commission authorizing the person to engage in that transportation.</text>
+  <text class="centered">Certificates of Authority</text>
   <level>
+    <num>6.</num>
+    <level>
+      <num>(a)</num>
+      <text>A person may not engage in transportation subject to this subchapter unless there is in force a "Certificate of Authority" issued by the Commission authorizing the person to engage in that transportation.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>On the effective date of this subchapter a person engaged in transportation subject to this subchapter under an existing "Certificate of Public Convenience and Necessity" or order issued by the Commission shall be issued a new "Certificate of Authority" within 120 days after the effective date of this amendment.</text>
@@ -280,9 +360,11 @@
       </level>
     </level>
   </level>
-  <text>7.(a) When an application is made under this section for a Certificate of Authority, the Commission shall issue a certificate to any qualified applicant, authorizing all or any part of the transportation covered by the application, if it finds that:</text>
   <level>
+    <num>7.</num>
     <level>
+      <num>(a)</num>
+      <text>When an application is made under this section for a Certificate of Authority, the Commission shall issue a certificate to any qualified applicant, authorizing all or any part of the transportation covered by the application, if it finds that:</text>
       <level>
         <num>(i)</num>
         <text>The applicant is fit, willing, and able to perform that transportation properly, conform to the provisions of this subchapter, and conform to the rules, regulations, and requirements of the Commission; and</text>
@@ -317,8 +399,9 @@
       <text>A Certificate of Authority is not valid unless the holder is in compliance with the insurance requirements of the Commission.</text>
     </level>
   </level>
-  <text>8. Application to the Commission for a certificate under this subchapter shall be:</text>
   <level>
+    <num>8.</num>
+    <text>Application to the Commission for a certificate under this subchapter shall be:</text>
     <level>
       <num>(a)</num>
       <text>Made in writing;</text>
@@ -332,8 +415,12 @@
       <text>In the form and with the information that the Commission regulations require.</text>
     </level>
   </level>
-  <text>9.(a) A Certificate of Authority issued by the Commission shall specify the route over which a regularly scheduled commuter service or other regular-route service will operate.</text>
   <level>
+    <num>9.</num>
+    <level>
+      <num>(a)</num>
+      <text>A Certificate of Authority issued by the Commission shall specify the route over which a regularly scheduled commuter service or other regular-route service will operate.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>A certificate issued by the Commission authorizing irregular-route service shall be coextensive with the Metropolitan District.</text>
@@ -347,8 +434,12 @@
       <text>A certificate for the transportation of passengers may include authority to transport newspapers, passenger baggage, express, or mail in the same vehicle, or to transport passenger baggage in a separate vehicle.</text>
     </level>
   </level>
-  <text>10.(a) Certificates shall be effective from the date specified on them and shall remain in effect until amended, suspended, or terminated.</text>
   <level>
+    <num>10.</num>
+    <level>
+      <num>(a)</num>
+      <text>Certificates shall be effective from the date specified on them and shall remain in effect until amended, suspended, or terminated.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>Upon application by the holder of a certificate, the Commission may suspend, amend, or terminate the Certificate of Authority.</text>
@@ -374,15 +465,23 @@
       <text>The Commission may direct that a carrier cease an operation conducted under a certificate if the Commission finds the operation, after notice and hearing, to be inconsistent with the public interest.</text>
     </level>
   </level>
-  <text>11.(a) A person may not transfer a Certificate of Authority unless the Commission approves the transfer as consistent with the public interest.</text>
   <level>
+    <num>11.</num>
+    <level>
+      <num>(a)</num>
+      <text>A person may not transfer a Certificate of Authority unless the Commission approves the transfer as consistent with the public interest.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>A person other than the person to whom an operating authority is issued by the Commission may not lease, rent, or otherwise use that operating authority.</text>
     </level>
   </level>
-  <text>12.(a) A carrier may not abandon any scheduled commuter service operated under a Certificate of Authority issued to the carrier under this subchapter, unless the Commission authorizes the carrier to do so by a Commission order.</text>
   <level>
+    <num>12.</num>
+    <level>
+      <num>(a)</num>
+      <text>A carrier may not abandon any scheduled commuter service operated under a Certificate of Authority issued to the carrier under this subchapter, unless the Commission authorizes the carrier to do so by a Commission order.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>Upon application by a carrier, the Commission shall issue an order, after notice and hearing, if it finds that abandonment of the route is consistent with the public interest.</text>
@@ -396,17 +495,23 @@
       <text>As long as the carrier has an opportunity to earn a reasonable return in all its operations, the fact that a carrier is operating a service at a loss will not, of itself, determine the question of whether abandonment of service is consistent with the public interest.</text>
     </level>
   </level>
-  <text>13.(a) When the Commission finds that there is an immediate need for service that is not available, the Commission may grant temporary authority for that service without a hearing or other proceeding up to a maximum of 180 consecutive days, unless suspended or revoked for good cause.</text>
   <level>
+    <num>13.</num>
+    <level>
+      <num>(a)</num>
+      <text>When the Commission finds that there is an immediate need for service that is not available, the Commission may grant temporary authority for that service without a hearing or other proceeding up to a maximum of 180 consecutive days, unless suspended or revoked for good cause.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>A grant of temporary authority does not create any presumption that permanent authority will be granted at a later date.</text>
     </level>
   </level>
-  <text>Rates and Tariffs</text>
-  <text>14.(a) Each carrier shall file with the Commission, publish, and keep available for public inspection tariffs showing:</text>
+  <text class="centered">Rates and Tariffs</text>
   <level>
+    <num>14.</num>
     <level>
+      <num>(a)</num>
+      <text>Each carrier shall file with the Commission, publish, and keep available for public inspection tariffs showing:</text>
       <level>
         <num>(i)</num>
         <text>Fixed-rates and fixed-fares for transportation subject to this subchapter; and</text>
@@ -433,8 +538,12 @@
       <text>A carrier may not charge a rate or fare for transportation subject to this subchapter other than the applicable rate or fare specified in a tariff filed by the carrier under this subchapter and in effect at the time.</text>
     </level>
   </level>
-  <text>15.(a) A carrier proposing to change a rate, fare, regulation, or practice specified in an effective tariff shall file a tariff showing the change in the form and manner, and with the information, jurisdiction, notice, and supporting material prescribed by the Commission.</text>
   <level>
+    <num>15.</num>
+    <level>
+      <num>(a)</num>
+      <text>A carrier proposing to change a rate, fare, regulation, or practice specified in an effective tariff shall file a tariff showing the change in the form and manner, and with the information, jurisdiction, notice, and supporting material prescribed by the Commission.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>Each tariff filed under Subsection (a) of this Section shall state a date on which the tariff shall take effect, which shall be at least 7 calendar days after the date on which the tariff is filed, unless the Commission orders an earlier effective date or rejects the tariff.</text>
@@ -451,19 +560,28 @@
       </level>
     </level>
   </level>
-  <text>16.(a) The Commission may hold a hearing upon complaint or upon the Commission's own initiative after reasonable notice to determine whether a rate, fare, regulation, or practice relating to a tariff is unjust, unreasonable, unduly discriminatory, or unduly preferential between classes of riders or between locations within the Metropolitan District.</text>
   <level>
+    <num>16.</num>
+    <level>
+      <num>(a)</num>
+      <text>The Commission may hold a hearing upon complaint or upon the Commission's own initiative after reasonable notice to determine whether a rate, fare, regulation, or practice relating to a tariff is unjust, unreasonable, unduly discriminatory, or unduly preferential between classes of riders or between locations within the Metropolitan District.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>Within 120 days of the hearing, the Commission shall pass an order prescribing the lawful rate, fare, regulation, or practice, or affirming the tariff.</text>
     </level>
   </level>
-  <text>Through Routes, Joint Fares</text>
-  <text>17. With the approval of the Commission, any carrier subject to this subchapter may establish through routes and joint fares with any other lawfully authorized carrier.</text>
-  <text>Taxicab Fares</text>
-  <text>18.(a) The Commission shall prescribe reasonable rates for transportation by taxicab, only when:</text>
+  <text class="centered">Through Routes, Joint Fares</text>
   <level>
+    <num>17.</num>
+    <text>With the approval of the Commission, any carrier subject to this subchapter may establish through routes and joint fares with any other lawfully authorized carrier.</text>
+  </level>
+  <text class="centered">Taxicab Fares</text>
+  <level>
+    <num>18.</num>
     <level>
+      <num>(a)</num>
+      <text>The Commission shall prescribe reasonable rates for transportation by taxicab, only when:</text>
       <level>
         <num>(i)</num>
         <text>The trip is between a point in the jurisdiction of one signatory and a point in the jurisdiction of another signatory; and</text>
@@ -486,11 +604,13 @@
       <text>A person licensed by a signatory to own or operate a taxicab shall comply with Commission regulations regarding maintenance of a surety bond, insurance policy, self-insurance qualification, or other security or agreement in an amount that the Commission may require to pay a final judgment for bodily injury or death of a person, or for loss or damage to property of another, resulting from the operation, maintenance, or use of a taxicab in performing transportation subject to this subchapter.</text>
     </level>
   </level>
-  <text>ARTICLE XII</text>
-  <text>Accounts, Records, and Reports</text>
-  <text>1.(a) The Commission may prescribe that any carrier subject to this subchapter:</text>
+  <text class="centered">ARTICLE XII</text>
+  <text class="centered">Accounts, Records, and Reports</text>
   <level>
+    <num>1.</num>
     <level>
+      <num>(a)</num>
+      <text>The Commission may prescribe that any carrier subject to this subchapter:</text>
       <level>
         <num>(i)</num>
         <text>Submit special reports and annual or other periodic reports;</text>
@@ -529,12 +649,17 @@
       <text>This section does not relieve a carrier from recordkeeping or reporting obligations imposed by a state or federal agency or regulatory commission for transportation service rendered outside the Metropolitan District.</text>
     </level>
   </level>
-  <text>Issuance of Securities</text>
-  <text>2. This subchapter does not impair any authority of the federal government and the signatories to regulate the issuance of securities by a carrier.</text>
-  <text>Consolidations, Mergers, and Acquisition of Control</text>
-  <text>3.(a) A carrier or any person controlling, controlled by, or under control with a carrier shall obtain Commission approval to:</text>
+  <text class="centered">Issuance of Securities</text>
   <level>
+    <num>2.</num>
+    <text>This subchapter does not impair any authority of the federal government and the signatories to regulate the issuance of securities by a carrier.</text>
+  </level>
+  <text class="centered">Consolidations, Mergers, and Acquisition of Control</text>
+  <level>
+    <num>3.</num>
     <level>
+      <num>(a)</num>
+      <text>A carrier or any person controlling, controlled by, or under control with a carrier shall obtain Commission approval to:</text>
       <level>
         <num>(i)</num>
         <text>Consolidate or merge any part of the ownership, management, or operation of its property or franchise with a carrier that operates in the Metropolitan District;</text>
@@ -561,10 +686,14 @@
       <text>Pending determination of an application filed under this section, the Commission may grant "temporary approval" without a hearing or other proceeding up to a maximum of 180 consecutive days if the Commission determines that grant to be consistent with the public interest.</text>
     </level>
   </level>
-  <text>ARTICLE XIII</text>
-  <text>Investigation by the Commission and Complaints</text>
-  <text>1.(a) A person may file a written complaint with the Commission regarding anything done or omitted by a person in violation of a provision of this subchapter, or in violation of a requirement established under it.</text>
+  <text class="centered">ARTICLE XIII</text>
+  <text class="centered">Investigation by the Commission and Complaints</text>
   <level>
+    <num>1.</num>
+    <level>
+      <num>(a)</num>
+      <text>A person may file a written complaint with the Commission regarding anything done or omitted by a person in violation of a provision of this subchapter, or in violation of a requirement established under it.</text>
+    </level>
     <level>
       <num>(b)</num>
       <level>
@@ -613,17 +742,26 @@
       <text>For the purpose of an investigation or other proceeding under this subchapter, the Commission may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of books, papers, correspondence, memoranda, contracts, agreements, or other records or evidence which the Commission considers relevant to the inquiry.</text>
     </level>
   </level>
-  <text>Hearings; Rules of Procedure</text>
-  <text>2.(a) Hearings under this subchapter shall be held before the Commission, and records shall be kept.</text>
+  <text class="centered">Hearings; Rules of Procedure</text>
   <level>
+    <num>2.</num>
+    <level>
+      <num>(a)</num>
+      <text>Hearings under this subchapter shall be held before the Commission, and records shall be kept.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>Rules of practice and procedure adopted by the Commission shall govern all hearings, investigations, and proceedings under this subchapter, but the Commission may apply the technical rules of evidence when appropriate.</text>
     </level>
   </level>
-  <text>Administrative Powers of Commission; Rules, Regulations, and Orders</text>
-  <text>3.(a) The Commission shall perform any act, and prescribe, issue, make, amend, or rescind any order, rule, or regulation that it finds necessary to carry out the provisions of this subchapter.</text>
+  <text class="centered">Administrative Powers of Commission;</text>
+  <text class="centered">Rules, Regulations, and Orders</text>
   <level>
+    <num>3.</num>
+    <level>
+      <num>(a)</num>
+      <text>The Commission shall perform any act, and prescribe, issue, make, amend, or rescind any order, rule, or regulation that it finds necessary to carry out the provisions of this subchapter.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>The rules and regulations of the Commission shall prescribe the form of any statement, declaration, application, or report filed with the Commission, the information it shall contain, and the time of filing.</text>
@@ -645,9 +783,13 @@
       <text>Commission rules and regulations shall be available for public inspection during reasonable business hours.</text>
     </level>
   </level>
-  <text>Reconsideration of Orders</text>
-  <text>4.(a) A party of a proceeding affected by a final order or decision of the Commission may file within 30 days of its publication a written application requesting Commission reconsideration of the matter involved, and stating specifically the errors claimed as grounds for the reconsideration.</text>
+  <text class="centered">Reconsideration of Orders</text>
   <level>
+    <num>4.</num>
+    <level>
+      <num>(a)</num>
+      <text>A party of a proceeding affected by a final order or decision of the Commission may file within 30 days of its publication a written application requesting Commission reconsideration of the matter involved, and stating specifically the errors claimed as grounds for the reconsideration.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>The Commission shall grant or deny the application within 30 days after it has been filed.</text>
@@ -673,9 +815,13 @@
       <text>Only an error specified as a ground for reconsideration may be used as a ground for judicial review.</text>
     </level>
   </level>
-  <text>Judicial Review</text>
-  <text>5.(a) Any party to a proceeding under this subchapter may obtain a review of the Commission's order in the United States Court of Appeals for the Fourth Circuit, or in the United States Court of Appeals for the District of Columbia Circuit, by filing within 60 days after Commission determination of an application for reconsideration, a written petition praying that the order of the Commission be modified or set aside.</text>
+  <text class="centered">Judicial Review</text>
   <level>
+    <num>5.</num>
+    <level>
+      <num>(a)</num>
+      <text>Any party to a proceeding under this subchapter may obtain a review of the Commission's order in the United States Court of Appeals for the Fourth Circuit, or in the United States Court of Appeals for the District of Columbia Circuit, by filing within 60 days after Commission determination of an application for reconsideration, a written petition praying that the order of the Commission be modified or set aside.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>A copy of the petition shall be delivered to the office of the Commission and the Commission shall certify and file with the court a transcript of the record upon which the Commission order was entered.</text>
@@ -697,9 +843,13 @@
       <text>The Commission and its members, officers, agents, employees, or representatives are not liable to suit or action or for any judgment or decree for damages, loss, or injury resulting from action taken under the Act, nor required in any case arising or any appeal taken under this subchapter to make a deposit, pay costs, or pay for service to the clerks of a court or to the marshal of the United States or give a supersedeas bond or security for damages.</text>
     </level>
   </level>
-  <text>Enforcement of Act; Penalty for Violations</text>
-  <text>6.(a) Whenever the Commission determines that a person is engaged or will engage in an act or practice which violates a provision of this subchapter or a rule, regulation, or order under it, the Commission may bring an action in the United States District Court in the district in which the person resides or conducts business or in which the violation occurred to enjoin the act or practice and to enforce compliance with this subchapter or a rule, regulation, or order under it.</text>
+  <text class="centered">Enforcement of Act; Penalty for Violations</text>
   <level>
+    <num>6.</num>
+    <level>
+      <num>(a)</num>
+      <text>Whenever the Commission determines that a person is engaged or will engage in an act or practice which violates a provision of this subchapter or a rule, regulation, or order under it, the Commission may bring an action in the United States District Court in the district in which the person resides or conducts business or in which the violation occurred to enjoin the act or practice and to enforce compliance with this subchapter or a rule, regulation, or order under it.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>If the court makes a determination under subsection (a) of this section, that a person has violated or will violate this subchapter or a rule, regulation, or order under this subchapter, the court shall grant a permanent or temporary injunction or decree or restraining order without bond.</text>
@@ -748,10 +898,14 @@
       </level>
     </level>
   </level>
-  <text>ARTICLE XIV</text>
-  <text>Expenses of Investigations and Other Proceedings</text>
-  <text>1.(a) A carrier shall bear all expenses of an investigation or other proceeding conducted by the Commission concerning the carrier, and all litigation expenses, including appeals, arising from an investigation or other proceeding.</text>
+  <text class="centered">ARTICLE XIV</text>
+  <text class="centered">Expenses of Investigations and Other Proceedings</text>
   <level>
+    <num>1.</num>
+    <level>
+      <num>(a)</num>
+      <text>A carrier shall bear all expenses of an investigation or other proceeding conducted by the Commission concerning the carrier, and all litigation expenses, including appeals, arising from an investigation or other proceeding.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>When the Commission initiates an investigation or other proceeding, the Commission may require the carrier to pay to the Commission a sum estimated to cover the expenses that will be incurred under this section.</text>
@@ -765,9 +919,13 @@
       <text>The Commission shall return to the carrier any unexpended balance remaining after payment of expenses.</text>
     </level>
   </level>
-  <text>Applicability of Other Laws</text>
-  <text>2.(a) The applicability of each law, rule, regulation, or order of a signatory relating to transportation subject to this subchapter shall be suspended on the effective date of this subchapter.</text>
+  <text class="centered">Applicability of Other Laws</text>
   <level>
+    <num>2.</num>
+    <level>
+      <num>(a)</num>
+      <text>The applicability of each law, rule, regulation, or order of a signatory relating to transportation subject to this subchapter shall be suspended on the effective date of this subchapter.</text>
+    </level>
     <level>
       <num>(b)</num>
       <text>The provisions of subsection (a) of this section do not apply to a law of a signatory relating to inspection of equipment and facilities.</text>
@@ -777,58 +935,77 @@
       <text>During the existence of the Compact, the jurisdiction of the Interstate Compact Commission is suspended to the extent it is in conflict with the provisions of this subchapter.</text>
     </level>
   </level>
-  <text>Existing Rules, Regulations, Orders, and Decisions</text>
-  <text>3. All Commission rules, regulations, orders, or decisions that are in force on the effective date of this subchapter shall remain in effect and be enforceable under this subchapter, unless otherwise provided by the Commission.</text>
-  <text>Pending Actions or Proceedings</text>
-  <text>4. A suit, action, or other judicial proceeding commenced prior to the effective date of this subchapter by or against the Commission is not affected by the enactment of this subchapter and shall be prosecuted and determined under the law applicable at the time the proceeding was commenced.</text>
-  <text>Annual Report of the Commission</text>
-  <text>5. The Commission shall make an annual report for each fiscal year ending June 30, to the Governor of Virginia and the Governor of Maryland, and to the Mayor of the District of Columbia as soon as practicable after June 30, but no later than the first day of January of each year, which may contain, in addition to a report of the work performed under this subchapter, other information and recommendations concerning passenger transportation within the Metropolitan District as the Commission considers advisable.</text>
+  <text class="centered">Existing Rules, Regulations, Orders, and Decisions</text>
   <level>
-    <type>annotations</type>
+    <num>3.</num>
+    <text>All Commission rules, regulations, orders, or decisions that are in force on the effective date of this subchapter shall remain in effect and be enforceable under this subchapter, unless otherwise provided by the Commission.</text>
+  </level>
+  <text class="centered">Pending Actions or Proceedings</text>
+  <level>
+    <num>4.</num>
+    <text>A suit, action, or other judicial proceeding commenced prior to the effective date of this subchapter by or against the Commission is not affected by the enactment of this subchapter and shall be prosecuted and determined under the law applicable at the time the proceeding was commenced.</text>
+  </level>
+  <text class="centered">Annual Report of the Commission</text>
+  <level>
+    <num>5.</num>
+    <text>The Commission shall make an annual report for each fiscal year ending June 30, to the Governor of Virginia and the Governor of Maryland, and to the Mayor of the District of Columbia as soon as practicable after June 30, but no later than the first day of January of each year, which may contain, in addition to a report of the work performed under this subchapter, other information and recommendations concerning passenger transportation within the Metropolitan District as the Commission considers advisable.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 15, 1960, 74 Stat. 1031, Pub. L. 86-794, § 1; Oct. 9, 1962, 76 Stat. 765, Pub. L. 87-767, § 1; Mar. 16, 1989, D.C. Law 7-224, §§ 2, 3, 36 DCR 575; June 6, 1996, D.C. Law 11-138, § 3, 43 DCR 2142; Mar. 21, 2009, D.C. Law 17-318, § 2, 56 DCR 212.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-2411.</text>
-        <text>1973 Ed., § 1-1410.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-318, in section 1 of Article III of Title I of the compact, substituted "Virginia from the Department of Motor Vehicles of the Commonwealth of Virginia" for "Virginia from the State Corporation Commission of the Commonwealth of Virginia", substituted "from a District of Columbia agency with oversight of matters relating to the Commission" for "from the Public Service Commission of the District of Columbia", and added subsec. (d).</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>Section 2 of D.C. Law 17-299, in subsec. (a), substituted "from a District of Columbia agency with oversight of matters relating to the Commission" for "from the Public Service Commission of the District of Columbia"; and added subsec. (d) to read as follows:</text>
-        <text>"(d) An amendment to Section 1(a) of this Article shall not affect any member in office on the amendment's effective date.".</text>
-        <text>Section 3 of D.C. Law 17-299 provides:</text>
-        <text>"This act shall apply upon the adoption by the State of Maryland and the Commonwealth of Virginia of the amended language in section 2, and the consent or approval of the United States Congress."</text>
-        <text>Section 5(b) of D.C. Law 17-299 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2 of Washington Metropolitan Area Transit Commission District of Columbia Commissioner Emergency Amendment Act of 2008 (D.C. Act 17-561, October 27, 2008, 55 DCR 12015).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 7-224 was introduced in Council and assigned Bill No. 7-573, which was referred to the Committee on Public Works. The Bill was adopted on first and second readings on November 29, 1988 and December 13, 1988, respectively. Signed by the Mayor on January 6, 1989, it was assigned Act No. 7-299 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 11-138, the "Washington Metropolitan Area Transit Regulation Compact Amendment Act of 1996," was introduced in Council and assigned Bill No. 11-443, which was referred to the Committee on Public Services and Regional Authorities. The Bill was adopted on first and second readings on February 6, 1996, and April 2, 1996, respectively. Signed by the Mayor on April 15, 1996, it was assigned Act No. 11-253 and transmitted to both Houses of Congress for its review. D.C. Law 11-138 became effective on June 6, 1996.</text>
-        <text>Law 17-318, the "Washington Metropolitan Area Transit Commission Composition Amendment Act of 2008", was introduced in Council and assigned Bill No. 17-704 which was referred to the Committee on Public Works and the Environment. The Bill was adopted on first and second readings on November 18, 2008, and December 2, 2008, respectively. Signed by the Mayor on December 22, 2008, it was assigned Act No. 17-622 and transmitted to both Houses of Congress for its review. D.C. Law 17-318 became effective on March 21, 2009.</text>
-      </level>
-      <level>
-        <heading>Effective Dates</heading>
-        <text>Section 4 of D.C. Law 7-224 provided that this act shall not take effect until a similar act is passed by the Commonwealth of Virginia and the State of Maryland; the General Assembly of the Commonwealth of Virginia and the General Assembly of the State of Maryland are requested to concur in this act of the Council of the District of Columbia by the passage of a similar act; the District of Columbia shall notify the appropriate officials of the Commonwealth of Virginia and the State of Maryland of the passage of this act; and upon the concurrence of this act by the Commonwealth of Virginia and the State of Maryland, the Mayor of the District of Columbia shall issue a proclamation declaring this act valid and effective.</text>
-        <text>Section 5 of D.C. Law 11-138 provided that §§ 2, 3, and 4 shall take effect after those provisions have been adopted by the District of Columbia, the State of Maryland, and the Commonwealth of Virginia in a manner provided by law therefor, and have received the consent of Congress.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Adoption of amendments subject to Congressional consent: Pursuant to § 2 of D.C. Law 11-138, the District of Columbia adopted amendments to Article I of Title I and Articles III, VI, XIII, XIV, and XVI of Title III of the Washington Metropolitan Area Transit Regulation Compact as set forth in §§ 2 and 3 of the act, subject to the consent of Congress thereto and the fulfillment of the conditions in §§ 5 and 6 of the act.</text>
-        <text>Congressional ratification of Compact amendments:</text>
-        <text>Pub. L. 111-160 ratified D.C. Law 17-318.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Blind or deaf persons, entitlement to public accommodations, conveyances, see § 7-1002.</text>
+      <text>Persons displaced by Transit Authority acquisitions of real property, relocation, financial assistance, see § 6-333.01.</text>
+      <text>Public conveyances and accommodations, equal access for blind and physically disabled persons, see § 7-1002.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 9-1103.05, § 9-1105.01, § 9-1107.01, and § 50-2536.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-2411.</text>
+      <text>1973 Ed., § 1-1410.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-318, in section 1 of Article III of Title I of the compact, substituted "Virginia from the Department of Motor Vehicles of the Commonwealth of Virginia" for "Virginia from the State Corporation Commission of the Commonwealth of Virginia", substituted "from a District of Columbia agency with oversight of matters relating to the Commission" for "from the Public Service Commission of the District of Columbia", and added subsec. (d).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>Section 2 of D.C. Law 17-299, in subsec. (a), substituted "from a District of Columbia agency with oversight of matters relating to the Commission" for "from the Public Service Commission of the District of Columbia"; and added subsec. (d) to read as follows:</text>
+      <text>"(d) An amendment to Section 1(a) of this Article shall not affect any member in office on the amendment's effective date.".</text>
+      <text>Section 3 of D.C. Law 17-299 provided: "This act shall apply upon the adoption by the State of Maryland and the Commonwealth of Virginia of the amended language in section 2, and the consent or approval of the United States Congress."</text>
+      <text>Section 5(b) of D.C. Law 17-299 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2 of Washington Metropolitan Area Transit Commission District of Columbia Commissioner Emergency Amendment Act of 2008 (D.C. Act 17-561, October 27, 2008, 55 DCR 12015).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-224</heading>
+      <text>Law 7-224 was introduced in Council and assigned Bill No. 7-573, which was referred to the Committee on Public Works. The Bill was adopted on first and second readings on November 29, 1988 and December 13, 1988, respectively. Signed by the Mayor on January 6, 1989, it was assigned Act No. 7-299 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-138</heading>
+      <text>Law 11-138, the "Washington Metropolitan Area Transit Regulation Compact Amendment Act of 1996," was introduced in Council and assigned Bill No. 11-443, which was referred to the Committee on Public Services and Regional Authorities. The Bill was adopted on first and second readings on February 6, 1996, and April 2, 1996, respectively. Signed by the Mayor on April 15, 1996, it was assigned Act No. 11-253 and transmitted to both Houses of Congress for its review. D.C. Law 11-138 became effective on June 6, 1996.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-318</heading>
+      <text>Law 17-318, the "Washington Metropolitan Area Transit Commission Composition Amendment Act of 2008", was introduced in Council and assigned Bill No. 17-704 which was referred to the Committee on Public Works and the Environment. The Bill was adopted on first and second readings on November 18, 2008, and December 2, 2008, respectively. Signed by the Mayor on December 22, 2008, it was assigned Act No. 17-622 and transmitted to both Houses of Congress for its review. D.C. Law 17-318 became effective on March 21, 2009.</text>
+    </level>
+    <level>
+      <heading>Effective Dates</heading>
+      <text>Section 4 of D.C. Law 7-224 provided that this act shall not take effect until a similar act is passed by the Commonwealth of Virginia and the State of Maryland; the General Assembly of the Commonwealth of Virginia and the General Assembly of the State of Maryland are requested to concur in this act of the Council of the District of Columbia by the passage of a similar act; the District of Columbia shall notify the appropriate officials of the Commonwealth of Virginia and the State of Maryland of the passage of this act; and upon the concurrence of this act by the Commonwealth of Virginia and the State of Maryland, the Mayor of the District of Columbia shall issue a proclamation declaring this act valid and effective.</text>
+      <text>Section 5 of D.C. Law 11-138 provided that §§ 2, 3, and 4 shall take effect after those provisions have been adopted by the District of Columbia, the State of Maryland, and the Commonwealth of Virginia in a manner provided by law therefor, and have received the consent of Congress.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Adoption of amendments subject to Congressional consent: Pursuant to § 2 of D.C. Law 11-138, the District of Columbia adopted amendments to Article I of Title I and Articles III, VI, XIII, XIV, and XVI of Title III of the Washington Metropolitan Area Transit Regulation Compact as set forth in §§ 2 and 3 of the act, subject to the consent of Congress thereto and the fulfillment of the conditions in §§ 5 and 6 of the act.</text>
+      <text>Congressional ratification of Compact amendments: Pub. L. 111-160 ratified D.C. Law 17-318.</text>
     </level>
   </level>
 </level>

@@ -37,18 +37,18 @@
     <num>(f)</num>
     <text>The RBC instructions, RBC reports, adjusted RBC reports, RBC plans, and revised RBC plans shall only be used by the Commissioner in monitoring the solvency of health organizations and the need for possible corrective action and shall not be used by the Commissioner for ratemaking, or considered or introduced as evidence in any rate proceeding, nor used by the Commissioner to calculate or derive any elements of an appropriate premium level or rate of return for any line of insurance that a health organization or an affiliate is authorized to write.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 18, 2003, D.C. Law 14-312, § 108, 50 DCR 306.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-312, see notes following § 31-3851.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-3851.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-312</heading>
+      <text>For Law 14-312, see notes following § 31-3851.01.</text>
     </level>
   </level>
 </level>

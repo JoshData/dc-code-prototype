@@ -1,9 +1,9 @@
 <level type="section">
   <num>38-1835.01</num>
-  <heading>Biennial Evaluation of Charter School Authorizing Boards.</heading>
+  <heading>Evaluation of charter school authorizing boards.</heading>
   <level>
     <num>(a)</num>
-    <text>Biennial management evaluation of the District of Columbia Chartering Authorities for the District of Columbia Public Charter Schools shall be conducted by the Comptroller General of the United States.</text>
+    <text>Management evaluation of the District of Columbia Chartering Authorities for the District of Columbia Public Charter Schools shall be conducted by the Comptroller General of the United States every five years.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -30,7 +30,7 @@
     </level>
     <level>
       <num>(6)</num>
-      <text>Actual budget expenditures for the preceding 2 fiscal years.</text>
+      <text>Actual budget expenditures for the preceding 5 fiscal years.</text>
     </level>
     <level>
       <num>(7)</num>
@@ -42,29 +42,34 @@
     </level>
     <level>
       <num>(9)</num>
-      <text>Quality and timeliness of meeting § 38-1802.11(d), as amended.</text>
+      <text>Quality and timeliness of meeting section 38-1802.11(d), as amended.</text>
     </level>
   </level>
   <level>
     <num>(c)</num>
+    <heading>Initial interim report to Congress</heading>
     <text>The Government Accountability Office shall submit to the Committees on Appropriations of the House of Representatives and Senate, no later than May 1, 2005, a baseline report on the performance of each authorizer in meeting the requirements of the School Reform Act of 1995.</text>
   </level>
   <level>
     <num>(d)</num>
     <text>Hereafter § 38-1802.14(f), shall apply to the District of Columbia Board of Education Charter Schools Office.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Oct. 18, 2004, 118 Stat. 1352, Pub. L. 108-335, § 346.)</text>
+      <heading>History</heading>
+      <text>(Oct. 18, 2004, 118 Stat. 1352, Pub. L. 108-335, § 346; Dec. 23, 2011, 125 Stat. 786, Pub. L. 112-74, § 816.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>References in Text</heading>
-        <text>The School Reform Act of 1995, referred to in subsec. (c), is title II of Pub. L. 104-134, April 26, 1996, 110 Stat. 1321 [226], codified as Chapter 18 of Title 38.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Public Charter School Board, § 38-1802.14.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2011 amendment by Pub. L. 112-74 deleted "Biennial" in the section heading and at the beginning of (a); added "every five years" at the end of (a); substituted "5" for "2" in (b)(6); and made related changes.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>The School Reform Act of 1995, referred to in subsec. (c), is title II of Pub. L. 104-134, April 26, 1996, 110 Stat. 1321 226, codified as Chapter 18 of Title 38.</text>
     </level>
   </level>
 </level>

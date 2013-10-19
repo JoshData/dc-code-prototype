@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1604</num>
   <heading>AIDS testing standards, protocols, and appeals.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-224</formerly-cited-as>
   <level>
     <num>(a)</num>
     <level>
@@ -17,7 +16,7 @@
     <num>(b)</num>
     <level>
       <num>(1)</num>
-      <text>A named insured who tests positive under the testing protocol certified by the Commissioner may appeal to the Commissioner of Insurance and Securities to review the testing procedures and results, and may present additional medical evidence, including the results of similar tests for exposure to the probable causative agent of AIDS that the named insured independently obtains, to rebut the positive test results. If the Commissioner of Insurance and Securities determines that the result of the test of the proposed insured is not a true positive, the Commissioner of Insurance and Securities shall order the insurer from which the applicant sought coverage to disregard the positive test result. The Commissioner of Insurance and Securities shall, when necessary, request the advice of the Commissioner in making this determination.</text>
+      <text>A named insured who tests positive under the testing protocol certified by the Commissioner may appeal to the Commissioner of Insurance and Securities [Commissioner of the Department of Insurance, Securities, and Banking] to review the testing procedures and results, and may present additional medical evidence, including the results of similar tests for exposure to the probable causative agent of AIDS that the named insured independently obtains, to rebut the positive test results. If the Commissioner of Insurance and Securities [Commissioner of the Department of Insurance, Securities, and Banking] determines that the result of the test of the proposed insured is not a true positive, the Commissioner of Insurance and Securities [Commissioner of the Department of Insurance, Securities, and Banking] shall order the insurer from which the applicant sought coverage to disregard the positive test result. The Commissioner of Insurance and Securities [Commissioner of the Department of Insurance, Securities, and Banking] shall, when necessary, request the advice of the Commissioner in making this determination.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -28,28 +27,34 @@
       <text>An insurer shall apply standard underwriting practices, in accordance with applicable laws and rules of the District, to all life, health, or disability income insurance policies or contracts for individuals who test positive under the testing protocol certified by the Commissioner.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 7, 1986, D.C. Law 6-132, § 5, 33 DCR 3615; Mar. 16, 1989, D.C. Law 7-208, § 2(c), 36 DCR 471; May 21, 1997, D.C. Law 11-268, § 10(g), 44 DCR 1730.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-224.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-132, see Historical and Statutory Notes following § 31-1601.</text>
-        <text>For legislative history of D.C. Law 7-208, see Historical and Statutory Notes following § 31-1610.</text>
-        <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-2501.03.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Department of Insurance abolished: See Historical and Statutory Notes following § 31-2501.03.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1606.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-224.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-132</heading>
+      <text>For legislative history of D.C. Law 6-132, see Historical and Statutory Notes following § 31-1601.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-208</heading>
+      <text>For legislative history of D.C. Law 7-208, see Historical and Statutory Notes following § 31-1610.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-2501.03.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Department of Insurance abolished: See Historical and Statutory Notes following § 31-2501.03.</text>
     </level>
   </level>
 </level>

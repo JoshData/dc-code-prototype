@@ -1,31 +1,29 @@
 <level type="section">
   <num>2-804</num>
   <heading>Installation and removal of electrical facilities.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-1054</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Installation.</text> -- The Mayor of the District of Columbia may allow the Inaugural Committee to install suitable overhead conductors and electrical facilities, with adequate supports. The official in charge of a park or reservation in the District of Columbia in which it is necessary to place wires shall supervise the placing and removal of those wires.</text>
+    <heading>Installation</heading>
+    <text>The Mayor of the District of Columbia may allow the Inaugural Committee to install suitable overhead conductors and electrical facilities, with adequate supports. The official in charge of a park or reservation in the District of Columbia in which it is necessary to place wires shall supervise the placing and removal of those wires.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Removal.</text> -- The conductors and supports shall be removed not later than 5 days after the end of the inaugural period.</text>
+    <heading>Removal</heading>
+    <text>The conductors and supports shall be removed not later than 5 days after the end of the inaugural period.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Indemnification.</text> -- The United States Government and the District of Columbia may not incur any expense or damage from the installation, operation, or removal of a temporary overhead conductor or electrical facility. The Inaugural Committee shall indemnify and hold harmless the District of Columbia and the appropriate department, agency, or instrumentality of the Government against any loss or damage, and against any liability arising, from any act of the Inaugural Committee or any agent, licensee, servant, or employee of the Inaugural Committee in connection with the installation, operation, or removal of a temporary overhead conductor or electrical facility.</text>
+    <heading>Indemnification</heading>
+    <text>The United States Government and the District of Columbia may not incur any expense or damage from the installation, operation, or removal of a temporary overhead conductor or electrical facility. The Inaugural Committee shall indemnify and hold harmless the District of Columbia and the appropriate department, agency, or instrumentality of the Government against any loss or damage, and against any liability arising, from any act of the Inaugural Committee or any agent, licensee, servant, or employee of the Inaugural Committee in connection with the installation, operation, or removal of a temporary overhead conductor or electrical facility.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 12, 1998, 112 Stat. 1264, Pub. L. 105-225, § 504.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-1054.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-1054.</text>
     </level>
   </level>
 </level>

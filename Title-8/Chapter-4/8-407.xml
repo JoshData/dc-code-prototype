@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-407</num>
   <heading>Liability insurance.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-751.7</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor shall not issue a pesticide operator's license until the applicant has furnished evidence of financial responsibility in the form of liability insurance for the protection of persons who may suffer damages as a result of the operations of the applicant.</text>
@@ -16,24 +15,24 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>Nothing in this chapter shall be construed to relieve any person from liability for any damages to the person or lands of another caused by the use of pesticides even though such use conforms to regulations prescribed by the Mayor.</text>
+    <text>Nothing in this subchapter shall be construed to relieve any person from liability for any damages to the person or lands of another caused by the use of pesticides even though such use conforms to regulations prescribed by the Mayor.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 18, 1978, D.C. Law 2-70, § 8, 24 DCR 6867.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-751.7.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-70, see Historical and Statutory Notes following § 8-401.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-406 and § 8-408.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-751.7.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-70</heading>
+      <text>For legislative history of D.C. Law 2-70, see Historical and Statutory Notes following § 8-401.</text>
     </level>
   </level>
 </level>

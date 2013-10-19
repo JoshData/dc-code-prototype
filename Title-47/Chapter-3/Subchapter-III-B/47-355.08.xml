@@ -1,24 +1,23 @@
 <level type="section">
   <num>47-355.08</num>
   <heading>Notice requirement.</heading>
-  <text>Within 30 days of [April 4, 2003], the Mayor shall issue an administrative order advising all District agency heads, deputy agency heads, chief financial officers, agency budget directors, agency controllers, and other managers of the requirement of this subchapter.</text>
-  <level>
-    <type>annotations</type>
+  <text>Within 30 days of the effective date of this subchapter [April 4, 2003], the Mayor shall issue an administrative order advising all District agency heads, deputy agency heads, chief financial officers, agency budget directors, agency controllers, and other managers of the requirement of this subchapter.</text>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 4, 2003, D.C. Law 14-285, § 2, 50 DCR 940; Mar. 13, 2004, D.C. Law 15-105, § 77(a), 51 DCR 881.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-105 validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-285, see notes following § 47-355.01.</text>
-        <text>For Law 15-105, see notes following § 47-340.22.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-105 validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-285</heading>
+      <text>For Law 14-285, see notes following § 47-355.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>For Law 15-105, see notes following § 47-340.22.</text>
     </level>
   </level>
 </level>

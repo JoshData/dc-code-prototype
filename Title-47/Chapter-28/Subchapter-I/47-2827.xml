@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-2827</num>
   <heading>Commission merchants in food; bakeries; bottling, candy-manufacturing, and ice cream manufacturers; groceries; markets; delicatessens; restaurants; private clubs; wholesale fish dealers; dairies.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-2827</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Commission merchants dealing in food or food products shall pay a license fee of $645 per annum.</text>
@@ -53,21 +52,24 @@
     <level>
       <num>(1)</num>
       <text>Owners or managers of restaurants or private clubs shall pay a license fee based upon seating capacity as follows:</text>
+      <level type="form">
+        <text/>
+      </level>
+      <level>
+        <num>(A)</num>
+        <text>0-10 seats .......................................... $133 per annum; </text>
+        <level type="form">
+          <text> 
+ (B) 11-50 seats ......................................... $166 per annum; 
+ 
+
+ (C) 51-100 seats .................................... $199 per annum; and 
+ 
+
+ (D) 101 seats and over .................................. $232 per annum.</text>
+        </level>
+      </level>
     </level>
-  </level>
-  <text>
-    <text font="'monospace'"> (A) 0-10 seats ....................................... $133 per annum;</text>
-  </text>
-  <text>
-    <text font="'monospace'"> (B) 11-50 seats ...................................... $166 per annum;</text>
-  </text>
-  <text>
-    <text font="'monospace'"> (C) 51-100 seats ................................. $199 per annum; and</text>
-  </text>
-  <text>
-    <text font="'monospace'"> (D) 101 seats and over ............................... $232 per annum.</text>
-  </text>
-  <level>
     <level>
       <num>(2)</num>
       <text>Within the meaning of this subsection a restaurant shall be any place where food or refreshments are served to transient customers to be eaten on the premises where sold.</text>
@@ -105,56 +107,79 @@
     <num>(k)</num>
     <text>The Mayor may adjust, by rule, the fees established by this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 1, 1902, 32 Stat. 626, ch. 1352, § 7, par. 27; July 1, 1932, 47 Stat. 554, ch. 366; Sept. 14, 1976, D.C. Law 1-82, title I, § 104(r), 23 DCR 2461; Sept. 29, 1988, D.C. Law 7-173, § 6, 35 DCR 5758; Sept. 26, 1995, D.C. Law 11-52, § 302(e), 42 DCR 3684; enacted, Apr. 9, 1997, D.C. Law 11- 254, § 2, 44 DCR 1575; Apr. 20, 1999, D.C. Law 12-261, § 2003(pp)(24), 46 DCR 3142; Oct. 4, 2000, D.C. Law 13-166, 3(d), 47 DCR 5821; Oct. 28, 2003, D.C. Law 15-38, § 3(hh)(4)(N), 50 DCR 6913; Sept. 24, 2010, D.C. Law 18-223, § 5052, 57 DCR 6242.)</text>
+      <heading>History</heading>
+      <text>(July 1, 1902, 32 Stat. 626, ch. 1352, § 7, par. 27; July 1, 1932, 47 Stat. 554, ch. 366; Sept. 14, 1976, D.C. Law 1-82, title I, § 104(r), 23 DCR 2461; Sept. 29, 1988, D.C. Law 7-173, § 6, 35 DCR 5758; Sept. 26, 1995, D.C. Law 11-52, § 302(e), 42 DCR 3684; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Apr. 20, 1999, D.C. Law 12-261, § 2003(pp)(24), 46 DCR 3142; Oct. 4, 2000, D.C. Law 13-166, 3(d), 47 DCR 5821; Oct. 28, 2003, D.C. Law 15-38, § 3(hh)(4)(N), 50 DCR 6913; Sept. 24, 2010, D.C. Law 18-223,§ 5052, 57 DCR 6242.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-2827.</text>
-        <text>1973 Ed., § 47-2327.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-166, rewrote subsec. (b)(3), which previously read:</text>
-        <text>"(A) Subject to the provisions of subparagraph (B) of this paragraph a grocery store that is a supermarket development as that term is defined in § 47-3801(3) in an underserved area of the District approved pursuant to § 47-3803, shall be exempt from the license fee imposed by this subsection for the first 5 years beginning after the date of issuance of the final certificate of occupancy for the supermarket.</text>
-        <text>"(B) The license fee exemption granted by subparagraph (A) of this paragraph shall apply:</text>
-        <text>"(i) Only during the time that the real property is used as a supermarket;</text>
-        <text>"(ii) In the case of a supermarket development on real property not owned by the supermarket, only if the owner of the real property leases the land or structure to the supermarket at a rent reduced from the fair market rent by an amount equal to the amount of the real property tax exemption provided by § 47- 1002(23);</text>
-        <text>"(iii) Only during the time that the supermarket development is in compliance with the requirements of § 1-1161 et seq.; and</text>
-        <text>"(iv) In the case of a supermarket development that is a new supermarket, only if at the time construction of the new supermarket commenced no other supermarket, as that term is defined in § 47-3801(2), existed within a one mile radius of the new supermarket."</text>
-        <text>D.C. Law 15-38, in subsec. (i), substituted "Food Establishments: Wholesale endorsement to a basic business license under the basic" for "Class A Food Establishments: Wholesale endorsement to a master business license under the master"; and in subsec. (j), substituted "Food Establishments: Retail endorsement to a basic business license under the basic" for "Class A Food Establishments: Retail endorsement to a master business license under the master".</text>
-        <text>D.C. Law 18-223 added subsec. (k).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of section, see § 302(e) of the Omnibus Budget Support Emergency Act of 1995 (D.C. Act 11-44, April 28, 1995, 42 DCR 2217) and § 302(e) of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995, 42 DCR 4160).</text>
-        <text>For temporary amendment of D.C. Act 11-44, see § 303 of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995, 42 DCR 4160).</text>
-        <text>For temporary (90 day) amendment of section, see § 3(hh)(4)(N) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003, 50 DCR 6896).</text>
-        <text>For temporary (90 day) amendment of section, see § 5052 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 1-82, see Historical and Statutory Notes following § 47-2808.</text>
-        <text>For legislative history of D.C. Law 7-173, see Historical and Statutory Notes following § 47-3801.</text>
-        <text>For legislative history of D.C. Law 11-52, see Historical and Statutory Notes following § 47-2809.</text>
-        <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
-        <text>Law 13-166, the "Supermarket Tax Exemption Act of 2000," was introduced in Council and assigned Bill No. 13-88, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on May 3, 2000, and June 6, 2000, respectively. Signed by the Mayor on June 26, 2000, it was assigned Act No. 13-365 and transmitted to both Houses of Congress for its review. D.C. Law 13-166 became effective on October 4, 2000.</text>
-        <text>For Law 15-38, see notes following § 47-2404.</text>
-        <text>For Law 18-223, see notes following § 47-355.05.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority pursuant to an Act Making Appropriations to provide for the expenses of the government of the District of Columbia for the fiscal year ending June thirtieth, nineteen hundred and three, and for other purposes, see Mayor's Order 98-139, August 20, 1998 (45 DCR 6591).</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 5051 of D.C. Law 18-223 provided that subtitle F of title V of the act may be cited as the "Department of Health Fee Modifications Amendment Act of 2010".</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Mayor, Council and other offices, application of certain sections to boards, commissions and committees, see § 1-321.02.</text>
+      <text>Supermarket tax incentives, "supermarket" defined, see § 47-3801.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-102.01, § 47-3801, § 47-3802, and § 48-108.01.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-2827.</text>
+      <text>1973 Ed., § 47-2327.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-166, rewrote subsec. (b)(3), which previously read:</text>
+      <text>"(A) Subject to the provisions of subparagraph (B) of this paragraph a grocery store that is a supermarket development as that term is defined in § 47-3801(3) in an underserved area of the District approved pursuant to § 47-3803, shall be exempt from the license fee imposed by this subsection for the first 5 years beginning after the date of issuance of the final certificate of occupancy for the supermarket.</text>
+      <text>"(B) The license fee exemption granted by subparagraph (A) of this paragraph shall apply:</text>
+      <text>"(i) Only during the time that the real property is used as a supermarket;</text>
+      <text>"(ii) In the case of a supermarket development on real property not owned by the supermarket, only if the owner of the real property leases the land or structure to the supermarket at a rent reduced from the fair market rent by an amount equal to the amount of the real property tax exemption provided by § 47-1002(23);</text>
+      <text>"(iii) Only during the time that the supermarket development is in compliance with the requirements of § 1-1161 et seq.; and</text>
+      <text>"(iv) In the case of a supermarket development that is a new supermarket, only if at the time construction of the new supermarket commenced no other supermarket, as that term is defined in § 47-3801(2), existed within a one mile radius of the new supermarket."</text>
+      <text>D.C. Law 15-38, in subsec. (i), substituted "Food Establishments: Wholesale endorsement to a basic business license under the basic" for "Class A Food Establishments: Wholesale endorsement to a master business license under the master"; and in subsec. (j), substituted "Food Establishments: Retail endorsement to a basic business license under the basic" for "Class A Food Establishments: Retail endorsement to a master business license under the master".</text>
+      <text>D.C. Law 18-223 added subsec. (k).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 302(e) of the Omnibus Budget Support Emergency Act of 1995 (D.C. Act 11-44, April 28, 1995, 42 DCR 2217) and § 302(e) of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995, 42 DCR 4160).</text>
+      <text>For temporary amendment of D.C. Act 11-44, see § 303 of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995, 42 DCR 4160).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(hh)(4)(N) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003, 50 DCR 6896).</text>
+      <text>For temporary (90 day) amendment of section, see § 5052 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-82</heading>
+      <text>For legislative history of D.C. Law 1-82, see Historical and Statutory Notes following § 47-2808.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-173</heading>
+      <text>For legislative history of D.C. Law 7-173, see Historical and Statutory Notes following § 47-3801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-52</heading>
+      <text>For legislative history of D.C. Law 11-52, see Historical and Statutory Notes following § 47-2809.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-261</heading>
+      <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-166</heading>
+      <text>Law 13-166, the "Supermarket Tax Exemption Act of 2000," was introduced in Council and assigned Bill No. 13-88, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on May 3, 2000, and June 6, 2000, respectively. Signed by the Mayor on June 26, 2000, it was assigned Act No. 13-365 and transmitted to both Houses of Congress for its review. D.C. Law 13-166 became effective on October 4, 2000.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-38</heading>
+      <text>For Law 15-38, see notes following § 47-2404.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 47-355.05.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 5051 of D.C. Law 18-223 provided that subtitle F of title V of the act may be cited as the "Department of Health Fee Modifications Amendment Act of 2010".</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority pursuant to an Act Making Appropriations to provide for the expenses of the government of the District of Columbia for the fiscal year ending June thirtieth, nineteen hundred and three, and for other purposes, see Mayor's Order 98-139, August 20, 1998 (45 DCR 6591).</text>
     </level>
   </level>
 </level>

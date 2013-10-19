@@ -21,31 +21,30 @@
     <num>(e)</num>
     <text>Whether an electronic record or electronic signature has legal consequences is determined by this chapter and other applicable law.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 3, 2001, D.C. Law 14-28, § 3502(b), 48 DCR 6981; Mar. 13, 2004, D.C. Law 15-105, § 64, 51 DCR 881.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-105 validated previously made technical corrections.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 3202(b) of Fiscal Year 2002 Budget Support Emergency Act of 2001 (D.C. Act 14-124, August 3, 2001, 48 DCR 7861).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-28, see notes following § 28-4901.</text>
-        <text>For Law 15-105, see notes following § 28-3904.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 5 of the Uniform Electronic Transactions Act (1999 Act). See 7A, Pt. I, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-105 validated previously made technical corrections.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 3202(b) of Fiscal Year 2002 Budget Support Emergency Act of 2001 (D.C. Act 14-124, August 3, 2001, 48 DCR 7861).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-28</heading>
+      <text>For Law 14-28, see notes following § 28-4901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>For Law 15-105, see notes following § 28-3904.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 5 of the Uniform Electronic Transactions Act (1999 Act).</text>
     </level>
   </level>
 </level>

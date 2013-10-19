@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Procurement Related Claims.</heading>
+  <heading>Procurement Related Claims</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-381.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-381.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-381.03.xml"/>
@@ -11,4 +11,5 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-381.07.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-381.08~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-381.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-381.10.xml"/>
 </level>

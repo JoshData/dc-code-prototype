@@ -1,14 +1,13 @@
 <level type="section">
   <num>47-2001</num>
   <heading>Definitions.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-2001</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>[Repealed].</text>
+    <text>Repealed.</text>
   </level>
   <level>
     <num>(a-1)</num>
-    <text>"Additional charges" means the excess of the sale or charge receipts received by a room remarketer over the net charges.</text>
+    <text>"Additional charges" means the excess of the gross receipts from the sale of or charges for any room or accommodations received by a room remarketer over the net charges.</text>
   </level>
   <level>
     <num>(a-2)</num>
@@ -20,7 +19,7 @@
   </level>
   <level>
     <num>(b-1)</num>
-    <text>"Cigar" means any roll for smoking, other than a cigarette as defined in § 47-2401(1), made wholly or in part of tobacco, and where the wrapper or cover of the roll is made of natural leaf tobacco or any substance containing tobacco.</text>
+    <text>"Cigar" means any roll for smoking, other than a cigarette as defined in § 47-2401(1) [§ 47-2401(1A)], made wholly or in part of tobacco, and where the wrapper or cover of the roll is made of natural leaf tobacco or any substance containing tobacco.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -56,7 +55,7 @@
   </level>
   <level>
     <num>(h-1)</num>
-    <text>"Net charges" means the sale or charge receipts for any room or rooms, lodgings, or accommodations furnished to transients, received from a room remarketer by the operator of a hotel, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients for a consideration.</text>
+    <text>"Net charges" means the gross receipts from the sale of or charges for any room or accommodations received from a room remarketer by the operator of a hotel, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients for a consideration.</text>
   </level>
   <level>
     <num>(h-2)</num>
@@ -414,7 +413,7 @@
       </level>
       <level>
         <num>(T)</num>
-        <text>The sale of a prepaid telephone calling card, even if no card has been issued. Notwithstanding any other provision of law, any sale of a prepaid telephone calling card on or after October 1, 1997, shall be deemed the sale of tangible personal property subject only to such taxes as are imposed on the sale of food for immediate consumption as defined under subsection (g-1) of this section, even where no card has been issued. Gross receipts or charges from the sale of the telecommunication service purchased through the use of a prepaid telephone calling card, even if no card has been issued, shall not be subject to the taxes imposed under § 47-2501 et seq.; or or § 47-3901 et seq.; or</text>
+        <text>The sale of a prepaid telephone calling card, even if no card has been issued. Notwithstanding any other provision of law, any sale of a prepaid telephone calling card on or after October 1, 1997, shall be deemed the sale of tangible personal property subject only to such taxes as are imposed on the sale of food for immediate consumption as defined under subsection (g-1) of this section, even where no card has been issued. Gross receipts or charges from the sale of the telecommunication service purchased through the use of a prepaid telephone calling card, even if no card has been issued, shall not be subject to the taxes imposed under § 47-2501 et seq.; or § 47-3901 et seq.; or</text>
       </level>
       <level>
         <num>(U)</num>
@@ -446,7 +445,7 @@
       </level>
       <level>
         <num>(F)</num>
-        <text>Sales of Internet access service--</text>
+        <text>Sales of Internet access service -</text>
         <level>
           <num>(i)</num>
           <text>For the purposes of this subparagraph, the term "Internet access service" means a service that enables users to access content, information, electronic mail, or other services offered over the Internet and may also include access to proprietary content, information, and other services as part of a package of Internet access services offered to consumers.</text>
@@ -484,7 +483,7 @@
   </level>
   <level>
     <num>(o-1)</num>
-    <text>"Room remarketer " means any person, other than the operator of a hotel, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients for a consideration, having any right, access, ability, or authority, through an internet transaction or any other means whatsoever, to offer, reserve, book, arrange for, remarket, distribute, broker, resell, or facilitate the transfer of rooms the occupancy of which is subject to tax under this chapter and also having any right, access, ability or authority to determine the sale or charge for the rooms, lodgings, or accommodations.</text>
+    <text>"Room remarketer" means any person, other than the operator of a hotel, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients for a consideration, having any right, access, ability, or authority, through an internet transaction or any other means whatsoever, to offer, reserve, book, arrange for, remarket, distribute, broker, resell, or facilitate the transfer of rooms the occupancy of which is subject to tax under this chapter and also having any right, access, ability or authority to determine the sale or charge for the rooms, lodgings, or accommodations.</text>
   </level>
   <level>
     <num>(p)</num>
@@ -621,10 +620,6 @@
     <text>"Tax year" means the calendar year, or the taxpayer's fiscal year if it be other than the calendar year when such fiscal year is regularly used by the taxpayer for the purpose of reporting District income taxes as the tax period in lieu of the calendar year.</text>
   </level>
   <level>
-    <num>(v-1)</num>
-    <text>"Transient" means any person who occupies, or has the right to occupy, any room or rooms, lodgings, or accommodations for a period of 90 days or less during any one continuous stay.</text>
-  </level>
-  <level>
     <num>(w)</num>
     <text>"Vendor" includes a person or retailer, including a nexus-vendor, selling property or rendering services upon the receipts from which a tax is imposed under this chapter.</text>
   </level>
@@ -643,153 +638,262 @@
     <num>(x)</num>
     <text>The foregoing definitions shall be applicable whenever the words defined are used in this chapter unless otherwise required by the context.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(May 27, 1949, 63 Stat. 112, ch. 146, title I, §§ 101-124; May 18, 1954, 68 Stat. 117, ch. 218, title XIII, §§ 1301, 1302; Mar. 31, 1956, 70 Stat. 80, ch. 154, title II, §§ 201-203; Sept. 2, 1964, 78 Stat. 847, Pub. L. 88-564, § 1; Aug. 2, 1968, 82 Stat. 613, Pub. L. 90-450, title III, §§ 301, 302, 303; Oct. 31, 1969, 83 Stat. 169, Pub. L. 91-106, title I, §§ 101, 102, 103; Jan. 5, 1971, 84 Stat. 1932, Pub. L. 91-650, title II, § 201(a)(1); Sept. 3, 1974, 88 Stat. 1064, Pub. L. 93-407, title IV, § 473; Jan. 3, 1975, 88 Stat. 2177, Pub. L. 93-635, § 8(b); Oct. 21, 1975, D.C. Law 1-23, title III, § 301(1)-(6), 22 DCR 2097; Apr. 9, 1976, D.C. Law 1-61, § 2, 22 DCR 5893; June 15, 1976, D.C. Law 1-70, title IV, §§ 401, 402, 23 DCR 533; June 24, 1977, D.C. Law 2-11, § 2, 24 DCR 1773; Sept. 13, 1980, D.C. Law 3-92, § 201(a), 27 DCR 3390; Apr. 30, 1982, D.C. Law 4-105, § 2, 29 DCR 1405; July 24, 1982, D.C. Law 4-131, §§ 201, 202, 223, 29 DCR 2418; Sept. 26, 1984, D.C. Law 5-113, § 201(a), (d), 31 DCR 3974; Apr. 30, 1988, D.C. Law 7- 104, § 38, 35 DCR 147; July 26, 1989, D.C. Law 8-17, § 4(a), 36 DCR 4160; May 4, 1990, D.C. Law 8-119, § 3, 37 DCR 1738; Sept. 10, 1992, D.C. Law 9-145, § 107(a), 39 DCR 4895; Sept. 30, 1993, D.C. Law 10-25, § 111(a)-(d), 40 DCR 5489; Feb. 5, 1994, D.C. Law 10-68, § 46, 40 DCR 6311; Apr. 30, 1994, D.C. Law 10-115, § 203(a), 41 DCR 1216; June 14, 1994, D.C. Law 10- 128, § 104(a), 41 DCR 2096; Mar. 21, 1995, D.C. Law 10-242, § 14(a), 42 DCR 86; Apr. 18, 1996, D.C. Law 11-110, § 59, 43 DCR 530; Apr. 12, 1997, D.C. Law 11-257, § 6, 44 DCR 1247; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Apr. 30, 1998, D.C. Law 12-100, § 2(b), 45 DCR 1533; Oct. 20, 1999, D.C. Law 13-38, § 2702(k), 46 DCR 6373; Apr. 3, 2001, D.C. Law 13- 256, § 402(a), 48 DCR 730; June 9, 2001, D.C. Law 13-305, § 102(a), 202(f), 48 DCR 334; June 25, 2002, D.C. Law 14-157, § 2(a), 49 DCR 4279; Oct. 1, 2002, D.C. Law 14-190, § 852, 49 DCR 6968; Oct. 19, 2002, D.C. Law 14-213, § 33(u), 49 DCR 8140; Mar. 13, 2004, D.C. Law 15-105, § 85(a), 51 DCR 881; Oct. 20, 2005, D.C. Law 16-33, § 1232, 52 DCR 7503; May 12, 2006, D.C. Law 16-94, § 2(a), 53 DCR 1649; Sept. 23, 2009, D.C. Law 18-48, § 2(a)(1), 56 DCR 5482; Sept. 23, 2009, D.C. Law 18-55, § 9(a)(4), 56 DCR 5703; Mar. 3, 2010, D.C. Law 18-111, § 7241(e), 57 DCR 181; Sept. 24, 2010, D.C. Law 18-223, § 7172, 57 DCR 6242; Apr. 8, 2011, D.C. Law 18-364, § 2(a), 58 DCR 976; Sept. 14, 2011, D.C. Law 19-21, §§ 7002(a)(1), 8032(a), 8052(a), 8162, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 7112, 59 DCR 8025; Sept. 26, 2012, D.C. Law 19-171, §§ 114(m), 120, 59 DCR 6190.)</text>
+      <heading>History</heading>
+      <text>(May 27, 1949, 63 Stat. 112, ch. 146, title I, §§ 101-124; May 18, 1954, 68 Stat. 117, ch. 218, title XIII, §§ 1301, 1302; Mar. 31, 1956, 70 Stat. 80, ch. 154, title II, §§ 201-203; Sept. 2, 1964, 78 Stat. 847, Pub. L. 88-564, § 1; Aug. 2, 1968, 82 Stat. 613, Pub. L. 90-450, title III, §§ 301, 302, 303; Oct. 31, 1969, 83 Stat. 169, Pub. L. 91-106, title I, §§ 101, 102, 103; Jan. 5, 1971, 84 Stat. 1932, Pub. L. 91-650, title II, § 201(a)(1); Sept. 3, 1974, 88 Stat. 1064, Pub. L. 93-407, title IV, § 473; Jan. 3, 1975, 88 Stat. 2177, Pub. L. 93-635, § 8(b); Oct. 21, 1975, D.C. Law 1-23, title III, § 301(1)-(6), 22 DCR 2097; Apr. 9, 1976, D.C. Law 1-61, § 2, 22 DCR 5893; June 15, 1976, D.C. Law 1-70, title IV, §§ 401, 402, 23 DCR 533; June 24, 1977, D.C. Law 2-11, § 2, 24 DCR 1773; Sept. 13, 1980, D.C. Law 3-92, § 201(a), 27 DCR 3390; Apr. 30, 1982, D.C. Law 4-105, § 2, 29 DCR 1405; July 24, 1982, D.C. Law 4-131, §§ 201, 202, 223, 29 DCR 2418; Sept. 26, 1984, D.C. Law 5-113, § 201(a), (d), 31 DCR 3974; Apr. 30, 1988, D.C. Law 7-104, § 38, 35 DCR 147; July 26, 1989, D.C. Law 8-17, § 4(a), 36 DCR 4160; May 4, 1990, D.C. Law 8-119, § 3, 37 DCR 1738; Sept. 10, 1992, D.C. Law 9-145, § 107(a), 39 DCR 4895; Sept. 30, 1993, D.C. Law 10-25, § 111(a)-(d), 40 DCR 5489; Feb. 5, 1994, D.C. Law 10-68, § 46, 40 DCR 6311; Apr. 30, 1994, D.C. Law 10-115, § 203(a), 41 DCR 1216; June 14, 1994, D.C. Law 10-128, § 104(a), 41 DCR 2096; Mar. 21, 1995, D.C. Law 10-242, § 14(a), 42 DCR 86; Apr. 18, 1996, D.C. Law 11-110, § 59, 43 DCR 530; Apr. 12, 1997, D.C. Law 11-257, § 6, 44 DCR 1247; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Apr. 30, 1998, D.C. Law 12-100, § 2(b), 45 DCR 1533; Oct. 20, 1999, D.C. Law 13-38, § 2702(k), 46 DCR 6373; Apr. 3, 2001, D.C. Law 13-256, § 402(a), 48 DCR 730; June 9, 2001, D.C. Law 13-305, § 102(a), 202(f), 48 DCR 334; June 25, 2002, D.C. Law 14-157, § 2(a), 49 DCR 4279; Oct. 1, 2002, D.C. Law 14-190, § 852, 49 DCR 6968; Oct. 19, 2002, D.C. Law 14-213, § 33(u), 49 DCR 8140; Mar. 13, 2004, D.C. Law 15-105, § 85(a), 51 DCR 881; Oct. 20, 2005, D.C. Law 16-33, § 1232, 52 DCR 7503; May 12, 2006, D.C. Law 16-94, § 2(a), 53 DCR 1649; Sept. 23, 2009, D.C. Law 18-48, § 2(a)(1), 56 DCR 5482; Sept. 23, 2009, D.C. Law 18-55, § 9(a)(4), 56 DCR 5703; Mar. 3, 2010, D.C. Law 18-111, § 7241(e), 57 DCR 181; Sept. 24, 2010, D.C. Law 18-223, § 7172, 57 DCR 6242; Apr. 8, 2011, D.C. Law 18-364, § 2(a), 58 DCR 976; Sept. 14, 2011, D.C. Law 19-21, §§ 7002(a)(1), 8032(a), 8052(a), 8162, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 7112, 59 DCR 8025; Sept. 26, 2012, D.C. Law 19-171, §§ 114(m), 120, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-2001.</text>
-        <text>1973 Ed., § 47-2601.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-38 added subsec. (n)(2)(F).</text>
-        <text>D.C. Law 13-256 added subsec. (n)(2)(G).</text>
-        <text>D.C. Law 13-305 repealed subsec. (g-2); repealed subpar. (iii) of subsec. (n)(1)(A); rewrote subsec. (n)(2)(E); in subsec. (r) struck the sentence "For the purpose of this chapter, an organization or institution which does not embrace the generally recognized relationship of teacher and student shall be deemed not to be operated for educational purposes."; and added subsec. (w)(1).</text>
-        <text>Prior to repeal, subsec. (g-2) had read:</text>
-        <text>"(g-2) "Snack food" includes, but is not limited to, potato chips and sticks; corn or tortilla chips; pretzels; cookies; popped popcorn; pork rinds; cheese puffs and curls; crackers; fabricated snacks; snack cakes and pies, such as donuts, cake and pie slices, and other pastries that are baked or fried in, or sliced into, individual serving sizes; candy; chewing gum; nuts and edible seeds; marshmallows; mixtures that contain one or more snack foods; soft drinks; and fruit or vegetable drinks that contain less than 15% natural fruit or vegetable juice by volume. "Snack food" includes only those items that are sold suitable for consumption without further processing such as heating, cooking, or thawing. The term "snack food" does not include any food or drink included in subsection (g-1) of this section."</text>
-        <text>Prior to repeal, subpar. (iii) of subsec. (n)(1)(A) had read:</text>
-        <text>"(iii) Sales of snack food as defined in subsec. (g-2) of this section;"</text>
-        <text>Prior to amendment, subsec. (n)(2)(E) read:</text>
-        <text>"(E) Sales of food or drink as defined in subsection (g) of this section, except sales of food or drink for immediate consumption as defined in subsection (g-1) of this section, and snack food as defined in subsection (g-2) of this section; or"</text>
-        <text>D.C. Law 14-157, in subsec. (n)(1)(E), substituted "resold. This section shall not apply to the sale of material for the purpose of subsequently transporting the property outside the District for use solely outside the District;" for "resold;".</text>
-        <text>D.C. Law 14-190, in subsec. (n), added par. (1)(L)(iv-I), made nonsubstantive changes in pars. (2)(F) and (2)(G), and added par. (2)(H).</text>
-        <text>D.C. Law 14-213, in subsec. (n)(2)(F), validated a previously made technical correction.</text>
-        <text>D.C. Law 15-105, in subsec. (n)(1)(E), substituted "resold, however, this section" for "resold. This section".</text>
-        <text>D.C. Law 16-33, designated the existing text of subsec. (n)(1)(M)(i) as subsec. (n)(1)(M)(i)(I); and added subsec. (n)(1)(M)(i)(II).</text>
-        <text>D.C. Law 16-94 added subsec. (v-1).</text>
-        <text>D.C. Law 18-48, in subsec. (n)(1)(D), deleted ", when made to any purchaser for purposes other than resale or for use in manufacturing, assembling, processing, or refining" following "steam".</text>
-        <text>D.C. Law 18-55, in subsec. (n)(2), deleted "; or" from the end of subpar. (G); substituted "; or" for a period at the end of subpar. (H), and added par. (I).</text>
-        <text>D.C. Law 18-111 added subsecs. (b-1) and (i-1); and rewrote subsecs. (v-1), which had read as follows:</text>
-        <text>"(v-1)(1) 'Tobacco products other than cigarettes' means:</text>
-        <text>"(A) Any cigar or roll for smoking, other than a cigarette or premium cigar, made in whole or in part of tobacco; or</text>
-        <text>"(B) Any other tobacco or product made primarily from tobacco, other than a cigarette, premium cigar, or pipe tobacco that is intended for consumption by smoking, by chewing, or as snuff.</text>
-        <text>"(2) For the purposes of this subsection, the term 'premium cigar' means any individual cigars with a retail cost of $2.00 or more, or packaged units of cigars averaging $2.00 or more per packaged cigar at retail."</text>
-        <text>D.C. Law 18-223 added subsecs. (r-1) and (n)(1)(A)(iv); and, in subsec. (n)(2)(E), substituted "for immediate consumption and soft drinks;" for "for immediate consumption;".</text>
-        <text>D.C. Law 18-364 rewrote subsec. (n)(1)(C), which had read as follows:</text>
-        <text>"(C) The sale or charge for any room or rooms, lodgings, or accommodations furnished to transients by any hotel, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients for a consideration. The term 'transient' means any person who occupies or who has the right to occupy any room or rooms, lodgings, or accommodations for a period of 90 days or less during any 1 continuous stay;"</text>
-        <text>D.C. Law 19-21 added subsecs. (a-1), (a-2), (h-1), (h-2), (i-2), (n)(1)(U), (n)(2)(J), (o-1), and (q-1); in subsec.(n)(1), substituted "mean the sale in any quantity or quantities of any tangible personal property or service, including any such sales effected via the internet by a nexus-vendor, taxable" for "means the sale in any quantity or quantities of any tangible personal property or service taxable" and substituted "These terms mean" for "Said term shall mean"; in subsec. (n)(2)(C), substituted "is not in the District at the time of the execution and is not sold by a nexus-vendor;" for "is not in the District at the time of such execution; attempted to make a change accomplished earlier by D.C. Law 18-364;"; and, in subsec. (w), substituted "retailer, including a nexus vendor, selling" for "retailer selling".</text>
-        <text>D.C. Law 19-168 rewrote subsecs. (a-1), (h-1), (n)(1)(C); and added subsec. (v-1) defining "Transient".. Prior to amendment, subsecs. (a-1), (h-1), (n)(1)(C) read as follows:</text>
-        <text>"(a-1) "Additional charges" means the excess of the gross receipts from the sale of or charges for any room or accommodations received by a room remarketer over the net charges."</text>
-        <text>"(h-1) "Net charges" means the gross receipts from the sale of or charges for any room or accommodations received from a room remarketer by the operator of a hotel, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients for a consideration."</text>
-        <text>"(C)(i) The sale or charge, including net charges and additional charges, for any room or rooms, lodgings, or accommodations furnished to transients by any hotel, room remarketer, inn, tourist camp, tourist cabin, or any other place in which rooms lodgings, or accommodations are regularly furnished to transients for consideration. For the purposes of this subparagraph, the term "transient" means any person who occupies, or has the right to occupy, any room or rooms, lodgings, or accommodations for a period of 90 days or less during any one continuous stay.</text>
-        <text>"(ii) For the purposes of this chapter, the term:</text>
-        <text>"(I) "Additional charges" means the excess of the sale or charges received from the transient by a room remarketer over the net sale or net charges.</text>
-        <text>"(II) "Net sale" or "net charges" means the gross receipts from the sale of or charges for any room or accommodations received by a retailer from a room remarketer.</text>
-        <text>"(III) "Room remarketer" means any person, other than the retailer, having any right, access, ability, or authority, through an Internet transaction or any other means whatsoever, to offer, reserve, book, arrange for, remarket, distribute, broker, resell, or facilitate the transfer of rooms the occupancy of which is subject to tax under this chapter;"</text>
-        <text>D.C. Law19-171, in the lead-in language of subsec. (n)(1)(C)(ii), substituted "this subchapter" for "this chapter"; and redesignated subsec. (v-1), defining "Other tobacco products", as (h-3) .</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 107(a) of Omnibus Budget Support Temporary Act of 1992 (D.C. Law 9-134, July 23, 1992, law notification 39 DCR 5815).</text>
-        <text>For temporary (225 day) amendment of section, see § 111(a)-(d) of Omnibus Budget Support Temporary Act of 1993 (D.C. Law 10-11, August 6, 1993, law notification 40 DCR 6213).</text>
-        <text>For temporary (225 day) amendment of section, see § 2 of Sales and Use Tax on Newspapers Temporary Amendment Act of 1993 (D.C. Law 10-32, October 15, 1993, law notification 40 DCR 7475).</text>
-        <text>For temporary (225 day) prohibition of increase of certain taxes, see § 2 of Economic Recovery Conformity Temporary Act of 1996 (D.C. Law 11-216, April 9, 1998, law notification 44 DCR 2574).</text>
-        <text>Section 8 of D.C. Law 19-53 amended subsecs. (a-1), (h-1), (n)(1)(C) and added subsec. (v-2) to read as follows:</text>
-        <text>"(a-1) 'Additional charges' means the excess of the sale or charge receipts received by a room remarketer over the net charges.".</text>
-        <text>"(h-1) 'Net charges' means the sale or charge receipts for any room or rooms, lodgings, or accommodations furnished to transients, received from a room remarketer by the operator of a hotel, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients for a consideration.".</text>
-        <text>"(C) The sale or charge, to include net charges and additional charges, for any room or rooms, lodgings, or accommodations furnished to transients by any hotel, room remarketer, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients for consideration.".</text>
-        <text>"(v-2) 'Transient' means any person who occupies, or has the right to occupy, any room or rooms, lodgings, or accommodations for a period of 90 days or less during any one continuous stay.".</text>
-        <text>Section 15(b) of D.C. Law 19-53 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary prohibition, on an emergency basis, of the increase in the individual income tax, the sales and use tax, and real property tax rates contingent on the enactment of an act of Congress which would reduce the percentage of federal income tax applicable solely to residents of D.C. under the Internal Revenue Code of 1986, see § 2 of the Economic Recovery Conformity Emergency Act of 1996 (D.C. Act 11-377, August 28, 1996, 43 DCR 4797).</text>
-        <text>For temporary (90-day) addition of section, see § 2702(k) of the Service Improvement and Fiscal Year 2000 Budget Support Emergency Act of 1999 (D.C. Act 13-110, July 28, 1999, 46 DCR 6320).</text>
-        <text>For temporary (90 day) amendment of section, see § 2 of Simplified Sales and Use Tax District of Columbia Participation Emergency Act of 2001 (D.C. Act 14- 168, November 19, 2001, 48 DCR 11026).</text>
-        <text>For temporary (90 day) amendment of section, see § 852 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
-        <text>For temporary (90 day) amendment of section, see §§ 1232, 1234 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
-        <text>For temporary (90 day) amendment of section, see § 7241(e) of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
-        <text>For temporary (90 day) amendment of section, see § 7241(e) of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
-        <text>For temporary (90 day) amendment of section, see § 7172 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-        <text>For temporary (90 day) amendment of section, see § 7002(a)(1) of Fiscal Year 2012 Budget Support Emergency Act of 2011 (D.C. Act 19-93, June 29, 2011, 58 DCR 5599).</text>
-        <text>For temporary (90 day) amendment of section, see § 8 of Revised Fiscal Year 2012 Budget Support Technical Clarification Emergency Amendment Act of 2011 (D.C. Act 19-157, October 4, 2011, 58 DCR 8688).</text>
-        <text>For temporary (90 day) amendment of section, see § 7112 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
-        <text>For temporary (90 day) amendment of section, see § 7112 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 1-23, the "Revenue Act of 1975," was introduced in Council and assigned Bill No. 1-47, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first, amended first, and second readings, and reconsideration of second reading, on April 15, 1975, June 1, 1975, June 24, 1975 and July 11, 1975, respectively. Signed by the Mayor on July 23, 1975, it was assigned Act No. 1-34 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 1-61, the "Revenue Act of 1975 -- Third Amendment," was introduced in Council and assigned Bill No. 1-215, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on December 19, 1975 and January 13, 1976, respectively. Signed by the Mayor on February 6, 1976, it was assigned Act No. 1-91 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 1-70, the "Revenue Act of 1976," was introduced in Council and assigned Bill No. 1-229, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings and reconsiderations of final reading on February 20, 1976, March 11, 1976 and April 6, 1976, respectively. Signed by the Mayor on April 20, 1976, it was assigned Act No. 1-106 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 2-11, the "Residential Parking Tax Exemption Act," was introduced in Council and assigned Bill No. 2-62, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on March 22, 1977 and April 5, 1977, respectively. Signed by the Mayor on April 25, 1977, it was assigned Act No. 2-32 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 3-92, the "District of Columbia Revenue Act of 1980," was introduced in Council and assigned Bill No. 3-285, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on June 17, 1980 and July 1, 1980, respectively. Signed by the Mayor on July 9, 1980, it was assigned Act No. 3-214 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 4-105, the "Candy, Confectionery, Soft Drink, and Chewing Gum Sales Tax Amendment Act of 1981," was introduced in Council and assigned Bill No. 4-231, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on October 27, 1981 and February 23, 1982, respectively. Signed by the Mayor on March 10, 1982, it was assigned Act No. 4-166 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 4-131, the "District of Columbia Tax Enforcement Act of 1982," was introduced in Council and assigned Bill No. 4-257, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on April 27, 1982, and May 11, 1982, respectively. Signed by the Mayor on June 1, 1982, it was assigned Act No. 4-196 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 5-113, the "District of Columbia Revenue Act of 1984," was introduced in Council and assigned Bill No. 5-370, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on June 26, 1984 and July 10, 1984, respectively. Signed by the Mayor on July 13, 1984, it was assigned Act No. 5-164 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 7-104, the "Technical Amendments Act of 1987," was introduced in Council and assigned Bill No. 7-346, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 24, 1987, and December 8, 1987, respectively. Signed by the Mayor on December 22, 1987, it was assigned Act No. 7-124 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 8-17, the "Revenue Amendment Act of 1989," was introduced in Council and assigned Bill No. 8-224, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on May 2, 1989 and May 16, 1989, respectively. Signed by the Mayor on May 26, 1989, it was assigned Act No. 8-34 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 8-119, the "Tax Amendment Act of 1990," was introduced in Council and assigned Bill No. 8-371, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on January 30, 1990, and February 13, 1990, respectively. Approved without the signature of the Mayor on March 6, 1990, it was assigned Act No. 8-173 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 9-145, the "Omnibus Budget Support Act of 1992," was introduced in Council and assigned Bill No. 9-222, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 12, 1992, and June 2, 1992, respectively. Approved without the signature of the Mayor on June 22, 1992, it was assigned Act No. 9-225 and transmitted to both Houses of Congress for its review. D.C. Law 9-145 became effective on September 10, 1992.</text>
-        <text>For legislative history of D.C. Law 10-11, see Historical and Statutory Notes following § 47-2002.01.</text>
-        <text>For legislative history of D.C. Law 10-25, see Historical and Statutory Notes following § 47-2002.01.</text>
-        <text>Law 10-68, the "Technical Amendments Act of 1993," was introduced in Council and assigned Bill No. 10-166, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 23, 1993, it was assigned Act No. 10-107 and transmitted to both Houses of Congress for its review. D.C. Law 10-68 became effective on February 5, 1994.</text>
-        <text>Law 10-115, the "Financial Administration Revision and Clarification Act of 1994," was introduced in Council and assigned Bill No. 10-439, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on January 4, 1994, and February 1, 1994, respectively. Signed by the Mayor on February 25, 1994, it was assigned Act No. 10-205 and transmitted to both Houses of Congress for its review. D.C. Law 10-115 became effective on April 30, 1994.</text>
-        <text>Law 10-128, the "Omnibus Budget Support Act of 1994," was introduced in Council and assigned Bill No. 10-575, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on March 22, 1994, and April 12, 1994, respectively. Signed by the Mayor on April 14, 1994, it was assigned Act No. 10-225 and transmitted to both Houses of Congress for its review. D.C. Law 10-128 became effective on June 14, 1994.</text>
-        <text>Law 10-242, the "Clean Air Compliance Fee Act of 1994," was introduced in Council and assigned Bill No. 10-610, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 1, 1994, and December 6, 1994, respectively. Signed by the Mayor on December 28, 1994, it was assigned Act No. 10-387 and transmitted to both Houses of Congress for its review. D.C. Law 10-242 became effective on March 21, 1995.</text>
-        <text>Law 11-110, the "Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-485, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on December 5, 1995, and January 4, 1996, respectively. Signed by the Mayor on January 26, 1996, it was assigned Act No. 11-199 and transmitted to both Houses of Congress for its review. D.C. Law 11-110 became effective on April 18, 1996.</text>
-        <text>Law 11-248, the "Recorder of Deeds Recordation Surcharge Amendment Act of 1996," was introduced in Council and assigned Bill No. 11-670, which was referred to the Committee of the Whole. The Bill was adopted in first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-512 and transmitted to both Houses of Congress for its review. D.C. Law 11-248 became effective on April 9, 1997.</text>
-        <text>Law 12-100, the "Commercial Mobile Telecommunication Service Tax Clarification Amendment Act of 1998," was introduced in Council and assigned Bill No. 12-425, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on December 4, 1997, and January 6, 1998, respectively. Signed by the Mayor on January 27, 1998, it was assigned Act No. 12-276 and transmitted to both Houses of Congress for its review. D.C. Law 12- 100 became effective on April 30, 1998.</text>
-        <text>Law 13-38, the "Service Improvement and Fiscal Year 2000 Budget Support Act of 1999," was introduced in Council and assigned Bill No. 13-161, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 11, 1999, and June 22, 1999, respectively. Signed by the Mayor on July 8, 1999, it was assigned Act No. 13-111 and transmitted to both Houses of Congress for its review. D.C. Law 13-38 became effective on October 20, 1999.</text>
-        <text>For Law 13-256, see notes following § 47-1817.01.</text>
-        <text>For Law 13-305, see notes under § 47-901.</text>
-        <text>Law 14-157, the "Compensating Use Tax Clarification Act of 2002", was introduced in Council and assigned Bill No. 14-462, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on March 5, 2002, and April 9, 2002, respectively. Signed by the Mayor on April 24, 2002, it was assigned Act No. 14-336 and transmitted to both Houses of Congress for its review. D.C. Law 14-157 became effective on June 25, 2002.</text>
-        <text>For Law 14-190, see notes following § 47-308.01.</text>
-        <text>For Law 14-213, see notes following § 47-820.</text>
-        <text>For Law 15-105, see notes following § 47-902.</text>
-        <text>For Law 16-33, see notes following § 47-308.01.</text>
-        <text>Law 16-94, the "Other Tobacco Products Tax Act of 2006", was introduced in Council and assigned Bill No. 16-117 which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on January 4, 2006, and February 7, 2006, respectively. Signed by the Mayor on February 27, 2006, it was assigned Act No. 16-289 and transmitted to both Houses of Congress for its review. D.C. Law 16-94 became effective on May 12, 2006.</text>
-        <text>Law 18-48, the "Processing Sales Tax Clarification Act of 2009", was introduced in Council and assigned Bill No. 18-21, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on June 2, 2009, and June 16, 2008, respectively. Enacted without signature by the Mayor on June 26, 2009, it was assigned Act No. 18-123 and transmitted to both Houses of Congress for its review. D.C. Law 18-48 became effective on September 23, 2009.</text>
-        <text>For Law 18-55, see notes following § 47-1803.02.</text>
-        <text>For Law 18-111, see notes following § 47-305.02.</text>
-        <text>For Law 18-223, see notes following § 47-355.05.</text>
-        <text>Law 18-364, the "Payment of Full Hotel Taxes by Online Vendors Clarification Act of 2010", was introduced in Council and assigned Bill No. 18-655, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on December 7, 2010, and December 21, 2010, respectively. Signed by the Mayor on January 27, 2011, it was assigned Act No. 18-715 and transmitted to both Houses of Congress for its review. D.C. Law 18- 364 became effective on April 8, 2011.</text>
-        <text>For Law 19-21, see notes following § 47-305.02.</text>
-        <text>For history of Law 19-168, see notes under § 47-355.01.</text>
-        <text>For history of Law 19-171, see notes under § 47-369.01.</text>
-      </level>
-      <level>
-        <heading>Effective Dates</heading>
-        <text>Section 3(b) of D.C. Law 4-105 provided that the provisions of § 2 of the act shall take effect on the first day of the first month which begins more than 30 days after April 30, 1982.</text>
-        <text>Section 202 of D.C. Law 5-113 provided that § 201 shall take effect October 1, 1984.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Mayor authorized to issue rules: See second paragraph of note to § 47-2601.</text>
-        <text>Office of Collector of Taxes abolished: See Historical and Statutory Notes following § 47-401.</text>
-        <text>Section 4(b) of D.C. Law 12-100 provided that returns or payments due from wireless telecommunication companies for the period beginning May 1, 1997, through the effective date of this act not previously filed or paid shall be due by the 45th day after the effective date of this act.</text>
-        <text>Section 4(c) of D.C. Law 12-100 provided that beginning in FY 1999, the amount of tax imposed by the act shall not be calculated as gross revenue to which the tax is then applied.</text>
-        <text>Repeal of D.C. Law 10-242 inapplicable to this section: Section 11702(b) of title XI of Pub. L. 105-33, 111 Stat. 781, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that § 11702(a), which repealed the Clean Air Compliance Fee Act of 1994, D.C. Law 10-242, shall not apply to § 14 of Law 10-242.</text>
-        <text>Section 103 of D.C. Law 13-305 provides:</text>
-        <text>"Sec. 103. Applicability.</text>
-        <text>"Section 102(a) through (c) shall apply beginning April 1, 2001. Section 102(d) shall apply beginning October 1, 2001."</text>
-        <text>Short title of subtitle D of title VIII of Law 14-190: Section 851 of D.C. Law 14-190 provided that subtitle D of title VIII of the act may be cited as the Parking Tax Clarification Act of 2002.</text>
-        <text>Short title of subtitle BB of title I of Law 16-33: Section 1231 of D.C. Law 16-33 provided that subtitle BB of title I of the act may be cited as This subtitle may be cited as the Recyclable Material Sales Tax Clarification Act of 2005.</text>
-        <text>Section 1234 of D.C. Law 16-33 provides that § 1232 shall apply as of October 1, 2005.</text>
-        <text>Section 4 of D.C. Law 16-94 provides that § 2 shall apply as of April 1, 2006.</text>
-        <text>Section 3 of D.C. Law 18-48 provides that this act shall apply as of January 1, 2009.</text>
-        <text>Short title: Section 7171 of D.C. Law 18-223 provided that subtitle R of title VII of the act may be cited as the "Healthy Schools Revenue Act of 2010".</text>
-        <text>Short title: Section 7001 of D.C. Law 19-21 provided that subtitle A of title VII of the act may be cited as "Procedure for Remittance of Hotel Taxes by Online Vendors Act of 2011".</text>
-        <text>Short title: Section 8031 of D.C. Law 19-21 provided that subtitle D of title VIII of the act may be cited as "Sales Tax Act of 2011".</text>
-        <text>Short title: Section 8051 of D.C. Law 19-21 provided that subtitle F of title VIII of the act may be cited as "Cigarette Sales Tax Enhancement Act of 2011".</text>
-        <text>Short title: Section 8151 of D.C. Law 19-21 provided that subtitle P of title VIII of the act may be cited as "Internet Sales Tax Act of 2011".</text>
-        <text>Short title: Section 7111 of D.C. Law 19-168 provided that subtitle K of title VII of the act may be cited as "Procedures for Remittance of Hotel Taxes by Online Vendors Act of 2012".</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Alcoholic beverage control, rules and regulations, see § 25-211.</text>
+      <text>Compensating-use tax, food or drink for immediate consumption, see § 47-2202.01.</text>
+      <text>Compensating-use tax, imposition of tax, tax rates, see § 47-2202.</text>
+      <text>Compensating-use tax, "retail sale", "sale at retail" and "sold at retail" defined, see § 47-2201.</text>
+      <text>Financial institution, guaranty company and public utility taxes, "telecommunication company" and "toll telecommunication service" defined, see § 47-2501.</text>
+      <text>Rental housing conversion and sale, "housing accommodation" or "accommodation" defined, see § 42-3401.03.</text>
+      <text>Rental housing, "housing accommodation" defined, see § 42-3501.03.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-102.03, § 10-1601.02, § 10-1602.02, § 34-1803.02, § 42-3401.03, § 42-3501.03, § 47-2002, § 47-2002.02, § 47-2002.05, § 47-2002.06, § 47-2005, § 47-2201, § 47-2202, § 47-2202.01, § 47-2402.01, and § 47-2501.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-2001.</text>
+      <text>1973 Ed., § 47-2601.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-38 added subsec. (n)(2)(F).</text>
+      <text>D.C. Law 13-256 added subsec. (n)(2)(G).</text>
+      <text>D.C. Law 13-305 repealed subsec. (g-2); repealed subpar. (iii) of subsec. (n)(1)(A); rewrote subsec. (n)(2)(E); in subsec. (r) struck the sentence "For the purpose of this chapter, an organization or institution which does not embrace the generally recognized relationship of teacher and student shall be deemed not to be operated for educational purposes."; and added subsec. (w)(1).</text>
+      <text>Prior to repeal, subsec. (g-2) had read:</text>
+      <text>"(g-2) 'Snack food' includes, but is not limited to, potato chips and sticks; corn or tortilla chips; pretzels; cookies; popped popcorn; pork rinds; cheese puffs and curls; crackers; fabricated snacks; snack cakes and pies, such as donuts, cake and pie slices, and other pastries that are baked or fried in, or sliced into, individual serving sizes; candy; chewing gum; nuts and edible seeds; marshmallows; mixtures that contain one or more snack foods; soft drinks; and fruit or vegetable drinks that contain less than 15% natural fruit or vegetable juice by volume. 'Snack food' includes only those items that are sold suitable for consumption without further processing such as heating, cooking, or thawing. The term 'snack food' does not include any food or drink included in subsection (g-1) of this section."</text>
+      <text>Prior to repeal, subpar. (iii) of subsec. (n)(1)(A) had read:</text>
+      <text>"(iii) Sales of snack food as defined in subsec. (g-2) of this section;"</text>
+      <text>Prior to amendment, subsec. (n)(2)(E) read:</text>
+      <text>"(E) Sales of food or drink as defined in subsection (g) of this section, except sales of food or drink for immediate consumption as defined in subsection (g-1) of this section, and snack food as defined in subsection (g-2) of this section; or"</text>
+      <text>D.C. Law 14-157, in subsec. (n)(1)(E), substituted "resold. This section shall not apply to the sale of material for the purpose of subsequently transporting the property outside the District for use solely outside the District;" for "resold;".</text>
+      <text>D.C. Law 14-190, in subsec. (n), added par. (1)(L)(iv-I), made nonsubstantive changes in pars. (2)(F) and (2)(G), and added par. (2)(H).</text>
+      <text>D.C. Law 14-213, in subsec. (n)(2)(F), validated a previously made technical correction.</text>
+      <text>D.C. Law 15-105, in subsec. (n)(1)(E), substituted "resold, however, this section" for "resold. This section".</text>
+      <text>D.C. Law 16-33, designated the existing text of subsec. (n)(1)(M)(i) as subsec. (n)(1)(M)(i)(I); and added subsec. (n)(1)(M)(i)(II).</text>
+      <text>D.C. Law 16-94 added subsec. (v-1).</text>
+      <text>D.C. Law 18-48, in subsec. (n)(1)(D), deleted ", when made to any purchaser for purposes other than resale or for use in manufacturing, assembling, processing, or refining" following "steam".</text>
+      <text>D.C. Law 18-55, in subsec. (n)(2), deleted "; or" from the end of subpar. (G); substituted "; or" for a period at the end of subpar. (H), and added par. (I).</text>
+      <text>D.C. Law 18-111 added subsecs. (b-1) and (i-1); and rewrote subsecs. (v-1).</text>
+      <text>D.C. Law 18-223 added subsecs. (r-1) and (n)(1)(A)(iv); and, in subsec. (n)(2)(E), substituted "for immediate consumption and soft drinks;" for "for immediate consumption;".</text>
+      <text>D.C. Law 18-364 rewrote subsec. (n)(1)(C).</text>
+      <text>D.C. Law 19-21 added subsecs. (a-1), (a-2), (h-1), (h-2), (i-2), (n)(1)(U), (n)(2)(J), (o-1), and (q-1); in subsec. (n)(1), substituted "mean the sale in any quantity or quantities of any tangible personal property or service, including any such sales effected via the internet by a nexus-vendor, taxable" for "means the sale in any quantity or quantities of any tangible personal property or service taxable" and substituted "These terms mean" for "Said term shall mean"; in subsec. (n)(2)(C), substituted "is not in the District at the time of the execution and is not sold by a nexus-vendor;" for "is not in the District at the time of such execution; attempted to make a change accomplished earlier by D.C. Law 18-364;"; and, in subsec. (w), substituted "retailer, including a nexus vendor, selling" for "retailer selling".</text>
+      <text>The 2012 amendment by D.C. Law 19-168 substituted "sale or charge receipts" for "gross receipts from the sale of or charges for any room or accommodations" in (a-1); substituted "sale or charge receipts for any room or rooms, lodgings, or accommodations furnished to transients" for "gross receipts from the sale of or charges for any room or accommodations" in (h-1); deleted the (n)(1)(C)(i) designation; deleted the former second sentence of (n)(1)(C); deleted former (n)(1)(C)(ii); added (v-2); and made a stylistic change.</text>
+      <text>The 2012 amendment by D.C. Law 19-171 substituted "this subchapter" for "this chapter" in the introductory language of (n)(1)(C)(ii); redesignated (v-1), defining "Other tobacco products," as (h-1); however, because of the previous addition of (h-1) and (h-2), the subsection was redesignated as (h-3).</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 107(a) of Omnibus Budget Support Temporary Act of 1992 (D.C. Law 9-134, July 23, 1992, law notification 39 DCR 5815).</text>
+      <text>For temporary (225 day) amendment of section, see § 111(a)-(d) of Omnibus Budget Support Temporary Act of 1993 (D.C. Law 10-11, August 6, 1993, law notification 40 DCR 6213).</text>
+      <text>For temporary (225 day) amendment of section, see § 2 of Sales and Use Tax on Newspapers Temporary Amendment Act of 1993 (D.C. Law 10-32, October 15, 1993, law notification 40 DCR 7475).</text>
+      <text>For temporary (225 day) prohibition of increase of certain taxes, see § 2 of Economic Recovery Conformity Temporary Act of 1996 (D.C. Law 11-216, April 9, 1998, law notification 44 DCR 2574).</text>
+      <text>Section 8 of D.C. Law 19-53 amended subsecs. (a-1), (h-1), (n)(1)(C) and added subsec. (v-2) to read as follows:</text>
+      <text>"(a-1) 'Additional charges' means the excess of the sale or charge receipts received by a room remarketer over the net charges.".</text>
+      <text>"(h-1) 'Net charges' means the sale or charge receipts for any room or rooms, lodgings, or accommodations furnished to transients, received from a room remarketer by the operator of a hotel, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients for a consideration.".</text>
+      <text>"(C) The sale or charge, to include net charges and additional charges, for any room or rooms, lodgings, or accommodations furnished to transients by any hotel, room remarketer, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients for consideration.".</text>
+      <text>"(v-2) 'Transient' means any person who occupies, or has the right to occupy, any room or rooms, lodgings, or accommodations for a period of 90 days or less during any one continuous stay.".</text>
+      <text>Section 15(b) of D.C. Law 19-53 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary prohibition, on an emergency basis, of the increase in the individual income tax, the sales and use tax, and real property tax rates contingent on the enactment of an act of Congress which would reduce the percentage of federal income tax applicable solely to residents of D.C. under the Internal Revenue Code of 1986, see § 2 of the Economic Recovery Conformity Emergency Act of 1996 (D.C. Act 11-377, August 28, 1996, 43 DCR 4797).</text>
+      <text>For temporary (90-day) addition of section, see § 2702(k) of the Service Improvement and Fiscal Year 2000 Budget Support Emergency Act of 1999 (D.C. Act 13-110, July 28, 1999, 46 DCR 6320).</text>
+      <text>For temporary (90 day) amendment of section, see § 2 of Simplified Sales and Use Tax District of Columbia Participation Emergency Act of 2001 (D.C. Act 14-168, November 19, 2001, 48 DCR 11026).</text>
+      <text>For temporary (90 day) amendment of section, see § 852 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
+      <text>For temporary (90 day) amendment of section, see §§ 1232, 1234 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+      <text>For temporary (90 day) amendment of section, see § 7241(e) of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
+      <text>For temporary (90 day) amendment of section, see § 7241(e) of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
+      <text>For temporary (90 day) amendment of section, see § 7172 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+      <text>For temporary (90 day) amendment of section, see § 7002(a)(1) of Fiscal Year 2012 Budget Support Emergency Act of 2011 (D.C. Act 19-93, June 29, 2011, 58 DCR 5599).</text>
+      <text>For temporary (90 day) amendment of section, see § 8 of Revised Fiscal Year 2012 Budget Support Technical Clarification Emergency Amendment Act of 2011 (D.C. Act 19-157, October 4, 2011, 58 DCR 8688).</text>
+      <text>For temporary (90 day) amendment of section, see § 7112 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
+      <text>For temporary (90 day) amendment of section, see § 7112 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-23</heading>
+      <text>Law 1-23, the "Revenue Act of 1975," was introduced in Council and assigned Bill No. 1-47, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first, amended first, and second readings, and reconsideration of second reading, on April 15, 1975, June 1, 1975, June 24, 1975 and July 11, 1975, respectively. Signed by the Mayor on July 23, 1975, it was assigned Act No. 1-34 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-61</heading>
+      <text>Law 1-61, the "Revenue Act of 1975 - Third Amendment," was introduced in Council and assigned Bill No. 1-215, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on December 19, 1975 and January 13, 1976, respectively. Signed by the Mayor on February 6, 1976, it was assigned Act No. 1-91 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 1-70</heading>
+      <text>Law 1-70, the "Revenue Act of 1976," was introduced in Council and assigned Bill No. 1-229, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings and reconsiderations of final reading on February 20, 1976, March 11, 1976 and April 6, 1976, respectively. Signed by the Mayor on April 20, 1976, it was assigned Act No. 1-106 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-11</heading>
+      <text>Law 2-11, the "Residential Parking Tax Exemption Act," was introduced in Council and assigned Bill No. 2-62, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on March 22, 1977 and April 5, 1977, respectively. Signed by the Mayor on April 25, 1977, it was assigned Act No. 2-32 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-92</heading>
+      <text>Law 3-92, the "District of Columbia Revenue Act of 1980," was introduced in Council and assigned Bill No. 3-285, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on June 17, 1980 and July 1, 1980, respectively. Signed by the Mayor on July 9, 1980, it was assigned Act No. 3-214 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-105</heading>
+      <text>Law 4-105, the "Candy, Confectionery, Soft Drink, and Chewing Gum Sales Tax Amendment Act of 1981," was introduced in Council and assigned Bill No. 4-231, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on October 27, 1981 and February 23, 1982, respectively. Signed by the Mayor on March 10, 1982, it was assigned Act No. 4-166 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-131</heading>
+      <text>Law 4-131, the "District of Columbia Tax Enforcement Act of 1982," was introduced in Council and assigned Bill No. 4-257, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on April 27, 1982, and May 11, 1982, respectively. Signed by the Mayor on June 1, 1982, it was assigned Act No. 4-196 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-113</heading>
+      <text>Law 5-113, the "District of Columbia Revenue Act of 1984," was introduced in Council and assigned Bill No. 5-370, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on June 26, 1984 and July 10, 1984, respectively. Signed by the Mayor on July 13, 1984, it was assigned Act No. 5-164 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-104</heading>
+      <text>Law 7-104, the "Technical Amendments Act of 1987," was introduced in Council and assigned Bill No. 7-346, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 24, 1987, and December 8, 1987, respectively. Signed by the Mayor on December 22, 1987, it was assigned Act No. 7-124 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-17</heading>
+      <text>Law 8-17, the "Revenue Amendment Act of 1989," was introduced in Council and assigned Bill No. 8-224, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on May 2, 1989 and May 16, 1989, respectively. Signed by the Mayor on May 26, 1989, it was assigned Act No. 8-34 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-119</heading>
+      <text>Law 8-119, the "Tax Amendment Act of 1990," was introduced in Council and assigned Bill No. 8-371, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on January 30, 1990, and February 13, 1990, respectively. Approved without the signature of the Mayor on March 6, 1990, it was assigned Act No. 8-173 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-145</heading>
+      <text>Law 9-145, the "Omnibus Budget Support Act of 1992," was introduced in Council and assigned Bill No. 9-222, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 12, 1992, and June 2, 1992, respectively. Approved without the signature of the Mayor on June 22, 1992, it was assigned Act No. 9-225 and transmitted to both Houses of Congress for its review. D.C. Law 9-145 became effective on September 10, 1992.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-11</heading>
+      <text>For legislative history of D.C. Law 10-11, see Historical and Statutory Notes following § 47-2002.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-25</heading>
+      <text>For legislative history of D.C. Law 10-25, see Historical and Statutory Notes following § 47-2002.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-68</heading>
+      <text>Law 10-68, the "Technical Amendments Act of 1993," was introduced in Council and assigned Bill No. 10-166, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 23, 1993, it was assigned Act No. 10-107 and transmitted to both Houses of Congress for its review. D.C. Law 10-68 became effective on February 5, 1994.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-115</heading>
+      <text>Law 10-115, the "Financial Administration Revision and Clarification Act of 1994," was introduced in Council and assigned Bill No. 10-439, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on January 4, 1994, and February 1, 1994, respectively. Signed by the Mayor on February 25, 1994, it was assigned Act No. 10-205 and transmitted to both Houses of Congress for its review. D.C. Law 10-115 became effective on April 30, 1994.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-128</heading>
+      <text>Law 10-128, the "Omnibus Budget Support Act of 1994," was introduced in Council and assigned Bill No. 10-575, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on March 22, 1994, and April 12, 1994, respectively. Signed by the Mayor on April 14, 1994, it was assigned Act No. 10-225 and transmitted to both Houses of Congress for its review. D.C. Law 10-128 became effective on June 14, 1994.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-242</heading>
+      <text>Law 10-242, the "Clean Air Compliance Fee Act of 1994," was introduced in Council and assigned Bill No. 10-610, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 1, 1994, and December 6, 1994, respectively. Signed by the Mayor on December 28, 1994, it was assigned Act No. 10-387 and transmitted to both Houses of Congress for its review. D.C. Law 10-242 became effective on March 21, 1995.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-110</heading>
+      <text>Law 11-110, the "Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-485, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on December 5, 1995, and January 4, 1996, respectively. Signed by the Mayor on January 26, 1996, it was assigned Act No. 11-199 and transmitted to both Houses of Congress for its review. D.C. Law 11-110 became effective on April 18, 1996.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-248</heading>
+      <text>Law 11-248, the "Recorder of Deeds Recordation Surcharge Amendment Act of 1996," was introduced in Council and assigned Bill No. 11-670, which was referred to the Committee of the Whole. The Bill was adopted in first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-512 and transmitted to both Houses of Congress for its review. D.C. Law 11-248 became effective on April 9, 1997.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-100</heading>
+      <text>Law 12-100, the "Commercial Mobile Telecommunication Service Tax Clarification Amendment Act of 1998," was introduced in Council and assigned Bill No. 12-425, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on December 4, 1997, and January 6, 1998, respectively. Signed by the Mayor on January 27, 1998, it was assigned Act No. 12-276 and transmitted to both Houses of Congress for its review. D.C. Law 12-100 became effective on April 30, 1998.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-38</heading>
+      <text>Law 13-38, the "Service Improvement and Fiscal Year 2000 Budget Support Act of 1999," was introduced in Council and assigned Bill No. 13-161, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 11, 1999, and June 22, 1999, respectively. Signed by the Mayor on July 8, 1999, it was assigned Act No. 13-111 and transmitted to both Houses of Congress for its review. D.C. Law 13-38 became effective on October 20, 1999.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-256</heading>
+      <text>For Law 13-256, see notes following § 47-1817.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-305</heading>
+      <text>For Law 13-305, see notes under § 47-901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-157</heading>
+      <text>Law 14-157, the "Compensating Use Tax Clarification Act of 2002", was introduced in Council and assigned Bill No. 14-462, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on March 5, 2002, and April 9, 2002, respectively. Signed by the Mayor on April 24, 2002, it was assigned Act No. 14-336 and transmitted to both Houses of Congress for its review. D.C. Law 14-157 became effective on June 25, 2002.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-190</heading>
+      <text>For Law 14-190, see notes following § 47-308.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-213</heading>
+      <text>For Law 14-213, see notes following § 47-820.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>For Law 15-105, see notes following § 47-902.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-33</heading>
+      <text>For Law 16-33, see notes following § 47-308.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-94</heading>
+      <text>Law 16-94, the "Other Tobacco Products Tax Act of 2006", was introduced in Council and assigned Bill No. 16-117 which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on January 4, 2006, and February 7, 2006, respectively. Signed by the Mayor on February 27, 2006, it was assigned Act No. 16-289 and transmitted to both Houses of Congress for its review. D.C. Law 16-94 became effective on May 12, 2006.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-48</heading>
+      <text>Law 18-48, the "Processing Sales Tax Clarification Act of 2009", was introduced in Council and assigned Bill No. 18-21, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on June 2, 2009, and June 16, 2008, respectively. Enacted without signature by the Mayor on June 26, 2009, it was assigned Act No. 18-123 and transmitted to both Houses of Congress for its review. D.C. Law 18-48 became effective on September 23, 2009.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-55</heading>
+      <text>For Law 18-55, see notes following § 47-1803.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-111</heading>
+      <text>For Law 18-111, see notes following § 47-305.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 47-355.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-364</heading>
+      <text>Law 18-364, the "Payment of Full Hotel Taxes by Online Vendors Clarification Act of 2010", was introduced in Council and assigned Bill No. 18-655, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on December 7, 2010, and December 21, 2010, respectively. Signed by the Mayor on January 27, 2011, it was assigned Act No. 18-715 and transmitted to both Houses of Congress for its review. D.C. Law 18-364 became effective on April 8, 2011.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For Law 19-21, see notes following § 47-305.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>Law 19-168, the "Fiscal Year 2013 Budget Support Act of 2012," was introduced in Council and assigned Bill No. 19-743. The Bill was adopted on first and second readings on May 15, 2012, and June 5, 2012, respectively. Signed by the Mayor on June 22, 2012, it was assigned Act No. 19-385 and transmitted to Congress for its review. D.C. Law 19-168 became effective on September 20, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 7171 of D.C. Law 18-223 provided that subtitle R of title VII of the act may be cited as the "Healthy Schools Revenue Act of 2010".</text>
+      <text>Short title: Section 7001 of D.C. Law 19-21 provided that subtitle A of title VII of the act may be cited as "Procedure for Remittance of Hotel Taxes by Online Vendors Act of 2011".</text>
+      <text>Short title: Section 8031 of D.C. Law 19-21 provided that subtitle D of title VIII of the act may be cited as "Sales Tax Act of 2011."</text>
+      <text>Short title: Section 8051 of D.C. Law 19-21 provided that subtitle F of title VIII of the act may be cited as "Cigarette Sales Tax Enhancement Act of 2011".</text>
+      <text>Short title: Section 8151 of D.C. Law 19-21 provided that subtitle P of title VIII of the act may be cited as "Internet Sales Tax Act of 2011".</text>
+      <text>Short title of subtitle D of title VIII of Law 14-190: Section 851 of D.C. Law 14-190 provided that subtitle D of title VIII of the act may be cited as the Parking Tax Clarification Act of 2002.</text>
+      <text>Short title of subtitle BB of title I of Law 16-33: Section 1231 of D.C. Law 16-33 provided that subtitle BB of title I of the act may be cited as the Recyclable Material Sales Tax Clarification Act of 2005.</text>
+    </level>
+    <level>
+      <heading>Effective Dates</heading>
+      <text>Section 3(b) of D.C. Law 4-105 provided that the provisions of § 2 of the act shall take effect on the first day of the first month which begins more than 30 days after April 30, 1982.</text>
+      <text>Section 202 of D.C. Law 5-113 provided that § 201 shall take effect October 1, 1984.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 1234 of D.C. Law 16-33 provided that § 1232 shall apply as of October 1, 2005.</text>
+      <text>Section 4 of D.C. Law 16-94 provided that § 2 shall apply as of April 1, 2006.</text>
+      <text>Section 3 of D.C. Law 18-48 provided that this act shall apply as of January 1, 2009.</text>
+      <text>Mayor authorized to issue rules: See second paragraph of note to § 47-2601.</text>
+      <text>Office of Collector of Taxes abolished: See Historical and Statutory Notes following § 47-401.</text>
+      <text>Section 4(b) of D.C. Law 12-100 provided that returns or payments due from wireless telecommunication companies for the period beginning May 1, 1997, through the effective date of this act not previously filed or paid shall be due by the 45th day after the effective date of this act.</text>
+      <text>Section 4(c) of D.C. Law 12-100 provided that beginning in FY 1999, the amount of tax imposed by the act shall not be calculated as gross revenue to which the tax is then applied.</text>
+      <text>Repeal of D.C. Law 10-242 inapplicable to this section: Section 11702(b) of title XI of Pub. L. 105-33, 111 Stat. 781, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that § 11702(a), which repealed the Clean Air Compliance Fee Act of 1994, D.C. Law 10-242, shall not apply to § 14 of Law 10-242.</text>
+      <text>Section 103 of D.C. Law 13-305 provided: "Sec. 103. Applicability. Section 102(a) through (c) shall apply beginning April 1, 2001. Section 102(d) shall apply beginning October 1, 2001."</text>
     </level>
   </level>
 </level>

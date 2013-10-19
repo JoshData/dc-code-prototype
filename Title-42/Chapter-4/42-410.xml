@@ -1,21 +1,20 @@
 <level type="section">
   <num>42-410</num>
   <heading>Map or plat of subdivisions not recordable.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-806</formerly-cited-as>
   <text>It shall not be lawful for any person or persons to record any map or plat of the subdivision of land in the District of Columbia in the office of the Recorder of Deeds for said District, whether such map or plat be attached to a deed or other document or is offered separately for record.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 24, 1894, 28 Stat. 501, ch. 329.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-806.</text>
-        <text>1973 Ed., § 45-506.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Recordation of maps and plats in surveyor's office, see § 1-1305 et seq.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-806.</text>
+      <text>1973 Ed., § 45-506.</text>
     </level>
   </level>
 </level>

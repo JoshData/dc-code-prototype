@@ -3,59 +3,57 @@
   <heading>Contractor standards.</heading>
   <text>The CPO shall establish a process to certify, on a solicitation-by-solicitation basis, the responsibility of prospective contractors. The process shall ensure that the prospective contractor:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Has adequate financial resources to perform the contract or the ability to obtain those resources;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Is able to comply with the required or proposed delivery or performance schedule, based upon the bidder's or offeror's existing commercial and government contract commitments;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Has a satisfactory performance record;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Has a satisfactory record of integrity and business ethics;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Has a satisfactory record of compliance with the law, including labor and civil rights laws and rules and part A of subchapter X of Chapter 2 of this title;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Has, or has the ability to obtain, the necessary organization, experience, accounting, operational control, and technical skills;</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>Has, or has the ability to obtain, the necessary production, construction, technical equipment, and facilities;</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>Has not exhibited a pattern of overcharging the District;</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>Does not have an outstanding debt with the District or the federal government in a delinquent status; and</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>Is otherwise qualified and is eligible to receive an award under applicable laws and rules.</text>
-    </level>
+    <num>(1)</num>
+    <text>Has adequate financial resources to perform the contract or the ability to obtain those resources;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Is able to comply with the required or proposed delivery or performance schedule, based upon the bidder's or offeror's existing commercial and government contract commitments;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Has a satisfactory performance record;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Has a satisfactory record of integrity and business ethics;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Has a satisfactory record of compliance with the law, including labor and civil rights laws and rules and part A of subchapter X of Chapter 2 of this title [§ 2-219.01 et seq.];</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Has, or has the ability to obtain, the necessary organization, experience, accounting, operational control, and technical skills;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>Has, or has the ability to obtain, the necessary production, construction, technical equipment, and facilities;</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>Has not exhibited a pattern of overcharging the District;</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>Does not have an outstanding debt with the District or the federal government in a delinquent status; and</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>Is otherwise qualified and is eligible to receive an award under applicable laws and rules.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2011, D.C. Law 18-371, § 301, 58 DCR 1185.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-371, see notes under § 2-351.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-353.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-371</heading>
+      <text>For history of Law 18-371, see notes under § 2-351.01.</text>
     </level>
   </level>
 </level>

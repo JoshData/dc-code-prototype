@@ -1,10 +1,9 @@
 <level type="section">
   <num>26-304</num>
   <heading>Form and contents of application for license.</heading>
-  <formerly-cited-as>DC ST 1981 § 26-1104</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>An application for a license under this chapter shall be in writing under oath in the form prescribed by the Superintendent.</text>
+    <text>An application for a license under this chapter shall be in writing under oath in the form prescribed by the Superintendent [Commissioner of the Department of Insurance, Securities, and Banking].</text>
   </level>
   <level>
     <num>(b)</num>
@@ -67,25 +66,25 @@
     </level>
     <level>
       <num>(10)</num>
-      <text>Any other information that the Superintendent requires.</text>
+      <text>Any other information that the Superintendent [Commissioner] requires.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 12, 1998, D.C. Law 12-111, § 5, 45 DCR 1783.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 26-1104.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-111, see Historical and Statutory Notes following § 26-301.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 26-308.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 26-1104.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-111</heading>
+      <text>For legislative history of D.C. Law 12-111, see Historical and Statutory Notes following § 26-301.</text>
     </level>
   </level>
 </level>

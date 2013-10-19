@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II-A</num>
-  <heading>Inclusionary Zoning Implementation.</heading>
+  <heading>Inclusionary Zoning Implementation</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1041.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1041.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1041.03.xml"/>

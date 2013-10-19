@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Source Selection and Contract Formation. [Repealed]</heading>
+  <heading>Source Selection and Contract Formation</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-303.01~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-303.02~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-303.03~P.xml"/>
@@ -24,7 +24,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-303.18~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-303.19~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-303.19a~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-303.20~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-303.20.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-303.21~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-303.22~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-303.23~P.xml"/>

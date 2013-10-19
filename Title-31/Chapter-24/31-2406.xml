@@ -1,11 +1,15 @@
 <level type="section">
   <num>31-2406</num>
   <heading>Availability of required and optional insurance and benefits.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-2106</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">In general.</text> -- (1)(A) After consultation with insurers authorized to sell motor vehicle insurance in the District, the Commissioner shall from time to time approve, with any reasonable modifications, a reasonable plan or plans to assure the availability, to all owners of motor vehicles, of the insurance required to be maintained and of the insurance required to be offered by this chapter. The plan shall provide for suitable apportionment, by the manager or committee designated to operate the plan, among insurers of applicants for any of the insurance who are unable to obtain insurance reasonably through ordinary methods.</text>
+    <heading>In general</heading>
     <level>
+      <num>(1)</num>
+      <level>
+        <num>(A)</num>
+        <text>After consultation with insurers authorized to sell motor vehicle insurance in the District, the Commissioner shall from time to time approve, with any reasonable modifications, a reasonable plan or plans to assure the availability, to all owners of motor vehicles, of the insurance required to be maintained and of the insurance required to be offered by this chapter. The plan shall provide for suitable apportionment, by the manager or committee designated to operate the plan, among insurers of applicants for any of the insurance who are unable to obtain insurance reasonably through ordinary methods.</text>
+      </level>
       <level>
         <num>(B)</num>
         <text>When a plan has been approved by the Commissioner, all insurers authorized to sell motor vehicle insurance in the District shall subscribe thereto, cooperate therewith, and participate therein; provided, however, that no insurer shall be required to quote plan rates to applicants for voluntary insurance or to seek waivers from the plan before selling such voluntary insurance.</text>
@@ -37,121 +41,146 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Repealed.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Repealed.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>No insurer authorized to sell motor vehicle insurance in the District shall increase the rates charged an insured on account of an accident unless it is first determined that the accident was caused by the fault of the insured.</text>
+      <text>, (4) Repealed.</text>
+      <level>
+        <num>(5)</num>
+        <text>No insurer authorized to sell motor vehicle insurance in the District shall increase the rates charged an insured on account of an accident unless it is first determined that the accident was caused by the fault of the insured.</text>
+      </level>
     </level>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Property damage insurance.</text> -- Property damage insurance shall provide that any liability to an insured to pay for property damage to any vehicle or other property not owned or controlled by the insured, in accordance with applicable law, shall be paid by the applicable insurer up to an amount requested by the named insured. The minimum amount of property damage liability insurance coverage that a named insured shall purchase is $10,000 for property damage in any 1 accident.</text>
+    <heading>Property damage insurance</heading>
+    <text>Property damage insurance shall provide that any liability to an insured to pay for property damage to any vehicle or other property not owned or controlled by the insured, in accordance with applicable law, shall be paid by the applicable insurer up to an amount requested by the named insured. The minimum amount of property damage liability insurance coverage that a named insured shall purchase is $10,000 for property damage in any 1 accident.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Third-party personal liability.</text> -- Third-party personal liability coverage shall provide that any liability of an insured to pay for injury arising from an accident within or outside the District of Columbia, in accordance with applicable law, shall be paid by the insurer up to the amount established in the policy. The minimum amount of 3rd-party personal liability coverage that an insured shall purchase shall be $25,000 per person injured in any 1 accident and $50,000 for all persons injured in any 1 accident.</text>
+    <heading>Third-party personal liability</heading>
+    <text>Third-party personal liability coverage shall provide that any liability of an insured to pay for injury arising from an accident within or outside the District of Columbia, in accordance with applicable law, shall be paid by the insurer up to the amount established in the policy. The minimum amount of 3rd-party personal liability coverage that an insured shall purchase shall be $25,000 per person injured in any 1 accident and $50,000 for all persons injured in any 1 accident.</text>
   </level>
   <level>
     <num>(c-1)</num>
-    <text><text i="True">Underinsured motor vehicle coverage.</text> -- Underinsured motor vehicle coverage is for the protection of an insured who is legally entitled to recover damages from the owner or operator of an underinsured motor vehicle. Each insurer shall offer, except for the operation of motorcycles, optional underinsured motor vehicle coverage in amounts up to the amounts of the uninsured motorist coverage as requested by the insured. Once an insured has rejected this underinsured motor vehicle coverage the insurer does not have to reoffer it. The insurer shall not be required to obtain or maintain written rejections of the underinsured motor vehicle coverage. The benefits provided by the underinsured motor vehicle coverage shall be subject to the same provisions as denials or exclusions of coverages, insolvency, subrogation, and set-off as provided in the uninsured motorist coverage. Nothing in this section shall prohibit the inclusion of underinsured motor vehicle coverage in any uninsured motor vehicle coverage provided in compliance with this chapter. Insurance that includes underinsured motor vehicle coverage may include terms and conditions that preclude stacking of underinsured motor vehicle coverage.</text>
+    <heading>Underinsured motor vehicle coverage</heading>
+    <text>Underinsured motor vehicle coverage is for the protection of an insured who is legally entitled to recover damages from the owner or operator of an underinsured motor vehicle. Each insurer shall offer, except for the operation of motorcycles and motor-driven cycles, optional underinsured motor vehicle coverage in amounts up to the amounts of the uninsured motorist coverage as requested by the insured. Once an insured has rejected this underinsured motor vehicle coverage the insurer does not have to reoffer it. The insurer shall not be required to obtain or maintain written rejections of the underinsured motor vehicle coverage. The benefits provided by the underinsured motor vehicle coverage shall be subject to the same provisions as denials or exclusions of coverages, insolvency, subrogation, and set-off as provided in the uninsured motorist coverage. Nothing in this section shall prohibit the inclusion of underinsured motor vehicle coverage in any uninsured motor vehicle coverage provided in compliance with this chapter. Insurance that includes underinsured motor vehicle coverage may include terms and conditions that preclude stacking of underinsured motor vehicle coverage.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Eligibility for benefits.</text> -- Repealed.</text>
+    <text>, (e) Repealed.</text>
+    <level>
+      <num>(f)</num>
+      <heading>Mandatory uninsured motorist protection</heading>
+      <level>
+        <num>(1)</num>
+        <text>For the purposes of this subsection, the term "uninsured motor vehicle" means a motor vehicle which:</text>
+        <level>
+          <num>(A)</num>
+          <text>Is a motor vehicle which is not insured by a motor vehicle liability policy applicable to the accident;</text>
+        </level>
+        <level>
+          <num>(B)</num>
+          <text>Is covered by a motor vehicle liability policy of insurance but the insurer denies coverage for any reason or becomes the subject of insolvency proceedings in any jurisdiction; or</text>
+        </level>
+        <level>
+          <num>(C)</num>
+          <text>Is a motor vehicle which causes bodily injury or property damage and whose owner or operator cannot be identified.</text>
+        </level>
+      </level>
+      <level>
+        <num>(2)</num>
+        <text>Each insurer selling motor vehicle insurance in the District with respect to any motor vehicle registered or principally garaged in the District shall include coverage for bodily injury or death in amounts of $25,000 per person injured in any 1 accident, or $50,000 for all persons injured in any 1 accident, and coverage for property damage in an amount of $5,000 for property damage in any 1 accident for the protection of persons insured thereunder who are legally entitled to recover damages from owners or operators of uninsured motor vehicles.</text>
+      </level>
+      <level>
+        <num>(3)</num>
+        <text>Any payments for property damage made pursuant to this subsection shall be subject to a deductible amount of $200.</text>
+      </level>
+      <level>
+        <num>(4)</num>
+        <text>The named insured may require the issuance of coverage for bodily injury or death and property damage in accordance with a schedule of optional higher amounts up to the amount of $100,000 per person injured in any 1 accident or $300,000 for all persons injured in any 1 accident, and up to $25,000 for property damages for the protection of persons insured thereunder who are legally entitled to recover damages from owners or operators of uninsured motor vehicles.</text>
+      </level>
+      <level>
+        <num>(5)</num>
+        <text>To the extent of any payment made to any person by the insurer under the coverage required by this section and subject to the terms and conditions of the coverage, the insurer is entitled to the proceeds of any settlement or judgment resulting from the exercise of any rights of recovery of any person against any other person legally responsible for the bodily injury or death for which the payment is made, including any amount recoverable from an insurer which is or becomes the subject of an insolvency proceeding through such proceedings or in any other lawful manner.</text>
+      </level>
+      <level>
+        <num>(6)</num>
+        <text>No insurer shall attempt to recover any amount against the insured of an insurer which is or becomes the subject of insolvency proceedings.</text>
+      </level>
+      <level>
+        <num>(7)</num>
+        <text>Any motor vehicle policy of insurance may include terms and conditions that preclude stacking of uninsured motor vehicle coverages.</text>
+      </level>
+    </level>
+    <level>
+      <num>(g)</num>
+      <heading>Prohibitions</heading>
+      <text>A victim is prohibited from claiming personal injury protection benefits under this chapter, other than to compensate for any deductible, if the victim is eligible for compensation for the loss covered by personal injury protection from another insurer or another insurance coverage, unless the victim has exhausted benefits offered by the insurer or insurance coverage.</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <heading>Additional reporting obligations</heading>
+      <text> The Director may require a person whose driver's license or registration was revoked to obtain insurance coverage that includes additional reporting obligations, including SR 22 insurance coverage, prior to the issuance or reinstatement of a driver's license or registration, or both.</text>
+    </level>
   </level>
-  <level>
-    <num>(e)</num>
-    <text><text i="True">Ineligibility for benefits.</text> -- Repealed.</text>
-  </level>
-  <level>
-    <num>(f)</num>
-    <text><text i="True">Mandatory uninsured motorist protection.</text> -- (1) For the purposes of this subsection, the term "uninsured motor vehicle" means a motor vehicle which:</text>
+  <level type="annotations">
     <level>
-      <level>
-        <num>(A)</num>
-        <text>Is a motor vehicle which is not insured by a motor vehicle liability policy applicable to the accident;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Is covered by a motor vehicle liability policy of insurance but the insurer denies coverage for any reason or becomes the subject of insolvency proceedings in any jurisdiction; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Is a motor vehicle which causes bodily injury or property damage and whose owner or operator cannot be identified.</text>
-      </level>
+      <heading>History</heading>
+      <text>(Sept. 18, 1982, D.C. Law 4-155, § 7, 29 DCR 3491; Mar. 4, 1986, D.C. Law 6-96, § 2(e), 32 DCR 7245; Feb. 24, 1987, D.C. Law 6-192, § 19, 33 DCR 7836; Sept. 20, 1996, D.C. Law 11-160, § 2(b), 43 DCR 3722; May 21, 1997, D.C. Law 11-268, § 10(v), 44 DCR 1730; June 8, 2006, D.C. Law 16-117,§ 201(b), 53 DCR 2548; Mar. 14, 2007, D.C. Law 16-279, § 101, 54 DCR 903; Mar. 25, 2009, D.C. Law 17-353, §§ 197(a), 246, 56 DCR 1117; Apr. 27, 2013, D.C. Law 19-290, § 2(b), 60 DCR 2343.)</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>Each insurer selling motor vehicle insurance in the District with respect to any motor vehicle registered or principally garaged in the District shall include coverage for bodily injury or death in amounts of $25,000 per person injured in any 1 accident, or $50,000 for all persons injured in any 1 accident, and coverage for property damage in an amount of $5,000 for property damage in any 1 accident for the protection of persons insured thereunder who are legally entitled to recover damages from owners or operators of uninsured motor vehicles.</text>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 5-114.01, § 31-2402, § 31-2403, § 31-2404, § 31-2405, and § 31-2411.</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>Any payments for property damage made pursuant to this subsection shall be subject to a deductible amount of $200.</text>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-2106.</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>The named insured may require the issuance of coverage for bodily injury or death and property damage in accordance with a schedule of optional higher amounts up to the amount of $100,000 per person injured in any 1 accident or $300,000 for all persons injured in any 1 accident, and up to $25,000 for property damages for the protection of persons insured thereunder who are legally entitled to recover damages from owners or operators of uninsured motor vehicles.</text>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-117 added par. (a)(2A).</text>
+      <text>D.C. Law 16-279 added subsec. (h).</text>
+      <text>D.C. Law 17-353, in subsec. (f)(1)(B), substituted "insurer denies coverage" for "insured denies coverage"; and validated previously made technical corrections in subsec. (h).</text>
+      <text>The 2013 amendment by D.C. Law 19-290 substituted "motorcycles and motor-driven cycles" for "motorcycles" in (c-1).</text>
     </level>
     <level>
-      <num>(5)</num>
-      <text>To the extent of any payment made to any person by the insurer under the coverage required by this section and subject to the terms and conditions of the coverage, the insurer is entitled to the proceeds of any settlement or judgment resulting from the exercise of any rights of recovery of any person against any other person legally responsible for the bodily injury or death for which the payment is made, including any amount recoverable from an insurer which is or becomes the subject of an insolvency proceeding through such proceedings or in any other lawful manner.</text>
+      <heading>Legislative History of Law 4-155</heading>
+      <text>For legislative history of D.C. Law 4-155, see Historical and Statutory Notes following § 31-2401.</text>
     </level>
     <level>
-      <num>(6)</num>
-      <text>No insurer shall attempt to recover any amount against the insured of an insurer which is or becomes the subject of insolvency proceedings.</text>
+      <heading>Legislative History of Law 6-96</heading>
+      <text>For legislative history of D.C. Law 6-96, see Historical and Statutory Notes following § 31-2408.01.</text>
     </level>
     <level>
-      <num>(7)</num>
-      <text>Any motor vehicle policy of insurance may include terms and conditions that preclude stacking of uninsured motor vehicle coverages.</text>
-    </level>
-  </level>
-  <level>
-    <num>(g)</num>
-    <text><text i="True">Prohibitions.</text> -- A victim is prohibited from claiming personal injury protection benefits under this chapter, other than to compensate for any deductible, if the victim is eligible for compensation for the loss covered by personal injury protection from another insurer or another insurance coverage, unless the victim has exhausted benefits offered by the insurer or insurance coverage.</text>
-  </level>
-  <level>
-    <num>(h)</num>
-    <text><text i="True">Additional reporting obligations.</text> -- The Director may require a person whose driver's license or registration was revoked to obtain insurance coverage that includes additional reporting obligations, including SR 22 insurance coverage, prior to the issuance or reinstatement of a driver's license or registration, or both.</text>
-  </level>
-  <level>
-    <type>annotations</type>
-    <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 18, 1982, D.C. Law 4-155, § 7, 29 DCR 3491; Mar. 4, 1986, D.C. Law 6-96, § 2(e), 32 DCR 7245; Feb. 24, 1987, D.C. Law 6-192, § 19, 33 DCR 7836; Sept. 20, 1996, D.C. Law 11-160, § 2(b), 43 DCR 3722; May 21, 1997, D.C. Law 11-268, § 10(v), 44 DCR 1730; June 8, 2006, D.C. Law 16-117, § 201(b), 53 DCR 2548; Mar. 14, 2007, D.C. Law 16-279, § 101, 54 DCR 903; Mar. 25, 2009, D.C. Law 17-353, §§ 197(a), 246, 56 DCR 1117.)</text>
+      <heading>Legislative History of Law 6-192</heading>
+      <text>Law 6-192, the "Technical Amendments Act of 1986," was introduced in Council and assigned Bill No. 6-544, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 5, 1986, and November 18, 1986, respectively. Signed by the Mayor on December 10, 1986, it was assigned Act No. 6-246 and transmitted to both Houses of Congress for its review.</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-2106.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-117 added par. (a)(2A).</text>
-        <text>D.C. Law 16-279 added subsec. (h).</text>
-        <text>D.C. Law 17-353, in subsec. (f)(1)(B), substituted "insurer denies coverage" for "insured denies coverage"; and validated previously made technical corrections in subsec. (h).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-155, see Historical and Statutory Notes following § 31-2401.</text>
-        <text>For legislative history of D.C. Law 6-96, see Historical and Statutory Notes following § 31-2408.01.</text>
-        <text>Law 6-192, the "Technical Amendments Act of 1986," was introduced in Council and assigned Bill No. 6-544, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 5, 1986, and November 18, 1986, respectively. Signed by the Mayor on December 10, 1986, it was assigned Act No. 6-246 and transmitted to both Houses of Congress for its review.</text>
-        <text>For legislative history of D.C. Law 11-160, see Historical and Statutory Notes following § 31-2405.</text>
-        <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-2402.</text>
-        <text>For D.C. Law 16-117, see notes following § 31-2402.</text>
-        <text>Law 16-279, the "Department of Motor Vehicles Service and Safety Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-821, which was referred to Committee on Public Works and Environment. The Bill was adopted on first and second readings on November 14, 2006, and December 5, 2006, respectively. Signed by the Mayor on December 28, 2006, it was assigned Act No. 16-636 and transmitted to both Houses of Congress for its review. D.C. Law 16-279 became effective on March 14, 2007.</text>
-        <text>For Law 17-353, see notes following § 31-1131.06.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Report of the Commissioner of Insurance and Securities: Section 5 of D.C. Law 11-160 provided that "Within two years of September 20, 1996, the Commissioner of Insurance and Securities shall prepare and submit to the Council of the District of Columbia for its review a report on the impact of this act on the private passenger motor vehicle insurance market or any part thereof, the funding for the Office of Insurance, the District of Columbia insurance premium tax, the number of insurers doing business in the District, and the number of insurers domiciled in the District of Columbia. In preparing such report, the Commissioner may request from specific private passenger motor vehicle insurers doing business in the District, or from all such insurers, reasonable and pertinent information. Information which is proprietary to any affected insurer shall be treated as confidential by the Commissioner, but may be used in the aggregate with other information from other affected insurers for statistical or other reporting purposes."</text>
-        <text>Department of Insurance abolished: See Historical and Statutory Notes following § 31-2402.</text>
-      </level>
+      <heading>Legislative History of Law 11-160</heading>
+      <text>For legislative history of D.C. Law 11-160, see Historical and Statutory Notes following § 31-2405.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 31-2402.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-117</heading>
+      <text>For D.C. Law 16-117, see notes following § 31-2402.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-279</heading>
+      <text>Law 16-279, the "Department of Motor Vehicles Service and Safety Amendment Act of 2006", was introduced in Council and assigned Bill No. 16-821, which was referred to Committee on Public Works and Environment. The Bill was adopted on first and second readings on November 14, 2006, and December 5, 2006, respectively. Signed by the Mayor on December 28, 2006, it was assigned Act No. 16-636 and transmitted to both Houses of Congress for its review. D.C. Law 16-279 became effective on March 14, 2007.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 31-1131.06.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-290</heading>
+      <text>See note to § 31-2402.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Report of the Commissioner of Insurance and Securities: Section 5 of D.C. Law 11-160 provided: "Within two years of September 20, 1996, the Commissioner of Insurance and Securities shall prepare and submit to the Council of the District of Columbia for its review a report on the impact of this act on the private passenger motor vehicle insurance market or any part thereof, the funding for the Office of Insurance, the District of Columbia insurance premium tax, the number of insurers doing business in the District, and the number of insurers domiciled in the District of Columbia. In preparing such report, the Commissioner may request from specific private passenger motor vehicle insurers doing business in the District, or from all such insurers, reasonable and pertinent information. Information which is proprietary to any affected insurer shall be treated as confidential by the Commissioner, but may be used in the aggregate with other information from other affected insurers for statistical or other reporting purposes."</text>
+      <text>Department of Insurance abolished: See Historical and Statutory Notes following § 31-2402.</text>
     </level>
   </level>
 </level>

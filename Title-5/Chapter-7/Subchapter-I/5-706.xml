@@ -1,10 +1,28 @@
 <level type="section">
   <num>5-706</num>
   <heading>Deductions, deposits, and refunds; order of persons entitled to refunds for deductions.</heading>
-  <formerly-cited-as>DC ST 1981 § 4-612</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>On and after the first day of the first pay period which begins on or after October 26, 1970 there shall be deducted and withheld from each member's basic salary an amount equal to 7% of such basic salary for all members hired before the first day of the first pay period that begins after October 29, 1996, and 8% of such basic salary for all members hired on or after the first day of the first pay period that begins after October 29, 1996. In the case of a member who is an officer or member of the Metropolitan Police force or the Fire Department of the District of Columbia, such deductions and withholdings shall be paid to the District of Columbia Retirement Board and shall be deposited in the District of Columbia Police Officers and Fire Fighters' Retirement Fund established by § 1-712; and in the case of any other member, such deductions and withholdings shall be paid to the Collector of Taxes of the District of Columbia, and shall be deposited in the Treasury to the credit of the District of Columbia.</text>
+    <level>
+      <num>(1)</num>
+      <text>On and after the first day of the first pay period that begins on or after October 26, 1970, there shall be deducted and withheld from each member's basic salary an amount equal to 7% of such basic salary for all members hired before the first day of the first pay period that begins after October 29, 1996, and 8% of such basic salary for all members hired on or after the first day of the first pay period that begins after October 29, 1996. In the case of a member who is an officer or member of the Metropolitan Police force or the Fire Department of the District of Columbia, these deductions and withholdings shall be paid to the District of Columbia Retirement Board and shall be deposited in the District of Columbia Police Officers and Fire Fighters' Retirement Fund established by § 1-712, and in the case of any other member, these deductions and withholdings shall be paid to the Collector of Taxes of the District of Columbia and shall be deposited in the Treasury to the credit of the District of Columbia. Amounts deducted and withheld from the basic salary of each member of the District of Columbia Fire and Emergency Medical Services Department shall be:</text>
+      <level>
+        <num>(A)</num>
+        <text>Picked up by the District of Columbia Fire and Emergency Medical Services Department, as described in section 414(h)(2) of the Internal Revenue Code of 1986;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Deducted and withheld from the annual salary of the members as salary reduction contributions;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Paid by the District of Columbia Fire and Emergency Medical Services Department to the Custodian of Retirement Funds (as defined in § 1-702(6)); and</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Made a part of the member's annuity benefit.</text>
+      </level>
+    </level>
   </level>
   <level>
     <num>(b)</num>
@@ -59,20 +77,20 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>Any individual withdrawing any distribution under this section, which distribution constitutes an eligible rollover distribution within the meaning of section 402(c) of the Internal Revenue Code of 1986, approved August 16, 1954 (68A Stat. 135; 26 U.S.C. § 402(c)) ("Internal Revenue Code of 1986"), may elect, at the time and in the manner prescribed by the District of Columbia Retirement Board, and after receipt of proper notice, to have any portion of the distribution paid directly to an eligible retirement plan, within the meaning of section 402(c) of the Internal Revenue Code of 1986, in a direct rollover.</text>
+    <text>An individual withdrawing a distribution under this section, which distribution constitutes an eligible rollover distribution within the meaning of section 402(c) of the Internal Revenue Code of 1986, may elect, at the time and in the manner prescribed by the District of Columbia Retirement Board, and after receipt of proper notice, to have any portion of an eligible rollover distribution paid directly to an eligible retirement plan, within the meaning of section 402(c) of the Internal Revenue Code of 1986, in a direct rollover in accordance with section 401(a)(31) of the Internal Revenue Code of 1986.</text>
   </level>
   <level>
     <num>(f)</num>
-    <text>The District of Columbia Retirement Board shall be entrusted with any transfer from another retirement plan for the purchase of service credit, including transfers allowed by sections 403(b) and 457 of the Internal Revenue Code of 1986. Before any transfer is received, the District of Columbia Retirement Board shall be presented with documentation sufficient to satisfy the provisions of the Internal Revenue Code of 1986 governing the substantiation of proposed transfers for the purchase of service credit.</text>
+    <text>The District of Columbia Retirement Board shall be entrusted with any transfer from another retirement plan for the purchase of service credit, including transfers allowed by sections 403(b) and 457 of the Internal Revenue Code of 1986 [26 U.S.C. § 403; 26 U.S.C. § 457]. Before any transfer is received, the District of Columbia Retirement Board shall be presented with documentation sufficient to satisfy the provisions of the Internal Revenue Code of 1986 governing the substantiation of proposed transfers for the purchase of service credit.</text>
   </level>
   <level>
     <num>(g)</num>
     <level>
       <num>(1)</num>
-      <text>The District of Columbia Retirement Board shall also be entrusted with any rollover contribution from:</text>
+      <text>The District of Columbia Retirement Board shall also be entrusted with a rollover contribution from an eligible retirement plan, including:</text>
       <level>
         <num>(A)</num>
-        <text>A qualified plan described in section 401(a) or 403(b) of the Internal Revenue Code of 1986, excluding after-tax employee contributions;</text>
+        <text>A qualified plan described in sections 401(a) or 403(b) of the Internal Revenue Code of 1986, excluding after-tax employee contributions;</text>
       </level>
       <level>
         <num>(B)</num>
@@ -80,7 +98,7 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>An eligible plan under section 457(b) of the Internal Revenue Code of 1986 which is maintained by a state, political subdivision of a state, or any agency or instrumentality of a state or political subdivision of a state; or</text>
+        <text>An eligible plan under section 457(b) of the Internal Revenue Code of 1986, which is maintained by a state, political subdivision of a state, or an agency or instrumentality of a state or political subdivision of a state; or</text>
       </level>
       <level>
         <num>(D)</num>
@@ -94,66 +112,151 @@
   </level>
   <level>
     <num>(h)</num>
-    <text>The District of Columbia Retirement Board shall administer the plan in the manner required to satisfy the applicable qualification requirements for a qualified governmental plan pursuant to the Internal Revenue Code of 1986. If a conflict should arise with a qualification requirement, the provision shall be interpreted in favor of maintaining the federal qualification requirements.</text>
+    <text>The provisions of this subchapter shall constitute a defined benefit plan and a governmental plan as described in section 414(d) of the Internal Revenue Code of 1986, which is intended to qualify under section 401(a) of the Internal Revenue Code. Notwithstanding anything to the contrary contained in this subchapter, the District of Columbia Retirement Reform Act, approved November 19, 1977 (93 Stat. 866; D.C. Official Code § 1-701 et seq.), or the Police Officers, Fire Fighters, and Teachers Retirement Benefit Replacement Plan Act of 1998, effective September 18, 1998 (D.C. Law 12-152; D.C. Official Code § 1-901 et seq.), the provisions of this subchapter shall apply to and control the provision of an annuity payable. The District of Columbia Retirement Board shall administer the plan in the manner required to satisfy the applicable qualification requirements for a qualified governmental plan pursuant to the Internal Revenue Code of 1986. If a conflict should arise with a qualification requirement, the provision shall be interpreted in favor of maintaining the federal qualification requirements.</text>
   </level>
   <level>
     <num>(i)</num>
     <text>The District of Columbia Retirement Board may adopt rules to implement this section.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(j)</num>
+    <text>Effective January 1, 2007, benefits payable under this subchapter shall not be paid until at least 30 days (or shorter period as may be permitted by law) but no more than 180 days after a member's receipt of all required distribution notices and election forms pursuant to section 402(f) of the Internal Revenue Code of 1986. The required notices must include a description of the member's right (if any) to defer receipt of a distribution, the consequences of failing to defer receipt of the distribution, the relative value of optional forms of benefit, and other information as may be required by applicable regulations and guidance.</text>
+  </level>
+  <level>
+    <num>(k)</num>
+    <text>Notwithstanding any provisions of this subchapter to the contrary, upon the employer's request, a contribution which was made by a mistake of fact shall be returned to the employer by the trustee within one year after the payment of the contribution. A portion of a contribution returned pursuant to this section shall be adjusted to reflect any earnings or gains. Notwithstanding any provisions of this subchapter to the contrary, the right or claim of a participant or beneficiary to an asset of the trust or a benefit under this subchapter shall be subject to and limited by the provisions of this paragraph.</text>
+  </level>
+  <level>
+    <num>(l)</num>
+    <text>For the purposes of this section, the term:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 1, 1916, ch. 433, § 12(d); Aug. 21, 1957, 71 Stat. 393, Pub. L. 85- 157, § 3; Aug. 20, 1958, 72 Stat. 686, Pub. L. 85-693, § 1; Oct. 26, 1970, 84 Stat. 1136, Pub. L. 91-509, § 1(13); Nov. 15, 1977, 91 Stat. 1371, Pub. L. 95-179; Nov. 17, 1979, 93 Stat. 866, Pub. L. 96-122, §§ 122(b)(1), 208(a)(1); Apr. 9, 1997, D.C. Law 11-218, § 2(b), 43 DCR 6172; Oct. 1, 2002, D.C. Law 14-190, § 3722(a), 49 DCR 6968; Mar. 13, 2004, D.C. Law 15-105, § 40(a), 51 DCR 881; Apr. 13, 2005, D.C. Law 15-354, § 13(b), 52 DCR 2638; Mar. 2, 2007, D.C. Law 16-191, § 27(b), 53 DCR 6794.)</text>
+      <num>(1)</num>
+      <text>"Direct rollover" means a payment to the eligible retirement plan specified by the distributee described in section 402(e)(6) of the Internal Revenue Code of 1986.</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
+      <num>(2)</num>
+      <text>"Distributee" means a member or former member. In addition, the member's or former member's surviving spouse is a distributee with regard to the interest of the spouse or former spouse. A non-spouse beneficiary of a deceased member is also a distributee for the purposes of this subchapter; provided, that in the case of a non-spouse beneficiary, the direct rollover may be made only to an individual retirement account or annuity under section 408 of the Internal Revenue Code of 1986 that is established on behalf of the non-spouse beneficiary and that will be treated as an inherited IRA pursuant to the provisions of section 402(c)(11) of the Internal Revenue Code of 1986. The determination of the extent to which a distribution to a non-spouse beneficiary is required under section 401(a)(9) of the Internal Revenue Code of 1986 shall be made in accordance with IRS Notice 2007-7, Q&amp;A 17 and 18, 2007-5 I.R.B. 395.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>"Eligible retirement plan" means:</text>
       <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 4-612.</text>
-        <text>1973 Ed., § 4-524.</text>
+        <num>(A)</num>
+        <text>An individual retirement account described in section 408(a) of the Internal Revenue Code of 1986, including a Roth IRA described in section 408A of the Internal Revenue Code of 1986;</text>
       </level>
       <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-190 added subsecs. (e) to (i).</text>
-        <text>D.C. Law 15-105, in subsec. (i), validated a previously made technical correction.</text>
-        <text>D.C. Law 15-354 substituted "District of Columbia Retirement Board" for "Mayor"; and substituted "District of Columbia Retirement Board" for "Custodian of Retirement Funds".</text>
-        <text>D.C. Law 16-191, in subsec. (a), validated a previously made technical correction.</text>
+        <num>(B)</num>
+        <text>An individual retirement annuity described in section 408(b) of the Internal Revenue Code of 1986, including a Roth IRA described in section 408A of the Internal Revenue Code of 1986;</text>
       </level>
       <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of section, see § 2(b) of the New Hires Police Officers, Fire Fighters, and Teachers Pension Modification Emergency Amendment Act of 1996 (D.C. Act 11-428, October 29, 1996, 43 DCR 6147), and § 2(b) of the New Hires Police Officers, Fire Fighters, and Teachers Pension Modification Congressional Adjournment Emergency Amendment Act of 1997 (D.C. Act 12-10, March 3, 1997, 44 DCR 1633).</text>
-        <text>For temporary (90 day) amendment of section, see §§ 3622(a) and 3623 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
+        <num>(C)</num>
+        <text>A qualified trust described in section 401(a) of the Internal Revenue Code of 1986 or an annuity plan described in section 403(a) of the Internal Revenue Code of 1986 that accepts the distributee's eligible rollover distribution;</text>
       </level>
       <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-135, see Historical and Statutory Notes following § 5-745.</text>
-        <text>For legislative history of D.C. Law 11-218, see Historical and Statutory Notes following § 5-701.</text>
-        <text>For Law 14-190, see notes following § 5-133.19.</text>
-        <text>For Law 15-105, see notes following § 5-409.01.</text>
-        <text>For Law 15-354, see notes following § 5-101.04.</text>
-        <text>For Law 16-191, see notes following § 5-113.07.</text>
+        <num>(D)</num>
+        <text>An annuity contract described in section 403(b) of the Internal Revenue Code of 1986 that accepts the distributee's eligible rollover distribution; and</text>
       </level>
       <level>
-        <heading>References in Text</heading>
-        <text>The effective date of the Policemen and Firemen's Retirement and Disability Act Amendments of 1970, referred to in the first sentence of subsection (a) of this section, is prescribed by § 2 of the Act of October 26, 1970, 84 Stat. 1136, Pub. L. 91-509.</text>
-        <text>Section 403(b) of the Internal Revenue Code of 1986, referred to in subsec. (d)(6) and (7), is classified as 26 U.S.C.A. § 403(b).</text>
-        <text>Section 457 of the Internal Revenue Code of 1986, referred to in subsec. (d)(6) and (7)(A)(iii), is classified as 26 U.S.C.A. § 457.</text>
-        <text>Section 401(a) of the Internal Revenue Code of 1986, referred to in subsec. (d)(7)(A)(i), is classified as 26 U.S.C.A. § 401(a).</text>
-        <text>Section 408(a) or 408(b) of the Internal Revenue Code of 1986, referred to in subsec. (d)(7)(A)(iv), is classified as 26 U.S.C.A. § 408(a) or 408(b).</text>
+        <num>(E)</num>
+        <text>An eligible plan described in section 457(b) of the Internal Revenue Code of 1986 that is maintained by a state, political subdivision of a state, or an agency or instrumentality of a state or political subdivision of a state that accepts the distributee's eligible rollover distribution and agrees to account separately for amounts transferred into such plan from the arrangement described under this paragraph. The definition of eligible retirement plan shall also apply in the case of a distribution to a surviving spouse, or to a spouse or former spouse who is the alternate payee under a domestic relations order.</text>
+      </level>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>"Eligible rollover distribution," within the meaning of section 402(c) of the Internal Revenue Code of 1986, is a distribution of all or a portion of the balance to the credit of the distributee; provided, that an eligible rollover distribution does not include:</text>
+      <level>
+        <num>(A)</num>
+        <text>A distribution that is one of a series of substantially equal periodic payments (not less frequently than annually) made for the life (or life expectancy) of the distributee or the joint lives (or joint life expectancies) of the distributee and the distributee's designated beneficiary, or for a specified period of 10 years or more; and</text>
       </level>
       <level>
-        <heading>Change in Government</heading>
-        <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
+        <num>(B)</num>
+        <text>A distribution to the extent such distribution is required under section 401(a)(9) of the Internal Revenue Code of 1986. A distribution to a nonspouse beneficiary under section 401(f)(2)(A) of the Internal Revenue Code of 1986 is an eligible rollover distribution. A portion of the distribution shall not fail to be an eligible rollover distribution merely because the portion consists of after-tax employee contributions which are not includible in gross income. However, the portion may be paid only to an individual retirement account or annuity described in section 408(a) or (b) of the Internal Revenue Code of 1986 or to a qualified trust or annuity plan described in section 401(a) or 403(a) of the Internal Revenue Code of 1986 or an annuity contract described in section 403(b) of the Internal Revenue Code of 1986 if the trust or annuity plan or contract provides for separate accounting for amounts so transferred (and earnings thereon), including separately accounting for the portion of the distribution that is includible in gross income and the portion of the distribution that is not so includible.</text>
       </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Policemen and Firemen's Retirement and Disability Act: Section 3(r) of Pub. L. 85-157 provides that this section may be cited as part of the Policemen and Firemen's Retirement and Disability Act.</text>
-        <text>Coverage Under Federal Employees' Retirement Act: See Historical and Statutory Notes following § 5-742.</text>
-        <text>Full Funding of Pension Liability Reform Amendment Act of 1994: Section 301 of D.C. Law 10-135 amended the first sentence of (a) by inserting "(or, with respect to a member who is an officer or member of the Metropolitan Police force or the Fire Department of the District of Columbia, 8% for each pay period which begins on or after October 1, 1995)" following "7%."</text>
-        <text>Section 3723 of D.C. Law 14-190 provides: "This subtitle [subtitle B of title XXXVII, §§ 3721 to 3724, of D.C. Law 14-190] shall apply as of January 1, 2002."</text>
-        <text>Short title of subtitle B of title XXXVII of Law 14-190: Section 3721 of D.C. Law 14-190 provided that subtitle B of title XXXVII of the act may be cited as the Police and Fire Retirement Consolidation Amendment Act of 2002.</text>
-      </level>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Sept. 1, 1916, ch. 433, § 12(d); Aug. 21, 1957, 71 Stat. 393, Pub. L. 85-157, § 3; Aug. 20, 1958, 72 Stat. 686, Pub. L. 85-693, § 1; Oct. 26, 1970, 84 Stat. 1136, Pub. L. 91-509, § 1(13); Nov. 15, 1977, 91 Stat. 1371, Pub. L. 95-179; Nov. 17, 1979, 93 Stat. 866, Pub. L. 96-122, §§ 122(b)(1), 208(a)(1); Apr. 9, 1997, D.C. Law 11-218, § 2(b), 43 DCR 6172; Oct. 1, 2002, D.C. Law 14-190, § 3722(a), 49 DCR 6968; Mar. 13, 2004, D.C. Law 15-105, § 40(a), 51 DCR 881; Apr. 13, 2005, D.C. Law 15-354, § 13(b), 52 DCR 2638; Mar. 2, 2007, D.C. Law 16-191, § 27(b), 53 DCR 6794; May 1, 2013, D.C. Law 19-314, § 2(c), 60 DCR 3466.)</text>
+    </level>
+    <level>
+      <heading>Cross References</heading>
+      <text>District of Columbia police officers and firefighters retirement fund, see § 1-712.</text>
+      <text>Retirement fund for police officers and fire fighters, see § 1-903.01.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-712, § 1-903.01, § 5-704, § 5-717, and § 5-741.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 4-612.</text>
+      <text>1973 Ed., § 4-524.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-190 added subsecs. (e) to (i).</text>
+      <text>D.C. Law 15-105, in subsec. (i), validated a previously made technical correction.</text>
+      <text>D.C. Law 15-354 substituted "District of Columbia Retirement Board" for "Mayor"; and substituted "District of Columbia Retirement Board" for "Custodian of Retirement Funds".</text>
+      <text>D.C. Law 16-191, in subsec. (a), validated a previously made technical correction.</text>
+      <text>The 2013 amendment by D.C. Law 19-314 rewrote (a), (e), (g)(1), and (h); and added (j), (k), and (l).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 2(b) of the New Hires Police Officers, Fire Fighters, and Teachers Pension Modification Emergency Amendment Act of 1996 (D.C. Act 11-428, October 29, 1996, 43 DCR 6147), and § 2(b) of the New Hires Police Officers, Fire Fighters, and Teachers Pension Modification Congressional Adjournment Emergency Amendment Act of 1997 (D.C. Act 12-10, March 3, 1997, 44 DCR 1633).</text>
+      <text>For temporary (90 day) amendment of section, see §§ 3622(a) and 3623 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
+      <text>For temporary amendment of (1), (5), (7)(A), and (8), and addition of (10) and (11), see § 2(b) of the Police and Firefighter's Retirement and Disability Omnibus Emergency Amendment Act of 2012 (D.C. Act 19-585, January 1, 2013, 60 DCR 151).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-135</heading>
+      <text>For legislative history of D.C. Law 10-135, see Historical and Statutory Notes following § 5-745.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-218</heading>
+      <text>For legislative history of D.C. Law 11-218, see Historical and Statutory Notes following § 5-701.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-190</heading>
+      <text>For Law 14-190, see notes following § 5-133.19.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>For Law 15-105, see notes following § 5-409.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 5-101.04.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 5-113.07.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-314</heading>
+      <text>See note to § 5-701.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title of subtitle B of title XXXVII of Law 14-190: Section 3721 of D.C. Law 14-190 provided that subtitle B of title XXXVII of the act may be cited as the Police and Fire Retirement Consolidation Amendment Act of 2002.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>The effective date of the Policemen and Firemen's Retirement and Disability Act Amendments of 1970, referred to in the first sentence of subsection (a) of this section, is prescribed by § 2 of the Act of October 26, 1970, 84 Stat. 1136, Pub. L. 91-509.</text>
+      <text>Section 403(b) of the Internal Revenue Code of 1986, referred to in subsec. (d)(6) and (7), is codified as 26 U.S.C. § 403(b).</text>
+      <text>Section 457 of the Internal Revenue Code of 1986, referred to in subsec. (d)(6) and (7)(A)(iii), is codified as 26 U.S.C. § 457.</text>
+      <text>Section 401(a) of the Internal Revenue Code of 1986, referred to in subsec. (d)(7)(A)(i), is codified as 26 U.S.C. § 401(a).</text>
+      <text>Section 408(a) or 408(b) of the Internal Revenue Code of 1986, referred to in subsec. (d)(7)(A)(iv), is codified as 26 U.S.C. § 408(a) or 408(b).</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Policemen and Firemen's Retirement and Disability Act: Section 3(r) of Pub. L. 85-157 provided that this section may be cited as part of the Policemen and Firemen's Retirement and Disability Act.</text>
+      <text>Coverage Under Federal Employees' Retirement Act: See Historical and Statutory Notes following § 5-742.</text>
+      <text>Full Funding of Pension Liability Reform Amendment Act of 1994: Section 301 of D.C. Law 10-135 amended the first sentence of (a) by inserting "(or, with respect to a member who is an officer or member of the Metropolitan Police force or the Fire Department of the District of Columbia, 8% for each pay period which begins on or after October 1, 1995)" following "7%."</text>
+      <text>Section 3723 of D.C. Law 14-190 provided: "This subtitle subtitle B of title XXXVII, §§ 3721 to 3724, of D.C. Law 14-190 shall apply as of January 1, 2002."</text>
+    </level>
+    <level>
+      <heading>Change in Government</heading>
+      <text>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 (D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act (D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</text>
     </level>
   </level>
 </level>

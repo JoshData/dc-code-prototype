@@ -1,7 +1,6 @@
 <level type="section">
   <num>1-620.23</num>
   <heading>Testing methodology.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-621.63</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Testing shall be performed by an outside contractor. The contractor shall be certified by the United States Department of Health and Human Services ("HHS") to perform job related drug and alcohol forensic testing.</text>
@@ -33,43 +32,45 @@
     <num>(f)</num>
     <text>A breathalyzer shall be deemed positive by the Department of Mental Health's or Department of Human Services' testing contractor if the contractor determines that 1 milliliter of the employee's breath (consisting of substantially alveolar air) contains .38 micrograms or more of alcohol.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-139, § 2023, as added, Apr. 13, 1999, D.C. Law 12-227, § 2, 46 DCR 502; Dec. 18, 2001, D.C. Law 14-56, § 116(a)(5), 48 DCR 7674.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-621.63.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-56, in subsecs. (b)(1) and (d), substituted "Department of Mental Health or Department of Human Services" for "Department or Commission" wherever it appeared; and, in subsec. (g), substituted "Department of Mental Health's and Department of Human Services"' for "Department's and Commission's" wherever it appeared.</text>
-      </level>
-      <level>
-        <heading>Temporary Amendments of Section</heading>
-        <text>For temporary (225 day) amendment of section, see § 16(a)(5) of Department of Mental Health Establishment Temporary Amendment Act of 2001 (D.C. Law 14-51, October 30, 2001, law notification 48 DCR 10807).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary addition of subchapter, see note to § 1-620.21.</text>
-        <text>For temporary (90 day) amendment of section, see § 16(a)(5) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001, 48 DCR 4390).</text>
-        <text>For temporary (90 day) amendment of section, see § 16(a)(5) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001, 48 DCR 7123).</text>
-        <text>For temporary (90 day) amendment of section, see § 116(a)(5) of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-191, see Historical and Statutory Notes following § 1-620.21.</text>
-        <text>For legislative history of D.C. Law 12-227, see Historical and Statutory Notes following § 1-620.21.</text>
-        <text>For Law 14-56, see notes following § 1-603.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Temporary addition of subchapter: See Historical and Statutory Notes following § 1-620.21.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-621.63.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-56, in subsecs. (b)(1) and (d), substituted "Department of Mental Health or Department of Human Services" for "Department or Commission" wherever it appeared; and, in subsec. (g), substituted "Department of Mental Health's and Department of Human Services"' for "Department's and Commission's" wherever it appeared.</text>
+    </level>
+    <level>
+      <heading>Temporary Amendment of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 16(a)(5) of Department of Mental Health Establishment Temporary Amendment Act of 2001 (D.C. Law 14-51, October 30, 2001, law notification 48 DCR 10807).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary addition of subchapter, see note to § 1-620.21.</text>
+      <text>For temporary (90 day) amendment of section, see § 16(a)(5) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001, 48 DCR 4390).</text>
+      <text>For temporary (90 day) amendment of section, see § 16(a)(5) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001, 48 DCR 7123).</text>
+      <text>For temporary (90 day) amendment of section, see § 116(a)(5) of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001, 48 DCR 9947).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-191</heading>
+      <text>For legislative history of D.C. Law 12-191, see Historical and Statutory Notes following § 1-620.21.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-227</heading>
+      <text>For legislative history of D.C. Law 12-227, see Historical and Statutory Notes following § 1-620.21.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-56</heading>
+      <text>For Law 14-56, see notes following § 1-603.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Temporary addition of subchapter: See Historical and Statutory Notes following § 1-620.21.</text>
     </level>
   </level>
 </level>

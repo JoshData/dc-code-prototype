@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>B</num>
-  <heading>Rental of Public Space on or Above Surface of Ground.</heading>
-  <level>
-    <text>DC CODE D. I, T. 10, Subt. III, Ch. 11, Subch. I, Pt. B, Refs &amp; Annos</text>
-  </level>
+  <heading>Rental of Public Space on or Above Surface of Ground</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1102.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1102.01a.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1102.02.xml"/>

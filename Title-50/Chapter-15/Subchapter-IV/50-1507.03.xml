@@ -1,7 +1,6 @@
 <level type="section">
   <num>50-1507.03</num>
   <heading>Registration.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-123</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor shall implement a program for owners and apportioned operators to obtain apportioned registrations for their fleets as promulgated under the IRP.</text>
@@ -24,39 +23,54 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>Any owner or apportioned operator who fails to comply with subsection (b), (c) or (e) of this section shall be punished by a fine not to exceed $500 or jailed not longer than 180 days, or both, for each violation. In addition, a police officer may impound the vehicle until a valid registration or a trip permit is obtained.</text>
+    <text>Any owner or apportioned operator who fails to comply with subsection (b), (c) or (e) of this section shall be punished by a fine of not more than the amount set forth in § 22-3571.01 or jailed not longer than 180 days, or both, for each violation. In addition, a police officer may impound the vehicle until a valid registration or a trip permit is obtained.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 5, 1997, D.C. Law 12-14, § 4, 44 DCR 3620; Apr. 27, 2001, D.C. Law 13-289, § 202, 48 DCR 2057; Mar. 14, 2007, D.C. Law 16-279, § 404, 54 DCR 903.)</text>
+      <heading>History</heading>
+      <text>(Sept. 5, 1997, D.C. Law 12-14, § 4, 44 DCR 3620; Apr. 27, 2001, D.C. Law 13-289, § 202, 48 DCR 2057; Mar. 14, 2007, D.C. Law 16-279, § 404, 54 DCR 903; June 11, 2013, D.C. Law 19-317, § 269, 60 DCR 2064.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-123.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 13-289 added subsecs. (e) and (f).</text>
-        <text>D.C. Law 16-279, in subsec. (d), deleted "and buses used in transportation of chartered parties" following "or less" following "pounds or less".</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>See Historical and Statutory Notes following § 50-1507.01.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-14, see Historical and Statutory Notes following § 50-1507.01.</text>
-        <text>For D.C. Law 13-289, see notes following § 50-401.</text>
-        <text>For Law 16-279, see notes following § 50-312.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of Authority to the Director of the Department of Motor Vehicles to Implement the International Registration Plan, see Mayor's Order 2005-21, January 25, 2005 (52 DCR 2841).</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 50-1401.02 and § 50-1501.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-123.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-289 added subsecs. (e) and (f).</text>
+      <text>D.C. Law 16-279, in subsec. (d), deleted "and buses used in transportation of chartered parties" following "or less" following "pounds or less".</text>
+      <text>The 2013 amendment by D.C. Law 19-317 substituted "of not more than the amount set forth in § 22-3571.01" for "not to exceed $500" in (f).</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>See Historical and Statutory Notes following § 50-1507.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-14</heading>
+      <text>For legislative history of D.C. Law 12-14, see Historical and Statutory Notes following § 50-1507.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-289</heading>
+      <text>For D.C. Law 13-289, see notes following § 50-401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-279</heading>
+      <text>For Law 16-279, see notes following § 50-312.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-317</heading>
+      <text>See note to § 50-1501.04.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of Authority to the Director of the Department of Motor Vehicles to Implement the International Registration Plan, see Mayor's Order 2005-21, January 25, 2005 (52 DCR 2841).</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
     </level>
   </level>
 </level>

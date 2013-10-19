@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-1210.03</num>
   <heading>Certain representations prohibited.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-3310.3</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Unless authorized to practice acupuncture under this chapter, a person shall not use or imply the use of the words or terms "acupuncture," "acupuncturist," or any similar title or description of services with the intent to represent that the person practices acupuncture.</text>
@@ -51,12 +50,16 @@
     <text>Unless authorized to practice pharmacy under this chapter, a person shall not use the words or terms "pharmacy," "pharmacist," "druggist," "registered pharmacist," "R.Ph.", "Ph.G.", or any similar title or description of services with the intent to represent that the person practices pharmacy.</text>
   </level>
   <level>
+    <num>(l-1)</num>
+    <text>Unless authorized to practice as a registered pharmacy technician under this chapter, a person shall not use or imply the use of the words or terms "registered pharmacy technician", "certified pharmacy technician", "pharmacy technician", "R.Ph.T.", "C.Ph.T.", "Ph.T.", or any similar title or description of services with the intent to represent that the person practices as a registered pharmacy technician.</text>
+  </level>
+  <level>
     <num>(m)</num>
     <text>Unless authorized to practice physical therapy under this chapter, a person shall not use the words or terms "physical therapy," "physical therapist," "physiotherapist," "physical therapy technician," "P.T.", "L.P.T.", "R.P.T.", "P.T.T.", or any similar title or description of services with the intent to represent that the person practices physical therapy.</text>
   </level>
   <level>
     <num>(m-1)</num>
-    <text>Unless authorized to practice as a physical therapy assistant under this chapter, a person shall not use or imply the use of the words or terms "physical therapy assistant", "licensed physical therapy assistant", "certified physical therapy assistant", "P.T.A.", "L.P.T.A. ", "C.P.T.A.", or any similar title or description of services with the intent to represent that the person practices as a physical therapy assistant.</text>
+    <text>Unless authorized to practice as a physical therapy assistant under this chapter, a person shall not use or imply the use of the words or terms "physical therapy assistant", "licensed physical therapy assistant", "certified physical therapy assistant", "P.T.A.", "L.P.T.A.", "C.P.T.A.", or any similar title or description of services with the intent to represent that the person practices as a physical therapy assistant.</text>
   </level>
   <level>
     <num>(n)</num>
@@ -109,70 +112,112 @@
   <level>
     <num>(z)</num>
     <text>Unless authorized to practice audiology or speech-language pathology pursuant to this chapter, a person shall not advertise the performance of audiology or speech-language; use a title or description such as "audiological," "audiologist," "audiology," "hearing clinic," "hearing clinician," "hearing or aural rehabilitation," "hearing specialist," "communication disorders," "communicologist," "language pathologist," "logopedist," "speech and language clinician," "speech and language therapist," "speech clinic," "speech clinician," "speech correction," "speech correctionist," "speech pathology," "speech-language pathology," "speech therapist," or "speech therapy," or any other name, style, or description denoting that the person is an audiologist or speech-language pathologist or practicing audiology or speech-language pathology.</text>
-  </level>
-  <level>
-    <num>(aa)</num>
-    <text>Unless authorized to practice as a surgical assistant under this chapter, a person shall not use or imply the use of the words or terms "surgical assistant," or "S.A.", or any similar title or description of services with the intent to represent that the person practices as a surgical assistant.</text>
-  </level>
-  <level>
-    <num>(bb)</num>
-    <text>Unless authorized to practice addiction counseling under this chapter, a person shall not use or imply the use of the words or terms "addiction counselor", "licensed addiction counselor", "supervised addiction counselor," "certified addiction counselor I", "certified addiction counselor II", "advanced practice addiction counselor", "C.A.C.I.", "C. A.C.II.", "A.P.A.C.", or any similar title or description of services with the intent to represent that the person practices as an addiction counselor.</text>
-  </level>
-  <level>
-    <num>(cc)</num>
-    <text>Unless authorized to practice as nursing assistive personnel under this chapter, a person shall not use or imply the use of the words or terms "nursing assistant,' "home health aide," "trained medication employee," "dialysis technician," "health aide," or any similar title or description of services with the intent to represent that the person practices as a member of nursing assistive personnel.</text>
-  </level>
-  <level>
-    <num>(dd)</num>
-    <text>Unless authorized to practice polysomnography under this chapter, a person shall not use or imply the use of the words or terms "polysomnographic technologist", "registered polysomnographic technologist", "licensed polysomnographic technologist", "RPSGT", "LPSGT", "polysomnographic technician", "polysomnographic trainee", or any similar title or description of services with the intent to represent that the person practices polysomnography.</text>
-  </level>
-  <level>
-    <type>annotations</type>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 25, 1986, D.C. Law 6-99, § 1003, 33 DCR 729; July 22, 1992, D.C. Law 9-126, § 2(i), 39 DCR 3824; Mar. 14, 1995, D.C. Law 10-203, § 2(g), 41 DCR 7707; Mar. 14, 1995, D.C. Law 10-205, § 2(g), 41 DCR 7712; Mar. 23, 1995, D.C. Law 10-247, § 2(y), 42 DCR 457; Apr. 18, 1996, D.C. Law 11-110, § 7(g), 43 DCR 530; March 10, 2004, D.C. Law 15-88, § 2(j), 50 DCR 10999; July 8, 2004, D.C. Law 15-172, § 2(i), 51 DCR 4938; Mar. 16, 2005, D.C. Law 15-237, § 2(i), 51 DCR 10593; Mar. 6, 2007, D.C. Law 16-219, § 2(h), 53 DCR 10211; Mar. 6, 2007, D.C. Law 16-220, § 2(e), 53 DCR 10216; Mar. 6, 2007, D.C. Law 16-228, § 2(j), 53 DCR 10244; Mar. 25, 2009, D.C. Law 17-353, § 151, 56 DCR 1117; July 7, 2009, D.C. Law 18-19, § 2(d), 56 DCR 3629; July 18, 2009, D.C. Law 18-26, § 2(h), 56 DCR 4043.)</text>
+      <num>(aa)</num>
+      <text>Unless authorized to practice as a surgical assistant under this chapter, a person shall not use or imply the use of the words or terms "surgical assistant," or "S.A.", or any similar title or description of services with the intent to represent that the person practices as a surgical assistant.</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-3310.3.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-88 added subsec. (w).</text>
-        <text>D.C. Law 15-172 added subsec. (x).</text>
-        <text>D.C. Law 15-237 added subsec. (y).</text>
-        <text>D.C. Law 16-219, added subsec. (z).</text>
-        <text>D.C. Law 16-220, added subsec. (m-1).</text>
-        <text>D.C. Law 16-228, added subsec. (aa).</text>
-        <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (aa).</text>
-        <text>D.C. Law 18-19, in subsec. (x), deleted the last sentence, which had read as follows: "Nothing in this subsection shall be construed as prohibiting a person registered to practice naturopathy or naturopathic healing under § 3- 1209.01 from using the terms "Naturopath" or "Registered Naturopath".</text>
-        <text>D.C. Law 18-26 rewrote subsec. (c); in subsec. (i), inserted "'O.T.R/L.',"; in subsec. (j), inserted "'O.T.A.L.',"; in subsec. (q), inserted "'psychology associate',"; in subsec. (t), inserted "or 'licensed graduate professional counselor"'; and added subsecs. (bb) to (cc). Prior to amendment, subsec. (c) read as follows:</text>
-        <text>"(c) Unless authorized to practice chiropractic under this chapter, a person shall not use or imply the use of the words or terms "chiropractic," "chiropractor," "Doctor of Chiropractic," "D.C.", or any similar title or description of services with the intent to represent that the person practices chiropractic."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(h) of Health Occupations Revision General Amendment Emergency Act of 2009 (D.C. Act 18-146, July 28, 2009, 56 DCR 6308).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
-        <text>For legislative history of D.C. Law 9-126, see Historical and Statutory Notes following § 3-1202.13.</text>
-        <text>For legislative history of D.C. Law 10-203, see Historical and Statutory Notes following § 3-1201.01.</text>
-        <text>For legislative history of D.C. Law 10-205, see Historical and Statutory Notes following § 3-1207.31.</text>
-        <text>For legislative history of D.C. Law 10-247, see Historical and Statutory Notes following § 3-1201.01.</text>
-        <text>For legislative history of D.C. Law 11-110, see Historical and Statutory Notes following § 3-1201.02.</text>
-        <text>For Law 15-88, see notes following § 3-1201.01.</text>
-        <text>For Law 15-172, see notes following § 3-1201.02.</text>
-        <text>For Law 15-237, see notes following § 3-1206.31.</text>
-        <text>For Law 16-219, see notes following § 3-1201.01.</text>
-        <text>For Law 16-220, see notes following § 3-1201.02.</text>
-        <text>For Law 16-228, see notes following § 3-1201.02.</text>
-        <text>For Law 17-353, see notes following § 3-308.</text>
-        <text>For Law 18-19, see notes following § 3-1201.02.</text>
-        <text>For Law 18-26, see notes following § 3-1201.01.</text>
-      </level>
+      <num>(bb)</num>
+      <text>Unless authorized to practice addiction counseling under this chapter, a person shall not use or imply the use of the words or terms "addiction counselor", "licensed addiction counselor", "supervised addiction counselor," "certified addiction counselor I", "certified addiction counselor II", "advanced practice addiction counselor", "C.A.C.I.", "C.A.C.II.", "A.P.A.C.", or any similar title or description of services with the intent to represent that the person practices as an addiction counselor.</text>
+    </level>
+    <level>
+      <num>(cc)</num>
+      <text>Unless authorized to practice as nursing assistive personnel under this chapter, a person shall not use or imply the use of the words or terms "nursing assistant," "home health aide," "trained medication employee," "dialysis technician," "health aide," or any similar title or description of services with the intent to represent that the person practices as a member of nursing assistive personnel.</text>
+    </level>
+    <level>
+      <num>(dd)</num>
+      <text>Unless authorized to practice polysomnography under this chapter, a person shall not use or imply the use of the words or terms "polysomnographic technologist", "registered polysomnographic technologist", "licensed polysomnographic technologist", "RPSGT", "LPSGT", "polysomnographic technician", "polysomnographic trainee", or any similar title or description of services with the intent to represent that the person practices polysomnography.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Mar. 25, 1986, D.C. Law 6-99, § 1003, 33 DCR 729; July 22, 1992, D.C. Law 9-126, § 2(i), 39 DCR 3824; Mar. 14, 1995, D.C. Law 10-203, § 2(g), 41 DCR 7707; Mar. 14, 1995, D.C. Law 10-205, § 2(g), 41 DCR 7712; Mar. 23, 1995, D.C. Law 10-247, § 2(y), 42 DCR 457; Apr. 18, 1996, D.C. Law 11-110,§ 7(g), 43 DCR 530; March 10, 2004, D.C. Law 15-88, § 2(j), 50 DCR 10999; July 8, 2004, D.C. Law 15-172, § 2(i), 51 DCR 4938; Mar. 16, 2005, D.C. Law 15-237, § 2(i), 51 DCR 10593; Mar. 6, 2007, D.C. Law 16-219, § 2(h), 53 DCR 10211; Mar. 6, 2007, D.C. Law 16-220, § 2(e), 53 DCR 10216; Mar. 6, 2007, D.C. Law 16-228, § 2(j), 53 DCR 10244; Mar. 25, 2009, D.C. Law 17-353,§ 151, 56 DCR 1117; July 7, 2009, D.C. Law 18-19, § 2(d), 56 DCR 3629; July 18, 2009, D.C. Law 18-26, § 2(h), 56; May 1, 2013, D.C. Law 19-303, § 2(e), 60 DCR 2711.)</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-3310.3.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-88 added subsec. (w).</text>
+      <text>D.C. Law 15-172 added subsec. (x).</text>
+      <text>D.C. Law 15-237 added subsec. (y).</text>
+      <text>D.C. Law 16-219, added subsec. (z).</text>
+      <text>D.C. Law 16-220, added subsec. (m-1).</text>
+      <text>D.C. Law 16-228, added subsec. (aa).</text>
+      <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (aa).</text>
+      <text>D.C. Law 18-19, in subsec. (x), deleted the last sentence, which had read as follows: "Nothing in this subsection shall be construed as prohibiting a person registered to practice naturopathy or naturopathic healing under § 3-1209.01 from using the terms "Naturopath" or "Registered Naturopath".</text>
+      <text>D.C. Law 18-26 rewrote subsec. (c); in subsec. (i), inserted "O.T.R/L."; in subsec. (j), inserted "O.T.A.L."; in subsec. (q), inserted "psychology associate"; in subsec. (t), inserted "or 'licensed graduate professional counselor"'; and added subsecs. (bb) to (cc). Prior to amendment, subsec. (c) read as follows: "(c) Unless authorized to practice chiropractic under this chapter, a person shall not use or imply the use of the words or terms "chiropractic," "chiropractor," "Doctor of Chiropractic," "D.C.", or any similar title or description of services with the intent to represent that the person practices chiropractic.</text>
+      <text>The 2013 amendment by D.C. Law 19-303 added (l-1).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(h) of Health Occupations Revision General Amendment Emergency Act of 2009 (D.C. Act 18-146, July 28, 2009, 56 DCR 6308).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-99</heading>
+      <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-126</heading>
+      <text>For legislative history of D.C. Law 9-126, see Historical and Statutory Notes following § 3-1202.13.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-203</heading>
+      <text>For legislative history of D.C. Law 10-203, see Historical and Statutory Notes following § 3-1201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-205</heading>
+      <text>For legislative history of D.C. Law 10-205, see Historical and Statutory Notes following § 3-1207.31.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-247</heading>
+      <text>For legislative history of D.C. Law 10-247, see Historical and Statutory Notes following § 3-1201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-110</heading>
+      <text>For legislative history of D.C. Law 11-110, see Historical and Statutory Notes following § 3-1201.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-88</heading>
+      <text>For Law 15-88, see notes following § 3-1201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-172</heading>
+      <text>For Law 15-172, see notes following § 3-1201.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-237</heading>
+      <text>For Law 15-237, see notes following § 3-1206.31.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-219</heading>
+      <text>For Law 16-219, see notes following § 3-1201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-220</heading>
+      <text>For Law 16-220, see notes following § 3-1201.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-228</heading>
+      <text>For Law 16-228, see notes following § 3-1201.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 3-308.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-19</heading>
+      <text>For Law 18-19, see notes following § 3-1201.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-26</heading>
+      <text>For Law 18-26, see notes following § 3-1201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-303</heading>
+      <text>See note to § 3-1202.08.</text>
     </level>
   </level>
 </level>

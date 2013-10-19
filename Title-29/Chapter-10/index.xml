@@ -1,64 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>10</num>
-  <heading>Limited Cooperative Associations.</heading>
-  <level>
-    <text>
-      <text font="'monospace'"> -------------------------------------------------------------------------------</text>
-    </text>
-    <text>
-      <text font="'monospace'">-------------------------------------------------------------------------------</text>
-    </text>
-    <text>
-      <text font="'monospace'"> Jurisdiction Laws Effective Statutory Citation </text>
-    </text>
-    <text>
-      <text font="'monospace'"> Date </text>
-    </text>
-    <text>
-      <text font="'monospace'">-------------------------------------------------------------------------------</text>
-    </text>
-    <text>
-      <text font="'monospace'">Colorado ...... 2011, c. 197 4-2-2012 West's C.R.S.A. §§ 7-58-101 to </text>
-    </text>
-    <text>
-      <text font="'monospace'"> 7-58-1704. </text>
-    </text>
-    <text>
-      <text font="'monospace'">District of </text>
-    </text>
-    <text>
-      <text font="'monospace'"> Columbia .... 2011, 18-378 7-2-2011 DC Code §§ 29-1001.01 to </text>
-    </text>
-    <text>
-      <text font="'monospace'"> 29-1015.08. </text>
-    </text>
-    <text>
-      <text font="'monospace'">Nebraska ...... 2008, L.B. 4-16-2008 R.R.S. 1943, §§ 21-2901 to </text>
-    </text>
-    <text>
-      <text font="'monospace'"> 848 [FN*] 21-29,134. </text>
-    </text>
-    <text>
-      <text font="'monospace'">Oklahoma ...... 2009, c. 68 1-1-2010 18 Okl.St.Ann. §§ 441-101 to </text>
-    </text>
-    <text>
-      <text font="'monospace'"> 441-1704. </text>
-    </text>
-    <text>
-      <text font="'monospace'">Utah .......... 2008, c. 363 5-5-2008 U.C.A.1953, 16-16-101 to </text>
-    </text>
-    <text>
-      <text font="'monospace'"> 16-16-1703. </text>
-    </text>
-    <text>
-      <text font="'monospace'">-------------------------------------------------------------------------------</text>
-    </text>
-    <text>
-      <text font="'monospace'">[FN*] Date of Approval. </text>
-    </text>
-    <text>DC CODE D. V, T. 29, Ch. 10, Refs &amp; Annos</text>
-  </level>
+  <heading>Limited Cooperative Associations</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-III/index.xml"/>

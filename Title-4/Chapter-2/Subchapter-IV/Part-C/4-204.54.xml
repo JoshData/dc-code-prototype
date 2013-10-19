@@ -3,55 +3,56 @@
   <heading>Purposes of the Fund.</heading>
   <text>The Fund shall be used for the following purposes:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Ensuring adequate resources are available to support District-wide Medicaid costs and revenue shortfalls;</text>
-    </level>
-    <level>
-      <num>(1A)</num>
-      <text>Ensuring adequate resources are available to support District-wide Medicare costs and revenue shortfalls;</text>
-    </level>
-    <level>
-      <num>(1B)</num>
-      <text>Ensuring adequate resources are available to support District-wide Foster Care and Adoption Assistance costs and revenue shortfalls;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Ensuring adequate resources are available to support District-wide Special Education costs and revenue shortfalls;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Supporting Medicaid, Medicare, and Foster Care and Adoption Assistance reform activities designed to establish cost-effective, agency-based Medicaid, Medicare, and Foster Care and Adoption Assistance operations; and</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Optimizing Medicaid, Medicare, Foster Care and Adoption Assistance and other third-party revenues.</text>
-    </level>
+    <num>(1)</num>
+    <text>Ensuring adequate resources are available to support District-wide Medicaid costs and revenue shortfalls;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(1A)</num>
+    <text>Ensuring adequate resources are available to support District-wide Medicare costs and revenue shortfalls;</text>
+  </level>
+  <level>
+    <num>(1B)</num>
+    <text>Ensuring adequate resources are available to support District-wide Foster Care and Adoption Assistance costs and revenue shortfalls;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>Ensuring adequate resources are available to support District-wide Special Education costs and revenue shortfalls;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Supporting Medicaid, Medicare, and Foster Care and Adoption Assistance reform activities designed to establish cost-effective, agency-based Medicaid, Medicare, and Foster Care and Adoption Assistance operations; and</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Optimizing Medicaid, Medicare, Foster Care and Adoption Assistance and other third-party revenues.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 1, 2002, D.C. Law 14-190, § 1554, 49 DCR 6968; Nov. 13, 2003, D.C. Law 15-39, § 1503(c), 50 DCR 5668.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-39, in the introductory language, substituted "The Fund shall be used for the following purposes:" for "The purposes of the Fund shall include:"; added pars. (1A) and (1B); in par. (3), substituted "Medicaid, Medicare, and Foster Care and Adoption Assistance" for "Medicaid" in two places; and in par. (4), substituted "Medicaid, Medicare, Foster Care and Adoption Assistance" for "Medicaid".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 1503(c) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003, 50 DCR 5613).</text>
-        <text>For temporary (90 day) amendment of section, see § 1503(c) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003, 50 DCR 8360).</text>
-        <text>For temporary (90 day) addition of section, see § 5142 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
-        <text>For temporary (90 day) addition of section, see § 5142 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-190, see notes following § 4-204.51.</text>
-        <text>For Law 15-39, see notes following § 4-204.11.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-204.53 and § 4-204.55.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-39, in the introductory language, substituted "The Fund shall be used for the following purposes:" for "The purposes of the Fund shall include:"; added pars. (1A) and (1B); in par. (3), substituted "Medicaid, Medicare, and Foster Care and Adoption Assistance" for "Medicaid" in two places; and in par. (4), substituted "Medicaid, Medicare, Foster Care and Adoption Assistance" for "Medicaid".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 1503(c) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003, 50 DCR 5613).</text>
+      <text>For temporary (90 day) amendment of section, see § 1503(c) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003, 50 DCR 8360).</text>
+      <text>For temporary (90 day) addition of section, see § 5142 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
+      <text>For temporary (90 day) addition of section, see § 5142 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-190</heading>
+      <text>For Law 14-190, see notes following § 4-204.51.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-39</heading>
+      <text>For Law 15-39, see notes following § 4-204.11.</text>
     </level>
   </level>
 </level>

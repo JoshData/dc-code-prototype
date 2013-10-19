@@ -17,18 +17,14 @@
     <num>(d)</num>
     <text>The individual or business entity applying for licensure shall bear the cost of the criminal history record background check and all costs of administering and processing the background check.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 27, 2003, D.C. Law 14-264, § 6a, as added May 13, 2008, D.C. Law 17-155, § 2(f), 55 DCR 3683.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-155, see notes following § 31-1131.02.</text>
-      </level>
+      <heading>Legislative History of Law 17-155</heading>
+      <text>For Law 17-155, see notes following § 31-1131.02.</text>
     </level>
   </level>
 </level>

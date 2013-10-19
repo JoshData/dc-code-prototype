@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-406</num>
   <heading>Requirements for operation of employer-paid personnel services.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-1006</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Each employer-paid personnel service shall maintain a file of all of its advertisements identified by date and publication. All advertisements and other promotional material shall carry the name under which the employer-paid personnel service is licensed to do business.</text>
@@ -62,22 +61,22 @@
       <text>Violate any provision of Chapter 39 of Title 28.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 13, 1985, D.C. Law 5-136, § 7, 31 DCR 5727.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-1006.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-136, see Historical and Statutory Notes following § 32-401.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28-3904 and § 32-401.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-1006.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-136</heading>
+      <text>For legislative history of D.C. Law 5-136, see Historical and Statutory Notes following § 32-401.</text>
     </level>
   </level>
 </level>

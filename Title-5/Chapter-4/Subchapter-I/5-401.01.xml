@@ -9,18 +9,22 @@
     <num>(b)</num>
     <text>The Fire Chief shall issue rules, in accordance with Federal Transit Administration requirements listed in 49 C.F.R. § 659, to implement subsection (a) of this section and § 5-401(c).</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 20, 1906, 34 Stat. 314, ch. 3443, § 1a, as added Sept. 20, 2012, D.C. Law 19-168, § 6012(b), 59 DCR 8025.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-168, see notes under § 5-119.10.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 5-401.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-168 added this section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>See note to § 5-401.</text>
     </level>
   </level>
 </level>

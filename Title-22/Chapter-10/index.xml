@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>10</num>
-  <heading>Cruelty to Animals.</heading>
-  <level>
-    <text>DC CODE D. IV, T. 22, Subt. I, Ch. 10, Refs &amp; Annos</text>
-  </level>
+  <heading>Cruelty to Animals</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1001.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1002.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1002.01.xml"/>

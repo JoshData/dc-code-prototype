@@ -1,7 +1,6 @@
 <level type="section">
   <num>16-1024</num>
   <heading>Penalties.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-1024</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A person who violates any provision of § 16-1022 and who takes the child to a place within the District, or detains or conceals the child within the District of Columbia is guilty of a misdemeanor and on conviction is subject to fine not exceeding $250 or performance of community service not exceeding 240 hours, or both.</text>
@@ -11,30 +10,45 @@
     <text>A person who violates any provision of § 16-1022 and who takes the child to a place outside the District or detains or conceals the child outside the District shall be punished as follows:</text>
     <level>
       <num>(1)</num>
-      <text>If the child is out of the custody of the lawful custodian for not more than 30 days, the person is guilty of a felony and on conviction is subject to a fine not exceeding $1,000 or imprisonment for 6 months, or both, except that if the person releases the child without injury in a safe place prior to arrest, the person is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $250, or performance of community service not exceeding 240 hours, or imprisonment not exceeding 30 days, or a combination of all three.</text>
+      <text>If the child is out of the custody of the lawful custodian for not more than 30 days, the person is guilty of a felony and on conviction is subject to a fine not more than the amount set forth in [§ 22-3571.01] or imprisonment for 6 months, or both, except that if the person releases the child without injury in a safe place prior to arrest, the person is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $250, or performance of community service not exceeding 240 hours, or imprisonment not exceeding 30 days, or a combination of all three.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>If the child is out of the custody of the lawful custodian for more than 30 days, the person is guilty of a felony and on conviction is subject to a fine not exceeding $5,000 or imprisonment for 1 year, or both, except that if the person releases the child without injury in a safe place prior to arrest, the person is guilty of a misdemeanor and, on conviction, is subject to a fine not exceeding $500 or imprisonment not exceeding 60 days, or both.</text>
+      <text>If the child is out of the custody of the lawful custodian for more than 30 days, the person is guilty of a felony and on conviction is subject to a fine of not more than the amount set forth in [§ 22-3571.01] or imprisonment for 1 year, or both, except that if the person releases the child without injury in a safe place prior to arrest, the person is guilty of a misdemeanor and, on conviction, is subject to a fine not more than the amount set forth in [§ 22-3571.01] or imprisonment not exceeding 60 days, or both.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(May 23, 1986, D.C. Law 6-115, § 5, 33 DCR 2424; May 10, 1989, D.C. Law 7-231, § 25(e), 36 DCR 492.)</text>
+      <heading>History</heading>
+      <text>(May 23, 1986, D.C. Law 6-115, § 5, 33 DCR 2424; May 10, 1989, D.C. Law 7-231, § 25(e), 36 DCR 492; June 11, 2013, D.C. Law 19-317, § 281(b), 60 DCR 2064.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-1024.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-115, see Historical and Statutory Notes following § 16-1021.</text>
-        <text>For legislative history of D.C. Law 7-231, see Historical and Statutory Notes following § 16-1021.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 23-563.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-1024.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-317 substituted "not more than the amount set forth in [§ 22-3571.01]" for "not exceeding $1,000" in (b)(1); and in (b)(2), substituted "of not more than the amount set forth in [§ 22-3571.01]" for "not exceeding $5,000", and substituted "not more than the amount set forth in [§ 22-3571.01]" for "not exceeding $500".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-115</heading>
+      <text>For legislative history of D.C. Law 6-115, see Historical and Statutory Notes following § 16-1021.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-231</heading>
+      <text>For legislative history of D.C. Law 7-231, see Historical and Statutory Notes following § 16-1021.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-317</heading>
+      <text>See note to § 16-1005.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
     </level>
   </level>
 </level>

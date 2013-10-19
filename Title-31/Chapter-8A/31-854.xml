@@ -3,31 +3,29 @@
   <heading>Civil or administrative proceedings.</heading>
   <text>A court may, after an in camera review, require disclosure of material for which the privilege is asserted if the court determines:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The privilege is asserted for fraudulent purposes;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The material is not subject to the privilege; or</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Even if subject to the privilege, the material shows evidence of noncompliance with District or federal statutes, rules, or orders and the company failed to take reasonable corrective action or eliminate the noncompliance within a reasonable time.</text>
-    </level>
+    <num>(1)</num>
+    <text>The privilege is asserted for fraudulent purposes;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The material is not subject to the privilege; or</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Even if subject to the privilege, the material shows evidence of noncompliance with District or federal statutes, rules, or orders and the company failed to take reasonable corrective action or eliminate the noncompliance within a reasonable time.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 11, 2003, D.C. Law 14-293, § 5, 50 DCR 296.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-293, see notes following § 31-851.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-853, § 31-856, and § 31-857.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-293</heading>
+      <text>For Law 14-293, see notes following § 31-851.</text>
     </level>
   </level>
 </level>

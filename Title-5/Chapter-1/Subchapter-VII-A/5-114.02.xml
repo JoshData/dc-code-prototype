@@ -28,18 +28,14 @@
     <num>(c)</num>
     <text>A law enforcement officer may not stop a motor vehicle solely for the purpose of demanding proof of insurance.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 8, 2006, D.C. Law 16-117, § 102, 53 DCR 2548.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 16-117, see notes following § 5-114.01.</text>
-      </level>
+      <heading>Legislative History of Law 16-117</heading>
+      <text>For D.C. Law 16-117, see notes following § 5-114.01.</text>
     </level>
   </level>
 </level>

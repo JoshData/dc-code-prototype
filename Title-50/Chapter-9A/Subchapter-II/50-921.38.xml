@@ -37,18 +37,18 @@
       <text>The WMATA estimates for the cost of adding new Metrobus service between the Rosslyn Metro station and Dupont Circle, with buses operating at intervals similar to buses of the DC Circulator route authorized under this section.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 31, 2002, D.C. Law 14-137, § 11h, as added May 27, 2010, D.C. Law 18-182, § 2(b), 57 DCR 3404.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-182, see notes following § 50-921.38.</text>
-      </level>
+      <heading>Legislative History of Law 18-182</heading>
+      <text>For Law 18-182, see notes following § 50-921.38.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>D.C. Law 19-168, § 3012, added Title IV, consisting of §§ 11h to 11k, to D.C. Law 14-137. D.C. Law 14-137, § 11h, as added by D.C. Law 19-168, , is codified as 50-921.51</text>
     </level>
   </level>
 </level>

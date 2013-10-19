@@ -3,119 +3,126 @@
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <level>
+    <num>(1)</num>
+    <text>"Board of directors" means the board of directors of a limited cooperative association.</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>"Bylaws" means the bylaws of a limited cooperative association. The term "bylaws" shall include the bylaws as amended or restated.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>"Contribution", except as used in § 29-1010.08(c), means a benefit that a person provides to a limited cooperative association to become or remain a member or in the person's capacity as a member.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>"Cooperative" means a limited cooperative association or an entity organized under any cooperative law of any jurisdiction.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Director" means a director of a limited cooperative association.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Distribution", except as used in § 29-1010.07(e), means a transfer of money or other property from a limited cooperative association to a member because of the member's financial rights or to a transferee of a member's financial rights.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Financial rights" means the right to participate in allocations and distributions as provided in subchapters X and XII of this chapter, but shall not include rights or obligations under a marketing contract governed by subchapter VII of this chapter.</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"Foreign cooperative" means an entity organized in a jurisdiction other than the District under a law similar to this chapter.</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Investor member" means a member that has made a contribution to a limited cooperative association and is not:</text>
     <level>
-      <num>(1)</num>
-      <text>"Board of directors" means the board of directors of a limited cooperative association.</text>
+      <num>(A)</num>
+      <text>Required by the organic rules to conduct patronage with the association in the member's capacity as an investor member to receive the member's interest; or</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>"Bylaws" means the bylaws of a limited cooperative association. The term "bylaws" shall include the bylaws as amended or restated.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>"Contribution", except as used in § 29-1010.08(c), means a benefit that a person provides to a limited cooperative association to become or remain a member or in the person's capacity as a member.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>"Cooperative" means a limited cooperative association or an entity organized under any cooperative law of any jurisdiction.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>"Director" means a director of a limited cooperative association.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>"Distribution", except as used in § 29-1010.07(e), means a transfer of money or other property from a limited cooperative association to a member because of the member's financial rights or to a transferee of a member's financial rights.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>"Financial rights" means the right to participate in allocations and distributions as provided in subchapters X and XII of this chapter, but shall not include rights or obligations under a marketing contract governed by subchapter VII of this chapter.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>"Foreign cooperative" means an entity organized in a jurisdiction other than the District under a law similar to this chapter.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Investor member" means a member that has made a contribution to a limited cooperative association and is not:</text>
-      <level>
-        <num>(A)</num>
-        <text>Required by the organic rules to conduct patronage with the association in the member's capacity as an investor member to receive the member's interest; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Permitted by the organic rules to conduct patronage with the association in the member's capacity as an investor member in order to receive the member's interest.</text>
-      </level>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Limited cooperative association", "domestic limited cooperative association", "association", or "domestic association" means an association organized under this chapter.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>"Member" means a person that is admitted as a patron member or investor member, or both, in a limited cooperative association. The term "member" shall not include a person that has dissociated as a member.</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>"Member's interest" means the interest of a patron member or investor member under § 29-1006.01.</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>"Members meeting" means an annual members meeting or special meeting of members.</text>
-    </level>
-    <level>
-      <num>(14)</num>
-      <text>"Organizer" means an individual who signs the initial articles of organization.</text>
-    </level>
-    <level>
-      <num>(15)</num>
-      <text>"Patron member" means a member that has made a contribution to a limited cooperative association and is:</text>
-      <level>
-        <num>(A)</num>
-        <text>Required by the organic rules to conduct patronage with the association in the member's capacity as a patron member to receive the member's interest; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Permitted by the organic rules to conduct patronage with the association in the member's capacity as a patron member to receive the member's interest.</text>
-      </level>
-    </level>
-    <level>
-      <num>(16)</num>
-      <text>"Patronage" means business transactions between a limited cooperative association and a person which entitle the person to receive financial rights based on the value or quantity of business done between the association and the person.</text>
-    </level>
-    <level>
-      <num>(17)</num>
-      <text>"Required information" means the information a limited cooperative association is required to maintain under § 29-1001.10.</text>
-    </level>
-    <level>
-      <num>(18)</num>
-      <text>"Voting group" means any combination of one or more voting members in one or more districts or classes that under the organic rules or this chapter are entitled to vote and can be counted together collectively on a matter at a members meeting.</text>
-    </level>
-    <level>
-      <num>(19)</num>
-      <text>"Voting member" means a member that, under the organic law or organic rules, has a right to vote on matters subject to vote by members under the organic law or organic rules.</text>
-    </level>
-    <level>
-      <num>(20)</num>
-      <text>"Voting power" means the total current power of members to vote on a particular matter for which a vote may or is to be taken.</text>
+      <num>(B)</num>
+      <text>Permitted by the organic rules to conduct patronage with the association in the member's capacity as an investor member in order to receive the member's interest.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(10)</num>
+    <text>"Limited cooperative association", "domestic limited cooperative association", "association", or "domestic association" means an association formed under this chapter or that becomes subject to this title under Chapter 2 of this title.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>"Member" means a person that is admitted as a patron member or investor member, or both, in a limited cooperative association. The term "member" shall not include a person that has dissociated as a member.</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>"Member's interest" means the interest of a patron member or investor member under § 29-1006.01.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>"Members meeting" means an annual members meeting or special meeting of members.</text>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>"Organizer" means an individual who signs the initial articles of organization.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>"Patron member" means a member that has made a contribution to a limited cooperative association and is:</text>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <num>(A)</num>
+      <text>Required by the organic rules to conduct patronage with the association in the member's capacity as a patron member to receive the member's interest; or</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 102 of the Uniform Limited Cooperative Association Act . See Vol. 6A , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <num>(B)</num>
+      <text>Permitted by the organic rules to conduct patronage with the association in the member's capacity as a patron member to receive the member's interest.</text>
+    </level>
+  </level>
+  <level>
+    <num>(16)</num>
+    <text>"Patronage" means business transactions between a limited cooperative association and a person which entitle the person to receive financial rights based on the value or quantity of business done between the association and the person.</text>
+  </level>
+  <level>
+    <num>(17)</num>
+    <text>"Registered foreign cooperative" means a foreign cooperative that is registered to do business in this state pursuant to a statement of registration filed by the Mayor.</text>
+  </level>
+  <level>
+    <num>(18)</num>
+    <text>"Required information" means the information a limited cooperative association is required to maintain under § 29-1001.10.</text>
+  </level>
+  <level>
+    <num>(19)</num>
+    <text>"Voting group" means any combination of one or more voting members in one or more districts or classes that under the organic rules or this chapter are entitled to vote and can be counted together collectively on a matter at a members meeting.</text>
+  </level>
+  <level>
+    <num>(20)</num>
+    <text>"Voting member" means a member that, under the organic law or organic rules, has a right to vote on matters subject to vote by members under the organic law or organic rules.</text>
+  </level>
+  <level>
+    <num>(21)</num>
+    <text>"Voting power" means the total current power of members to vote on a particular matter for which a vote may or is to be taken.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(2)(A), 59 DCR 13171.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "formed under this chapter or that becomes subject to this title under Chapter 2 of this title" for "organized under this chapter" in (10); redesignated former (17) through (20) as present (18) through (21), respectively; and added present (17).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>Law 19-210, the "'District of Columbia Official Code Title 29 Technical and Harmonizing Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-532. The Bill was adopted on first and second readings on July 10, 2012, and Oct. 2, 2012, respectively. Signed by the Mayor on Oct. 31, 2012, it was assigned Act No. 19-512 and transmitted to Congress for its review. D.C. Law 19-210 became effective on Mar. 5, 2013.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 102 of the Uniform Limited Cooperative Association Act.</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

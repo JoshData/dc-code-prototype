@@ -1,7 +1,6 @@
 <level type="section">
   <num>48-902.10</num>
   <heading>Schedule IV enumerated.</heading>
-  <formerly-cited-as>DC ST 1981 § 33-520</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The controlled substances listed in this section are included in Schedule IV, unless and until removed therefrom pursuant to § 48-902.01:</text>
@@ -194,11 +193,15 @@
       </level>
       <level>
         <num>(UU)</num>
-        <text>Tetrazepam; and</text>
+        <text>Tetrazepam;</text>
       </level>
       <level>
         <num>(VV)</num>
-        <text>Triazolam;</text>
+        <text>Triazolam; and</text>
+      </level>
+      <level>
+        <num>(WW)</num>
+        <text>Fospropofol;</text>
       </level>
     </level>
     <level>
@@ -250,7 +253,7 @@
       <text>Unless specifically excepted or unless listed in another schedule, any material, compound, mixture or preparation which contains any quantity of the following substances, including its salts:</text>
       <level>
         <num>(A)</num>
-        <text>Dextropropoxyphene (Alpha-(+)-4-dimethylamino-1), 2-diphenyl-1-3-methyl-2- propionoxybutane; and</text>
+        <text>Dextropropoxyphene (Alpha-(+)-4-dimethylamino-1), 2-diphenyl-1-3-methyl-2-propionoxybutane; and</text>
       </level>
       <level>
         <num>(B)</num>
@@ -266,22 +269,34 @@
     <num>(b)</num>
     <text>The Mayor may except by rule any compound, mixture, or preparation containing any depressant substance listed in paragraph (1) of subsection (a) of this section from the application of all or any part of this chapter if the compound, mixture, or preparation contains 1 or more active medicinal ingredients not having a depressant effect on the central nervous system, and if the admixtures are included therein in combinations, quantity, proportion, or concentration that vitiate the potential for abuse of the substances which have a depressant effect on the central nervous system.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Aug. 5, 1981, D.C. Law 4-29, § 210, 28 DCR 3081; amended by rule, 39 DCR 1882.)</text>
+      <heading>History</heading>
+      <text>(Aug. 5, 1981, D.C. Law 4-29, § 210, 28 DCR 3081; amended by rule, 39 DCR 1882; June 19, 2013, D.C. Law 19-320, § 301(e), 60 DCR 3390.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 33-520.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-29, see Historical and Statutory Notes following § 48-901.02.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-3002, § 44-1201, § 48-902.01, § 48-902.02, and § 48-1004.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 33-520.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-320 added (a)(1)(WW) and made related changes; and substituted "Cathine" for "Cathine" (made no change) in (a)(3)(D).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of (a), see § 301(e) of the Omnibus Criminal Code Amendments Emergency Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013, 60 DCR 1017).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-29</heading>
+      <text>For legislative history of D.C. Law 4-29, see Historical and Statutory Notes following § 48-901.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-320</heading>
+      <text>See note to § 48-902.01.</text>
     </level>
   </level>
 </level>

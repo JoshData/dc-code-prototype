@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-2885.15</num>
   <heading>Records.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-2015</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There shall be maintained in every pharmacy, or in the establishment or institution where a pharmacy is located, a suitable book, file, or other easily retrievable record, in which shall be preserved for a period of not less than 2 years every prescription compounded or dispensed at said pharmacy.</text>
@@ -33,27 +32,26 @@
     <num>(c)</num>
     <text>The records required to be maintained by this section shall be available for inspection by the Mayor during regular business hours.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Sept. 16, 1980, D.C. Law 3-98, § 16, 27 DCR 3528; Sept. 26, 2012, D.C. Law 19-171, § 302(b), 59 DCR 6190.)</text>
+      <heading>History</heading>
+      <text>(Sept. 16, 1980, D.C. Law 3-98, § 16, 27 DCR 3528; Sept. 26, 2012, D.C. Law 19-171, § 302, 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-2015.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-171 enacted into law Part C of subchapter IV of Chapter 28 of Title 47.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-98, see Historical and Statutory Notes following § 47-2885.01.</text>
-        <text>For history of Law 19-171, see notes under § 47-2885.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-2015.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 19-171 enacted this subchapter into law.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-98</heading>
+      <text>For legislative history of D.C. Law 3-98, see Historical and Statutory Notes following § 47-2885.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>See note to § 47-2881.</text>
     </level>
   </level>
 </level>

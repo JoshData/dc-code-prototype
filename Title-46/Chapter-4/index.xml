@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>4</num>
-  <heading>Marriage.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 46, Subt. I, Ch. 4, Refs &amp; Annos</text>
-  </level>
+  <heading>Marriage</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-401.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-401.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="46-402.xml"/>

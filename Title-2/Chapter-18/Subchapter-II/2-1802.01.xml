@@ -1,7 +1,6 @@
 <level type="section">
   <num>2-1802.01</num>
   <heading>Notice of infraction.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-2711</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>In order to initiate a proceeding under subchapter I of this chapter and this subchapter, the Mayor shall serve a notice of infraction upon a respondent. The Mayor shall retain a copy of the notice of infraction, which shall bear a certification attesting to the matters set forth in the notice.</text>
@@ -50,33 +49,34 @@
     <num>(c)</num>
     <text>If an administrative law judge or attorney examiner determines that a notice of infraction is defective on its face, the administrative law judge or attorney examiner shall enter an order dismissing the notice of infraction and shall promptly notify the respondent.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 5, 1985, D.C. Law 6-42, § 201, 32 DCR 4450; Mar. 8, 1991, D.C. Law 8-237, § 2(e), (f), 38 DCR 314; Sept. 24, 2010, D.C. Law 18-223, § 2072(b), 57 DCR 6242.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-2711.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-223 rewrote par. (b)(8), which had read as follows:</text>
-        <text>(8) Notice that failure to answer the notice of infraction within 15 calendar days from the date of service, or other period which the Mayor may establish by rule or regulation, may result in penalties, and the amount of those penalties; and".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2072(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-42, see Historical and Statutory Notes following § 2-1801.01.</text>
-        <text>For legislative history of D.C. Law 8-237, see Historical and Statutory Notes following § 2-1801.06.</text>
-        <text>For Law 18-223, see notes following § 2-218.76.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-2711.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-223 rewrote par. (b)(8), which had read as follows: (8) Notice that failure to answer the notice of infraction within 15 calendar days from the date of service, or other period which the Mayor may establish by rule or regulation, may result in penalties, and the amount of those penalties; and".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2072(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-42</heading>
+      <text>For legislative history of D.C. Law 6-42, see Historical and Statutory Notes following § 2-1801.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-237</heading>
+      <text>For legislative history of D.C. Law 8-237, see Historical and Statutory Notes following § 2-1801.06.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 2-218.76.</text>
     </level>
   </level>
 </level>

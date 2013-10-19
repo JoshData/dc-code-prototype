@@ -22,22 +22,22 @@
     <level>
       <num>(1)</num>
       <text>The BID taxes for nonexempt real properties in the Downtown BID shall be:</text>
-    </level>
-    <level>
-      <num>(A)</num>
-      <text>The amount of $.149835 per square foot for each net rentable square foot for improved Class 4 Properties where the Office of Taxation and Revenue has records indicating the net rentable area of the property. Net rentable square feet shall be the number of net rentable square feet reported to the District and shall be calculated by the owner using any method that is recognized generally in the District metropolitan area as an appropriate method for measuring space in agreements between landlords and tenants;</text>
-    </level>
-    <level>
-      <num>(B)</num>
-      <text>The amount of $.149835 per square foot for each equivalent net rentable square foot of improvements for improved Class 4 Properties for any property where the Office of Taxation and Revenue does not have records indicating the net rentable area of the property, and for improved Class 5 Properties. Equivalent net rentable area shall be 90% of the gross building area. For purposes of this paragraph, gross building area shall be determined using records provided by the Office of Taxation and Revenue;</text>
-    </level>
-    <level>
-      <num>(C)</num>
-      <text>The amount of $74.215 per hotel room for Class 3 Properties; and</text>
-    </level>
-    <level>
-      <num>(D)</num>
-      <text>The amount of $.149835 per square foot of land area for all unimproved Class 4 Properties, and all improved Class 4 Properties that are surface parking lots, and all unimproved Class 5 Properties. Land area shall be determined using records provided by the Office of Taxation and Revenue;</text>
+      <level>
+        <num>(A)</num>
+        <text>The amount of $.149835 per square foot for each net rentable square foot for improved Class 4 Properties where the Office of Taxation and Revenue has records indicating the net rentable area of the property. Net rentable square feet shall be the number of net rentable square feet reported to the District and shall be calculated by the owner using any method that is recognized generally in the District metropolitan area as an appropriate method for measuring space in agreements between landlords and tenants;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The amount of $.149835 per square foot for each equivalent net rentable square foot of improvements for improved Class 4 Properties for any property where the Office of Taxation and Revenue does not have records indicating the net rentable area of the property, and for improved Class 5 Properties. Equivalent net rentable area shall be 90% of the gross building area. For purposes of this paragraph, gross building area shall be determined using records provided by the Office of Taxation and Revenue;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The amount of $74.215 per hotel room for Class 3 Properties; and</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>The amount of $.149835 per square foot of land area for all unimproved Class 4 Properties, and all improved Class 4 Properties that are surface parking lots, and all unimproved Class 5 Properties. Land area shall be determined using records provided by the Office of Taxation and Revenue;</text>
+      </level>
     </level>
     <level>
       <num>(2)</num>
@@ -67,37 +67,40 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 29, 1996, D.C. Law 11-134, § 201, as added Mar. 17, 2005, D.C. Law 15-257, § 2(d), 52 DCR 1161; Apr. 7, 2006, D.C. Law 16-91, § 140(c), 52 DCR 10637; Sept. 11, 2008, D.C. Law 17-227, § 2, 55 DCR 8305; Oct. 22, 2012, D.C. Law 19-180, § 2(b), 59 DCR 9421.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-91 made a technical change in the enacting clause of D.C. Law 15- 257 which resulted in no change in text.</text>
-        <text>D.C. Law 17-227, in subsec. (c)(1), substituted "The amount of $.149835" for "Fourteen cents" in subpars. (A), (B), and (D), and substituted "The amount of $74.215" for "Sixty dollars" in subpar. (C).</text>
-        <text>D.C. Law 19-180 added subsec. (c)(3).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 2(b) of Downtown BID Emergency Amendment Act of 2012 (D.C. Act 19-427, July 27, 2012, 59 DCR 9381).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 15-257, the "Business Improvement Districts and Anacostia Waterfront Corporation Clarification Amendment Act of 2004", was introduced in Council and assigned Bill No 15-717, which was referred to Committee of Economic Development. The Bill was adopted on first and second readings on October 5, 2004, and November 9, 2004, respectively. Signed by the Mayor on November 30, 2004, it was assigned Act No. 15-632 and transmitted to both Houses of Congress for its review. D.C. Law 15-257 became effective on March 17, 2005.</text>
-        <text>For Law 16-91, see notes following § 2-218.54.</text>
-        <text>For history of Law 19-180, see notes under § 2-1215.15.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 3 of D.C. Law 17-227 provides:</text>
-        <text>"Sec. 3. Applicability.</text>
-        <text>"(a) Section 2(a), (b), and (d) shall apply as of October 1, 2007.</text>
-        <text>"(b) Section 2(c) shall apply as of April 1, 2008."</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-91 made a technical change in the enacting clause of D.C. Law 15-257 which resulted in no change in text.</text>
+      <text>D.C. Law 17-227, in subsec. (c)(1), substituted "The amount of $.149835" for "Fourteen cents" in subpars. (A), (B), and (D), and substituted "The amount of $74.215" for "Sixty dollars" in subpar. (C).</text>
+      <text>The 2012 amendment by D.C. Law 19-180 added (c)(3).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(b) of Downtown BID Emergency Amendment Act of 2012 (D.C. Act 19-427, July 27, 2012, 59 DCR 9381).</text>
+      <text>For temporary addition of (c)(3), see § 2(b) of the Downtown BID Emergency Amendment Act of 2012 (D.C. Act 19-427, July 27, 2012, 59 DCR 9381).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-257</heading>
+      <text>Law 15-257, the "Business Improvement Districts and Anacostia Waterfront Corporation Clarification Amendment Act of 2004", was introduced in Council and assigned Bill No 15-717, which was referred to Committee of Economic Development. The Bill was adopted on first and second readings on October 5, 2004, and November 9, 2004, respectively. Signed by the Mayor on November 30, 2004, it was assigned Act No. 15-632 and transmitted to both Houses of Congress for its review. D.C. Law 15-257 became effective on March 17, 2005.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-91</heading>
+      <text>For Law 16-91, see notes following § 2-218.54.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-180</heading>
+      <text>See note to § 2-1215.15.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 3 of D.C. Law 17-227 provided:</text>
+      <text>"Sec. 3. Applicability.</text>
+      <text>"(a) Section 2(a), (b), and (d) shall apply as of October 1, 2007.</text>
+      <text>"(b) Section 2(c) shall apply as of April 1, 2008."</text>
     </level>
   </level>
 </level>

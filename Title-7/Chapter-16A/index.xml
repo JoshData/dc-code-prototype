@@ -1,11 +1,11 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>16A</num>
-  <heading>Human Papillomavirus Vaccination.</heading>
+  <heading>Human Papillomavirus Vaccination</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1651.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1651.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1651.03.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1651.04.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1651.05.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1651.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1651.06~P.xml"/>
 </level>

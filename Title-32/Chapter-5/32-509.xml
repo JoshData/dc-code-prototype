@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-509</num>
   <heading>Administrative enforcement procedure; relief.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-1309</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor shall provide an administrative procedure pursuant to which a person claimed to be aggrieved under this chapter may file a complaint against an employer alleged to have violated this chapter. A complaint shall be filed within 1 year of the occurrence or discovery of the alleged violation of this chapter.</text>
@@ -81,22 +80,22 @@
     <num>(e)</num>
     <text>The entire administrative enforcement procedure outlined in subsections (a) and (b) of this section, including the formal hearing, shall take no longer than 150 days to complete from the date the complaint is filed. If the Mayor fails to make a reasonable effort to comply with the deadline requirements of the administrative enforcement provisions prescribed by this subsection and the rules promulgated by the Mayor, the person who initiated the administrative enforcement procedure against the employer may file a civil action against the employer pursuant to § 32-510.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 3, 1990, D.C. Law 8-181, § 10, 37 DCR 5043.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-1309.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-181, see Historical and Statutory Notes following § 32-501.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-510.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-1309.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-181</heading>
+      <text>For legislative history of D.C. Law 8-181, see Historical and Statutory Notes following § 32-501.</text>
     </level>
   </level>
 </level>

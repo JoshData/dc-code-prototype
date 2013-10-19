@@ -1,10 +1,10 @@
 <level type="section">
   <num>31-2401</num>
   <heading>Findings; purpose.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-2101</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Findings.</text> -- The Council of the District of Columbia finds that:</text>
+    <heading>Findings</heading>
+    <text>The Council of the District of Columbia finds that:</text>
     <level>
       <num>(1)</num>
       <text>Motorists, motor vehicle passengers, and pedestrians in the District are not adequately protected, by current law and practice, from the consequences of motor vehicle accidents.</text>
@@ -40,28 +40,29 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Purpose.</text> -- It is the purpose of this chapter to provide adequate protection for victims who are injured in the District or who are injured while riding in motor vehicles registered or operated in the District.</text>
+    <heading>Purpose</heading>
+    <text>It is the purpose of this chapter to provide adequate protection for victims who are injured in the District or who are injured while riding in motor vehicles registered or operated in the District.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 18, 1982, D.C. Law 4-155, § 2, 29 DCR 3491.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-2101.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 4-155, the "Compulsory/No-Fault Motor Vehicle Insurance Act of 1982," was introduced in Council and assigned Bill No. 4-140, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first, amended first, second amended first, and second readings on May 11, 1982, May 25, 1982, June 8, 1982, and June 22, 1982, respectively. Deemed approved without Mayoral signature upon expiration of the Mayoral review period on July 22, 1982, it was assigned Act No. 4-226 and transmitted to both Houses of Congress for its review.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority pursuant to Law 6-96, see Mayor's Order 86-186, October 17, 1986.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-2829, § 47-2862, and § 50-314.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-2101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-155</heading>
+      <text>Law 4-155, the "Compulsory/No-Fault Motor Vehicle Insurance Act of 1982," was introduced in Council and assigned Bill No. 4-140, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first, amended first, second amended first, and second readings on May 11, 1982, May 25, 1982, June 8, 1982, and June 22, 1982, respectively. Deemed approved without Mayoral signature upon expiration of the Mayoral review period on July 22, 1982, it was assigned Act No. 4-226 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority pursuant to Law 6-96, see Mayor's Order 86-186, October 17, 1986.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Physical Therapists.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2303.01~3-2303.21~P.xml"/>
+  <heading>Physical Therapists</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2303.01~3-2303.21~P.xml"/>
 </level>

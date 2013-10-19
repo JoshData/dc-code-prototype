@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>5</num>
-  <heading>Documentary Evidence.</heading>
-  <level>
-    <text>DC CODE D. II, T. 14, Ch. 5, Refs &amp; Annos</text>
-  </level>
+  <heading>Documentary Evidence</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-501.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-502.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="14-503.xml"/>

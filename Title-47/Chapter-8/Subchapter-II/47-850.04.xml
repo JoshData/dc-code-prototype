@@ -1,36 +1,39 @@
 <level type="section">
   <num>47-850.04</num>
-  <heading>Residential property tax relief--No homestead when multiple homesteads claimed.</heading>
+  <heading>Residential property tax relief - No homestead when multiple homesteads claimed.</heading>
   <text>If an individual, shareholder or member claims more than one homestead in the same tax year, and has not timely notified the Mayor of all changes in eligibility, the Mayor shall disallow the deduction for all homesteads claimed by the individual, shareholder, or member.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 25, 2002, D.C. Law 14-147, § 2(e), 49 DCR 4219; Mar. 13, 2004, D.C. Law 15-105, § 80(c)(4), 51 DCR 881.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-105, in the section name line, validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition of section, see § 2(e) of Homestead and Senior Citizen Real Property Tax Temporary Act of 2001 (D.C. Law 14-92, March 19, 2002, law notification 49 DCR 2997).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 2(e) of Homestead and Senior Citizen Real Property Tax Emergency Act of 2001 (D.C. Act 14-190, November 29, 2001, 48 DCR 11219).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-147, see notes following § 47-813.</text>
-        <text>For Law 15-105, see notes following § 47-340.22.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 3 of D.C. Law 14-147 provides that section 2 shall apply as of October 1, 2001, except insofar as the retroactive application results in an increase of tax to the real property or owner thereof.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-850.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-105, in the section name line, validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition of section, see § 2(e) of Homestead and Senior Citizen Real Property Tax Temporary Act of 2001 (D.C. Law 14-92, March 19, 2002, law notification 49 DCR 2997).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 2(e) of Homestead and Senior Citizen Real Property Tax Emergency Act of 2001 (D.C. Act 14-190, November 29, 2001, 48 DCR 11219).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-147</heading>
+      <text>For Law 14-147, see notes following § 47-813.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-105</heading>
+      <text>For Law 15-105, see notes following § 47-340.22.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 3 of D.C. Law 14-147 provided that section 2 shall apply as of October 1, 2001, except insofar as the retroactive application results in an increase of tax to the real property or owner thereof.</text>
     </level>
   </level>
 </level>

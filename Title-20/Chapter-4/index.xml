@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>4</num>
-  <heading>Supervised and Unsupervised Administration.</heading>
+  <heading>Supervised and Unsupervised Administration</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-401.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-402.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-403.xml"/>

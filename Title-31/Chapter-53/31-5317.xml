@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-5317</num>
   <heading>Nonforfeiture benefits, cash surrender values, certificate loans, and other options.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1247</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>For certificates issued prior to one year after April 29, 1998, the value of every paid-up nonforfeiture benefit and the amount of any cash surrender value, loan, or other option granted shall comply with the provisions of law applicable immediately prior to April 29, 1998.</text>
@@ -10,22 +9,18 @@
     <num>(b)</num>
     <text>For certificates issued on or after one year from April 29, 1998 for which reserves are computed on the Commissioner's 1941 Standard Ordinary Mortality Table, the Commissioner's 1941 Standard Industrial Table, the Commissioner's 1958 Standard Ordinary Mortality Table, the Commissioner's 1980 Standard Mortality Table, or any more recent table made applicable to life insurers, every paid-up nonforfeiture benefit and the amount of any cash surrender value, loan, or other option granted shall not be less than the corresponding amount ascertained in accordance with the laws of the District applicable to life insurers issuing policies containing like benefits based upon such tables.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 29, 1998, D.C. Law 12-86, § 1218, 45 DCR 1172.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1247.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-86, see Historical and Statutory Notes following § 31-5301.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1247.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-86</heading>
+      <text>For legislative history of D.C. Law 12-86, see Historical and Statutory Notes following § 31-5301.</text>
     </level>
   </level>
 </level>

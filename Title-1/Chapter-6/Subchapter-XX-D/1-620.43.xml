@@ -3,47 +3,41 @@
   <heading>Limitation on disqualification.</heading>
   <text>When considering whether to disqualify an applicant for a position that is not a covered position or take adverse action against an employee in a position that is not a covered position because of the applicant's or employee's criminal history, a public employer shall consider the following factors:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The specific duties and responsibilities of the position sought or held;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The bearing, if any, that an applicant's or employee's criminal background will have on the applicant's or employee's fitness or ability to perform one or more of the duties or responsibilities;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The time that has elapsed since the occurrence of the criminal offense;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The age of the person at the time of the occurrence of the criminal offense;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>The frequency and seriousness of the criminal offense;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>Any information produced regarding the applicants or employee's rehabilitation and good conduct since the occurrence of the criminal offense; and</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>The public policy that it is generally beneficial for ex-offenders to obtain employment.</text>
-    </level>
+    <num>(1)</num>
+    <text>The specific duties and responsibilities of the position sought or held;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The bearing, if any, that an applicant's or employee's criminal background will have on the applicant's or employee's fitness or ability to perform one or more of the duties or responsibilities;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The time that has elapsed since the occurrence of the criminal offense;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The age of the person at the time of the occurrence of the criminal offense;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>The frequency and seriousness of the criminal offense;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Any information produced regarding the applicants or employee's rehabilitation and good conduct since the occurrence of the criminal offense; and</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>The public policy that it is generally beneficial for ex-offenders to obtain employment.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 3, 1979, D.C. Law 2-139, § 2043, as added Mar. 31, 2011, D.C. Law 18-340, § 2(b), 58 DCR 621.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-340, see notes under § 1-620.41.</text>
-      </level>
+      <heading>Legislative History of Law 18-340</heading>
+      <text>For history of Law 18-340, see notes under § 1-620.41.</text>
     </level>
   </level>
 </level>

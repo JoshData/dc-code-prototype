@@ -3,67 +3,61 @@
   <heading>Dignity.</heading>
   <text>A resident shall have the right to the following:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>A safe, clean, comfortable, stimulating, and homelike environment allowing the resident to use personal belongings to the greatest extent possible;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Control time, space, and lifestyle;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Free access to visitors of his or her choice;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>To receive and send correspondence without any restrictions;</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>To maintain personal possessions to the extent the health, safety, and well being of others is not disturbed;</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>To remain in his or her living unit unless a change corresponds to the uncoerced preference of the resident or conforms to the obligations set forth in the resident's contract respecting discharge and is related to the resident's preference or to transfer conditions stipulated in his or her contract with the ALR;</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>To approve his or her roommate whenever possible, if the resident is living in a semi-private unit;</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>To attend or not attend religious services of his or her choice;</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>To choose activities and schedules consistent with his or her interests, and physical, mental, and psychosocial well-being;</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>To interact with members of the community inside and outside the facility and make choices about aspects of his or her life in the facility that are significant to the resident;</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>To be free from mental, verbal, emotional, sexual and physical abuse, neglect, involuntary seclusion, and exploitation; and</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>To participate in the development, implementation, and review of plans designed to provide services to residents, including the Individualized Service Plan.</text>
-    </level>
+    <num>(1)</num>
+    <text>A safe, clean, comfortable, stimulating, and homelike environment allowing the resident to use personal belongings to the greatest extent possible;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Control time, space, and lifestyle;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Free access to visitors of his or her choice;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>To receive and send correspondence without any restrictions;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>To maintain personal possessions to the extent the health, safety, and well being of others is not disturbed;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>To remain in his or her living unit unless a change corresponds to the uncoerced preference of the resident or conforms to the obligations set forth in the resident's contract respecting discharge and is related to the resident's preference or to transfer conditions stipulated in his or her contract with the ALR;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>To approve his or her roommate whenever possible, if the resident is living in a semi-private unit;</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>To attend or not attend religious services of his or her choice;</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>To choose activities and schedules consistent with his or her interests, and physical, mental, and psychosocial well-being;</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>To interact with members of the community inside and outside the facility and make choices about aspects of his or her life in the facility that are significant to the resident;</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>To be free from mental, verbal, emotional, sexual and physical abuse, neglect, involuntary seclusion, and exploitation; and</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>To participate in the development, implementation, and review of plans designed to provide services to residents, including the Individualized Service Plan.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 24, 2000, D.C. Law 13-127, § 503, 47 DCR 2647.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-127, see notes following § 44-101.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-127</heading>
+      <text>For Law 13-127, see notes following § 44-101.01.</text>
     </level>
   </level>
 </level>

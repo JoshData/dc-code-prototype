@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>22</num>
-  <heading>Compensating-Use Tax.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 47, Ch. 22, Refs &amp; Annos</text>
-  </level>
+  <heading>Compensating-Use Tax</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2201.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2202.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2202.01.xml"/>

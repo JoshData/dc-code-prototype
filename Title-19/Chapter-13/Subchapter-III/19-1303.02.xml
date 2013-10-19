@@ -3,31 +3,25 @@
   <heading>Representation by holder of general testamentary power of appointment.</heading>
   <text>The holder of a power of appointment may represent and bind persons whose interests as permissible appointees or takers in default are subject to the power. A qualified power of appointment is a power exercisable in favor of:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The power holder, the power holder's estate, the power holder's creditors and the creditors of the power holder's estate; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>All persons other than the power holder, the power holder's estate, the power holder's creditors, and the creditors of the power holder's estate.</text>
-    </level>
+    <num>(1)</num>
+    <text>The power holder, the power holder's estate, the power holder's creditors and the creditors of the power holder's estate; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>All persons other than the power holder, the power holder's estate, the power holder's creditors, and the creditors of the power holder's estate.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 10, 2004, D.C. Law 15-104, § 2(b), 51 DCR 208.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-104, see notes following § 19-1301.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 302 of the Uniform Trust Code. See 7C, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 15-104</heading>
+      <text>For Law 15-104, see notes following § 19-1301.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 302 of the Uniform Trust Code.</text>
     </level>
   </level>
 </level>

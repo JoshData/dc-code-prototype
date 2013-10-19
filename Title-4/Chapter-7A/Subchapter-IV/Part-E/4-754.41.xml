@@ -37,7 +37,7 @@
       <text>Obtain any legally available and practicable remedy for any alleged violation of:</text>
       <level>
         <num>(A)</num>
-        <text>The provider standards listed in part C of this subchapter; or</text>
+        <text>The provider standards listed in part C of this subchapter; or [§§ 4-754.21 through 4-754.25]; or</text>
       </level>
       <level>
         <num>(B)</num>
@@ -66,7 +66,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>In accordance with Chapter 18A of Title 2; and</text>
+      <text>In accordance with Chapter 18A of Title 2 [§ 2-1831.01 et seq.]; and</text>
     </level>
     <level>
       <num>(3)</num>
@@ -87,33 +87,32 @@
   </level>
   <level>
     <num>(g)</num>
-    <text>Materials and documents filed with the Office of Administrative Hearings during fair hearing proceedings shall be maintained in compliance with § 2- 1831.13(d), the Health Insurance Portability and Accountability Act of 1996, approved August 21, 1996 (Pub. L. No. 104-191; 110 Stat. 1936), and any other District or federal law pertaining to confidentiality of records.</text>
+    <text>Materials and documents filed with the Office of Administrative Hearings during fair hearing proceedings shall be maintained in compliance with § 2-1831.13(d), the Health Insurance Portability and Accountability Act of 1996, approved August 21, 1996 (Pub. L. No. 104-191; 110 Stat. 1936), and any other District or federal law pertaining to confidentiality of records.</text>
   </level>
   <level>
     <num>(h)</num>
     <text>The Mayor or the Mayor's designee shall maintain a file of final fair hearing and administrative review decisions, indexed by issue, with identifying information redacted. The file shall be accessible to clients, their representatives, and other persons upon request to the Mayor or the Mayor's designee.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 22, 2005, D.C. Law 16-35, § 26, 52 DCR 8113; Apr. 8, 2011, D.C. Law 18-367, § 2(e), 58 DCR 987.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 18-367 rewrote subsec. (b)(2), which had read as follows:</text>
-        <text>"(2) Review any decision of a provider of services, other than shelter or supportive housing, to:</text>
-        <text>"(A) Transfer the client to another provider;</text>
-        <text>"(B) Suspend provision of services to the client for a period longer than 10 days; or</text>
-        <text>"(C) Terminate services to the client; or"</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-35, see notes following § 4-751.01.</text>
-        <text>For history of Law 18-367, see notes under § 4-751.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-754.11, § 4-754.32, § 4-754.33, § 4-754.38, § 4-754.39, and § 4-754.52.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 18-367 rewrote subsec. (b)(2), which had read as follows: "(2) Review any decision of a provider of services, other than shelter or supportive housing, to: (A) Transfer the client to another provider; (B) Suspend provision for a period longer than 10 days; or (C) Terminate services to the client; or".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-35</heading>
+      <text>For Law 16-35, see notes following § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-367</heading>
+      <text>For history of Law 18-367, see notes under § 4-751.01.</text>
     </level>
   </level>
 </level>

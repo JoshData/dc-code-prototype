@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-3405.05</num>
   <heading>Investigations.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-1655</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor may make necessary public or private investigations in accordance with law within or without of the District of Columbia to determine compliance with the requirements of this chapter or to determine whether any person has violated or is about to violate this chapter or any rule or order hereunder, or to aid in the enforcement of this chapter or in the prescribing of rules and forms hereunder.</text>
@@ -14,27 +13,26 @@
     <num>(c)</num>
     <text>Upon failure to obey a subpoena or to answer questions propounded by the investigating officer and upon reasonable notice to all persons affected thereby, the Mayor may apply to the Superior Court of the District of Columbia for an order compelling compliance.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 10, 1980, D.C. Law 3-86, § 505, 27 DCR 2975; Aug. 1, 1981, D.C. Law 4-27, § 2(i), 28 DCR 2824.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-1655.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 3-86, see Historical and Statutory Notes following § 42-3401.01.</text>
-        <text>For legislative history of D.C. Law 4-27, see Historical and Statutory Notes following § 42-3402.03.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Reenactment of Law 3-86: See Historical and Statutory Notes following § 42- 3401.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-1655.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-86</heading>
+      <text>For legislative history of D.C. Law 3-86, see Historical and Statutory Notes following § 42-3401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-27</heading>
+      <text>For legislative history of D.C. Law 4-27, see Historical and Statutory Notes following § 42-3402.03.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Reenactment of Law 3-86: See Historical and Statutory Notes following § 42-3401.01.</text>
     </level>
   </level>
 </level>

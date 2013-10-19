@@ -2,18 +2,18 @@
   <num>4-1702.01</num>
   <heading>Access to Justice Initiative.</heading>
   <text>The Office of the Deputy Mayor for Public Safety and Justice shall establish an Access to Justice Initiative program for the purpose of providing support to nonprofit organizations that deliver civil legal services to low-income and under-served District residents and providing loan-repayment assistance to lawyers working in eligible employment. The Initiative shall consist of the ATJ and LRAP programs.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 24, 2010, D.C. Law 18-223, § 201, as added Sept. 14, 2011, D.C. Law 19-21, § 3002(b), 58 DCR 6226.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-21, see notes under § 4-1701.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-1701.01 and § 4-1704.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 4-1701.01.</text>
     </level>
   </level>
 </level>

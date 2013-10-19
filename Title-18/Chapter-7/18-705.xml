@@ -1,44 +1,86 @@
 <level type="section">
   <num>18-705</num>
   <heading>International will; certificate.</heading>
-  <text>The authorized person shall attach to the will a certificate, to be signed by him or her, establishing that the requirements of this chapter for valid execution of an international will have been complied with. The authorized person shall keep a copy of the certificate and deliver another to the testator. The certificate shall be substantially in the following form:</text>
-  <text>"CERTIFICATE</text>
-  <text>"(Convention of October 26, 1973)</text>
-  <text>"1. I, _______ (name, address and capacity), a person authorized to act in connection with international wills</text>
-  <text>"2. Certify that on _______ (date) at _______ (place)</text>
-  <text>"3. (testator) _______</text>
-  <text>"(name, address, date and place of birth) in my presence and that of the witnesses</text>
-  <text>"4. (a) _______ (name, address, date and place of birth)</text>
-  <level>
-    <text>"(b) _______ (name, address, date and place of birth)</text>
+  <level type="form">
+    <text> The authorized person shall attach to the will a certificate, to be signed by him or her, establishing that the requirements of this chapter for valid execution of an international will have been complied with. The authorized person shall keep a copy of the certificate and deliver another to the testator. The certificate shall be substantially in the following form: 
+ 
+
+ 						"CERTIFICATE 
+
+
+ 
+
+ 				"(Convention of October 26, 1973) 
+
+
+ "1. I, ________ ________ (name, address and capacity), a person authorized to act in connection with international wills 
+
+
+ "2. Certify that on ________ ________ (date) at ________ ________ (place) 
+
+
+ "3. (testator) ________ ________ 
+
+
+ "(name, address, date and place of birth) in my presence and that of the witnesses 
+
+
+ "4. (a) ________ ________ (name, address, date and place of birth) 
+
+
+ "(b) ________ ________ (name, address, date and place of birth) 
+
+
+ "has declared that the attached document is his or her will and that he knows the contents thereof. 
+
+
+ "5. I furthermore certify that: 
+
+
+ "6. (a) in my presence and in that of the witnesses 
+
+
+ "(1) the testator has signed the will or has acknowledged his signature previously affixed. 
+
+
+ "(2) [to be completed if appropriate] following a declaration of the testator stating that he or she was unable to sign his will for the following reason ________ ________, I have mentioned this declaration on the will and the signature has been affixed by ________ ________ (name and address) 
+
+
+ "7. (b) the witnesses and I have signed the will; 
+
+
+ "8. (c) [to be completed if appropriate] each page of the will has been signed by ________ ________ and numbered; 
+
+
+ "9. (d) I have satisfied myself as to the identity of the testator and of the witnesses as designated above; 
+
+
+ "10. (e) the witnesses met the conditions requisite to act as such according to the law under which I am acting; 
+
+
+ "11. (f) [to be completed if appropriate] the testator has requested me to include the following statement concerning the safekeeping of his will: 
+
+
+ "12. PLACE OF EXECUTION 
+
+
+ "13. DATE 
+
+
+ "14. SIGNATURE and, if necessary, SEAL."</text>
   </level>
-  <text>"has declared that the attached document is his or her will and that he knows the contents thereof.</text>
-  <text>"5. I furthermore certify that:</text>
-  <text>"6. (a) in my presence and in that of the witnesses</text>
-  <level>
-    <text>"(1) the testator has signed the will or has acknowledged his signature previously affixed.</text>
-    <text>"(2) [to be completed if appropriate] following a declaration of the testator stating that he or she was unable to sign his will for the following reason _______, I have mentioned this declaration on the will and the signature has been affixed by _______ (name and address)</text>
-  </level>
-  <text>"7. (b) the witnesses and I have signed the will;</text>
-  <text>"8. (c) [to be completed if appropriate] each page of the will has been signed by _______ and numbered;</text>
-  <text>"9. (d) I have satisfied myself as to the identity of the testator and of the witnesses as designated above;</text>
-  <text>"10. (e) the witnesses met the conditions requisite to act as such according to the law under which I am acting;</text>
-  <text>"11. (f) [to be completed if appropriate] the testator has requested me to include the following statement concerning the safekeeping of his will:</text>
-  <text>"12. PLACE OF EXECUTION</text>
-  <text>"13. DATE</text>
-  <text>"14. SIGNATURE and, if necessary, SEAL."</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2001, D.C. Law 13-292, § 102(b), 48 DCR 2087.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-292, see notes following § 18-701.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 18-704.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-292</heading>
+      <text>For D.C. Law 13-292, see notes following § 18-701.</text>
     </level>
   </level>
 </level>

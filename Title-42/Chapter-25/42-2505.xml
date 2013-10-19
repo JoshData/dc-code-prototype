@@ -21,35 +21,38 @@
     <num>(e)</num>
     <text>The Department may charge interest on the loan if the housing unit is sold within 5 years.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 9, 2000, D.C. Law 13-96, § 6, 47 DCR 1081; Mar. 2, 2007, D.C. Law 16-192, § 2012(a), 53 DCR 6899.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-192, in subsec. (d), substituted "may" for "may not".</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) addition of section, see § 6 of the Government Employer-Assisted Housing Emergency Amendment Act of 1999 (D.C. Act 13-188, December 1, 1999, 46 DCR 10407).</text>
-        <text>For temporary (90-day) addition of section, see § 6 of the Government Employer-Assisted Housing Legislative Review Emergency Amendment Act of 1999 (D.C. Act 13-258, February 9, 2000, 47 DCR 1124).</text>
-        <text>For temporary (90 day) amendment of section, see § 2012(a) of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006, 53 DCR 7068).</text>
-        <text>For temporary (90 day) amendment of section, see § 2012(a) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006, 53 DCR 8845).</text>
-        <text>For temporary (90 day) amendment of section, see § 2012(a) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007, 54 DCR 1165).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-96, see notes following § 42-2601.</text>
-        <text>For Law 16-192, see notes following § 42-903.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 2011 of D.C. Law 16-192 provided that subtitle B of title II of the act may be cited as the "Government Employer-Assisted Housing Program Amendment Act of 2006".</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-2506.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-192, in subsec. (d), substituted "may" for "may not".</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) addition of section, see § 6 of the Government Employer-Assisted Housing Emergency Amendment Act of 1999 (D.C. Act 13-188, December 1, 1999, 46 DCR 10407).</text>
+      <text>For temporary (90-day) addition of section, see § 6 of the Government Employer-Assisted Housing Legislative Review Emergency Amendment Act of 1999 (D.C. Act 13-258, February 9, 2000, 47 DCR 1124).</text>
+      <text>For temporary (90 day) amendment of section, see § 2012(a) of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006, 53 DCR 7068).</text>
+      <text>For temporary (90 day) amendment of section, see § 2012(a) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006, 53 DCR 8845).</text>
+      <text>For temporary (90 day) amendment of section, see § 2012(a) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007, 54 DCR 1165).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-96</heading>
+      <text>For Law 13-96, see notes following § 42-2601.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-192</heading>
+      <text>For Law 16-192, see notes following § 42-903.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 2011 of D.C. Law 16-192 provided that subtitle B of title II of the act may be cited as the "Government Employer-Assisted Housing Program Amendment Act of 2006".</text>
     </level>
   </level>
 </level>

@@ -2,23 +2,19 @@
   <num>47-317.07</num>
   <heading>SHARE Data Center.</heading>
   <text>Notwithstanding any other law, all positions, personnel, property, records, and the functions of the Office of Financial Information Services for the SHARE data center are assigned, and authority delegated, to the Office of the Chief Technology Officer.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 19, 2000, D.C. Law 13-172, § 2102, 47 DCR 6308.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) addition of section, see § 2102 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000, 47 DCR 6574).</text>
-        <text>For temporary (90 day) amendment of section, see § 2102 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-172, see notes following § 47-305.01.</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) addition of section, see § 2102 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000, 47 DCR 6574).</text>
+      <text>For temporary (90 day) amendment of section, see § 2102 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-172</heading>
+      <text>For Law 13-172, see notes following § 47-305.01.</text>
     </level>
   </level>
 </level>

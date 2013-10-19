@@ -1,18 +1,20 @@
 <level type="section">
   <num>1-811.03</num>
   <heading>Determination of annual payment into Federal Supplemental Fund.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-766.3</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Annual amortization amount.</text> -- At the end of each applicable fiscal year the Secretary shall promptly pay into the Federal Supplemental Fund from the General Fund of the Treasury an amount equal to the annual amortization amount for the year (which may not be less than zero).</text>
+    <heading>Annual amortization amount</heading>
+    <text>At the end of each applicable fiscal year the Secretary shall promptly pay into the Federal Supplemental Fund from the General Fund of the Treasury an amount equal to the annual amortization amount for the year (which may not be less than zero).</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Administrative expenses.</text> -- During each applicable fiscal year, the Secretary shall pay into the Federal Supplemental Fund from the General Fund of the Treasury amounts not to exceed the covered administrative expenses for the year.</text>
+    <heading>Administrative expenses</heading>
+    <text>During each applicable fiscal year, the Secretary shall pay into the Federal Supplemental Fund from the General Fund of the Treasury amounts not to exceed the covered administrative expenses for the year.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text><text i="True">Determination of amounts.</text> -- For purposes of this section:</text>
+    <heading>Determination of amounts</heading>
+    <text>For purposes of this section:</text>
     <level>
       <num>(1)</num>
       <text>The "original unfunded liability" is the amount that is the present value as of October 21, 1998 of future benefits payable from the Federal Supplemental Fund.</text>
@@ -40,20 +42,21 @@
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Timing.</text> -- The first applicable fiscal year under subsection (a) of this section is the first fiscal year that ends more than six months after the replacement plan adoption date.</text>
+    <heading>Timing</heading>
+    <text>The first applicable fiscal year under subsection (a) of this section is the first fiscal year that ends more than six months after the replacement plan adoption date.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 5, 1997, 111 Stat. 726, Pub. L. 105-33, § 11053; Oct. 21, 1998, 112 Stat. 2681-532, Pub. L. 105-277, § 801(f).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-766.3.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-813.01 and § 1-817.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-766.3.</text>
     </level>
   </level>
 </level>

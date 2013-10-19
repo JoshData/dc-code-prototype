@@ -1,7 +1,6 @@
 <level type="section">
   <num>47-2853.202</num>
   <heading>Eligibility requirements.</heading>
-  <formerly-cited-as>DC ST 1981 § 47-2853.202</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>An applicant to be an apprentice refrigeration and air conditioning mechanic shall be registered by the Mayor, without examination, upon providing such information as may be required by the Board of Industrial Trades and payment of appropriate fees. An apprentice refrigeration and air conditioning mechanic shall work only under the direct personal supervision and control of a licensed master mechanic.</text>
@@ -23,21 +22,56 @@
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(d)</num>
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Apr. 20, 1999, D.C. Law 12-261, § 1002, 46 DCR 3142.)</text>
+      <num>(1)</num>
+      <text>The Board shall accept, in lieu of an examination, experience, or other requirements of test or skill established by the Board, a certificate from a national certifying organization certifying that the applicant:</text>
+      <level>
+        <num>(A)</num>
+        <text>Has completed the organization's apprenticeship program;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Has passed the organization's required examination;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Is designated by that organization as a journeyman refrigeration and air conditioning mechanic; and</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Has not been disciplined or otherwise disqualified by the organization.</text>
+      </level>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 47-2853.202.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
-      </level>
+      <num>(2)</num>
+      <text>For the purposes of this subsection, the term "national certifying organization" shall include a nationally recognized trade organization, non-union sponsor, or labor union that is registered with the Bureau of Apprenticeship Training, the United States Department of Labor, or the District of Columbia Apprenticeship Council.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Apr. 20, 1999, D.C. Law 12-261, § 1002, 46 DCR 3142; Apr. 23, 2013, D.C. Law 19-274, § 2(c), 60 DCR 2055.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-2853.12.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 47-2853.202.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-274 added (d).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-261</heading>
+      <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 47-2801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-274</heading>
+      <text>See note to § 47-2853.12.</text>
     </level>
   </level>
 </level>

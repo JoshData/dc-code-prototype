@@ -1,7 +1,6 @@
 <level type="section">
   <num>28-3104</num>
   <heading>Transfers fraudulent as to present and future creditors.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-3104</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>A transfer made, or obligation incurred, by a debtor is fraudulent as to a creditor, whether the creditor's claim arose before or after the transfer was made or the obligation was incurred, if the debtor made the transfer or incurred the obligation:</text>
@@ -70,26 +69,26 @@
       <text>The debtor transferred the essential assets of the business to a lienor who transferred the assets to an insider of the debtor.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 9, 1996, D.C. Law 11-83, § 2, 42 DCR 6773.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-3104.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-83, see Historical and Statutory Notes following § 28-3101.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 4 of the Uniform Fraudulent Transfer Act. See Volume 7A, Part II Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28-3103, § 28-3108, and § 28-3109.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-3104.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-83</heading>
+      <text>For legislative history of D.C. Law 11-83, see Historical and Statutory Notes following § 28-3101.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 4 of the Uniform Fraudulent Transfer Act.</text>
     </level>
   </level>
 </level>

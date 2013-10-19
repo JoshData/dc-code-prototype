@@ -1,7 +1,6 @@
 <level type="section">
   <num>28:6-105</num>
   <heading>Notice to claimants.</heading>
-  <formerly-cited-as>DC ST 1981 § 28:6-105</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Except as otherwise provided in subsection (b) of this section, to comply with § 28:6-104(a)(4) the buyer shall send or deliver a written notice of the bulk sale to each claimant on the list of claimants (§ 28:6-104(a)(2)) and to any other claimant of whom the buyer has knowledge at the time the notice of the bulk sale is sent or delivered.</text>
@@ -77,106 +76,104 @@
   <level>
     <num>(g)</num>
     <text>A form substantially as follows is sufficient to comply with subsection (c):</text>
-  </level>
-  <text>Notice of Sale</text>
-  <level>
+    <level type="form">
+      <text/>
+      <text class="centered"> Notice of Sale</text>
+    </level>
     <level>
       <num>(1)</num>
-      <text>__________, whose address is __________, is described in this notice as the "seller."</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>__________, whose address is __________, is described in this notice as the "buyer."</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The seller has disclosed to the buyer that within the past 3 years the seller has used other business names, operated at other addresses, or both, as follows: __________.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The seller and the buyer have entered into an agreement dated __________, for a sale that may constitute a bulk sale under the laws of the state of __________.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>The date on or after which more than 10% of the assets that are the subject of the sale were or will be transferred is __________, and if not stated in the schedule of distribution the date on or after which more than 10% of the net contract price was or will be paid is __________.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>The following assets are the subject of the sale: __________.</text>
-    </level>
-    <level>
-      <num>(7)</num>
-      <text>[If applicable] The buyer will make available to claimants of the seller a list of the seller's claimants in the following manner: __________.</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>[If applicable] The sale is to satisfy $___ of an antecedent debt owed by the seller to __________.</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>A copy of the schedule of distribution of the net contract price accompanies this notice.</text>
+      <text>__________________, whose address is __________________, is described in this notice as the "seller."</text>
+      <level type="form">
+        <text> 
+ 
+ (2) __________________, whose address is __________________, is described in this notice as the "buyer." 
+ 
+ (3) The seller has disclosed to the buyer that within the past 3 years the seller has used other business names, operated at other addresses, or both, 
+as follows: ________________________________________________________________. 
+ 
+ (4) The seller and the buyer have entered into an agreement dated __________________, for a sale that may constitute a bulk sale under the laws of the state of __________________. 
+ 
+ (5) The date on or after which more than 10% of the assets that are the subject of the sale were or will be transferred is __________________, and if not stated in the schedule of distribution the date on or after which more than 10% of the net contract price was or will be paid is __________________. 
+ 
+
+ (6) The following assets are the subject of the sale: ___________________. 
+ 
+ (7) [If applicable] The buyer will make available to claimants of the 
+seller a list of the seller's claimants in the following manner: ___________. 
+ 
+ (8) [If applicable] The sale is to satisfy $ ______________ of an 
+antecedent debt owed by the seller to ______________________________________. 
+ 
+ (9) A copy of the schedule of distribution of the net contract price accompanies this notice.</text>
+      </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 30, 1963, 77 Stat. 715, Pub. L. 88-243, § 1; Apr. 9, 1997, D.C. Law 11-239, § 2, 44 DCR 936.)</text>
     </level>
     <level>
-      <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
-      <text><text b="True">Prior Uniform Statutory Provision:</text> Sections 6-105 and 6-107 (1987 Official Text).</text>
-      <text><text b="True">Changes:</text> Revised, alternative method of giving notice added, and form of notice added.</text>
-      <level>
-        <heading>Purposes of Changes and New Matter:</heading>
-        <text>1. Subsection (1) sets forth the method by which the buyer may discharge the duty to notify the seller's claimants of the impending sale. The buyer "has knowledge" of a claimant only if the buyer has actual knowledge sufficient to enable the buyer to send a notice to the claimant. A buyer who knows only that the seller has other, unidentified claimants complies with this subsection by giving notice to the claimants on the seller's list.</text>
-        <text>2. Subsection (2) is new. It affords the buyer the opportunity to publish notice in cases in which the number of claimants--and thus the costs of compliance and risk of inadvertent noncompliance--are large. Although a filed notice will not inform every claimant of the impending sale, a filed notice is expected to inform a sufficient number of claimants (perhaps through credit reporting services) to enable them to stop an unfair or fraudulent transaction before it occurs.</text>
-        <text>The buyer may give notice by filing if the seller actually has 200 or more claimants or if the buyer receives a verified statement that the seller has 200 or more claimants. Claimants who hold secured or matured claims for employment compensation and benefits are not counted in determining the number of claimants for this purpose; however, they are entitled to receive notice of the bulk sale.</text>
-        <text>The duty to give notice must be performed in good faith. A buyer who receives a verified statement from the seller but knows the statement to be false does not act in good faith and thus does not comply with subsection (2)(b).</text>
-        <text>3. Subsection (3) prescribes the contents of the notice. The contents are the same regardless of whether notice is sent to each claimant or filed, except that the information in subsection (3)(i) is required only when notice is sent. The requirements of subsection (3) are the minimum; a notice that includes additional information is effective. The requirement in subsection (3)(h) for the description of assets is modeled on Section 9-402(1). Neither the identification of assets by serial number nor an item-by-item list of assets is required.</text>
-        <text>Subsection (3)(j) applies when the sale satisfies a debt owed by the seller to the buyer or to a third party. Section 6-103(3) excludes certain sales of this kind from the application of this Article.</text>
-        <text>4. Subsection (4) requires that a notice give the proper name of the seller and the buyer. A trade name is insufficient. See Official Comment 7 to UCC § 9-402. However, subsection (3)(f) requires that trade names be added when the seller has provided them to the buyer. The list need not include trade names or other names that the seller has used but not listed, even if the buyer knows of the names.</text>
-        <text>5. Subsection (5) requires that notice be given not less than 45 days before the date of the bulk sale. The period was extended from the 10 days afforded by the 1987 Official Text to provide ample time for claimants to receive or discover the notice and to take any action that the law permits to collect their claims from the seller. For example, depending upon the facts of each case and upon applicable law, claimants might seek to enjoin the sale, acquire a judicial lien on the assets or the proceeds, threaten to refuse to deal with the buyer unless the seller's debt is paid, or file an involuntary bankruptcy petition against the seller. The "date of the bulk sale" is defined in such a way as to permit the seller to transfer the assets to the buyer or the buyer to pay the price to the seller (but not both) before or during the 45 days.</text>
-        <text>6. Subsection (6) derives from Section 9-402(8). The purpose of filing is to give notice to claimants. Whether an error in the seller's name is seriously misleading should depend upon whether a claimant searching under the seller's correct name could have found the filing. Whether an error other than in the seller's name is seriously misleading should depend upon whether the error prejudiced the ability of claimants to assert their rights.</text>
-      </level>
-      <level>
-        <heading>Cross-References:</heading>
-        <text>Point 1: Sections 1-201 and 6-104.</text>
-        <text>Point 2: Sections 1-203 and 6-104.</text>
-        <text>Point 3: Sections 6-102, 6-104, and 9-402.</text>
-        <text>Point 4: Sections 6-104 and 9-402.</text>
-        <text>Point 5: Section 6-102.</text>
-        <text>Point 6: Sections 6-107 and 9-402.</text>
-      </level>
-      <level>
-        <heading>Definitional Cross-References:</heading>
-        <text>"Asset". Section 6-102.</text>
-        <text>"Bulk sale". Section 6-102.</text>
-        <text>"Buyer". Section 2-103.</text>
-        <text>"Claim". Section 6-102.</text>
-        <text>"Claimant". Section 6-102.</text>
-        <text>"Date of the bulk sale". Section 6-102.</text>
-        <text>"Date of the bulk-sale agreement". Section 6-102.</text>
-        <text>"Debt". Section 6-102.</text>
-        <text>"Knowledge". Section 1-201.</text>
-        <text>"Net contract price". Section 6-102.</text>
-        <text>"Seller". Section 2-103.</text>
-        <text>"Send". Section 1-201.</text>
-        <text>"Verified". Section 6-102.</text>
-        <text>"Written". Section 1-201.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28:6-104, § 28:6-106, and § 28:6-108.</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28:6-105.</text>
-        <text>1973 Ed., § 28:6-105.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-239, see Historical and Statutory Notes following § 28:6-101.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28:6-105.</text>
+      <text>1973 Ed., § 28:6-105.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-239</heading>
+      <text>For legislative history of D.C. Law 11-239, see Historical and Statutory Notes following § 28:6-101.</text>
+    </level>
+    <level>
+      <heading>Prior Uniform Statutory Provision:</heading>
+      <text>Sections 6-105 and 6-107 (1987 Official Text).</text>
+    </level>
+    <level>
+      <heading>Changes:</heading>
+      <text>Revised, alternative method of giving notice added, and form of notice added.</text>
+    </level>
+    <level>
+      <heading>Purposes of Changes and New Matter:</heading>
+      <text/>
+      <text>1. Subsection (1) sets forth the method by which the buyer may discharge the duty to notify the seller's claimants of the impending sale. The buyer "has knowledge" of a claimant only if the buyer has actual knowledge sufficient to enable the buyer to send a notice to the claimant. A buyer who knows only that the seller has other, unidentified claimants complies with this subsection by giving notice to the claimants on the seller's list.</text>
+      <text>2. Subsection (2) is new. It affords the buyer the opportunity to publish notice in cases in which the number of claimants - and thus the costs of compliance and risk of inadvertent noncompliance - are large. Although a filed notice will not inform every claimant of the impending sale, a filed notice is expected to inform a sufficient number of claimants (perhaps through credit reporting services) to enable them to stop an unfair or fraudulent transaction before it occurs.</text>
+      <text>The buyer may give notice by filing if the seller actually has 200 or more claimants or if the buyer receives a verified statement that the seller has 200 or more claimants. Claimants who hold secured or matured claims for employment compensation and benefits are not counted in determining the number of claimants for this purpose; however, they are entitled to receive notice of the bulk sale.</text>
+      <text>The duty to give notice must be performed in good faith. A buyer who receives a verified statement from the seller but knows the statement to be false does not act in good faith and thus does not comply with subsection (2)(b).</text>
+      <text>3. Subsection (3) prescribes the contents of the notice. The contents are the same regardless of whether notice is sent to each claimant or filed, except that the information in subsection (3)(i) is required only when notice is sent. The requirements of subsection (3) are the minimum; a notice that includes additional information is effective. The requirement in subsection (3)(h) for the description of assets is modeled on Section 9-402(1). Neither the identification of assets by serial number nor an item-by-item list of assets is required.</text>
+      <text>Subsection (3)(j) applies when the sale satisfies a debt owed by the seller to the buyer or to a third party. Section 6-103(3) excludes certain sales of this kind from the application of this Article.</text>
+      <text>4. Subsection (4) requires that a notice give the proper name of the seller and the buyer. A trade name is insufficient. See Official Comment 7 to UCC s 9-402. However, subsection (3)(f) requires that trade names be added when the seller has provided them to the buyer. The list need not include trade names or other names that the seller has used but not listed, even if the buyer knows of the names.</text>
+      <text>5. Subsection (5) requires that notice be given not less than 45 days before the date of the bulk sale. The period was extended from the 10 days afforded by the 1987 Official Text to provide ample time for claimants to receive or discover the notice and to take any action that the law permits to collect their claims from the seller. For example, depending upon the facts of each case and upon applicable law, claimants might seek to enjoin the sale, acquire a judicial lien on the assets or the proceeds, threaten to refuse to deal with the buyer unless the seller's debt is paid, or file an involuntary bankruptcy petition against the seller. The "date of the bulk sale" is defined in such a way as to permit the seller to transfer the assets to the buyer or the buyer to pay the price to the seller (but not both) before or during the 45 days.</text>
+      <text>6. Subsection (6) derives from Section 9-402(8). The purpose of filing is to give notice to claimants. Whether an error in the seller's name is seriously misleading should depend upon whether a claimant searching under the seller's correct name could have found the filing. Whether an error other than in the seller's name is seriously misleading should depend upon whether the error prejudiced the ability of claimants to assert their rights.</text>
+    </level>
+    <level>
+      <heading>Cross-References:</heading>
+      <text/>
+      <text>Point 1: Sections 1-201 and 6-104.</text>
+      <text>Point 2: Sections 1-203 and 6-104.</text>
+      <text>Point 3: Sections 6-102, 6-104, and 9-402.</text>
+      <text>Point 4: Sections 6-104 and 9-402.</text>
+      <text>Point 5: Section 6-102.</text>
+      <text>Point 6: Sections 6-107 and 9-402.</text>
+    </level>
+    <level>
+      <heading>Definitional Cross-References:</heading>
+      <text/>
+      <text>"Asset". Section 6-102.</text>
+      <text>"Bulk sale". Section 6-102.</text>
+      <text>"Buyer". Section 2-103.</text>
+      <text>"Claim". Section 6-102.</text>
+      <text>"Claimant". Section 6-102.</text>
+      <text>"Date of the bulk sale". Section 6-102.</text>
+      <text>"Date of the bulk-sale agreement". Section 6-102.</text>
+      <text>"Debt". Section 6-102.</text>
+      <text>"Knowledge". Section 1-201.</text>
+      <text>"Net contract price". Section 6-102.</text>
+      <text>"Seller". Section 2-103.</text>
+      <text>"Send". Section 1-201.</text>
+      <text>"Verified". Section 6-102.</text>
+      <text>"Written". Section 1-201.</text>
     </level>
   </level>
 </level>

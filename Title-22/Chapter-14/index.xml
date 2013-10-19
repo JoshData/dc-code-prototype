@@ -1,14 +1,13 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>14</num>
-  <heading>False Pretenses; False Personation.</heading>
+  <heading>False Pretenses; False Personation</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1401~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1402.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1403.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1404.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1405.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1406.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1407~22-1408~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1407~22-1408~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-1409.xml"/>
 </level>

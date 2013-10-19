@@ -52,18 +52,14 @@
     <num>(d)</num>
     <text>The Council shall receive an annual report on the implementation of this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 20, 2005, D.C. Law 16-33, § 2367, as added May 27, 2010, D.C. Law 18-159, § 2(g), 57 DCR 3006.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-159, see notes following § 2-218.66.</text>
-      </level>
+      <heading>Legislative History of Law 18-159</heading>
+      <text>For Law 18-159, see notes following § 2-218.66.</text>
     </level>
   </level>
 </level>

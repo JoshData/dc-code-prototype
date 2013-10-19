@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-111.13</num>
   <heading>Rules.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-991.13</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Within 180 days of May 1, 1990, the Mayor shall submit proposed rules on the control of asbestos and materials that contain asbestos to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within the 45-day review period, the proposed rules shall be deemed effective. The Mayor shall submit any amendment to the proposed rules to the Council for a 45-day period of review pursuant to this section.</text>
@@ -90,29 +89,31 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 1, 1990, D.C. Law 8-116, § 14, 37 DCR 1641; Oct. 15, 1993, D.C. Law 10-37, § 2(b), 40 DCR 5817; May 16, 1995, D.C. Law 10-255, § 9, 41 DCR 5193.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-991.13.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-116, see Historical and Statutory Notes following § 8-111.01.</text>
-        <text>For legislative history of D.C. Law 10-37, see Historical and Statutory Notes following § 8-111.04.</text>
-        <text>Law 10-255, the "Technical Amendments Act of 1994," was introduced in Council and assigned Bill No. 10-673, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 21, 1994, and July 5, 1994, respectively. Signed by the Mayor on July 25, 1994, it was assigned Act No. 10-302 and transmitted to both Houses of Congress for its review. D.C. Law 10-255 became effective May 16, 1995.</text>
-        <text>D.C. Act 10-302 which affected this section became Law 10-255, effective May 16, 1995. The historical citation and notes relating to D.C. Law 10-255 have been set out herein to clarify the law number and effective date of that act.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>District of Columbia Asbestos Licensing and Contract Act of 1990 Proposed Rulemaking Approval Resolution of 1997: Proposed Resolution 12-0112, the "District of Columbia Asbestos Licensing and Contract Act of 1990 Proposed Rulemaking Approval Resolution of 1997" was deemed approved, effective Jan. 25, 1997.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-991.13.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-116</heading>
+      <text>For legislative history of D.C. Law 8-116, see Historical and Statutory Notes following § 8-111.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-37</heading>
+      <text>For legislative history of D.C. Law 10-37, see Historical and Statutory Notes following § 8-111.04.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-255</heading>
+      <text>Law 10-255, the "Technical Amendments Act of 1994," was introduced in Council and assigned Bill No. 10-673, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 21, 1994, and July 5, 1994, respectively. Signed by the Mayor on July 25, 1994, it was assigned Act No. 10-302 and transmitted to both Houses of Congress for its review. D.C. Law 10-255 became effective May 16, 1995.</text>
+      <text>D.C. Act 10-302 which affected this section became Law 10-255, effective May 16, 1995. The historical citation and notes relating to D.C. Law 10-255 have been set out herein to clarify the law number and effective date of that act.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>District of Columbia Asbestos Licensing and Contract Act of 1990 Proposed Rulemaking Approval Resolution of 1997: Proposed Resolution 12-0112, the "District of Columbia Asbestos Licensing and Contract Act of 1990 Proposed Rulemaking Approval Resolution of 1997" was deemed approved, effective Jan. 25, 1997.</text>
     </level>
   </level>
 </level>

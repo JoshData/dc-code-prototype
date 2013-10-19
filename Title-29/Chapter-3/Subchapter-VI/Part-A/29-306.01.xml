@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>All corporate powers shall be exercised by or under the authority of the board of directors of the corporation and the business and affairs of the corporation shall be managed by or under the direction, and subject to the oversight, of its board of directors, subject to any limitation set forth in the articles of incorporation or in an agreement authorized under § 29- 305.42.</text>
+    <text>All corporate powers shall be exercised by or under the authority of the board of directors of the corporation and the activities and affairs of the corporation shall be managed by or under the direction, and subject to the oversight, of its board of directors, subject to any limitation set forth in the articles of incorporation or in an agreement authorized under § 29-305.42.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -45,18 +45,30 @@
       <text>The composition of the board and its committees, taking into account the important role of independent directors.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(c)(17), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-306.25.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "activities" for "business" in (b).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-301.03.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

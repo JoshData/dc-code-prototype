@@ -17,18 +17,18 @@
     <num>(d)</num>
     <text>All prosecutions under this section shall be in the Superior Court of the District of Columbia in the name of the District of Columbia and shall be instituted by the Attorney General for the District of Columbia.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 31, 2009, D.C. Law 17-381, § 17, 56 DCR 1596.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-381, see notes following § 8-231.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-231.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-381</heading>
+      <text>For Law 17-381, see notes following § 8-231.01.</text>
     </level>
   </level>
 </level>

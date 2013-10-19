@@ -1,15 +1,6 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>New Washington Convention Center Neighborhood Stability.   [Expired]</heading>
-  <level>
-    <level>
-      <level>
-        <text><text b="True">&lt;</text>This subchapter has expired effective October 30, 1999.<text b="True">&gt;</text></text>
-      </level>
-    </level>
-    <text>DC CODE D. I, T. 6, Ch. 11, Subch. III, Refs &amp; Annos</text>
-  </level>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1151~6-1157~P.xml"/>
+  <heading>New Washington Convention Center Neighborhood Stability</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1151~6-1157~P.xml"/>
 </level>

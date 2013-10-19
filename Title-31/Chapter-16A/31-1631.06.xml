@@ -37,18 +37,14 @@
     <num>(c)</num>
     <text>Records submitted in accordance with this section that contain proprietary information, identified in writing as such by the public insurance adjuster, shall be treated as confidential by the Commissioner.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 27, 2003, D.C. Law 14-256, § 6, 50 DCR 238.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-256, see notes following § 31-1631.01.</text>
-      </level>
+      <heading>Legislative History of Law 14-256</heading>
+      <text>For Law 14-256, see notes following § 31-1631.01.</text>
     </level>
   </level>
 </level>

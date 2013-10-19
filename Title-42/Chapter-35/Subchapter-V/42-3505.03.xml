@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-3505.03</num>
   <heading>Conciliation and arbitration service.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2553</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>There is established a conciliation and arbitration service ("service") within the Division.</text>
@@ -22,22 +21,22 @@
     <num>(e)</num>
     <text>No person shall be compelled to attend a session of the service or participate in any proceeding before its staff. The results of any proceeding shall not be binding upon any party, except (1) to the extent provided in § 42-3505.04, or (2) with respect to a conciliation agreement, to the extent that a party to the proceeding agrees to be bound by the conciliation agreement. No evidence pertaining to a conciliation or arbitration proceeding shall be admissible in any judicial proceeding under other provisions of law relating to housing-provider and tenant disputes.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 17, 1985, D.C. Law 6-10, § 503, 32 DCR 3089.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2553.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-3505.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2553.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-10</heading>
+      <text>For legislative history of D.C. Law 6-10, see Historical and Statutory Notes following § 42-3501.01.</text>
     </level>
   </level>
 </level>

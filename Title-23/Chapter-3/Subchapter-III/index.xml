@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Sufficiency.</heading>
+  <heading>Sufficiency</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-321.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-322.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-323.xml"/>

@@ -123,7 +123,7 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>When using or disclosing health and human services information, an agency or service provider shall make reasonable efforts to limit such information to the minium amount necessary to accomplish the purpose of the use or disclosure.</text>
+    <text>When using or disclosing health and human services information, an agency or service provider shall make reasonable efforts to limit such information to the minimum amount necessary to accomplish the purpose of the use or disclosure.</text>
   </level>
   <level>
     <num>(e)</num>
@@ -149,28 +149,27 @@
       <text>Ensuring that any health and human services information disclosed pursuant to § 7-243 is limited to the minimum amount of information necessary to accomplish the purpose of the disclosure.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 4, 2010, D.C. Law 18-273, § 102, 57 DCR 7171; Sept. 26, 2012, D.C. Law 19-171, § 53(a), 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 19-171 validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 102 of Data-Sharing and Information Coordination Emergency Amendment Act of 2010 (D.C. Act 18-530, August 6, 2010, 57 DCR 8099).</text>
-        <text>For temporary (90 day) addition, see § 102 of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18- 582, October 20, 2010, 57 DCR 10118).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-273, see notes following § 7-241.</text>
-        <text>Law 19-171, the "Technical Amendments Act of 2012", was introduced in Council and assigned Bill No. 19-397, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on March 20, 2012, and April 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to both Houses of Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-171 validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 102 of Data-Sharing and Information Coordination Emergency Amendment Act of 2010 (D.C. Act 18-530, August 6, 2010, 57 DCR 8099).</text>
+      <text>For temporary (90 day) addition, see § 102 of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-582, October 20, 2010, 57 DCR 10118).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-273</heading>
+      <text>For Law 18-273, see notes following § 7-241.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-171</heading>
+      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
     </level>
   </level>
 </level>

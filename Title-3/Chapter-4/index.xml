@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>4</num>
-  <heading>Board of Funeral Directors.</heading>
-  <level>
-    <text>DC CODE D. I, T. 3, Subt. I, Ch. 4, Refs &amp; Annos</text>
-  </level>
+  <heading>Board of Funeral Directors</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-401.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-402.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-403~P.xml"/>

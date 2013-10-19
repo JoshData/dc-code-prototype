@@ -1,67 +1,63 @@
 <level type="section">
   <num>28-3106</num>
   <heading>When transfer is made or obligation is incurred.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-3106</formerly-cited-as>
   <text>For the purposes of this chapter:</text>
   <level>
+    <num>(1)</num>
+    <text>A transfer is made:</text>
     <level>
-      <num>(1)</num>
-      <text>A transfer is made:</text>
-      <level>
-        <num>(A)</num>
-        <text>With respect to an asset that is real property other than a fixture, including the interest of a seller or purchaser under a contract for the sale of the asset, when the transfer is so far perfected that a good-faith purchaser of the asset from the debtor against whom applicable law permits the transfer to be perfected cannot acquire an interest in the asset that is superior to the interest of the transferee; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>With respect to an asset that is not real property or that is a fixture, when the transfer is so far perfected that a creditor on a simple contract cannot acquire a judicial lien otherwise than under this chapter that is superior to the interest of the transferee.</text>
-      </level>
+      <num>(A)</num>
+      <text>With respect to an asset that is real property other than a fixture, including the interest of a seller or purchaser under a contract for the sale of the asset, when the transfer is so far perfected that a good-faith purchaser of the asset from the debtor against whom applicable law permits the transfer to be perfected cannot acquire an interest in the asset that is superior to the interest of the transferee; and</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>If applicable law permits the transfer to be perfected as provided in paragraph (1) of this section and the transfer is not so perfected before the commencement of an action for relief under this chapter, the transfer is deemed made immediately before the commencement of the action.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>If applicable law does not permit the transfer to be perfected as provided in paragraph (1) of this section, the transfer is made when it becomes effective between the debtor and the transferee.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>A transfer is not made until the debtor has acquired rights in the asset transferred.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>An obligation is incurred:</text>
-      <level>
-        <num>(A)</num>
-        <text>If oral, when it becomes effective between the parties; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>If evidenced by a writing, when the writing executed by the obligor is delivered to, or for the benefit of, the obligee.</text>
-      </level>
+      <num>(B)</num>
+      <text>With respect to an asset that is not real property or that is a fixture, when the transfer is so far perfected that a creditor on a simple contract cannot acquire a judicial lien otherwise than under this chapter that is superior to the interest of the transferee.</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>If applicable law permits the transfer to be perfected as provided in paragraph (1) of this section and the transfer is not so perfected before the commencement of an action for relief under this chapter, the transfer is deemed made immediately before the commencement of the action.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>If applicable law does not permit the transfer to be perfected as provided in paragraph (1) of this section, the transfer is made when it becomes effective between the debtor and the transferee.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>A transfer is not made until the debtor has acquired rights in the asset transferred.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>An obligation is incurred:</text>
     <level>
-      <heading>CREDIT(S)</heading>
+      <num>(A)</num>
+      <text>If oral, when it becomes effective between the parties; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>If evidenced by a writing, when the writing executed by the obligor is delivered to, or for the benefit of, the obligee.</text>
+    </level>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
       <text>(Feb. 9, 1996, D.C. Law 11-83, § 2, 42 DCR 6773; Apr. 9, 1997, D.C. Law 11-255, § 27(c), 44 DCR 1271.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-3106.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-83, see Historical and Statutory Notes following § 28-3101.</text>
-        <text>Law 11-255, the "Second Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-905, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-519 and transmitted to both Houses of Congress for its review. D.C. Law 11-255 became effective on April 9, 1997.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 6 of the Uniform Fraudulent Transfer Act. See Volume 7A, Part II Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-3106.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-83</heading>
+      <text>For legislative history of D.C. Law 11-83, see Historical and Statutory Notes following § 28-3101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>Law 11-255, the "Second Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-905, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-519 and transmitted to both Houses of Congress for its review. D.C. Law 11-255 became effective on April 9, 1997.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 6 of the Uniform Fraudulent Transfer Act.</text>
     </level>
   </level>
 </level>

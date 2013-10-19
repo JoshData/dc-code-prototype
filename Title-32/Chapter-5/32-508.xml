@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-508</num>
   <heading>Investigative authority.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-1308</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>An employer shall develop, maintain, and make available to the Mayor records regarding the employer's activities related to this chapter that the Mayor may prescribe by rule.</text>
@@ -22,22 +21,18 @@
     <num>(c)</num>
     <text>For the purpose of any investigation provided for in this section, the Mayor may exercise the subpoena authority provided in § 1-301.21.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 3, 1990, D.C. Law 8-181, § 9, 37 DCR 5043.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-1308.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-181, see Historical and Statutory Notes following § 32-501.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-1308.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-181</heading>
+      <text>For legislative history of D.C. Law 8-181, see Historical and Statutory Notes following § 32-501.</text>
     </level>
   </level>
 </level>

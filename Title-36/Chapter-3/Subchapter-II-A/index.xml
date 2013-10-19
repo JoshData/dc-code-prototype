@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II-A</num>
-  <heading>Security at Retail Service Stations.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-302.21.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-302.22.xml"/>
+  <heading>Security at Retail Service Stations. [Transferred]</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-302.21~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="36-302.22~P.xml"/>
 </level>

@@ -1,50 +1,43 @@
 <level type="section">
   <num>31-1803</num>
   <heading>Required contract provisions; reinsurance intermediary-brokers.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-3103</formerly-cited-as>
   <text>Transactions between a reinsurance broker and the insurer it represents shall only be entered into pursuant to a written authorization, specifying the responsibilities of each party. The authorization shall, at a minimum, provide that:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The insurer may terminate the reinsurance broker's authority at any time.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The reinsurance broker shall render accounts to the insurer accurately detailing all material transactions, including information necessary to support all commissions, charges, and other fees received by, or owing to, the reinsurance broker, and remit all funds due to the insurer within 30 days of receipt.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>All funds collected for the insurer's account will be held by the reinsurance broker in a fiduciary capacity in a bank which is a qualified United States financial institution as defined in § 31-1801.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The reinsurance broker will comply with § 31-1804.</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>The reinsurance broker will comply with the written standards established by the insurer for the cession or retrocession of all risks.</text>
-    </level>
-    <level>
-      <num>(6)</num>
-      <text>The reinsurance broker will disclose to the insurer any relationship with any reinsurer to which business will be ceded or retroceded.</text>
-    </level>
+    <num>(1)</num>
+    <text>The insurer may terminate the reinsurance broker's authority at any time.</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The reinsurance broker shall render accounts to the insurer accurately detailing all material transactions, including information necessary to support all commissions, charges, and other fees received by, or owing to, the reinsurance broker, and remit all funds due to the insurer within 30 days of receipt.</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>All funds collected for the insurer's account will be held by the reinsurance broker in a fiduciary capacity in a bank which is a qualified United States financial institution as defined in § 31-1801.</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>The reinsurance broker will comply with § 31-1804.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>The reinsurance broker will comply with the written standards established by the insurer for the cession or retrocession of all risks.</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>The reinsurance broker will disclose to the insurer any relationship with any reinsurer to which business will be ceded or retroceded.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 21, 1993, D.C. Law 10-47, § 4, 40 DCR 6093.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-3103.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-47, see Historical and Statutory Notes following § 31-1801.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-3103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-47</heading>
+      <text>For legislative history of D.C. Law 10-47, see Historical and Statutory Notes following § 31-1801.</text>
     </level>
   </level>
 </level>

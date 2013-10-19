@@ -1,7 +1,6 @@
 <level type="section">
   <num>9-808</num>
   <heading>Authority to make arrests; Park Police patrol.</heading>
-  <formerly-cited-as>DC ST 1981 § 7-1208</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Administrator and any Federal Aviation Agency employee appointed to protect life and property on the airport, when designated by the Administrator, is hereby authorized and empowered:</text>
@@ -30,19 +29,20 @@
     <num>(d)</num>
     <text>The officer on duty in command of those employees designated by the Administrator as provided in subsection (a) of this section may accept deposit of collateral from any person charged with the violation of any rule or regulation prescribed under this chapter, for appearance in court or before the appropriate United States Magistrate; and such collateral shall be deposited with such United States Magistrate.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 7, 1950, 64 Stat. 772, ch. 905, § 8; Aug. 23, 1958, 72 Stat. 807, Pub. L. 85-726, title XIV, § 1402(g).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 7-1208.</text>
-        <text>1973 Ed., § 7-1408.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Arrests without warrant, see § 23-581.</text>
+      <text>United States Park Police, authority to arrest, see § 5-206.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 7-1208.</text>
+      <text>1973 Ed., § 7-1408.</text>
     </level>
   </level>
 </level>

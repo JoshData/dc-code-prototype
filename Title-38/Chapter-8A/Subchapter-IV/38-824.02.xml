@@ -9,7 +9,7 @@
       <text>For students in Kindergarten through Grade 5:</text>
       <level>
         <num>(A)</num>
-        <text>School years 2010-2011 to 2013-2014: an average of at least 30 minutes per week or the same level of physical education as provided in school year 2009- 2010, whichever is greater; and</text>
+        <text>School years 2010-2011 to 2013-2014: an average of at least 30 minutes per week or the same level of physical education as provided in school year 2009-2010, whichever is greater; and</text>
       </level>
       <level>
         <num>(B)</num>
@@ -21,7 +21,7 @@
       <text>For students in Grades 6 through 8:</text>
       <level>
         <num>(A)</num>
-        <text>School years 2010-2011 to 2013-2014: an average of at least 45 minutes per week or the same level of physical education as provided in school year 2009- 2010, whichever is greater; and</text>
+        <text>School years 2010-2011 to 2013-2014: an average of at least 45 minutes per week or the same level of physical education as provided in school year 2009-2010, whichever is greater; and</text>
       </level>
       <level>
         <num>(B)</num>
@@ -38,7 +38,7 @@
     <text>Public schools and public charter schools shall provide health education to students in Grades Kindergarten through 8 as follows:</text>
     <level>
       <num>(1)</num>
-      <text>School years 2010-2011 to 2013-2014: an average of at least 15 minutes per week or the same level of health education as provided in school year 2009- 2010, whichever is greater; and</text>
+      <text>School years 2010-2011 to 2013-2014: an average of at least 15 minutes per week or the same level of health education as provided in school year 2009-2010, whichever is greater; and</text>
     </level>
     <level>
       <num>(2)</num>
@@ -53,23 +53,23 @@
     <num>(d)</num>
     <text>The physical education and health education required by this section shall meet the curricular standards adopted by the State Board of Education.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 27, 2010, D.C. Law 18-209, § 402, 57 DCR 4779.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 4062(i) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
-        <text>For temporary (90 day) addition of section, see § 4062(i) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-209, see notes following § 38-821.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 38-821.02.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 4062(i) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
+      <text>For temporary (90 day) addition of section, see § 4062(i) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-209</heading>
+      <text>For Law 18-209, see notes following § 38-821.01.</text>
     </level>
   </level>
 </level>

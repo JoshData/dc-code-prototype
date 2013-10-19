@@ -3,39 +3,37 @@
   <heading>Services requiring immediate supervision by a funeral director.</heading>
   <text>An apprentice funeral director shall not perform the following services unless he or she is under the immediate supervision of a licensed funeral director:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The handling, preparation, or embalming of human remains;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The removal or transport of human remains;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Conducting or directing a funeral; or</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Advising consumers making arrangements for the care and disposition of human remains, including arrangements made prior to the death of a person.</text>
-    </level>
+    <num>(1)</num>
+    <text>The handling, preparation, or embalming of human remains;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The removal or transport of human remains;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Conducting or directing a funeral; or</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Advising consumers making arrangements for the care and disposition of human remains, including arrangements made prior to the death of a person.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 22, 1984, D.C. Law 5-84, § 22b, as added Sept. 24, 2010, D.C. Law 18-223, § 2082(e), 57 DCR 6242.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 2082(e) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-223, see notes following § 3-402.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Licensure, non-health related occupations and professions, see § 47-2853.04.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 2082(e) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 3-402.</text>
     </level>
   </level>
 </level>

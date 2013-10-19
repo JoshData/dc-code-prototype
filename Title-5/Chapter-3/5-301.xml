@@ -3,14 +3,14 @@
   <heading>Powers and duties of federal law enforcement officers when making arrests for nonfederal offenses.</heading>
   <level>
     <num>(a)</num>
-    <text>When a federal law enforcement agency has entered into a cooperative agreement with the Metropolitan Police Department of the District of Columbia ("MPD") to assist the Department in carrying out crime prevention and law enforcement activities pursuant to § 5-133.17, a sworn federal law enforcement officer of a covered federal law enforcement agency as defined in § 5-133.17(d) ("federal officer"), who in his official capacity is authorized to make arrests, shall, when making an arrest in the District of Columbia for a nonfederal offense, have the same legal status and immunity from suit as an MPD officer if the arrest is made under the following circumstances:</text>
+    <text>When a federal law enforcement agency has entered into a cooperative agreement with the Metropolitan Police Department of the District of Columbia ("MPD") to assist MPD in carrying out crime prevention and law enforcement activities pursuant to § 5-133.17, a sworn federal law enforcement officer of a covered federal law enforcement agency as defined in § 5-133.17(d) ("federal officer"), who in his official capacity is authorized to make arrests, shall, when making an arrest in the District of Columbia for a nonfederal offense, have the same legal status and immunity from suit as an MPD officer if the arrest is made under the following circumstances:</text>
     <level>
       <num>(1)</num>
       <text>The federal officer has probable cause to believe that the person arrested has committed a felony;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>The federal officer reasonably believes that the person arrested has committed a misdemeanor in his presence; or</text>
+      <text>The federal officer has probable cause to believe that the person arrested has committed a misdemeanor; or</text>
     </level>
     <level>
       <num>(3)</num>
@@ -29,18 +29,30 @@
       <text>The federal officer has training substantially similar to the weapons training requirements of the MPD.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(May 9, 2000, D.C. Law 13-100, § 2, 46 DCR 794.)</text>
+      <heading>History</heading>
+      <text>(May 9, 2000, D.C. Law 13-100, § 2, 46 DCR 794; June 19, 2013, D.C. Law 19-320, § 201, 60 DCR 3390.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 13-100, the "Federal Law Enforcement Officer Cooperation Act of 1999," was introduced in Council and assigned Bill No. 13-302, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on December 7, 1999, and December 21, 1999, respectively. Signed by the Mayor on January 10, 2000, it was assigned Act No. 13-246 and transmitted to both Houses of Congress for its review. D.C. Law 13-100 became effective on May 9, 2000.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 5-302.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-320 substituted "MPD" for "the Department" in the introductory language of (a); and substituted "has probable cause to believe that the person arrested has committed a misdemeanor" for "reasonably believes that the person arrested has committed a misdemeanor in his presence" in (a)(2).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 201 of the Omnibus Criminal Code Amendments Emergency Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013, 60 DCR 1017).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-100</heading>
+      <text>Law 13-100, the "Federal Law Enforcement Officer Cooperation Act of 1999," was introduced in Council and assigned Bill No. 13-302, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on December 7, 1999, and December 21, 1999, respectively. Signed by the Mayor on January 10, 2000, it was assigned Act No. 13-246 and transmitted to both Houses of Congress for its review. D.C. Law 13-100 became effective on May 9, 2000.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-320</heading>
+      <text>Law 19-320, the "Omnibus Criminal Code Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-645. The Bill was adopted on first and second readings on Dec. 4, 2012, and Dec. 18, 2012, respectively. Signed by the Mayor on Feb. 11, 2013, it was assigned Act No. 19-677 and transmitted to Congress for its review. D.C. Law 19-320 became effective on June 19, 2013.</text>
     </level>
   </level>
 </level>

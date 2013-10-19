@@ -1,7 +1,6 @@
 <level type="section">
   <num>3-1212.01</num>
   <heading>Transfer of personnel, records, property, and funds.</heading>
-  <formerly-cited-as>DC ST 1981 § 2-3311.1</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The personnel, records, property, and unexpended balances of appropriations and other funds which relate primarily to the functions of the Board of Dental Examiners are transferred to the Board of Dentistry established by this chapter.</text>
@@ -42,22 +41,18 @@
     <num>(j)</num>
     <text>The personnel, records, property, and unexpended balances of appropriations and other funds which relate primarily to the functions of the Board of Psychologist Examiners are transferred to the Board of Psychology established by this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1986, D.C. Law 6-99, § 1201, 33 DCR 729.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 2-3311.1.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 2-3311.1.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-99</heading>
+      <text>For legislative history of D.C. Law 6-99, see Historical and Statutory Notes following § 3-1201.01.</text>
     </level>
   </level>
 </level>

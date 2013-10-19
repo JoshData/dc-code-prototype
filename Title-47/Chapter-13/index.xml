@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>13</num>
-  <heading>Real Property Tax Sales.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 47, Ch. 13, Refs &amp; Annos</text>
-  </level>
+  <heading>Real Property Tax Sales</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1301.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1302.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1303.xml"/>

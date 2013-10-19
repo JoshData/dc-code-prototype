@@ -1,6 +1,6 @@
 <level type="section">
   <num>25-441</num>
-  <heading>Hearings--continuances.</heading>
+  <heading>Hearings - Continuances.</heading>
   <level>
     <num>(a)</num>
     <text>A hearing may be continued for good cause. A written motion for a continuance shall be filed with the Board at least 6 days before the scheduled hearing date and served upon all parties at least 6 calendar days before the hearing. To be granted, the motion shall, in the opinion of the Board, set forth good and sufficient cause for continuance or demonstrate that an extreme emergency exists.</text>
@@ -17,29 +17,26 @@
     <num>(d)</num>
     <text>The Board may waive the provisions of this section if all parties agree to a continuance.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959; Oct. 1, 2002, D.C. Law 14-190, § 1702(j), 49 DCR 6968.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <text>D.C. Law 13-298 amended and enacted into law Title 25 of the District of Columbia Official Code.</text>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-190 rewrote subsec. (c) which had read as follows:</text>
-        <text>"(c) The Board may, on motion of any party or on its own motion, continue a hearing in order to permit an ANC to vote on a material issue in the hearing."</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 1702(j) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-298, see notes following § 25-101.</text>
-        <text>For Law 14-190, see notes following § 25-101.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-190 rewrote subsec. (c) which had read as follows: "(c) The Board may, on motion of any party or on its own motion, continue a hearing in order to permit an ANC to vote on a material issue in the hearing."</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 1702(j) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-298</heading>
+      <text>For D.C. Law 13-298, see notes following § 25-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-190</heading>
+      <text>For Law 14-190, see notes following § 25-101.</text>
     </level>
   </level>
 </level>

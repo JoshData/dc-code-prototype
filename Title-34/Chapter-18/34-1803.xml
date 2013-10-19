@@ -28,7 +28,7 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>For interconnected VoIP service, as defined by 47 C.F.R. § 9.3, $0. 76 for each line, trunk, or path that can access to, connect with, or interface with 911 service based on primary place of use.</text>
+        <text>For interconnected VoIP service, as defined by 47 C.F.R. § 9.3, $0.76 for each line, trunk, or path that can access to, connect with, or interface with 911 service based on primary place of use.</text>
       </level>
     </level>
     <level>
@@ -52,72 +52,58 @@
     <num>(e)</num>
     <text>The provisions of this section do not apply to prepaid wireless telecommunications service, which shall be subject to the provisions of § 34-1803.02.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 19, 2000, D.C. Law 13-172, § 604, 47 DCR 6308; June 5, 2003, D.C. Law 14-307, § 702(b), 49 DCR 11664; Nov. 13, 2003, D.C. Law 15-39, § 502(c), 50 DCR 5668; Aug. 16, 2008, D.C. Law 17-219, § 3002(b), 55 DCR 7598; Sept. 24, 2010, D.C. Law 18-223, § 3002(c), 57 DCR 6242.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-39 rewrote the section which had read as follows:</text>
-        <text>"(a)(1) All subscribers shall contribute to the Fund through a user fee to be collected by each local exchange carrier.</text>
-        <text>"(2)(A) Subscribers to wireline local exchange service shall pay the following monthly user fees:</text>
-        <text>"(i) A fee of $0.76 per access line;</text>
-        <text>"(ii) A fee of $0.62 per Centrex line; and</text>
-        <text>"(iii) A fee of $0.62 per Private Branch Exchange ('PBX') station.</text>
-        <text>"(B) For billing and collection purposes, the PBX fee per station shall be converted into a per-trunk fee based on a ratio of 8 PBX stations to one PBX trunk.</text>
-        <text>"(C) Subscribers to wireless local exchange service shall pay a monthly user fee of $0.76 for each telephone number that has a District of Columbia billing address.</text>
-        <text>"(D) For the purposes of collection and billing, a provider may continue treating all lines as access lines until such time as the provider is able to make the necessary technical changes to its billing and collection systems to implement the specific monthly user fees for Centrex and PBX stations, but in no event later than 120 days after June 5, 2003.</text>
-        <text>"(b)(1) Each local exchange carrier shall collect the user fees imposed under subsection (a) of this section and shall remit the proceeds to the Mayor on a quarterly basis.</text>
-        <text>"(2) Each local exchange carrier shall be entitled to deduct and retain an amount not to exceed 2% of the user fees collected to cover administrative costs.</text>
-        <text>"(c)(1) Payment of the user fees imposed under subsection (a) of this section shall not be subject to taxes or charges levied by the District of Columbia.</text>
-        <text>"(2) User fees collected under subsection (a) of this section shall not be considered revenue of a local exchange carrier for any purpose.</text>
-        <text>"(d) As part of the annual request for appropriations from the Fund, the Mayor shall provide a report to the Council addressing whether the user fees imposed under subsection (a) of this section should be adjusted.</text>
-        <text>"(e) Each user fee imposed under this section shall be reflected in a separate line item on each bill sent by a local exchange carrier."</text>
-        <text>D.C. Law 14-307 rewrote subsec. (a)(2) which had read as follows:</text>
-        <text>"(2)(A) Subscribers to wireline local exchange service shall pay the following monthly user fees:</text>
-        <text>"(i) A fee of $0.56 per exchange access line; and</text>
-        <text>"(ii) A fee of $0.07 per Centrex line.</text>
-        <text>"(B) Subscribers to wireless local exchange service shall pay a monthly user fee of $0.56 for each telephone number that has a District of Columbia billing address."</text>
-        <text>D.C. Law 17-219 rewrote subsec. (a)(1), which had read as follows:</text>
-        <text>"(a)(1) There is imposed upon all local exchange carriers, including wireline and wireless carriers, a tax calculated on the basis of each individual telephone line sold or leased in the District of Columbia as follows:</text>
-        <text>"(A) For wireline local exchange service:</text>
-        <text>"(i) $0.76 per exchange access line;</text>
-        <text>"(ii) $0.62 per Centrex line; and</text>
-        <text>"(iii) $0.62 per private branch exchange ('PBX') station; and</text>
-        <text>"(B) For wireless telephone exchange service, $0.76 for each telephone number that has a District of Columbia billing address."</text>
-        <text>D.C. Law 18-223 added subsec. (e).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90-day) addition of section, see § 604 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000, 47 DCR 6574).</text>
-        <text>For temporary (90-day) authorization of applicability of section, see § 609 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000, 47 DCR 6574).</text>
-        <text>For temporary (90 day) amendment of section, see § 702(b) of Fiscal Year 2003 Budget Support Amendment Emergency Act of 2002 (D.C. Act 14-544, December 4, 2002, 49 DCR 11700).</text>
-        <text>For temporary (90 day) amendment of section, see § 702(b) of the Fiscal Year 2003 Budget Support Amendment Congressional Review Emergency Act of 2003 (D.C. Act 15-27, February 24, 2003, 50 DCR 2151).</text>
-        <text>For temporary (90 day) amendment of section, see § 702(b) of Fiscal Year 2003 Budget Support Amendment Second Congressional Review Emergency Act of 2003 (D.C. Act 15-103, June 20, 2003, 50 DCR 5499).</text>
-        <text>For temporary (90 day) amendment of section, see § 502(c) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003, 50 DCR 5613).</text>
-        <text>For temporary (90 day) amendment of section, see § 502(c) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003, 50 DCR 8360).</text>
-        <text>For temporary (90 day) amendment of section, see § 3002(c) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-        <text>For temporary (90 day) addition of section, see § 3042(b) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
-        <text>For temporary (90 day) addition of section, see § 3042(b) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-172, see notes following § 34-1801.</text>
-        <text>For Law 14-307, see notes following § 34-1802.</text>
-        <text>For Law 15-39, see notes following § 34-1801.</text>
-        <text>For Law 17-219, see notes following § 34-808.01.</text>
-        <text>For Law 18-223, see notes following § 34-706.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Section 3003 of D.C. Law 18-223 provides:</text>
-        <text>"Sec. 3003. Applicability.</text>
-        <text>"This subtitle shall apply as of October 1, 2010."</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 34-1802 and § 34-1805.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-39 rewrote the section.</text>
+      <text>D.C. Law 14-307 rewrote subsec. (a)(2).</text>
+      <text>D.C. Law 17-219 rewrote subsec. (a)(1).</text>
+      <text>D.C. Law 18-223 added subsec. (e).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90-day) addition of section, see § 604 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000, 47 DCR 6574).</text>
+      <text>For temporary (90-day) authorization of applicability of section, see § 609 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000, 47 DCR 6574).</text>
+      <text>For temporary (90 day) amendment of section, see § 702(b) of Fiscal Year 2003 Budget Support Amendment Emergency Act of 2002 (D.C. Act 14-544, December 4, 2002, 49 DCR 11700).</text>
+      <text>For temporary (90 day) amendment of section, see § 702(b) of the Fiscal Year 2003 Budget Support Amendment Congressional Review Emergency Act of 2003 (D.C. Act 15-27, February 24, 2003, 50 DCR 2151).</text>
+      <text>For temporary (90 day) amendment of section, see § 702(b) of Fiscal Year 2003 Budget Support Amendment Second Congressional Review Emergency Act of 2003 (D.C. Act 15-103, June 20, 2003, 50 DCR 5499).</text>
+      <text>For temporary (90 day) amendment of section, see § 502(c) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003, 50 DCR 5613).</text>
+      <text>For temporary (90 day) amendment of section, see § 502(c) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003, 50 DCR 8360).</text>
+      <text>For temporary (90 day) amendment of section, see § 3002(c) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+      <text>For temporary (90 day) addition of section, see § 3042(b) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
+      <text>For temporary (90 day) addition of section, see § 3042(b) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-172</heading>
+      <text>For Law 13-172, see notes following § 34-1801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-307</heading>
+      <text>For Law 14-307, see notes following § 34-1802.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-39</heading>
+      <text>For Law 15-39, see notes following § 34-1801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-219</heading>
+      <text>For Law 17-219, see notes following § 34-808.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 34-706.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 3003 of D.C. Law 18-223 provided: "Sec. 3003. Applicability. This subtitle shall apply as of October 1, 2010."</text>
     </level>
   </level>
 </level>

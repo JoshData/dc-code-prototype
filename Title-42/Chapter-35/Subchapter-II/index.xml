@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Rent Stabilization Program.</heading>
+  <heading>Rent Stabilization Program</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3502.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3502.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3502.02a.xml"/>
@@ -14,7 +14,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3502.04c.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3502.05.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3502.06.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3502.07~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3502.07.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3502.08.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3502.09.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3502.10.xml"/>

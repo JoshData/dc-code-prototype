@@ -1,7 +1,6 @@
 <level type="section">
   <num>50-1301.49</num>
   <heading>Required payments; amounts; settlements.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-449</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Judgments herein referred to shall, for the purpose of this chapter only, be deemed satisfied:</text>
@@ -22,19 +21,15 @@
     <num>(b)</num>
     <text>Payments made in settlements of any claims because of bodily injury, death, or property damage arising from such accident shall be credited in reduction of the amounts provided for in this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 25, 1954, 68 Stat. 132, ch. 222, § 49.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-449.</text>
-        <text>1973 Ed., § 40-465.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-449.</text>
+      <text>1973 Ed., § 40-465.</text>
     </level>
   </level>
 </level>

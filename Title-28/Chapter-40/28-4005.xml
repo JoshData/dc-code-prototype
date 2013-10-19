@@ -1,7 +1,6 @@
 <level type="section">
   <num>28-4005</num>
   <heading>Minimal procedures.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-4005</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Each hearing aid sale shall be accompanied by a receipt that includes:</text>
@@ -90,25 +89,31 @@
     <num>(c)</num>
     <text>Each registrant shall post conspicuously in large print at his or her place(s) of business and make available for inspection at any sale a retail price list showing all hearing aid models for sale.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Oct. 26, 1977, D.C. Law 2-33, § 6, 24 DCR 3726; enacted, Sept. 6, 1980, D.C. Law 3-85, § 3(b), (e), 27 DCR 2900; Apr. 9, 1997, D.C. Law 11-255, § 27(bb), 44 DCR 1271.)</text>
+      <heading>History</heading>
+      <text>(Oct. 26, 1977, D.C. Law 2-33, § 6, 24 DCR 3726; enacted, Sept. 6, 1980, D.C. Law 3-85, § 3(b), (e), 27 DCR 2900; Apr. 9, 1997, D.C. Law 11-255,§ 27(bb), 44 DCR 1271.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-4005.</text>
-        <text>1973 Ed., T. 28, Appx., § 56.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-33, see Historical and Statutory Notes following § 28-4001.</text>
-        <text>For legislative history of D.C. Law 3-85, see Historical and Statutory Notes following § 28-4001.</text>
-        <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 28-4001.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28-4004.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-4005.</text>
+      <text>1973 Ed., T. 28, Appx., § 56.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-33</heading>
+      <text>For legislative history of D.C. Law 2-33, see Historical and Statutory Notes following § 28-4001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 3-85</heading>
+      <text>For legislative history of D.C. Law 3-85, see Historical and Statutory Notes following § 28-4001.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 28-4001.</text>
     </level>
   </level>
 </level>

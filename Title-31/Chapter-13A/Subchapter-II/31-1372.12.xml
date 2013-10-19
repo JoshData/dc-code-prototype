@@ -10,7 +10,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The aggregate amount of investments as to one limitation in §§ 31- 1372.02 through 31-1372.09 held by the insurer under this subsection would exceed 1% of its admitted assets.</text>
+      <text>The aggregate amount of investments as to one limitation in §§ 31-1372.02 through 31-1372.09 held by the insurer under this subsection would exceed 1% of its admitted assets.</text>
     </level>
   </level>
   <level>
@@ -60,18 +60,18 @@
     <num>(d)</num>
     <text>An investment prohibited under § 31-1371.05 or § 31-1372.10 or additional derivative instruments acquired under § 31-1372.10 shall not be acquired under this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 11, 2003, D.C. Law 14-297, § 212, 50 DCR 330.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-297, see notes following § 31-1371.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1371.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-297</heading>
+      <text>For Law 14-297, see notes following § 31-1371.01.</text>
     </level>
   </level>
 </level>

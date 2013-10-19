@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-1054</num>
   <heading>Application for permits.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-3454</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Applications for solid waste facility permits and permit modifications shall be submitted to the Mayor in the form prescribed by regulation and shall include all information as the Mayor may reasonably require.</text>
@@ -11,15 +10,15 @@
     <text>The application fees for permits to operate solid waste facilities shall be as follows:</text>
     <level>
       <num>(1)</num>
-      <text>Initial permit -- $10,000;</text>
+      <text>Initial permit - $10,000;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Renewal permit -- $9,000; and</text>
+      <text>Renewal permit - $9,000; and</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>Modification permit for substantial alterations -- $1,000.</text>
+      <text>Modification permit for substantial alterations - $1,000.</text>
     </level>
   </level>
   <level>
@@ -38,39 +37,47 @@
     <num>(f)</num>
     <text>Any license issued pursuant to this section shall be issued as an Environmental Materials endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of Chapter 28 of Title 47.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 27, 1996, D.C. Law 11-94, § 5, 42 DCR 7172; Apr. 9, 1997, D.C. Law 11-255, § 16, 44 DCR 1271; Apr. 20, 1999, D.C. Law 12-261, § 2003(m)(2), 46 DCR 3142; Oct. 28, 2003, D.C. Law 15-38, § 3(l)(2), 50 DCR 6913; Apr. 13, 2005, D.C. Law 15-354, § 83(b), 52 DCR 2638.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-3454.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 15-38, in subsec. (f), substituted "an Environmental Materials endorsement to a basic business license under the basic" for "a Class A Environmental Services endorsement to a master business license under the master".</text>
-        <text>D.C. Law 15-354, in subsec. (f), validated a previously made technical correction.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) amendment of section, see § 3(l)(2) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003, 50 DCR 6896).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-94, see Historical and Statutory Notes following § 8-1051.</text>
-        <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 8-1015.</text>
-        <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 8-1053.</text>
-        <text>For Law 15-38, see notes following § 8-111.03.</text>
-        <text>For Law 15-354, see notes following § 8-103.06.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Temporary addition of subchapter: See Historical and Statutory Notes following § 8-1051.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-3454.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 15-38, in subsec. (f), substituted "an Environmental Materials endorsement to a basic business license under the basic" for "a Class A Environmental Services endorsement to a master business license under the master".</text>
+      <text>D.C. Law 15-354, in subsec. (f), validated a previously made technical correction.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 3(l)(2) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003, 50 DCR 6896).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-94</heading>
+      <text>For legislative history of D.C. Law 11-94, see Historical and Statutory Notes following § 8-1051.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 8-1015.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-261</heading>
+      <text>For legislative history of D.C. Law 12-261, see Historical and Statutory Notes following § 8-1053.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-38</heading>
+      <text>For Law 15-38, see notes following § 8-111.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-354</heading>
+      <text>For Law 15-354, see notes following § 8-103.06.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Temporary addition of subchapter: See Historical and Statutory Notes following § 8-1051.</text>
     </level>
   </level>
 </level>

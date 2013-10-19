@@ -1,7 +1,6 @@
 <level type="section">
   <num>4-205.47</num>
   <heading>Nursing care standard.</heading>
-  <formerly-cited-as>DC ST 1981 § 3-205.47</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>When a recipient is receiving nursing care in the home of a relative, the Mayor will apply the standard for room, board, and care in an intermediate care facility, based on the kind and extent of care required.</text>
@@ -14,22 +13,18 @@
     <num>(c)</num>
     <text>The rates paid for intermediate care, foster home care, or residential placement shall be paid at 100% of the standard as the rates were not increased in the 1970 budget.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 6, 1982, D.C. Law 4-101, § 547, 29 DCR 1060.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 3-205.47.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-101, see Historical and Statutory Notes following § 4-201.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 3-205.47.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-101</heading>
+      <text>For legislative history of D.C. Law 4-101, see Historical and Statutory Notes following § 4-201.01.</text>
     </level>
   </level>
 </level>

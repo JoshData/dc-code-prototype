@@ -1,38 +1,39 @@
 <level type="section">
   <num>9-203.01</num>
   <heading>Scope of Mayor's authority.</heading>
-  <formerly-cited-as>DC ST 1981 § 7-441</formerly-cited-as>
   <text>The Mayor may open, extend, widen, or straighten:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Any street to conform with the highway plan; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Any minor street or alley, upon the petition of the owners of more than 1/2 of the property fronting on the proposed street or alley, or when the Mayor finds that the public interest would be served best by the action.</text>
-    </level>
+    <num>(1)</num>
+    <text>Any street to conform with the highway plan; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Any minor street or alley, upon the petition of the owners of more than 1/2 of the property fronting on the proposed street or alley, or when the Mayor finds that the public interest would be served best by the action.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 10, 1983, D.C. Law 4-201, § 301, 30 DCR 148.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 7-441.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-201, see Historical and Statutory Notes following § 9-201.01.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of authority under Law 4-201, see Mayor's Order 83-139, May 26, 1983.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Public ways, streets and alleys on recorded plats, see § 1-1314.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 6-403 and § 9-203.02.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 7-441.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-201</heading>
+      <text>For legislative history of D.C. Law 4-201, see Historical and Statutory Notes following § 9-201.01.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of authority under Law 4-201, see Mayor's Order 83-139, May 26, 1983.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>18A</num>
-  <heading>Office of Administrative Hearings.</heading>
+  <heading>Office of Administrative Hearings</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1831.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1831.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1831.03.xml"/>
@@ -20,5 +20,5 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1831.16.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1831.17.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1831.18.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1831.1.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1831.19~P.xml"/>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-1203</num>
   <heading>Assessments.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-2703</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Mayor shall assess annually each insurer and health maintenance organization doing business in the District an amount based on a percentage of its direct gross receipts for the preceding year, provided that each insurer and health maintenance organization shall be subject to a minimum annual assessment of no less than $1000. The Mayor shall establish in each assessable year the assessment rate, not to exceed 3/10 of 1% of the direct gross receipts. In no event shall the amount assessed exceed the amount budgeted by the Council.</text>
@@ -14,23 +13,26 @@
     <num>(c)</num>
     <text>The annual billing cycle for the assessment established by this section shall be the fiscal year of the District of Columbia.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 21, 1993, D.C. Law 10-40, § 4, 40 DCR 6009; Apr. 9, 1997, D.C. Law 11-235, § 24(e), 44 DCR 818.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-2703.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-40, see Historical and Statutory Notes following § 31-1201.</text>
-        <text>For legislative history of D.C. Law 11-235, see Historical and Statutory Notes following § 31-1201.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1202 and § 31-1204.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-2703.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-40</heading>
+      <text>For legislative history of D.C. Law 10-40, see Historical and Statutory Notes following § 31-1201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-235</heading>
+      <text>For legislative history of D.C. Law 11-235, see Historical and Statutory Notes following § 31-1201.</text>
     </level>
   </level>
 </level>

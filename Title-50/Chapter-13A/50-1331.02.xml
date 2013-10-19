@@ -1,6 +1,6 @@
 <level type="section">
   <num>50-1331.02</num>
-  <heading>Duty to Apply for Salvage Vehicle Title, Non-Repairable Vehicle Certificate.</heading>
+  <heading>Duty to apply for Salvage Vehicle Title, Non-repairable Vehicle Certificate.</heading>
   <level>
     <num>(a)</num>
     <text>An owner of a Salvage Vehicle shall apply to the Department for a Salvage Title before the vehicle is repaired and within 30 days of the vehicle being damaged.</text>
@@ -40,18 +40,18 @@
     <num>(f)</num>
     <text>A person acquiring a Salvage or Non-repairable Vehicle for which a Salvage Title or Non-repairable Vehicle Certificate has not been issued shall apply to the Department for the required document prior to any further transfer of the vehicle and within 30 days of acquisition.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2005, D.C. Law 15-307, § 102, 52 DCR 1700.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-307, see notes following § 50-1331.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 50-1331.04.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-307</heading>
+      <text>For Law 15-307, see notes following § 50-1331.01.</text>
     </level>
   </level>
 </level>

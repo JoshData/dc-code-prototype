@@ -3,43 +3,37 @@
   <heading>Notice to clients.</heading>
   <text>Before undertaking any control measures, a wildlife control services provider shall provide to the client, in writing, the following:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>An assessment of the problem, including identification of possible causes of the problem;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The methods and practices that may be used to resolve the problem, clearly specifying possible lethal and nonlethal means;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Agreed-upon disposition of the animal;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>An estimate of the fee to be charged; and</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Where applicable, the methods and practices which the client may employ in the future to limit recurrence of the problem.</text>
-    </level>
+    <num>(1)</num>
+    <text>An assessment of the problem, including identification of possible causes of the problem;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The methods and practices that may be used to resolve the problem, clearly specifying possible lethal and nonlethal means;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Agreed-upon disposition of the animal;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>An estimate of the fee to be charged; and</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Where applicable, the methods and practices which the client may employ in the future to limit recurrence of the problem.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 8, 2011, D.C. Law 18-289, § 4, 57 DCR 11499.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-289, see notes under § 8-2201.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Former § 8-2203 has been recodified as § 8-2033.</text>
-      </level>
+      <heading>Legislative History of Law 18-289</heading>
+      <text>For history of Law 18-289, see notes under § 8-2201.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Former § 8-2203 has been recodified as § 8-2033.</text>
     </level>
   </level>
 </level>

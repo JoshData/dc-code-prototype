@@ -1,7 +1,6 @@
 <level type="section">
   <num>50-403</num>
   <heading>Commercial motor vehicle driver responsibility.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-1803</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any person who operates a commercial motor vehicle and is domiciled in the District shall have a commercial driver's license, and all necessary endorsements thereto required by the Mayor for the particular class of vehicle being operated, issued by the Mayor.</text>
@@ -18,27 +17,30 @@
     <num>(d)</num>
     <text>Any person who operates a commercial motor vehicle and applies for employment as an operator of a commercial motor vehicle with an employer shall notify the employer, at the time of application, of his or her previous employment as an operator of a commercial motor vehicle.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 20, 1990, D.C. Law 8-161, § 4, 37 DCR 4665; Mar. 14, 2007, D.C. Law 16-279, § 102(a), 54 DCR 903.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-1803.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-279, in subsec. (a), inserted ", and all necessary endorsements thereto required by the Mayor for the particular class of vehicle being operated," following "shall have a commercial driver's license".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-161, see Historical and Statutory Notes following § 50-401.</text>
-        <text>For Law 16-279, see notes following § 50-312.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 50-405.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-1803.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-279, in subsec. (a), inserted ", and all necessary endorsements thereto required by the Mayor for the particular class of vehicle being operated," following "shall have a commercial driver's license".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-161</heading>
+      <text>For legislative history of D.C. Law 8-161, see Historical and Statutory Notes following § 50-401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-279</heading>
+      <text>For Law 16-279, see notes following § 50-312.</text>
     </level>
   </level>
 </level>

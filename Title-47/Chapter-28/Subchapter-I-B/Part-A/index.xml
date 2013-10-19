@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>A</num>
-  <heading>Accountants.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 47, Ch. 28, Subch. I-B, Pt. A, Refs &amp; Annos</text>
-  </level>
+  <heading>Accountants</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2853.41.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2853.42.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-2853.43.xml"/>

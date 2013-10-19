@@ -1,11 +1,11 @@
 <level type="toc">
   <prefix>Title</prefix>
   <num>31</num>
-  <heading>Insurance and Securities.</heading>
+  <heading>Insurance and Securities</heading>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>I</num>
-    <heading>Government Agencies.</heading>
+    <heading>Government Agencies</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2A/index.xml"/>
@@ -13,7 +13,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>II</num>
-    <heading>Regulation of Insurance Industry Generally.</heading>
+    <heading>Regulation of Insurance Industry Generally</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-4/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-5/index.xml"/>
@@ -46,7 +46,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>III</num>
-    <heading>Fire, Casualty, Marine, Motor Vehicle and Related Insurance.</heading>
+    <heading>Fire, Casualty, Marine, Motor Vehicle and Related Insurance</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-24/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-25/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-26/index.xml"/>
@@ -55,7 +55,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>IV</num>
-    <heading>Health and Related Insurance.</heading>
+    <heading>Health and Related Insurance</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-28/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-29/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-29A/index.xml"/>
@@ -84,7 +84,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>V</num>
-    <heading>Liability and Related Insurance.</heading>
+    <heading>Liability and Related Insurance</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-39/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-39A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-40/index.xml"/>
@@ -93,35 +93,36 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>VI</num>
-    <heading>Life and Related Insurance.</heading>
+    <heading>Life and Related Insurance</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subdivision-A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subdivision-B/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>VII</num>
-    <heading>Property and Related Insurance.</heading>
+    <heading>Property and Related Insurance</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-50/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-50A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-50B/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-50C/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>VIII</num>
-    <heading>Provisions Applicable to More Than One Kind of Insurance.</heading>
+    <heading>Provisions Applicable to More Than One Kind of Insurance</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-51/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-52/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>VIII-A</num>
-    <heading>Certified Capital Investment by Insurance Companies.</heading>
+    <heading>Certified Capital Investment by Insurance Companies</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-52A/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>IX</num>
-    <heading>Insurance Associations and Societies.</heading>
+    <heading>Insurance Associations and Societies</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-53/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-54/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-55/index.xml"/>
@@ -129,13 +130,13 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>X</num>
-    <heading>Securities.</heading>
+    <heading>Securities</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-56/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>XI</num>
-    <heading>Repealed Provisions.</heading>
+    <heading>Repealed Provisions</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-57/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-58/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-59/index.xml"/>

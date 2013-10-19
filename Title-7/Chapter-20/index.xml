@@ -1,20 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>20</num>
-  <heading>Child Care Services and Facilities.</heading>
-  <level>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Editor's Notes</heading>
-          <text>Because of the enactment of subchapter II of Chapter 36 of Title 6 [subchapter II of Chapter 20 of Title 7, 2001 Ed.] by D.C. Law 12-215, the preexisting text [§§ 7-2001 to 7-2008, 2001 Ed.] has been designated as subchapter I.</text>
-          <text>DC CODE D. I, T. 7, Subt. I, Ch. 20, Refs &amp; Annos</text>
-        </level>
-      </level>
-    </level>
-  </level>
+  <heading>Child Care Services and Facilities</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
 </level>

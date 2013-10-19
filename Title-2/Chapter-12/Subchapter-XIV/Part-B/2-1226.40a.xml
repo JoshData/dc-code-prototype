@@ -3,35 +3,33 @@
   <heading>Power and authority.</heading>
   <text>With respect to projects that are subject to this part and projects completed for off-site mitigation or payment in lieu of mitigation, DDOE shall have the authority to:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Monitor, inspect, review, approve, approve with conditions and covenants, and deny approval;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Require monitoring, sampling, analysis, record-keeping and certification of ongoing compliance;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Establish provisions, requirements, and penalties for off-site mitigation or payment in lieu of mitigation options, and for projects that fail to comply with their off-site mitigation or payment-in-lieu-of-mitigation requirements; and</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Recover costs, fees and expenses.</text>
-    </level>
+    <num>(1)</num>
+    <text>Monitor, inspect, review, approve, approve with conditions and covenants, and deny approval;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Require monitoring, sampling, analysis, record-keeping and certification of ongoing compliance;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Establish provisions, requirements, and penalties for off-site mitigation or payment in lieu of mitigation options, and for projects that fail to comply with their off-site mitigation or payment-in-lieu-of-mitigation requirements; and</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Recover costs, fees and expenses.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 26, 2008, D.C. Law 17-138, § 460a, as added Oct. 23, 2012, D.C. Law 19-192, § 2(h), 59 DCR 10174.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-192, see notes under § 2-1226.04.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2012 amendment by D.C. Law 19-192 added this section.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-192</heading>
+      <text>See note to § 2-1226.04.</text>
     </level>
   </level>
 </level>

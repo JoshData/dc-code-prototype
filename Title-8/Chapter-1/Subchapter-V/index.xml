@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>V</num>
-  <heading>Environmental Impact Statements.</heading>
-  <level>
-    <text>DC CODE D. I, T. 8, Subt. A, Ch. 1, Subch. V, Refs &amp; Annos</text>
-  </level>
+  <heading>Environmental Impact Statements</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-109.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-109.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-109.03.xml"/>

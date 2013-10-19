@@ -1,10 +1,9 @@
 <level type="section">
   <num>23-1327</num>
   <heading>Penalties for failure to appear.</heading>
-  <formerly-cited-as>DC ST 1981 § 23-1327</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text>Whoever, having been released under this title prior to the commencement of his sentence, willfully fails to appear before any court or judicial officer as required, shall, subject to the provisions of the Federal Rules of Criminal Procedure, incur a forfeiture of any security which was given or pledged for his release, and, in addition, shall, (1) if he was released in connection with a charge of felony, or while awaiting sentence or pending appeal or certiorari prior to commencement of his sentence after conviction of any offense, be fined not more than $5,000 and imprisoned not less than one year and not more than five years, (2) if he was released in connection with a charge of misdemeanor, be fined not more than the maximum provided for such misdemeanor and imprisoned for not less than ninety days and not more than 180 days, or (3) if he was released for appearance as a material witness, be fined not more than $1,000 or imprisoned for not more than 180 days, or both.</text>
+    <text>Whoever, having been released under this title prior to the commencement of his sentence, willfully fails to appear before any court or judicial officer as required, shall, subject to the provisions of the Federal Rules of Criminal Procedure, incur a forfeiture of any security which was given or pledged for his release, and, in addition, shall, (1) if he was released in connection with a charge of felony, or while awaiting sentence or pending appeal or certiorari prior to commencement of his sentence after conviction of any offense, be fined not more than the amount set forth in [§ 22-3571.01] and imprisoned not less than one year and not more than five years, (2) if he was released in connection with a charge of misdemeanor, be fined not more than the amount set forth in [§ 22-3571.01] and imprisoned for not less than ninety days and not more than 180 days, or (3) if he was released for appearance as a material witness, be fined not more than the amount set forth in [§ 22-3571.01] or imprisoned for not more than 180 days, or both.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -18,27 +17,39 @@
     <num>(d)</num>
     <text>Any term of imprisonment imposed pursuant to this section shall be consecutive to any other sentence of imprisonment.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 29, 1970, 84 Stat. 648, Pub. L. 91-358, title II, § 210(a); Aug. 20, 1994, D.C. Law 10-151, § 101(b), (c), 41 DCR 2608.)</text>
+      <heading>History</heading>
+      <text>(July 29, 1970, 84 Stat. 648, Pub. L. 91-358, title II, § 210(a); Aug. 20, 1994, D.C. Law 10-151, § 101(b), (c), 41 DCR 2608; June 11, 2013, D.C. Law 19-317, § 283(g), 60 DCR 2064.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 23-1327.</text>
-        <text>1973 Ed., § 23-1327.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary amendment of section, see § 101(b) and (c) of the Omnibus Criminal Justice Reform Emergency Amendment Act of 1994 (D.C. Act 10-255, June 22, 1994, 41 DCR 4286).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-151, see Historical and Statutory Notes following § 23-1321.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-801, § 23-1303, and § 23-1322.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 23-1327.</text>
+      <text>1973 Ed., § 23-1327.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-317, in (a), substituted "not more than the amount set forth in [§ 22-3571.01]" for "not more than $5,000" in clause (1), for "not more than the maximum provided for each misdemeanor" in clause (2), and for "not more than $1,000" in clause (3).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary amendment of section, see § 101(b) and (c) of the Omnibus Criminal Justice Reform Emergency Amendment Act of 1994 (D.C. Act 10-255, June 22, 1994, 41 DCR 4286).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-151</heading>
+      <text>For legislative history of D.C. Law 10-151, see Historical and Statutory Notes following § 23-1321.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-317</heading>
+      <text>Law 19-317, the "Criminal Fine Proportionality Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-214. The Bill was adopted on first and second readings on Oct. 16, 2012, and Nov. 1, 2012, respectively. Signed by the Mayor on Jan. 23, 2013, it was assigned Act No. 19-641 and transmitted to Congress for its review. D.C. Law 19-317 became effective on June 11, 2013.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
     </level>
   </level>
 </level>

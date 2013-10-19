@@ -9,18 +9,18 @@
     <num>(b)</num>
     <text>If requested, the hearing shall be conducted by the Office of Administrative Hearings.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 2009, D.C. Law 17-357, § 18, 56 DCR 1167.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-357, see notes following § 7-2341.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 7-2341.15.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-357</heading>
+      <text>For Law 17-357, see notes following § 7-2341.01.</text>
     </level>
   </level>
 </level>

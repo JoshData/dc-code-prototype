@@ -1,8 +1,8 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>XI</num>
-  <heading>Assistance for Qualified High Technology Companies.</heading>
+  <heading>Assistance for Qualified High Technology Companies</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1221.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1221.02.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1221.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1221.03~P.xml"/>
 </level>

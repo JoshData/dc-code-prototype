@@ -17,22 +17,22 @@
     <num>(d)</num>
     <text>A license issued pursuant to this section shall be issued as a General Business endorsement to a basic business license.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 16, 2008, D.C. Law 17-219, § 2007(b), 55 DCR 7598.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-219, see notes following § 2-218.75.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Short title: Section 2006 of D.C. Law 17-219 provided that subtitle C of title II of the act may be cited as the "Business Licensing Processing Adjustment Act of 2008".</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 47-2851.13.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-219</heading>
+      <text>For Law 17-219, see notes following § 2-218.75.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Short title: Section 2006 of D.C. Law 17-219 provided that subtitle C of title II of the act may be cited as the "Business Licensing Processing Adjustment Act of 2008".</text>
     </level>
   </level>
 </level>

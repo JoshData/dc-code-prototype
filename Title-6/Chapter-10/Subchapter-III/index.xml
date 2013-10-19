@@ -1,9 +1,9 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Comprehensive Housing Strategy Task Force.</heading>
+  <heading>Comprehensive Housing Strategy Task Force</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1051.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-105.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1052.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1053.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1054.xml"/>
 </level>

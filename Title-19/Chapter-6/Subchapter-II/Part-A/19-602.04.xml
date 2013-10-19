@@ -3,54 +3,56 @@
   <heading>Forms.</heading>
   <level>
     <num>(a)</num>
-    <text>A contract of deposit that contains provisions in substantially the following form establishes the type of account provided, and the account is governed by the provisions of this subchapter applicable to an account of that type:</text>
+    <text>A contract of deposit that contains provisions in substantially the following form establishes the type of account provided, and the account is governed by the provisions of this subchapter applicable to an account of that type: </text>
+    <level type="form">
+      <text>
+ "UNIFORM SINGLE-OR MULTIPLE-PARTY ACCOUNT FORM 
+ "PARTIES [Name one or more parties]: ________ ________ ________ ________ 
+ "OWNERSHIP [Select one and initial]: 
+ "________ ________ SINGLE-PARTY ACCOUNT 
+ "________ ________ MULTIPLE-PARTY ACCOUNT 
+ "Parties own account in proportion to net contributions unless there is clear and convincing evidence of a different intent. 
+ "RIGHTS AT DEATH [Select one and initial]: 
+ "________ ________ SINGLE-PARTY ACCOUNT 
+ "At death of party, ownership passes as part of party's estate. 
+ "________ ________ SINGLE-PARTY ACCOUNT WITH POD (PAY ON DEATH) DESIGNATION 
+ "[Name one or more beneficiaries]: 
+ "At death of party, ownership passes to POD beneficiaries and is not part of party's estate. 
+ "________ ________ MULTIPLE-PARTY ACCOUNT WITH RIGHT OF SURVIVORSHIP 
+ "At death of party, ownership passes to surviving parties. 
+ "________ ________ MULTIPLE-PARTY ACCOUNT WITH RIGHT OF SURVIVORSHIP AND POD (PAY ON DEATH) DESIGNATION 
+ "[Name one or more beneficiaries]: ________ ________ ________ ________ 
+ "At death of last surviving party, ownership passes to POD beneficiaries and is not part of last surviving party's estate. 
+ "________ ________ MULTIPLE-PARTY ACCOUNT WITHOUT RIGHT OF SURVIVORSHIP 
+ "At death of party, deceased party's ownership passes as part of deceased party's estate. AGENCY (POWER OF ATTORNEY) DESIGNATION [Optional] 
+ "Agents may make account transactions for parties but have no ownership or rights at death unless named as POD beneficiaries. 
+ "[To add agency designation to account, name one or more agents]: 
+ "________ ________ ________ ________ 
+ "[Select one and initial]: 
+ "________ ________ AGENCY DESIGNATION SURVIVES DISABILITY OR INCAPACITY OF PARTIES 
+ "________ ________ AGENCY DESIGNATION TERMINATES ON DISABILITY OR INCAPACITY OF PARTIES"</text>
+    </level>
   </level>
-  <text>"UNIFORM SINGLE-OR MULTIPLE-PARTY ACCOUNT FORM</text>
-  <text>"PARTIES [Name one or more parties]: _______ _______</text>
-  <text>"OWNERSHIP [Select one and initial]:</text>
-  <text>"_______SINGLE-PARTY ACCOUNT</text>
-  <text>"_______MULTIPLE-PARTY ACCOUNT</text>
-  <text>"Parties own account in proportion to net contributions unless there is clear and convincing evidence of a different intent.</text>
-  <text>"RIGHTS AT DEATH [Select one and initial]:</text>
-  <text>"_______SINGLE-PARTY ACCOUNT</text>
-  <text>"At death of party, ownership passes as part of party's estate.</text>
-  <text>"_______SINGLE-PARTY ACCOUNT WITH POD (PAY ON DEATH) DESIGNATION</text>
-  <text>"[Name one or more beneficiaries]:</text>
-  <text>"At death of party, ownership passes to POD beneficiaries and is not part of party's estate.</text>
-  <text>"_______MULTIPLE-PARTY ACCOUNT WITH RIGHT OF SURVIVORSHIP</text>
-  <text>"At death of party, ownership passes to surviving parties.</text>
-  <text>"_______MULTIPLE-PARTY ACCOUNT WITH RIGHT OF SURVIVORSHIP AND POD (PAY ON DEATH) DESIGNATION</text>
-  <text>"[Name one or more beneficiaries]: _______ _______</text>
-  <text>"At death of last surviving party, ownership passes to POD beneficiaries and is not part of last surviving party's estate.</text>
-  <text>"_______MULTIPLE-PARTY ACCOUNT WITHOUT RIGHT OF SURVIVORSHIP</text>
-  <text>"At death of party, deceased party's ownership passes as part of deceased party's estate.</text>
-  <text>AGENCY (POWER OF ATTORNEY) DESIGNATION [Optional]</text>
-  <text>"Agents may make account transactions for parties but have no ownership or rights at death unless named as POD beneficiaries.</text>
-  <text>"[To add agency designation to account, name one or more agents]:</text>
-  <text>"_______ _______ </text>
-  <text>"[Select one and initial]:</text>
-  <text>"_______ AGENCY DESIGNATION SURVIVES DISABILITY OR INCAPACITY OF PARTIES</text>
-  <text>"_______ AGENCY DESIGNATION TERMINATES ON DISABILITY OR INCAPACITY OF PARTIES"</text>
   <level>
     <num>(b)</num>
     <text>A contract of deposit that does not contain provisions in substantially the form provided in subsection (a) of this section is governed by the provisions of this subchapter applicable to the type of account that most nearly conforms to the depositor's intent.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2001, D.C. Law 13-292, § 302(b), 48 DCR 2087.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-292, see notes following § 19-601.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 204 of the Uniform Nonprobate Transfers on Death Act (1991 Act). See 8B Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 19-602.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-292</heading>
+      <text>For D.C. Law 13-292, see notes following § 19-601.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 204 of the Uniform Nonprobate Transfers on Death Act (1991 Act).</text>
     </level>
   </level>
 </level>

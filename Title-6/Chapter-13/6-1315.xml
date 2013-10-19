@@ -1,14 +1,15 @@
 <level type="section">
   <num>6-1315</num>
   <heading>Application of travel restrictions to personnel of certain countries and organizations.</heading>
-  <formerly-cited-as>DC ST 1981 § 5-1215</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Requirement for restrictions. -- </text>The Secretary shall apply the same generally applicable restrictions to the travel while in the United States of the individuals described in subsection (b) as are applied under this title to the members of the missions of the Soviet Union in the United States.</text>
+    <heading>Requirement for restrictions</heading>
+    <text>The Secretary shall apply the same generally applicable restrictions to the travel while in the United States of the individuals described in subsection (b) as are applied under this title to the members of the missions of the Soviet Union in the United States.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Individuals subject to restrictions. -- </text>The restrictions required by subsection (a) shall be applied with respect to those individuals who (as determined by the Secretary) are:</text>
+    <heading>Individuals subject to restrictions</heading>
+    <text>The restrictions required by subsection (a) shall be applied with respect to those individuals who (as determined by the Secretary) are:</text>
     <level>
       <num>(1)</num>
       <text>The personnel of an international organization, if the individual is a national of any foreign country whose government engages in intelligence activities in the United States that are harmful to the national security of the United States;</text>
@@ -25,15 +26,18 @@
   <text>and who are not nationals or permanent resident aliens of the United States.</text>
   <level>
     <num>(c)</num>
-    <text><text i="True">Waivers. -- </text>The Secretary, after consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) if the Secretary determines that the national security and foreign policy interests of the United States so require.</text>
+    <heading>Waivers</heading>
+    <text>The Secretary, after consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) if the Secretary determines that the national security and foreign policy interests of the United States so require.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text><text i="True">Reports. -- </text>The Secretary shall transmit to the Select Committee on Intelligence and the Committee on Foreign Relations of the Senate, and to the Permanent Select Committee on Intelligence and the Committee on Foreign Affairs of the House of Representatives, not later than six months after December 23, 1987, and not later than every six months thereafter, a report on the actions taken by the Secretary in carrying out this section during the previous six months.</text>
+    <heading>Reports</heading>
+    <text>The Secretary shall transmit to the Select Committee on Intelligence and the Committee on Foreign Relations of the Senate, and to the Permanent Select Committee on Intelligence and the Committee on Foreign Affairs of the House of Representatives, not later than six months after December 23, 1987, and not later than every six months thereafter, a report on the actions taken by the Secretary in carrying out this section during the previous six months.</text>
   </level>
   <level>
     <num>(e)</num>
-    <text><text i="True">Definitions. -- </text>For purposes of this section:</text>
+    <heading>Definitions</heading>
+    <text>For purposes of this section:</text>
     <level>
       <num>(1)</num>
       <text>The term "generally applicable restrictions" means any limitations on the radius within which unrestricted travel is permitted and obtaining travel services through the auspices of the Office of Foreign Missions for travel elsewhere, and does not include any restrictions which unconditionally prohibit the members of missions of the Soviet Union in the United States from traveling to designated areas of the United States and which are applied as a result of particular factors in relations between the United States and the Soviet Union.</text>
@@ -55,26 +59,22 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 24, 1982, Pub. L. 97-241, § 216, as added Dec. 23, 1987, 101 Stat. 1357, Pub. L. 100-204, title I, § 162(a).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 5-1215.</text>
-      </level>
-      <level>
-        <heading>Effective Dates</heading>
-        <text>Section 162(b) of Pub. L. 100-204 provided that subsection (a) shall take effect 90 days after the Dates of enactment of this Act.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>"This title", referred to in subsection (a), is title II of the State Department Basic Authorities Act of 1956 (22 U.S.C. § 4301 et seq.).</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 5-1215.</text>
+    </level>
+    <level>
+      <heading>Effective Dates</heading>
+      <text>Section 162(b) of Pub. L. 100-204 provided that subsection (a) shall take effect 90 days after the Dates of enactment of this Act.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>"This title", referred to in subsection (a), is title II of the State Department Basic Authorities Act of 1956 (22 U.S.C. § 4301 et seq.).</text>
     </level>
   </level>
 </level>

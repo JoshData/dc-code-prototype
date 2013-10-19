@@ -2,27 +2,26 @@
   <num>32-1604</num>
   <heading>Unified workforce plan.</heading>
   <text>The Council shall develop and submit to the Mayor a single unified workplace plan that outlines a 5-year strategy, with quantitative goals, for the statewide workforce investment system for the District of Columbia in accordance with section 112 of the Federal Act. Upon the Mayor's approval of the state plan, the Mayor shall transmit the State Unified Workforce Plan to the Council of the District of Columbia for a 10-day period of review, excluding days of Council of the District of Columbia recess. If the Council of the District of Columbia does not approve or disapprove the State Unified Workforce Plan by resolution within the 10-day review period, the State Unified Workforce Plan shall be deemed approved. Within 2 years of July 18, 2000, the Unified Workforce Plan shall be amended to also encompass services provided to the Welfare to Work and TANF implementing laws.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 18, 2000, D.C. Law 13-150, § 5, 47 DCR 4644; Mar. 25, 2009, D.C. Law 17-353, § 129(b), 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-353 substituted "Council of the District of Columbia" for "Council"; and validated a previously made technical correction by substituting "Council" for "Board".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-150, see notes following § 32-1601.</text>
-        <text>For Law 17-353, see notes following § 32-101.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Establishment and Appointments--D.C. State Rehabilitation Council, see Mayor's Order 2001-173, November 30, 2001 (48 DCR 11586).</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-353 substituted "Council of the District of Columbia" for "Council"; and validated a previously made technical correction by substituting "Council" for "Board".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-150</heading>
+      <text>For Law 13-150, see notes following § 32-1601.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 32-101.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Establishment and Appointments - D.C. State Rehabilitation Council, see Mayor's Order 2001-173, November 30, 2001 (48 DCR 11586).</text>
     </level>
   </level>
 </level>

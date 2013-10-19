@@ -1,7 +1,6 @@
 <level type="section">
   <num>24-231.10</num>
   <heading>Wages of employed prisoners; unemployment compensation.</heading>
-  <formerly-cited-as>DC ST 1981 § 24-458.10</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>All prisoners employed by a prison industry shall be paid wages which shall be established by the Director and approved by the Mayor. All prisoners employed by a prison industry that is approved under the PIE Program shall be paid no less than the prevailing wage for work of a similar nature in the Washington, D.C., region as determined by the District of Columbia Department of Employment Services.</text>
@@ -14,22 +13,22 @@
     <num>(c)</num>
     <text>Employment by a prison industry shall not entitle any prisoner to the benefits authorized by Chapter 1 of Title 51, unless the prisoner is employed in a prison industry approved under the PIE Program. In the latter case, the prisoner shall not be qualified to receive any payments for unemployment compensation while incarcerated.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 8, 1996, D.C. Law 11-117, § 11, 43 DCR 1179.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 24-458.10.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 11-117, see Historical and Statutory Notes following § 24-231.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 24-231.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 24-458.10.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-117</heading>
+      <text>For legislative history of D.C. Law 11-117, see Historical and Statutory Notes following § 24-231.01.</text>
     </level>
   </level>
 </level>

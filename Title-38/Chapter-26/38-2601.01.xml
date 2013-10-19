@@ -2,22 +2,18 @@
   <num>38-2601.01</num>
   <heading>Duties.</heading>
   <text>The Office of the State Superintendent of Education shall serve as the state education agency and perform the functions of a state education agency for the District of Columbia under applicable federal law, including grant-making, oversight, and state educational agency functions for standards, assessments, and federal accountability requirements for elementary and secondary education.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 21, 2000, D.C. Law 13-176, § 2a, as added June 12, 2007, D.C. Law 17-9, § 302(b), 54 DCR 4102.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-9, see notes following § 38-131.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Applicability: Section 305 of Law 17-9 provides that this title shall apply upon Congressional enactment of Title IX and inclusion of its effect in an approved budget and financial plan. Congress enacted the provisions of Title IX in Pub. L. 110-33, approved June 1, 2007.</text>
-      </level>
+      <heading>Legislative History of Law 17-9</heading>
+      <text>For Law 17-9, see notes following § 38-131.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability: Section 305 of Law 17-9 provided that this title shall apply upon Congressional enactment of Title IX and inclusion of its effect in an approved budget and financial plan. Congress enacted the provisions of Title IX in Pub. L. 110-33, approved June 1, 2007.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>50-316</num>
   <heading>Reporting by Commissioner.</heading>
-  <formerly-cited-as>DC ST 1981 § 40-1716</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Within 12 months of March 25, 1986, the Commissioner shall make a report to the Mayor and the Council and shall recommend changes in the areas of taxicab insurance the Commissioner considers necessary for the protection of the public and the public interest in taxi transportation.</text>
@@ -26,23 +25,22 @@
       <text>The current practices of the taxi industry in the area of insurance.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1986, D.C. Law 6-97, § 17, 33 DCR 703; May 21, 1997, D.C. Law 11-268, § 10(ii)(2), 44 DCR 1730.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 40-1716.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 6-97, see Historical and Statutory Notes following § 50-301.</text>
-        <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 50-303.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 40-1716.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-97</heading>
+      <text>For legislative history of D.C. Law 6-97, see Historical and Statutory Notes following § 50-301.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-268</heading>
+      <text>For legislative history of D.C. Law 11-268, see Historical and Statutory Notes following § 50-303.</text>
     </level>
   </level>
 </level>

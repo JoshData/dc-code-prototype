@@ -21,18 +21,14 @@
     <num>(b)</num>
     <text>The MPD shall provide a copy of each accident report to the District Department of Transportation.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 30, 2004, D.C. Law 15-124, § 7, 51 DCR 1541.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-124, see notes following § 50-1731.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-124</heading>
+      <text>For Law 15-124, see notes following § 50-1731.01.</text>
     </level>
   </level>
 </level>

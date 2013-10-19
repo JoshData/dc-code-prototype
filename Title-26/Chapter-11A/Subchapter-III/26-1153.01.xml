@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>Notwithstanding subsection (a) of this section, if the violation of § 26-1151.02 or subchapter II of this chapter was caused by the borrower, his or her employer, or a creditor providing materially incorrect information to the lender, which inaccuracy the lender did not discover prior to the covered loan funding, and if the lender reasonably attempted to verify the current and expected income and current debts of the borrowers in accordance with § 26- 1152.02(c), the lender shall not be liable.</text>
+    <text>Notwithstanding subsection (a) of this section, if the violation of § 26-1151.02 or subchapter II of this chapter was caused by the borrower, his or her employer, or a creditor providing materially incorrect information to the lender, which inaccuracy the lender did not discover prior to the covered loan funding, and if the lender reasonably attempted to verify the current and expected income and current debts of the borrowers in accordance with § 26-1152.02(c), the lender shall not be liable.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -80,7 +80,7 @@
       <text>If the lender fails to comply with § 26-1152.11 or section 129(a) and (b) of the Truth in Lending Act in the case of a lender covered by § 26-1151.02, the lender shall not be deemed to have violated § 26-1151.02 or subchapter II of this chapter, only if:</text>
       <level>
         <num>(A)</num>
-        <text>The lender satisfies paragraph (1)(A)(i) or (B)(ii) of this subsection;</text>
+        <text>The lender satisfies paragraph (1) (A) (i) or (B) (ii) of this subsection;</text>
       </level>
       <level>
         <num>(B)</num>
@@ -104,26 +104,22 @@
     <num>(g)</num>
     <text>The remedies provided in this chapter shall be the sole and exclusive remedies for the violation of any provision of this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 7, 2002, D.C. Law 14-132, § 301, 49 DCR 2551.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 301 of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002, 49 DCR 2534).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-132, see notes following § 26-1151.01.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>Sections 129(a) and (b) of the Truth in Lending Act, referred to in subsecs. (e)(2) and (e)(2)(C), is classified to 15 U.S.C.A. § 1639(a) and (b).</text>
-      </level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 301 of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002, 49 DCR 2534).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-132</heading>
+      <text>For Law 14-132, see notes following § 26-1151.01.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>Sections 129(a) and (b) of the Truth in Lending Act, referred to in subsecs. (e)(2) and (e)(2)(C), is classified to 15 U.S.C. § 1639(a) and (b).</text>
     </level>
   </level>
 </level>

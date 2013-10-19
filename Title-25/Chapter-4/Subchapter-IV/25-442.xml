@@ -1,6 +1,6 @@
 <level type="section">
   <num>25-442</num>
-  <heading>Hearings--witnesses.</heading>
+  <heading>Hearings - Witnesses.</heading>
   <level>
     <num>(a)</num>
     <text>A party shall have the right to call and examine witnesses.</text>
@@ -17,19 +17,18 @@
     <num>(d)</num>
     <text>A witness who shall willfully give false testimony in a proceeding or hearing before the Board shall be guilty of perjury.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <text>D.C. Law 13-298 amended and enacted into law Title 25 of the District of Columbia Official Code.</text>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-298, see notes following § 25-101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 25-432.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-298</heading>
+      <text>For D.C. Law 13-298, see notes following § 25-101.</text>
     </level>
   </level>
 </level>

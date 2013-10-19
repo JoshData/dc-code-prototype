@@ -1,20 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>7</num>
-  <heading>Interstate Banking and Branching.</heading>
-  <level>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Editor's Notes</heading>
-          <text>Because of the enactment by D.C. Law 11-142 of subchapter II of Chapter 8 of Title 26 [subchapter II of Chapter 7 of Title 26, 2001 Ed.], the preexisting text was designated as subchapter I.</text>
-          <text>DC CODE D. V, T. 26, Ch. 7, Refs &amp; Annos</text>
-        </level>
-      </level>
-    </level>
-  </level>
+  <heading>Interstate Banking and Branching</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
 </level>

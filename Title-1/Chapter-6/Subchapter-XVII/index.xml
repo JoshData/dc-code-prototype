@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>XVII</num>
-  <heading>Labor-Management Relations.</heading>
-  <level>
-    <text>DC CODE D. I, T. 1, Ch. 6, Subch. XVII, Refs &amp; Annos</text>
-  </level>
+  <heading>Labor-Management Relations</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-617.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-617.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-617.03.xml"/>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>2-1402.24</num>
   <heading>Exceptions.</heading>
-  <formerly-cited-as>DC ST 1981 § 1-2518</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Nothing in this chapter is to be construed to apply to the rental or leasing of housing accommodations in a building in which the owner, or members of his family occupy one of the living units and in which there are, or the owner intends that there be, accommodations for not more than:</text>
@@ -38,24 +37,23 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 13, 1977, D.C. Law 2-38, title II, § 224, 24 DCR 6038; Apr. 20, 1999, D.C. Law 12-242, § 2(e), 46 DCR 952.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 1-2518.</text>
-        <text>1973 Ed., § 6-2234.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-38, see Historical and Statutory Notes following § 2-1401.01.</text>
-        <text>For legislative history of D.C. Law 12-242, see Historical and Statutory Notes following § 2-1401.01.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 1-2518.</text>
+      <text>1973 Ed., § 6-2234.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-38</heading>
+      <text>For legislative history of D.C. Law 2-38, see Historical and Statutory Notes following § 2-1401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 12-242</heading>
+      <text>For legislative history of D.C. Law 12-242, see Historical and Statutory Notes following § 2-1401.01.</text>
     </level>
   </level>
 </level>

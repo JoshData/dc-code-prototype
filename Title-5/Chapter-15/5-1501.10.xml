@@ -44,18 +44,18 @@
     <num>(d)</num>
     <text>All investigative reports prepared in accordance with this section shall be submitted promptly to the Board.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 17, 2011, D.C. Law 19-18, § 11, 58 DCR 5403.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-18, see notes under § 5-1501.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 5-1501.06.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-18</heading>
+      <text>For history of Law 19-18, see notes under § 5-1501.01.</text>
     </level>
   </level>
 </level>

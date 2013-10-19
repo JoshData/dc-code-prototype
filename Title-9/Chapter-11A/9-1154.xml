@@ -29,10 +29,9 @@
     <num>(g)</num>
     <text>No bus shelters with advertisements shall be permitted in public spaces which are immediately adjacent to residential districts of the City zoned R-1, R-2, R-3, or R-4 by the Zoning Commission.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 10, 1980, D.C. Law 3-67, § 5, 27 DCR 1266.)</text>
     </level>
   </level>

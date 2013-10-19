@@ -1,20 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>2</num>
-  <heading>Vital Records.</heading>
-  <level>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Miscellaneous Notes</heading>
-          <text>Revision of chapter: D.C. Law 4-34 repealed former Chapter 2, containing §§ 6- 201 to 6-204 [1981 Ed.], and enacted present Chapter 2 of former Title 6, containing §§ 7-201 to 7-228 [2001 Edition], in lieu thereof.</text>
-          <text>DC CODE D. I, T. 7, Subt. A, Ch. 2, Refs &amp; Annos</text>
-        </level>
-      </level>
-    </level>
-  </level>
+  <heading>Vital Records</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-201.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-202.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-203.xml"/>

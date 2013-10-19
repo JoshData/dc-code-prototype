@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-2007</num>
   <heading>Weather conditions.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-1037</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>An owner, operator, or custodian of a horse engaged in the horse-drawn carriage trade shall not drive, use, or work a horse on a public street or byway in the District:</text>
@@ -24,24 +23,20 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>A horse in use at the time described in subsection (a) (1), (2), or (3) of this section, shall be immediately returned by its owner, operator, or custodian by the most direct route to a stable.</text>
+    <text>A horse in use at the time described in subsection (a)(1), (2), or (3) of this section, shall be immediately returned by its owner, operator, or custodian by the most direct route to a stable.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 7, 1991, D.C. Law 8-224, § 8, 38 DCR 207.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-1037.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-224, see Historical and Statutory Notes following § 8-2001.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-1037.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-224</heading>
+      <text>For legislative history of D.C. Law 8-224, see Historical and Statutory Notes following § 8-2001.</text>
     </level>
   </level>
 </level>

@@ -3,31 +3,25 @@
   <heading>Administration of medication.</heading>
   <text>An employee or agent trained and certified pursuant to § 38-651.04 may administer medication to a student with a valid medication action plan; provided, that:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The responsible person has delivered the medication to be administered to the school;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The employee or agent is under the general supervision of licensed health practitioner; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Except in emergency circumstances, the responsible person has administered the initial dose of a new medication.</text>
-    </level>
+    <num>(1)</num>
+    <text>The responsible person has delivered the medication to be administered to the school;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The employee or agent is under the general supervision of licensed health practitioner; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Except in emergency circumstances, the responsible person has administered the initial dose of a new medication.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 2, 2008, D.C. Law 17-107, § 6, 54 DCR 12230.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-107, see notes following § 38-651.01.</text>
-      </level>
+      <heading>Legislative History of Law 17-107</heading>
+      <text>For Law 17-107, see notes following § 38-651.01.</text>
     </level>
   </level>
 </level>

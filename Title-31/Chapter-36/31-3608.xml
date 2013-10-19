@@ -3,31 +3,25 @@
   <heading>Monthly reports.</heading>
   <text>Any time a long-term care benefit which is funded through a life insurance vehicle by the acceleration of the death benefit is in benefit payment status, a monthly report shall be provided to the policyholder. The monthly report shall include the following:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Any long-term care benefits paid out during the month;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>An explanation of any changes in the policy (e.g., death benefits or cash values due to long-term care benefits being paid out); and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>The amount of long-term care benefits existing or remaining.</text>
-    </level>
+    <num>(1)</num>
+    <text>Any long-term care benefits paid out during the month;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>An explanation of any changes in the policy (e.g., death benefits or cash values due to long-term care benefits being paid out); and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The amount of long-term care benefits existing or remaining.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 23, 2000, D.C. Law 13-121, § 9, 47 DCR 2038.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-121, see notes following § 31-3601.</text>
-      </level>
+      <heading>Legislative History of Law 13-121</heading>
+      <text>For Law 13-121, see notes following § 31-3601.</text>
     </level>
   </level>
 </level>

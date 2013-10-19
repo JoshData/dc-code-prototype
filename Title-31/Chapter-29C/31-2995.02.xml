@@ -9,18 +9,14 @@
     <num>(b)</num>
     <text>The health insurance coverage provided under this section shall be on a basis no less favorable than coverage provided for intravenously administered or injected cancer medications, for purposes of determining deductibles, benefit year or lifetime durational limits, benefit year or lifetime dollar limits, lifetime episodes or treatment limits, copayment and coinsurance factors, and benefit year maximum for deductibles and copayments and coinsurance factors.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 17, 2009, D.C. Law 18-98, § 3, 56 DCR 8530.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-98, see notes following § 31-2995.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-98</heading>
+      <text>For Law 18-98, see notes following § 31-2995.01.</text>
     </level>
   </level>
 </level>

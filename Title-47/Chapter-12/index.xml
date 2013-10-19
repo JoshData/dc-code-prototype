@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>12</num>
-  <heading>Special Assessments.</heading>
-  <level>
-    <text>DC CODE D. VIII, T. 47, Ch. 12, Refs &amp; Annos</text>
-  </level>
+  <heading>Special Assessments</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1201.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1202.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1202.01.xml"/>

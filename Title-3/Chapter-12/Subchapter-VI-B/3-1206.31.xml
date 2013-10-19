@@ -132,26 +132,28 @@
       <text>"Supervision" means directing and accepting responsibility for the anesthesia services rendered by an anesthesiologist assistant in a manner approved by the Board of Medicine.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1986, D.C. Law 6-99, § 631, as added Mar. 16, 2005, D.C. Law 15-237, § 2(h), 51 DCR 10593; Mar. 6, 2007, D.C. Law 16-228, § 2(h), 53 DCR 10244; Mar. 25, 2009, D.C. Law 17-353, § 192, 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-228 rewrote subsec. (d)(3), which formerly read:</text>
-        <text>"(d)(3) A supervising anesthesiologist may supervise up to 3 anesthesiologist assistants at any one time during normal circumstances, and up to 4 anesthesiologist assistants at any one time during emergency circumstances, consistent with federal rules for reimbursement for anesthesia services."</text>
-        <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (c)(4).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>Law 15-237, the "Anesthesiologist Assistant Licensure Amendment Act of 2004", was introduced in Council and assigned Bill No. 15-634, which was referred to the Committee Human Services. The Bill was adopted on first and second readings on September 21, 2004, and October 5, 2004, respectively. Signed by the Mayor on November 1, 2004, it was assigned Act No. 15-577 and transmitted to both Houses of Congress for its review. D.C. Law 15-237 became effective on March 16, 2005.</text>
-        <text>For Law 16-228, see notes following § 3-1201.02.</text>
-        <text>For Law 17-353, see notes following § 3-308.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-228 rewrote subsec. (d)(3), which formerly read:</text>
+      <text>"(d)(3) A supervising anesthesiologist may supervise up to 3 anesthesiologist assistants at any one time during normal circumstances, and up to 4 anesthesiologist assistants at any one time during emergency circumstances, consistent with federal rules for reimbursement for anesthesia services."</text>
+      <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (c)(4).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-237</heading>
+      <text>Law 15-237, the "Anesthesiologist Assistant Licensure Amendment Act of 2004", was introduced in Council and assigned Bill No. 15-634, which was referred to the Committee Human Services. The Bill was adopted on first and second readings on September 21, 2004, and October 5, 2004, respectively. Signed by the Mayor on November 1, 2004, it was assigned Act No. 15-577 and transmitted to both Houses of Congress for its review. D.C. Law 15-237 became effective on March 16, 2005.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-228</heading>
+      <text>For Law 16-228, see notes following § 3-1201.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 3-308.</text>
     </level>
   </level>
 </level>

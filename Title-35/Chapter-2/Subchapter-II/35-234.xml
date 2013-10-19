@@ -1,7 +1,6 @@
 <level type="section">
   <num>35-234</num>
   <heading>Tokens and tickets; certification of eligibility required.</heading>
-  <formerly-cited-as>DC ST 1981 § 44-218</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Student fare tokens and tickets shall be issued by the Mayor of the District of Columbia only to students who present a certification of eligibility to use the Metrobus Transit System issued by an authorized school official.</text>
@@ -10,23 +9,19 @@
     <num>(b)</num>
     <text>Certifications of eligibility shall be issued only to those students who meet the eligibility requirements imposed by subsection (c) of § 35-233 and shall contain such additional information as the Mayor may require. The Mayor is authorized to verify information contained in certifications of eligibility.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 6, 1979, D.C. Law 2-152, § 2, 25 DCR 2534; Sept. 26, 1981, D.C. Law 4-33, § 2(c), 28 DCR 3187.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 44-218.</text>
-        <text>1973 Ed., § 44-214.3.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-152, see Historical and Statutory Notes following § 35-232.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 44-218.</text>
+      <text>1973 Ed., § 44-214.3.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-152</heading>
+      <text>For legislative history of D.C. Law 2-152, see Historical and Statutory Notes following § 35-232.</text>
     </level>
   </level>
 </level>

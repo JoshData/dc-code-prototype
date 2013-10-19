@@ -1,11 +1,12 @@
 <level type="section">
   <num>38-2401.03</num>
   <heading>Board of Trustees.</heading>
-  <formerly-cited-as>DC ST 1981 § 31-1841.3</formerly-cited-as>
   <level>
     <num>(a)</num>
-    <text><text i="True">Composition of the Board.</text> -- (1) Gallaudet University shall be under the direction and control of a Board of Trustees, composed of 21 members who shall include:</text>
+    <heading>Composition of the Board</heading>
     <level>
+      <num>(1)</num>
+      <text>Gallaudet University shall be under the direction and control of a Board of Trustees, composed of 21 members who shall include:</text>
       <level>
         <num>(A)</num>
         <text>Three public members of whom (i) one shall be a United States Senator appointed by the President of the Senate, and (ii) two shall be Representatives appointed by the Speaker of the House of Representatives; and</text>
@@ -26,7 +27,8 @@
   </level>
   <level>
     <num>(b)</num>
-    <text><text i="True">Powers of the Board.</text> -- The Board of Trustees is authorized to:</text>
+    <heading>Powers of the Board</heading>
+    <text>The Board of Trustees is authorized to:</text>
     <level>
       <num>(1)</num>
       <text>Make such rules, policies, regulations, and bylaws, not inconsistent with the Constitution and laws of the United States, as may be necessary for the good government of Gallaudet University, for the management of the property and funds of such corporation (including the construction of buildings and other facilities), and for the admission, instruction, care, and discharge of students;</text>
@@ -64,18 +66,14 @@
       <text>Control the expenditure and investment of any moneys or funds or property which Gallaudet University may have or may receive from sources other than appropriations by Congress.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 103; Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, §§ 101(c), 111; Aug. 11, 1993, 107 Stat. 733, Pub. L. 103-73, § 203(c).)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 31-1841.3.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 31-1841.3.</text>
     </level>
   </level>
 </level>

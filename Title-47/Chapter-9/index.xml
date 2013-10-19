@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>9</num>
-  <heading>Transfer Tax on Real Property.</heading>
+  <heading>Transfer Tax on Real Property</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-901.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-902.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-903.xml"/>
@@ -11,7 +11,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-907.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-908~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-909~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-910~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-910.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-911~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-912~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-913~P.xml"/>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>32-1012</num>
   <heading>Civil liability.</heading>
-  <formerly-cited-as>DC ST 1981 § 36-220.11</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Any employer who pays any employee less than the wage to which that employee is entitled under this subchapter shall be liable to that employee in the amount of the unpaid wages, and an additional amount as liquidated damages, except that if, in any action commenced to recover unpaid wages or liquidated damages, the employer shows to the satisfaction of the court that the act or omission that gave rise to the action was in good faith and that the employer had reasonable grounds for the belief that the act or omission was not a violation of this subchapter, the court may award no liquidated damages, or award any amount not to exceed the amount specified in this section.</text>
@@ -26,22 +25,22 @@
     <num>(f)</num>
     <text>The Mayor is authorized to supervise the payment of unpaid wages owed to any employee under this subchapter or any regulation issued under this subchapter, and the agreement of any employee to accept this payment, shall upon full payment, constitute a waiver by the employee of any right the employee may have under subsection (a) of this section to any unpaid wages, and an additional equal amount as liquidated damages.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 25, 1993, D.C. Law 9-248, § 13, 40 DCR 761.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 36-220.11.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 9-248, see Historical and Statutory Notes following § 32-1001.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-1011.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 36-220.11.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-248</heading>
+      <text>For legislative history of D.C. Law 9-248, see Historical and Statutory Notes following § 32-1001.</text>
     </level>
   </level>
 </level>

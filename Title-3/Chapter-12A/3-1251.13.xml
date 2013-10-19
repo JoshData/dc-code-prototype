@@ -2,18 +2,14 @@
   <num>3-1251.13</num>
   <heading>Information booklet.</heading>
   <text>The Committee shall publish an informational booklet describing the Program for the public. The booklet shall be updated as may be necessary.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 1, 2001, D.C. Law 13-297, § 14, 48 DCR 2036.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-297, see notes following § 3-1251.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-297</heading>
+      <text>For D.C. Law 13-297, see notes following § 3-1251.01.</text>
     </level>
   </level>
 </level>

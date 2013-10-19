@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The Commission shall be composed of 5 members, as follows:.</text>
+    <text>The Commission shall be composed of 5 members, as follows:</text>
     <level>
       <num>(1)</num>
       <text>One Chairperson, appointed by the Mayor;</text>
@@ -31,24 +31,24 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>Each member of the Commission shall serve without compensation; provided, that each member may be reimbursed for actual expenses pursuant to § 1- 611.08.</text>
+    <text>Each member of the Commission shall serve without compensation; provided, that each member may be reimbursed for actual expenses pursuant to § 1-611.08.</text>
   </level>
   <level>
     <num>(f)</num>
     <text>A majority of the members of the Commission shall constitute a quorum to conduct business.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 20, 2012, D.C. Law 19-168, § 1083, 59 DCR 8025.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 19-168, see notes under § 1-137.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-137.01 and § 1-137.07.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-168</heading>
+      <text>See note to § 1-137.01.</text>
     </level>
   </level>
 </level>

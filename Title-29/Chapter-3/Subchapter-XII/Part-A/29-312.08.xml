@@ -1,9 +1,9 @@
 <level type="section">
   <num>29-312.08</num>
-  <heading>Judicial proceedings.</heading>
+  <heading>Court proceedings.</heading>
   <level>
     <num>(a)</num>
-    <text>A dissolved corporation that has published a notice under § 29-312.07 may file an application with the Superior Court for a determination of the amount and form of security to be provided for payment of claims that are contingent or have not been made known to the dissolved corporation or that are based on an event occurring after the effective date of dissolution but that, based on the facts known to the dissolved corporation, are reasonably estimated to arise after the effective date of dissolution. Provision need not be made for any claim that is or is reasonably anticipated to be barred under § 29- 312.07(c).</text>
+    <text>A dissolved corporation that has published a notice under § 29-312.07 may file an application with the Superior Court for a determination of the amount and form of security to be provided for payment of claims that are contingent or have not been made known to the dissolved corporation or that are based on an event occurring after the effective date of dissolution but that, based on the facts known to the dissolved corporation, are reasonably estimated to arise after the effective date of dissolution. Provision need not be made for any claim that is or is reasonably anticipated to be barred under § 29-312.07(c).</text>
   </level>
   <level>
     <num>(b)</num>
@@ -17,18 +17,30 @@
     <num>(d)</num>
     <text>Provision by the dissolved corporation for security in the amount and the form ordered by the Superior Court under § 29-312.08(a) satisfies the dissolved corporation's obligations with respect to claims that are contingent, have not been made known to the dissolved corporation, or are based on an event occurring after the effective date of dissolution. Such claims shall not be enforced against a shareholder that received assets in liquidation.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(c)(30), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-312.07 and § 29-312.09.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "Court" for "Judicial" in the section heading.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-301.03.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

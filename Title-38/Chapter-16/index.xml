@@ -1,7 +1,10 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>16</num>
-  <heading>Law School Clinical Programs Funding. [Repealed]</heading>
+  <heading>Law School Clinical Programs Funding</heading>
+  <level type="annotations">
+    <text>Repealed.</text>
+  </level>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1601~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1602~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1603~P.xml"/>

@@ -1,15 +1,13 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>E</num>
-  <heading>Miscellaneous.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1203.01~10-1203.04~P.xml"/>
+  <heading>Miscellaneous</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1203.01~10-1203.04~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1203.05.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1203.06.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1203.07.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1211.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1212.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1211~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1212~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1213~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1214~10-1220~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1214~10-1220~P.xml"/>
 </level>

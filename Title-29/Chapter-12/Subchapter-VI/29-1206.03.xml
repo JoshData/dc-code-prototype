@@ -3,11 +3,11 @@
   <heading>Contribution by beneficial owner.</heading>
   <level>
     <num>(a)</num>
-    <text>A contribution of a beneficial owner to a statutory trust may be in cash, property, or services rendered or a promissory note or other obligation to contribute cash or property or to perform services. A person may become a beneficial owner of a statutory trust and may receive a beneficial interest in a statutory trust without making a contribution or being obligated to make a contribution to the trust.</text>
+    <text>A contribution of a beneficial owner to a statutory trust may consist of property transferred, services performed, or another benefit provided to the statutory trust, or an agreement to transfer property, perform services, or provide another benefit. A person may become a beneficial owner of a statutory trust and may receive a beneficial interest in a statutory trust without making a contribution or being obligated to make a contribution to the trust.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>A beneficial owner shall be liable to the statutory trust for failure to perform an obligation to contribute cash or property or to perform services, even if the beneficial owner is unable to perform because of death, disability, or any other reason. If a beneficial owner does not make the required contribution of cash, property, or services, the beneficial owner shall be obligated, at the option of the trust, to contribute cash equal to that part of the value of the contribution that has not been made. This obligation shall be in addition to any other right, including the right to specific performance, that the trust has against the beneficial owner under the governing instrument or applicable law.</text>
+    <text>A person's obligation to contribute money or other property or other benefit to, or to perform services for, a statutory trust is not excused by the person's death, disability, or other inability to perform the person's obligations personally. If a person does not fulfill an obligation to make a contribution, other than a monetary contribution, the person is obligated at the option of the trustee to contribute money equal to the value of the part of the contribution which has not been made.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -37,22 +37,31 @@
       <text>Specific performance of an obligation under the governing instrument.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <heading>History</heading>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(l)(7)(C), 59 DCR 13171.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 603 of the Uniform Statutory Trust Entity Act . See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-1201.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-210 substituted "consist of property transferred, services performed, or another benefit provided to the statutory trust, or an agreement to transfer property, perform services, or provide another benefit" for "be in cash, property, or services rendered or a promissory note or other obligation to contribute cash or property or to perform services" in the first sentence of (a); and rewrote (b).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-210</heading>
+      <text>See note to § 29-1201.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 603 of the Uniform Statutory Trust Entity Act.</text>
+      <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
     </level>
   </level>
 </level>

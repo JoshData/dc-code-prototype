@@ -1,32 +1,29 @@
 <level type="section">
   <num>16-508</num>
   <heading>Attachment of real property.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-508</formerly-cited-as>
   <text>An attachment is sufficiently levied on the lands and tenements of the defendant by:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>mentioning and describing the property in an indorsement on the attachment, made by the officer to whom it is delivered for service, to the following effect:</text>
-    </level>
-    <text>"Levied on the following estate of the defendant, A B, to wit: (Here describe) this ___ day of ___. C D, Marshal."; and</text>
-    <level>
-      <num>(2)</num>
-      <text>serving a copy of the attachment, with the indorsement, and the notice required by section 16-502, on the person, if any, in possession of the property.</text>
+    <num>(1)</num>
+    <text>mentioning and describing the property in an indorsement on the attachment, made by the officer to whom it is delivered for service, to the following effect:</text>
+    <level type="form">
+      <text>
+ 
+ "Levied on the following estate of the defendant, A B, to wit: (Here describe) this ____ day of ________. C D, Marshal."; and</text>
     </level>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>serving a copy of the attachment, with the indorsement, and the notice required by section 16-502, on the person, if any, in possession of the property.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Dec. 23, 1963, 77 Stat. 546, Pub. L. 88-241, § 1.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-508.</text>
-        <text>1973 Ed., § 16-508.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-508.</text>
+      <text>1973 Ed., § 16-508.</text>
     </level>
   </level>
 </level>

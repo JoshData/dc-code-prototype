@@ -61,18 +61,18 @@
     <num>(d)</num>
     <text>The proposed franchise agreement shall also cover matters regarding system construction, operation, and maintenance; indemnity, insurance and bonding requirements; reports and records; default and remedies; notices; and all terms and conditions related to the provision of cable service the Office deems necessary or appropriate.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Aug. 21, 1982, D.C. Law 4-142, § 405, as added Oct. 9, 2002, D.C. Law 14-193, § 2(b), 49 DCR 7334.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-193, see notes following § 34-1251.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 34-1251.04, § 34-1254.06, § 34-1254.07, and § 34-1254.08.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-193</heading>
+      <text>For Law 14-193, see notes following § 34-1251.01.</text>
     </level>
   </level>
 </level>

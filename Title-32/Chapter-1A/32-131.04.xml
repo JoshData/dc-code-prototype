@@ -12,7 +12,7 @@
       <text>Reasonable certification may include:</text>
       <level>
         <num>(A)</num>
-        <text>A signed document from a health care provider, as defined in § 32- 501(5), affirming the illness of the employee;</text>
+        <text>A signed document from a health care provider, as defined in § 32-501(5), affirming the illness of the employee;</text>
       </level>
       <level>
         <num>(B)</num>
@@ -55,18 +55,14 @@
       </level>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 13, 2008, D.C. Law 17-152, § 5, 55 DCR 3452.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-152, see notes following § 32-131.01.</text>
-      </level>
+      <heading>Legislative History of Law 17-152</heading>
+      <text>For Law 17-152, see notes following § 32-131.01.</text>
     </level>
   </level>
 </level>

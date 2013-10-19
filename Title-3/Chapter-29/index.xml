@@ -1,7 +1,6 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>29</num>
-  <heading>Healing Arts Practice. [Repealed]</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2901~3-2943~P.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2901~3-2943~P.xml"/>
+  <heading>Healing Arts Practice</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
 </level>

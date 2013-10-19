@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-5415</num>
   <heading>Stay of proceedings; reopening default judgments.</heading>
-  <formerly-cited-as>DC ST 1981 § 35-1955</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>All proceedings in which the insolvent insurer is a party in any court in the District of Columbia shall be stayed 60 days from the date an order of liquidation, rehabilitation, or conservation is final to permit proper legal action by the Association on any matters germane to its powers or duties.</text>
@@ -10,22 +9,18 @@
     <num>(b)</num>
     <text>As to judgment under any decision, order, verdict, or finding based on default, the Association may apply to have the judgment set aside by the same court that made the judgment and shall be permitted to defend against the suit on the merits.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 22, 1992, D.C. Law 9-129, § 16, 39 DCR 4036.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 35-1955.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 9-129, see Historical and Statutory Notes following § 31-5401.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 35-1955.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-129</heading>
+      <text>For legislative history of D.C. Law 9-129, see Historical and Statutory Notes following § 31-5401.</text>
     </level>
   </level>
 </level>

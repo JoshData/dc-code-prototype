@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-417</num>
   <heading>Unlawful acts.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-751.17</formerly-cited-as>
   <text>It shall be unlawful for any person to:</text>
   <level>
     <num>(a)</num>
@@ -63,22 +62,22 @@
     <num>(o)</num>
     <text>Violate any other provision of this chapter or of any rule or regulation promulgated by the Mayor pursuant thereto.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 18, 1978, D.C. Law 2-70, § 18, 24 DCR 6867.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-751.17.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 2-70, see Historical and Statutory Notes following § 8-401.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-410.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-751.17.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 2-70</heading>
+      <text>For legislative history of D.C. Law 2-70, see Historical and Statutory Notes following § 8-401.</text>
     </level>
   </level>
 </level>

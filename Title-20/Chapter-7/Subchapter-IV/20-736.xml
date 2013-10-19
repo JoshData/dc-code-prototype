@@ -1,39 +1,39 @@
 <level type="section">
   <num>20-736</num>
   <heading>Finality.</heading>
-  <formerly-cited-as>DC ST 1981 § 20-736</formerly-cited-as>
   <text>In the absence of fraud, neither the personal representative nor any distributee of estate property shall be liable for any claim, liability, or damage claimed by any interested person (or any person or entity claiming by or through such interested person):</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>who has received the notice and copy of the final account of the unsupervised personal representative, and not objected to the final account within the 60-day period described in section 20-735(b); an unsupervised personal representative may send such notice and copy of the final account to any one or more creditors of the decedent or of the estate, and any such creditor not so objecting in a timely manner shall be similarly bound; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>who has not filed an exception to the final account of the supervised personal representative within the time and manner prescribed in section 20- 726.</text>
-    </level>
+    <num>(1)</num>
+    <text>who has received the notice and copy of the final account of the unsupervised personal representative, and not objected to the final account within the 60-day period described in section 20-735(b); an unsupervised personal representative may send such notice and copy of the final account to any one or more creditors of the decedent or of the estate, and any such creditor not so objecting in a timely manner shall be similarly bound; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>who has not filed an exception to the final account of the supervised personal representative within the time and manner prescribed in section 20-726.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 21, 1995, D.C. Law 10-241, § 3(yy), 42 DCR 63; Apr. 9, 1997, D.C. Law 11-255, § 19(j), 44 DCR 1271.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 20-736.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 10-241, see Historical and Statutory Notes following § 20-701.01.</text>
-        <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 16-701.01.</text>
-      </level>
-      <level>
-        <heading>Miscellaneous Notes</heading>
-        <text>Application of Law 10-241: See Application of Law 10-241 and Emergency act amendment notes to § 20-701.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 20-1303.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 20-736.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-241</heading>
+      <text>For legislative history of D.C. Law 10-241, see Historical and Statutory Notes following § 20-701.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>For legislative history of D.C. Law 11-255, see Historical and Statutory Notes following § 16-701.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 10-241: See Application of Law 10-241 and Emergency act amendment notes to § 20-701.01.</text>
     </level>
   </level>
 </level>

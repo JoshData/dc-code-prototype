@@ -1,7 +1,6 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Practical Nurses.</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2302.01~3-2302.19~P.xml"/>
+  <heading>Practical Nurses</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-2302.01~3-2302.19~P.xml"/>
 </level>

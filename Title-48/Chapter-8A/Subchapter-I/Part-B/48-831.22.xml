@@ -3,31 +3,25 @@
   <heading>Eligibility for low-income elderly.</heading>
   <text>To be eligible, an individual shall:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Be a resident of the District;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Be at least 62 years of age; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Have a household income that is not more than 200% of the federal poverty level.</text>
-    </level>
+    <num>(1)</num>
+    <text>Be a resident of the District;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Be at least 62 years of age; and</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Have a household income that is not more than 200% of the federal poverty level.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 18, 2004, D.C. Law 15-164, § 122, 51 DCR 3688.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-164, see notes following § 48-831.01.</text>
-      </level>
+      <heading>Legislative History of Law 15-164</heading>
+      <text>For Law 15-164, see notes following § 48-831.01.</text>
     </level>
   </level>
 </level>

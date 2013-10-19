@@ -1,5 +1,10 @@
 <level type="placeholder">
   <reason>Reserved</reason>
   <section>48-901.01</section>
-  <text>DC CODE § 48-901.01</text>
+  <level type="annotations">
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 16-2301, § 22-2603.01, and § 50-1403.02.</text>
+    </level>
+  </level>
 </level>

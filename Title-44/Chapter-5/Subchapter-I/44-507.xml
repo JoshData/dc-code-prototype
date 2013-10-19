@@ -1,7 +1,6 @@
 <level type="section">
   <num>44-507</num>
   <heading>Standards for clinical privileges and staff membership; anticompetitive practices prohibited.</heading>
-  <formerly-cited-as>DC ST 1981 § 32-1307</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The accordance and delineation of clinical privileges shall be determined on an individual basis and commensurate with an applicant's education, training, experience, and demonstrated current competence. In implementing these criteria, each facility and agency shall formulate and apply reasonable, nondiscriminatory standards for the evaluation of an applicant's credentials. As part of its overall responsibility for the operation of a facility or agency, the governing body, or designated persons so functioning, shall ensure that decisions on clinical privileges and staff membership are based on an objective evaluation of an applicant's credentials, free of anticompetitive intent or purpose. Whenever possible, the credentials committee and other staff who evaluate and determine the qualifications of applicants for clinical privileges and staff membership shall include members of the applicant's profession. The credentials committee shall accept the District of Columbia's uniform credentialing form as the sole application for a healthcare provider to become credentialed or recredentialed.</text>
@@ -81,31 +80,47 @@
       <text>Access to a complete record documenting all preliminary and final decisions and proceedings related to the decisions.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Feb. 24, 1984, D.C. Law 5-48, § 8, 30 DCR 5778; Mar. 14, 1985, D.C. Law 5-159, § 6, 32 DCR 30; Dec. 3, 1985, D.C. Law 6-66, § 11, 32 DCR 6086; Mar. 23, 1995, D.C. Law 10-247, § 5, 42 DCR 457; Apr. 13, 2002, D.C. Law 14-96, § 201, 49 DCR 991; Mar. 2, 2007, D.C. Law 16-191, § 68(a), 53 DCR 6794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 32-1307.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-96, in subsec. (a), at the end, added "The credentials committee shall accept the District of Columbia's uniform credentialing form as the sole application for a healthcare provider to become credentialed or recredentialed."</text>
-        <text>D.C. Law 16-191, in subsec. (b), designated the lead-in language as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), and designated par. (2).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 5-48, see Historical and Statutory Notes following § 44-501.</text>
-        <text>Law 6-66 was introduced in Council and assigned Bill No. 6-135, which was referred to the Committee on Education and reassigned to the Committee on Human Services. The Bill was adopted on first and second readings on September 10, 1985, and September 24, 1985, respectively. Signed by the Mayor on October 9, 1985, it was assigned Act No. 6-89 and transmitted to both Houses of Congress for its review.</text>
-        <text>Law 10-247, the "Health Occupations Revision Act of 1985 Amendment Act of 1994," was introduced in Council and assigned Bill No. 10-598, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 1, 1994, and December 1, 1994, respectively.</text>
-        <text>Law 14-96, the "Health Insurers and Credentialing Intermediaries Uniform Credentialing Form Act of 2002", was introduced in Council and assigned Bill No. 14-54, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on December 4, 2001, and January 8, 2002, respectively. Signed by the Mayor on January 28, 2002, it was assigned Act No. 14-229 and transmitted to both Houses of Congress for its review. D.C. Law 14-96 became effective on April 13, 2002.</text>
-        <text>For Law 16-191, see notes following § 44-151.02.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Health occupations, collaboration, see §§ 3-1206.03 and 44-504.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 3-1206.03 and § 44-504.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 32-1307.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-96, in subsec. (a), at the end, added "The credentials committee shall accept the District of Columbia's uniform credentialing form as the sole application for a healthcare provider to become credentialed or recredentialed."</text>
+      <text>D.C. Law 16-191, in subsec. (b), designated the lead-in language as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), and designated par. (2).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 5-48</heading>
+      <text>For legislative history of D.C. Law 5-48, see Historical and Statutory Notes following § 44-501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 6-66</heading>
+      <text>Law 6-66 was introduced in Council and assigned Bill No. 6-135, which was referred to the Committee on Education and reassigned to the Committee on Human Services. The Bill was adopted on first and second readings on September 10, 1985, and September 24, 1985, respectively. Signed by the Mayor on October 9, 1985, it was assigned Act No. 6-89 and transmitted to both Houses of Congress for its review.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-247</heading>
+      <text>Law 10-247, the "Health Occupations Revision Act of 1985 Amendment Act of 1994," was introduced in Council and assigned Bill No. 10-598, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 1, 1994, and December 1, 1994, respectively.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-96</heading>
+      <text>Law 14-96, the "Health Insurers and Credentialing Intermediaries Uniform Credentialing Form Act of 2002", was introduced in Council and assigned Bill No. 14-54, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on December 4, 2001, and January 8, 2002, respectively. Signed by the Mayor on January 28, 2002, it was assigned Act No. 14-229 and transmitted to both Houses of Congress for its review. D.C. Law 14-96 became effective on April 13, 2002.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 44-151.02.</text>
     </level>
   </level>
 </level>

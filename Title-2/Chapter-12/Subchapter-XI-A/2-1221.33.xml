@@ -65,18 +65,14 @@
     <num>(h)</num>
     <text>The Task Force shall disband no later than one year after its initial meeting.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 2, 2007, D.C. Law 16-190, § 4, 53 DCR 6791.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-190, see notes following § 2-1221.31.</text>
-      </level>
+      <heading>Legislative History of Law 16-190</heading>
+      <text>For Law 16-190, see notes following § 2-1221.31.</text>
     </level>
   </level>
 </level>

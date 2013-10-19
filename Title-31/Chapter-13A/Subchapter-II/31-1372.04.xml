@@ -72,7 +72,7 @@
       <num>(2)</num>
       <level>
         <num>(A)</num>
-        <text>Be the insurer; an affiliated insurer or a business entity affiliated with the insurer; a qualified bank; or a business entity registered under the Investment Advisors Act of 1940, approved August 22, 1984 (54 Stat. 789; 15 U.S.C. § 80a-1 <text i="True">et seq.</text>);</text>
+        <text>Be the insurer; an affiliated insurer or a business entity affiliated with the insurer; a qualified bank; or a business entity registered under the Investment Advisors Act of 1940, approved August 22, 1984 (54 Stat. 789; 15 U.S.C. § 80a-1 et seq.);</text>
       </level>
       <level>
         <num>(B)</num>
@@ -156,32 +156,30 @@
     <num>(f)</num>
     <text>Distributions under subsection (e)(5) of this section shall be calculated net of all then applicable fees and expenses of the investment pool. The pooling agreement shall provide that the pool manager may distribute to a participant, at the discretion of the pool manager:</text>
     <level>
-      <level>
-        <num>(A)</num>
-        <text>In cash, the fair market value of the participant's pro rata share of each underlying asset of the investment pool;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>In kind, a pro rata share of each underlying asset; or</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>In a combination of cash and in kind distributions, a pro rata share in each underlying asset.</text>
-      </level>
+      <num>(A)</num>
+      <text>In cash, the fair market value of the participant's pro rata share of each underlying asset of the investment pool;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>In kind, a pro rata share of each underlying asset; or</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>In a combination of cash and in kind distributions, a pro rata share in each underlying asset.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 11, 2003, D.C. Law 14-297, § 204, 50 DCR 330.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-297, see notes following § 31-1371.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-1372.09.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-297</heading>
+      <text>For Law 14-297, see notes following § 31-1371.01.</text>
     </level>
   </level>
 </level>

@@ -17,18 +17,14 @@
     <num>(d)</num>
     <text>The remedies provided in this section are cumulative and do not restrict any remedy that is otherwise available.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Jan. 29, 2008, D.C. Law 17-87, § 5, 54 DCR 11913.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-87, see notes following § 42-2431.</text>
-      </level>
+      <heading>Legislative History of Law 17-87</heading>
+      <text>For Law 17-87, see notes following § 42-2431.</text>
     </level>
   </level>
 </level>

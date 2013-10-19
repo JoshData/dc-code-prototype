@@ -1,7 +1,6 @@
 <level type="section">
   <num>16-712</num>
   <heading>Community service.</heading>
-  <formerly-cited-as>DC ST 1981 § 16-712</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>In criminal cases in the Superior Court of the District of Columbia, the court may, in addition to any other sentence imposed, require a person convicted of any offense as a condition of probation or as a sentence itself, to undertake reasonable services to the community for a period not to exceed 5 years in duration.</text>
@@ -18,22 +17,26 @@
     <num>(d)</num>
     <text>At any time during the probation period or period of community service, the defendant may request and the court may grant a hearing on any matter related to the plan of community service.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 10, 1983, D.C. Law 4-202, § 2, 30 DCR 173.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 16-712.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 4-202, see Historical and Statutory Notes following § 16-711.</text>
-      </level>
+      <heading>Cross References</heading>
+      <text>Panhandling, community service sanctions, see § 22-2304.</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 22-2304 and § 22-3312.04.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 16-712.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 4-202</heading>
+      <text>For legislative history of D.C. Law 4-202, see Historical and Statutory Notes following § 16-711.</text>
     </level>
   </level>
 </level>

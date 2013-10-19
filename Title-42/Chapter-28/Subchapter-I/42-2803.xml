@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-2803</num>
   <heading>Coordination of housing programs for targeted populations; community outreach.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-3103</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>The Department shall establish a one-stop center to:</text>
@@ -106,29 +105,35 @@
     <num>(c)</num>
     <text>The Department shall develop an annual community outreach plan, which shall promote maximum visibility of the Fund and its operations and full participation by District, developers, lenders, and District residents who request assistance under this chapter.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 16, 1989, D.C. Law 7-202, § 4, 36 DCR 444; Apr. 19, 2002, D.C. Law 14-114, § 501(d), 49 DCR 1468; Mar. 2, 2007, D.C. Law 16-191, § 98, 53 DCR 6794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-3103.</text>
-      </level>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 14-114, in subsec. (b)(2)(I), substituted "very low-income purchasers" for "low income purchasers".</text>
-        <text>D.C. Law 16-191, in subsec. (b)(1), substituted "RLA Revitalization Corporation" for "District of Columbia Redevelopment Land Agency ('RLA')".</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-202, see Historical and Statutory Notes following § 42-2801.</text>
-        <text>For Law 14-114, see notes following § 42-2102.</text>
-        <text>For Law 16-191, see notes following § 42-1102.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 42-2802.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-3103.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 14-114, in subsec. (b)(2)(I), substituted "very low-income purchasers" for "low income purchasers".</text>
+      <text>D.C. Law 16-191, in subsec. (b)(1), substituted "RLA Revitalization Corporation" for "District of Columbia Redevelopment Land Agency ('RLA')".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-202</heading>
+      <text>For legislative history of D.C. Law 7-202, see Historical and Statutory Notes following § 42-2801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-114</heading>
+      <text>For Law 14-114, see notes following § 42-2102.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-191</heading>
+      <text>For Law 16-191, see notes following § 42-1102.</text>
     </level>
   </level>
 </level>

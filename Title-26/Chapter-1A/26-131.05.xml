@@ -21,18 +21,14 @@
     <num>(b)</num>
     <text>This chapter shall not impose a duty to relocate or modify an automated teller machine upon the occurrence of a particular event or circumstance.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 9, 2001, D.C. Law 13-308, § 505, 48 DCR 3244.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-308, see notes following § 26-131.01.</text>
-      </level>
+      <heading>Legislative History of Law 13-308</heading>
+      <text>For Law 13-308, see notes following § 26-131.01.</text>
     </level>
   </level>
 </level>

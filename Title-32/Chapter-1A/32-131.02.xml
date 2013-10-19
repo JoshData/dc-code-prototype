@@ -21,7 +21,7 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>In the case of employees who are exempt from overtime payment under section 213(a)(1) of the Fair Labor Standards Act of 1938, approved June 25, 1938 (52 Stat. 1060; 29 U.S.C. § 201 <text i="True">et seq.</text>), employees shall not accrue leave for hours worked beyond a 40-hour work week.</text>
+      <text>In the case of employees who are exempt from overtime payment under section 213(a)(1) of the Fair Labor Standards Act of 1938, approved June 25, 1938 (52 Stat. 1060; 29 U.S.C. § 201 et seq.), employees shall not accrue leave for hours worked beyond a 40-hour work week.</text>
     </level>
   </level>
   <level>
@@ -99,24 +99,26 @@
     <num>(f)</num>
     <text>If employees of beauty, hair, and nail salons are paid by commission (whether commission only or base wage plus commission), the sick leave rate of pay shall be calculated as follows: divide the employee's total earnings in base wages and commissions for the prior calendar year by the total hours worked as a commissioned employee during the prior calendar year. If employees do not have a prior calendar year's work history, divide the employee's total earnings in base wages and commissions since the employee's date of hire by the total hours worked as a commissioned employee since that date.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(May 13, 2008, D.C. Law 17-152, § 3, 55 DCR 3452; Mar. 25, 2009, D.C. Law 17-353, § 311(a), 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-353, in subsec. (c), substituted "when he or she qualifies as an employee" for "at the beginning of his or her employment. An employee may begin to access paid leave after 90 days of service with his or her employer" in par. (1), and repealed par. (3), which had read as follows:</text>
-        <text>"(3) An employee who is discharged after the completion of a 90-day probationary period and is rehired within 12 months may access paid leave immediately."</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-152, see notes following § 32-131.01.</text>
-        <text>For Law 17-353, see notes following § 32-101.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 32-131.01, § 32-131.04, and § 32-131.05.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-353, in subsec. (c), substituted "when he or she qualifies as an employee" for "at the beginning of his or her employment. An employee may begin to access paid leave after 90 days of service with his or her employer" in par. (1), and repealed par. (3), which had read as follows: "(3) An employee who is discharged after the completion of a 90-day probationary period and is rehired within 12 months may access paid leave immediately."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-152</heading>
+      <text>For Law 17-152, see notes following § 32-131.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 32-101.</text>
     </level>
   </level>
 </level>

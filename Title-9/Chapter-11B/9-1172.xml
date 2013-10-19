@@ -3,41 +3,35 @@
   <heading>Wire-free zones.</heading>
   <text>No aerial wires for streetcar transit shall be installed in the following areas:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>Along the National Mall in the cross-axis area that extends from the U.S. Capitol on the east to the Lincoln Memorial on the west and from the White House on the north to the Jefferson Memorial on the south, including federal properties abutting this cross-axis area; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Along Pennsylvania Avenue between the Capitol and the White House.</text>
-    </level>
+    <num>(1)</num>
+    <text>Along the National Mall in the cross-axis area that extends from the U.S. Capitol on the east to the Lincoln Memorial on the west and from the White House on the north to the Jefferson Memorial on the south, including federal properties abutting this cross-axis area; and</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>Along Pennsylvania Avenue between the Capitol and the White House.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 31, 2011, D.C. Law 18-339, § 3, 58 DCR 618.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>Section 3 of D.C. Law 18-258 added a section to read as follows: </text>
-        <text>"Sec. 3. Wire-free zones.</text>
-        <text>"No aerial wires for streetcar transit shall be installed in the following areas:</text>
-        <text>"(1) Along the National Mall in the cross-axis area that extends from the U.S. Capitol on the east to the Lincoln Memorial on the west and from the White House on the north to the Jefferson Memorial on the south, including federal properties abutting this cross-axis area; and</text>
-        <text>"(2) Along Pennsylvania Avenue between the Capitol and the White House."</text>
-        <text>Section 7(b) of D.C. Law 18-258 provides that the act shall expire after 225 days of its having taken effect.</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition, see § 3 of Transportation Infrastructure Emergency Amendment Act of 2010 (D.C. Act 18-486, July 19, 2010, 57 DCR 7164).</text>
-        <text>For temporary (90 day) addition, see § 3 of Transportation Infrastructure Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-583, October 19, 2010, 57 DCR 10129).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-339, see notes under § 9-1171.</text>
-      </level>
+      <heading>Temporary Addition of Section</heading>
+      <text>Section 3 of D.C. Law 18-258 added a section to read as follows:</text>
+      <text>"Sec. 3. Wire-free zones.</text>
+      <text>"No aerial wires for streetcar transit shall be installed in the following areas:</text>
+      <text>"(1) Along the National Mall in the cross-axis area that extends from the U.S. Capitol on the east to the Lincoln Memorial on the west and from the White House on the north to the Jefferson Memorial on the south, including federal properties abutting this cross-axis area; and</text>
+      <text>"(2) Along Pennsylvania Avenue between the Capitol and the White House."</text>
+      <text>Section 7(b) of D.C. Law 18-258 provided that the act shall expire after 225 days of its having taken effect.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition, see § 3 of Transportation Infrastructure Emergency Amendment Act of 2010 (D.C. Act 18-486, July 19, 2010, 57 DCR 7164).</text>
+      <text>For temporary (90 day) addition, see § 3 of Transportation Infrastructure Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-583, October 19, 2010, 57 DCR 10129).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-339</heading>
+      <text>For history of Law 18-339, see notes under § 9-1171.</text>
     </level>
   </level>
 </level>

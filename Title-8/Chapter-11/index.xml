@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>11</num>
-  <heading>Multi-Material Recycling Systems.</heading>
+  <heading>Multi-Material Recycling Systems</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1102.xml"/>
 </level>

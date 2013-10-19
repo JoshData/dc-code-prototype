@@ -1,7 +1,6 @@
 <level type="section">
   <num>28-4102</num>
   <heading>Overcharging.</heading>
-  <formerly-cited-as>DC ST 1981 § 28-4102</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>It shall be unlawful for any person to charge more than the normal average retail price for any merchandise or service sold during an emergency that resulted from a natural disaster, if an emergency has been declared pursuant to subsection (b) of this section.</text>
@@ -17,26 +16,26 @@
       <text>Upon the issuance of a declaration of an emergency or as soon as practicable given the nature of the emergency, the Mayor shall publish a copy of the emergency declaration in the District of Columbia Register and in 2 daily newspapers of general circulation.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 20, 1992, D.C. Law 9-80, § 2, 39 DCR 675.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 28-4102.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 9-80, see Historical and Statutory Notes following § 28-4101.</text>
-      </level>
-      <level>
-        <heading>References in Text</heading>
-        <text>"This act", referred to in subsec. (b)(1), is D.C. Law 9-80.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28-4101 and § 28-4103.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28-4102.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-80</heading>
+      <text>For legislative history of D.C. Law 9-80, see Historical and Statutory Notes following § 28-4101.</text>
+    </level>
+    <level>
+      <heading>References in Text</heading>
+      <text>"This act", referred to in subsec. (b)(1), is D.C. Law 9-80.</text>
     </level>
   </level>
 </level>

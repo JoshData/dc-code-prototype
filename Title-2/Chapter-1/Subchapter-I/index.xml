@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Steam Boilers.</heading>
+  <heading>Steam Boilers</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-103.xml"/>

@@ -3,27 +3,21 @@
   <heading>Supply management rules.</heading>
   <text>The CPO shall issue rules governing:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The management of goods during their entire life cycle;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The sale, lease, disposal, or transfer of surplus goods by public auction, competitive sealed bidding, competitive electronic sales, or other appropriate method designated by rule; provided, that no employee of the disposing agency shall be entitled to purchase any surplus goods.</text>
-    </level>
+    <num>(1)</num>
+    <text>The management of goods during their entire life cycle;</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>The sale, lease, disposal, or transfer of surplus goods by public auction, competitive sealed bidding, competitive electronic sales, or other appropriate method designated by rule; provided, that no employee of the disposing agency shall be entitled to purchase any surplus goods.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2011, D.C. Law 18-371, § 801, 58 DCR 1185.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-371, see notes under § 2-351.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-371</heading>
+      <text>For history of Law 18-371, see notes under § 2-351.01.</text>
     </level>
   </level>
 </level>

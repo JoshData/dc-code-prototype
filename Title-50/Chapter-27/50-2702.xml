@@ -53,18 +53,18 @@
       <text>Warn the owner and lienholders that the towing service may be issued a scrap title for the vehicle if the procedures are not completed by the expiration of the reclamation period.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 22, 2006, D.C. Law 16-139, § 3, 53 DCR 3682.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-139, see notes following § 50-2701.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 50-2703 and § 50-2708.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-139</heading>
+      <text>For Law 16-139, see notes following § 50-2701.</text>
     </level>
   </level>
 </level>

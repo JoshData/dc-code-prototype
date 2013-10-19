@@ -1,7 +1,6 @@
 <level type="section">
   <num>8-1318</num>
   <heading>Hazardous waste and toxic chemical source reduction plans.</heading>
-  <formerly-cited-as>DC ST 1981 § 6-734</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>Pursuant to rules issued by the Mayor in accordance with § 8-1322, beginning on January 1, 1992, and every 4 years thereafter, each business required to submit EPA Form R, and any additional data required, in accordance with § 8-1317, including any District or federal government operations where applicable, shall submit a source reduction plan to the Mayor.</text>
@@ -26,22 +25,18 @@
       <text>A comprehensive economic and technical evaluation of appropriate technologies, procedures, and training programs to achieve hazardous waste and toxic chemical source reduction, including a schedule for and the estimated costs of implementation of the reduction.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Mar. 16, 1978, D.C. Law 2-64, § 20, as added Mar. 8, 1991, D.C. Law 8- 229, title I, § 102(c), 38 DCR 246.)</text>
+      <heading>History</heading>
+      <text>(Mar. 16, 1978, D.C. Law 2-64, § 20, as added Mar. 8, 1991, D.C. Law 8-229, title I, § 102(c), 38 DCR 246.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 6-734.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 8-229, see Historical and Statutory Notes following § 8-1315.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 6-734.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 8-229</heading>
+      <text>For legislative history of D.C. Law 8-229, see Historical and Statutory Notes following § 8-1315.</text>
     </level>
   </level>
 </level>

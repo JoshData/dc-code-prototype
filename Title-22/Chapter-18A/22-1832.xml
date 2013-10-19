@@ -9,18 +9,18 @@
     <num>(b)</num>
     <text>It is unlawful for an individual or a business knowingly to place or keep any person in debt bondage.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 23, 2010, D.C. Law 18-239, § 102, 57 DCR 5405.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-239, see notes under § 22-1831.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 14-311, § 22-1836, § 22-1837, and § 22-1840.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-239</heading>
+      <text>For history of Law 18-239, see notes under § 22-1831.</text>
     </level>
   </level>
 </level>

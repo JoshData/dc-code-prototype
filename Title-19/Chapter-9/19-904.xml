@@ -58,7 +58,7 @@
     </level>
     <level>
       <num>(6)</num>
-      <text>A nonvested property interest in or a power of appointment with respect to a trust or other property arrangement forming part of a pension, profit-sharing, stock bonus, health, disability, death benefit, income deferral, or other current or deferred benefit plan for one or more employees, independent contractors, or their beneficiaries, spouses, or domestic partners, to which contributions are made for the purpose of distributing to or for the benefit of the participants or their beneficiaries, spouses, or domestic partners, the property, income, or principal in the trust or other property arrangement, except a nonvested property interest or a power of appointment that is created by an election of a participant or a beneficiary, spouse, or domestic partner;</text>
+      <text>A nonvested property interest in or a power of appointment with respect to a trust or other property arrangement forming part of a pension, profit- sharing, stock bonus, health, disability, death benefit, income deferral, or other current or deferred benefit plan for one or more employees, independent contractors, or their beneficiaries, spouses, or domestic partners, to which contributions are made for the purpose of distributing to or for the benefit of the participants or their beneficiaries, spouses, or domestic partners, the property, income, or principal in the trust or other property arrangement, except a nonvested property interest or a power of appointment that is created by an election of a participant or a beneficiary, spouse, or domestic partner;</text>
     </level>
     <level>
       <num>(7)</num>
@@ -82,37 +82,33 @@
     <text>For the purposes of this section, the term:</text>
     <level>
       <num>(1)</num>
-      <text>"Domestic partner" shall have the same meaning as provided in § 32- 701(3).</text>
+      <text>"Domestic partner" shall have the same meaning as provided in § 32-701(3).</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>"Domestic partnership" shall have the same meaning as provided in § 32- 701(4).</text>
+      <text>"Domestic partnership" shall have the same meaning as provided in § 32-701(4).</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 27, 2001, D.C. Law 13-292, § 402(b), 48 DCR 2087; Apr. 4, 2006, D.C. Law 16-79, § 5(u), 53 DCR 1035.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 16-79 designated the existing text as subsec. (a); added subsec. (b); and rewrote subsecs. (a)(1)(C), (a)(1)(D) and (a)(6), which had read as follows:</text>
-        <text>"(C) A spouse's election under section 19-113;</text>
-        <text>"(D) A similar arrangement arising out of a prospective, existing, or previous marital relationship between the parties;"</text>
-        <text>"(6) A nonvested property interest in or a power of appointment with respect to a trust or other property arrangement forming part of a pension, profit-sharing, stock bonus, health, disability, death benefit, income deferral, or other current or deferred benefit plan for one or more employees, independent contractors, or their beneficiaries or spouses, to which contributions are made for the purpose of distributing to or for the benefit of the participants or their beneficiaries or spouses the property, income, or principal in the trust or other property arrangement, except a nonvested property interest or a power of appointment that is created by an election of a participant or a beneficiary or spouse;"</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 13-292, see notes following § 19-901.</text>
-        <text>For Law 16-79, see notes following § 19-101.02.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 4 of the Uniform Statutory Rule Against Perpetuities Act. See 8B Uniform Laws Annotated, Master Edition, or ULA Database on WESTLAW.</text>
-      </level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 16-79 designated the existing text as subsec. (a); added subsec. (b); and rewrote subsecs. (a)(1)(C), (a)(1)(D) and (a)(6).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-292</heading>
+      <text>For D.C. Law 13-292, see notes following § 19-901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-79</heading>
+      <text>For Law 16-79, see notes following § 19-101.02.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 4 of the Uniform Statutory Rule Against Perpetuities Act.</text>
     </level>
   </level>
 </level>

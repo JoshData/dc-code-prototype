@@ -41,18 +41,14 @@
     <num>(f)</num>
     <text>The ASL curriculum for K-12, L1 users and L2 learners, shall be approved by the ASLTA effective January 1, 2003.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 26, 2001, D.C. Law 14-50, § 4, 48 DCR 7952.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For D.C. Law 14-50, see notes following § 38-2431.</text>
-      </level>
+      <heading>Legislative History of Law 14-50</heading>
+      <text>For D.C. Law 14-50, see notes following § 38-2431.</text>
     </level>
   </level>
 </level>

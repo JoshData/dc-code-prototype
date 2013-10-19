@@ -38,7 +38,7 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Minimum capital and surplus requirements as set forth in § 31-3931.05(a) and (f); and</text>
+      <text>Minimum capital and surplus requirements as set forth in § 31-3931.05(a) and (f) [apparently intended to be a reference to § 31-3931.09(a) and (f)]; and</text>
     </level>
     <level>
       <num>(6)</num>
@@ -61,22 +61,22 @@
     <num>(f)</num>
     <text>A captive insurer shall include its strategic business plan with its application for the issuance of its certificate of authority. If the captive insurer intends to make any material or substantive changes to its strategic business plan, the captive insurer shall file a copy of the amended strategic business plan with the Commissioner for prior written approval.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 17, 2005, D.C. Law 15-262, § 10, 52 DCR 1205.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 10 of Captive Insurance Company Emergency Act of 2004 (D.C. Act 15-640, November 30, 2004, 52 DCR 1238).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-262, see notes following § 31-3931.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-3932.03 and § 31-3932.04.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 10 of Captive Insurance Company Emergency Act of 2004 (D.C. Act 15-640, November 30, 2004, 52 DCR 1238).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 15-262</heading>
+      <text>For Law 15-262, see notes following § 31-3931.01.</text>
     </level>
   </level>
 </level>

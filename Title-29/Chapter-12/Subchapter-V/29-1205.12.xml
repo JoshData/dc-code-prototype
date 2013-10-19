@@ -7,24 +7,20 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>If a statutory trust is registered as an investment company under the Investment Company Act of 1940, approved August 22, 1940 (54 Stat. 789; 15 U.S.C. § 80a-1 <text i="True">et seq.</text>), or any successor statute and any regulations issued thereunder, a trustee shall be an independent trustee for all purposes under this chapter if the trustee shall is not an interested person of the trust. The receipt of compensation both for service as an independent trustee of the trust and for service as an independent trustee of one or more other investment companies managed by a single investment adviser or an affiliated person of an investment adviser, shall not affect the status of the trustee as an independent trustee under this section.</text>
+    <text>If a statutory trust is registered as an investment company under the Investment Company Act of 1940, approved August 22, 1940 (54 Stat. 789; 15 U.S.C. § 80a-1 et seq.), or any successor statute and any regulations issued thereunder, a trustee shall be an independent trustee for all purposes under this chapter if the trustee shall is not an [sic] interested person of the trust. The receipt of compensation both for service as an independent trustee of the trust and for service as an independent trustee of one or more other investment companies managed by a single investment adviser or an affiliated person of an investment adviser, shall not affect the status of the trustee as an independent trustee under this section.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law:</heading>
-        <text>This section is based on § 512 of the Uniform Statutory Trust Entity Act . See Vol. 6B , Uniform Laws Annotated, Master Edition or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based on § 512 of the Uniform Statutory Trust Entity Act.</text>
     </level>
   </level>
 </level>

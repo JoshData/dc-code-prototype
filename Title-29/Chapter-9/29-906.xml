@@ -1,8 +1,6 @@
 <level type="section">
   <num>29-906</num>
-  <heading>Articles of incorporation--Contents.</heading>
-  <formerly-cited-as>DC ST 1981 § 29-1105</formerly-cited-as>
-  <formerly-cited-as>DC ST 2001 § 29-905</formerly-cited-as>
+  <heading>Articles of incorporation - Contents.</heading>
   <level>
     <num>(a)</num>
     <text>Articles of incorporation shall be signed by each of the incorporators and acknowledged by at least 3 of them if individuals, and by the presidents and secretaries, if associations, before an officer authorized to take acknowledgments.</text>
@@ -70,28 +68,24 @@
     <num>(c)</num>
     <text>The articles may also contain any other provisions, not inconsistent with law or with this chapter, for the conduct of the association's affairs.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>2001 Ed., § 29-905.</text>
-        <text>1981 Ed., § 29-1105.</text>
-        <text>1973 Ed., § 29-805.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-378, see notes under § 29-101.01.</text>
-      </level>
-      <level>
-        <heading>Editor's Notes</heading>
-        <text>Former § 29-906 has been recodified as § 29A-906.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 29-101.06 and § 29-902.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>2001 Ed., § 29-905.</text>
+      <text>1981 Ed., § 29-1105.</text>
+      <text>1973 Ed., § 29-805.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

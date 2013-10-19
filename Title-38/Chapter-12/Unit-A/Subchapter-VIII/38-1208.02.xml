@@ -9,18 +9,14 @@
     <num>(b)</num>
     <text>VEST shall be responsible for the oversight and coordination of all government-sponsored vocational education, adult apprenticeship, and workforce skills training performed by UDC and DCPS.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
-      <text>(Oct. 26, 1974, Pub.L. 93-471, title VIII, § 802, as added Oct. 1, 2002, D.C. Law 14-190, § 2202, 49 DCR 6968.)</text>
+      <heading>History</heading>
+      <text>(Oct. 26, 1974, Pub. L. 93-471, title VIII, § 802, as added Oct. 1, 2002, D.C. Law 14-190, § 2202, 49 DCR 6968.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-190, see notes following § 38-1208.01.</text>
-      </level>
+      <heading>Legislative History of Law 14-190</heading>
+      <text>For Law 14-190, see notes following § 38-1208.01.</text>
     </level>
   </level>
 </level>

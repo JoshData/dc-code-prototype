@@ -3,31 +3,25 @@
   <heading>Governing law.</heading>
   <text>The meaning and effect of the terms of a trust are determined by:</text>
   <level>
-    <level>
-      <num>(1)</num>
-      <text>The law of the jurisdiction designated in the terms unless the designation of that jurisdiction's law is contrary to a strong public policy of the jurisdiction having the most significant relationship to the matter at issue; or</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>In the absence of a controlling designation in the terms of the trust, the law of the jurisdiction having the most significant relationship to the matter at issue.</text>
-    </level>
+    <num>(1)</num>
+    <text>The law of the jurisdiction designated in the terms unless the designation of that jurisdiction's law is contrary to a strong public policy of the jurisdiction having the most significant relationship to the matter at issue; or</text>
   </level>
   <level>
-    <type>annotations</type>
+    <num>(2)</num>
+    <text>In the absence of a controlling designation in the terms of the trust, the law of the jurisdiction having the most significant relationship to the matter at issue.</text>
+  </level>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 10, 2004, D.C. Law 15-104, § 2(b), 51 DCR 208.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 15-104, see notes following § 19-1301.01.</text>
-      </level>
-      <level>
-        <heading>Uniform Law</heading>
-        <text>This section is based upon § 107 of the Uniform Trust Code. See 7C, Uniform Laws Annotated, Master Edition, or ULA Database on Westlaw.</text>
-      </level>
+      <heading>Legislative History of Law 15-104</heading>
+      <text>For Law 15-104, see notes following § 19-1301.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Uniform Law: This section is based upon § 107 of the Uniform Trust Code.</text>
     </level>
   </level>
 </level>

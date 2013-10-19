@@ -2,18 +2,14 @@
   <num>34-2410.02</num>
   <heading>Private fire hydrants.</heading>
   <text>The Mayor shall not approve any permit or related plan that authorizes the installation of a private fire hydrant without an agreement, to be recorded in the land records of the Recorder of Deeds, establishing the entity or person, and successors thereof, responsible for the maintenance, repair, and replacement of the private fire hydrant in perpetuity.</text>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 31, 2011, D.C. Law 18-337, § 3, 58 DCR 609.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-337, see notes under § 34-2410.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-337</heading>
+      <text>For history of Law 18-337, see notes under § 34-2410.01.</text>
     </level>
   </level>
 </level>

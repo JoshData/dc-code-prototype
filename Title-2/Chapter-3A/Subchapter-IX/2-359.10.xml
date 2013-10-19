@@ -3,7 +3,7 @@
   <heading>Employees subject to employee conduct standards of Merit Personnel Act.</heading>
   <level>
     <num>(a)</num>
-    <text>Except for those District government employees employed by agencies not subject to Chapter 6 of Title 1, District government employees who participate in the procurement process shall be subject to the provisions of subchapter XVIII of Chapter 6 of Title 1.</text>
+    <text>Except for those District government employees employed by agencies not subject to Chapter 6 of Title 1 [§ 1-601.01 et seq.], District government employees who participate in the procurement process shall be subject to the provisions of subchapter XVIII of Chapter 6 of Title 1 [§ 1-618.01 et seq.].</text>
   </level>
   <level>
     <num>(b)</num>
@@ -29,18 +29,14 @@
       <text>Any other advisory capacity pertaining to any contract, subcontract, solicitation, or proposal.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Apr. 8, 2011, D.C. Law 18-371, § 910, 58 DCR 1185.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For history of Law 18-371, see notes under § 2-351.01.</text>
-      </level>
+      <heading>Legislative History of Law 18-371</heading>
+      <text>For history of Law 18-371, see notes under § 2-351.01.</text>
     </level>
   </level>
 </level>

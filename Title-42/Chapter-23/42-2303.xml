@@ -1,7 +1,6 @@
 <level type="section">
   <num>42-2303</num>
   <heading>Priority of credit line deed of trust.</heading>
-  <formerly-cited-as>DC ST 1981 § 45-2903</formerly-cited-as>
   <level>
     <num>(a)</num>
     <text>From the date of the recording of a credit line deed of trust, the credit line deed of trust shall have priority:</text>
@@ -26,22 +25,18 @@
     <num>(d)</num>
     <text>Nothing in this chapter shall apply to the priority of purchase money security interests in goods and fixtures.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Jan. 28, 1988, D.C. Law 7-67, § 4, 34 DCR 7441.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Prior Codifications</heading>
-        <text>1981 Ed., § 45-2903.</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For legislative history of D.C. Law 7-67, see Historical and Statutory Notes following § 42-2301.</text>
-      </level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 45-2903.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 7-67</heading>
+      <text>For legislative history of D.C. Law 7-67, see Historical and Statutory Notes following § 42-2301.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>X</num>
-  <heading>Facility Regulations.</heading>
+  <heading>Facility Regulations</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-110.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-110.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="44-110.03.xml"/>

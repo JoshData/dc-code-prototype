@@ -1,6 +1,6 @@
 <level type="section">
   <num>31-5603.06</num>
-  <heading>Provisions applicable to registration generally</heading>
+  <heading>Provisions applicable to registration generally.</heading>
   <level>
     <num>(a)</num>
     <text>A registration statement may be filed by the issuer, any other person on whose behalf the offering is to be made, or a broker-dealer licensed under this chapter.</text>
@@ -69,18 +69,18 @@
     <num>(l)</num>
     <text>The Commissioner may, by rule or order, require as a condition of registration under § 31-5603.02, § 31-5603.03 or § 31-5603.04 that a prospectus be sent or given to each person to whom an offer is made in accordance with the prospectus delivery requirements of the Securities Act of 1933. The Commissioner may require that a prospectus containing any part of the information specified in § 31-5603.04(b) be sent or given to each person to whom an offer is made before the sale of the security.</text>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 26, 2000, D.C. Law 13-203, § 306, 47 DCR 7837.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 13-203, see notes following § 31-5601.01.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 31-5603.02, § 31-5603.03, § 31-5603.04, and § 31-5603.09.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-203</heading>
+      <text>For Law 13-203, see notes following § 31-5601.01.</text>
     </level>
   </level>
 </level>

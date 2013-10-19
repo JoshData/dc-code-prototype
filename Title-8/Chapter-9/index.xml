@@ -1,10 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>9</num>
-  <heading>Illegal Dumping Enforcement.</heading>
-  <level>
-    <text>DC CODE D. I, T. 8, Subt. B, Ch. 9, Refs &amp; Annos</text>
-  </level>
+  <heading>Illegal Dumping Enforcement</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-901.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-902.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-903.xml"/>

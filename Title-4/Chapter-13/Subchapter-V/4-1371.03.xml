@@ -33,31 +33,31 @@
       <text>Recommend training to improve the investigation of child deaths.</text>
     </level>
   </level>
-  <level>
-    <type>annotations</type>
+  <level type="annotations">
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Oct. 3, 2001, D.C. Law 14-28, § 4603, 48 DCR 6981.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Temporary Addition of Section</heading>
-        <text>For temporary (225 day) addition of section, see § 2 of Child Fatality Review Committee Establishment Temporary Act of 2001 (D.C. Law 14-20, September 6, 2001, law notification 48 DCR 9090).</text>
-      </level>
-      <level>
-        <heading>Emergency Act Amendments</heading>
-        <text>For temporary (90 day) addition of section, see § 3 of Child Fatality Review Committee Establishment Emergency Act of 2001 (D.C. Act 14-40, April 25, 2001, 48 DCR 5917).</text>
-        <text>For temporary (90 day) addition of section, see § 3 of Child Fatality Review Committee Establishment Legislative Review Emergency Act of 2001 (D.C. Act 14- 82, July 9, 2001, 48 DCR 6355).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-20, see notes following § 4-1302.03.</text>
-      </level>
-      <level>
-        <heading>Delegation of Authority</heading>
-        <text>Delegation of Authority Pursuant to DC Act 14-40, the Child Fatality Review Committee Establishment Emergency Act of 2001, see Mayor's Order 2001-119, August 9, 2001 (48 DCR 7810).</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-1303.06.</text>
+    </level>
+    <level>
+      <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) addition of section, see § 2 of Child Fatality Review Committee Establishment Temporary Act of 2001 (D.C. Law 14-20, September 6, 2001, law notification 48 DCR 9090).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 3 of Child Fatality Review Committee Establishment Emergency Act of 2001 (D.C. Act 14-40, April 25, 2001, 48 DCR 5917).</text>
+      <text>For temporary (90 day) addition of section, see § 3 of Child Fatality Review Committee Establishment Legislative Review Emergency Act of 2001 (D.C. Act 14-82, July 9, 2001, 48 DCR 6355).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-20</heading>
+      <text>For Law 14-20, see notes following § 4-1302.03.</text>
+    </level>
+    <level>
+      <heading>Delegation of Authority</heading>
+      <text>Delegation of Authority Pursuant to DC Act 14-40, the Child Fatality Review Committee Establishment Emergency Act of 2001, see Mayor's Order 2001-119, August 9, 2001 (48 DCR 7810).</text>
     </level>
   </level>
 </level>
