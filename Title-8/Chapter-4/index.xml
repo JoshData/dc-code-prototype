@@ -2,27 +2,6 @@
   <prefix>Chapter</prefix>
   <num>4</num>
   <heading>Pesticides</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-401.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-402.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-403.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-403.01.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-403.02.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-403.03.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-403.04.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-404.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-405.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-406.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-407.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-408.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-409.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-410.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-411.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-412.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-413.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-414.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-415.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-416.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-417.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-418.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-419.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
 </level>

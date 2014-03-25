@@ -5,7 +5,7 @@
     <num>(a)</num>
     <level>
       <num>(1)</num>
-      <text>A person arrested for, or charged with, the commission of an eligible Municipal Regulations whose prosecution has been terminated without conviction may file a motion to seal the publicly available records of the arrest and related court proceedings if:</text>
+      <text>A person arrested for, or charged with, the commission of an eligible misdemeanor pursuant to the District of Columbia Official Code or the District of Columbia Municipal Regulations whose prosecution has been terminated without conviction may file a motion to seal the publicly available records of the arrest and related court proceedings if:</text>
       <level>
         <num>(A)</num>
         <text>A waiting period of at least 2 years has elapsed since the termination of the case; and</text>
@@ -170,7 +170,7 @@
         <num>(i)</num>
         <level>
           <num>(1)</num>
-          <text>In a motion filed under subsection (a) of this section, the burden shall be on the prosecutor to establish by a preponderance of the evidence that it is not in the interests of justice to grant relief.</text>
+          <text>In a motion filed under subsection (a), (c-1), or (c-2) of this section, the burden shall be on the prosecutor to establish by a preponderance of the evidence that it is not in the interests of justice to grant relief.</text>
         </level>
         <level>
           <num>(2)</num>
@@ -247,7 +247,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(May 5, 2007, D.C. Law 16-307, § 2(b), 54 DCR 868; Oct. 22, 2012, D.C. Law 19-183, § 3, 59 DCR 9429; June 15, 2013, D.C. Law 19-319, § 4(b), 60 DCR 2333.)</text>
+      <text>(May 5, 2007, D.C. Law 16-307, § 2(b), 54 DCR 868; Oct. 22, 2012, D.C. Law 19-183, § 3, 59 DCR 9429; June 15, 2013, D.C. Law 19-319, § 4(b), 60 DCR 2333; Dec. 13, 2013, D.C. Law 20-50, § 4(a), 60 DCR 15151.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -257,6 +257,15 @@
       <heading>Effect of Amendments</heading>
       <text>The 2012 amendment by D.C. Law 19-183 added (c-1).</text>
       <text>The 2013 amendment by D.C. Law 19-319 rewrote (a) and (b); substituted "a waiting period of at least 8 years" for "a waiting period of at least 10 years" in (c)(1); added (c-2); and added "In a motion filed under subsections (a), (b), or (c) of this section" in (f).</text>
+      <text>The 2013 amendment by D.C. Law 20-50 substituted "subsection (a), (c-1), or (c-2) of this section" for "subsection (a) of this section" in (i)(1).</text>
+    </level>
+    <level>
+      <heading>Temporary Legislation</heading>
+      <text>For temporary (225 days) amendment of this section, see §§ 2(a) and 3 of the Criminal Record Sealing Temporary Act of 2013 (D.C. Law 20-38, Nov. 5, 2013, 60 DCR 12149).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 2(a) of the Criminal Record Sealing Congressional Review Emergency Act of 2013 (D.C. Act 20-168, September 30, 2013, 60 DCR 14734).</text>
     </level>
     <level>
       <heading>Legislative History of Law 16-307</heading>
@@ -269,6 +278,10 @@
     <level>
       <heading>Legislative History of Law 19-319</heading>
       <text>See note to § 16-801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-50</heading>
+      <text>Law 20-50, the "Personal Property Robbery Prevention Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-143. The Bill was adopted on first and second readings on July 10, 2013, and October 1, 2013, respectively. Signed by the Mayor on October 17, 2013, it was assigned Act No. 20-189 and transmitted to Congress for its review. D.C. Law 20-50 became effective on December 13, 2013.</text>
     </level>
   </level>
 </level>

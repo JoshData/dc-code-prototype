@@ -3,7 +3,14 @@
   <heading>Form filing.</heading>
   <level>
     <num>(a)</num>
-    <text>A title insurer or authorized rate service organization shall not deliver, issue for delivery, or permit any of its authorized title insurance agents to deliver in the District, any form, in connection with title insurance written, unless it has been filed with the Commissioner and approved by the Commissioner or 30 days have elapsed and it has not been disapproved as misleading or in violation of public policy.</text>
+    <level>
+      <num>(1)</num>
+      <text>The Commissioner may require that all policy forms used by every company covering title risks in the District be filed with the Commissioner. The Commissioner shall have authority to disapprove, within 60 days after the date of the receipt of a filing, the use in the District of any policy form which is inequitable, or does not comply with District law.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>If a policy form is not disapproved for use within the 60-day period described in paragraph (1) of this subsection, the Commissioner may not disapprove the form for use unless it does not comply with District law.</text>
+    </level>
   </level>
   <level>
     <num>(b)</num>
@@ -36,11 +43,15 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Sept. 24, 2010, D.C. Law 18-223, § 2159, 57 DCR 6242.)</text>
+      <text>(Sept. 24, 2010, D.C. Law 18-223, § 2159, 57 DCR 6242; Nov. 5, 2013, D.C. Law 20-40, § 5(h), 60 DCR 12304.)</text>
     </level>
     <level>
       <heading>Section References</heading>
       <text>This section is referenced in § 31-5031.04.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 20-40 rewrote (a).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -49,6 +60,10 @@
     <level>
       <heading>Legislative History of Law 18-223</heading>
       <text>For Law 18-223, see notes following § 31-5031.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-40</heading>
+      <text>See note to § 31-5031.01.</text>
     </level>
   </level>
 </level>

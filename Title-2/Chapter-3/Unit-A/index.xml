@@ -14,5 +14,4 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-X/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-X-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-XI/index.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-XII/index.xml"/>
 </level>

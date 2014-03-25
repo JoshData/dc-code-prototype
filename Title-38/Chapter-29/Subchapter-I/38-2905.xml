@@ -31,238 +31,291 @@
   </level>
   <text>General Education Add-ons:</text>
   <level type="table">
-    <text>
-      <span style="font-weight: bold; ">Level/Program		Definition Weighting	Per Pupil</span>
-    </text>
-    <text>
-      <span style="font-weight: bold; "> 	Supplemental</span>
-    </text>
-    <text><span style="font-weight: bold; ">FY 2013
-</span>LEP/NEP 		Limited and
- 		non-English
- 		proficient
- 		students 0.45 $4,106
-Summer 		An accelerated
- 		instructional
- 		program in the
- 		summer for
- 		students in
- 		targeted grade
- 		spans or grades
- 		pursuant to
- 		promotion
- 		policies of the
- 		District of
- 		Columbia Public
- 		Schools and
- 		public charter
- 		schools 0.17 $1,551</text>
+    <text>Level/Prog
+ram Definition Weightin
+ g Per Pupil
+ Supplementa
+ l FY 2013
+LEP/NEP Limited and
+ non-English
+ proficient
+ students 0.45 $4,106
+Summer An accelerated
+ instructional
+ program in the
+ summer for
+ students in
+ targeted grade
+ spans or grades
+ pursuant to
+ promotion
+ policies of the
+ District of
+ Columbia Public
+ Schools and
+ public charter
+ schools 0.17 $1,551</text>
   </level>
   <text>Special Education Add-ons:</text>
   <level type="table">
-    <text>
-      <span style="font-weight: bold; ">Level/Program 	Definition 	Weighting	Per Pupil</span>
-    </text>
-    <text>
-      <span style="font-weight: bold; ">Supplemental FY 2013 
-Level 1:Special	Eight hours or
-Education 		less per week of
- 		specialized
- 	 	services 0.58 	$5,292
-Level 2: Special	More than 8 hours
-Education 		and less than or	 
- 		equal to 16 hours
- 		per school week
- 		of specialized
- 		services. 0.81 	$7,390
-Level 3: Special	More than 16
-Education 		hours and less 
- 		than or equal to
- 		24 hours per
- 		school week of
- 		specialized
- 		services 1.58 	$14,416
-Level 4: Special	More than 24
-Education 		hours per week 
- 		which may include
- 		instruction in a
- 		self-contained
- 		(dedicated)
- 		special education
- 		school other than
- 		residential
- 		placement 3.10 	$28,284
-Special Education	Weighting
-Capacity Fund 	provided in 
- 		addition to
- 		special education
- 		level add-on
- 		weightings on a
- 		per student basis
- 		for each student
- 		identified as
- 		eligible for
- 		special education. 0.40 	$3,650
-Special Education	Weighting
-Compliance Fund 	provided in 
- 		addition to
- 		special education
- 		level add-on
- 		weightings on a
- 		per student
- 		basis for each
- 		student
- 		identified as
- 		eligible for
- 		special education. 0.16 	$1,460
-Residential 	D.C. Public
- 		School or public
- 		charter school
- 		that provides
- 		students with
- 		room and board in
- 		a residential
- 		setting, in
- 		addition to their
- 		instructional program 1.70 	$15,511</span>
-    </text>
+    <text>Level/Prog
+ram Definition Weightin
+ g Per Pupil
+ Supplementa
+ l FY 2013
+Level 1:
+Special
+Education Eight hours or
+ less per week of
+ specialized
+ services 0.58 $5,292
+Level 2:
+Special
+Education More than 8 hours
+ and less than or
+ equal to 16 hours
+ per school week
+ of specialized
+ services. 0.81 $7,390
+Level 3:
+Special
+Education More than 16
+ hours and less
+ than or equal to
+ 24 hours per
+ school week of
+ specialized
+ services 1.58 $14,416
+Level 4:
+Special
+Education More than 24
+ hours per week
+ which may include
+ instruction in a
+ self-contained
+ (dedicated)
+ special education
+ school other than
+ residential
+ placement 3.10 $28,284
+Special
+Education
+Capacity
+Fund Weighting
+ provided in
+ addition to
+ special education
+ level add-on
+ weightings on a
+ per student basis
+ for each student
+ identified as
+ eligible for
+ special education. 0.40 $3,650
+Special
+Education
+Compliance
+ Fund Weighting
+ provided in
+ addition to
+ special education
+ level add-on
+ weightings on a
+ per student
+ basis for each
+ student
+ identified as
+ eligible for
+ special education. 0.16 $1,460
+Residentia
+l D.C. Public
+ School or public
+ charter school
+ that provides
+ students with
+ room and board in
+ a residential
+ setting, in
+ addition to their
+ instructional
+ program 1.70 $15,511</text>
   </level>
   <text>Residential Add-ons:</text>
   <level type="table">
-    <text><span style="font-weight: bold; ">Level/Program 	Definition Weighting 	Per Pupil
- 		Supplemental FY 2013</span>
-Level 1: Special	Additional
-Education -		funding to
-Residential 	support the 
- 		after-hours level
- 		1 special
- 		education needs
- 		of students
- 		living in a D.C.
- 		Public School or
- 		public charter
- 		school that
- 		provides students
- 		with room and
- 		board in a
- 		residential
- 		setting 0.374 	$3,412
-Level 2: Special	Additional
-Education -		funding to
-Residential 	support the 
- 		after-hours level
- 		2 special
- 		education needs
- 		of students
- 		living in a D.C.
- 		Public School or
- 		public charter
- 		school that
- 		provides students
- 		with room and
- 		board in a
- 		residential
- 		setting 1.360 	$12,409
-Level 3: Special	Additional
-Education -		funding to
-Residential 	support the 
- 		after-hours level
- 		3 special
- 		education needs
- 		of students
- 		living in a D.C.
- 		Public School or
- 		public charter
- 		school that
- 		provides students
- 		with room and
- 		board in a
- 		residential
- 		setting 2.941 	$26,834
-Level 4: Special	Additional
-Education -		funding to
-Residential 	support the 
- 		after-hours level
- 		4 special
- 		education needs
- 		of limited and
- 		non-English
- 		proficient
- 		students living
- 		in a D.C. Public
- 		School or public
- 		charter school
- 		that provides
- 		students with
- 		room and board in
- 		a residential
- 		setting 2.924 	$26,679
-LEP/NEP -		Additional
-Residential 	funding to 
- 		support the
- 		after-hours
- 		Limited and
- 		non-English
- 		proficiency needs
- 		of students
- 		living in a D.C.
- 		Public School or
- 		public charter
- 		school that
- 		provides students
- 		with room and
- 		board in a
- 		residential
- 		setting 0.68 	$6,204</text>
+    <text>Level/Prog
+ram Definition Weightin
+ g Per Pupil
+ Supplementa
+ l FY 2013
+Level 1:
+Special
+Education
+-
+Residentia
+l Additional
+ funding to
+ support the
+ after-hours level
+ 1 special
+ education needs
+ of students
+ living in a D.C.
+ Public School or
+ public charter
+ school that
+ provides students
+ with room and
+ board in a
+ residential
+ setting 0.374 $3,412
+Level 2:
+Special
+Education
+-
+Residentia
+l Additional
+ funding to
+ support the
+ after-hours level
+ 2 special
+ education needs
+ of students
+ living in a D.C.
+ Public School or
+ public charter
+ school that
+ provides students
+ with room and
+ board in a
+ residential
+ setting 1.360 $12,409
+Level 3:
+Special
+Education
+-
+Residentia
+l Additional
+ funding to
+ support the
+ after-hours level
+ 3 special
+ education needs
+ of students
+ living in a D.C.
+ Public School or
+ public charter
+ school that
+ provides students
+ with room and
+ board in a
+ residential
+ setting 2.941 $26,834
+Level 4:
+Special
+Education
+-
+Residentia
+l Additional
+ funding to
+ support the
+ after-hours level
+ 4 special
+ education needs
+ of limited and
+ non-English
+ proficient
+ students living
+ in a D.C. Public
+ School or public
+ charter school
+ that provides
+ students with
+ room and board in
+ a residential
+ setting 2.924 $26,679
+LEP/NEP -
+Residentia
+l Additional
+ funding to
+ support the
+ after-hours
+ Limited and
+ non-English
+ proficiency needs
+ of students
+ living in a D.C.
+ Public School or
+ public charter
+ school that
+ provides students
+ with room and
+ board in a
+ residential
+ setting 0.68 $6,204</text>
   </level>
   <text>Special Education Add-ons for Students with Extended School Year ("ESY") Indicated in Their Individualized Education Programs ("IEPs"):</text>
   <level type="table">
-    <text>Level/Program 	Definition Weighting Per Pupil
- 		Supplemental FY 2013
-Special Education	Additional
-Level 1 ESY 	funding to 
- 		support the
- 		summer
- 		school/program
- 		need for students
- 		who require
- 		extended school
- 		year (ESY)
- 		services in their
- 		IEPs 0.064 	$584
-Special Education	Additional
-Level 2 ESY 	funding to 
- 		support the
- 		summer
- 		school/program
- 		need for students
- 		who require
- 		extended school
- 		year (ESY)
- 		services in their
- 		IEPs 0.231 	$2,108
-Special Education	Additional
-Level 3 ESY 		funding to 
- 		support the
- 		summer
- 		school/program
- 		need for students
- 		who require
- 		extended school
- 		year (ESY)
- 		services in their
- 		IEPs 0.500 	$4,562
-Special Education	Additional
-Level 4 ESY 	funding to 
- 		support the
- 		summer
- 		school/program
- 		need for students
- 		who require
- 		extended school
- 		year (ESY)
- 		services in their
- 		IEPs 0.497 	$4,535</text>
+    <text>Level/Prog
+ram Definition Weightin
+ g Per Pupil
+ Supplementa
+ l FY 2013
+Special
+Education
+Level 1
+ESY Additional
+ funding to
+ support the
+ summer
+ school/program
+ need for students
+ who require
+ extended school
+ year (ESY)
+ services in their
+ IEPs 0.064 $584
+Special
+Education
+Level 2
+ESY Additional
+ funding to
+ support the
+ summer
+ school/program
+ need for students
+ who require
+ extended school
+ year (ESY)
+ services in their
+ IEPs 0.231 $2,108
+Special
+Education
+Level 3
+ESY Additional
+ funding to
+ support the
+ summer
+ school/program
+ need for students
+ who require
+ extended school
+ year (ESY)
+ services in their
+ IEPs 0.500 $4,562
+Special
+Education
+Level 4
+ESY Additional
+ funding to
+ support the
+ summer
+ school/program
+ need for students
+ who require
+ extended school
+ year (ESY)
+ services in their
+ IEPs 0.497 $4,535</text>
   </level>
   <level>
     <num>(d)</num>

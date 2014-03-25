@@ -25,22 +25,29 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>In all other cases, the Superior Court may grant a motion to seal if it is in the interest of justice to do so. In making this determination, the court shall consider:</text>
       <level>
         <num>(A)</num>
-        <text>The interests of the movant in sealing the publicly available records of his or her arrest and related court proceedings;</text>
+        <text>In all other cases under this section, the Superior Court may grant a motion to seal if it is in the interest of justice to do so. In making this determination, the court shall consider:</text>
+        <level>
+          <num>(i)</num>
+          <text>The interests of the movant in sealing the publicly available records of his or her arrest and related court proceedings;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>The community's interest in retaining access to those records;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>The community's interest in furthering the movant's rehabilitation and enhancing the movant's employability; and</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>Any other information it considers relevant.</text>
+        </level>
       </level>
       <level>
         <num>(B)</num>
-        <text>The community's interest in retaining access to those records;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The community's interest in furthering the movant's rehabilitation and enhancing the movant's employability; and</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Any other information it considers relevant.</text>
+        <text>The burden shall be on the movant to establish by a preponderance of the evidence that it is in the interest of justice to grant relief.</text>
       </level>
     </level>
   </level>
@@ -93,15 +100,32 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(June 15, 2013, D.C. Law 19-319, § 4(c), 60 DCR 2333.)</text>
+      <text>(June 15, 2013, D.C. Law 19-319, § 4(c), 60 DCR 2333; Dec. 13, 2013, D.C. Law 20-50, § 4(b), 60 DCR 15151.)</text>
     </level>
     <level>
       <heading>Section References</heading>
       <text>This section is referenced in § 16-806.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 20-50 rewrote (b)(2).</text>
+    </level>
+    <level>
+      <heading>Temporary Legislation</heading>
+      <text>For temporary (225 days) amendment of this section, see §§ 2(b) and 3 of the Criminal Record Sealing Temporary Act of 2013 (D.C. Law 20-38, Nov. 5, 2013, 60 DCR 12149).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 2(b) of the Criminal Record Sealing Emergency Act of 2013 (D.C. Act 20-99, July 1, 2013, 60 DCR 10009, 20 DCSTAT 1805).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(b) of the Criminal Record Sealing Congressional Review Emergency Act of 2013 (D.C. Act 20-168, September 30, 2013, 60 DCR 14734).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 19-319</heading>
       <text>See note to § 16-801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-50</heading>
+      <text>See note to § 16-803.</text>
     </level>
   </level>
 </level>

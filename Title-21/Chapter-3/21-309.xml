@@ -8,9 +8,13 @@
       <num>(1)</num>
       <text>An uncertificated security is either:</text>
       <level type="form">
-        <text> 
- (A) Registered in the name of the transferor, an adult other than the transferor, or a trust company, followed in substance by the words: "as custodian for ________________________ [name of minor] under the District of Columbia Uniform Transfers to Minors Act"; or 
- 
+        <text/>
+      </level>
+      <level>
+        <num>(A)</num>
+        <text>Registered in the name of the transferor, an adult other than the transferor, or a trust company, followed in substance by the words: "as custodian for ________________________ [name of minor] under the District of Columbia Uniform Transfers to Minors Act"; or</text>
+        <level type="form">
+          <text> 
  (B) Delivered with the necessary documents and endorsements for transfer to an adult other than the transferor or to a trust company, as custodian, accompanied by an instrument in substantially the form described in subsection (b) of this section; 
  
  (2) A certificated security in registered form is either: 
@@ -40,9 +44,9 @@
  (8) An interest in any property not described in paragraphs (1) through (7) of this subsection is transferred to an adult other than the transferor or to a trust company by a written instrument in substantially the form set forth in subsection (b) of this section. 
  
  (b) An instrument in the following form satisfies the requirements of paragraphs (1)(B), (2)(B), and (8) of subsection (a) of this section:</text>
-        <text class="centered"> TRANSFER UNDER THE DISTRICT OF COLUMBIA</text>
-        <text class="centered">UNIFORM TRANSFERS TO MINORS ACT</text>
-        <text> I, __________________ [name of transferor or name of representative capacity if a fiduciary] hereby transfer to __________________ [name of custodian], as custodian for __________________ [name of minor] under the District of Columbia Uniform Transfers to Minors Act, the following: [insert a description of the custodian property sufficient to identify it]. 
+          <text class="centered"> TRANSFER UNDER THE DISTRICT OF COLUMBIA</text>
+          <text class="centered">UNIFORM TRANSFERS TO MINORS ACT</text>
+          <text> I, __________________ [name of transferor or name of representative capacity if a fiduciary] hereby transfer to __________________ [name of custodian], as custodian for __________________ [name of minor] under the District of Columbia Uniform Transfers to Minors Act, the following: [insert a description of the custodian property sufficient to identify it]. 
  Dated: __________________ 
  ________________________________________________ 
  [Signature] 
@@ -50,14 +54,15 @@
  Dated: __________________ 
  ________________________________________________ 
  [Signature of Custodian]</text>
-      </level>
-      <level>
-        <num>(c)</num>
-        <text>A transferor shall place the custodian in control of the custodial property as soon as practicable.</text>
-      </level>
-      <level>
-        <num>(d)</num>
-        <text>A transferor who transfers property to an individual under the age of 21 years pursuant to section 21-304 or 21-305 may expressly provide that the custodian shall deliver, convey, or pay the property to the individual on the individual's attaining the age of 21 by inclusion of the parenthetical "(21)" after the words "District of Columbia Uniform Transfers to Minors Act" or substantially similar language. In such case, the word "minor", as used in this chapter, shall mean an individual who has not attained the age of 21 years.</text>
+        </level>
+        <level>
+          <num>(c)</num>
+          <text>A transferor shall place the custodian in control of the custodial property as soon as practicable.</text>
+        </level>
+        <level>
+          <num>(d)</num>
+          <text>A transferor who transfers property to an individual under the age of 21 years pursuant to section 21-304 or 21-305 may expressly provide that the custodian shall deliver, convey, or pay the property to the individual on the individual's attaining the age of 21 by inclusion of the parenthetical "(21)" after the words "District of Columbia Uniform Transfers to Minors Act" or substantially similar language. In such case, the word "minor", as used in this chapter, shall mean an individual who has not attained the age of 21 years.</text>
+        </level>
       </level>
     </level>
   </level>

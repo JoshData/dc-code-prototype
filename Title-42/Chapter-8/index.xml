@@ -20,6 +20,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-815.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-815.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-815.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-815.04.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-816.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-817.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-818.xml"/>

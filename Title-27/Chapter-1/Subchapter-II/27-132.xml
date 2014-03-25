@@ -1,0 +1,46 @@
+<level type="section">
+  <num>27-132</num>
+  <heading>Prompt payments to contractors.</heading>
+  <level>
+    <num>(a)</num>
+    <text>If a construction contract between an owner and contractor does not provide for specific dates and times of payment, the owner shall pay to the contractor undisputed amounts owed under the terms of the written contract within the earlier of:</text>
+    <level>
+      <num>(1)</num>
+      <text>15 days after the day on which the occupancy permit is granted;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>15 days after the day on which the owner or the owner's agent takes possession; or</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>15 days after an owner receives a contractor's payment request.</text>
+    </level>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>If a food service contract between an owner and contractor does not provide for specific dates and times of payment, the owner shall pay to the contractor undisputed amounts owed under the terms of the written contract within the earlier of:</text>
+    <level>
+      <num>(1)</num>
+      <text>15 days after the day on which the owner or the owner's agent takes possession; or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>15 days after an owner receives a contractor's payment request.</text>
+    </level>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>If a contract provides for specific dates or times of payment, the owner shall pay to the contractor undisputed amounts owed within 7 days after the date or time specified in the contract.</text>
+  </level>
+  <level type="annotations">
+    <level>
+      <heading>History</heading>
+      <text>(Nov. 5, 2013, D.C. Law 20-34, § 3, 60 DCR 11812.)</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-34</heading>
+      <text>See note to § 27-131.</text>
+    </level>
+  </level>
+</level>

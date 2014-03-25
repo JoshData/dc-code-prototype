@@ -1,11 +1,22 @@
 <level type="section">
   <num>31-5031.16</num>
-  <heading>Favored agent of title insurer.</heading>
-  <text>A title insurer shall not participate in any transaction in which it knows that a title insurance producer or other person requires, directly or indirectly, or through any trustee, director, officer, agent, employee, or affiliate, as a condition precedent to selling or furnishing any other person a loan, or loan extension, credit, sale, property, contract, lease, or service, that the other person shall place a title insurance policy of any kind with the title insurer or through a particular title insurance agent.</text>
+  <heading>Favored producer of title insurer; buyer's right to choose.</heading>
+  <level>
+    <num>(a)</num>
+    <text>A title insurer shall not participate in any transaction in which it knows that a title insurance producer or other person requires, directly or indirectly, or through any trustee, director, officer, producer, employee, or affiliate, as a condition precedent to selling or furnishing any other person a loan, or loan extension, credit, sale, property, contract, lease, or service, that the other person shall place a title insurance policy of any kind with the title insurer or through a particular title insurance producer.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>No seller of property shall require, directly or indirectly, that the buyer purchase title insurance from any particular title producer or insurer.</text>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Sept. 24, 2010, D.C. Law 18-223, § 2157, 57 DCR 6242.)</text>
+      <text>(Sept. 24, 2010, D.C. Law 18-223, § 2157, 57 DCR 6242; Nov. 5, 2013, D.C. Law 20-40, § 5(g), 60 DCR 12304.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by DC Law 20-40 designated the existing text as (a); substituted "producer" for "agent" throughout (a); and added (b).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -14,6 +25,10 @@
     <level>
       <heading>Legislative History of Law 18-223</heading>
       <text>For Law 18-223, see notes following § 31-5031.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-40</heading>
+      <text>See note to § 31-5031.01.</text>
     </level>
   </level>
 </level>

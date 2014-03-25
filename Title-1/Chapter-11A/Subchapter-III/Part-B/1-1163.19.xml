@@ -9,6 +9,10 @@
       <text>$200,000 for a Mayoral exploratory committee;</text>
     </level>
     <level>
+      <num>(1A)</num>
+      <text>$150,000 for an Attorney General exploratory committee;</text>
+    </level>
+    <level>
       <num>(2)</num>
       <text>$150,000 for a Chairman of the Council exploratory committee;</text>
     </level>
@@ -33,6 +37,10 @@
       <text>$2,000 for a Mayoral exploratory committee;</text>
     </level>
     <level>
+      <num>(1A)</num>
+      <text>$1,500 for an Attorney General exploratory committee;</text>
+    </level>
+    <level>
       <num>(2)</num>
       <text>$1,500 for a Chairman of the Council exploratory committee;</text>
     </level>
@@ -52,11 +60,27 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 27, 2012, D.C. Law 19-124, § 319, 59 DCR 1862.)</text>
+      <text>(Apr. 27, 2012, D.C. Law 19-124, § 319, 59 DCR 1862; Dec. 13, 2013, D.C. Law 20-60, § 302(c), 60 DCR 15487.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 20-60 added (a)(1A) and (b)(1A).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 3(c) of the Election Code Conforming Emergency Act of 2013 (D.C. Act 20-143, July 31, 2013, 60 DCR 11799, 20 DCSTAT 1990).</text>
     </level>
     <level>
       <heading>Legislative History of Law 19-124</heading>
       <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-60</heading>
+      <text>See note to § 1-1162.26.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-60: Section 401(b) of 20-60 provided that § 302 of the act shall apply as of December 13, 2013.</text>
     </level>
   </level>
 </level>

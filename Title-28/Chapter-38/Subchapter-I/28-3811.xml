@@ -46,16 +46,13 @@
     <level>
       <num>(2)</num>
       <text>The statement must -</text>
-      <level>
-        <num>(A)</num>
-        <text>appear under this conspicuous caption: "BUYERS RIGHT TO CANCEL", and</text>
-      </level>
     </level>
   </level>
-  <text> (B) read as follows: =forms 
+  <text> (A) appear under this conspicuous caption: "BUYERS RIGHT TO CANCEL", and =forms 
+ (B) read as follows: 
  "If this agreement was solicited at or near your residence and you do not want the goods or services, you may cancel this agreement by mailing a notice to the seller. The notice must say that you do not want the goods or services and must be mailed before midnight of the third business day after you signed this agreement. The notice must be mailed to: ______________________________ 
  ______________________________________________________________________________</text>
-  <text class="centered"> (insert name and address of seller)</text>
+  <text class="centered"> (insert name and address of seller)=forme</text>
   <text>If you cancel, the seller may not keep any of your cash down payment."</text>
   <level>
     <num>(3)</num>

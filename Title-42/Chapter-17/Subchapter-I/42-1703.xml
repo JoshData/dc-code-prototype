@@ -314,9 +314,8 @@
         <text> 
  "The undersigned do hereby acknowledge disclosure that: 
  
- "The licensee __________________________________________________ 
- 
- Name of Firm</text>
+ "The licensee __________________________________________________</text>
+        <text class="centered"> Name of Firm</text>
         <text> 
  represents the following party in a real estate transaction: 
  
@@ -427,7 +426,8 @@
  
  "The licensee ______________________________</text>
         <text class="centered"> (Name of Broker and Firm)</text>
-        <text> represents more than one party in this real estate transaction as indicated below: 
+        <text> 
+ represents more than one party in this real estate transaction as indicated below: 
  
  
  __________ Seller(s) and Buyer(s) 

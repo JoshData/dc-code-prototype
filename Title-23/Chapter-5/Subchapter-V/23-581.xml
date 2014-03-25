@@ -33,73 +33,69 @@
     </level>
   </level>
   <level type="table">
-    <text><span style="font-weight: bold; ">Offense: 		Specified in -</span>
-Assault .......................... 		section 806 (D.C. Code, sec. 22-404).
-Unlawful entry ................... 		section 824 (D.C. Code, sec. 22-3302).
+    <text>Offense: Specified in -
+Assault .......................... section 806 (D.C. Code, sec. 22-404).
+Unlawful entry ................... section 824 (D.C. Code, sec. 22-3302).
 Malicious burning, destruction or
- injury of another's property .... 		section 848 (D.C. Code, sec. 22-303).</text>
-    <text>The following offense specified in the Omnibus Public Safety Amendment Act of 2006, effective April 24, 2007 (D.C. Law 16-306; 53 DCR 8610):</text>
-    <text><span style="font-weight: bold; ">Offense: 		Specified in -
-</span>Voyeurism ........................ 		section 105 (D.C. Code, sec. 22-3531).</text>
-  </level>
-  <level>
-    <num>(B)</num>
+injury of another's property section 848 (D.C. Code, sec. 22-303).</text>
+    <text> (B) The following offense specified in the Omnibus Public Safety Amendment Act of 2006, effective April 24, 2007 (D.C. Law 16-306; 53 DCR 8610):</text>
+    <text>Offense: Specified in -
+Voyeurism ........................ section 105 (D.C. Code, sec. 22-3531).</text>
   </level>
   <level>
     <num>(C)</num>
     <text>The following offenses specified in the District of Columbia Theft and White Collar Crimes Act of 1982, and listed in the following table:</text>
   </level>
   <level type="table">
-    <text>
-Offense: 		<span style="font-weight: bold; ">Specified in –</span>
-Theft of property valued less than $250		section 111 [D.C. Official Code,
- 		 § 22-3211].</text>
-    <text>
-      <span style="font-weight: bold; ">Receiving stolen property ........ 		section 132 [D.C. Official Code,
- 		 </span>
-      <span style="font-weight: bold; ">§</span>
-      <span style="font-weight: bold; "> 22-3232].
-Shoplifting ...................... 		section 113 [D.C. Official Code,
- 		 </span>
-      <span style="font-weight: bold; ">§</span>
-      <span style="font-weight: bold; "> 22-3213].</span>
-    </text>
+    <text>Offense: Specified in -
+Theft of property valued less than
+$250 section 111 [D.C. Official Code,
+ § 22-3211].
+Receiving stolen property ........ section 132 [D.C. Official Code,
+ § 22-3232].
+Shoplifting ...................... section 113 [D.C. Official Code,
+ § 22-3213].</text>
   </level>
   <level>
     <num>(D)</num>
     <text>Attempts to commit the following offenses specified in the Act and listed in the following table:</text>
   </level>
   <level type="table">
-    <text><span style="font-weight: bold; ">Offense: 		Specified in -
-</span>Theft of property valued in excess
-of $250 .......................... 		section 111 [D.C. Official Code,
- 		 § 22-3211].
-Unauthorized use of vehicles ..... 		section 115 [D.C. Official Code,
- 		 § 22-3215].</text>
+    <text>Offense: Specified in -
+Theft of property valued in excess
+of $250 section 111 [D.C. Official Code,
+ § 22-3211].
+Unauthorized use of vehicles ..... section 115 [D.C. Official Code,
+ § 22-3215].</text>
   </level>
   <level>
     <num>(E)</num>
     <text>The following offenses specified in the Illegal Dumping Enforcement Act of 1994 [Chapter 9 of Title 8], and listed in the following table:</text>
   </level>
   <level type="table">
-    <text><span style="font-weight: bold; ">Offense: 		Specified in -</span>
+    <text>Offense: Specified in -
 Unauthorized Disposal of Solid
-Waste ............................. Section 3.[D.C. Official Code, § 8-902]
-(F) The following offenses specified in section 113.7 of Title 12A of the District of Columbia Municipal Regulations (12A DCMR § 113.7).</text>
-    <text><span style="font-weight: bold; ">Offense: 		Specified in</span>
-Illegal construction ............. 		section 113.7 (12A DCMR § 113.7)</text>
+Waste Section 3. [D.C. Official Code, § 8-902]</text>
+  </level>
+  <level>
+    <num>(F)</num>
+    <text>The following offenses specified in section 113.7 of Title 12A of the District of Columbia Municipal Regulations (12A DCMR § 113.7).</text>
+  </level>
+  <level type="table">
+    <text>Offense: Specified in
+Illegal construction ............. section 113.7 (12A DCMR § 113.7)</text>
   </level>
   <level>
     <num>(3)</num>
     <text>The offenses which are referred to in paragraph (1)(D) of this section are the following offenses specified in the District of Columbia Traffic Act of 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.01 et seq.), and listed in the following table:</text>
   </level>
   <level type="table">
-    <text><span style="font-weight: bold; ">Offense: 		Specified in -</span>
-Reckless driving ................. 		section 9(b) (D.C. Official Code
- 		 § 50-2201.04(b))
+    <text>Offense: Specified in -
+Aggravated reckless driving ...... section 9(b-1) (D.C. Official Code
+ § 50-2201.04(b-1))
 Fleeing from the scene of an
-accident ......................... section 10(a) (D.C. Official Code
- 		 § 50-2201.05(a))
+accident section 10(a) (D.C. Official Code
+ § 50-2201.05(a))
 Operating or physically
 controlling a vehicle when under
 the influence of intoxicating
@@ -109,12 +105,12 @@ intoxicating liquor, or when the
 operator's blood, breath, or urine
 contains the amount of alcohol
 which is prohibited by section
-10(b) ............................ section 10(b) (D.C. Official Code
- 		 § 50-2201.05(b))</text>
-    <text>Operating a motor vehicle when the
+10(b) section 10(b) (D.C. Official Code
+ § 50-2201.05(b))
+Operating a motor vehicle when the
 operator's permit is revoked or
-suspended ........................ 	section 13(e) (D.C. Official Code
- 		 § 50-1403.01(e)).</text>
+suspended section 13(e) (D.C. Official Code
+ § 50-1403.01(e)).</text>
   </level>
   <level>
     <num>(a-1)</num>
@@ -210,6 +206,8 @@ suspended ........................ 	section 13(e) (D.C. Official Code
       <text>For temporary (90 day) amendment of section, see § 3 of GPS Anti-Tampering Emergency Act of 2008 (D.C. Act 17-650, January 6, 2009, 56 DCR 909).</text>
       <text>For temporary (90 day) addition, see § 2 of GPS Anti-Tampering Congressional Review Emergency Act of 2009 (D.C. Act 18-41, April 7, 2009, 56 DCR 2674).</text>
       <text>For temporary amendment of (a-7) and addition of (a-8) and (a-9), see § 202 of the Omnibus Criminal Code Amendments Emergency Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013, 60 DCR 1017).</text>
+      <text>For temporary (90 days) amendment of this section, see § 202 of the Omnibus Criminal Code Amendment Congressional Review Emergency Act of 2013 (D.C. Act 20-44, April 1, 2013, 60 DCR 5381, 20 DCSTAT 1281).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5 of the Reckless Driving Emergency Act of 2013 (D.C. Act 20-75, May 23, 2013, 60 DCR 7597, 20 DCSTAT 1428).</text>
     </level>
     <level>
       <heading>Legislative History of Law 4-164</heading>

@@ -21,11 +21,36 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>No more than 5 dispensaries shall be registered to operate in the District; provided, that the Mayor may increase the number to as many as 8 by rulemaking to ensure that qualifying patients have adequate access to medical marijuana.</text>
+      <level>
+        <num>(A)</num>
+        <text>No more than 5 dispensaries shall be registered to operate in the District; provided, that the Mayor may increase the number to as many as 8 by rulemaking to ensure that qualifying patients have adequate access to medical marijuana; provided further, that no more than 2 dispensaries shall be registered to operate within an election ward established by the Council in § 1-1041.03.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The prohibition of no more than 2 dispensaries being registered to operate within an election ward set forth in subparagraph (A) of this paragraph shall apply to applications pending as of Dec. 13, 2013.</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <level>
+          <num>(i)</num>
+          <text>No more than one dispensary may be registered to operate in any election ward in which 5 or more cultivation centers have been registered to operate.</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>The prohibition of no more than one dispensary being registered to operate within an election ward in which 5 or more cultivation centers have been registered to operate set forth in sub-subparagraph (i) of this subparagraph shall apply to applications pending as of Dec. 13, 2013.</text>
+        </level>
+      </level>
     </level>
     <level>
       <num>(3)</num>
-      <text>The number of cultivation centers that may be registered to operate in the District shall be determined by rulemaking.</text>
+      <level>
+        <num>(A)</num>
+        <text>The number of cultivation centers that may be registered to operate in the District shall be determined by rulemaking; provided, that no more than 6 cultivation centers shall be registered to operate within an election ward established by the Council in § 1-1041.03.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The prohibition of no more than 6 cultivation centers being registered to operate within an election ward set forth in subparagraph (A) of this paragraph shall apply to applications pending as of Dec. 13, 2013.</text>
+      </level>
     </level>
   </level>
   <level>
@@ -50,6 +75,17 @@
   <level>
     <num>(g)</num>
     <text>A dispensary or cultivation center shall not locate within any residential district or within 300 feet of a preschool, primary or secondary school, or recreation center.</text>
+  </level>
+  <level>
+    <num>(g-1)</num>
+    <level>
+      <num>(1)</num>
+      <text>A cultivation center shall not be located within a Retail Priority Area, as designated pursuant to § 2-1217.73, and as approved by the Council pursuant to the Great Streets Neighborhood Retail Priority Areas Approval Resolution of 2007, effective July 10, 2007 (Res. 17-257; 54 DCR 7194).</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Any applicant that had an application pending as of June 20, 2012, for a registration to operate a cultivation center within a Retail Priority Area as identified in paragraph (1) of this subsection, shall be allowed to modify the application within 180 days of May 1, 2013, without negatively affecting the current status of the application.</text>
+    </level>
   </level>
   <level>
     <num>(h)</num>
@@ -90,7 +126,11 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Feb. 25, 2010, D.C. Law 13-315, § 7, as added July 27, 2010, D.C. Law 18-210, § 2, 57 DCR 4798.)</text>
+      <text>(Feb. 25, 2010, D.C. Law 13-315, § 7, as added July 27, 2010, D.C. Law 18-210, § 2, 57 DCR 4798; Dec. 13, 2013, D.C. Law 20-59, § 2, 60 DCR 15484.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 20-59 rewrote (d); and added (g-1).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -106,15 +146,24 @@
       <text>"(g-1)(1) A cultivation center shall not be located within a Retail Priority Area, as designated pursuant to section 4 of the Retail Incentive Act of 2004, effective September 8, 2004 (D.C. Law 15-185; D.C. Official Code § 2-1217.73), and as approved by the Council pursuant to the Great Streets Neighborhood Retail Priority Areas Approval Resolution of 2007, effective July 10, 2007 (Res. 17-025; 54 DCR 7194).</text>
       <text>"(2) Any applicant with a pending application for a registration to operate a cultivation center within a Retail Priority Area as identified in paragraph (1) of this subsection shall be allowed to modify the application within 180 days of the effective date of the Medical Marijuana Cultivation Center Emergency Amendment Act of 2012, effective April 7, 2012 (D.C. Act 19-339; 59 DCR 2784), without negatively affecting the current status of the application. "(3) The prohibition set forth in paragraph (1) of this subsection shall apply only to applications pending as of the effective date of the Medical Marijuana Cultivation Center Emergency Amendment Act of 2012, effective April 7, 2012 (D.C. Act 19-339; 59 DCR 2784)."</text>
       <text>Section 4(b) of D.C. Law 19-146 provided that the act shall expire after 225 days of its having taken effect.</text>
+      <text>For temporary (225 days) amendment of this section, see § 2 of the Medical Marijuana Cultivation Center Temporary Amendment Act of 2013 (D.C. Law 20-1, May 1, 2013, 60 DCR 3962, 20 DCSTAT 1262).</text>
+      <text>For temporary (225 days) amendment of this section, see § 2 of the Medical Marijuana Cultivation Center and Dispensary Location Restriction Temporary Amendment Act of 2013 (D.C. Law 20-2, May 18, 2013, 60 DCR 4620, 20 DCSTAT 1264).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 day) amendment of section, see § 2 of Medical Marijuana Cultivation Center and Dispensary Locations Emergency Amendment Act of 2012 (D.C. Act 19-299, January 31, 2012, 59 DCR 902).</text>
       <text>For temporary (90 day) amendment of section, see § 2 of Medical Marijuana Cultivation Center Emergency Amendment Act of 2012 (D.C. Act 19-339, April 7, 2012, 59 DCR 2784).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2 of the Medical Marijuana Cultivation Center Emergency Amendment Act of 2013 (D.C. Act 20-4, January 29, 2013, 60 DCR 2790, 20 DCSTAT 438).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2 of the Medical Marijuana Cultivation Center and Dispensary Location Restriction Emergency Act of 2013 (D.C. Act 20-18, March 1, 2013, 60 DCR 3972, 20 DCSTAT 474).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2 of the Medical Marijuana Cultivation Center Congressional Review Emergency Act of 2013 (D.C. Act 20-61, April 27, 2013, 60 DCR 6401, 20 DCSTAT 1408).</text>
     </level>
     <level>
       <heading>Legislative History of Law 18-210</heading>
       <text>For Law 18-210, see notes following § 7-1671.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-59</heading>
+      <text>Law 20-59, the "Medical Marijuana Cultivation Center Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-128. The Bill was adopted on first and second readings on July 10, 2013, and October 1, 2013, respectively. Returned without the Mayor's signature on October 21, 2013, it was assigned Act No. 20-206 and transmitted to Congress for its review. D.C. Law 20-59 became effective on December 13, 2013.</text>
     </level>
   </level>
 </level>

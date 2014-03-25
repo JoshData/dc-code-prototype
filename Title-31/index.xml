@@ -80,6 +80,7 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-38/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-38A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-38B/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-38C/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>

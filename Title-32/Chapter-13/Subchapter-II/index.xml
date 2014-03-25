@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Construction Services Workplace Fraud</heading>
+  <heading>Workplace Fraud</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1331.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1331.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1331.03.xml"/>
@@ -13,8 +13,8 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1331.09.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1331.10.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1331.11.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1331.12.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1331.13.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1331.14.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1331.15.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1331.12.xml"/>
 </level>

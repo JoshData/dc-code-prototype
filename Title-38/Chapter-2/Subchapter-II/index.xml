@@ -2,8 +2,6 @@
   <prefix>Subchapter</prefix>
   <num>II</num>
   <heading>Expulsion of Students</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-231.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-232.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-233.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-234.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-A/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-B/index.xml"/>
 </level>

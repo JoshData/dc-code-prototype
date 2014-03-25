@@ -9,6 +9,10 @@
       <text>In the case of a contribution in support of a candidate for Mayor or for the recall of the Mayor, $2,000;</text>
     </level>
     <level>
+      <num>(1A)</num>
+      <text>In the case of a contribution in support of a candidate for Attorney General or for the recall of the Attorney General, $1,500;</text>
+    </level>
+    <level>
       <num>(2)</num>
       <text>In the case of a contribution in support of a candidate for Chairman of the Council or for the recall of the Chairman of the Council, $1,500;</text>
     </level>
@@ -33,7 +37,7 @@
     <num>(b)</num>
     <level>
       <num>(1)</num>
-      <text>No person shall make any contribution in any one election for Mayor, Chairman of the Council, each member of the Council, and each member of the State Board of Education (including primary and general elections, but excluding special elections), which when combined with all other contributions made by that person in that election to candidates and political committees exceeds $8,500.</text>
+      <text>No person shall make any contribution in any one election for Chairman of the Council, each member of the Council, Mayor, Attorney General, and each member of the State Board of Education (including primary and general elections, but excluding special elections), which when combined with all other contributions made by that person in that election to candidates and political committees exceeds $8,500.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -52,7 +56,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>For the purposes of this subsection, the term "political committee" does not include an individual.</text>
+      <text>For the purposes of this subsection, the term "political committee " does not include an individual.</text>
     </level>
   </level>
   <level>
@@ -80,20 +84,36 @@
   </level>
   <level>
     <num>(i)</num>
-    <text>No contributions made to support or oppose initiative or referendum measures shall be affected by the provisions of this section.</text>
+    <text>For the purposes of this subsection, the term "immediate family" means the candidate's spouse, parent, brother, sister, or child, and the spouse of a candidate's parent, brother, sister, or child.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 27, 2012, D.C. Law 19-124, § 333, 59 DCR 1862.)</text>
+      <text>(Apr. 27, 2012, D.C. Law 19-124, § 333, 59 DCR 1862; Dec. 13, 2013, D.C. Law 20-60, § 302(d), 60 DCR 15487.)</text>
     </level>
     <level>
       <heading>Section References</heading>
       <text>This section is referenced in § 1-1162.31, § 1-1163.20, and § 1-1163.38.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 20-60 added (a)(1A); and substituted "for Chairman of the Council, each member of the Council, Mayor, Attorney General" for "for Mayor, Chairman of the Council, each member of the Council" in (b)(1).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 3(d) of the Election Code Conforming Emergency Act of 2013 (D.C. Act 20-143, July 31, 2013, 60 DCR 11799, 20 DCSTAT 1990).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 19-124</heading>
       <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-60</heading>
+      <text>See note to § 1-1162.26.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-60: Section 401(b) of 20-60 provided that § 302 of the act shall apply as of December 13, 2013.</text>
     </level>
   </level>
 </level>

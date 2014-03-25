@@ -1,0 +1,9 @@
+<level type="toc">
+  <prefix>Subpart</prefix>
+  <num>1</num>
+  <heading>Creation of the Council</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-204.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-204.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-204.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-204.04.xml"/>
+</level>

@@ -12,29 +12,94 @@
   <level>
     <num>(c)</num>
     <text>The standards of assistance are set forth in the following table and include a portion of basic costs of food, clothing, shelter, household and personal items, and certain transportation costs:</text>
-  </level>
-  <level type="table">
-    <text> STANDARDS OF ASSISTANCE
-Family Standard of Payment Size Assistance Level
-1 $ 450.00 $ 239.00
-2 560.00 298.00
-3 712.00 379.00
-4 870.00 463.00
-5 1,002.00 533.00
-6 1,178.00 627.00
-7 1,352.00 719.00
-8 1,494.00 795.00
-9 1,642.00 874.00
-10 1,786.00 950.00
-11 1,884.00 1,002.00
-12 2,024.00 1,077.00
-13 2,116.00 1,126.00
-14 2,232.00 1,187.00
-15 2,316.00 1,232.00
-16 2,432.00 1,294.00
-17 2,668.00 1,419.00
-18 2,730.00 1,452.00
-19 2,786.00 1,482.00</text>
+    <level type="form">
+      <text/>
+      <text class="centered"> STANDARDS OF ASSISTANCE</text>
+      <text>
+
+ 
+ Family Standard of  Payment 
+
+
+ 
+ Size Assistance Level 
+
+
+ 
+ 1 $ 450.00 $ 239.00 
+
+
+ 
+ 2 560.00 298.00 
+
+
+ 
+ 3 712.00 379.00 
+
+
+ 
+ 4 870.00 463.00 
+
+
+ 
+ 5 1,002.00 533.00 
+
+
+ 
+ 6 1,178.00 627.00 
+
+
+ 
+ 7 1,352.00 719.00 
+
+
+ 
+ 8 1,494.00 795.00 
+
+
+ 
+ 9 1,642.00 874.00 
+
+
+ 
+ 10 1,786.00 950.00 
+
+
+ 
+ 11 1,884.00 1,002.00 
+
+
+ 
+ 12 2,024.00 1,077.00 
+
+
+ 
+ 13 2,116.00 1,126.00 
+
+
+ 
+ 14 2,232.00 1,187.00 
+
+
+ 
+ 15 2,316.00 1,232.00 
+
+
+ 
+ 16 2,432.00 1,294.00 
+
+
+ 
+ 17 2,668.00 1,419.00 
+
+
+ 
+ 18 2,730.00 1,452.00 
+
+
+ 
+ 19 2,786.00 1,482.00</text>
+    </level>
   </level>
   <level>
     <num>(c-1)</num>
@@ -109,6 +174,7 @@ Family Standard of Payment Size Assistance Level
       <text>"(2) For fiscal year 2014, a reduction of 41.7% of the amount established by paragraph (1) of this subsection; and</text>
       <text>"(3) For fiscal year 2015 and thereafter, no benefits shall be provided."</text>
       <text>Section 4(b) of D.C. Law 19-221 provided that the act shall expire after 225 days of its having taken effect.</text>
+      <text>For temporary (225 days) amendment of this section, see § 2 of the Temporary Assistance for Needy Families Time Extension Temporary Amendment Act of 2013 (D.C. Law 20-7, June 22, 2013, 60 DCR 6397, 20 DCSTAT 1275).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -131,6 +197,8 @@ Family Standard of Payment Size Assistance Level
       <text>For temporary (90 day) amendment of section, see § 522(c) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011, 58 DCR 662).</text>
       <text>For temporary amendment of (c-3), see § 2 of the Temporary Assistance for Needy Families Time Delay Emergency Amendment Act of 2012 (D.C. Act 19-450, September 20, 2012, 59 DCR 11093).</text>
       <text>For temporary amendment of (c-3), see § 2 of the Temporary Assistance for Needy Families Time Delay Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-570, December 20, 2012, 60 DCR 95.</text>
+      <text>For temporary (90 days) amendment of this section, see § 2 of the Temporary Assistance for Needy Families Time Extension Emergency Act of 2013 (D.C. Act 20-26, March 14, 2013, 60 DCR 4614, 20 DCSTAT 489).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2 of the Temporary Assistance for Needy Families Time Extension Congressional Review Emergency Act of 2013 (D.C. Act 20-86, June 19, 2013, 60 DCR 9540, 20 DCSTAT 1445).</text>
     </level>
     <level>
       <heading>Legislative History of Law 4-101</heading>

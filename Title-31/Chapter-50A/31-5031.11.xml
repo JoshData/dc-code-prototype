@@ -6,7 +6,7 @@
     <text>Without the prior written approval of the Commissioner, a domestic title insurer shall not accept:</text>
     <level>
       <num>(1)</num>
-      <text>Additional business from a title insurance agent that is not an affiliated company with the insurer if, when added to other business written through the title insurance agent during the same calendar year, that agent's aggregate premiums written on behalf of the title insurer will exceed 20% of the title insurer's gross premiums written during the prior calendar year, as shown on the title insurer's most recent annual statement on file with the Commissioner; or</text>
+      <text>Additional business from a title insurance producer that is not an affiliated company with the insurer if, when added to other business written through the title insurance producer during the same calendar year, that producer's aggregate premiums written on behalf of the title insurer will exceed 20% of the title insurer's gross premiums written during the prior calendar year, as shown on the title insurer's most recent annual statement on file with the Commissioner; or</text>
     </level>
     <level>
       <num>(2)</num>
@@ -37,15 +37,15 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>Reinsurance arrangements mitigating the concentration of business from the agent or source;</text>
+      <text>Reinsurance arrangements mitigating the concentration of business from the producer or source;</text>
     </level>
     <level>
       <num>(5)</num>
-      <text>The comparative profitability of the agent's or source's book of business;</text>
+      <text>The comparative profitability of the producer's or source's book of business;</text>
     </level>
     <level>
       <num>(6)</num>
-      <text>The degree of oversight of the agent's operations exercised by the title insurer; and</text>
+      <text>The degree of oversight of the producer's operations exercised by the title insurer; and</text>
     </level>
     <level>
       <num>(7)</num>
@@ -55,7 +55,11 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Sept. 24, 2010, D.C. Law 18-223, § 2152, 57 DCR 6242.)</text>
+      <text>(Sept. 24, 2010, D.C. Law 18-223, § 2152, 57 DCR 6242; Nov. 5, 2013, D.C. Law 20-40, § 5(d), 60 DCR 12304.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 20-40 substituted "producer" for "agent" and substituted "producer's" for "agent's" throughout the section.</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -64,6 +68,10 @@
     <level>
       <heading>Legislative History of Law 18-223</heading>
       <text>For Law 18-223, see notes following § 31-5031.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-40</heading>
+      <text>See note to § 31-5031.01.</text>
     </level>
   </level>
 </level>

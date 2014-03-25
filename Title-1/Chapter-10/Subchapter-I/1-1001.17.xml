@@ -119,7 +119,7 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>That the circulator of the recall petition is a registered elector of the electoral jurisdiction of the officer sought to be recalled; and</text>
+      <text>That the circulator of the recall petition was a qualified petition circulator at the time of circulation; and</text>
     </level>
     <level>
       <num>(6)</num>
@@ -170,7 +170,7 @@
     </level>
     <level>
       <num>(6)</num>
-      <text>The petition was circulated by persons who, if the officer sought to be recalled was elected at-large, were not qualified registered electors of the District of Columbia or if the officer sought to be recalled was elected from a ward, qualified registered electors of that ward, or if the officer sought to be recalled was elected from an Advisory Neighborhood Commission SMD, qualified registered electors of that SMD.</text>
+      <text>The petition was circulated by persons who were not qualified petition circulators at the time of circulation.</text>
     </level>
   </level>
   <level>
@@ -225,18 +225,23 @@
   <level>
     <num>(m)</num>
     <text>The Board shall place the recall measure on the ballot in substantially the following form:</text>
-  </level>
-  <level type="form">
-    <text> FOR the recall of (insert the name of the elected officer and the office 
+    <level type="form">
+      <text/>
+      <text>
+ FOR the recall of (insert the name of the elected officer and the office 
  held) .......................................................................
  AGAINST the recall of (insert the name of the elected officer and the office 
- held) .......................................................................</text>
+held) ........................................................................</text>
+    </level>
   </level>
-  <text> (n) Based on the results of the special election held to decide the outcome of the recall measure, the elected officer sought to be recalled shall be removed from that office: Provided, that a majority of the qualified electors voting in the recall election vote to remove him or her. The vacancy, as created by the removal, shall be filled in the same manner as other vacancies, as provided in §§ 1-204.01(b)(3) and (d), 1-204.21(c)(2), 1-309.06(d), and 1-1001.10.</text>
+  <level>
+    <num>(n)</num>
+    <text>Based on the results of the special election held to decide the outcome of the recall measure, the elected officer sought to be recalled shall be removed from that office: Provided, that a majority of the qualified electors voting in the recall election vote to remove him or her. The vacancy, as created by the removal, shall be filled in the same manner as other vacancies, as provided in §§ 1-204.01(b)(3) and (d), 1-204.21(c)(2), 1-309.06(d), and 1-1001.10.</text>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Aug. 12, 1955, 69 Stat. 704, ch. 862, § 17, as added June 7, 1979, D.C. Law 3-1, § 2(d), 25 DCR 9454; Mar. 16, 1982, D.C. Law 4-88, § 2(l), (n)-(q), (s), 29 DCR 458; Mar. 16, 1988, D.C. Law 7-92, § 3(o), 35 DCR 716; Mar. 6, 1991, D.C. Law 8-203, § 2, 37 DCR 8420; Mar. 11, 1992, D.C. Law 9-75, § 2(f), 39 DCR 310; Sept. 22, 1994, D.C. Law 10-173, § 2(h), (i), 41 DCR 5154; Apr. 18, 1996, D.C. Law 11-110, § 5(b), 43 DCR 530; Apr. 9, 1997, D.C. Law 11-255, § 6(b), 44 DCR 1271; June 27, 2000, D.C. Law 13-135, § 6, 47 DCR 2741; Feb. 4, 2010, D.C. Law 18-103, § 2(j), 56 DCR 9169; Apr. 27, 2012, D.C. Law 19-124, § 501(g)(7), 59 DCR 1862.)</text>
+      <text>(Aug. 12, 1955, 69 Stat. 704, ch. 862, § 17, as added June 7, 1979, D.C. Law 3-1, § 2(d), 25 DCR 9454; Mar. 16, 1982, D.C. Law 4-88, § 2(l), (n)-(q), (s), 29 DCR 458; Mar. 16, 1988, D.C. Law 7-92, § 3(o), 35 DCR 716; Mar. 6, 1991, D.C. Law 8-203, § 2, 37 DCR 8420; Mar. 11, 1992, D.C. Law 9-75, § 2(f), 39 DCR 310; Sept. 22, 1994, D.C. Law 10-173, § 2(h), (i), 41 DCR 5154; Apr. 18, 1996, D.C. Law 11-110, § 5(b), 43 DCR 530; Apr. 9, 1997, D.C. Law 11-255, § 6(b), 44 DCR 1271; June 27, 2000, D.C. Law 13-135, § 6, 47 DCR 2741; Feb. 4, 2010, D.C. Law 18-103, § 2(j), 56 DCR 9169; Apr. 27, 2012, D.C. Law 19-124, § 501(g)(7), 59 DCR 1862; Oct. 17, 2013, D.C. Law 20-31, § 2(d), 60 DCR 11535.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -258,6 +263,7 @@
       <text>"A recall petition for an elected officer from a single-member district shall include the valid signatures of 10% of the registered qualified electors of the single-member district from which the officer was elected. The 10% shall be computed from the total number of registered qualified electors from the single-member district in accordance with the same procedures established in paragraph (1) of this subsection."</text>
       <text>D.C. Law 18-103 rewrote subsec. (g), which had read as follows: "(g) The proposer of a recall shall have 180 days, or, in the case of a proposed recall of an Advisory Neighborhood Commissioner, 60 days, beginning on the date when the elected officer has filed with the Board his or her response to the proposer's notice of intention to recall pursuant to subsection (d)(2) of this section, to circulate the recall petition and file such petition with the Board. If the elected officer sought to be recalled files no response to the notice of intention to recall, the time limitation shall begin on the deadline date for a response established in subsection (d)(2) of this section."</text>
       <text>D.C. Law 19-124, in subsec. (i)(1), substituted "§§ 1-1163.07 and 1-1163.09" for "§§ 1-1102.04 and 1-1102.06".</text>
+      <text>The 2013 amendment by D.C. Law 20-31 substituted "was a qualified petition circulator at the time of circulation; and" for "is a registered elector of the electoral jurisdiction of the officer sought to be recalled; and" in (f)(5); and rewrote (i)(6), which read: "The petition was circulated by persons who, if the officer sought to be recalled was elected at-large, were not qualified registered electors of the District of Columbia or if the officer sought to be recalled was elected from a ward, qualified registered electors of that ward, or if the officer sought to be recalled was elected from an Advisory Neighborhood Commission SMD, qualified registered electors of that SMD."</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -308,6 +314,10 @@
     <level>
       <heading>Legislative History of Law 19-124</heading>
       <text>For history of Law 19-124, see notes under § 1-122.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-31</heading>
+      <text>See note to § 1-1001.02.</text>
     </level>
   </level>
 </level>

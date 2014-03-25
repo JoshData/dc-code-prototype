@@ -2,10 +2,6 @@
   <prefix>Chapter</prefix>
   <num>1</num>
   <heading>Merchant's Civil Recovery for Criminal Conduct</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="27-101.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="27-102.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="27-103.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="27-104.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="27-105.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="27-106.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
 </level>

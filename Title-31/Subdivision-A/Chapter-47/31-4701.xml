@@ -192,9 +192,13 @@
       <num>(1)</num>
       <text>The calendar year statutory valuation interest rates shall be the interest rates used to determine the minimum standard for valuing the following:</text>
       <level type="form">
-        <text>
- (A) Life insurance benefits under § 31-4705.02 and issued no earlier than the operative date for policies under § 31-4705.02(e). 
- 
+        <text/>
+      </level>
+      <level>
+        <num>(A)</num>
+        <text>Life insurance benefits under § 31-4705.02 and issued no earlier than the operative date for policies under § 31-4705.02(e).</text>
+        <level type="form">
+          <text> 
  (B) All annuities and pure endowments purchased under group annuity and pure endowments contracts after December 31, 1983. 
  
  (C) Except as provided in subparagraphs (A) and (B) of this paragraph, all life insurance benefits, individual annuity contracts, and pure endowment contracts issued after December 31, 1983. 
@@ -204,7 +208,8 @@
  (2) The calendar year statutory valuation interest rates shall be determined according to the equations described in this paragraph, and the results from the equations shall be rounded to the nearest 1/4%. 
  
  (A) For life insurance, the equation for determining the calendar year statutory valuation interest rates is the following:</text>
-        <text class="centered"> I = .03 + W (R - .03) + w/2 (R2 - .09).</text>
+          <text class="centered"> I = .03 + W (R - .03) + <span style="font-style: italic; ">w</span>/2 (R2 - .09).</text>
+        </level>
       </level>
       <level>
         <num>(B)</num>
@@ -212,9 +217,9 @@
         <level type="form">
           <text/>
           <text class="centered"> I = .03 + W (R - .03)</text>
-          <text> where R/1 is the lesser of R and .09, 
+          <text> where <span style="font-style: italic; ">R</span>/1 is the lesser of R and .09, 
  
- R/2 is the greater of R and .09, 
+ <span style="font-style: italic; ">R</span>/2 is the greater of R and .09, 
  
  R is the reference interest rate described in paragraph (4) of this subsection, 
  
@@ -309,9 +314,10 @@ More than 20: .45 .35 .35.</text>
   </level>
   <level>
     <num>(v)</num>
-    <text>Where cash settlement options apply to annuities and guaranteed interest contracts, the guarantee duration is the number of years that the contract guarantees interest rates in excess of the calendar year statutory valuation interest rate for life insurance policies with guarantee duration in excess of 20 years. </text>
+    <text>Where cash settlement options apply to annuities and guaranteed interest contracts, the guarantee duration is the number of years that the contract guarantees interest rates in excess of the calendar year statutory valuation interest rate for life insurance policies with guarantee duration in excess of 20 years. § 31-4720, the reserves held under the plan shall:</text>
     <level type="form">
-      <text>  (vi) Where no cash settlement options apply to annuities or guaranteed interest contracts, the guarantee duration is the number of years from the issuance or the purchase date that the policy has scheduled the annuity benefits to begin. 
+      <text> 
+ (vi) Where no cash settlement options apply to annuities or guaranteed interest contracts, the guarantee duration is the number of years from the issuance or the purchase date that the policy has scheduled the annuity benefits to begin. 
  
  (D) (i) A company may elect to value guaranteed interest contracts with cash settlement options and annuities with cash settlement options on either an issue year basis or on a change in fund basis. 
  
@@ -339,8 +345,7 @@ More than 20: .45 .35 .35.</text>
  
  (B) If the National Association of Insurance Commissioners determines that Moody's Investors Service, Inc., is no longer an appropriate source for the reference rate, then an alternative method shall be adopted by the National Association of Insurance Commissioners and approved by the Commissioner. 
  
- (e) For life insurance plans which require the company to fix future premium determination according to the then present estimates of future experience, and for life insurance plans or annuities with minimum reserves that cannot be determined by the methods described in subsection (c)(5) and (6) of this section and in § 31-4720, the reserves held under the plan shall: 
- 
+ (e) For life insurance plans which require the company to fix future premium determination according to the then present estimates of future experience, and for life insurance plans or annuities with minimum reserves that cannot be determined by the methods described in subsection (c)(5) and (6) of this section and in  
  (1) Be appropriated in relation to the benefits and the pattern of premiums for the plan. 
  
  (2) Be computed by a method consistent with the principles of the Standard Valuation Law and according to regulations promulgated by the Commissioner.</text>

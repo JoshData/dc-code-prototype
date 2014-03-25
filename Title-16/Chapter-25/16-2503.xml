@@ -1,16 +1,42 @@
 <level type="section">
   <num>16-2503</num>
   <heading>Decree.</heading>
-  <text>On proof of the notice prescribed by section 16-2502, and upon a showing that the court deems satisfactory, the court may change the name of the applicant according to the prayer of the application.</text>
+  <level>
+    <num>(a)</num>
+    <text>Upon a showing that the court deems satisfactory, the court may change the name of the applicant according to the prayer of the application.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <level>
+      <num>(1)</num>
+      <text>Any District resident may seek a declaration by the Superior Court reflecting a change of gender. The Superior Court shall grant the declaration if the individual seeking the declaration provides, to the court, a statement from the individual's healthcare provider as described in § 7-210.01(a)(2). If granted, the declaration shall be effective from the date of gender transition as specified in the healthcare provider's statement.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Any District resident who was born in a state or foreign jurisdiction that requires a court order to amend a birth certificate to reflect a change in gender may request a court order by the Superior Court directing the birth state or foreign jurisdiction to amend the original birth certificate or issue a new birth certificate reflecting a change of gender. The Superior Court shall grant the order if the individual seeking the order provides, to the court, a statement from the individual's healthcare provider as described in § 7-210.01(a)(2).</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Any declaration or order issued pursuant to subsection (b) this section shall constitute conclusive proof of the individual's gender for all purposes and shall be given the full force and effect of any judgment issued by the Superior Court.</text>
+    </level>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Dec. 23, 1963, 77 Stat. 595, Pub. L. 88-241, § 1.)</text>
+      <text>(Dec. 23, 1963, 77 Stat. 595, Pub. L. 88-241, § 1; Nov. 5, 2013, D.C. Law 20-37, § 3(c), 60 DCR 12145.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
       <text>1981 Ed., § 16-2503.</text>
       <text>1973 Ed., § 16-2503.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 20-37 deleted "On proof of the notice prescribed by section 16-2502, and" from the beginning; added the subsection (a) designation; and added (b).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-37</heading>
+      <text>See note to § 16-2501.</text>
     </level>
   </level>
 </level>

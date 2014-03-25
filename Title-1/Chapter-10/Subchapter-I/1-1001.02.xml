@@ -221,10 +221,22 @@
     <num>(25)</num>
     <text>"Election observers" means persons who witness the administration of elections, including individuals representing nonpartisan domestic and international organizations, including voting rights organizations, civil rights organizations, and civic organizations.</text>
   </level>
+  <level>
+    <num>(26)</num>
+    <text>"Qualified petition circulator" means an individual who is 18 years of age or older and either:</text>
+    <level>
+      <num>(A)</num>
+      <text>A District resident; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>A resident of another jurisdiction who has registered with the Board as a petition circulator and consented to being subject to the subpoena power of the Board and the jurisdiction of the Superior Court of the District of Columbia for the enforcement of subpoenas without respect to the individual's place of residence.</text>
+    </level>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Aug. 12, 1955, 69 Stat. 699, ch. 862, § 2; Oct. 4, 1961, 75 Stat. 820, Pub. L. 87-389, § 1(26); Apr. 22, 1968, 82 Stat. 103, Pub. L. 90-292, § 4(2); Sept. 22, 1970, 84 Stat. 849, Pub. L. 91-405, title II, §§ 203(a), 205(a); Dec. 23, 1971, 85 Stat. 788, Pub. L. 92-220, § 1(2)-(4); Aug. 14, 1973, 87 Stat. 311, Pub. L. 93-92, § 1(1); Dec. 24, 1973, 87 Stat. 832, Pub. L. 93-198, title VII, § 751(2); Aug. 14, 1974, 88 Stat. 458, Pub. L. 93-376, title III, § 306(a); Sept. 2, 1976, D.C. Law 1-79, title I, § 102(1), title VI, § 602, 23 DCR 2050; Apr. 23, 1977, D.C. Law 1-126, title III, § 301(a), (b), 24 DCR 2372; June 7, 1979, D.C. Law 3-1, § 2(a), 25 DCR 9454; Mar. 16, 1982, D.C. Law 4-88, § 2(b), 29 DCR 458; Aug. 2, 1983, D.C. Law 5-17, § 5(a), 30 DCR 3196; Sept. 22, 1994, D.C. Law 10-173, § 2(a), 41 DCR 5154; July 25, 1995, D.C. Law 11-30, § 2(a), 42 DCR 1547; Apr. 12, 2000, D.C. Law 13-91, § 123(a), 47 DCR 520; Dec. 7, 2004, D.C. Law 15-218, § 2(a), 51 DCR 9132; June 25, 2008, D.C. Law 17-177, § 4(a), 55 DCR 3696; Feb. 4, 2010, D.C. Law 18-103, § 2(a), 56 DCR 9169); May 27, 2010, D.C. Law 18-160,§ 131(b), 57 DCR 3012; Apr. 27, 2012, D.C. Law 19-124, § 501(g)(1), 59 DCR 1862.)</text>
+      <text>(Aug. 12, 1955, 69 Stat. 699, ch. 862, § 2; Oct. 4, 1961, 75 Stat. 820, Pub. L. 87-389, § 1(26); Apr. 22, 1968, 82 Stat. 103, Pub. L. 90-292, § 4(2); Sept. 22, 1970, 84 Stat. 849, Pub. L. 91-405, title II, §§ 203(a), 205(a); Dec. 23, 1971, 85 Stat. 788, Pub. L. 92-220, § 1(2)-(4); Aug. 14, 1973, 87 Stat. 311, Pub. L. 93-92, § 1(1); Dec. 24, 1973, 87 Stat. 832, Pub. L. 93-198, title VII, § 751(2); Aug. 14, 1974, 88 Stat. 458, Pub. L. 93-376, title III, § 306(a); Sept. 2, 1976, D.C. Law 1-79, title I, § 102(1), title VI, § 602, 23 DCR 2050; Apr. 23, 1977, D.C. Law 1-126, title III, § 301(a), (b), 24 DCR 2372; June 7, 1979, D.C. Law 3-1, § 2(a), 25 DCR 9454; Mar. 16, 1982, D.C. Law 4-88, § 2(b), 29 DCR 458; Aug. 2, 1983, D.C. Law 5-17, § 5(a), 30 DCR 3196; Sept. 22, 1994, D.C. Law 10-173, § 2(a), 41 DCR 5154; July 25, 1995, D.C. Law 11-30, § 2(a), 42 DCR 1547; Apr. 12, 2000, D.C. Law 13-91, § 123(a), 47 DCR 520; Dec. 7, 2004, D.C. Law 15-218, § 2(a), 51 DCR 9132; June 25, 2008, D.C. Law 17-177, § 4(a), 55 DCR 3696; Feb. 4, 2010, D.C. Law 18-103, § 2(a), 56 DCR 9169); May 27, 2010, D.C. Law 18-160,§ 131(b), 57 DCR 3012; Apr. 27, 2012, D.C. Law 19-124, § 501(g)(1), 59 DCR 1862; Oct. 17, 2013, D.C. Law 20-31, § 2(a), 60 DCR 11535.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -248,6 +260,7 @@
       <text>D.C. Law 18-103 rewrote pars. (2) and (7); and added par. (25).</text>
       <text>D.C. Law 18-160 added par. (9A); and, in par. (13), inserted "the Attorney General,".</text>
       <text>D.C. Law 19-124, in par. (3), substituted "Board of Elections" for "Board of Elections and Ethics"; in par. (7), substituted "§ 1-1162.32 and 1-1163.35" for "§ 1-1105.07 or § 1-1107.01"; and, in par. (15), substituted "§ 1-1161.01(44) for purposes of this subchapter" for "§ 1-1101.01 for purposes of this subchapter".</text>
+      <text>The 2013 amendment by D.C. Law 20-31 added (26).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -312,6 +325,10 @@
     <level>
       <heading>Legislative History of Law 19-124</heading>
       <text>For history of Law 19-124, see notes under § 1-122.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-31</heading>
+      <text>Law 20-31, the "Board of Elections Petition Circulation Requirements Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-245. The Bill was adopted on first and second readings on June 26, 2013, and July 10, 2013, respectively. Signed by the Mayor on July 30, 2013, it was assigned Act No. 20-134 and transmitted to Congress for its review. D.C. Law 20-31 became effective on October 17, 2013.</text>
     </level>
     <level>
       <heading>References in Text</heading>

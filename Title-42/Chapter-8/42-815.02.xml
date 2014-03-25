@@ -13,6 +13,22 @@
       <text>"Commissioner" means the Commissioner of the Department of Insurance, Securities, and Banking.</text>
     </level>
     <level>
+      <num>(2A)</num>
+      <text>"Good faith" means each party in the mediation process actively participates in a manner consistent with the requirements of subsection (e)(1) of this section and those indicators defined by regulations, which may include, as applicable to lenders:</text>
+      <level>
+        <num>(A)</num>
+        <text>A requirement that the lender evaluates the borrower's eligibility for all available loss-mitigation options, and alternatives to foreclosure applicable to the residential mortgage in default, and offers all options for which the borrower is eligible;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>An objective standard for assessing the net present value of receiving modified payments compared to the anticipated net recovery following foreclosure; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>A requirement that if the lender rejects a proposed settlement involving loss-mitigation options or alternatives to foreclosure of that lender, the lender shall provide a written explanation for the rejection of the proposal, which shall include an analysis of the proposal.</text>
+      </level>
+    </level>
+    <level>
       <num>(3)</num>
       <text>"Lender" means a residential mortgage lender. The term "lender" shall include a trustee.</text>
     </level>
@@ -39,6 +55,10 @@
     <level>
       <num>(9)</num>
       <text>"Mediation report" means a summary of the mediation provided by the mediator to the Mediation Administrator on a form prescribed by the Commissioner.</text>
+    </level>
+    <level>
+      <num>(9A)</num>
+      <text>"Mediation services" includes the selection and employment of a mediator, foreclosure mediation training, and supplies and materials relating to the foreclosure mediation program.</text>
     </level>
     <level>
       <num>(10)</num>
@@ -94,12 +114,12 @@
     </level>
     <level>
       <num>(16)</num>
-      <text>"Trustee" means the person holding a lien on real property pursuant to a residential mortgage or the assignee for foreclosure of the residential mortgage.</text>
+      <text>"Trustee" means the beneficiary of a lien on real property pursuant to a residential mortgage or the assignee for foreclosure of the residential mortgage.</text>
     </level>
   </level>
   <level>
     <num>(b)</num>
-    <text>Notwithstanding the provisions of any other law, after a notice of default of a residential mortgage has been given pursuant to § 42-815(b)(1), the lender shall engage in mediation if the borrower elects under subsection (c) of this section. Prior to the foreclosure of any residential mortgage or deed of trust, a lender shall:</text>
+    <text>Notwithstanding the provisions of any other law, after a notice of default of a residential mortgage has been given pursuant to § 42-815(b)(1), the lender shall engage in mediation if the borrower elects under subsection (d) of this section. Prior to the foreclosure of any residential mortgage or deed of trust, a lender shall:</text>
     <level>
       <num>(1)</num>
       <text>Include with the notice of default on a residential mortgage which is mailed to the borrower pursuant to § 42-815(b)(1):</text>
@@ -144,7 +164,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Provide a copy of the notice of default on a residential mortgage to the Mediation Administrator in accordance with the rules issued pursuant to subsection (i) of this section.</text>
+      <text>Provide a copy of the notice of default on a residential mortgage to the Mediation Administrator in accordance with the rules issued pursuant to subsection (j) of this section.</text>
     </level>
   </level>
   <level>
@@ -194,11 +214,11 @@
       </level>
       <level>
         <num>(K)</num>
-        <text>A statement that the borrower has to pay a $50 fee payable to the District to participate in mediation; and</text>
+        <text>A statement that the borrower has to pay a fee as determined by rulemaking payable to the District to participate in mediation; and</text>
       </level>
       <level>
         <num>(L)</num>
-        <text>A statement that mediation will be held 45 days after the date of the mailing of the form required by subsection (b) of this section.</text>
+        <text>A statement that mediation will be held 90 days after the date of the mailing of the form required by subsection (b) of this section.</text>
       </level>
     </level>
     <level>
@@ -218,22 +238,22 @@
     <num>(d)</num>
     <level>
       <num>(1)</num>
-      <text>To participate in mediation, no later than 30 days after the mailing of the notice of default on a residential mortgage and information required by subsection (b) of this section, a borrower shall return the mediation election form and a $50 fee to the Mediation Administrator, and the loss mitigation application to the lender. A borrower shall forfeit the right to mediation if the borrower does not return the mediation election form and the $50 fee to the Mediation Administrator, and the loss mitigation application to the lender, within 30 days after the mailing of the notice of default on a residential mortgage.</text>
+      <text>To participate in mediation, no later than 30 days after the mailing of the notice of default on a residential mortgage and information required by subsection (b) of this section, a borrower shall return the mediation election form and a fee as determined by rulemaking to the Mediation Administrator, and the loss mitigation application to the lender. A borrower shall forfeit the right to mediation if the borrower does not return the mediation election form and the fee as determined by rulemaking to the Mediation Administrator, and the loss mitigation application to the lender, within 30 days after the mailing of the notice of default on a residential mortgage. The requirements in this subsection may be waived by the Mediation Administrator for good cause shown.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>For each borrower electing to participate in mediation, the Mediation Administrator shall schedule a mediation session to commence no later than 45 days after the mailing of the notice of default on a residential mortgage.</text>
+      <text>For each borrower electing to participate in mediation, the Mediation Administrator shall schedule a mediation session to commence no later than 90 days after the mailing of the notice of default on a residential mortgage.</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>If the borrower elects to waive mediation by not paying the $50 fee or by not returning the mediation election form or the loss mitigation application within 30 days after the mailing of the notice of default on a residential mortgage, the Mediation Administrator shall issue a mediation certificate to the lender no earlier than 45 days, but no later than 60 days, after the mailing of the form required by subsection (b) of this section. The power of sale under a mortgage shall not be exercised until the Mediation Administrator has issued a mediation certificate.</text>
+      <text>If the borrower elects to waive mediation by not paying the required fee or by not returning the mediation election form or the loss mitigation application within 30 days after the mailing of the notice of default on a residential mortgage, the Mediation Administrator shall issue a mediation certificate to the lender no earlier than 45 days, but no later than 60 days, after the mailing of the form required by subsection (b) of this section. The power of sale under a mortgage shall not be exercised until the Mediation Administrator has issued a mediation certificate.</text>
     </level>
   </level>
   <level>
     <num>(e)</num>
     <level>
       <num>(1)</num>
-      <text>Each mediation required by this section shall be conducted by a mediator appointed in accordance with rules issued pursuant to subsection (i) of this section. The lender, or a representative, and the borrower, or a representative, shall attend the mediation. The lender, or its representative, shall bring to the mediation the results of its loss mitigation analysis, a true copy of the mortgage, including the mortgage note or agreement, every assignment of the mortgage, evidence proving that the lender has standing to commence foreclosure against the borrower, and any other information required pursuant to the rules issued under subsection (i) of this section. If a representative of the lender, or the borrower, attends the mediation, the representative shall:</text>
+      <text>Each mediation required by this section shall be conducted by a mediator appointed in accordance with rules issued pursuant to subsection (j) of this section. The lender, or a representative, and the borrower, or a representative, shall attend the mediation. The lender, or its representative, shall bring to the mediation the results of its loss mitigation analysis, a true copy of the mortgage, including the mortgage note or agreement, every assignment of the mortgage, evidence proving that the lender has standing to commence foreclosure against the borrower, and any other information required pursuant to the rules issued under subsection (j) of this section. If a representative of the lender, or the borrower, attends the mediation, the representative shall:</text>
       <level>
         <num>(A)</num>
         <text>Have authority to:</text>
@@ -284,7 +304,68 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>If the mediator determines that the parties, while acting in good faith, are not able to agree to a loan modification or to any other options in lieu of foreclosure, no later than 5 days after the mediation session at which the parties were not able to reach an agreement, the mediator shall prepare and submit to the Mediation Administrator, on a form prescribed by the Commissioner, a recommendation that the matter be terminated. After reviewing and considering the mediator's report and any recommendations therein, no later than 5 days after receiving the mediator's report, the Mediation Administrator may issue a mediation certificate to the lender or refer the matter to another mediator.</text>
+      <level>
+        <num>(A)</num>
+        <text>If the mediator determines that the parties are unable to agree to a loan modification or to any other foreclosure alternatives, no later than 10 days after the final mediation session has concluded at which the parties were unable to reach an agreement, the mediator shall prepare and submit to the Mediation Administrator, on a form prescribed by the Commissioner, a recommendation that the matter be concluded. After review and consideration of the mediator's report and any recommendations therein, no later than 10 days after receiving the mediator's report, the Mediation Administrator shall do one of the following:</text>
+        <level>
+          <num>(i)</num>
+          <text>Issue a preliminary mediation certificate on a form prescribed by the Commissioner to the lender; provided, that the lender acted in good faith;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Issue a determination on a form prescribed by the Commissioner that the lender did not act in good faith; or</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Refer the matter to another mediator.</text>
+        </level>
+      </level>
+      <level>
+        <num>(B)</num>
+        <level>
+          <num>(i)</num>
+          <text>The preliminary medication certificate issued pursuant to subparagraph (A)(i) of this paragraph shall serve as a preliminary decision for a 30-day period, after which time, defined in rulemaking, the lender may request, on a form prescribed by the Commissioner, a final mediation certificate from the Mediation Administrator; provided, that no appeal is filed within the 30-day period from the date of issuance.</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>During this 30-day period, the borrower may file an appeal to the Superior Court of the District of Columbia. If a borrower files a timely appeal, the borrower shall concurrently notify the Mediation Administrator by filing a copy of the appeal with the Mediation Administrator.</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Upon expiration of the 30-day appeal period, with no appeal filed by the borrower, the lender may request a final mediation certificate from the Mediation Administrator during the time frame defined in rulemaking.</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>While an appeal is pending, all foreclosure activities shall be stayed until the appeal is resolved.</text>
+        </level>
+        <level>
+          <num>(v)</num>
+          <text>The preliminary mediation certificate shall not be recorded with the Recorder of Deeds.</text>
+        </level>
+        <level>
+          <num>(vi)</num>
+          <text>At the conclusion of the appeal, a Superior Court of the District of Columbia order may be used to request or deny a final mediation certificate.</text>
+        </level>
+      </level>
+      <level>
+        <num>(C)</num>
+        <level>
+          <num>(i)</num>
+          <text>The determination that a lender did not act in good faith issued pursuant to subparagraph (A)(ii) of this paragraph shall not become final until 30 days from its date of issuance.</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>During this 30-day period, the lender may file an appeal with the Superior Court of the District of Columbia.</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>If no appeal is filed within the 30-day period, the determination shall become final and the notice of default shall become null and void.</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>If an appeal is filed, the imposition of any further fines or assessments and collection of any previously assessed fines or assessments shall be stayed until the Superior Court of the District of Columbia issues a final order.</text>
+        </level>
+      </level>
     </level>
     <level>
       <num>(4)</num>
@@ -314,12 +395,12 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Mediation shall be concluded within 90 days of the mailing of the form required by subsection (b) of this section, unless extended for an additional 30 days by the mutual consent of both parties.</text>
+      <text>Mediation shall be concluded within 180 days of the mailing of the form required by subsection (b) of this section, unless extended for an additional 30 days by the mutual consent of both parties.</text>
     </level>
   </level>
   <level>
     <num>(f)</num>
-    <text>The lender shall pay a fee of $300 for each notice of default on a residential mortgage issued. If the power of sale for a property is exercised, the lender may recover the $300 fee from the proceeds of sale if there is any amount remaining after the payment of all amounts due and owing by the borrower on the residential mortgage and the costs of the sale. The lender shall not be permitted to recover mediation fee paid if there is a deficiency upon the sale of the foreclosed property.</text>
+    <text>The lender shall pay a fee as determined by rulemaking for each notice of default on a residential mortgage issued. If the power of sale for a property is exercised, the lender may recover the fee from the proceeds of sale if there is any amount remaining after the payment of all amounts due and owing by the borrower on the residential mortgage and the costs of the sale. The lender shall not be permitted to recover mediation fee paid if there is a deficiency upon the sale of the foreclosed property.</text>
   </level>
   <level>
     <num>(g)</num>
@@ -327,11 +408,27 @@
   </level>
   <level>
     <num>(h)</num>
-    <text>Each foreclosure sale in violation of this act shall be void.</text>
+    <text>Repealed.</text>
+  </level>
+  <level>
+    <num>(h-1)</num>
+    <text>A foreclosure sale of property secured by a residential mortgage shall be void if a lender files a notice of intention to foreclose on a residential mortgage without a final recorded mediation certificate.</text>
+  </level>
+  <level>
+    <num>(h-2)</num>
+    <text>A borrower shall have the same rights to assert claims for a defective notice of default on residential mortgage as the law provides for a defective notice of intention to foreclose on a residential mortgage.</text>
+  </level>
+  <level>
+    <num>(h-3)</num>
+    <text>Except as provided in subsections (h-1) and (h-2) of this section, a final recorded mediation certificate shall serve as conclusive evidence that all other provisions of §§ 42-801 through 42-804 and §§ 42-811 through 42-819 and implementing regulations have been complied with and can be relied upon by a bona fide purchaser and a bona fide purchaser's lender or assignees.</text>
+  </level>
+  <level>
+    <num>(h-4)</num>
+    <text>Nothing in §§ 42-801 through 42-804 and §§ 42-811 through 42-819 shall be construed to limit a borrower's right to assert a claim for fraud or monetary damages against the borrower's lender.</text>
   </level>
   <level>
     <num>(i)</num>
-    <text>Chapter 3A of Title 2 [§ 2-351.01 et seq.], or any successor act, shall not apply to any contract that the Mediation Administrator may enter into with mediators for the performance of mediation services.</text>
+    <text>Chapter 3A of title 2 [§ 2-351.01 et seq.], or any successor law, shall not apply to any contract that the Commissioner, or his or her designee, may enter into for foreclosure prevention or remediation services provided pursuant to §§ 42-801 through 42-804 and §§ 42-811 through 42-819 or the Attorneys' General National Mortgage Settlement Agreement. Payment may be made by direct voucher.</text>
   </level>
   <level>
     <num>(j)</num>
@@ -346,11 +443,15 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Establishing procedures to protect the mediation process from abuse and to ensure that each party to the mediation acts in good faith; and</text>
+      <text>Establishing procedures to protect the mediation process from abuse and to ensure that each party to the mediation acts in good faith;</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>Establishing procedures relating to the appointment of each mediator, the training and qualification requirements for each mediator, and the compensation to be paid to each person serving as a mediator.</text>
+      <text>Establishing procedures relating to the appointment of each mediator, the training and qualification requirements for each mediator, and the compensation to be paid to each person serving as a mediator; and</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Establishing all applicable fees for the mediation program.</text>
     </level>
   </level>
   <level>
@@ -360,15 +461,16 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 3, 1901, 31 Stat. 1274, ch. 854, § 539b, as added Mar. 12, 2011, D.C. Law 18-314, § 2(c), 57 DCR 12404; Sept. 26, 2012, D.C. Law 19-171, §§ 101, 227, 59 DCR 6190.)</text>
+      <text>(Mar. 3, 1901, 31 Stat. 1274, ch. 854, § 539b, as added Mar. 12, 2011, D.C. Law 18-314, § 2(c), 57 DCR 12404; Sept. 26, 2012, D.C. Law 19-171, §§ 101, 227, 59 DCR 6190; Nov. 5, 2013, D.C. Law 20-40, § 2(b), 60 DCR 12304.)</text>
     </level>
     <level>
       <heading>Section References</heading>
-      <text>This section is referenced in § 42-815 and § 42-815.03.</text>
+      <text>This section is referenced in § 42-815 and § 42-815.04.</text>
     </level>
     <level>
       <heading>Effect of Amendments</heading>
       <text>The 2012 amendment by D.C. Law 19-171 validated a previously made technical correction in the subsection designations; and substituted "Chapter 3A of Title 2" for "§ 2-301.01 et seq." in (i).</text>
+      <text>The 2013 amendment by D.C. Law 20-40 rewrote this section.</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -384,6 +486,7 @@
       <text>"(h-3) Except as provided in subsections (h-1) and (h-2) of this section, a mediation certificate shall serve as conclusive evidence that all other provisions of this act and implementing regulations have been complied with and can be relied upon by a bona fide purchaser and a bona fide purchaser's lender or assigns.</text>
       <text>"(h-4) Nothing in this act shall be construed to limit a borrower's right to assert a claim for fraud or monetary damages against the borrower's lender."</text>
       <text>Section 4(b) of D.C. Law 19-173 provided that the act shall expire after 225 days of its having taken effect.</text>
+      <text>For temporary (225 days) amendment of this section, see § 2(b) of the Saving D.C. Homes From Foreclosure Enhanced Temporary Amendment Act of 2013 (D.C. Law 20-15, September 19, 2013, 60 DCR 9559, 20 DCSTAT 1768).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -392,6 +495,8 @@
       <text>For temporary (90 day) amendment of section, see § 2(b) of Saving D.C. Homes from Foreclosure Emergency Amendment Act of 2011 (D.C. Act 19-147, August 9, 2011, 58 DCR 6828).</text>
       <text>For temporary (90 day) amendment of section, see § 2(b) of Saving D.C. Homes from Foreclosure Enhanced Emergency Amendment Act of 2012 (D.C. Act 19-378, June 15, 2012, 59 DCR 7380).</text>
       <text>For temporary amendment of (e) through (i), and addition of (h-1) through (h-4), see § 2(b) of the Saving D.C. Homes from Foreclosure Enhanced Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-493, October 26, 2012, 59 DCR 12722), applicable as of September 13, 2012.</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(b) of the Saving D.C. Homes From Foreclosure Enhanced Emergency Act of 2013 (D.C. Act 20-71, May 16, 2013, 60 DCR 7240, 20 DCSTAT 1419).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(b) of the Saving D.C. Homes From Foreclosure Enhanced Congressional Review Emergency Act of 2013 (D.C. Act 20-117, July 24, 2013, 60 DCR 11112, 20 DCSTAT 1818).</text>
     </level>
     <level>
       <heading>Legislative History of Law 18-314</heading>
@@ -402,8 +507,16 @@
       <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-40</heading>
+      <text>See note to § 42-815.01.</text>
+    </level>
+    <level>
       <heading>References in Text</heading>
       <text>This act, referred to in subsecs. (a)(7) and (h), is the Act of March 3, 1901, Chapter 854.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-40: Section 8 of D.C. Law 20-40 provided that §§ 2 and 3 of the act shall apply as of November 7, 2011.</text>
     </level>
   </level>
 </level>

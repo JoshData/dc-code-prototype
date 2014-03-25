@@ -1,0 +1,9 @@
+<level type="toc">
+  <prefix>Part</prefix>
+  <num>A</num>
+  <heading>General</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-231.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-232.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-233.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-234.xml"/>
+</level>

@@ -29,7 +29,7 @@
  "FILING OFFICE USE ONLY 
  
  "1. DEBTOR'S NAME: Provide only  
- '1a. ORGANIZATION'S NAME 
+ "1a. ORGANIZATION'S NAME 
  
  " .................... 
  
@@ -43,6 +43,7 @@
  "ADDITIONAL NAME(S)/INITIAL(S) THAT ARE PART OF THE 
 NAME OF THIS DEBTOR SUFFIX 
  
+
  "..........................................................................
  
  "1c. MAILING ADDRESS 
@@ -249,7 +250,7 @@ NAME OF THIS DEBTOR SUFFIX
  "17. MISCELLANEOUS: 
  
  " ....................</text>
-      <text class="centered"> [UCC FINANCING STATEMENT ADDENDUM (Form UCC1Ad)].</text>
+      <text class="centered"> [UCC FINANCING STATEMENT ADDENDUM (Form UCC1Ad)]."</text>
     </level>
   </level>
   <level>
@@ -279,7 +280,7 @@ NAME OF THIS DEBTOR SUFFIX
  
  "FILING OFFICE USE ONLY 
  
- "'INITIAL FINANCING STATEMENT FILE NUMBER 
+ "INITIAL FINANCING STATEMENT FILE NUMBER 
  
  " .................... 
  
@@ -289,7 +290,7 @@ NAME OF THIS DEBTOR SUFFIX
  
  "2. [] TERMINATION: Effectiveness of the Financing Statement identified above is terminated with respect to the security interest(s) of 
  
- "'Secured Party authorizing this Termination Statement. 
+ "Secured Party authorizing this Termination Statement. 
  
  "3. [] ASSIGNMENT (full or partial): Provide name of Assignee in item 7a or 7b, and address of Assignee in item 7c and name of Assignor in item 9. For partial assignment, complete items 7 and 9 and also indicate affected collateral in item 8 
  
@@ -303,15 +304,15 @@ NAME OF THIS DEBTOR SUFFIX
  
  "<span style="font-weight: bold; ">AND 
  </span>
- "Check <span style="font-weight: bold; ">one </span> of these three boxes to: 
+ 'Check <span style="font-weight: bold; ">one </span> of these three boxes to: 
  
- "[] CHANGE name and/or address: Complete item 6a or 6b, <span style="font-weight: bold; ">and </span> item 7a or 7b <span style="font-weight: bold; ">and </span> item 7c. 
+ '[] CHANGE name and/or address: Complete item 6a or 6b, <span style="font-weight: bold; ">and </span> item 7a or 7b <span style="font-weight: bold; ">and </span> item 7c. 
  
- "[] ADD name: Complete item 7a or 7b, <span style="font-weight: bold; ">and </span> item 7c. 
+ '[] ADD name: Complete item 7a or 7b, <span style="font-weight: bold; ">and </span> item 7c. 
  
- "[] DELETE name: Give record name to be deleted in item 6a or 6b. 
+ '[] DELETE name: Give record name to be deleted in item 6a or 6b. 
  
- "6. CURRENT RECORD INFORMATION: Complete for Party Information Change - provide only <span style="font-weight: bold; ">one </span> name (6a or 6b) (use exact, full name; do not omit, modify, or abbreviate any word in the Debtor's name) 
+. CURRENT RECORD INFORMATION: Complete for Party Information Change - provide only <span style="font-weight: bold; ">one </span> name (6a or 6b) (use exact, full name; do not omit, modify, or abbreviate any word in the Debtor's name) 
  
  "ORGANIZATION'S NAME 
  
@@ -386,12 +387,12 @@ NAME OF THIS DEBTOR SUFFIX
  "ADDITIONAL NAME(S)/INITIAL(S) SUFFIX 
  
 
- " .................... .................................................
+ " .................... ..................................................
  
  "10. OPTIONAL FILER REFERENCE DATA 
  
 
- ".........................................................................</text>
+ "..........................................................................</text>
       <text class="centered"> [UCC FINANCING STATEMENT AMENDMENT (Form UCC3)]</text>
       <text>
         <span style="font-weight: bold; ">"UCC FINANCING STATEMENT AMENDMENT ADDENDUM</span>
@@ -427,13 +428,13 @@ NAME OF THIS DEBTOR SUFFIX
  
  "13. Name of DEBTOR on related financing statement (Name of a current Debtor of record required for indexing purposes only in some filing offices - see Instruction for item 13; Provide only one Debtor name (13a or 13b) (use exact, full name; do not omit, modify, or abbreviate any part of the Debtor's name; see Instructions if name does not fit) 
  
-"13a. ORGANIZATION'S NAME 
+ "13a. ORGANIZATION'S NAME 
  
 
  ...........................................................................
  OR 
  
-"13b. INDIVIDUAL'S SURNAME FIRST PERSONAL NAME 
+ "13b. INDIVIDUAL'S SURNAME FIRST PERSONAL NAME 
  
  .................... .................... 
  
@@ -442,16 +443,16 @@ NAME OF THIS DEBTOR SUFFIX
 
  .................... ...................................................
  
-"14. ADDITIONAL SPACE FOR ITEM 8 (Collateral) 
+ "14. ADDITIONAL SPACE FOR ITEM 8 (Collateral) 
  
 
  ...........................................................................
  
-"15. This FINANCING STATEMENT AMENDMENT: [] covers timber to be cut 
+ "15. This FINANCING STATEMENT AMENDMENT: [] covers timber to be cut 
  
  "[] covers as-extracted collateral [] is filed as a fixture filing 
  
-"16. Name and address of a RECORD OWNER of real estate described in item 17 (if Debtor does not have a record interest): 
+ "16. Name and address of a RECORD OWNER of real estate described in item 17 (if Debtor does not have a record interest): 
  
 
  ...........................................................................
@@ -465,7 +466,7 @@ NAME OF THIS DEBTOR SUFFIX
  
 
  ...........................................................................</text>
-      <text class="centered"> [UCC FINANCING STATEMENT AMENDMENT ADDENDUM (Form UCC3Ad)].</text>
+      <text class="centered"> [UCC FINANCING STATEMENT AMENDMENT ADDENDUM (Form UCC3Ad)]."</text>
     </level>
   </level>
   <level>
@@ -491,20 +492,7 @@ NAME OF THIS DEBTOR SUFFIX
     </level>
     <level>
       <heading>Editor’s Notes</heading>
-      <text>Applicability of D.C. Law 19-669: Section 4 of D.C. Law 19-669 provided that the act shall apply as of July 1, 2013.</text>
-      <text>Change to Commentary note in STATE if new ntype not yet in place. SNBL: "Safe Harbor" Written Forms.</text>
-      <text>Although Section 9-520 limits the bases upon which the filing office can refuse to accept records, this section provides sample written forms that must be accepted in every filing office in the country, as long as the filing office's rules permit it to accept written communications. By completing one of the forms in this section, a secured party can be certain that the filing office is obligated to accept it.</text>
-      <text>The forms in this section are based upon national financing statement forms that were in use under former Article 9. Those forms were developed over an extended period and reflect the comments and suggestions of filing officers, secured parties and their counsel, and service companies. The formatting of those forms and of the ones in this section has been designed to reduce error by both filers and filing offices.</text>
-      <text>A filing office that accepts written communications may not reject, on grounds of form or format, a filing using these forms. Although filers are not required to use the forms, they are encouraged and can be expected to do so, inasmuch as the forms are well designed and avoid the risk of rejection on the basis of form or format. As their use expands, the forms will rapidly become familiar to both filers and filing-office personnel. Filing offices may and should encourage the use of these forms by declaring them to be the 'standard' (but not exclusive) forms for each jurisdiction, albeit without in any way suggesting that alternative forms are unacceptable.</text>
-      <text>The multi-purpose form in subsection (b) covers changes with respect to the debtor, the secured party, the collateral, and the status of the financing statement (termination and continuation). A single form may be used for several different types of amendments at once (e.g., both to change a debtor's name and continue the effectiveness of the financing statement).</text>
-    </level>
-    <level>
-      <heading>UNIFORM COMMERCIAL CODE COMMENT</heading>
-      <text>1. Source. New.</text>
-      <text>2. "Safe Harbor" Written Forms. Although Section 9-520 limits the bases upon which the filing office can refuse to accept records, this section provides sample written forms that must be accepted in every filing office in the country, as long as the filing office's rules permit it to accept written communications. By completing one of the forms in this section, a secured party can be certain that the filing office is obligated to accept it.</text>
-      <text>The forms in this section are based upon national financing statement forms that were in use under former Article 9. Those forms were developed over an extended period and reflect the comments and suggestions of filing officers, secured parties and their counsel, and service companies. The formatting of those forms and of the ones in this section has been designed to reduce error by both filers and filing offices.</text>
-      <text>A filing office that accepts written communications may not reject, on grounds of form or format, a filing using these forms. Although filers are not required to use the forms, they are encouraged and can be expected to do so, inasmuch as the forms are well designed and avoid the risk of rejection on the basis of form or format. As their use expands, the forms will rapidly become familiar to both filers and filing-office personnel. Filing offices may and should encourage the use of these forms by declaring them to be the "standard" (but not exclusive) forms for each jurisdiction, albeit without in any way suggesting that alternative forms are unacceptable.</text>
-      <text>The multi-purpose form in subsection (b) covers changes with respect to the debtor, the secured party, the collateral, and the status of the financing statement (termination and continuation). A single form may be used for several different types of amendments at once (e.g., both to change a debtor's name and continue the effectiveness of the financing statement).</text>
+      <text>Applicability of D.C. Law 19-302: Section 4 of D.C. Law 19-302 provided that the act shall apply as of July 1, 2013.</text>
     </level>
   </level>
 </level>

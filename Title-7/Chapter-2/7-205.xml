@@ -91,12 +91,31 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>Either of the parents of the child, or other informant, shall confirm with his or her signature the accuracy of the personal data entered on the certificate before the certificate is filed.</text>
+    <level>
+      <num>(1)</num>
+      <text>Either of the parents of the child, or other informant, shall confirm with his or her signature the accuracy of the personal data entered on the certificate before the certificate is filed.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Any institutional error regarding the personal data on the certificate may be corrected within 90 days of issuance, and:</text>
+      <level>
+        <num>(A)</num>
+        <text>A new certificate shall be issued;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The new certificate shall not be marked amended; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The original, erroneous certificate shall be sealed and made available only upon the demand of the individual to whom the new certificate of birth was issued or an order of the Court.</text>
+      </level>
+    </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 8, 1981, D.C. Law 4-34, § 6, 28 DCR 3271; Apr. 3, 2001, D.C. Law 13-269, § 104(b), 48 DCR 1270; Apr. 11, 2003, D.C. Law 14-299, § 2(c), 50 DCR 388; July 18, 2008, D.C. Law 18-33, § 2(b), 56 DCR 4269.)</text>
+      <text>(Oct. 8, 1981, D.C. Law 4-34, § 6, 28 DCR 3271; Apr. 3, 2001, D.C. Law 13-269, § 104(b), 48 DCR 1270; Apr. 11, 2003, D.C. Law 14-299, § 2(c), 50 DCR 388; July 18, 2008, D.C. Law 18-33, § 2(b), 56 DCR 4269; Nov. 5, 2013, D.C. Law 20-37, § 2(a), 60 DCR 12145.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -112,6 +131,7 @@
       <text>"(3) If the mother was not married at the time of either conception or birth or between conception and birth, the name of the father shall only be entered on the certificate with the written consent of the mother and the person to be named as the father, in which case, upon written request to the Registrar by both parents, the surname of the child shall be entered on the certificate as that of the father;"</text>
       <text>D.C. Law 14-299, in subsec. (e)(3), substituted "certificate;" for "certificate. In such cases, upon written request to the Registrar by both parents, the surname of the child shall be entered on the certificate as that of the father;"; and added subsec. (e)(5).</text>
       <text>D.C. Law 18-33 rewrote subsecs. (c)(3), (e)(3), and (e)(5); in subsec. (e)(2), substituted "spouse" for "husband" and substituted "a parent" for "the father"; and added pars. (e)(2A) and (3A).</text>
+      <text>The 2013 amendment by D.C. Law 20-37 rewrote (f).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -146,6 +166,10 @@
     <level>
       <heading>Legislative History of Law 18-33</heading>
       <text>For Law 18-33, see notes following § 7-201.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-37</heading>
+      <text>Law 20-37, the "JaParker Deoni Jones Birth Certificate Equality Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-142. The Bill was adopted on first and second readings on June 26, 2013, and July 10, 2013, respectively. Signed by the Mayor on August 6, 2013, it was assigned Act No. 20-153 and transmitted to Congress for its review. D.C. Law 20-37 became effective on November 5, 2013.</text>
     </level>
   </level>
 </level>

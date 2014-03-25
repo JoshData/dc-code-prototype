@@ -9,18 +9,21 @@
     </level>
   </level>
   <level type="table">
-    <text>
-      <span style="font-weight: bold; ">If an officer or member has			He shall receive per annum an amount, fixed</span>
-    </text>
-    <text>
-      <span style="font-weight: bold; ">completed at least:				to the nearest dollar, equal to:</span>
-    </text>
-    <text>Fifteen years of continuous service.	 	Five per centum of the rate of basic compensation</text>
-    <text> 				prescribed for service step 1 of the salary class of</text>
-    <text>such salary schedule which he occupies.</text>
-    <text>Twenty years of continuous service. 	Ten per centum of such compensation.</text>
-    <text>Twenty-five years of continuous service.	Fifteen per centum of such compensation.</text>
-    <text>Thirty years of continuous service. 		Twenty per centum of such compensation.</text>
+    <text><span style="font-weight: bold; ">If an officer or member has
+completed at least:
+ He shall receive per annum an
+ amount, fixed to the nearest
+ dollar, equal to: 
+</span>Fifteen years of continuous
+service. Five per centum of the rate of basic
+ compensation prescribed for service
+ step 1 of the salary class of such
+ salary schedule which he occupies.
+Twenty years of continuous service. Ten per centum of such compensation.
+Twenty-five years of continuous
+service. Fifteen per centum of such
+ compensation.
+Thirty years of continuous service. Twenty per centum of such compensation.</text>
   </level>
   <level>
     <num>(1A)</num>

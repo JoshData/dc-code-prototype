@@ -46,10 +46,18 @@
       <num>(2)</num>
       <text>In the case of refusal to accept a measure, the Board shall endorse on the measure the words "received but not accepted" and the date, and retain the measure pending appeal. If none of the grounds for refusal exists, the Board shall accept the measure.</text>
     </level>
+    <level>
+      <num>(3)</num>
+      <text>If the Board refuses to accept any initiative or referendum measure submitted to it, the person or persons submitting such measure may apply, within 10 days after the Board's refusal to accept such measure, to the Superior Court of the District of Columbia for a writ in the nature of mandamus to compel the Board to accept such measure. The Superior Court of the District of Columbia shall expedite consideration of the matter. If the Superior Court of the District of Columbia determines that the issue presented by the measure is a proper subject of initiative or referendum, whichever is applicable, under the terms of title IV of the District of Columbia Home Rule Act, and that the measure is legal in form, does not authorize discrimination as prescribed in paragraph (1)(C) of this subsection, and would not negate or limit an act of the Council of the District of Columbia as prescribed in paragraph (1)(D) of this subsection, it shall issue an order requiring the Board to accept the measure. Should the Superior Court of the District of Columbia hold in favor of the proposer, it may award court costs and reasonable attorneys' fees to the proposer.</text>
+      <level type="form">
+        <text/>
+      </level>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>After subject determination has been made the Board shall assign a serial number to each initiative and referendum measure, using separate series of numbers for initiative and separate series of numbers for referendum measures. Thereafter, a measure shall be known and designated on all petitions, ballots and proceedings as "Initiative Measure No. ...................." or "Referendum Measure No. .........".</text>
+    </level>
   </level>
-  <text> (3) If the Board refuses to accept any initiative or referendum measure submitted to it, the person or persons submitting such measure may apply, within 10 days after the Board's refusal to accept such measure, to the Superior Court of the District of Columbia for a writ in the nature of mandamus to compel the Board to accept such measure. The Superior Court of the District of Columbia shall expedite consideration of the matter. If the Superior Court of the District of Columbia determines that the issue presented by the measure is a proper subject of initiative or referendum, whichever is applicable, under the terms of title IV of the District of Columbia Home Rule Act, and that the measure is legal in form, does not authorize discrimination as prescribed in paragraph (1)(C) of this subsection, and would not negate or limit an act of the Council of the District of Columbia as prescribed in paragraph (1)(D) of this subsection, it shall issue an order requiring the Board to accept the measure. Should the Superior Court of the District of Columbia hold in favor of the proposer, it may award court costs and reasonable attorneys' fees to the proposer. 
- 
- (4) After subject determination has been made the Board shall assign a serial number to each initiative and referendum measure, using separate series of numbers for initiative and separate series of numbers for referendum measures. Thereafter, a measure shall be known and designated on all petitions, ballots and proceedings as "Initiative Measure No. ...................." or "Referendum Measure No. .........".</text>
   <level>
     <num>(c)</num>
     <text>Within 20 calendar days, of the date on which the Board accepts an initiative or referendum measure, the Board shall:</text>
@@ -133,7 +141,7 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>That the circulator of the initiative or referendum petition sheet is a resident of the District of Columbia and at least 18 years of age; and</text>
+      <text>That the circulator of the initiative or referendum petition sheet was a qualified petition circulator at the time of circulation.</text>
     </level>
     <level>
       <num>(6)</num>
@@ -182,7 +190,7 @@
       </level>
       <level>
         <num>(E)</num>
-        <text>The petition was circulated by persons who were not residents of the District of Columbia and at least 18 years of age at the time of circulation.</text>
+        <text>The petition was circulated by persons who were not qualified petition circulators at the time of circulation.</text>
       </level>
     </level>
     <level>
@@ -275,7 +283,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Aug. 12, 1955, 69 Stat. 704, ch. 862, § 16, as added June 7, 1979, D.C. Law 3-1, § 2(c), 25 DCR 9454; Mar. 16, 1982, D.C. Law 4-88, § 2(k), (o), (q), (s), 29 DCR 458; Mar. 16, 1988, D.C. Law 7-92, § 3(n), 35 DCR 716, May 10, 1989, D.C. Law 7-231, § 5, 36 DCR 492; Mar. 11, 1992, D.C. Law 9-75, § 2(e), 39 DCR 310; Feb. 5, 1994, D.C. Law 10-68, § 7(c), 40 DCR 6311; Sept. 22, 1994, D.C. Law 10-173, § 2(g), 41 DCR 5154; July 25, 1995, D.C. Law 11-30, § 2(e), 42 DCR 1547; March 31, 2000, D.C. Law 13-64, § 2, 46 DCR 9219; Apr. 27, 2012, D.C. Law 19-124, § 501(g)(6), 59 DCR 1862.)</text>
+      <text>(Aug. 12, 1955, 69 Stat. 704, ch. 862, § 16, as added June 7, 1979, D.C. Law 3-1, § 2(c), 25 DCR 9454; Mar. 16, 1982, D.C. Law 4-88, § 2(k), (o), (q), (s), 29 DCR 458; Mar. 16, 1988, D.C. Law 7-92, § 3(n), 35 DCR 716, May 10, 1989, D.C. Law 7-231, § 5, 36 DCR 492; Mar. 11, 1992, D.C. Law 9-75, § 2(e), 39 DCR 310; Feb. 5, 1994, D.C. Law 10-68, § 7(c), 40 DCR 6311; Sept. 22, 1994, D.C. Law 10-173, § 2(g), 41 DCR 5154; July 25, 1995, D.C. Law 11-30, § 2(e), 42 DCR 1547; March 31, 2000, D.C. Law 13-64, § 2, 46 DCR 9219; Apr. 27, 2012, D.C. Law 19-124, § 501(g)(6), 59 DCR 1862; Oct. 17, 2013, D.C. Law 20-31, § 2(c), 60 DCR 11535.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -294,6 +302,7 @@
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 13-64, rewrote par. (5) of subsec. (h), which previously read: "That the circulator of such initiative or referendum petition sheet is a qualified registered elector of the District of Columbia; and"; and rewrote subpar. (E) of par. (1) of subsec. (k), which previously read: "The petition was circulated by persons who were not qualified registered electors of the District of Columbia pursuant to subsection (h) of this section."</text>
       <text>D.C. Law 19-124, in subsec. (b)(1)(A), substituted "§§ 1-1163.07 and 1-1163.09" for "§§ 1-1102.04 and 1-1102.06".</text>
+      <text>The 2013 amendment by D.C. Law 20-31 substituted "was a qualified petition circulator at the time of circulation" for "is a resident of the District of Columbia and at least 18 years of age; and" in (h)(5); and substituted "qualified petition circulators" for "residents of the District of Columbia and at least 18 years of age" in (k)(1)(E).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -345,6 +354,10 @@
     <level>
       <heading>Legislative History of Law 19-124</heading>
       <text>For history of Law 19-124, see notes under § 1-122.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-31</heading>
+      <text>See note to § 1-1001.02.</text>
     </level>
   </level>
 </level>
