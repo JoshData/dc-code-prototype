@@ -326,221 +326,210 @@
       <level>
         <num>(ii)</num>
         <text>Any of the following pistols, which are designed expressly for use in Olympic target shooting events, sanctioned by the International Olympic Committee and by USA Shooting, the national governing body for international shooting competition in the United States, and used for Olympic target shooting purposes:</text>
+        <text>
+          <table>
+            <tr><th>MANUFACTURER</th><th>MODEL</th><th>CALIBER</th></tr>
+            <tr><td>BENELLI</td><td>MP90</td><td>.22LR</td></tr>
+            <tr><td>BENELLI</td><td>MP90</td><td>.32 S&amp;W LONG</td></tr>
+            <tr><td>BENELLI</td><td>MP95</td><td>.22LR</td></tr>
+            <tr><td>BENELLI</td><td>MP95</td><td>.32 S&amp;W LONG</td></tr>
+            <tr><td>HAMMERLI</td><td>280</td><td>.22LR</td></tr>
+            <tr><td>HAMMERLI</td><td>280</td><td>.32 S&amp;W LONG</td></tr>
+            <tr><td>HAMMERLI</td><td>SP20</td><td>.22LR</td></tr>
+            <tr><td>HAMMERLI</td><td>SP20</td><td>.32 S&amp;W LONG</td></tr>
+            <tr><td>PARDINI</td><td>GPO</td><td>.22 SHORT</td></tr>
+            <tr><td>PARDINI</td><td>GP-SCHUMANN</td><td>.22 SHORT</td></tr>
+            <tr><td>PARDINI</td><td>HP</td><td>.32 S&amp;W LONG</td></tr>
+            <tr><td>PARDINI</td><td>MP</td><td>.32 S&amp;W LONG</td></tr>
+            <tr><td>PARDINI</td><td>SP</td><td>.22LR</td></tr>
+            <tr><td>PARDINI</td><td>SPE</td><td>.22LR</td></tr>
+            <tr><td>WALTHER</td><td>GSP</td><td>.22LR</td></tr>
+            <tr><td>WALTHER</td><td>GSP</td><td>.32 S&amp;W LONG</td></tr>
+            <tr><td>WALTHER</td><td>OSP</td><td>.22 SHORT</td></tr>
+            <tr><td>WALTHER</td><td>OSP-2000</td><td>.22 SHORT</td></tr>
+          </table>
+        </text>
       </level>
     </level>
-  </level>
-  <level type="table">
-    <text> 
- MANUFACTURER MODEL CALIBER
- 
-BENELLI MP90 .22LR
-BENELLI MP90 .32 S&amp;W
- LONG
-BENELLI MP95 .22LR
-BENELLI MP95 .32 S&amp;W
- LONG
-HAMMERLI 280 .22LR
-HAMMERLI 280 .32 S&amp;W
- LONG
-HAMMERLI SP20 .22LR
-HAMMERLI SP20 .32 S&amp;W
- LONG
-PARDINI GPO .22
- SHORT
-PARDINI GP-SCHUMANN .22
- SHORT
-PARDINI HP .32 S&amp;W
- LONG
-PARDINI MP .32 S&amp;W
- LONG
-PARDINI SP .22LR
-PARDINI SPE .22LR
-WALTHER GSP .22LR
-WALTHER GSP .32 S&amp;W
- LONG
-WALTHER OSP .22
- SHORT
-WALTHER OSP-2000 .22
- SHORT</text>
+    <level>
+      <num>(C)</num>
+      <text>The Chief may exempt, by rule, new models of competitive pistols that would otherwise fall within the definition of "assault weapon" pursuant to this section from being classified as an assault weapon. The exemption of competitive pistols shall be based either on recommendations by USA Shooting consistent with the regulations contained in the USA Shooting Official Rules or on the recommendation or rules of any other organization that the Chief considers relevant.</text>
+    </level>
   </level>
   <level>
-    <num>(C)</num>
-    <text>The Chief may exempt, by rule, new models of competitive pistols that would otherwise fall within the definition of "assault weapon" pursuant to this section from being classified as an assault weapon. The exemption of competitive pistols shall be based either on recommendations by USA Shooting consistent with the regulations contained in the USA Shooting Official Rules or on the recommendation or rules of any other organization that the Chief considers relevant.</text>
+    <num>(4)</num>
+    <text>"Chief" means the Chief of Police of the Metropolitan Police Department of the District of Columbia or his designated agent.</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Crime of violence" shall have the same meaning as provided in D.C. Official Code § 23-1331(4).</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>"Dealer's license" means a license to buy or sell, repair, trade, or otherwise deal in firearms, destructive devices, or ammunition as provided for in subchapter IV of this unit.</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>"Destructive device" means:</text>
     <level>
-      <num>(4)</num>
-      <text>"Chief" means the Chief of Police of the Metropolitan Police Department of the District of Columbia or his designated agent.</text>
+      <num>(A)</num>
+      <text>An explosive, incendiary, or poison gas bomb, grenade, rocket, missile, mine, or similar device;</text>
     </level>
     <level>
-      <num>(5)</num>
-      <text>"Crime of violence" shall have the same meaning as provided in D.C. Official Code § 23-1331(4).</text>
+      <num>(B)</num>
+      <text>Any device by whatever name known which will, or is designed or redesigned, or may be readily converted or restored to expel a projectile by the action of an explosive or other propellant through a smooth bore barrel, except a shotgun;</text>
     </level>
     <level>
-      <num>(6)</num>
-      <text>"Dealer's license" means a license to buy or sell, repair, trade, or otherwise deal in firearms, destructive devices, or ammunition as provided for in subchapter IV of this unit.</text>
+      <num>(C)</num>
+      <text>Any device containing tear gas or a chemically similar lacrimator or sternutator by whatever name known;</text>
     </level>
     <level>
-      <num>(7)</num>
-      <text>"Destructive device" means:</text>
+      <num>(D)</num>
+      <text>Any device designed or redesigned, made or remade, or readily converted or restored, and intended to stun or disable a person by means of electric shock;</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Any combination of parts designed or intended for use in converting any device into any destructive device; or from which a destructive device may be readily assembled; provided, that the term shall not include:</text>
       <level>
-        <num>(A)</num>
-        <text>An explosive, incendiary, or poison gas bomb, grenade, rocket, missile, mine, or similar device;</text>
+        <num>(i)</num>
+        <text>Any pneumatic, spring, or B-B gun which expels a single projectile not exceeding .18 inch in diameter;</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>Any device by whatever name known which will, or is designed or redesigned, or may be readily converted or restored to expel a projectile by the action of an explosive or other propellant through a smooth bore barrel, except a shotgun;</text>
+        <num>(ii)</num>
+        <text>Any device which is neither designed nor redesigned for use as a weapon;</text>
       </level>
       <level>
-        <num>(C)</num>
-        <text>Any device containing tear gas or a chemically similar lacrimator or sternutator by whatever name known;</text>
+        <num>(iii)</num>
+        <text>Any device originally a weapon which has been redesigned for use as a signaling, line throwing, or safety device; or</text>
       </level>
       <level>
-        <num>(D)</num>
-        <text>Any device designed or redesigned, made or remade, or readily converted or restored, and intended to stun or disable a person by means of electric shock;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Any combination of parts designed or intended for use in converting any device into any destructive device; or from which a destructive device may be readily assembled; provided, that the term shall not include:</text>
-        <level>
-          <num>(i)</num>
-          <text>Any pneumatic, spring, or B-B gun which expels a single projectile not exceeding .18 inch in diameter;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Any device which is neither designed nor redesigned for use as a weapon;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Any device originally a weapon which has been redesigned for use as a signaling, line throwing, or safety device; or</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>Any device which the Chief finds is not likely to be used as a weapon.</text>
-        </level>
+        <num>(iv)</num>
+        <text>Any device which the Chief finds is not likely to be used as a weapon.</text>
       </level>
     </level>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>"District" means District of Columbia.</text>
+  </level>
+  <level>
+    <num>(8A)</num>
+    <text>".50 BMG rifle" means:</text>
     <level>
-      <num>(8)</num>
-      <text>"District" means District of Columbia.</text>
+      <num>(A)</num>
+      <text>A rifle capable of firing a center-fire cartridge in .50 BMG caliber, including a 12.7 mm equivalent of .50 BMG and any other metric equivalent; or</text>
     </level>
     <level>
-      <num>(8A)</num>
-      <text>".50 BMG rifle" means:</text>
+      <num>(B)</num>
+      <text>A copy or duplicate of any rifle described in subparagraph (A) of this paragraph, or any other rifle developed and manufactured after January 6, 2009, regardless of caliber, if such rifle is capable of firing a projectile that attains a muzzle energy of 12,000 foot-pounds or greater in any combination of bullet, propellant, case, or primer.</text>
+    </level>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>"Firearm" means any weapon, regardless of operability, which will, or is designed or redesigned, made or remade, readily converted, restored, or repaired, or is intended to, expel a projectile or projectiles by the action of an explosive; the frame or receiver of any such device; or any firearm muffler or silencer; provided, that such term shall not include:</text>
+    <level>
+      <num>(A)</num>
+      <text>Antique firearms; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Destructive devices;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Any device used exclusively for line throwing, signaling, or safety, and required or recommended by the Coast Guard or Interstate Commerce Commission; or</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Any device used exclusively for firing explosive rivets, stud cartridges, or similar industrial ammunition and incapable for use as a weapon.</text>
+    </level>
+  </level>
+  <level>
+    <num>(9A)</num>
+    <text>"Firearms instructor" means an individual who is certified by the Chief to be qualified to teach firearms training and safety courses.</text>
+  </level>
+  <level>
+    <num>(9B)</num>
+    <text>"Intrafamily offense" shall have the same meaning as provided in § 16-1001(8).</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>"Machine gun" means any firearm which shoots, is designed to shoot, or can be readily restored to shoot, automatically more than one shot, without manual reloading, by a single function of the trigger. The term "machine gun" shall also include the frame or receiver of any such firearm, any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a firearm into a machine gun, and any combination of parts from which a machine gun can be assembled if such parts are in the possession or under the control of a person.</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>"Organization" means any partnership, company, corporation, or other business entity, or any group or association of 2 or more persons united for a common purpose.</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>"Pistol" means any firearm originally designed to be fired by use of a single hand or with a barrel less than 12 inches in length.</text>
+  </level>
+  <level>
+    <num>(12A)</num>
+    <text>"Place of business" means a business that is located in an immovable structure at a fixed location and that is operated and owned entirely, or in substantial part, by the firearm registrant.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>"Registration certificate" means a certificate validly issued pursuant to this unit evincing the registration of a firearm pursuant to this unit.</text>
+  </level>
+  <level>
+    <num>(13A)</num>
+    <level>
+      <num>(A)</num>
+      <text>"Restricted pistol bullet" means:</text>
       <level>
-        <num>(A)</num>
-        <text>A rifle capable of firing a center-fire cartridge in .50 BMG caliber, including a 12.7 mm equivalent of .50 BMG and any other metric equivalent; or</text>
+        <num>(i)</num>
+        <text>A projectile or projectile core which may be used in a pistol and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium;</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>A copy or duplicate of any rifle described in subparagraph (A) of this paragraph, or any other rifle developed and manufactured after January 6, 2009, regardless of caliber, if such rifle is capable of firing a projectile that attains a muzzle energy of 12,000 foot-pounds or greater in any combination of bullet, propellant, case, or primer.</text>
-      </level>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>"Firearm" means any weapon, regardless of operability, which will, or is designed or redesigned, made or remade, readily converted, restored, or repaired, or is intended to, expel a projectile or projectiles by the action of an explosive; the frame or receiver of any such device; or any firearm muffler or silencer; provided, that such term shall not include:</text>
-      <level>
-        <num>(A)</num>
-        <text>Antique firearms; or</text>
+        <num>(ii)</num>
+        <text>A full jacketed projectile larger than .22 caliber designed and intended for use in a pistol and whose jacket has a weight of more than 25% of the total weight of the projectile; or</text>
       </level>
       <level>
-        <num>(B)</num>
-        <text>Destructive devices;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Any device used exclusively for line throwing, signaling, or safety, and required or recommended by the Coast Guard or Interstate Commerce Commission; or</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Any device used exclusively for firing explosive rivets, stud cartridges, or similar industrial ammunition and incapable for use as a weapon.</text>
-      </level>
-    </level>
-    <level>
-      <num>(9A)</num>
-      <text>"Firearms instructor" means an individual who is certified by the Chief to be qualified to teach firearms training and safety courses.</text>
-    </level>
-    <level>
-      <num>(9B)</num>
-      <text>"Intrafamily offense" shall have the same meaning as provided in § 16-1001(8).</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>"Machine gun" means any firearm which shoots, is designed to shoot, or can be readily restored to shoot, automatically more than one shot, without manual reloading, by a single function of the trigger. The term "machine gun" shall also include the frame or receiver of any such firearm, any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a firearm into a machine gun, and any combination of parts from which a machine gun can be assembled if such parts are in the possession or under the control of a person.</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>"Organization" means any partnership, company, corporation, or other business entity, or any group or association of 2 or more persons united for a common purpose.</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>"Pistol" means any firearm originally designed to be fired by use of a single hand or with a barrel less than 12 inches in length.</text>
-    </level>
-    <level>
-      <num>(12A)</num>
-      <text>"Place of business" means a business that is located in an immovable structure at a fixed location and that is operated and owned entirely, or in substantial part, by the firearm registrant.</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>"Registration certificate" means a certificate validly issued pursuant to this unit evincing the registration of a firearm pursuant to this unit.</text>
-    </level>
-    <level>
-      <num>(13A)</num>
-      <level>
-        <num>(A)</num>
-        <text>"Restricted pistol bullet" means:</text>
-        <level>
-          <num>(i)</num>
-          <text>A projectile or projectile core which may be used in a pistol and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>A full jacketed projectile larger than .22 caliber designed and intended for use in a pistol and whose jacket has a weight of more than 25% of the total weight of the projectile; or</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>Ammunition for a .50 BMG rifle.</text>
-        </level>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The term "restricted pistol bullet" does not include:</text>
-        <level>
-          <num>(i)</num>
-          <text>Shotgun shot required by federal or state environmental or game regulations for hunting purposes;</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>A frangible projectile designed for target shooting;</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>A projectile which the Attorney General of the United States finds is primarily intended to be used for sporting purposes; or</text>
-        </level>
-        <level>
-          <num>(iv)</num>
-          <text>Any other projectile or projectile core which the Attorney General of the United States finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.</text>
-        </level>
+        <num>(iii)</num>
+        <text>Ammunition for a .50 BMG rifle.</text>
       </level>
     </level>
     <level>
-      <num>(14)</num>
-      <text>"Rifle" means a grooved bore firearm using a fixed metallic cartridge with a single projectile and designed or redesigned, made or remade, and intended to be fired from the shoulder.</text>
+      <num>(B)</num>
+      <text>The term "restricted pistol bullet" does not include:</text>
+      <level>
+        <num>(i)</num>
+        <text>Shotgun shot required by federal or state environmental or game regulations for hunting purposes;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>A frangible projectile designed for target shooting;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>A projectile which the Attorney General of the United States finds is primarily intended to be used for sporting purposes; or</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>Any other projectile or projectile core which the Attorney General of the United States finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.</text>
+      </level>
     </level>
-    <level>
-      <num>(15)</num>
-      <text>"Sawed-off shotgun" means a shotgun having a barrel of less than 18 inches in length; or a firearm made from a shotgun if such firearm as modified has an overall length of less than 26 inches or any barrel of less than 18 inches in length.</text>
-    </level>
-    <level>
-      <num>(16)</num>
-      <text>"Shotgun" means a smooth bore firearm using a fixed shotgun shell with either a number of ball shot or a single projectile, and designed or redesigned, made or remade, and intended to be fired from the shoulder.</text>
-    </level>
-    <level>
-      <num>(17)</num>
-      <text>"Short barreled rifle" means a rifle having any barrel less than 16 inches in length, or a firearm made from a rifle if such firearm as modified has an overall length of less than 26 inches or any barrel of less than 16 inches.</text>
-    </level>
-    <level>
-      <num>(18)</num>
-      <text>"Weapons offense" means any violation in any jurisdiction of any law which involves the sale, purchase, transfer in any manner, receipt, acquisition, possession, having under control, use, repair, manufacture, carrying, or transportation of any firearm, ammunition, or destructive device.</text>
-    </level>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>"Rifle" means a grooved bore firearm using a fixed metallic cartridge with a single projectile and designed or redesigned, made or remade, and intended to be fired from the shoulder.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>"Sawed-off shotgun" means a shotgun having a barrel of less than 18 inches in length; or a firearm made from a shotgun if such firearm as modified has an overall length of less than 26 inches or any barrel of less than 18 inches in length.</text>
+  </level>
+  <level>
+    <num>(16)</num>
+    <text>"Shotgun" means a smooth bore firearm using a fixed shotgun shell with either a number of ball shot or a single projectile, and designed or redesigned, made or remade, and intended to be fired from the shoulder.</text>
+  </level>
+  <level>
+    <num>(17)</num>
+    <text>"Short barreled rifle" means a rifle having any barrel less than 16 inches in length, or a firearm made from a rifle if such firearm as modified has an overall length of less than 26 inches or any barrel of less than 16 inches.</text>
+  </level>
+  <level>
+    <num>(18)</num>
+    <text>"Weapons offense" means any violation in any jurisdiction of any law which involves the sale, purchase, transfer in any manner, receipt, acquisition, possession, having under control, use, repair, manufacture, carrying, or transportation of any firearm, ammunition, or destructive device.</text>
   </level>
   <level type="annotations">
     <level>

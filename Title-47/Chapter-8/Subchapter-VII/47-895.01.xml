@@ -26,38 +26,18 @@
     <num>(6)</num>
     <text>"Equivalent Unit" means the product resulting from the equivalent unit factor for each type of property and its application method to be used by the Chief Financial Officer in calculating the Maximum Special Assessment for each lot as follows:</text>
   </level>
-  <level type="table">
-    <text>Property
-Type Equivalent
- Unit Factor Application
- Method
-Commercial
- Retail 1.00 Per 1,000
- sq. ft.
-Commercial
- Restauran
-ts 1.00 Per 1,000
- sq. ft.
-Hotel 0.29 Per room
-Commercial
- Office 0.25 Per 1,000
- sq. ft.
-Rental
-Apartments 0.06 Per 1,000
- sq. ft.
-For sale
-condos
-(Market
-rate
-designatio
-n) 0.09 Per unit
-For sale
-condos
-(Affordabl
-e
-designatio
-n) 0.02 Per unit</text>
-  </level>
+  <text>
+    <table>
+      <tr><th>Property Type</th><th>Equivalent Unit Factor</th><th>Application Method</th></tr>
+      <tr><td>Commercial Retail</td><td>1.00</td><td>Per 1,000 sq. ft.</td></tr>
+      <tr><td>Commercial Restaurants</td><td>1.00</td><td>Per 1,000 sq. ft.</td></tr>
+      <tr><td>Hotel</td><td>0.29</td><td>Per room</td></tr>
+      <tr><td>Commercial Office</td><td>0.25</td><td>Per 1,000 sq. ft.</td></tr>
+      <tr><td>Rental Apartments</td><td>0.06</td><td>Per 1,000 sq. ft.</td></tr>
+      <tr><td>For sale condos (Market rate designation)</td><td>0.09</td><td>Per unit</td></tr>
+      <tr><td>For sale condos (Affordable designation)</td><td>.02</td><td>Per unit</td></tr>
+    </table>
+  </text>
   <level>
     <num>(7)</num>
     <text>"Gross building area" or "GBA" means, with respect to a lot, the product of the land area of the lot multiplied by the maximum floor area ratio ("FAR") allowable under its zoning category, including additional FAR allowable as a matter of right if the additional FAR is dedicated to a particular use, such as an additional residential floor, as of the date of the 1st issuance of bonds, without including transfer development rights or bonus development rights.</text>

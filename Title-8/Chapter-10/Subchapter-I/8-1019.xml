@@ -12,52 +12,46 @@
   <level>
     <num>(c)</num>
     <text>Table of minimum recycled content requirements.</text>
+    <text>
+      <table>
+        <tr>
+          <th> </th>
+          <th>Minimum percentage of recovered materials</th>
+          <th>Minimum percentage of postconsumer recovered materials</th>
+          <th>Minimum percentage of waste paper</th>
+        </tr>
+        <tr><td>Newsprint</td><td>-</td><td>40</td><td>-</td></tr>
+        <tr><th colspan="4">High grade bleached printing and writing paper:</th></tr>
+        <tr><td>Offset printing</td><td>-</td><td>-</td><td>50</td></tr>
+        <tr><td>Mimeo and duplicator paper</td><td>-</td><td>-</td><td>50</td></tr>
+        <tr><td>Writing (stationery)</td><td>-</td><td>-</td><td>50</td></tr>
+        <tr><td>Office paper (e.g. note pads)</td><td>-</td><td>-</td><td>50</td></tr>
+        <tr><td>Paper for high-speed copiers</td><td>-</td><td>-</td><td>*</td></tr>
+        <tr><td>Envelopes</td><td>-</td><td>-</td><td>50</td></tr>
+        <tr><td>Form bond including computer paper and carbonless</td><td>-</td><td>-</td><td>*</td></tr>
+        <tr><td>Book papers</td><td>-</td><td>-</td><td>50</td></tr>
+        <tr><td>Bond papers</td><td>-</td><td>-</td><td>50</td></tr>
+        <tr><td>Ledger</td><td>-</td><td>-</td><td>50</td></tr>
+        <tr><td>Cover stock</td><td>-</td><td>-</td><td>50</td></tr>
+        <tr><td>Cotton fiber papers</td><td>25</td><td>-</td><td>-</td></tr>
+        <tr><th colspan="4">Tissue products:</th></tr>
+        <tr><td>Toilet tissue</td><td>-</td><td>20</td><td>-</td></tr>
+        <tr><td>Paper towels</td><td>-</td><td>40</td><td>-</td></tr>
+        <tr><td>Paper napkins</td><td>-</td><td>30</td><td>-</td></tr>
+        <tr><td>Facial tissue</td><td>-</td><td>5</td><td>-</td></tr>
+        <tr><td>Doilies</td><td>-</td><td>40</td><td>-</td></tr>
+        <tr><td>Industrial wipers</td><td>-</td><td>0</td><td>-</td></tr>
+        <tr><th colspan="4">Unbleached packaging:</th></tr>
+        <tr><td>Corrugated boxes</td><td>-</td><td>35</td><td>-</td></tr>
+        <tr><td>Fiber boxes</td><td>-</td><td>35</td><td>-</td></tr>
+        <tr><td>Brown paper (e.g., bags)</td><td>-</td><td>5</td><td>-</td></tr>
+        <tr><th colspan="4">Recycled paperboard:</th></tr>
+        <tr><td>Recycled paperboard products including folding cartons</td><td>-</td><td>80</td><td>-</td></tr>
+        <tr><td>Pad backing</td><td>-</td><td>90</td><td>-</td></tr>
+      </table>
+    </text>
+    <text>*EPA found insufficient production of these papers with recycled content to assure adequate competition.</text>
   </level>
-  <level type="table">
-    <text>--------------------------------------------------------------- -----
- Minimum Minimum Minimum
- percentage percentage of percentage
- of recovered postconsumer of waste
- materials recovered paper
- materials
---------------------------------------------------------------- -----
-Newsprint - 40 -
- 
-High grade bleached printing and
-writing paper:
-Offset printing - - 50
-Mimeo and duplicator paper - - 50
-Writing (stationery) - - 50
-Office paper (e.g. note pads) - - 50
-Paper for high-speed copiers - - *
-Envelopes - - 50
-Form bond including computer
-paper and carbonless - - *
-Book papers - - 50
-Bond papers - - 50
-Ledger - - 50
-Cover stock - - 50
-Cotton fiber papers 25 - -
- 
-Tissue products:
-Toilet tissue - 20 -
-Paper towels - 40 -
-Paper napkins - 30 -
-Facial tissue - 5 -
-Doilies - 40 -
-Industrial wipers - 0 -
- 
-Unbleached packaging:
-Corrugated boxes - 35 -
-Fiber boxes - 35 -
-Brown paper (e.g., bags) - 5 -
- 
-Recycled paperboard:
-Recycled paperboard products
-including folding cartons - 80 -
-Pad backing - 90 -</text>
-  </level>
-  <text>*EPA found insufficient production of these papers with recycled content to assure adequate competition.</text>
   <level>
     <num>(d)</num>
     <text>For the purposes of this section, the terms used in the table of minimum recycled content requirements in subsection (c) of this section shall have the same meaning as those terms have in 40 C.F.R. 250.4.</text>

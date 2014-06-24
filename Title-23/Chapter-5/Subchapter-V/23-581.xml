@@ -29,88 +29,82 @@
       <level>
         <num>(A)</num>
         <text>The following offenses specified in the Act entitled "An Act to establish a code of law for the District of Columbia", approved March 3, 1901, and listed in the following table:</text>
+        <text>
+          <table>
+            <tr><th>Offense:</th><th>Specified in -</th></tr>
+            <tr><td>Assault</td><td>section 806 (D.C. Code, sec. 22-404).</td></tr>
+            <tr><td>Unlawful entry</td><td>section 824 (D.C. Code, sec. 22-3302).</td></tr>
+            <tr><td>Malicious burning, destruction or injury of another's property</td><td>section 848 (D.C. Code, sec. 22-303).</td></tr>
+          </table>
+        </text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The following offense specified in the Omnibus Public Safety Amendment Act of 2006, effective April 24, 2007 (D.C. Law 16-306; 53 DCR 8610):</text>
+        <text>
+          <table>
+            <tr><th>Offense:</th><th>Specified in -</th></tr>
+            <tr><td>Voyeurism</td><td>section 105 (D.C. Code, sec. 22-3531).</td></tr>
+          </table>
+        </text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The following offenses specified in the District of Columbia Theft and White Collar Crimes Act of 1982, and listed in the following table:</text>
+        <text>
+          <table>
+            <tr><th>Offense:</th><th>Specified in -</th></tr>
+            <tr><td>Theft of property valued less than $250</td><td>section 111 [D.C. Official Code, § 22-3211].</td></tr>
+            <tr><td>Receiving stolen property</td><td>section 132 [D.C. Official Code, § 22-3232].</td></tr>
+            <tr><td>Shoplifting</td><td>section 113 [D.C. Official Code, § 22-3213].</td></tr>
+          </table>
+        </text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Attempts to commit the following offenses specified in the Act and listed in the following table:</text>
+        <text>
+          <table>
+            <tr><th>Offense:</th><th>Specified in -</th></tr>
+            <tr><td>Theft of property valued in excess of $250</td><td>section 111 [D.C. Official Code, § 22-3211].</td></tr>
+            <tr><td>Unauthorized use of vehicles</td><td>section 115 [D.C. Official Code, § 22-3215].</td></tr>
+          </table>
+        </text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>The following offenses specified in the Illegal Dumping Enforcement Act of 1994 [Chapter 9 of Title 8], and listed in the following table:</text>
+        <text>
+          <table>
+            <tr><th>Offense:</th><th>Specified in -</th></tr>
+            <tr><td>Unauthorized Disposal of Solid Waste </td><td>Section 3. [D.C. Official Code, § 8-902]</td></tr>
+          </table>
+        </text>
+      </level>
+      <level>
+        <num>(F)</num>
+        <text>The following offenses specified in section 113.7 of Title 12A of the District of Columbia Municipal Regulations (12A DCMR § 113.7).</text>
+        <text>
+          <table>
+            <tr><th>Offense:</th><th>Specified in -</th></tr>
+            <tr><td>Illegal construction</td><td>section 113.7 (12A DCMR § 113.7)</td></tr>
+          </table>
+        </text>
       </level>
     </level>
-  </level>
-  <level type="table">
-    <text>Offense: Specified in -
-Assault .......................... section 806 (D.C. Code, sec. 22-404).
-Unlawful entry ................... section 824 (D.C. Code, sec. 22-3302).
-Malicious burning, destruction or
-injury of another's property section 848 (D.C. Code, sec. 22-303).</text>
-    <text> (B) The following offense specified in the Omnibus Public Safety Amendment Act of 2006, effective April 24, 2007 (D.C. Law 16-306; 53 DCR 8610):</text>
-    <text>Offense: Specified in -
-Voyeurism ........................ section 105 (D.C. Code, sec. 22-3531).</text>
-  </level>
-  <level>
-    <num>(C)</num>
-    <text>The following offenses specified in the District of Columbia Theft and White Collar Crimes Act of 1982, and listed in the following table:</text>
-  </level>
-  <level type="table">
-    <text>Offense: Specified in -
-Theft of property valued less than
-$250 section 111 [D.C. Official Code,
- § 22-3211].
-Receiving stolen property ........ section 132 [D.C. Official Code,
- § 22-3232].
-Shoplifting ...................... section 113 [D.C. Official Code,
- § 22-3213].</text>
-  </level>
-  <level>
-    <num>(D)</num>
-    <text>Attempts to commit the following offenses specified in the Act and listed in the following table:</text>
-  </level>
-  <level type="table">
-    <text>Offense: Specified in -
-Theft of property valued in excess
-of $250 section 111 [D.C. Official Code,
- § 22-3211].
-Unauthorized use of vehicles ..... section 115 [D.C. Official Code,
- § 22-3215].</text>
-  </level>
-  <level>
-    <num>(E)</num>
-    <text>The following offenses specified in the Illegal Dumping Enforcement Act of 1994 [Chapter 9 of Title 8], and listed in the following table:</text>
-  </level>
-  <level type="table">
-    <text>Offense: Specified in -
-Unauthorized Disposal of Solid
-Waste Section 3. [D.C. Official Code, § 8-902]</text>
-  </level>
-  <level>
-    <num>(F)</num>
-    <text>The following offenses specified in section 113.7 of Title 12A of the District of Columbia Municipal Regulations (12A DCMR § 113.7).</text>
-  </level>
-  <level type="table">
-    <text>Offense: Specified in
-Illegal construction ............. section 113.7 (12A DCMR § 113.7)</text>
   </level>
   <level>
     <num>(3)</num>
     <text>The offenses which are referred to in paragraph (1)(D) of this section are the following offenses specified in the District of Columbia Traffic Act of 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.01 et seq.), and listed in the following table:</text>
-  </level>
-  <level type="table">
-    <text>Offense: Specified in -
-Aggravated reckless driving ...... section 9(b-1) (D.C. Official Code
- § 50-2201.04(b-1))
-Fleeing from the scene of an
-accident section 10(a) (D.C. Official Code
- § 50-2201.05(a))
-Operating or physically
-controlling a vehicle when under
-the influence of intoxicating
-liquor or drugs, when operating
-ability is impaired by
-intoxicating liquor, or when the
-operator's blood, breath, or urine
-contains the amount of alcohol
-which is prohibited by section
-10(b) section 10(b) (D.C. Official Code
- § 50-2201.05(b))
-Operating a motor vehicle when the
-operator's permit is revoked or
-suspended section 13(e) (D.C. Official Code
- § 50-1403.01(e)).</text>
+    <text>
+      <table>
+        <tr><th>Offense:</th><th>Specified in -</th></tr>
+        <tr><td>Aggravated reckless driving</td><td>section 9(b-1) (D.C. Official Code § 50-2201.04(b-1))</td></tr>
+        <tr><td>Fleeing from the scene of an accident</td><td>section 10(a) (D.C. Official Code § 50-2201.05(a))</td></tr>
+        <tr><td>Operating or physically controlling a vehicle when under the influence of intoxicating liquor or drugs, when operating ability is impaired by intoxicating liquor, or when the operator's blood, breath, or urine contains the amount of alcohol which is prohibited by section 10(b)</td><td>section 10(b) (D.C. Official Code § 50-2201.05(b))</td></tr>
+        <tr><td>Operating a motor vehicle when the operator's permit is revoked or suspended</td><td>section 13(e) (D.C. Official Code § 50-1403.01(e)).</td></tr>
+      </table>
+    </text>
   </level>
   <level>
     <num>(a-1)</num>

@@ -98,59 +98,63 @@
       <level>
         <num>(A)</num>
         <text>Any acquisition covered under subsection (b) of this section involving 2 or more insurers competing in the same market is prima facie evidence of violation of the competitive standards if the market is highly concentrated and the involved insurers possess the following shares of the market:</text>
+        <text>
+          <table>
+            <tr><th>Insurer A</th><th>Insurer B</th></tr>
+            <tr><td>4%</td><td>4% or more</td></tr>
+            <tr><td>10%</td><td>2% or more</td></tr>
+            <tr><td>15%</td><td>1% or more</td></tr>
+          </table>
+        </text>
+        <text>or, if the market is not highly concentrated and the involved insurers possess the following shares of the market:</text>
+        <text>
+          <table>
+            <tr><th>Insurer A</th><th>Insurer B</th></tr>
+            <tr><td>5%</td><td>5% or more</td></tr>
+            <tr><td>10%</td><td>4% or more</td></tr>
+            <tr><td>15%</td><td>3% or more</td></tr>
+            <tr><td>19%</td><td>1% or more.</td></tr>
+          </table>
+        </text>
+        <text>A highly concentrated market is one in which the share of the 4 largest insurers is 75% or more of the market. Percentages not shown in the tables are interpolated proportionately to the percentages that are shown. If more than 2 insurers are involved, exceeding the total of the 2 columns in the table is prima facie evidence of violation of the competitive standard in paragraph (1) of this subsection. For the purposes of this subparagraph, the insurer with the largest share of the market shall be deemed to be Insurer A.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>There is a significant trend toward increased concentration when the aggregate market share of any grouping of the largest insurers in the market, from the 2 largest to the 8 largest, has increased by 7% or more of the market over a period of time extending from any base year 5 to 10 years prior to the acquisition up to the time of the acquisition. Any acquisition or merger covered under subsection (b) of this section involving 2 or more insurers competing in the same market is prima facie evidence of violation of the competitive standard in paragraph (1) of this subsection if:</text>
+        <level>
+          <num>(i)</num>
+          <text>There is a significant trend toward increased concentration in the market;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>One of the insurers involved is one of the insurers in a grouping of large insurers showing the requisite increase in the market share; and</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Another involved insurer's market is 2% or more.</text>
+        </level>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>For the purposes of this paragraph, the term:</text>
+        <level>
+          <num>(i)</num>
+          <text>"Insurer" includes any company or group of companies under common management, ownership, or control.</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>"Market" means the relevant product and geographical markets. In determining the relevant product and geographical markets, the Mayor shall give due consideration to, among other things, the definitions or guidelines, if any, promulgated by the National Association of Insurance Commissioners and to information, if any, submitted by parties to the acquisition. In the absence of sufficient information to the contrary, the relevant product market is assumed to be the direct written insurance premium for a line of business, the line being that used in the annual statement required to be filed by insurers doing business in the District, and the relevant geographical market is assumed to be the District.</text>
+        </level>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>The burden of showing prima facie evidence of violation of the competitive standard rests upon the Mayor.</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>Even though an acquisition is not prima facie violative of the competitive standard under subparagraphs (A) and (B) of this paragraph, the Mayor may establish the requisite anticompetitive effect based upon other substantial evidence. Even though an acquisition is prima facie violative of the competitive standard under subparagraphs (A) and (B) of this paragraph, a party may establish the absence of the requisite anticompetitive effect based upon other substantial evidence. Relevant factors in making a determination under this paragraph include, but are not limited to, the following: market shares, volatility of ranking of market leaders, number of competitors, concentration, trend of concentration in the industry, and ease of entry and exit into the market.</text>
       </level>
     </level>
-  </level>
-  <level type="table">
-    <text> Insurer A Insurer B
- 4% 4% or more
- 10% 2% or more
- 15% 1% or more</text>
-  </level>
-  <text>or, if the market is not highly concentrated and the involved insurers possess the following shares of the market:</text>
-  <level type="table">
-    <text> Insurer A Insurer B
- 5% 5% or more
- 10% 4% or more
- 15% 3% or more
- 19% 1% or more.</text>
-  </level>
-  <text>A highly concentrated market is one in which the share of the 4 largest insurers is 75% or more of the market. Percentages not shown in the tables are interpolated proportionately to the percentages that are shown. If more than 2 insurers are involved, exceeding the total of the 2 columns in the table is prima facie evidence of violation of the competitive standard in paragraph (1) of this subsection. For the purposes of this subparagraph, the insurer with the largest share of the market shall be deemed to be Insurer A.</text>
-  <level>
-    <num>(B)</num>
-    <text>There is a significant trend toward increased concentration when the aggregate market share of any grouping of the largest insurers in the market, from the 2 largest to the 8 largest, has increased by 7% or more of the market over a period of time extending from any base year 5 to 10 years prior to the acquisition up to the time of the acquisition. Any acquisition or merger covered under subsection (b) of this section involving 2 or more insurers competing in the same market is prima facie evidence of violation of the competitive standard in paragraph (1) of this subsection if:</text>
-    <level>
-      <num>(i)</num>
-      <text>There is a significant trend toward increased concentration in the market;</text>
-    </level>
-    <level>
-      <num>(ii)</num>
-      <text>One of the insurers involved is one of the insurers in a grouping of large insurers showing the requisite increase in the market share; and</text>
-    </level>
-    <level>
-      <num>(iii)</num>
-      <text>Another involved insurer's market is 2% or more.</text>
-    </level>
-  </level>
-  <level>
-    <num>(C)</num>
-    <text>For the purposes of this paragraph, the term:</text>
-    <level>
-      <num>(i)</num>
-      <text>"Insurer" includes any company or group of companies under common management, ownership, or control.</text>
-    </level>
-    <level>
-      <num>(ii)</num>
-      <text>"Market" means the relevant product and geographical markets. In determining the relevant product and geographical markets, the Mayor shall give due consideration to, among other things, the definitions or guidelines, if any, promulgated by the National Association of Insurance Commissioners and to information, if any, submitted by parties to the acquisition. In the absence of sufficient information to the contrary, the relevant product market is assumed to be the direct written insurance premium for a line of business, the line being that used in the annual statement required to be filed by insurers doing business in the District, and the relevant geographical market is assumed to be the District.</text>
-    </level>
-  </level>
-  <level>
-    <num>(D)</num>
-    <text>The burden of showing prima facie evidence of violation of the competitive standard rests upon the Mayor.</text>
-  </level>
-  <level>
-    <num>(E)</num>
-    <text>Even though an acquisition is not prima facie violative of the competitive standard under subparagraphs (A) and (B) of this paragraph, the Mayor may establish the requisite anticompetitive effect based upon other substantial evidence. Even though an acquisition is prima facie violative of the competitive standard under subparagraphs (A) and (B) of this paragraph, a party may establish the absence of the requisite anticompetitive effect based upon other substantial evidence. Relevant factors in making a determination under this paragraph include, but are not limited to, the following: market shares, volatility of ranking of market leaders, number of competitors, concentration, trend of concentration in the industry, and ease of entry and exit into the market.</text>
     <level>
       <num>(3)</num>
       <text>An order may not be entered under subsection (e)(1) through (4) of this section if:</text>
@@ -161,67 +165,67 @@
       <level>
         <num>(B)</num>
         <text>The acquisition will substantially increase the availability of insurance, and the public benefits of this increase exceed the public benefits which would arise from not lessening competition.</text>
-        <level>
-          <num>(e)</num>
-          <level>
-            <num>(1)</num>
-            <text>If an acquisition violates the standards of this section, the Mayor may enter an order:</text>
-            <level>
-              <num>(A)</num>
-              <text>Requiring an involved insurer to cease and desist from doing business in the District with respect to the line or lines of insurance involved in the violation; or</text>
-            </level>
-            <level>
-              <num>(B)</num>
-              <text>Denying the application of an acquired or acquiring insurer for a license to do business in the District.</text>
-            </level>
-          </level>
-          <level>
-            <num>(2)</num>
-            <text>An order under this subsection shall not be entered unless:</text>
-            <level>
-              <num>(A)</num>
-              <text>There is a hearing;</text>
-            </level>
-            <level>
-              <num>(B)</num>
-              <text>Notice of the hearing is issued prior to the end of the waiting period and not less than 15 days prior to the hearing; and</text>
-            </level>
-            <level>
-              <num>(C)</num>
-              <text>The hearing is concluded and the order is issued no later than 60 days after the end of the waiting period. Every order shall be accompanied by a written decision of the Mayor setting forth findings of fact and conclusions of law.</text>
-            </level>
-          </level>
-          <level>
-            <num>(3)</num>
-            <text>An order entered under this subsection shall not become final earlier than 30 days after it is issued, during which time the involved insurer may submit a plan to remedy the anticompetitive impact of the acquisition within a reasonable time. Based upon such a plan or other information, the Mayor shall specify the conditions, if any, under the time period during which the aspects of the acquisition causing a violation of the standards of this section would be remedied and the order vacated or modified.</text>
-          </level>
-          <level>
-            <num>(4)</num>
-            <text>An order pursuant to this subsection shall not apply if the acquisition is not consummated.</text>
-          </level>
-          <level>
-            <num>(5)</num>
-            <text>Any person who violates a cease and desist order of the Mayor under paragraph (1) of this subsection while such an order is in effect may, after notice and hearing and upon order of the Mayor, be subject, at the discretion of the Mayor, to any one or more of the following:</text>
-            <level>
-              <num>(A)</num>
-              <text>A monetary administrative penalty of not more than $10,000 for every day of violation; or</text>
-            </level>
-            <level>
-              <num>(B)</num>
-              <text>Suspension or revocation of the person's license.</text>
-            </level>
-          </level>
-          <level>
-            <num>(6)</num>
-            <text>Any insurer or other person who fails to make any filing required by this section, and who also fails to demonstrate a good faith effort to comply with any filing requirement, shall be subject to an administrative fine of not more than $50,000.</text>
-          </level>
-        </level>
-        <level>
-          <num>(f)</num>
-          <text>Sections 31-709(b) and (c) and 31-711 do not apply to acquisitions covered under subsection (b) of this section.</text>
-        </level>
       </level>
     </level>
+  </level>
+  <level>
+    <num>(e)</num>
+    <level>
+      <num>(1)</num>
+      <text>If an acquisition violates the standards of this section, the Mayor may enter an order:</text>
+      <level>
+        <num>(A)</num>
+        <text>Requiring an involved insurer to cease and desist from doing business in the District with respect to the line or lines of insurance involved in the violation; or</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Denying the application of an acquired or acquiring insurer for a license to do business in the District.</text>
+      </level>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>An order under this subsection shall not be entered unless:</text>
+      <level>
+        <num>(A)</num>
+        <text>There is a hearing;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Notice of the hearing is issued prior to the end of the waiting period and not less than 15 days prior to the hearing; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The hearing is concluded and the order is issued no later than 60 days after the end of the waiting period. Every order shall be accompanied by a written decision of the Mayor setting forth findings of fact and conclusions of law.</text>
+      </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>An order entered under this subsection shall not become final earlier than 30 days after it is issued, during which time the involved insurer may submit a plan to remedy the anticompetitive impact of the acquisition within a reasonable time. Based upon such a plan or other information, the Mayor shall specify the conditions, if any, under the time period during which the aspects of the acquisition causing a violation of the standards of this section would be remedied and the order vacated or modified.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>An order pursuant to this subsection shall not apply if the acquisition is not consummated.</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Any person who violates a cease and desist order of the Mayor under paragraph (1) of this subsection while such an order is in effect may, after notice and hearing and upon order of the Mayor, be subject, at the discretion of the Mayor, to any one or more of the following:</text>
+      <level>
+        <num>(A)</num>
+        <text>A monetary administrative penalty of not more than $10,000 for every day of violation; or</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Suspension or revocation of the person's license.</text>
+      </level>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Any insurer or other person who fails to make any filing required by this section, and who also fails to demonstrate a good faith effort to comply with any filing requirement, shall be subject to an administrative fine of not more than $50,000.</text>
+    </level>
+  </level>
+  <level>
+    <num>(f)</num>
+    <text>Sections 31-709(b) and (c) and 31-711 do not apply to acquisitions covered under subsection (b) of this section.</text>
   </level>
   <level type="annotations">
     <level>

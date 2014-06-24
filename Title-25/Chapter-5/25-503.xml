@@ -1,24 +1,24 @@
 <level type="section">
   <num>25-503</num>
-  <heading>Minimum annual fees for manufacturer's, wholesaler's, and off-premises retailer's licenses.</heading>
-  <text>The minimum annual fees for a manufacturer's, wholesaler's, and off-premises retailer's licenses shall be as set forth on the following:</text>
-  <level type="table">
-    <text>License Class Cost/year
-MANUFACTURERS
-Manufacturer's license, class A. (rectifying plant) $6,000
-Manufacturer's license, class A. (distillery) $6,000
-Manufacturer's license, class A. (winery) $1,500
-Manufacturer's license, class A. (distillery
-producing more than 50% nonbeverage alcohol) $3,000
-Manufacturer's license, class B. (brewery) $5,000
-WHOLESALERS
-Wholesaler's license, class A. (beer, wine, and spirits) $4,000
-Wholesaler's license, class B. (beer and wine) $2,000
-OFF-PREMISES RETAILERS
-Retailer's license (off-premises), class A.
-(beer, wine, and spirits) $2,000
-Retailer's license (off-premises), class B. (beer and wine) $1,000</text>
-  </level>
+  <heading>Minimum annual fees for manufacturer’s, wholesaler’s, and off-premises retailer’s licenses.</heading>
+  <text>The minimum annual fees for a manufacturer’s, wholesaler’s, and off-premises retailer’s licenses shall be as set forth on the following:</text>
+  <text>
+    <table>
+      <tr><th>License Class</th><th>Cost/year</th></tr>
+      <tr><td colspan='2'>MANUFACTURERS</td></tr>
+      <tr><td>Manufacturer’s license, class A. (rectifying plant)</td><td>$6,000</td></tr>
+      <tr><td>Manufacturer’s license, class A. (distillery)</td><td>$6,000</td></tr>
+      <tr><td>Manufacturer’s license, class A. (winery)</td><td>$1,500</td></tr>
+      <tr><td>Manufacturer’s license, class A. (distillery producing more than 50% nonbeverage alcohol)</td><td>$3,000</td></tr>
+      <tr><td>Manufacturer’s license, class B. (brewery)</td><td>$5,000</td></tr>
+      <tr><td colspan='2'>WHOLESALERS</td></tr>
+      <tr><td>Wholesaler’s license, class A. (beer, wine, and spirits)</td><td>$4,000</td></tr>
+      <tr><td>Wholesaler’s license, class B. (beer and wine)</td><td>$2,000</td></tr>
+      <tr><td colspan='2'>OFF-PREMISES RETAILERS</td></tr>
+      <tr><td>Retailer’s license (off-premises), class A. (beer, wine, and spirits)</td><td>$2,000</td></tr>
+      <tr><td>Retailer’s license (off-premises), class B. (beer and wine)</td><td>$1,000</td></tr>
+    </table>
+  </text>
   <level type="annotations">
     <level>
       <heading>History</heading>

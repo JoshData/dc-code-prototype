@@ -27,21 +27,19 @@
     <level>
       <num>(1)</num>
       <text>Any of the offenses specified in the Act entitled "An Act to establish a code of law for the District of Columbia", approved March 3, 1901, and listed in the following table:</text>
+      <text>
+        <table>
+          <tr><th>Offense:</th><th>Specified in -</th></tr>
+          <tr><td>Arson</td><td>sections 820, 821 (D.C. Code, secs. 22-301, 22-302).</td></tr>
+          <tr><td>Burglary</td><td>section 823 (D.C. Code, sec. 22-801).</td></tr>
+          <tr><td>Destruction of property of value in excess of $1000</td><td>section 848 (D.C. Code, sec. 22-303).</td></tr>
+          <tr><td>Gambling</td><td>sections 863, 866, 869e (D.C. Code, secs. 22-1701, 22-1705, 22-1713).</td></tr>
+          <tr><td>Kidnapping</td><td>section 812 (D.C. Code, sec. 22-2001).</td></tr>
+          <tr><td>Murder</td><td>sections 798, 800 (D.C. Code, secs. 22-2101, 22-2103).</td></tr>
+          <tr><td>Robbery</td><td>section 810 (D.C. Code, sec. 22-2801).</td></tr>
+        </table>
+      </text>
     </level>
-  </level>
-  <level type="table">
-    <text>Offense: Specified in -
-Arson ............................ sections 820, 821 (D.C. Code, secs.
- 22-301, 22-302).
-Burglary ......................... section 823 (D.C. Code, sec. 22-801).
-Destruction of property of value
-in excess of $1000 section 848 (D.C. Code, sec. 22-303).
-Gambling ......................... sections 863, 866, 869e (D.C. Code,
- secs. 22-1701, 22-1705, 22-1713).
-Kidnapping ....................... section 812 (D.C. Code, sec. 22-2001).
-Murder ........................... sections 798, 800 (D.C. Code, secs.
- 22-2101, 22-2103).
-Robbery .......................... section 810 (D.C. Code, sec. 22-2801).</text>
   </level>
   <level>
     <num>(2)</num>
@@ -59,18 +57,18 @@ Robbery .......................... section 810 (D.C. Code, sec. 22-2801).</text>
     <num>(5)</num>
     <text>Any of the offenses specified in the District of Columbia Theft and White Collar Crimes Act of 1982, and listed in the following table:</text>
   </level>
-  <level type="table">
-    <text>Offense: Specified in -
-Extortion ........................ section 151 [D.C. Code, § 22-3251].
-Blackmail ........................ section 152 [D.C. Code, § 22-3252].
-Bribery .......................... section 302 [D.C. Code, § 22-712].
-Obstruction of justice ........... section 502 [D.C. Code, § 22-722].
-Receiving stolen property of value
-in excess of $1000 section 132 [D.C. Code, § 22-3232].
-Theft of property of value in
-excess of $1000 section 111 [D.C. Code, § 22-3211].
-Trafficking in stolen property ... section 131 [D.C. Code, § 22-3231].</text>
-  </level>
+  <text>
+    <table>
+      <tr><th>Offense:</th><th>Specified in -</th></tr>
+      <tr><td>Extortion</td><td>section 151 [D.C. Code, § 22-3251].</td></tr>
+      <tr><td>Blackmail</td><td>section 152 [D.C. Code, § 22-3252].</td></tr>
+      <tr><td>Bribery</td><td>section 302 [D.C. Code, § 22-712].</td></tr>
+      <tr><td>Obstruction of justice</td><td>section 502 [D.C. Code, § 22-722].</td></tr>
+      <tr><td>Receiving stolen property of value in excess of $1000</td><td>section 132 [D.C. Code, § 22-3232].</td></tr>
+      <tr><td>Theft of property of value in excess of $1000</td><td>section 111 [D.C. Code, § 22-3211].</td></tr>
+      <tr><td>Trafficking in stolen property</td><td>section 131 [D.C. Code, § 22-3231].</td></tr>
+    </table>
+  </text>
   <level type="annotations">
     <level>
       <heading>History</heading>

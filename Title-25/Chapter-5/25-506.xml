@@ -5,10 +5,12 @@
     <num>(a)</num>
     <text>The minimum fee for the issuance of a temporary license shall be the following:</text>
   </level>
-  <level type="table">
-    <text>Temporary license (class F) (beer and wine) $100/day
-Temporary license (class G) (spirits, beer, and wine) $300/day</text>
-  </level>
+  <text>
+    <table>
+      <tr><td>Temporary license (class F) (beer and wine)</td><td>$100/day</td></tr>
+      <tr><td>Temporary license (class G) (spirits, beer, and wine)</td><td>$300/day</td></tr>
+    </table>
+  </text>
   <level>
     <num>(b)</num>
     <text>Upon request, the Board has the authority to reduce the fee to $150 per day, for a temporary license, class G, or to $50 per day, for a temporary license, class F, for nonprofit organizations. This reduction shall only be available once each calendar year to any single organization.</text>

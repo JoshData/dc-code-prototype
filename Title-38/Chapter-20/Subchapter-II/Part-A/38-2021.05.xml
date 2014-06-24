@@ -43,18 +43,17 @@
       </level>
     </level>
   </level>
-  <level type="table">
-    <text> If annuity commences between Annuity not in Annuity in
- excess of $1,500 excess of $1,500
- shall be increased byshall be
- increased by
-August 20, 1920, and June 30, 1955 .... 12 per centum ..... 8 per centum
-July 1, 1955, and December 31, 1955 ... 10 per centum ..... 7 per centum
-January 1, 1956, and June 30, 1956 .... 8 per centum ...... 6 per centum
-July 1, 1956, and December 31, 1956 ... 6 per centum ...... 4 per centum
-January 1, 1957, and June 30, 1957 .... 4 per centum ...... 2 per centum
-July 1, 1957, and December 31, 1957 ... 2 per centum ...... 1 per centum</text>
-  </level>
+  <text>
+    <table>
+      <tr><th>If annuity commences between</th><th>Annuity not in excess of $1,500 shall be increased by</th><th>Annuity in  excess of $1,500 shall be increased by</th></tr>
+      <tr><td>August 20, 1920, and June 30, 1955</td><td>12 per centum</td><td>8 per centum</td></tr>
+      <tr><td>July 1, 1955, and December 31, 1955</td><td>10 per centum</td><td>7 per centum</td></tr>
+      <tr><td>January 1, 1956, and June 30, 1956</td><td>8 per centum</td><td>6 per centum</td></tr>
+      <tr><td>July 1, 1956, and December 31, 1956</td><td>6 per centum</td><td>4 per centum</td></tr>
+      <tr><td>January 1, 1957, and June 30, 1957</td><td>4 per centum</td><td>2 per centum</td></tr>
+      <tr><td>July 1, 1957, and December 31, 1957</td><td>2 per centum</td><td>1 per centum</td></tr>
+    </table>
+  </text>
   <level>
     <num>(B)</num>
     <text>Such increase in annuity shall not exceed the sum necessary to increase such annuity, exclusive of annuity purchased by voluntary contributions under this section, to $4,104. The monthly installment of each annuity so increased shall be fixed at the nearest dollar.</text>

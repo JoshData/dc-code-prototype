@@ -2,76 +2,40 @@
   <num>25-504</num>
   <heading>Minimum annual fees for on-premises retail licenses, class C and D.</heading>
   <text>The minimum annual fees for an on-premises retailer's licenses, class C and D, shall be as set forth on the following schedule. Capacity shall be the posted level of occupancy approved under the Construction Codes, as defined under § 6-1401 and as set forth in Title 12 of the District of Columbia Municipal Regulations.</text>
-  <level type="table">
-    <text>Type Capacity Class C (beer,
- wine, spirits) Class D (beer &amp;
- wine)
-Restaurant 99 or fewer. $500 $300
- 100 to 199. $1,000 $600
- 200 to 499. $1,500 $900
- 500 or more. $2,000 $1,200
-Tavern 99 or fewer. $800 $500
- 100 to 199. $1,600 $1,000
- 200 or more. $2,400 $1,500
-Nightclub 99 or fewer. $1,500 $1,000
- 100 to 199. $2,000 $1,250
- 200 to 499. $2,500 $1,500
- 500 to 999. $3,500 $2,000
- 1,000 or more. $4,500 $3,500
-Hotel 99 or fewer
- guest rooms $2,000 $1,000
- 100 or more
- guest rooms $4,000 $2,000
-Club $1,500 $500
-Multipurpose $1,500 $500
-facility
-Marine vessel Single vessel. $1,500 $750
-Marine vessel
-line 3 or fewer
- vessels and
- dockside
- waiting areas $2,500 $1,000
- Each additional
- vessel or
- dockside
- waiting area. $1,500 $500
-Railroad
-dining or club
-car Single car. $500 $250
-Railroad
-company All dining or
- club cars $1,500 $750
-Caterer More than
- $1,000,000 per
- year gross
- annual receipts $5,000 -
-Caterer $1,000,000 or
- less per year
- gross annual
- receipts $4,000 -
-Caterer $500,000 or
- less per year
- gross annual
- receipts $3,000 -
-Caterer $300,000 or
- less per year
- gross annual
- receipts $2,000 -
-Caterer $200,000 or
- less per year
- gross annual
- receipts $1,000 -
-Caterer $100,000 or
- less per year
- gross annual
- receipts $750 -
-Caterer $50,000 or less
- per year gross
- annual receipts $500 -
-Caterer $25,000 or less
- per year gross
- annual receipts $300 -</text>
-  </level>
+  <text>
+    <table>
+      <tr><th>Type</th><th>Capacity</th><th>Class C (beer, wine, spirits)</th><th>Class D (beer &amp; wine)</th></tr>
+      <tr><td>Restaurant</td><td>99 or fewer.</td><td>$500</td><td>$300</td></tr>
+      <tr><td></td><td>100 to 199.</td><td>$1,000</td><td>$600</td></tr>
+      <tr><td></td><td>200 to 499.</td><td>$1,500</td><td>$900</td></tr>
+      <tr><td> </td><td>500 or more.</td><td>$2,000</td><td>$1,200</td></tr>
+      <tr><td>Tavern</td><td>99 or fewer.</td><td>$800</td><td>$500</td></tr>
+      <tr><td> </td><td>100 to 199.</td><td>$1,600</td><td>$1,000</td></tr>
+      <tr><td> </td><td>200 or more.</td><td>$2,400</td><td>$1,500</td></tr>
+      <tr><td>Nightclub</td><td>99 or fewer.</td><td>$1,500</td><td>$1,000</td></tr>
+      <tr><td> </td><td>100 to 199.</td><td>$2,000</td><td>$1,250</td></tr>
+      <tr><td> </td><td>200 to 499.</td><td>$2,500</td><td>$1,500</td></tr>
+      <tr><td> </td><td>500 to 999.</td><td>$3,500</td><td>$2,000</td></tr>
+      <tr><td> </td><td>1,000 or more.</td><td>$4,500</td><td>$3,500</td></tr>
+      <tr><td>Hotel</td><td>99 or fewer guest rooms</td><td>$2,000</td><td>$1,000</td></tr>
+      <tr><td> </td><td>100 or more guest rooms</td><td>$4,000</td><td>$2,000</td></tr>
+      <tr><td>Club</td><td></td><td>$1,500</td><td>$500</td></tr>
+      <tr><td></td><td>Multipurpose facility</td><td>$1,500</td><td>$500</td></tr>
+      <tr><td>Marine vessel</td><td>Single vessel.</td><td>$1,500</td><td>$750</td></tr>
+      <tr><td>Marine vessel line</td><td>3 or fewer vessels and dockside waiting areas</td><td>$2,500</td><td>$1,000</td></tr>
+      <tr><td></td><td>Each additional vessel or dockside waiting area.</td><td>$1,500</td><td>$500</td></tr>
+      <tr><td></td><td>Railroad dining or club car Single car.</td><td>$500</td><td>$250</td></tr>
+      <tr><td>Railroad company</td><td>All dining or club cars</td><td>$1,500</td><td>$750</td></tr>
+      <tr><td>Caterer </td><td>More than $1,000,000 per year gross annual receipts</td><td>$5,000</td><td>-</td></tr>
+      <tr><td>Caterer</td><td>$1,000,000 or less per year gross annual receipts</td><td>$4,000</td><td>-</td></tr>
+      <tr><td>Caterer</td><td>$500,000 or less per year gross annual receipts</td><td>$3,000</td><td>-</td></tr>
+      <tr><td>Caterer</td><td>$300,000 or less per year gross annual receipts</td><td>$2,000</td><td>-</td></tr>
+      <tr><td>Caterer</td><td>$200,000 or less per year gross annual receipts</td><td>$1,000</td><td>-</td></tr>
+      <tr><td>Caterer</td><td>$100,000 or less per year gross annual receipts</td><td>$750</td><td>-</td></tr>
+      <tr><td>Caterer</td><td>$50,000 or less per year gross annual receipts</td><td>$500</td><td>-</td></tr>
+      <tr><td>Caterer</td><td>$25,000 or less per year gross annual receipts</td><td>$300</td><td>-</td></tr>
+    </table>
+  </text>
   <level type="annotations">
     <level>
       <heading>History</heading>
