@@ -19,16 +19,19 @@
           <heading>In general</heading>
           <text>Notwithstanding any other provision of law, regulation, or order relating to the disposition of a facility or property described in subparagraph (B) of this paragraph, the Mayor and the District of Columbia government shall give a right of first offer with respect to any facility or property described in subparagraph (B) of this paragraph not previously purchased, leased, or transferred, or under contract to be purchased, leased, or transferred, or the subject of a previously proposed resolution submitted by the Mayor on or before December 1, 2004, to the Council of the District of Columbia seeking authority for disposition of such facility or property, or under an Exclusive Rights Agreement executed on or before December 1, 2004, to an eligible applicant whose petition to establish a public charter school has been conditionally approved under § 38-1802.03(d)(2), or a Board of Trustees, with respect to the purchase, lease, transfer, or use of a facility or property described in subparagraph (B) of this paragraph; provided, that the right of first offer shall be offered to an existing tenant that is:</text>
           <level>
-            <num>(aa)</num>
-            <text>A public charter school that has occupied all, or substantially all, of the facility or property; or</text>
+            <num>(I)</num>
+            <level>
+              <num>(aa)</num>
+              <text>A public charter school that has occupied all, or substantially all, of the facility or property; or</text>
+            </level>
+            <level>
+              <num>(bb)</num>
+              <text>An organization providing educational or youth services under contract with the District government that has been a tenant of the facility or property and has occupied all, or substantially all, of the facility or property since on or before December 1, 2004; and</text>
+            </level>
           </level>
           <level>
-            <num>(bb)</num>
-            <text>An organization providing educational or youth services under contract with the District government that has been a tenant of the facility or property and has occupied all, or substantially all, of the facility or property since on or before December 1, 2004; and</text>
-            <level>
-              <num>(II)</num>
-              <text>In good standing on its existing lease agreement.</text>
-            </level>
+            <num>(II)</num>
+            <text>In good standing on its existing lease agreement.</text>
           </level>
         </level>
         <level>
