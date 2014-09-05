@@ -44,6 +44,22 @@
       <text>The Mayor shall operate an intake center specializing in crisis intervention services and located in close proximity to the Landlord and Tenant Branch of the Superior Court of the District of Columbia.</text>
     </level>
     <level>
+      <num>(1B)</num>
+      <text>Intake workers shall provide the following for each individual seeking services:</text>
+      <level>
+        <num>(A)</num>
+        <text>An overview of the shelter's policies in regards to the protection of residents based upon actual or perceived sexual orientation and gender identity;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The opportunity for the individual to disclose whether he or she requests special placement or care based on safety concerns due to actual or perceived sexual orientation status or gender identity; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The opportunity to disclose, voluntarily and only following a discussion of the shelter's policies and accommodations for LGBTQ populations and ability to safeguard confidential information, the individual's sexual orientation and gender identification and expression; provided, that the intake worker and all staff shall conduct this discussion in a culturally competent manner.</text>
+      </level>
+    </level>
+    <level>
       <num>(2)</num>
       <text>Families who are eligible for services within the Continuum of Care shall receive appropriate referrals to the first available provider based on the chronological order in which they apply for assistance, consistent with any additional eligibility requirements established pursuant to § 4-754.32 by the provider from whom services are sought.</text>
     </level>
@@ -53,7 +69,7 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>Notwithstanding paragraph (2) of this subsection, in determining what is an "appropriate referral," the Mayor shall consider relevant factors, including prior receipt of services, disability, family size, affordability of housing and age, and may use these factors to prioritize a family's placement in shelter or other service.</text>
+      <text>Notwithstanding paragraph (2) of this subsection, in determining what is an "appropriate referral," the Mayor shall consider relevant factors, including prior receipt of services, disability, family size, affordability of housing, age, and whether an individual is an LGBTQ homeless youth, and may use these factors to prioritize a family's placement in shelter or other service.</text>
     </level>
     <level>
       <num>(5)</num>
@@ -62,21 +78,29 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>The Mayor shall operate a computerized information system to collect, maintain, and distribute up-to-date information regarding the number of beds or units available in shelter and supportive housing in the District, the availability of supportive services, and the current usage and unmet demand for such beds, units, and services.</text>
+    <level>
+      <num>(1)</num>
+      <text>The Mayor shall operate a computerized information system to collect, maintain, and distribute up-to-date information regarding the number of beds or units available in shelter and supportive housing in the District, the availability of supportive services, and the current usage and unmet demand for such beds, units, and services.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Intake providers shall enter the information provided pursuant to subsection (c)(1B) of this section in the computerized information system.</text>
+    </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 22, 2005, D.C. Law 16-35, § 8, 52 DCR 8113; Mar. 14, 2007, D.C. Law 16-296, § 2(f), 54 DCR 1097; Apr. 8, 2011, D.C. Law 18-367, § 2(c), 58 DCR 987.)</text>
+      <text>(Oct. 22, 2005, D.C. Law 16-35, § 8, 52 DCR 8113; Mar. 14, 2007, D.C. Law 16-296, § 2(f), 54 DCR 1097; Apr. 8, 2011, D.C. Law 18-367, § 2(c), 58 DCR 987; May 3, 2014, D.C. Law 20-100, § 2(e), 61 DCR 1873.)</text>
     </level>
     <level>
       <heading>Section References</heading>
-      <text>This section is referenced in § 4-752.02, § 4-754.21, and § 4-754.34.</text>
+      <text>This section is referenced in § 4-752.02, § 4-754.21, § 4-754.34, and § 4-756.02.</text>
     </level>
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 16-296, in subsec. (c), added par. (1A).</text>
       <text>D.C. Law 18-367, in subsec. (a)(2), substituted "§ 4-751.01(32), except that low-barrier shelters and severe weather shelters operating as low-barrier shelters shall not be required to receive demonstration of residency or prioritize District residents, pursuant to subsection (b) of this section; and" for "§ 4-205.03"; added subsec. (a-1); and, in subsec. (b), substituted "for assistance. The District shall give priority, however, to an individual or family who establishes proof of residency and homelessness at the time of application for assistance" for "for assistance".</text>
+      <text>The 2014 amendment by D.C. Law 20-100 added (c)(1B); substituted "housing, age, and whether an individual is an LGBTQ homeless youth" for "housing and age" in (c)(4); and added (d)(2).</text>
     </level>
     <level>
       <heading>Legislative History of Law 16-35</heading>
@@ -89,6 +113,10 @@
     <level>
       <heading>Legislative History of Law 18-367</heading>
       <text>For history of Law 18-367, see notes under § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-100</heading>
+      <text>See note to § 7-751.01.</text>
     </level>
   </level>
 </level>

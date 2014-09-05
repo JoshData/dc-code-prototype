@@ -1,0 +1,9 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>39A</num>
+  <heading>Internet Tax</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3931.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3932.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3933.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-3934.xml"/>
+</level>

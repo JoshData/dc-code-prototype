@@ -13,6 +13,7 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3A/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3B/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-4/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-4A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-5/index.xml"/>
@@ -21,6 +22,7 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-7A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-7B/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-7C/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-7D/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-8/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-8A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-9/index.xml"/>
@@ -88,7 +90,7 @@
   <level type="toc">
     <prefix>Subtitle</prefix>
     <num>VIII</num>
-    <heading>State Level Agencies</heading>
+    <heading>State Level Agencies and Activities</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-26/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-26A/index.xml"/>
   </level>
@@ -98,6 +100,7 @@
     <heading>College Access Assistance</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-27/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-27A/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-27B/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>
@@ -116,5 +119,6 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-31/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-32/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-33/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-26B/index.xml"/>
   </level>
 </level>

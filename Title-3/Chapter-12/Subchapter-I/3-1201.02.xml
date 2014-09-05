@@ -78,6 +78,128 @@
     </level>
   </level>
   <level>
+    <num>(2A-i)</num>
+    <level>
+      <num>(A)</num>
+      <text>"Practice of assisted living administration" means planning, organizing, directing, and controlling the operation of an assisted living residence.</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>For the purposes of this chapter, the term:</text>
+      <level>
+        <num>(i)</num>
+        <text>"Assisted living administrator" or "ALA" means a person who oversees the day-to-day operation of the facility, including compliance with all regulations for licensed assisted living residences.</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>"Assisted living residence" shall have the same meaning as provided in § 44-102.01(4).</text>
+      </level>
+    </level>
+  </level>
+  <level>
+    <num>(2A-ii)</num>
+    <level>
+      <num>(A)</num>
+      <text>"Practice of athletic training" means any of the following:</text>
+      <level>
+        <num>(i)</num>
+        <text>The treatment of an athletic injury that is:</text>
+        <level>
+          <num>(I)</num>
+          <text>For an athlete whose condition is within the professional and educational ability of the licensed athletic trainer; and</text>
+        </level>
+        <level>
+          <num>(II)</num>
+          <text>Performed under the general supervision of a physician who has issued any written order, protocol, or recommendation for an athletic injury;</text>
+        </level>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>The immediate treatment of athletic injuries, including common emergency medical situations;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>The provision of education, guidance, and counseling to athletes, coaches, parents of athletes, and athletic communities regarding athletic training and the prevention, care, and treatment of athletic injuries; and</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>The organization and administration of athletic training programs.</text>
+      </level>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Nothing in subparagraph (A) of this paragraph shall be construed as authorizing:</text>
+      <level>
+        <num>(i)</num>
+        <text>The diagnosis of a physical disability, massaging of the superficial soft tissues of the body, or the use of X rays, radium, or electricity for cauterization or surgery by an athletic trainer;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Treatment or rehabilitation of neurologic injuries, conditions, or disease other than the preventative and emergency medical treatment authorized by subparagraphs (A)(i) and (A)(ii) of this paragraph; and</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>The expansion of treatment beyond the determination of the supervising physician.</text>
+      </level>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Nothing in subparagraph (A) of this paragraph shall be construed as preventing or restricting:</text>
+      <level>
+        <num>(i)</num>
+        <text>The lawful practice of a licensed health care professional under the scope of his or her license; provided, that he or she does not hold himself or herself out as an athletic trainer;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Self-care by a patient, the provision of basic first aid services by an individual, or the gratuitous care by a friend or family member who does not represent himself or herself as an athletic trainer;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>The lawful practice of a personal trainer registered with the Mayor; provided, that the person does not represent himself or herself as an athletic trainer or provide athletic trainer services, and treatment of any athletic injuries is limited to the provision of basic first aid;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>Coaches and physical education instructors, health or recreation directors, health club or spa instructors, and water safety instructors that are supervising athletic activities, exercise, aerobics, weightlifting, water safety, and other recreational physical activities; provided, that the person does not represent himself or herself as an athletic trainer or provide athletic trainer services, and if any treatment of athletic injuries is limited to the provision of basic first aid;</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>The activities of athletic training students acting under the direction of an athletic trainer licensed, certified, or registered in any state; provided, that the students are designated by a title that clearly indicates their status as athletic training students; or</text>
+      </level>
+      <level>
+        <num>(vi)</num>
+        <text>The activities of athletic trainers from other nations, states, or territories when performing their duties for their respective teams or organizations and only during the course of their team's or organization's stay in the District; provided, that the athletic trainers are currently licensed, certified, or registered, in any state or Canada, or are currently certified by the National Athletic Trainers Association Board of Certification, Inc., or its successor.</text>
+      </level>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>For the purposes of this paragraph, the term:</text>
+      <level>
+        <num>(i)</num>
+        <text>"Athlete" means:</text>
+        <level>
+          <num>(I)</num>
+          <text>A person participating in, or preparing for a competitive team or individual sport or other athletic activity being conducted by an educational institution, professional athletic organization, or a board-sanctioned amateur athletic organization; or</text>
+        </level>
+        <level>
+          <num>(II)</num>
+          <text>A member of an athletic team.</text>
+        </level>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>"Athletic injury" means a musculoskeletal injury suffered by an athlete resulting from or limiting participation in or training for scholastic, recreational, professional, or amateur athletic activities.</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>"Treatment" means the prevention, evaluation, recognition, management, treatment, rehabilitation, or reconditioning of an athletic injury, including the usage of appropriate preventative and supportive devices, temporary splinting and bracing, physical modalities of heat, cold, light, massage, water, electric stimulation, sound, and exercise equipment for which an athletic trainer has received appropriate training or education.</text>
+      </level>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Any person who holds a license pursuant to this chapter as an athletic trainer may use the letters "LAT" or "AT" in connection with the person's name to denote licensure hereunder, and unlicensed persons are prohibited from using in connection with their name or business activity the words "athletic trainer," "trainer," "certified athletic trainer," and "licensed athletic trainer."</text>
+    </level>
+  </level>
+  <level>
     <num>(2B)</num>
     <level>
       <num>(A)</num>
@@ -87,6 +209,10 @@
       <num>(B)</num>
       <text>Nothing in this paragraph shall be construed as preventing or restricting the practice, services, or activities of a school audiologist employed by, and working in accordance with, the regulations of the District of Columbia Board of Education.</text>
     </level>
+  </level>
+  <level>
+    <num>(2C)</num>
+    <text>"Practice by an audiology assistant" means assisting a licensed audiologist in implementing audiology care and treatment plans for patients under the direct supervision and direction of the licensed audiologist.</text>
   </level>
   <level>
     <num>(3)</num>
@@ -233,6 +359,17 @@
     <num>(6A)</num>
     <level>
       <num>(A)</num>
+      <text>"Practice of home health care administration" means planning, organizing, directing, and controlling the provision of skilled and paraprofessional home health care, including related services, to individuals in out-of-hospital settings, such as private homes, boarding homes, hospices, and shelters.</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>For the purposes of this chapter, the term "home health care administrator" means a person who oversees the day-to-day operation of the provision of home health care, including compliance with all regulations for home care agency and home health agency administration.</text>
+    </level>
+  </level>
+  <level>
+    <num>(6B)</num>
+    <level>
+      <num>(A)</num>
       <text>"Practice of marriage and family therapy" means the diagnosis and treatment of mental and emotional disorders, whether cognitive, affective, or behavioral, within the context of marriage and family systems. The practice of marriage and family therapy involves the professional application of psychotherapeutic and family systems theories and techniques in the delivery of services to individuals, couples, and families, singly or in groups, whether the services are offered directly to the general public or through organizations, either public or private, for a fee, monetary or otherwise, for the purpose of treating the diagnosed nervous and mental disorders.</text>
     </level>
     <level>
@@ -265,7 +402,7 @@
     </level>
   </level>
   <level>
-    <num>(6B)</num>
+    <num>(6C)</num>
     <level>
       <num>(A)</num>
       <text>"Practice of massage therapy" means the:</text>
@@ -823,13 +960,45 @@
     </level>
   </level>
   <level>
+    <num>(19A)</num>
+    <text>"Practice by a speech-language pathology assistant" means assisting a licensed speech-language pathologist in implementing speech-language pathology care and treatment plans for patients under the direct supervision and direction of the licensed speech-language pathologist.</text>
+  </level>
+  <level>
+    <num>(19B)</num>
+    <text>"Practice by a speech-language pathology clinical fellow" means the practice of speech-language pathology by a participant in a clinical fellowship that meets the definition set forth in § 3-1209.11.</text>
+  </level>
+  <level>
     <num>(20)</num>
     <text>"Practice by surgical assistants" means the provision of aid by a person who is not a physician licensed to practice medicine, under the direct supervision of a surgeon licensed in the District of Columbia, in exposure, hemostasis, closures, and other intraoperative technical functions that assist a physician in performing a safe operation with optimal results for the patient.</text>
+  </level>
+  <level>
+    <num>(21)</num>
+    <text>"Practice by trauma technologists" means the provision of emergency medical care to trauma patients in a Level 1 trauma facility as designated by the Director of the Department of Health pursuant to Chapters 27 and 28 of Subtitle B of Title 22 of the District of Columbia Municipal Regulations (22-B DCMR § 2700 et seq. and § 2800 et seq.), under either the direct or indirect supervision of a physician licensed to practice medicine in the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(22)</num>
+    <text>"Practice of veterinary medicine" means:</text>
+    <level>
+      <num>(A)</num>
+      <text>The diagnosis, prognosis, prevention, testing, or treatment of a disease, pain, deformity, defect, injury, or any other physical condition of an animal;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Performing a surgical, medical, or dental procedure, or rendering surgical, medical, or dental aid to, for, or upon an animal;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The practice of another branch or specialty of medicine or health care on an animal; or</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Prescribing, administering, or dispensing of drugs or medications for use on animals or for euthanasia of an animal.</text>
+    </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 25, 1986, D.C. Law 6-99, § 102, 33 DCR 729; July 22, 1992, D.C. Law 9-126, § 2(b), 39 DCR 3824; Mar. 14, 1995, D.C. Law 10-203, § 2(b), 41 DCR 7707; Mar. 14, 1995, D.C. Law 10-205, § 2(a), 41 DCR 7712; Mar. 21, 1995, D.C. Law 10-231, § 2(b), 42 DCR 15; Mar. 23, 1995, D.C. Law 10-247, § 2(b), 42 DCR 457; Apr. 18, 1996, D.C. Law 11-110, § 7(a), 43 DCR 530; July 24, 1998, D.C. Law 12-139, § 2(a), 45 DCR 2975; Mar. 10, 2004, D.C. Law 15-88, § 2(c), 50 DCR 10999; July 8, 2004, D.C. Law 15-172, § 2(b), 51 DCR 4938; Mar. 16, 2005, D.C. Law 15-237, § 2(b), 51 DCR 10593; Mar. 6, 2007, D.C. Law 16-219, § 2(c), 53 DCR 10211; Mar. 6, 2007, D.C. Law 16-220,§ 2(a), 53 DCR 10216; Mar. 6, 2007, D.C. Law 16-221, § 2, 53 DCR 10218; Mar. 6, 2007, D.C. Law 16-228, § 2(b), 53 DCR 10244; Mar. 26, 2008, D.C. Law 17-131, § 102(b), 55 DCR 1659; Mar. 20, 2009, D.C. Law 17-306, § 2(a), 56 DCR 23; Mar. 25, 2009, D.C. Law 17-353, §§ 146(a), 147, 148, 309(a), 56 DCR 1117; July 7, 2009, D.C. Law 18-11, § 2(a), 56 DCR 3602; July 7, 2009, D.C. Law 18-12, § 2(a), 56 DCR 3605; July 7, 2009, D.C. Law 18-13, § 2(b), 56 DCR 3608; July 7, 2009, D.C. Law 18-14, § 2(b), 56 DCR 3613; July 7, 2009, D.C. Law 18-15, § 2(c), 56 DCR 3616; July 7, 2009, D.C. Law 18-16, § 2, 56 DCR 3620; July 7, 2009, D.C. Law 18-17, § 2(a), 56 DCR 3622; July 7, 2009, D.C. Law 18-18, § 2(b), 56 DCR 3624; July 7, 2009, D.C. Law 18-19, § 2(b), 56 DCR 3629; Mar. 14, 2012, D.C. Law 19-104, § 2(a), 59 DCR 435; Oct. 22, 2012, D.C. Law 19-185, § 2(a), 59 DCR 9454.)</text>
+      <text>(Mar. 25, 1986, D.C. Law 6-99, § 102, 33 DCR 729; July 22, 1992, D.C. Law 9-126, § 2(b), 39 DCR 3824; Mar. 14, 1995, D.C. Law 10-203, § 2(b), 41 DCR 7707; Mar. 14, 1995, D.C. Law 10-205, § 2(a), 41 DCR 7712; Mar. 21, 1995, D.C. Law 10-231, § 2(b), 42 DCR 15; Mar. 23, 1995, D.C. Law 10-247, § 2(b), 42 DCR 457; Apr. 18, 1996, D.C. Law 11-110, § 7(a), 43 DCR 530; July 24, 1998, D.C. Law 12-139, § 2(a), 45 DCR 2975; Mar. 10, 2004, D.C. Law 15-88, § 2(c), 50 DCR 10999; July 8, 2004, D.C. Law 15-172, § 2(b), 51 DCR 4938; Mar. 16, 2005, D.C. Law 15-237, § 2(b), 51 DCR 10593; Mar. 6, 2007, D.C. Law 16-219, § 2(c), 53 DCR 10211; Mar. 6, 2007, D.C. Law 16-220,§ 2(a), 53 DCR 10216; Mar. 6, 2007, D.C. Law 16-221, § 2, 53 DCR 10218; Mar. 6, 2007, D.C. Law 16-228, § 2(b), 53 DCR 10244; Mar. 26, 2008, D.C. Law 17-131, § 102(b), 55 DCR 1659; Mar. 20, 2009, D.C. Law 17-306, § 2(a), 56 DCR 23; Mar. 25, 2009, D.C. Law 17-353, §§ 146(a), 147, 148, 309(a), 56 DCR 1117; July 7, 2009, D.C. Law 18-11, § 2(a), 56 DCR 3602; July 7, 2009, D.C. Law 18-12, § 2(a), 56 DCR 3605; July 7, 2009, D.C. Law 18-13, § 2(b), 56 DCR 3608; July 7, 2009, D.C. Law 18-14, § 2(b), 56 DCR 3613; July 7, 2009, D.C. Law 18-15, § 2(c), 56 DCR 3616; July 7, 2009, D.C. Law 18-16, § 2, 56 DCR 3620; July 7, 2009, D.C. Law 18-17, § 2(a), 56 DCR 3622; July 7, 2009, D.C. Law 18-18, § 2(b), 56 DCR 3624; July 7, 2009, D.C. Law 18-19, § 2(b), 56 DCR 3629; Mar. 14, 2012, D.C. Law 19-104, § 2(a), 59 DCR 435; Oct. 22, 2012, D.C. Law 19-185, § 2(a), 59 DCR 9454; Jan. 25, 2014, D.C. Law 20-64, § 2(b), 60 DCR 16533, Mar. 26, 2014, D.C. Law 20-96, § 102(c), 61 DCR 1184.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -862,6 +1031,12 @@
       <text>D.C. Law 18-19 rewrote par. (7), which had read as follows: "(7) 'Practice of medicine' means the application of scientific principles to prevent, diagnose, and treat physical and mental diseases, disorders, and conditions and to safeguard the life and health of any woman and infant through pregnancy and parturition."</text>
       <text>D.C. Law 19-104 added par. (13A).</text>
       <text>The 2012 amendment by D.C. Law 19-185 substituted "the initiating, modifying, or discontinuing a drug therapy in accordance with a duly executed collaborative practice agreement; and the maintenance of proper records" for "and the maintenance of proper records therefor" in (11)(A); redesignated (11)(B)(i) and (11)(B)(ii) as (11)(B)(ii) and (11)(B)(iii), respectively; and added (11)(B)(i).</text>
+      <text>The 2014 amendment by D.C. Law 20-64 added (21).</text>
+      <text>The 2014 amendment by D.C. Law 20-96, § 102(c)(1), added (2A-i) and (2A-ii).</text>
+      <text>The 2014 amendment by D.C. Law 20-96, § 102(c)(2), applicable 1 year after March 26, 2014, repealed (2B)(B).</text>
+      <text>The 2014 amendment by D.C. Law 20-96, § 102(c)(3)-(5), added (2C) and (6A); and redesignated (6A) and (6B) as (6B) and (6C), respectively.</text>
+      <text>The 2014 amendment by D.C. Law 20-96, § 102(c)(6), applicable 1 year after March 26, 2014, repealed (19)(D).</text>
+      <text>The 2014 amendment by D.C. Law 20-96, § 102(c)(7)-(8), added (19A), (19B), and the paragraph designated herein as (22).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -985,8 +1160,20 @@
       <text>Law 19-185, the "Collaborative Care Expansion Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-657. The Bill was adopted on first and second readings on June 5, 2012, and July 10, 2012, respectively. Signed by the Mayor on July 31, 2012, it was assigned Act No. 19-438 and transmitted to Congress for its review. D.C. Law 19-185 became effective on Oct. 22, 2012.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-64</heading>
+      <text>Law 20-64, the "Trauma Technologists Licensure Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-232. The Bill was adopted on first and second readings on October 1, 2013, and November 5, 2013, respectively. Signed by the Mayor on November 26, 2013, it was assigned Act No. 20-220 and transmitted to Congress for its review. D.C. Law 20-64 became effective on January 25, 2014.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-96</heading>
+      <text>See note to § 3-1201.01.</text>
+    </level>
+    <level>
       <heading>Delegation of Authority</heading>
       <text>Delegation of Authority pursuant to D.C. Law 17-131, the SafeRX Amendment Act of 2008, see Mayor's Order 2008-94, July 3, 2008</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-96: Section 501 of 20-96 provided that §§ 102(c)(2) and 102(c)(6) of the act shall apply 1 year after March 26, 2014.</text>
     </level>
   </level>
 </level>

@@ -1,26 +1,73 @@
 <level type="section">
   <num>47-4701</num>
-  <heading>Exemptions and abatements approval requirements.</heading>
+  <heading>TAFA requirements.</heading>
   <level>
     <num>(a)</num>
-    <text>Any act introduced in the Council that grants an exemption or abatement of a tax imposed by this title or by § 42-1103 shall satisfy the requirements set forth in this chapter.</text>
+    <text>A bill introduced in the Council that grants an exemption or abatement of a tax imposed by this title or by § 42-1103, unless the exemption or abatement is one of general applicability, shall not receive a Council hearing until a completed tax abatement financial analysis ("TAFA") has been provided to the Council and made available to the public.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>An act described in subsection (a) of this section shall be accompanied by an analysis that includes:</text>
     <level>
       <num>(1)</num>
-      <text>The terms of the exemption or abatement;</text>
+      <text>The TAFA shall include:</text>
+      <level>
+        <num>(A)</num>
+        <text>The terms of the exemption or abatement;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The estimated annual value of the exemption or abatement;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The purpose for which the grantee seeks the exemption or abatement;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>A summary of the proposed community benefits to be provided by the grantee of the exemption or abatement, including, if applicable, the number of jobs that may be created, delineated in accordance with paragraph (2)(A)(iv), (v) and (vi) of this subsection;</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>If, in the opinion of the Chief Financial Officer, it is unlikely that the grantee's stated purpose could be accomplished without the proposed exemption or abatement:</text>
+        <level>
+          <num>(i)</num>
+          <text>An estimate of the amount of exemption or abatement necessary to accomplish the purpose;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Efforts by the grantee to obtain alternate financing; and</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Any factors that limit the ability of the grantee to obtain adequate financing; and</text>
+        </level>
+      </level>
+      <level>
+        <num>(F)</num>
+        <text>A financial analysis prepared by the Office of the Chief Financial Officer, which shall consist of:</text>
+        <level>
+          <num>(i)</num>
+          <text>For existing buildings, a review and analysis of the financial condition of the recipient of the proposed exemption or abatement and an advisory opinion stating whether or not it is likely that the recipient could be reasonably expected to meet its fiscal needs without the proposed exemption or abatement;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>For new developments, a review and analysis of the financial condition of the recipient of the proposed exemption or abatement and of the financing proposal submitted by the recipient and an advisory opinion stating whether or not it is likely that the project could be financed without the proposed exemption or abatement;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>For exemptions or abatements related to a specific individual or entity, a review and analysis of the financial condition of the recipient of the proposed exemption or abatement and an advisory opinion stating whether or not it is likely that the recipient could be reasonably expected to meet its fiscal needs without the proposed exemption or abatement; and</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>For exemptions or abatements related to a category or group of property owners or taxpayers, a review and analysis of the public policy goal intended to be addressed, if applicable, by the exemption or abatement, including whether the exemption or abatement is appropriately targeted and likely to achieve the intended goal.</text>
+        </level>
+      </level>
     </level>
     <level>
       <num>(2)</num>
-      <text>The annual proposed value of the exemption or abatement;</text>
-    </level>
-    <level>
-      <num>(3)</num>
       <level>
         <num>(A)</num>
-        <text>A summary of the proposed community benefits to be provided by the recipient of the exemption or abatement, which shall include:</text>
+        <text>In addition to the requirements described in paragraph (1) of this subsection, for a bill that grants an exemption or abatement to a housing development, the TAFA shall include in the summary of the proposed community benefits:</text>
         <level>
           <num>(i)</num>
           <text>The number of affordable housing units to be developed;</text>
@@ -55,58 +102,27 @@
         </level>
         <level>
           <num>(v)</num>
-          <text>The estimated wages and benefits for each job created; and</text>
+          <text>The estimated wages and benefits for each job created;</text>
         </level>
         <level>
           <num>(vi)</num>
-          <text>Any District resident-hiring commitments made.</text>
+          <text>Any commitment made to hiring District residents; and</text>
+        </level>
+        <level>
+          <num>(vii)</num>
+          <text>A description of any other public policy goal that the exemption or abatement is meant to address, including expected results.</text>
         </level>
       </level>
       <level>
         <num>(B)</num>
-        <text>The summary shall specifically state which community benefits are already required by law, such as inclusionary zoning, and the community amenities that have already been negotiated as part of a planned-unit-development approval.</text>
+        <text>The summary shall state which community benefits are already required by law, such as inclusionary zoning, the community amenities that have already been negotiated as part of a planned-unit-development approval, and the requirements or incentives already included in law or regulation, such as environmental standards.</text>
       </level>
     </level>
-    <level>
-      <num>(4)</num>
-      <text>A financial analysis prepared by the Office of the Chief Financial Officer, which shall consist of the following:</text>
-      <level>
-        <num>(A)</num>
-        <text>For existing buildings, a review and analysis of the financial condition of the recipient of the proposed exemption or abatement and an advisory opinion stating whether or not it is likely that the recipient could be reasonably expected to meet its fiscal needs without the proposed exemption or abatement.</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <level>
-          <num>(i)</num>
-          <text>For development projects, a review and analysis of the financing proposal submitted by the recipient of the proposed exemption or abatement and an advisory opinion stating whether or not it is likely that the project could be financed without the proposed exemption or abatement.</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>If, in the opinion of the Chief Financial Officer, it is unlikely that the project could be financed without the proposed exemption or abatement, the Chief Financial Officer shall provide an estimate of the amount of exemption or abatement necessary to enable the project to be financed.</text>
-        </level>
-        <level>
-          <num>(iii)</num>
-          <text>If, in the opinion of the Chief Financial Officer, it is unlikely that the project could be financed without the proposed exemption or abatement, the Chief Financial Officer shall provide an assessment of the project developer's documentation of:</text>
-          <level>
-            <num>(I)</num>
-            <text>Efforts to seek alternate financing; and</text>
-          </level>
-          <level>
-            <num>(II)</num>
-            <text>The factors that limit the developer's ability to obtain adequate financing.</text>
-          </level>
-        </level>
-      </level>
-    </level>
-  </level>
-  <level>
-    <num>(c)</num>
-    <text>An act described in subsection (a) of this section shall not receive a Council hearing until the analysis described in subsection (b) of this section has been completed and provided to the Council and made available to the public.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Sept. 14, 2011, D.C. Law 19-21, § 7142(b), 58 DCR 6226; Sept. 26, 2012, D.C. Law 19-171, § 114(f), 59 DCR 6190.)</text>
+      <text>(Sept. 14, 2011, D.C. Law 19-21, § 7142(b), 58 DCR 6226; Sept. 26, 2012, D.C. Law 19-171, § 114(f), 59 DCR 6190; Dec. 24, 2013, D.C. Law 20-61, § 7162(a), 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -115,6 +131,7 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>The 2012 amendment by D.C. Law 19-171 validated a previously made technical correction in (b)(3)(A)(ii).</text>
+      <text>The 2013 amendment by D.C. Law 20-61 rewrote the section.</text>
     </level>
     <level>
       <heading>Temporary Legislation</heading>
@@ -123,6 +140,8 @@
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 day) amendment of this section, see §§ 2(b), 3(b), and 6 of the Fiscal Year 2014 Budget Support Technical Clarification Emergency Amendment Act of 2013 (D.C. Act 20-180, October 4, 2013, 60 DCR 14949).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7162(a) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7162(a) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 19-21</heading>
@@ -133,8 +152,17 @@
       <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
       <text>Short title: Section 7141 of D.C. Law 19-21 provided that subtitle O of title I of the act may be cited as "Exemptions and Abatements Information Requirements Act of 2011".</text>
+      <text>Section 7161 of D.C. Law 20-61 provided that Subtitle P of Title VII of the act may be cited as the "Tax Abatement Financial Analysis Requirements Act of 2013".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

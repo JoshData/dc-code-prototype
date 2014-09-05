@@ -50,7 +50,11 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Supportive services for the purpose of providing individuals and families who are homeless or at imminent risk of becoming homeless with services that address their housing, employment, physical health, mental health, alcohol and other substance abuse recovery, child care, case management, transportation, and other health and social service needs which, if unmet, may be barriers to obtaining or maintaining permanent housing. These services may, but need not, be delivered through day programs, drop-in centers, shelters, and transitional and permanent supportive housing providers, or through referrals to other appropriate service providers.</text>
+      <text>Supportive services for the purpose of providing individuals and families who are homeless or at imminent risk of becoming homeless with services that address their housing, employment, physical health, mental health, alcohol and other substance abuse recovery, child care, case management, transportation, and other health and social service needs which, if unmet, may be barriers to obtaining or maintaining permanent housing. These services may, but need not, be delivered through day programs, drop-in centers, shelters, and transitional and permanent supportive housing providers, or through referrals to other appropriate service providers; and</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Services designed to alleviate the high risk of homelessness faced by LGBTQ youth.</text>
     </level>
   </level>
   <level>
@@ -94,10 +98,40 @@
     <num>(e)</num>
     <text>Pursuant to § 4-756.02, the Mayor shall issue rules on the administration of emergency assistance grants offered as crisis intervention services to individuals and families in need of cash assistance for mortgage, rent, or utility bills in arrears or for a security deposit or first month's rent.</text>
   </level>
+  <level>
+    <num>(f)</num>
+    <level>
+      <num>(1)</num>
+      <text>The Mayor may require clients to establish and contribute to a savings or escrow account, or other similar savings arrangement. The savings or escrow arrangement shall be customized to each client so as not to jeopardize another benefit program and to allow for reasonable and necessary expenses.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A client shall not be terminated for failing to contribute to a savings or escrow account or similar savings arrangement; provided, that other sanctions may be imposed as provided by rule.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Pursuant to § 4-756.02, the Mayor shall issue rules on the establishment of any mandatory savings or escrow accounts, or other similar savings arrangements, authorized by this section. The rules shall provide exceptions to the requirement for mandatory savings or escrow accounts, or other similar savings arrangements.</text>
+    </level>
+  </level>
+  <level>
+    <num>(g)</num>
+    <text>The annual Point-in-Time survey conducted pursuant to regulations of the Department of Housing and Urban Development shall include data collection regarding the sexual orientation and gender identity of each individual counted, subject to the individual's discretion to decline to provide that information.</text>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 22, 2005, D.C. Law 16-35, § 7, 52 DCR 8113; Mar. 14, 2007, D.C. Law 16-296, § 2(e), 54 DCR 1097; Apr. 8, 2011, D.C. Law 18-367, § 2(b), 58 DCR 987.)</text>
+      <text>(Oct. 22, 2005, D.C. Law 16-35, § 7, 52 DCR 8113; Mar. 14, 2007, D.C. Law 16-296, § 2(e), 54 DCR 1097; Apr. 8, 2011, D.C. Law 18-367, § 2(b), 58 DCR 987; Dec. 24, 2013, D.C. Law 20-61, § 5182(c), 60 DCR 12472; May 3, 2014, D.C. Law 20-100, § 2(d), 61 DCR 1873.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 4-753.01a, § 4-753.04, § 4-754.13, § 4-754.32, and § 19-701.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 20-61 added (f).</text>
+      <text>D.C. Law 16-296 added subsec. (e).</text>
+      <text>D.C. Law 18-367 rewrote subsecs. (c) and (d).</text>
+      <text>The 2014 amendment by D.C. Law 20-100 added (b)(6) and made related changes; and added (g).</text>
     </level>
     <level>
       <heading>Temporary Legislation</heading>
@@ -106,15 +140,11 @@
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 days) establishment of the Center for Creative Non-Violence and District Government Task Force, see § 2 of the CCNV Task Force Emergency Act of 2013 (D.C. Act 20-147, August 2, 2013, 60 DCR 11809, 20 DCSTAT 2000).</text>
-    </level>
-    <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 4-753.01a, § 4-753.04, and § 19-701.</text>
-    </level>
-    <level>
-      <heading>Effect of Amendments</heading>
-      <text>D.C. Law 16-296 added subsec. (e).</text>
-      <text>D.C. Law 18-367 rewrote subsecs. (c) and (d).</text>
+      <text>For temporary (90 days) homeless prevention and rapid re-housing pilot, see §§ 5172 and 5173 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5182(c) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) homeless prevention and rapid re-housing pilot, see § 5172 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5182(c) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
+      <text>For temporary (90 days) establishment of the Center for Creative Non-Violence and District Government Task Force, see §§ 2 and 3 of the CCNV Task Force Congressional Review Emergency Act of 2013 (D.C. Act 20-226, November 29, 2013, 60 DCR 16772, 20 STAT 2616).</text>
     </level>
     <level>
       <heading>Legislative History of Law 16-35</heading>
@@ -129,6 +159,19 @@
       <text>For history of Law 18-367, see notes under § 4-751.01.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>See note to § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-100</heading>
+      <text>See note to § 7-751.01.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Section 5171 of D.C. Law 20-61 provided that Subtitle P of Title V of the act may be cited as the "Homelessness Prevention and Rapid Re-Housing Pilot Initiatives Emergency Act of 2013".</text>
+      <text>Section 5181 of D.C. Law 20-61 provided that Subtitle Q of Title V of the act may be cited as the ""Homeless Services Reform Emergency Amendment Act of 2013".</text>
+    </level>
+    <level>
       <heading>References in Text</heading>
       <text>Section 1016(5) of D.C. Law 16-33, referred to in par. (1) of subsec. (b), is published at 52 DCR 7503.</text>
     </level>
@@ -138,6 +181,11 @@
       <text>Establishment of Emergency Rental Assistance Program and Delegation of Authority Pursuant to D.C. Law 16-35, the Homeless Services Reform Act of 2005, see Mayor's Order 2006-115, August 30, 2006 (53 DCR 7550).</text>
       <text>Establishment of a Disaster Relocation and Rental Assistance Program, see Mayor's Order 2008-63, April 10, 2008 (55 DCR 5516).</text>
       <text>Extension of Disaster Relocation and Rental Assistance Program Benefits Pursuant to Mayor's Order 2008-63, effective April 10, 2008, see Mayor's Order 2010-96, June 4, 2010 (57 DCR 4917).</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 5172 of D.C. Law 20-61 provided for the planning and implementation of an Emergency Rental Assistance Program ("ERAP") pilot initiative and a Rapid Re-Housing ("RRH") pilot initiative.</text>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

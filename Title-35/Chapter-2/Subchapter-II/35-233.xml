@@ -5,19 +5,19 @@
     <num>(a)</num>
     <level>
       <num>(1)</num>
-      <text>The fare to be paid by students on regular school days for regular route transportation during peak and off-peak hours on the Metrobus Transit System within the District of Columbia shall be 1/2 of the base boarding peak bus fare charged to passengers other than students and senior citizens.</text>
+      <text>On regular school days for regular route transportation during peak and off-peak hours on the Metrobus Transit System within the District, no student shall be charged a bus fare.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>The fare to be paid by students on regular school days for regular route transportation during peak and off-peak hours on the Metrorail Transit System within the District of Columbia shall be 1/2 of the base boarding peak rail fare charged to passengers other than students and senior citizens for Metrorail travel within the District of Columbia.</text>
+      <text>The fare to be paid by students on regular school days for regular route transportation during peak and off-peak hours on the Metrorail Transit System within the District shall be 1/2 of the base boarding peak rail fare charged to passengers other than students and senior citizens for Metrorail travel within the District.</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>In a case where the reduced student fare as determined in paragraph (1) or (2) of this subsection results in an amount which is not a multiple of $.05, such fare shall be rounded downward to the nearest amount which is a multiple of $.05.</text>
+      <text>In a case where the reduced student fare as determined in paragraph (2) of this subsection results in an amount that is not a multiple of $.05, the fare shall be rounded downward to the nearest amount that is a multiple of $.05.</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>Transfers for students between buses and between rail and bus shall be made in the same manner as are transfers of other passengers, but without any additional charge for the transfer.</text>
+      <text>Transfers for students between rail and bus shall be made in the same manner as are transfers of other passengers, but without any additional charge for the transfer.</text>
     </level>
   </level>
   <level>
@@ -33,21 +33,20 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>Reduced fares for students on the Metrobus and Metrorail Transit Systems shall be available only to persons who are:</text>
+    <text>Reduced fares for students under this section on the Metrobus and Metrorail Transit Systems shall be available only to persons who are under 22 years of age and are:</text>
     <level>
       <num>(1)</num>
-      <text>Under 19 years of age, except that reduced fares shall be available for children with disabilities, as defined by the Individuals with Disabilities Education Act, approved April 13, 1970 (P.L. 91-230; 84 Stat. 175; 20 U.S.C. § 1401), through the end of the semester in which children with disabilities reach 22 years of age;</text>
+      <level>
+        <num>(A)</num>
+        <text>Residents of the District; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Currently enrolled in a regular course of instruction at an elementary or secondary public, parochial, or private school located in the District; or</text>
+      </level>
     </level>
     <level>
       <num>(2)</num>
-      <text>Residents of the District of Columbia;</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Currently enrolled in a regular course of instruction at an elementary or secondary public, parochial, or private school located in the District of Columbia; and</text>
-    </level>
-    <level>
-      <num>(4)</num>
       <text>Youth in the District's foster care system until they reach 21 years of age.</text>
     </level>
   </level>
@@ -59,10 +58,25 @@
     <num>(e)</num>
     <text>Notwithstanding subsections (a) and (b) of this section, the fare to be paid by students on regular school days for regular route transportation during peak and off-peak hours on the Metrobus Transit System and on the Metrorail Transit System shall be $.15 from September 26, 1981, until December 31, 1981.</text>
   </level>
+  <level>
+    <num>(f)</num>
+    <level>
+      <num>(1)</num>
+      <text>Youth in the District's foster care system shall be eligible for a foster-youth transit-subsidy program ("Program ") as established by the Mayor until they reach 21 years of age.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The Program shall allow qualified foster youth to travel on Metrobus, Metrorail, and public transportation services offered by the District at subsidized or reduced fares.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The subsidized or reduced foster-youth fare set forth in this subsection shall be valid only for the transportation of foster youth for educational or employment purposes.</text>
+    </level>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 6, 1979, D.C. Law 2-152, § 2, 25 DCR 2534; Sept. 26, 1981, D.C. Law 4-33, § 2(a), (b), 28 DCR 3187; Sept. 26, 1995, D.C. Law 11-52, § 815, 42 DCR 3684; Oct. 7, 1998, D.C. Law 12-156, § 2, 45 DCR 4617; Sept. 20, 2012, D.C. Law 19-168, § 6082, 59 DCR 8025.)</text>
+      <text>(Mar. 6, 1979, D.C. Law 2-152, § 2, 25 DCR 2534; Sept. 26, 1981, D.C. Law 4-33, § 2(a), (b), 28 DCR 3187; Sept. 26, 1995, D.C. Law 11-52, § 815, 42 DCR 3684; Oct. 7, 1998, D.C. Law 12-156, § 2, 45 DCR 4617; Sept. 20, 2012, D.C. Law 19-168, § 6082, 59 DCR 8025; Dec. 24, 2013, D.C. Law 20-61, §§ 2112, 10003, 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -76,6 +90,7 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>The 2012 amendment by D.C. Law 19-168 added (c)(4); and made related changes.</text>
+      <text>The 2013 amendment by D.C. Law 20-61 rewrote (a) and (c); and added (f).</text>
     </level>
     <level>
       <heading>Temporary Legislation</heading>
@@ -87,6 +102,8 @@
       <text>For temporary (90 days) amendment of this section, see § 2 of the Foster Youth Transit Subsidy Emergency Act of 2013 (D.C. Act 20-65, May 11, 2013, 60 DCR 7228, 20 DCSTAT 1414).</text>
       <text>For temporary (90 days) amendment of this section, see §§ 2 to 4 of the School Transit Subsidy Emergency Act of 2013 (D.C. Act 20-145, July 31, 2013, 60 DCR 11805, 20 DCSTAT 1996).</text>
       <text>For temporary (90 days) amendment of this section, see §§ 2 and 3 of the School Transit Subsidy Congressional Review Emergency Amendment Act of 2013 (D.C. Act 20-203, October 17, 2013, 60 DCR 15339).</text>
+      <text>For temporary (90 days) amendment of this section, see §§ 2112 and 10003 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see §§ 2112 and 10003 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 2-152</heading>
@@ -107,6 +124,19 @@
     <level>
       <heading>Legislative History of Law 19-168</heading>
       <text>Law 19-168, the "Fiscal Year 2013 Budget Support Act of 2012," was introduced in Council and assigned Bill No. 19-743. The Bill was adopted on first and second readings on May 15, 2012, and June 5, 2012, respectively. Signed by the Mayor on June 22, 2012, it was assigned Act No. 19-385 and transmitted to Congress for its review. D.C. Law 19-168 became effective on September 20, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Section 2111 of D.C. Law 20-61 provided that Subtitle L of Title II of the act may be cited as the "Foster Youth Transit Subsidy Amendment Act of 2013".</text>
+      <text>Section 10001 of D.C. Law 20-61 provided that Title X of the act may be cited as the "Revised Revenue Estimate Adjustment Allocation Act of 2013".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

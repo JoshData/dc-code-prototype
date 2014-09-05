@@ -49,6 +49,10 @@
         <num>(E)</num>
         <text>Benefits paid to an individual with respect to any week of unemployment during which the individual is a continuing part-time employee of an employer other than the separating employer shall not be charged to the continuing employer's account, except this provision shall not apply to those employers who have elected to make payments in lieu of contributions under subsection (f) or (h) of this section.</text>
       </level>
+      <level>
+        <num>(F)</num>
+        <text>Commencing with overpayments of benefits established after September 30, 2013, no employer shall be relieved of benefit charges for payments made from the District Unemployment Fund if the charges resulted from benefit payments made because the employer or the employer's agent was at fault for failing to respond timely or adequately to the request of the Director for information relating to the claim for benefits and the employer or agent has established a pattern of failing to respond timely or adequately to such requests unless the Director finds such failure was for good cause.</text>
+      </level>
     </level>
     <level>
       <num>(3)</num>
@@ -588,7 +592,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Aug. 28, 1935, 49 Stat. 947, ch. 794, § 3; July 2, 1940, 54 Stat. 731, ch. 524, § 1; Nov. 21, 1941, 55 Stat. 781, ch. 500, § 1; Nov. 9, 1942, 56 Stat. 1016, ch. 636; June 4, 1943, 57 Stat. 105, ch. 117, § 1; July 11, 1946, 60 Stat. 527, ch. 557; July 26, 1947, 61 Stat. 494, ch. 342, §§ 1, 2; June 25, 1948, 62 Stat. 991, ch. 646, § 32(b); May 24, 1949, 63 Stat. 107, ch. 139, § 127; Aug. 31, 1954, 68 Stat. 989, ch. 1139, § 1; Mar. 30, 1962, 76 Stat. 47, Pub. L. 87-424, §§ 3-5; Sept. 27, 1962, 76 Stat. 633, Pub. L. 87-705, § 1; July 29, 1970, 84 Stat. 572, Pub. L. 91-358, title I, § 155(c)(44)(A); Dec. 22, 1971, 85 Stat. 760, Pub. L. 92-211, § 2(14)-(26); Dec. 7, 1974, 88 Stat. 1617, Pub. L. 93-515, title III, § 301(1); May 13, 1975, D.C. Law 1-2, § 1(1), 21 DCR 3941; Mar. 3, 1979, D.C. Law 2-129, § 2(h)-(q), 25 DCR 2451; Mar. 16, 1982, D.C. Law 4-86, § 2(a), (b), 29 DCR 429; Sept. 17, 1982, D.C. Law 4-147, § 2(a)-(d), 29 DCR 3347; May 7, 1983, D.C. Law 5-3, § 2(a)-(h), 30 DCR 1371; Aug. 10, 1984, D.C. Law 5-102, § 2(b), 31 DCR 2902; Mar. 13, 1985, D.C. Law 5-124, §§ 2(a)(1), (a)(2), (b), 4, 31 DCR 5165; Feb. 24, 1987, D.C. Law 6-189, § 2, 33 DCR 7935; Mar. 16, 1988, D.C. Law 7-91, § 2(a), 35 DCR 712; Mar. 16, 1993, D.C. Law 9-200, § 2(a), 39 DCR 9217; Sept. 24, 1993, D.C. Law 10-15, §§ 102, 203, 40 DCR 5420; May 16, 1995, D.C. Law 10-255, §§ 39(b), 49(d), 41 DCR 5193; Mar. 26, 1999, D.C. Law 12-175, § 202(a), 45 DCR 7193; Oct. 20, 2005, D.C. Law 16-33, § 2042(a), 52 DCR 7503; Mar. 2, 2007, D.C. Law 16-191, § 97, 53 DCR 6794; Mar. 8, 2007, D.C. Law 16-233, § 2(a), 54 DCR 374; Sept. 18, 2007, D.C. Law 17-20, § 2042(a), 54 DCR 7052; Mar. 3, 2010, D.C. Law 18-111, § 1011, 57 DCR 181; Sept. 24, 2010, D.C. Law 18-223, §§ 2192(a), 2202(a), 57 DCR 6242; Sept. 20, 2012, D.C. Law 19-168, § 2002(a), 59 DCR 8025.)</text>
+      <text>(Aug. 28, 1935, 49 Stat. 947, ch. 794, § 3; July 2, 1940, 54 Stat. 731, ch. 524, § 1; Nov. 21, 1941, 55 Stat. 781, ch. 500, § 1; Nov. 9, 1942, 56 Stat. 1016, ch. 636; June 4, 1943, 57 Stat. 105, ch. 117, § 1; July 11, 1946, 60 Stat. 527, ch. 557; July 26, 1947, 61 Stat. 494, ch. 342, §§ 1, 2; June 25, 1948, 62 Stat. 991, ch. 646, § 32(b); May 24, 1949, 63 Stat. 107, ch. 139, § 127; Aug. 31, 1954, 68 Stat. 989, ch. 1139, § 1; Mar. 30, 1962, 76 Stat. 47, Pub. L. 87-424, §§ 3-5; Sept. 27, 1962, 76 Stat. 633, Pub. L. 87-705, § 1; July 29, 1970, 84 Stat. 572, Pub. L. 91-358, title I, § 155(c)(44)(A); Dec. 22, 1971, 85 Stat. 760, Pub. L. 92-211, § 2(14)-(26); Dec. 7, 1974, 88 Stat. 1617, Pub. L. 93-515, title III, § 301(1); May 13, 1975, D.C. Law 1-2, § 1(1), 21 DCR 3941; Mar. 3, 1979, D.C. Law 2-129, § 2(h)-(q), 25 DCR 2451; Mar. 16, 1982, D.C. Law 4-86, § 2(a), (b), 29 DCR 429; Sept. 17, 1982, D.C. Law 4-147, § 2(a)-(d), 29 DCR 3347; May 7, 1983, D.C. Law 5-3, § 2(a)-(h), 30 DCR 1371; Aug. 10, 1984, D.C. Law 5-102, § 2(b), 31 DCR 2902; Mar. 13, 1985, D.C. Law 5-124, §§ 2(a)(1), (a)(2), (b), 4, 31 DCR 5165; Feb. 24, 1987, D.C. Law 6-189, § 2, 33 DCR 7935; Mar. 16, 1988, D.C. Law 7-91, § 2(a), 35 DCR 712; Mar. 16, 1993, D.C. Law 9-200, § 2(a), 39 DCR 9217; Sept. 24, 1993, D.C. Law 10-15, §§ 102, 203, 40 DCR 5420; May 16, 1995, D.C. Law 10-255, §§ 39(b), 49(d), 41 DCR 5193; Mar. 26, 1999, D.C. Law 12-175, § 202(a), 45 DCR 7193; Oct. 20, 2005, D.C. Law 16-33, § 2042(a), 52 DCR 7503; Mar. 2, 2007, D.C. Law 16-191, § 97, 53 DCR 6794; Mar. 8, 2007, D.C. Law 16-233, § 2(a), 54 DCR 374; Sept. 18, 2007, D.C. Law 17-20, § 2042(a), 54 DCR 7052; Mar. 3, 2010, D.C. Law 18-111, § 1011, 57 DCR 181; Sept. 24, 2010, D.C. Law 18-223, §§ 2192(a), 2202(a), 57 DCR 6242; Sept. 20, 2012, D.C. Law 19-168, § 2002(a), 59 DCR 8025; Dec. 24, 2013, D.C. Law 20-61, § 2042, 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -612,6 +616,7 @@
       <text>D.C. Law 18-111, in subsec. (m)(3), substituted "December 31, 2013" for "December 31, 2008".</text>
       <text>D.C. Law 18-223, in subsec. (m)(2), substituted "Unemployment and Workforce Development Administrative Fund" for "Administrative Assessment Account"; and repealed subsec. (m)(3), which had read as follows: "(3) If the amount collected from the administrative funding assessment exceeds $4 million in any calendar year commencing after December 31, 2013, the assessment rate for the next calendar year shall be adjusted so as to yield tax revenue not exceeding $4 million."</text>
       <text>The 2012 amendment by D.C. Law 19-168 repealed (c)(8)(C).</text>
+      <text>The 2013 amendment by D.C. Law 20-61 added (c)(2)(F).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -641,6 +646,8 @@
       <text>For temporary (90 day) amendment of section, see §§ 2192, 2202(a) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
       <text>For temporary (90 day) amendment of section, see § 2002(a) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
       <text>For temporary (90 day) amendment of section, see § 2002(a) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2042 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2042 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 1-2</heading>
@@ -719,6 +726,10 @@
       <text>Law 19-168, the "Fiscal Year 2013 Budget Support Act of 2012," was introduced in Council and assigned Bill No. 19-743. The Bill was adopted on first and second readings on May 15, 2012, and June 5, 2012, respectively. Signed by the Mayor on June 22, 2012, it was assigned Act No. 19-385 and transmitted to Congress for its review. D.C. Law 19-168 became effective on September 20, 2012.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
+    </level>
+    <level>
       <heading>Effective Dates</heading>
       <text>Section 3(b) of D.C. Law 7-91 provided that the amendments to §§ 51-103 and 51-107 shall be effective beginning January 1, 1988.</text>
     </level>
@@ -732,17 +743,19 @@
       <text>Section 501 of the Internal Revenue Code of 1954, referred to in subsection (h), is codified as 26 U.S.C. § 501.</text>
     </level>
     <level>
-      <heading>Editor’s Notes</heading>
-      <text>Application of Law 16-233: Section 3 of D.C. Law 16-233 provided that the act shall apply as of January 19, 2007.</text>
-      <text>Expiration of former Table IV minimum rate: Section 2(a)(3) of D.C. Law 5-124 provided that the 0.8% minimum rate contained in Table IV shall expire on December 31, 1987. Table IV, which was set forth in (c)(8)(A), was deleted by D.C. Law 7-91.</text>
-      <text>Section 2192(b) of D.C. Law 18-223 provided: "(b) This section shall apply as of October 20, 2005."</text>
-    </level>
-    <level>
       <heading>Short Title</heading>
       <text>Short title of subtitle E of title II of Law 16-33: Section 2041 of D.C. Law 16-33 provided that subtitle E of title II of the act may be cited as the Unemployment Compensation Administrative Funding Assessment Amendment Act of 2005.</text>
       <text>Short title: Section 2041 of D.C. Law 17-20 provided that subtitle E of title II of the act may be cited as the "Unemployment Compensation Administration Improvement Amendment Act of 2007".</text>
       <text>Short title: Section 1010 of D.C. Law 18-111 provided that subtitle B of title I of the act may be cited as the "Unemployment Compensation Modernization Amendment Act of 2009".</text>
       <text>Short title: Section 2201 of D.C. Law 18-223 provided that subtitle Q of title II of the act may be cited as the "Unemployment and Workforce Development Administrative Assessment Account Amendment Act of 2010".</text>
+      <text>Section 2041 of D.C. Law 20-61 provided that Subtitle E of Title II of the act may be cited as the "Unemployment Compensation Benefit Charges Federal Conformity Amendment Act of 2013".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Application of Law 16-233: Section 3 of D.C. Law 16-233 provided that the act shall apply as of January 19, 2007.</text>
+      <text>Expiration of former Table IV minimum rate: Section 2(a)(3) of D.C. Law 5-124 provided that the 0.8% minimum rate contained in Table IV shall expire on December 31, 1987. Table IV, which was set forth in (c)(8)(A), was deleted by D.C. Law 7-91.</text>
+      <text>Section 2192(b) of D.C. Law 18-223 provided: "(b) This section shall apply as of October 20, 2005."</text>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

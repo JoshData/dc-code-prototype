@@ -15,7 +15,15 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>For the purposes of this section, the average weekly wage of insured employees in the District of Columbia shall be determined by the Mayor as follows: On or before November 1st of each year, the total wages reported on contribution reports for employees, excluding employees of the government of the District of Columbia, and the government of the United States, to the District Unemployment Compensation Board for the year ending on the preceding June 30th shall be divided by the average monthly number of such employees (determined by dividing the total employees reported for the preceding year, excluding employees of the government of the District of Columbia, and the government of the United States by 12). The average annual wage thus obtained shall be divided by 52 and the average weekly wage thus determined rounded to the nearest cent. The average weekly wage as so determined shall be applicable for the year beginning the following January 1st.</text>
+    <text>For the purposes of this section, the average weekly wage of insured employees in the District shall be determined by the Mayor as follows:</text>
+    <level>
+      <num>(1)</num>
+      <text>For the calendar year 2013, the average weekly wage rate is set at $1,416.00.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>For years commencing after January 1, 2013, on or before November 1st of each preceding year, the total wages reported on contribution reports for employees, excluding employees of the District government and the United States government, to the Department of Employment Services for the year ending on the preceding June 30th shall be divided by the average number of such employees (determined by dividing the sum of total employees reported in each quarter for the preceding year, excluding employees of the District government and the United States government, by 4). The average annual wage thus obtained shall be divided by 52 and the average weekly wage thus determined rounded to the nearest cent. The average weekly wage as so determined shall be applicable for the year beginning the following January 1.</text>
+    </level>
   </level>
   <level>
     <num>(e)</num>
@@ -24,7 +32,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 1, 1980, D.C. Law 3-77, § 6, 27 DCR 2503; Apr. 16, 1999, D.C. Law 12-229, § 2(c), 46 DCR 891.)</text>
+      <text>(July 1, 1980, D.C. Law 3-77, § 6, 27 DCR 2503; Apr. 16, 1999, D.C. Law 12-229, § 2(c), 46 DCR 891; Dec. 24, 2013, D.C. Law 20-61, § 2052, 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -35,12 +43,33 @@
       <text>1981 Ed., § 36-305.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 20-61 rewrote (d).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 2052 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2052 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 3-77</heading>
       <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
     </level>
     <level>
       <heading>Legislative History of Law 12-229</heading>
       <text>For legislative history of D.C. Law 12-229, see Historical and Statutory Notes following § 32-1501.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Section 2051 of D.C. Law 20-61 provided that Subtitle F of Title II of the act may be cited as the "Workers' Compensation Average Weekly Wage Calculation Alignment Amendment Act of 2013".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

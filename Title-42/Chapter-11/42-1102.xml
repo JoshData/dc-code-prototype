@@ -196,12 +196,19 @@
   </level>
   <level>
     <num>(32)</num>
-    <text>A deed to property that provides extremely low- or low-income housing that is exempt from property taxation pursuant to § 47-1005.02.</text>
+    <level>
+      <num>(A)</num>
+      <text>A deed to property to which there is a valid certification by the Mayor that both the property and transferee are eligible for exemption from real property taxation pursuant to § 47-1005.02; provided, that, unless waived by regulation, a copy of the certification shall accompany the deed at the time it is submitted for recordation.</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>For the purposes of this paragraph, the term "deed to property" includes a deed of trust encumbering the property.</text>
+    </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 2, 1962, 76 Stat. 11, Pub. L. 87-408, title III, § 302; June 24, 1980, D.C. Law 3-72, § 206, 27 DCR 2155; Sept. 13, 1980, D.C. Law 3-92, § 101(b), 27 DCR 3390; Mar. 10, 1982, D.C. Law 4-72, § 3(b), 28 DCR 5273; Oct. 8, 1983, D.C. Law 5-31, § 10(b), 30 DCR 3879; Mar. 16, 1989, D.C. Law 7-205, § 5, 36 DCR 457; Sept. 9, 1989, D.C. Law 8-20, § 2(b), 36 DCR 4564; Mar. 7, 1992, D.C. Law 9-56, § 3, 38 DCR 7281; June 11, 1992, D.C. Law 9-120, § 4(a), 39 DCR 3195; June 14, 1994, D.C. Law 10-128, § 101(b), 41 DCR 2096; Sept. 8, 1995, D.C. Law 11-38, § 4(b), 42 DCR 3269; June 3, 1997, D.C. Law 11-276, § 7(a), 44 DCR 1416; Apr. 3, 2001, D.C. Law 13-241, § 3, 48 DCR 610; June 9, 2001, D.C. Law 13-305, § 506(b), 48 DCR 334; Oct. 19, 2002, D.C. Law 14-213, § 26, 49 DCR 8140; Mar. 25, 2003, D.C. Law 14-232, § 3, 49 DCR 9764; Apr. 4, 2003, D.C. Law 14-282, § 9(a), 50 DCR 896; Mar. 13, 2004, D.C. Law 15-105, § 73, 51 DCR 881; Sept. 8, 2004, D.C. Law 15-176, § 2, 51 DCR 5707; Apr. 5, 2005, D.C. Law 15-293, § 12, 52 DCR 1465; Oct. 20, 2005, D.C. Law 16-33, §§ 1212, 1296, 52 DCR 7503; Apr. 7, 2006, D.C. Law 16-91, § 114, 52 DCR 10637; Mar. 2, 2007, D.C. Law 16-191, § 62, 53 DCR 6794; Apr. 24, 2007, D.C. Law 16-305, § 59, 53 DCR 6198; Mar. 20, 2008, D.C. Law 17-118, § 201, 55 DCR 1461; Sept. 12, 2008, D.C. Law 17-231,§ 34, 55 DCR 6758; Dec. 13, 2011, D.C. Law 19-60, § 2, 58 DCR 9169; Sept. 20, 2012, D.C. Law 19-168, §§ 7102(a), 7133, 59 DCR 8025; Mar. 5, 2013, D.C. Law 19-210, § 5, 59 DCR 13171.)</text>
+      <text>(Mar. 2, 1962, 76 Stat. 11, Pub. L. 87-408, title III, § 302; June 24, 1980, D.C. Law 3-72, § 206, 27 DCR 2155; Sept. 13, 1980, D.C. Law 3-92, § 101(b), 27 DCR 3390; Mar. 10, 1982, D.C. Law 4-72, § 3(b), 28 DCR 5273; Oct. 8, 1983, D.C. Law 5-31, § 10(b), 30 DCR 3879; Mar. 16, 1989, D.C. Law 7-205, § 5, 36 DCR 457; Sept. 9, 1989, D.C. Law 8-20, § 2(b), 36 DCR 4564; Mar. 7, 1992, D.C. Law 9-56, § 3, 38 DCR 7281; June 11, 1992, D.C. Law 9-120, § 4(a), 39 DCR 3195; June 14, 1994, D.C. Law 10-128, § 101(b), 41 DCR 2096; Sept. 8, 1995, D.C. Law 11-38, § 4(b), 42 DCR 3269; June 3, 1997, D.C. Law 11-276, § 7(a), 44 DCR 1416; Apr. 3, 2001, D.C. Law 13-241, § 3, 48 DCR 610; June 9, 2001, D.C. Law 13-305, § 506(b), 48 DCR 334; Oct. 19, 2002, D.C. Law 14-213, § 26, 49 DCR 8140; Mar. 25, 2003, D.C. Law 14-232, § 3, 49 DCR 9764; Apr. 4, 2003, D.C. Law 14-282, § 9(a), 50 DCR 896; Mar. 13, 2004, D.C. Law 15-105, § 73, 51 DCR 881; Sept. 8, 2004, D.C. Law 15-176, § 2, 51 DCR 5707; Apr. 5, 2005, D.C. Law 15-293, § 12, 52 DCR 1465; Oct. 20, 2005, D.C. Law 16-33, §§ 1212, 1296, 52 DCR 7503; Apr. 7, 2006, D.C. Law 16-91, § 114, 52 DCR 10637; Mar. 2, 2007, D.C. Law 16-191, § 62, 53 DCR 6794; Apr. 24, 2007, D.C. Law 16-305, § 59, 53 DCR 6198; Mar. 20, 2008, D.C. Law 17-118, § 201, 55 DCR 1461; Sept. 12, 2008, D.C. Law 17-231,§ 34, 55 DCR 6758; Dec. 13, 2011, D.C. Law 19-60, § 2, 58 DCR 9169; Sept. 20, 2012, D.C. Law 19-168, §§ 7102(a), 7133, 59 DCR 8025; Mar. 5, 2013, D.C. Law 19-210, § 5, 59 DCR 13171; Dec. 24, 2013, D.C. Law 20-61, § 7152(a), 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -239,6 +246,7 @@
       <text>D.C. Law 19-60 added par. (29).</text>
       <text>The 2012 amendment by D.C. Law 19-168 repealed (16), which read: "A deed that conveys an economic interest in improved residential real property that is owned by a cooperative housing association"; added (30), (31) and (32); and made related changes.</text>
       <text>The 2013 amendment by D.C. Law 19-210 substituted "§ 29-204.06" for "§ 29-1013" in (22)(A).</text>
+      <text>The 2013 amendment by D.C. Law 20-61 rewrote (32).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -285,6 +293,8 @@
       <text>For temporary amendment of (32), see § 103 of the Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 12, 2012, 59 DCR 12478).</text>
       <text>For temporary amendment of (32), see § 103 of the Fiscal Year 2013 Budget Support Technical Clarification Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-604, January 14, 2013, 60 DCR 1045), applicable as of January 10, 2013.</text>
       <text>For temporary (90 days) addition of provisions concerning new issue bond program recordation tax refund, see § 2 of the New Issue Bond Program Recordation Tax Refund Emergency Act of 2013 (D.C. Act 20-141, July 31, 2013, 60 DCR 11794, 20 DCSTAT 1986).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7152 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7152 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 3-72</heading>
@@ -399,9 +409,14 @@
       <text>Law 19-210, the "District of Columbia Official Code Title 29 Technical and Harmonizing Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-532. The Bill was adopted on first and second readings on July 10, 2012, and Oct. 2, 2012, respectively. Signed by the Mayor on Oct. 31, 2012, it was assigned Act No. 19-512 and transmitted to Congress for its review. D.C. Law 19-210 became effective on Mar. 5, 2013.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
       <text>Short title of subtitle Z of title I of Law 16-33: Section 1211 of D.C. Law 16-33 provided that subtitle Z of title I of the act may be cited as the Family Property Recordation and Transfer Tax Exemption Act of 2005.</text>
       <text>Short title of subtitle KK of title I of Law 16-33: Section 1295 of D.C. Law 16-33 provided that subtitle KK of title I of the act may be cited as the Disabled Property Owners Tax Reduction Act of 2005.</text>
+      <text>Section 7151 of D.C. Law 20-61 provided that Subtitle O of Title VII of the act may be cited as the "Tax Clarification Amendment Act of 2013".</text>
     </level>
     <level>
       <heading>Effective Dates</heading>
@@ -425,6 +440,7 @@
       <text>"This act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan."</text>
       <text>The Budget Director of the Council of the District of Columbia has determined that as of September 20, 2012, the fiscal effect of Law 19-60 has been included in an approved budget and financial plan. Therefore, the provisions of this section, enacted by Law 19-60, are in effect.</text>
       <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
+      <text>Applicability of D.C. Law 20-61: Section 7152(b) of D.C. Law 20-61 provided that § 7152(a) (which amended § 42-1102(32)) shall apply as of September 20, 2012.</text>
     </level>
   </level>
 </level>

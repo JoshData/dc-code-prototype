@@ -165,10 +165,14 @@
     <num>(24)</num>
     <text>Transfer of real property to the District of Columbia, without consideration for the transfer, at the request of the District of Columbia, and conveyed as a bona fide gift to the District of Columbia.</text>
   </level>
+  <level>
+    <num>(25)</num>
+    <text>Transfers of property to which there is a valid certification by the Mayor that both the property and transferor are eligible for exemption from property taxation pursuant to § 47-1005.02; provided, that, unless waived by regulation, a copy of the certification shall accompany the deed at the time it is submitted for recordation.</text>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Sept. 13, 1980, D.C. Law 3-92, § 402, 27 DCR 3390; Mar. 10, 1982, D.C. Law 4-72, § 2, 28 DCR 5273; Oct. 8, 1983, D.C. Law 5-31, § 10(a), 30 DCR 3879; Mar. 16, 1989, D.C. Law 7-205, § 4, 36 DCR 457; Mar. 7, 1992, D.C. Law 9-56, § 2, 38 DCR 7281; June 11, 1992, D.C. Law 9-120, § 4(b), 39 DCR 3195; Sept. 8, 1995, D.C. Law 11-38, § 4(c), 42 DCR 3269; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Apr. 3, 2001, D.C. Law 13-241, § 4(a), 48 DCR 610; June 9, 2001, D.C. Law 13-305, § 505(b), 48 DCR 334; Oct. 19, 2002, D.C. Law 14-213, §§ 33(k), 36(d), 49 DCR 8140; Mar. 25, 2003, D.C. Law 14-232, § 4(a), 49 DCR 9764; Apr. 4, 2003, D.C. Law 14-282, § 11(o), 50 DCR 896; Mar. 13, 2004, D.C. Law 15-105, § 38(b)(1), 51 DCR 881; Sept. 8, 2004, D.C. Law 15-176, § 5, 51 DCR 5707; Apr. 5, 2005, D.C. Law 15-293, § 13(a), 52 DCR 1465; Apr. 13, 2005, D.C. Law 15-354, § 73(c), 52 DCR 2638; Oct. 20, 2005, D.C. Law 16-33, §§ 1213, 1297(b), 52 DCR 7503; Mar. 14, 2007, D.C. Law 16-275, § 204, 54 DCR 880; Mar. 24, 2007, D.C. Law 16-305, § 73(c), 53 DCR 6198; Mar. 20, 2008, D.C. Law 17-118, § 202(a), 55 DCR 1461; Sept. 12, 2008, D.C. Law 17-231, § 41(d), 55 DCR 6758; Sept. 14, 2011, D.C. Law 19-21, § 7052, 58 DCR 6226; Mar. 5, 2013, D.C. Law 19-210, § 4(a), 59 DCR 13171.)</text>
+      <text>(Sept. 13, 1980, D.C. Law 3-92, § 402, 27 DCR 3390; Mar. 10, 1982, D.C. Law 4-72, § 2, 28 DCR 5273; Oct. 8, 1983, D.C. Law 5-31, § 10(a), 30 DCR 3879; Mar. 16, 1989, D.C. Law 7-205, § 4, 36 DCR 457; Mar. 7, 1992, D.C. Law 9-56, § 2, 38 DCR 7281; June 11, 1992, D.C. Law 9-120, § 4(b), 39 DCR 3195; Sept. 8, 1995, D.C. Law 11-38, § 4(c), 42 DCR 3269; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Apr. 3, 2001, D.C. Law 13-241, § 4(a), 48 DCR 610; June 9, 2001, D.C. Law 13-305, § 505(b), 48 DCR 334; Oct. 19, 2002, D.C. Law 14-213, §§ 33(k), 36(d), 49 DCR 8140; Mar. 25, 2003, D.C. Law 14-232, § 4(a), 49 DCR 9764; Apr. 4, 2003, D.C. Law 14-282, § 11(o), 50 DCR 896; Mar. 13, 2004, D.C. Law 15-105, § 38(b)(1), 51 DCR 881; Sept. 8, 2004, D.C. Law 15-176, § 5, 51 DCR 5707; Apr. 5, 2005, D.C. Law 15-293, § 13(a), 52 DCR 1465; Apr. 13, 2005, D.C. Law 15-354, § 73(c), 52 DCR 2638; Oct. 20, 2005, D.C. Law 16-33, §§ 1213, 1297(b), 52 DCR 7503; Mar. 14, 2007, D.C. Law 16-275, § 204, 54 DCR 880; Mar. 24, 2007, D.C. Law 16-305, § 73(c), 53 DCR 6198; Mar. 20, 2008, D.C. Law 17-118, § 202(a), 55 DCR 1461; Sept. 12, 2008, D.C. Law 17-231, § 41(d), 55 DCR 6758; Sept. 14, 2011, D.C. Law 19-21, § 7052, 58 DCR 6226; Mar. 5, 2013, D.C. Law 19-210, § 4(a), 59 DCR 13171; Dec. 24, 2013, D.C. Law 20-61, § 7153(a), 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -202,6 +206,7 @@
       <text>D.C. Law 17-231, in par. (5), substituted "spouses" for "husband and wife".</text>
       <text>D.C. Law 19-21 added par. (24).</text>
       <text>The 2013 amendment by D.C. Law 19-210 substituted "to an entity in accordance with § 29-204.06" for "to a limited liability company in accordance with § 29-1013" in (16)(A).</text>
+      <text>The 2013 amendment by D.C. Law 20-61 added (25).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -236,6 +241,8 @@
       <text>For temporary addition of (25), see § 104 of the Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 12, 2012, 59 DCR 12478).</text>
       <text>For temporary addition of (25), see § 104 of the Fiscal Year 2013 Budget Support Technical Clarification Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-604, January 14, 2013, 60 DCR 1045), applicable as of January 10, 2013.</text>
       <text>For temporary tax exemption for the transfer of Lot 20 in Square 532, located at 441 4th Street, N.W., to the District of Columbia, see § 2 of the Transfer of Real Property Located at 441 4th Street, N.W., to the District of Columbia Transfer Tax Exemption Emergency Act of 2013 (D.C. Act 20-58, April 23, 2013, 60 DCR 6396).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7153 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7153 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 3-92</heading>
@@ -330,7 +337,12 @@
       <text>Law 19-210, the "District of Columbia Official Code Title 29 Technical and Harmonizing Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-532. The Bill was adopted on first and second readings on July 10, 2012, and Oct. 2, 2012, respectively. Signed by the Mayor on Oct. 31, 2012, it was assigned Act No. 19-512 and transmitted to Congress for its review. D.C. Law 19-210 became effective on Mar. 5, 2013.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
+      <text>Section 7151 of D.C. Law 20-61 provided that Subtitle O of Title VII of the act may be cited as the "Tax Clarification Amendment Act of 2013".</text>
       <text>Short title: Section 7051 of D.C. Law 19-21 provided that subtitle F of title VII of the act may be cited as "Real Property Transfer Tax Exemption Act of 2011".</text>
     </level>
     <level>
@@ -366,6 +378,7 @@
       <text>"(b) Repealed.</text>
       <text>"Sec. 1299. Repealed."</text>
       <text>Application of Law 19-210. Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
+      <text>Applicability of D.C. Law 20-61: Section 7153(b) of D.C. Law 20-61 provided that § 7153(a) (which added § 47-902(25)) shall apply as of September 20, 2012.</text>
     </level>
   </level>
 </level>

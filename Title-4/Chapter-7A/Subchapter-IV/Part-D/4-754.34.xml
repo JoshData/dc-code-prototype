@@ -6,11 +6,15 @@
     <text>A provider may transfer a client to another provider to ensure the client receives the most appropriate services available within the Continuum of Care whenever:</text>
     <level>
       <num>(1)</num>
-      <text>The client consents to the transfer; or</text>
+      <text>The client consents to the transfer;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>The provider identifies and secures for the client a placement with another provider that more appropriately meets the client's medical, mental health, behavioral, or rehabilitative service needs in accordance with the client's service plan.</text>
+      <text>The provider identifies and secures for the client a placement with another provider that more appropriately meets the client's medical, mental health, behavioral, or rehabilitative service needs in accordance with the client's service plan; or</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The client is a non-LGBTQ-identified youth occupying a bed established pursuant to § 4-755.01(c)(1) and an LGBTQ-identified homeless youth has presented a need for shelter.</text>
     </level>
   </level>
   <level>
@@ -32,15 +36,23 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 22, 2005, D.C. Law 16-35, § 20, 52 DCR 8113.)</text>
+      <text>(Oct. 22, 2005, D.C. Law 16-35, § 20, 52 DCR 8113; May 3, 2014, D.C. Law 20-100, § 2(j), 61 DCR 1873.)</text>
     </level>
     <level>
       <heading>Section References</heading>
-      <text>This section is referenced in § 4-754.11, § 4-754.32, § 4-754.35, § 4-754.36, and § 4-754.37.</text>
+      <text>This section is referenced in § 4-754.11, § 4-754.32, § 4-754.35, § 4-754.36, § 4-754.37, and § 4-755.01.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-100 added (a)(3) and made related changes.</text>
     </level>
     <level>
       <heading>Legislative History of Law 16-35</heading>
       <text>For Law 16-35, see notes following § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-100</heading>
+      <text>See note to § 7-751.01.</text>
     </level>
   </level>
 </level>

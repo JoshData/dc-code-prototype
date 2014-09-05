@@ -30,7 +30,7 @@
     </level>
     <level>
       <num>(7)</num>
-      <text>"Home care agency" means an agency, organization, or distinct part thereof, other than a hospice, that provides, either directly or through a contractual arrangement, a program of health care, habilitative or rehabilitative therapy, personal care services, homemaker services, chore services, or other supportive services to sick individuals or individuals with disabilities living at home or in a community residence facility. The term "home care agency" shall not be construed to require the regulation and licensure of nonmedical services delivered by or through a religious organization on a small-scale, volunteer basis.</text>
+      <text>"Home care agency" means an agency, organization, or distinct part thereof, other than a hospice, that directly provides skilled nursing services and at least one other therapeutic service to an individual, in his or her home or in a community residence facility, who is sick or who has a disability.</text>
     </level>
     <level>
       <num>(8)</num>
@@ -39,6 +39,10 @@
     <level>
       <num>(9)</num>
       <text>"Renal dialysis facility" means any place, other than a hospital or the patient's home, that provides therapeutic care for persons with acute or chronic renal failure through the use of hemodialysis, peritoneal dialysis, or any other therapy that clears the blood of substances normally excreted by the kidneys.</text>
+    </level>
+    <level>
+      <num>(10)</num>
+      <text>"Therapeutic service" includes physical, speech, or occupational therapy; medical social services; or personal care services.</text>
     </level>
   </level>
   <level>
@@ -52,7 +56,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Feb. 24, 1984, D.C. Law 5-48, § 2, 30 DCR 5778; Mar. 14, 1985, D.C. Law 5-154, § 2(a), 32 DCR 7; Sept. 5, 1985, D.C. Law 6-26, § 2(a), 32 DCR 3615; Feb. 28, 1987, D.C. Law 6-215, § 2(a), 34 DCR 893; July 8, 1988, D.C. Law 7-131, § 3, 35 DCR 4106; Mar. 16, 1989, D.C. Law 7-199, § 3, 36 DCR 3; Mar. 24, 2007, D.C. Law 16-305, § 69, 53 DCR 6198; Sept. 26, 2012, D.C. Law 19-169, § 28, 59 DCR 5567.)</text>
+      <text>(Feb. 24, 1984, D.C. Law 5-48, § 2, 30 DCR 5778; Mar. 14, 1985, D.C. Law 5-154, § 2(a), 32 DCR 7; Sept. 5, 1985, D.C. Law 6-26, § 2(a), 32 DCR 3615; Feb. 28, 1987, D.C. Law 6-215, § 2(a), 34 DCR 893; July 8, 1988, D.C. Law 7-131, § 3, 35 DCR 4106; Mar. 16, 1989, D.C. Law 7-199, § 3, 36 DCR 3; Mar. 24, 2007, D.C. Law 16-305, § 69, 53 DCR 6198; Sept. 26, 2012, D.C. Law 19-169, § 28, 59 DCR 5567; March 26, 2014, D.C. Law 20-96, § 202, 61 DCR 1184.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -62,7 +66,7 @@
     </level>
     <level>
       <heading>Section References</heading>
-      <text>This section is referenced in § 2-220.05, § 3-405, § 4-204.61, § 4-205.49, § 7-701.01, § 7-703.02, § 7-832, § 7-1531.01, § 7-2341.01, § 8-2031, § 21-2202, § 21-2209, § 44-102.01, § 44-151.01, § 44-631, § 44-801, § 44-1001.01, § 44-1051.02, § 47-1261, and § 50-1641.05.</text>
+      <text>This section is referenced in § 2-220.05, § 3-405, § 3-1205.01, § 4-204.61, § 4-205.49, § 7-701.01, § 7-703.02, § 7-832, § 7-1531.01, § 7-2341.01, § 8-2031, § 21-2202, § 21-2209, § 44-102.01, § 44-151.01, § 44-631, § 44-651, § 44-801, § 44-1001.01, § 44-1051.02, § 47-1261, and § 50-1641.05.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
@@ -72,6 +76,7 @@
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 16-305, in subsec. (a), pars. (4) and (5), substituted "persons with mental retardation" for "mentally retarded persons", and in par. (7), substituted "individuals or individuals with disabilities" for "or disabled individuals".</text>
       <text>The 2012 amendment by D.C. Law 19-169 substituted "intellectual disabilities" for "mental retardation" wherever it appears in (a)(4) and (a)(5).</text>
+      <text>The 2014 amendment by D.C. Law 20-96 rewrote (a)(7); and added (a)(10).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -119,6 +124,10 @@
     <level>
       <heading>Legislative History of Law 19-169</heading>
       <text>Law 19-169, the "People First Respectful Language Modernization Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-189. The Bill was adopted on first and second readings on Mar. 6, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 15, 2012, it was assigned Act No. 19-361 and transmitted to Congress for its review. D.C. Law 19-169 became effective on Sept. 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-96</heading>
+      <text>Law 20-96, the "Omnibus Health Regulation Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-153. The Bill was adopted on first and second readings on December 3, 2013 and January 7, 2014, respectively. Signed by the Mayor on February 5, 2014, it was assigned Act No. 20-273 and transmitted to Congress for its review. D.C. Law 20-96 became effective on March 26, 2014.</text>
     </level>
     <level>
       <heading>References in Text</heading>

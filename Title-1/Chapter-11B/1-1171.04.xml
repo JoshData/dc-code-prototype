@@ -1,98 +1,15 @@
 <level type="section">
   <num>1-1171.04</num>
   <heading>Enforcement.</heading>
-  <level>
-    <num>(a)</num>
-    <text>The Board of Elections and Ethics may:</text>
-    <level>
-      <num>(1)</num>
-      <level>
-        <num>(A)</num>
-        <text>Investigate on its own initiative, or upon written complaint under oath by any individual, alleged violations of any provision of this chapter; and</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Hold hearings when it considers it necessary to investigate violations; and</text>
-      </level>
-    </level>
-    <level>
-      <num>(2)</num>
-      <level>
-        <num>(A)</num>
-        <text>Upon application made by any employee, and within a reasonable period of time, provide an advisory opinion, with respect to any specific transaction or activity inquired of, as to whether the transaction or activity would constitute a violation of any provision of this chapter.</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>An advisory opinion shall be issued in accordance with the rules of the Board.</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>The Board shall publish a concise statement of each request for an advisory opinion, without identifying the person seeking the opinion, in the District of Columbia Register within 20 days of its receipt. Comments on requested opinions shall be received by the Board for a period of at least 15 days following publication in the District of Columbia Register. The Board may waive the advance notice and public comment provisions if it finds that the issuance of the advisory opinion constitutes an emergency necessary for the immediate preservation of the public peace, health, safety, welfare, or morals.</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Advisory opinions shall be published in the District of Columbia Register within 30 days of their issuance; provided, that the identity of any person requesting an advisory opinion shall not be disclosed in the District [of] Columbia Register without prior consent in writing. When issued, an advisory opinion shall be deemed to be an order of the Board, reviewable in the Superior Court of the District of Columbia by any interested person adversely affected thereby.</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>A employee to whom an advisory opinion is rendered and who, after the issuance of an advisory opinion, acts in good faith in accordance with its provisions and findings shall not, as a result of such actions, be subject to any sanctions under this section.</text>
-      </level>
-    </level>
-  </level>
-  <level>
-    <num>(b)</num>
-    <level>
-      <num>(1)</num>
-      <text>After finding that a violation of this chapter has occurred, the Board may:</text>
-      <level>
-        <num>(A)</num>
-        <text>Impose a civil penalty not to exceed $2,000 for each violation;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Disqualify a person from appointment as an election monitor or from acting in any capacity at the polls on the day of an election if the Board finds that the person has knowingly violated any provision of this chapter; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Suspend, with or without pay, or remove a person from employment by the District government.</text>
-      </level>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The Board shall refer any case where there is probable cause of a willful violation of this chapter for prosecution under § 1-1171.05.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <level>
-        <num>(A)</num>
-        <text>The sanctions set forth in paragraph (1) of this subsection shall be assessed by the Board by written order:</text>
-        <level>
-          <num>(i)</num>
-          <text>Only after the person charged with a violation has been given an opportunity for a hearing; and</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>Setting forth its findings of facts, that a violation did occur, and the amount of the penalty.</text>
-        </level>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>A hearing under this section shall be of record and shall be held in accordance with § 2-509.</text>
-      </level>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>If the person against whom a civil penalty is imposed under subsection (b)(1) of this section fails to pay the penalty, the Board shall file a petition for enforcement of its order imposing the penalty in the Superior Court of the District of Columbia. The petition shall designate the person against whom the order is sought to be enforced as the respondent. A copy of the petition shall be forthwith sent by registered or certified mail to the respondent and his attorney of record, and, thereupon, the Board shall certify and file in the court the record upon which the order sought to be enforced was issued. The court may enter a judgment enforcing, modifying, enforcing as so modified, or setting aside, in whole or in part, the order and the decision of the Board or it may remand the proceedings to the Board for such further action as it may direct. The court may determine de novo all issues of law, but the Board's findings of fact, if supported by substantial evidence, shall be conclusive.</text>
-    </level>
-  </level>
+  <text>A violation of this chapter shall constitute a violation of the Code of Conduct as defined in § 1-1161.01(7), and shall be enforceable by the Board in accordance with Chapter 11A of this title [§ 1-1161.01 et seq.].</text>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 31, 2011, D.C. Law 18-335, § 5, 58 DCR 599.)</text>
+      <text>(Mar. 31, 2011, D.C. Law 18-335, § 5, 58 DCR 599; Feb. 22, 2014, D.C. Law 20-80, § 2(d), 61 DCR 169.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 1-1171.05.</text>
+      <heading>Effect of Amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-80 rewrote this section.</text>
     </level>
     <level>
       <heading>Temporary Legislation</heading>
@@ -101,9 +18,14 @@
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 days) amendment of this section, see § 2(d) of the Prohibition on Government Employee Engagement in Political Activity Emergency Amendment Act of 2013 (D.C. Act 20-25, March 7, 2013, 60 DCR 3986, 20 DCSTAT 485).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(d) of the Prohibition on Government Employee Engagement in Political Activity Congressional Review Emergency Amendment Act of 2013 (D.C. Act 20-231, December 20, 2013, 61 DCR 3, 20 DCSTAT 2633).</text>
     </level>
     <level>
       <heading>Legislative History of Law 18-335</heading>
+      <text>See note to § 1-1171.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-80</heading>
       <text>See note to § 1-1171.01.</text>
     </level>
   </level>

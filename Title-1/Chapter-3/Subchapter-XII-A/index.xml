@@ -2,9 +2,6 @@
   <prefix>Subchapter</prefix>
   <num>XII-A</num>
   <heading>Grant Administration</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-328.01.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-328.02.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-328.03.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-328.04.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-328.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-A/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-B/index.xml"/>
 </level>

@@ -50,11 +50,15 @@
     </level>
     <level>
       <num>(6)</num>
-      <text>Owes a vehicle conveyance fee, as that term is defined in § 50-2302.01(i); or</text>
+      <text>Owes a vehicle conveyance fee, as that term is defined in § 50-2302.01(i);</text>
     </level>
     <level>
       <num>(7)</num>
-      <text>Owes the District more than $100 in outstanding fines, penalties, or interest.</text>
+      <text>Owes the District more than $100 in outstanding fines, penalties, or interest; or</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>Has failed to file required District tax returns.</text>
     </level>
   </level>
   <level>
@@ -72,7 +76,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(May 11, 1996, D.C. Law 11-118, § 3, 43 DCR 1191; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Mar. 24, 1998, D.C. Law 12-81, § 59(j), 45 DCR 745; Oct. 21, 2000, D.C. Law 13-183, § 2(c), 47 DCR 7062; Apr. 27, 2001, D.C. Law 13-289, § 601, 48 DCR 2057; Apr. 8, 2005, D.C. Law 15-307, § 201, 52 DCR 1700; Mar. 2, 2007, D.C. Law 16-191, §§ 81, 94, 53 DCR 6794; Mar. 2, 2007, D.C. Law 16-192, §§ 1011(c), 1013, 53 DCR 6899; Mar. 14, 2007, D.C. Law 16-279, § 209(b), 54 DCR 1086; Mar. 20, 2009, D.C. Law 17-303, § 2, 55 DCR 12803; Mar. 25, 2009, D.C. Law 17-353, § 164(a)(1), 56 DCR 1117; Sept. 20, 2012, D.C. Law 19-168, § 1054(b)(1), 59 DCR 8025; Oct. 23, 2012, D.C. Law 19-190, § 6, 59 DCR 10163.)</text>
+      <text>(May 11, 1996, D.C. Law 11-118, § 3, 43 DCR 1191; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Mar. 24, 1998, D.C. Law 12-81, § 59(j), 45 DCR 745; Oct. 21, 2000, D.C. Law 13-183, § 2(c), 47 DCR 7062; Apr. 27, 2001, D.C. Law 13-289, § 601, 48 DCR 2057; Apr. 8, 2005, D.C. Law 15-307, § 201, 52 DCR 1700; Mar. 2, 2007, D.C. Law 16-191, §§ 81, 94, 53 DCR 6794; Mar. 2, 2007, D.C. Law 16-192, §§ 1011(c), 1013, 53 DCR 6899; Mar. 14, 2007, D.C. Law 16-279, § 209(b), 54 DCR 1086; Mar. 20, 2009, D.C. Law 17-303, § 2, 55 DCR 12803; Mar. 25, 2009, D.C. Law 17-353, § 164(a)(1), 56 DCR 1117; Sept. 20, 2012, D.C. Law 19-168, § 1054(b)(1), 59 DCR 8025; Oct. 23, 2012, D.C. Law 19-190, § 6, 59 DCR 10163; Dec. 24, 2013, D.C. Law 20-61, § 7192, 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -104,6 +108,7 @@
       <text>D.C. Law 17-353, in subsec. (a)(1)(F), inserted a semicolon at the end.</text>
       <text>The 2012 amendment by D.C. Law 19-168 added (a)(7) and made related changes.</text>
       <text>The 2012 amendment by D.C. Law 19-190 added (d).</text>
+      <text>The 2013 amendment by D.C. Law 20-61 added (a)(8) and made related changes.</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -113,6 +118,8 @@
       <text>For temporary (90 day) amendment of section, see §§ 1011(c), 1013 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007, 54 DCR 1165).</text>
       <text>For temporary (90 day) amendment of section, see § 1054(b)(1) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
       <text>For temporary (90 day) amendment of section, see § 1054(b)(1) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7192 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7192 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 11-118</heading>
@@ -163,8 +170,20 @@
       <text>Law 19-190, the "Block Party Act of 2012," was introduced in Council and assigned Bill No. 19-527. The Bill was adopted on first and second readings on June 26, 2012, and July 10, 2012, respectively. Signed by the Mayor on August 9, 2012, it was assigned Act No. 19-445 and transmitted to Congress for its review. D.C. Law 19-190 became effective on Oct. 23, 2012.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
+    </level>
+    <level>
       <heading>References in Text</heading>
       <text>The Taxicab and Limousine Commission Establishment Amendment Act of 2004 (Bill 15-1085), referred to in subsec. (a)(9), was never approved by the committee and after December 31, 2004, has no possibility of enactment.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Section 7191 of D.C. Law 20-61 provided that Subtitle S of Title VII of the act may be cited as the "Clean Hands Act of 2013".</text>
     </level>
   </level>
 </level>

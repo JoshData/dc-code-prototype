@@ -119,6 +119,38 @@
     <text>Repealed.</text>
   </level>
   <level>
+    <num>(2A)</num>
+    <text>"At-risk" means a DCPS student or a public charter school student who is identified as one or more of the following:</text>
+    <level>
+      <num>(A)</num>
+      <text>Homeless;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>In the District's foster care system;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Qualifies for the Temporary Assistance for Needy Families program or the Supplemental Nutrition Assistance Program; or</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>A high school student that is one year older, or more, than the expected age for the grade in which the student is enrolled.</text>
+    </level>
+  </level>
+  <level>
+    <num>(2B)</num>
+    <text>"Central administration" means the functions necessary for the governance of a school district as a whole, including general oversight and management of support services such as procurement, human resources, and financial administration. The term "central administration" does not include any functions that are:</text>
+    <level>
+      <num>(A)</num>
+      <text>Budgeted at the individual school level; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Budgeted centrally and which support costs associated with programs and services provided at the school level or directly to students.</text>
+    </level>
+  </level>
+  <level>
     <num>(3)</num>
     <text>"Consumer Price Index" ("CPI") means the Consumer Price Index for all urban consumers for Washington, DC-MD-VA, Index Base Period 1982-84 or its successor, as issued by the United States Department of Labor, Bureau of Labor Statistics.</text>
   </level>
@@ -156,7 +188,7 @@
   </level>
   <level>
     <num>(9)</num>
-    <text>"Public Charter School" means a publicly funded school established pursuant to subchapter II of chapter 18 of this title; and except as provided in §§ 38-1802.12(d)(5) and 38-1802.13(c)(5), is not a part of the DCPS.</text>
+    <text>"Public Charter School" means a publicly funded school established pursuant to subchapter II of Chapter 18 of this title; and except as provided in §§ 38-1802.12(d)(5) and 38-1802.13(c)(5), is not a part of the DCPS.</text>
   </level>
   <level>
     <num>(10)</num>
@@ -205,11 +237,11 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 26, 1999, D.C. Law 12-207, § 102, 45 DCR 8095; Oct. 1, 2002, D.C. Law 14-190, § 3402(a), 49 DCR 6968; Apr. 13, 2005, D.C. Law 15-348, 101(a), 52 DCR 1991; Mar. 2, 2007, D.C. Law 16-192, § 4002(a), 53 DCR 6899; Apr. 24, 2007, D.C. Law 16-305, § 57(a), 53 DCR 6198; Sept. 18, 2007, D.C. Law 17-20,§ 4002(a), 54 DCR 7052; Sept. 14, 2011, D.C. Law 19-21, § 4003(a), 58 DCR 6226.)</text>
+      <text>(Mar. 26, 1999, D.C. Law 12-207, § 102, 45 DCR 8095; Oct. 1, 2002, D.C. Law 14-190, § 3402(a), 49 DCR 6968; Apr. 13, 2005, D.C. Law 15-348, 101(a), 52 DCR 1991; Mar. 2, 2007, D.C. Law 16-192, § 4002(a), 53 DCR 6899; Apr. 24, 2007, D.C. Law 16-305, § 57(a), 53 DCR 6198; Sept. 18, 2007, D.C. Law 17-20,§ 4002(a), 54 DCR 7052; Sept. 14, 2011, D.C. Law 19-21, § 4003(a), 58 DCR 6226; Feb. 22, 2014, D.C. Law 20-87, § 4(a), 61 DCR 309.)</text>
     </level>
     <level>
       <heading>Section References</heading>
-      <text>This section is referenced in § 38-1804.01, § 38-2652, and § 38-2905.</text>
+      <text>This section is referenced in § 38-1804.01, § 38-2601.02, § 38-2652, § 38-2831, and § 38-2905.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
@@ -223,6 +255,7 @@
       <text>D.C. Law 16-305, in par. (12), substituted "students with disabilities" for "handicapped students" and "children with disabilities" for "handicapped children".</text>
       <text>D.C. Law 17-20 added pars. (6A) and (10B).</text>
       <text>D.C. Law 19-21 redesignated par. (1A) as (1B) and par. (11A) as (11D); and added pars. (1A) and (11A) to (11C).</text>
+      <text>The 2014 amendment by D.C. Law 20-87 added (2A) and (2B).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -298,6 +331,10 @@
     <level>
       <heading>Legislative History of Law 19-21</heading>
       <text>For history of Law 19-21, see notes under § 38-271.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-87</heading>
+      <text>Law 20-87, the "Fair Student Funding and School-Based Budgeting Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-309. The Bill was adopted on first and second readings on December 3, 2013, and December 17, 2013, respectively. Signed by the Mayor on January 2, 2014, it was assigned Act No. 20-257 and transmitted to Congress for its review. D.C. Law 20-87 became effective on February 22, 2014.</text>
     </level>
     <level>
       <heading>Short Title</heading>

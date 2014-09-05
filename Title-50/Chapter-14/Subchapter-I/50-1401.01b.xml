@@ -9,6 +9,10 @@
       <text>"Accident report" means any record prepared as a result of a vehicular accident, also known as the Metropolitan Police Department Form PD-10.</text>
     </level>
     <level>
+      <num>(1A)</num>
+      <text>"Information relating to legal presence" means any information that may reveal whether a person is legally present in the United States, including whether a person's driver's license or identification card was issued under § 50-1401.05, and the documentation provided by an applicant to prove identity, date of birth, and residence in connection with an application for a driver's license or identification card.</text>
+    </level>
+    <level>
       <num>(2)</num>
       <text>"Motor vehicle record" means any record that pertains to a motor vehicle operator's application, permit, motor vehicle title, motor vehicle registration, or identification card issued by the Department of Motor Vehicles.</text>
     </level>
@@ -141,49 +145,51 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Medical disability information may be released only as provided in subsections (c)(2) or (c)(9) of this section; and</text>
+      <text>Medical disability information may be released only as provided in subsections (c)(2) or (c)(9) of this section;</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>Emergency contact information may be released only to law enforcement agencies for the purposes of contacting individuals listed in the event of an emergency.</text>
-    </level>
-  </level>
-  <level>
-    <num>(e)</num>
-    <level>
-      <num>(1)</num>
-      <text>Personal information prohibited from disclosure by subsection (b) of this section may be disclosed by the Department to a firm, corporation, or similar business entity whose primary business interest is to resell or re-disclose the personal information to persons who are authorized to receive such information. Before the Department's disclosure of personal information, such firm, corporation, or similar business entity must first enter into a contract with the Department regarding the care, custody, and control of the personal information to ensure compliance with the Driver's Privacy Protection Act of 1994, approved September 13, 1994 (108 Stat. 2099; 18 U.S.C. § 2721 et seq.), and applicable District laws.</text>
+      <text>Emergency contact information may be released only to law enforcement agencies for the purposes of contacting individuals listed in the event of an emergency; and</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>An authorized recipient of personal information contained in a motor vehicle record, except a recipient under subsection (c)(10) of this section, may contract with the Department to resell or re-disclose the information for any use permitted under this section. Authorized recipients of personal information under subsection (c)(10) of this section may resell or re-disclose personal information only in accordance with subsection (c)(10) of this section.</text>
+      <num>(5)</num>
+      <text>Information relating to legal presence shall not be disclosed to any person, and shall not be disclosed to any federal, state, or local governmental entity except as necessary to comply with a legally issued warrant or subpoena.</text>
+      <level>
+        <num>(1)</num>
+        <text>Personal information prohibited from disclosure by subsection (b) of this section may be disclosed by the Department to a firm, corporation, or similar business entity whose primary business interest is to resell or re-disclose the personal information to persons who are authorized to receive such information. Before the Department's disclosure of personal information, such firm, corporation, or similar business entity must first enter into a contract with the Department regarding the care, custody, and control of the personal information to ensure compliance with the Driver's Privacy Protection Act of 1994, approved September 13, 1994 (108 Stat. 2099; 18 U.S.C. § 2721 et seq.), and applicable District laws.</text>
+      </level>
+      <level>
+        <num>(2)</num>
+        <text>An authorized recipient of personal information contained in a motor vehicle record, except a recipient under subsection (c)(10) of this section, may contract with the Department to resell or re-disclose the information for any use permitted under this section. Authorized recipients of personal information under subsection (c)(10) of this section may resell or re-disclose personal information only in accordance with subsection (c)(10) of this section.</text>
+      </level>
+      <level>
+        <num>(3)</num>
+        <text>An authorized recipient who resells or re-discloses personal information shall maintain, for a period of 5 years, records identifying each person or entity that receives the personal information and the permitted purpose for which it will be used. The records shall be made available for inspection upon request by the Department.</text>
+      </level>
+      <level>
+        <num>(4)</num>
+        <text>The Department and the Metropolitan Police Department may require documentation to support a request for personal information, and either department shall have the sole discretion to determine whether the documentation provided is sufficient to support the request.</text>
+        <level>
+          <num>(f)</num>
+          <text>The Department and the Metropolitan Police Department may adopt rules to carry out the purposes of this section. Rules adopted by either department may provide for the payment of applicable fees. In addition, the rules may require an individual requesting the disclosure of personal information pursuant to this subsection to provide proof of identity and, to the extent required, provide assurance that the use will be only as authorized or that the consent of the person who is the subject of the personal information has been obtained. These conditions may include the making and filing of a written application in a form and containing information and certification requirements required by either department.</text>
+        </level>
+        <level>
+          <num>(g)</num>
+          <text>Failure to comply with the restrictions set forth in this section may subject the violator to penalties and civil action as set forth in the Driver's Privacy Protection Act of 1994, approved September 13, 1994 (108 Stat. 2099; 18 U.S.C. §§ 2721, 2723, 2724).</text>
+        </level>
+      </level>
     </level>
-    <level>
-      <num>(3)</num>
-      <text>An authorized recipient who resells or re-discloses personal information shall maintain, for a period of 5 years, records identifying each person or entity that receives the personal information and the permitted purpose for which it will be used. The records shall be made available for inspection upon request by the Department.</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>The Department and the Metropolitan Police Department may require documentation to support a request for personal information, and either department shall have the sole discretion to determine whether the documentation provided is sufficient to support the request.</text>
-    </level>
-  </level>
-  <level>
-    <num>(f)</num>
-    <text>The Department and the Metropolitan Police Department may adopt rules to carry out the purposes of this section. Rules adopted by either department may provide for the payment of applicable fees. In addition, the rules may require an individual requesting the disclosure of personal information pursuant to this subsection to provide proof of identity and, to the extent required, provide assurance that the use will be only as authorized or that the consent of the person who is the subject of the personal information has been obtained. These conditions may include the making and filing of a written application in a form and containing information and certification requirements required by either department.</text>
-  </level>
-  <level>
-    <num>(g)</num>
-    <text>Failure to comply with the restrictions set forth in this section may subject the violator to penalties and civil action as set forth in the Driver's Privacy Protection Act of 1994, approved September 13, 1994 (108 Stat. 2099; 18 U.S.C. §§ 2721, 2723, 2724).</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 3, 1925, 43 Stat. 1121, ch. 433, § 7b, as added Mar. 5, 2013, D.C. Law 19-207, § 3, 59 DCR 12507; June 19, 2013, D.C. Law 19-320, § 512, 60 DCR 3390.)</text>
+      <text>(Mar. 3, 1925, 43 Stat. 1121, ch. 433, § 7b, as added Mar. 5, 2013, D.C. Law 19-207, § 3, 59 DCR 12507; June 19, 2013, D.C. Law 19-320, § 512, 60 DCR 3390; Jan. 17, 2014, D.C. Law 20-62, § 2(b), 60 DCR 16026.)</text>
     </level>
     <level>
       <heading>Effect of Amendments</heading>
       <text>The 2013 amendment by D.C. Law 19-207 added this section.</text>
       <text>The 2013 amendment by D.C. Law 19-320 substituted "name, address" for "name address" in (a)(3)(A); in (b), substituted "obtained by the Department" for "obtained by the Department of Motor Vehicles" and substituted "motor vehicle" for "motor-vehicle"; rewrote (c)(4)(A), which read; "A person listed on the accident report"; added the second occurrence of "or accident report" in (c)(12); substituted "prohibited from disclosure by subsection (b) of this section" for "made confidential and prohibited from disclosure" near the beginning of (e)(1); in the second sentence of (e)(2), deleted "However only" from the beginning and substituted "only in accordance with" for "pursuant to"; and deleted "of Motor Vehicles" following "the Department" in (e)(2), (e)(4), and (f).</text>
+      <text>The 2014 amendment by D.C. Law 20-62 added (a)(1A); and added (d)(5) and made related changes.</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -197,6 +203,14 @@
     <level>
       <heading>Legislative History of Law 19-320</heading>
       <text>Law 19-320, the "Omnibus Criminal Code Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-645. The Bill was adopted on first and second readings on Dec. 4, 2012, and Dec. 18, 2012, respectively. Signed by the Mayor on Feb. 11, 2013, it was assigned Act No. 19-677 and transmitted to Congress for its review. D.C. Law 19-320 became effective on June 19, 2013.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-62</heading>
+      <text>See note to § 50-1401.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-62: Section 3 of D.C. Law 20-62 provided that the act shall apply as of May 1, 2014.</text>
     </level>
   </level>
 </level>

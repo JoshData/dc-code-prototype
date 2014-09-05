@@ -16,7 +16,39 @@
   </level>
   <level>
     <num>(3)</num>
-    <text>"Wages" mean monetary compensation after lawful deductions, owed by an employer for labor or services rendered, whether the amount is determined on a time, task, piece, commission, or other basis of calculation.</text>
+    <text>"Wages" means all monetary compensation after lawful deductions, owed by an employer, whether the amount owed is determined on a time, task, piece, commission, or other basis of calculation. The term "wages" includes a:</text>
+    <level>
+      <num>(A)</num>
+      <text>Bonus;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Commission;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Fringe benefits paid in cash;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Overtime premium; and</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Other remuneration promised or owed:</text>
+      <level>
+        <num>(i)</num>
+        <text>Pursuant to a contract for employment, whether written or oral;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Pursuant to a contract between an employer and another person or entity; or</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Pursuant to District or federal law.</text>
+      </level>
+    </level>
   </level>
   <level>
     <num>(4)</num>
@@ -29,7 +61,11 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Aug. 3, 1956, 70 Stat. 976, ch. 924, § 1.)</text>
+      <text>(Aug. 3, 1956, 70 Stat. 976, ch. 924, § 1; Dec. 24, 2013, D.C. Law 20-61, § 2062(a), 60 DCR 12472.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-220.08.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
@@ -37,8 +73,26 @@
       <text>1973 Ed., § 36-601.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 20-61 rewrote (3).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 2062(a) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2062(a) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Section 2061 of D.C. Law 20-61 provided that Subtitle G of Title II of the act may be cited as the "Wage Theft Prevention Amendment Act of 2013".</text>
+    </level>
+    <level>
       <heading>Editor’s Notes</heading>
       <text>Section 2(a) of D.C. Law 19-300 designated the existing provisions of Chapter 13 as subchapter I, and enacted subchapter II.</text>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
     </level>
     <level>
       <heading>Change in Government</heading>

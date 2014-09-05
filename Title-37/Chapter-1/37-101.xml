@@ -56,7 +56,31 @@
   </level>
   <level>
     <num>(12)</num>
-    <text>"Eastern Market special use area" means public land near Eastern Market Square, including but not limited to the playground and parking lot of Hine Junior High School and the Capitol Hill Natatorium Plaza.</text>
+    <text>"Eastern Market Special Use Area" means:</text>
+    <level>
+      <num>(A)</num>
+      <text>Eastern Market Square, including the North Hall Plaza;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The Capitol Hill Natatorium Plaza;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>The playground and parking lot of Hine Junior High School, as of December 24, 2013, until commencement of construction with respect to new development on the Hine Junior High School site;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>7th Street, S.E., between North Carolina Avenue, S.E., and Pennsylvania Avenue, S.E., including the area between the curb and near edge of the sidewalk on both the east and west sides of the street and excluding the area between the property line and far edge of the sidewalk on both sides of the street;</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>The new C Street, S.E., to be constructed between 7th and 8th Streets, S.E., including the area between the curb and near edge of the sidewalk on both the north and south sides of the street and excluding the area between the property line and the far edge of the sidewalk on both sides of the street; and</text>
+    </level>
+    <level>
+      <num>(F)</num>
+      <text>Other privately owned or controlled lands or buildings that are directly adjacent to the area defined in subparagraphs (A), (B), (C), and (D) of this paragraph, each being subject to a lease or management agreement between the market manager and such owner or controlling entity, and for durations and under conditions defined in the lease or management agreements.</text>
+    </level>
   </level>
   <level>
     <num>(13)</num>
@@ -88,11 +112,11 @@
   </level>
   <level>
     <num>(20)</num>
-    <text>"Importers of handcrafted and indigenous goods" means market vendors who sell items that are ethno-specific and are designed, produced and representative of the country of origin and purchased by the applicant in the country of origin or imported by the market vendor.</text>
+    <text>"Importers of hand-crafted and indigenous goods" means market vendors who sell items that are ethno-specific and are designed, produced and representative of the country of origin and purchased by the applicant in the country of origin or imported by the market vendor.</text>
   </level>
   <level>
     <num>(21)</num>
-    <text>"Market manager" means the not-for-profit association or corporation contracted to provide coordinated management for the Eastern Market Square and the individual or individuals designated to provide day-to-day management of the Eastern Market Square.</text>
+    <text>"Market manager" means a person or persons, having experience relevant to operating an historic urban fresh food or farmers' market, employed to provide unified and coordinated management for the Eastern Market Special Use Area.</text>
   </level>
   <level>
     <num>(22)</num>
@@ -137,7 +161,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 16, 1999, D.C. Law 12-228, § 2, 46 DCR 1066; Apr. 20, 1999, D.C. Law 12-264, § 22(a), 46 DCR 1066; Sept. 26, 2012, D.C. Law 19-171, § 91(a), 59 DCR 6190.)</text>
+      <text>(Apr. 16, 1999, D.C. Law 12-228, § 2, 46 DCR 1066; Apr. 20, 1999, D.C. Law 12-264, § 22(a), 46 DCR 1066; Sept. 26, 2012, D.C. Law 19-171, § 91(a), 59 DCR 6190; Dec. 24, 2013, D.C. Law 20-61, § 1052, 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
@@ -146,10 +170,13 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>The 2012 amendment by D.C. Law 19-171 substituted "Department of General Services" for "District of Columbia Office of Property Management" in (5); and repealed (25), which formerly read: "'Office of Property Management' ('OPM') means the District of Columbia Office of Property Management."</text>
+      <text>The 2013 amendment by D.C. Law 20-61 rewrote (12) and (21).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 day) amendment of section, see § 2(a) of Eastern Market Emergency Amendment Act of 2008 (D.C. Act 17-570, November 7, 2008, 55 DCR 12114).</text>
+      <text>For temporary (90 days) amendment of this section, see § 1052 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 1052 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 12-264</heading>
@@ -162,6 +189,18 @@
     <level>
       <heading>Legislative History of Law 19-171</heading>
       <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Section 1051 of D.C. Law 20-61 provided that Subtitle F of Title I of the act may be cited as the "Eastern Market Jurisdiction Clarification Amendment Act of 2013".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

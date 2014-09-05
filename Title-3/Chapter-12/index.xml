@@ -11,6 +11,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VI-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VI-B/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VI-C/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VI-D/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VII/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VII-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VII-B/index.xml"/>
@@ -21,6 +22,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VIII-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VIII-B/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VIII-C/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VIII-D/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-IX/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-X/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-XI/index.xml"/>

@@ -1,111 +1,134 @@
 <level type="section">
   <num>38-353</num>
   <heading>Duties.</heading>
+  <text>The Ombudsman shall:</text>
   <level>
-    <num>(a)</num>
-    <text>The Ombudsman shall:</text>
+    <num>(1)</num>
+    <text>Provide outreach to current and prospective public school students and their parents or guardians, and to further this purpose, have the cooperation of all individuals within the public school system;</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>Encourage communication between public schools and current and prospective public school students and their parents or guardians regarding public education;</text>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>Serve as a vehicle for current and prospective public school students and their parents or guardians to communicate their complaints and concerns regarding public education through a single office;</text>
+  </level>
+  <level>
+    <num>(4)</num>
+    <text>Respond to complaints and concerns in a timely fashion with accurate and helpful information;</text>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>Receive complaints from current and prospective public school students and their parents or guardians concerning public education, including personnel actions, policies, and procedures;</text>
+  </level>
+  <level>
+    <num>(6)</num>
+    <text>Determine the validity of any complaint quickly and professionally;</text>
+  </level>
+  <level>
+    <num>(7)</num>
+    <text>Examine and address valid complaints and concerns;</text>
+  </level>
+  <level>
+    <num>(8)</num>
+    <text>Generate options for a response, and offer a recommendation among the options;</text>
+  </level>
+  <level>
+    <num>(9)</num>
+    <text>Refer complainants to a public school official, agency, department, or resource, when appropriate;</text>
+  </level>
+  <level>
+    <num>(10)</num>
+    <text>Except when the parties are involved in legal or administrative proceedings, resolve complaints presented by current and prospective public school students and their parents or guardians, either through complaint resolution services as established pursuant to § 38-356 or through other informal measures;</text>
+  </level>
+  <level>
+    <num>(11)</num>
+    <text>Develop and maintain a database that tracks complaints and concerns, identified by grade level and by the public school, and the resolution of complaints and concerns;</text>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>Repealed.</text>
+  </level>
+  <level>
+    <num>(13)</num>
+    <text>Identify systemic concerns and recommend to the State Board of Education policy changes, staff training, and strategies to improve public education; and</text>
+  </level>
+  <level>
+    <num>(14)</num>
+    <text>Repealed.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>Within 90 days after the end of each school year, submit to the State Board of Education, and make publicly available, a report summarizing the work of the Ombudsman during the previous school year, which shall, at minimum, include an analysis of the types and number of:</text>
     <level>
-      <num>(1)</num>
-      <text>Provide outreach to residents and parents, and to further this purpose, have the cooperation of all individuals within the public school system;</text>
+      <num>(A)</num>
+      <text>Complaints received;</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>Encourage communication between residents and the Mayor regarding all levels of public education;</text>
+      <num>(B)</num>
+      <text>Complaints examined and resolved informally;</text>
     </level>
     <level>
-      <num>(3)</num>
-      <text>Serve as a vehicle for citizens to communicate their complaints and concerns regarding public education through a single office;</text>
+      <num>(C)</num>
+      <text>Complaints examined and resolved through a formal process;</text>
     </level>
     <level>
-      <num>(4)</num>
-      <text>Respond to complaints and concerns in a timely fashion with accurate and helpful information;</text>
+      <num>(D)</num>
+      <text>Complaints dismissed as unfounded;</text>
     </level>
     <level>
-      <num>(5)</num>
-      <text>Receive complaints and concerns from parents, students, teachers, and other District residents concerning public education, including personnel actions, policies, and procedures;</text>
+      <num>(E)</num>
+      <text>Complaints pending;</text>
     </level>
     <level>
-      <num>(6)</num>
-      <text>Determine the validity of any complaint quickly and professionally;</text>
+      <num>(F)</num>
+      <text>Recommendations made;</text>
     </level>
     <level>
-      <num>(7)</num>
-      <text>Examine and address valid complaints and concerns;</text>
-    </level>
-    <level>
-      <num>(8)</num>
-      <text>Generate options for a response, and offer a recommendation among the options;</text>
-    </level>
-    <level>
-      <num>(9)</num>
-      <text>Make a referral to the pertinent school official, when appropriate;</text>
-    </level>
-    <level>
-      <num>(10)</num>
-      <text>Identify systemic concerns raised by citizens, or otherwise received, related to public education;</text>
-    </level>
-    <level>
-      <num>(11)</num>
-      <text>Maintain a database that tracks complaints and concerns received according to various categories, including school level and location;</text>
-    </level>
-    <level>
-      <num>(12)</num>
-      <text>Submit to the Deputy Mayor for Public Education and the Chairman of the Council, on a monthly basis, an analysis of the preceding month, including complaint and resolution data;</text>
-    </level>
-    <level>
-      <num>(13)</num>
-      <text>Recommend policy changes, staff training, and strategies to improve the delivery of public education services;</text>
-    </level>
-    <level>
-      <num>(14)</num>
-      <text>Systemically track complaints and concerns, and periodically analyze the data and report to the Deputy Mayor for Education patterns of complaints and concerns that suggest a need for a policy change, staff training, or the implementation of strategic action to address an issue; and</text>
-    </level>
-    <level>
-      <num>(15)</num>
-      <text>Within 90 days of the end of each school year, submit to the Deputy Mayor for Education a report analyzing the work of the previous year, including an analysis of the types, and number, of:</text>
-      <level>
-        <num>(A)</num>
-        <text>Inquiries;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Complaints and concerns resolved informally;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Complaints and concerns examined;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Examinations pending;</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Recommendations made; and</text>
-      </level>
-      <level>
-        <num>(F)</num>
-        <text>Recommendations that were followed, to the extent that it can be determined.</text>
-      </level>
+      <num>(G)</num>
+      <text>Recommendations that were followed, to the extent that it can be determined.</text>
     </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(June 12, 2007, D.C. Law 17-9, § 604, 54 DCR 4102.)</text>
+      <text>(June 12, 2007, D.C. Law 17-9, § 604, 54 DCR 4102; Apr. 27, 2013, D.C. Law 19-284, § 3(b), 60 DCR 2312; Feb. 22, 2014, D.C. Law 20-76, § 102(b), 61 DCR 39.)</text>
     </level>
     <level>
       <heading>Section References</heading>
       <text>This section is referenced in § 38-191.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-284 rewrote (12); and in the introductory language of (15), substituted "45 days" for "90 days", and substituted "Deputy Mayor for Education, the Council, the State Board of Education a report, which shall be posted on their websites" for "Deputy Mayor for Education a report".</text>
+      <text>The 2014 amendment by D.C. Law 20-74 deleted the subsection (a) designation; substituted "current and prospective public school students and their parents or guardians" for "residents and parents" in (1); substituted "current and prospective public school students and their parents or guardians" for "citizens" in (3); rewrote (2), (5), (9), (10), (11), and (15); and repealed (12) and (14).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) repeal of D.C. Law 19-284, § 5, see § 7016 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) repeal of D.C. Law 19-284, § 5, see § 7016 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 17-9</heading>
       <text>For Law 17-9, see notes following § 38-351.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 19-284</heading>
+      <text>See note to § 38-351.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-76</heading>
+      <text>See note to § 38-351.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Section 7001 of D.C. Law 20-61 provided that Subtitle A of Title VII of the act may be cited as the "Subject to Appropriations Repealers Amendment Act of 2013".</text>
+    </level>
+    <level>
       <heading>Editor’s Notes</heading>
-      <text>Section 3(b) of D.C. Law 19-284 rewrote (12); in the introductory language of (15), substituted "45 days" for "90 days"; and substituted "Deputy Mayor for Education, the Council, the State Board of Education a report, which shall be posted on their websites," for "Deputy Mayor for Education a report".</text>
       <text>Applicability of D.C. Law 19-284: Section 5 of D.C. Law 19-284 provided that section 3 of the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</text>
+      <text>Section 7016 of D.C. Law 20-61 repealed D.C. Law 19-284, § 5.</text>
     </level>
   </level>
 </level>

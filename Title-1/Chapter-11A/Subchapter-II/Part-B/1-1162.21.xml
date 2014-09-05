@@ -17,7 +17,54 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>In addition to any civil penalty imposed under this subchapter, a violation of the Code of Conduct may result in remedial action in accordance with Chapter 6 of this title.</text>
+      <level>
+        <num>(A)</num>
+        <text>In addition to any civil penalty imposed under this subchapter, a violation of the Code of Conduct may result in the following:</text>
+        <level>
+          <num>(i)</num>
+          <text>Remedial action in accordance with the Merit Personnel Act;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>A public censure imposed by the Ethics Board;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>A non-public, informal admonition imposed by the Director of Government Ethics for low-level violations of the Code of Conduct such as:</text>
+          <level>
+            <num>(I)</num>
+            <text>A one-time, minor misuse of government property;</text>
+          </level>
+          <level>
+            <num>(II)</num>
+            <text>A non-habitual time and leave issue that does not have a specific harmful impact;</text>
+          </level>
+          <level>
+            <num>(III)</num>
+            <text>A non-uniform application of a regulation or policy by a supervisor, where it is not a regular occurrence and was not for an unlawful purpose;</text>
+          </level>
+          <level>
+            <num>(IV)</num>
+            <text>A relatively minor action based, at least in part, on advice or guidance sought in good faith from another, such as a supervisor, and given in good faith, though erroneous; or</text>
+          </level>
+          <level>
+            <num>(V)</num>
+            <text>A minor, incidental ethics violation for which the person made amends and rectified the situation;</text>
+          </level>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>A finding of a violation and a period of probation after which a respondent may seek expungement of the violation upon successful completion of any probationary terms imposed by the Director of Government Ethics or the Ethics Board; or</text>
+        </level>
+        <level>
+          <num>(v)</num>
+          <text>Any negotiated disposition of a matter offered by the Director of Government Ethics, and accepted by the respondent, subject to approval by the Ethics Board.</text>
+        </level>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>A non-public, informal admonition imposed under subparagraph (A)(iii) of this paragraph may be appealed to the Ethics Board.</text>
+      </level>
     </level>
     <level>
       <num>(5)</num>
@@ -68,11 +115,15 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 27, 2012, D.C. Law 19-124, § 221, 59 DCR 1862.)</text>
+      <text>(Apr. 27, 2012, D.C. Law 19-124, § 221, 59 DCR 1862; Feb. 22, 2014, D.C. Law 20-75, § 2(b), 61 DCR 36.)</text>
     </level>
     <level>
       <heading>Section References</heading>
       <text>This section is referenced in § 1-1161.01, § 1-1162.10, § 1-1162.15, § 1-1162.22, § 1-1162.32, and § 1-1163.38.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-75 rewrote (a)(4), which previously read, "In addition to any civil penalty imposed under this subchapter, a violation of the Code of Conduct may result in remedial action in accordance with Chapter 6 of this title."</text>
     </level>
     <level>
       <heading>Temporary Legislation</heading>
@@ -81,10 +132,15 @@
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 days) amendment of this section, see § 2(b) of the Board of Ethics and Government Accountability Emergency Amendment Act of 2013 (D.C. Act 20-24, March 7, 2013, 60 DCR 3984, 20 DCSTAT 483).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(b) of the Board of Ethics and Government Accountability Congressional Review Emergency Amendment Act of 2013 (D.C. Act 20-245, December 27, 2013, 61 DCR 135, 20 DCSTAT 2639).</text>
     </level>
     <level>
       <heading>Legislative History of Law 19-124</heading>
       <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-75</heading>
+      <text>Law 20-75, the "Board of Ethics and Government Accountability Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-116. The Bill was adopted on first and second readings on November 5, 2013 and December 3, 2013, respectively. Signed by the Mayor on December 23, 2013, it was assigned Act No. 20-241 and transmitted to Congress for its review. D.C. Law 20-75 became effective on February 22, 2014.</text>
     </level>
   </level>
 </level>

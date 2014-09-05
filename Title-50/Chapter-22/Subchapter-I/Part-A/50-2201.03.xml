@@ -60,7 +60,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The vehicle is displaying a Congressional or Council registration tag issued by the jurisdiction represented by the member; and</text>
+      <text>The vehicle is displaying a Congressional or Council registration tag or parking placard issued for the current session or by the District; and</text>
     </level>
     <level>
       <num>(3)</num>
@@ -196,6 +196,10 @@
           <num>(4)</num>
           <text>The owner of an immobilized vehicle shall be subject to a booting fee of $75 for such immobilization.</text>
         </level>
+        <level>
+          <num>(5)</num>
+          <text>Before the removal of an immobilization mechanism on a motor vehicle or the release of a motor vehicle from impoundment, the owner shall pay all outstanding fees, charges, civil fines, or penalties incurred pursuant to this section and §§ 50-1401.01, 50-1401.02, 31-2413(b)(2)(A), 50-1101, 50-1106, 50-1501.02, 50-1501.03, 50-2301.05, 50-2303.04a, and 50-2421.09(a), against the owner or any motor vehicle in which the owner has an ownership interest or had an ownership interest when a notice of infraction was issued.</text>
+        </level>
       </level>
       <level>
         <num>(l)</num>
@@ -206,7 +210,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 3, 1925, 43 Stat. 1121, ch. 443, § 6; July 3, 1926, 44 Stat. 814, ch. 739, § 4; Feb. 27, 1931, 46 Stat. 1424, ch. 317, §§ 3, 4; Dec. 19, 1932, 47 Stat. 750, ch. 5; Apr. 1, 1942, 56 Stat. 190, ch. 207, § 1; July 2, 1945, 59 Stat. 313, ch. 222; May 27, 1949, 63 Stat. 128, title III, ch. 146, § 301; Oct. 28, 1949, 63 Stat. 972, title XI, ch. 782, § 1106(a); July 24, 1956, 70 Stat. 633, ch. 695, § 1; Sept. 2, 1957, 71 Stat. 598, Pub. L. 85-273, § 3; Oct. 3, 1962, 76 Stat. 742, Pub. L. 87-745, § 1; July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1; Aug. 30, 1964, 78 Stat. 634, Pub. L. 88-503, § 21; Sept. 30, 1966, 80 Stat. 856, Pub. L. 89-610, title II, § 201; 1967 Reorg. Plan No. 3, 81 Stat. 980, § 503(c); Dec. 4, 1967, 81 Stat. 532, Pub. L. 90-172, § 1; Oct. 31, 1969, 83 Stat. 172, 174, Pub. L. 91-106, titles II, IV, §§ 201, 404; Dec. 12, 1969, 83 Stat. 343, Pub. L. 91-145, § 101; July 29, 1970, 84 Stat. 570, 583, Pub. L. 91-358, title I, §§ 155(a), 163(g)(2); Dec. 15, 1971, 85 Stat. 657, Pub. L. 92-196, title VII, § 705; Oct. 21, 1972, 86 Stat. 1015, Pub. L. 92-518, title III, § 301(a); Nov. 1, 1973, 87 Stat. 531, Pub. L. 93-145, § 101; Oct. 21, 1975, D.C. Law 1-23, title I, § 102, 22 DCR 2094; Jan. 22, 1976, D.C. Law 1-42, § 7(b), 22 DCR 6317; June 15, 1976, D.C. Law 1-70, title II, § 201, 23 DCR 536; Apr. 19, 1977, D.C. Law 1-124, title I, § 102, 23 DCR 8749; Apr. 26, 1977, D.C. Law 1-133, title IV, § 402, 23 DCR 9697; Sept. 12, 1978, D.C. Law 2-104, §§ 501, 601, 25 DCR 1275; Mar. 3, 1979, D.C. Law 2-139, § 3205(l), 25 DCR 5740; Mar. 6, 1979, D.C. Law 2-157, § 5, 25 DCR 6995; Apr. 3, 1982, D.C. Law 4-97, § 5, 29 DCR 765; Sept. 14, 1982, D.C. Law 4-145, § 7, 29 DCR 3138; June 22, 1983, D.C. Law 5-14, §§ 803, 804, 30 DCR 2632; Nov. 15, 1983, D.C. Law 5-42, § 2(b), 30 DCR 4999; May 1, 1990, D.C. Law 8-103, § 2, 37 DCR 1615; Sept. 26, 1990, D.C. Law 8-170, § 2, 37 DCR 4839; Aug. 17, 1991, D.C. Law 9-30, § 4(a), 38 DCR 4215; May 5, 1992, D.C. Law 9-96, § 4(b), 38 DCR 7274; Mar. 26, 1999, D.C. Law 12-175, § 802, 45 DCR 7193; April 5, 2000, D.C. Law 13-80, § 2, 46 DCR 10463; Oct. 19, 2002, D.C. Law 14-213, § 34, 49 DCR 8140; June 5, 2003, D.C. Law 14-307, § 1706(a), 49 DCR 11664; Oct. 28, 2003, D.C. Law 15-35, § 13(b), 50 DCR 6579; Mar. 16, 2005, D.C. Law 15-239, § 2(a), 51 DCR 9600; Apr. 8, 2005, D.C. Law 15-307, § 402, 52 DCR 1700; Oct. 20, 2005, D.C. Law 16-33, § 6002, 52 DCR 7503; June 16, 2006, D.C. Law 16-129, § 2, 53 DCR 4716; June 22, 2006, D.C. Law 16-139, § 10, 53 DCR 3682; Mar. 2, 2007, D.C. Law 16-191, § 89, 53 DCR 6794; Mar. 14, 2007, D.C. Law 16-279, §§ 202(a), 401(a), 54 DCR 903; Aug. 16, 2008, D.C. Law 17-219, § 6006, 55 DCR 7598; Sept. 12, 2008, D.C. Law 17-231, § 42, 55 DCR 6758; Mar. 20, 2009, D.C. Law 17-303, § 3(b), 55 DCR 12803; Apr. 23, 2013, D.C. Law 19-272, § 2, 60 DCR 1729; Apr. 27, 2013, D.C. Law 19-266, § 102(b), 59 DCR 12957; Apr. 27, 2013, D.C. Law 19-290, § 5(a), 60 DCR 2343; June 11, 2013, D.C. Law 19-317, § 271(a), 60 DCR 2064.)</text>
+      <text>(Mar. 3, 1925, 43 Stat. 1121, ch. 443, § 6; July 3, 1926, 44 Stat. 814, ch. 739, § 4; Feb. 27, 1931, 46 Stat. 1424, ch. 317, §§ 3, 4; Dec. 19, 1932, 47 Stat. 750, ch. 5; Apr. 1, 1942, 56 Stat. 190, ch. 207, § 1; July 2, 1945, 59 Stat. 313, ch. 222; May 27, 1949, 63 Stat. 128, title III, ch. 146, § 301; Oct. 28, 1949, 63 Stat. 972, title XI, ch. 782, § 1106(a); July 24, 1956, 70 Stat. 633, ch. 695, § 1; Sept. 2, 1957, 71 Stat. 598, Pub. L. 85-273, § 3; Oct. 3, 1962, 76 Stat. 742, Pub. L. 87-745, § 1; July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1; Aug. 30, 1964, 78 Stat. 634, Pub. L. 88-503, § 21; Sept. 30, 1966, 80 Stat. 856, Pub. L. 89-610, title II, § 201; 1967 Reorg. Plan No. 3, 81 Stat. 980, § 503(c); Dec. 4, 1967, 81 Stat. 532, Pub. L. 90-172, § 1; Oct. 31, 1969, 83 Stat. 172, 174, Pub. L. 91-106, titles II, IV, §§ 201, 404; Dec. 12, 1969, 83 Stat. 343, Pub. L. 91-145, § 101; July 29, 1970, 84 Stat. 570, 583, Pub. L. 91-358, title I, §§ 155(a), 163(g)(2); Dec. 15, 1971, 85 Stat. 657, Pub. L. 92-196, title VII, § 705; Oct. 21, 1972, 86 Stat. 1015, Pub. L. 92-518, title III, § 301(a); Nov. 1, 1973, 87 Stat. 531, Pub. L. 93-145, § 101; Oct. 21, 1975, D.C. Law 1-23, title I, § 102, 22 DCR 2094; Jan. 22, 1976, D.C. Law 1-42, § 7(b), 22 DCR 6317; June 15, 1976, D.C. Law 1-70, title II, § 201, 23 DCR 536; Apr. 19, 1977, D.C. Law 1-124, title I, § 102, 23 DCR 8749; Apr. 26, 1977, D.C. Law 1-133, title IV, § 402, 23 DCR 9697; Sept. 12, 1978, D.C. Law 2-104, §§ 501, 601, 25 DCR 1275; Mar. 3, 1979, D.C. Law 2-139, § 3205(l), 25 DCR 5740; Mar. 6, 1979, D.C. Law 2-157, § 5, 25 DCR 6995; Apr. 3, 1982, D.C. Law 4-97, § 5, 29 DCR 765; Sept. 14, 1982, D.C. Law 4-145, § 7, 29 DCR 3138; June 22, 1983, D.C. Law 5-14, §§ 803, 804, 30 DCR 2632; Nov. 15, 1983, D.C. Law 5-42, § 2(b), 30 DCR 4999; May 1, 1990, D.C. Law 8-103, § 2, 37 DCR 1615; Sept. 26, 1990, D.C. Law 8-170, § 2, 37 DCR 4839; Aug. 17, 1991, D.C. Law 9-30, § 4(a), 38 DCR 4215; May 5, 1992, D.C. Law 9-96, § 4(b), 38 DCR 7274; Mar. 26, 1999, D.C. Law 12-175, § 802, 45 DCR 7193; April 5, 2000, D.C. Law 13-80, § 2, 46 DCR 10463; Oct. 19, 2002, D.C. Law 14-213, § 34, 49 DCR 8140; June 5, 2003, D.C. Law 14-307, § 1706(a), 49 DCR 11664; Oct. 28, 2003, D.C. Law 15-35, § 13(b), 50 DCR 6579; Mar. 16, 2005, D.C. Law 15-239, § 2(a), 51 DCR 9600; Apr. 8, 2005, D.C. Law 15-307, § 402, 52 DCR 1700; Oct. 20, 2005, D.C. Law 16-33, § 6002, 52 DCR 7503; June 16, 2006, D.C. Law 16-129, § 2, 53 DCR 4716; June 22, 2006, D.C. Law 16-139, § 10, 53 DCR 3682; Mar. 2, 2007, D.C. Law 16-191, § 89, 53 DCR 6794; Mar. 14, 2007, D.C. Law 16-279, §§ 202(a), 401(a), 54 DCR 903; Aug. 16, 2008, D.C. Law 17-219, § 6006, 55 DCR 7598; Sept. 12, 2008, D.C. Law 17-231, § 42, 55 DCR 6758; Mar. 20, 2009, D.C. Law 17-303, § 3(b), 55 DCR 12803; Apr. 23, 2013, D.C. Law 19-272, § 2, 60 DCR 1729; Apr. 27, 2013, D.C. Law 19-266, § 102(b), 59 DCR 12957; Apr. 27, 2013, D.C. Law 19-290, § 5(a), 60 DCR 2343; June 11, 2013, D.C. Law 19-317, § 271(a), 60 DCR 2064; Dec. 24, 2013, D.C. Law 20-61, §§ 6012, 6133, 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -227,7 +231,7 @@
     </level>
     <level>
       <heading>Section References</heading>
-      <text>This section is referenced in § 1-636.02, § 9-1103.04, § 9-1111.15, § 34-731, § 47-2831, § 50-2201.22, § 50-2201.25, § 50-2201.27, and § 50-2421.02.</text>
+      <text>This section is referenced in § 1-636.02, § 9-1103.04, § 9-1111.15, § 34-731, § 47-2831, § 50-2201.22, § 50-2201.25, § 50-2201.27, § 50-2421.02, and § 50-2421.09.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
@@ -258,6 +262,7 @@
       <text>The 2013 amendment by D.C. Law 19-272 rewrote (j)(1) and (j)(3)(H).</text>
       <text>The 2013 amendment by D.C. Law 19-290 substituted "motor-driven cycles" for "motorized bicycles" in (j)(3)(J).</text>
       <text>The 2013 amendment by D.C. Law 19-317 substituted "not more than the amount set forth in § 22-3571.01" for "not more than $1,000 [$2,500]" in (d), and for "not more than $300 [$500]" in (f).</text>
+      <text>The 2013 amendment by D.C. Law 20-61 substituted "registration tag or parking placard issued for the current session or by the District"' for "registration tag issued by the jurisdiction represented by the member" in (c)(2); and added (k)(5).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -284,6 +289,8 @@
       <text>For temporary (90 days) amendment of this section, see § 102(b) of the Comprehensive Impaired Driving and Alcohol Testing Program Congressional Review Emergency Act of 2013 (D.C. Act 20-3, January 29, 2013, 60 DCR 2762, 20 DCSTAT 410).</text>
       <text>For temporary (90 days) amendment of this section, see § 271(a) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013, 60 DCR 5400, 20 DCSTAT 1300).</text>
       <text>For temporary (90 days) amendment of this section, see § 102(b) of the Comprehensive Impaired Driving and Alcohol Testing Program Second Congressional Review Emergency Act of 2013 (D.C. Act 20-51, April 17, 2013, 60 DCR 6344, 20 DCSTAT 1360).</text>
+      <text>For temporary (90 days) amendment of this section, see §§ 6012 and 6133 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see §§ 6012 and 6133 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 1-23</heading>
@@ -434,9 +441,15 @@
       <text>Law 19-317, the "Criminal Fine Proportionality Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-214. The Bill was adopted on first and second readings on Oct. 16, 2012, and Nov. 1, 2012, respectively. Signed by the Mayor on Jan. 23, 2013, it was assigned Act No. 19-641 and transmitted to Congress for its review. D.C. Law 19-317 became effective on June 11, 2013.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
       <text>Short title of subtitle A of title VI of Law 16-33: Section 6001 of D.C. Law 16-33 provided that subtitle A of title VI of the act may be cited as the Traffic Amendment Act of 2005.</text>
       <text>Short title: Section 6005 of D.C. Law 17-219 provided that subtitle B of title VI of the act may be cited as the "Department of Motor Vehicles Incentive Exemption for Leased Vehicles and Low Emission Vehicles Amendment Act of 2008".</text>
+      <text>Section 6011 of D.C. Law 20-61 provided that Subtitle B of Title VI of the act may be cited as the "DMV Immobilization Amendment Act of 2013".</text>
+      <text>Section 6131 of D.C. Law 20-61 provided that Subtitle N of Title VI of the act may be cited as the "Representation Tags Amendment Act of 2013".</text>
     </level>
     <level>
       <heading>Delegation of Authority</heading>
@@ -444,6 +457,7 @@
     </level>
     <level>
       <heading>Editor’s Notes</heading>
+      <text>Section 5 of 46 Stat. 1429, ch. 317, effective Feb. 27, 1931, provided that all convictions under the Act shall be reported by the clerk of the court to the commissioners [Mayor] or their [his] designated agent.</text>
       <text>Application of Law 15-35: Section 15 of D.C. Law 15-35 provided: "This act shall apply to all vehicles impounded after its effective date. This act shall also apply to all vehicles impounded prior to its effective date provided that notice is sent to the owners and lien holders in accordance with the provisions of subsections 7(b) or (c), as is applicable."</text>
       <text>Department of Vehicles and Traffic abolished: The Department of Vehicles and Traffic, including the Director, was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. Reorganization Order No. 54 of the Board of Commissioners, dated June 30, 1953, as amended, September 1, 1953, established a Department of Vehicles and Traffic, headed by a Director; a Board of Revocation and Review of Hackers' Identification Cards; a Motor Vehicle Parking Agency; and a Commissioners' Traffic Advisory Board; prescribed the functions thereof; and abolished the previously existing Department of Vehicles and Traffic, the Registrar of Titles and Tags, the Board of Revocation and Review of Hackers' Identification Cards, the Driver Improvement Section, and the Motor Vehicle Parking Agency. Reorganization Order No. 54 was repealed and replaced by Organization Order Nos. 105, 106, 107, and 108, dated May 17, 1955. Organization Order No. 105 continued the Department of Vehicles and Traffic and prescribed the functions thereof. Organization Order No. 106 continued the Motor Vehicle Parking Agency and prescribed the composition and functions thereof. The Department of Vehicles and Traffic was redesignated as the Department of Motor Vehicles by Commissioners' Order No. 58-919, dated June 10, 1958. The Department of Highways was replaced by Reorganization Order No. 58-1116, dated July 15, 1958, which order established the Department of Highways and Traffic. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. Organization Order No. 107, relating to the Hackers' Board was redesignated as Organization Order No. 13, dated August 15, 1968, and amended. Organization Order No. 108, as amended, replaced the Commissioners' Traffic Advisory Board with a Citizens' Traffic Board, and prescribed the composition and functions thereof. Reorganization Plan No. 2 of 1975 combined the Department of Motor Vehicles and the Department of Highways and Traffic to form the Department of Transportation.</text>
       <text>The functions of the Department of Transportation were transferred to the Department of Public Works by Reorganization Plan No. 4 of 1983, effective March 1, 1984.</text>
@@ -451,6 +465,7 @@
       <text>Mayor authorized to issue rules: Section 1102 of D.C. Law 5-14 provided that the Mayor shall issue rules necessary to carry out the provisions of the act.</text>
       <text>Effect of repeal provisions: Section 14 of D.C. Law 15-35 provided: "Any repeal of a law or regulation by this act shall not invalidate any enforcement action, adjudication, or any other action made or taken pursuant to such law or regulation."</text>
       <text>Applicability of D.C. Law 19-317: Section 401 of D.C. Law 19-317 provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
     </level>
     <level>
       <heading>Change in Government</heading>

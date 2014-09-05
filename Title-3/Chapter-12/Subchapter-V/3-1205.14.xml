@@ -210,11 +210,27 @@
     </level>
     <level>
       <num>(45)</num>
-      <text>Commits fraud or makes false claims in connection with the practice of an occupation regulated by this chapter, or relating to Medicaid, Medicare, or insurance; or</text>
+      <text>Commits fraud or makes false claims in connection with the practice of an occupation regulated by this chapter, or relating to Medicaid, Medicare, or insurance;</text>
     </level>
     <level>
       <num>(46)</num>
-      <text>Acts in a manner inconsistent with the health and safety of the residents of the nursing facility of which the licensee is the administrator.</text>
+      <text>Acts in a manner inconsistent with the health and safety of the residents of the nursing facility of which the licensee is the administrator;</text>
+    </level>
+    <level>
+      <num>(47)</num>
+      <text>Acts fraudulently or dishonestly in the application or reporting of a test for animal disease;</text>
+    </level>
+    <level>
+      <num>(48)</num>
+      <text>Fails to report, as required by law, or makes a false report of a contagious or infectious disease;</text>
+    </level>
+    <level>
+      <num>(49)</num>
+      <text>Willfully neglects or misrepresents the inspection of food-stuffs or the issuance of health or inspection certificates; or</text>
+    </level>
+    <level>
+      <num>(50)</num>
+      <text>Knowingly or negligently tortures, beats, or mutilates an animal, kills or injures an animal, or deprives an animal of necessary food, water, or shelter.</text>
     </level>
   </level>
   <level>
@@ -295,11 +311,11 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 25, 1986, D.C. Law 6-99, § 514, 33 DCR 729; Mar. 23, 1995, D.C. Law 10-247, § 2(n), 42 DCR 457; July 18, 2009, D.C. Law 18-26, § 2(e)(15), 56 DCR 4043; Apr. 29, 2010, D.C. Law 18-145, § 2(b), 57 DCR 1834.)</text>
+      <text>(Mar. 25, 1986, D.C. Law 6-99, § 514, 33 DCR 729; Mar. 23, 1995, D.C. Law 10-247, § 2(n), 42 DCR 457; July 18, 2009, D.C. Law 18-26, § 2(e)(15), 56 DCR 4043; Apr. 29, 2010, D.C. Law 18-145, § 2(b), 57 DCR 1834; Mar. 26, 2014, D.C. Law 20-96, § 102(o), 61 DCR 1184.)</text>
     </level>
     <level>
       <heading>Section References</heading>
-      <text>This section is referenced in § 3-1251.09 and § 7-1671.07.</text>
+      <text>This section is referenced in § 3-1251.09, § 7-1671.07, § 47-2888.04, and § 48-853.03.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
@@ -309,6 +325,7 @@
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 18-26 rewrote subsecs. (a) and (c); and, in subsec. (e), substituted "licensed, registered, or certified" for "licensed".</text>
       <text>D.C. Law 18-145, in subsec. (a), deleted "or" from the end of par. (44), substituted "; or" for a period at the end of par. (45), and added par. (46); and, in subsec. (c)(6), deleted "; and" from the end of subpar. (B), inserted "and" at the end of subpar. (C), and added subpar. (D).</text>
+      <text>The 2014 amendment by D.C. Law 20-96 added (a)(47), (a)(48), (a)(49), and (a)(50); and made related changes.</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -329,6 +346,10 @@
     <level>
       <heading>Legislative History of Law 18-145</heading>
       <text>For Law 18-145, see notes following § 2-1205.10.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-96</heading>
+      <text>See note to § 3-1201.01.</text>
     </level>
   </level>
 </level>

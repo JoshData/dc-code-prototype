@@ -8,12 +8,32 @@
   </level>
   <level>
     <num>(2)</num>
-    <text>Aggregate revenues in excess of $88 million received in any one fiscal year beginning on or after October 1, 2012, from fines paid due to automated photo enforcement; except, that in fiscal year 2014, it shall be in excess of $92.5 million.</text>
+    <text>From fines paid due to automated photo enforcement in any one fiscal year:</text>
+    <level>
+      <num>(A)</num>
+      <text>Aggregate revenues in excess of $105,791,000 in fiscal year 2013;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Aggregate revenues in excess of $141,348,000 in fiscal year 2014;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Aggregate revenues in excess of $155,812,000 in fiscal year 2015;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Aggregate revenues in excess of $148,020,000 in fiscal year 2016; and</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>Aggregate revenues in excess of $140,618,000 in fiscal year 2017 and in each fiscal year thereafter.</text>
+    </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 19, 2000, D.C. Law 13-172, § 604c, as added Sept. 20, 2012, D.C. Law 19-168, § 3042(b), 59 DCR 8025.)</text>
+      <text>(Oct. 19, 2000, D.C. Law 13-172, § 604c, as added Sept. 20, 2012, D.C. Law 19-168, § 3042(b), 59 DCR 8025; Dec. 24, 2013, D.C. Law 20-61, § 3022, 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -22,14 +42,29 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>The 2012 amendment by D.C. Law 19-168 added this section.</text>
+      <text>The 2013 amendment by D.C. Law 20-61 rewrote (2).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary addition of section, see § 3042(b) of the Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+      <text>For temporary (90 days) amendment of this section, see § 3022 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 3022 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 19-168</heading>
       <text>See note to § 34-1802.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Section 3021 of D.C. Law 20-61 provided that Subtitle C of Title III of the act may be cited as the "Automated Traffic Enforcement Enhancement Amendment Act of 2013".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

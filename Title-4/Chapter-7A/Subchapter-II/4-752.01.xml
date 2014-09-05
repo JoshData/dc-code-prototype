@@ -13,6 +13,10 @@
       <text>The City Administrator, who shall serve as chairperson of the Interagency Council;</text>
     </level>
     <level>
+      <num>(1A)</num>
+      <text>The Director to End Homelessness, who shall assist the City Administrator in leading and coordinating the Interagency Council;</text>
+    </level>
+    <level>
       <num>(2)</num>
       <text>The administrative head of each of the following entities or divisions thereof:</text>
       <level>
@@ -57,11 +61,15 @@
       </level>
       <level>
         <num>(K)</num>
-        <text>Department of General Services; and</text>
+        <text>Department of General Services;</text>
       </level>
       <level>
         <num>(L)</num>
-        <text>Metropolitan Police Department;</text>
+        <text>Metropolitan Police Department; and</text>
+      </level>
+      <level>
+        <num>(M)</num>
+        <text>Office of Gay, Lesbian, Bisexual, and Transgender Affairs;</text>
       </level>
     </level>
     <level>
@@ -96,7 +104,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 22, 2005, D.C. Law 16-35, § 4, 52 DCR 8113; Mar. 14, 2007, D.C. Law 16-262, § 405, 54 DCR 794; Mar. 14, 2007, D.C. Law 16-296, § 2(d), 54 DCR 1097; Aug. 16, 2008, D.C. Law 17-219, § 5004(a), 55 DCR 7598; Sept. 26, 2012, D.C. Law 19-171, § 33(a), 59 DCR 6190.)</text>
+      <text>(Oct. 22, 2005, D.C. Law 16-35, § 4, 52 DCR 8113; Mar. 14, 2007, D.C. Law 16-262, § 405, 54 DCR 794; Mar. 14, 2007, D.C. Law 16-296, § 2(d), 54 DCR 1097; Aug. 16, 2008, D.C. Law 17-219, § 5004(a), 55 DCR 7598; Sept. 26, 2012, D.C. Law 19-171, § 33(a), 59 DCR 6190; Dec. 24, 2013, D.C. Law 20-61, § 5182(b), 60 DCR 12472; May 3, 2014, D.C. Law 20-100, § 2(b), 61 DCR 1873.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -108,6 +116,13 @@
       <text>D.C. Law 16-296, in subsec. (b), added par. (8).</text>
       <text>D.C. Law 17-219, in subsec. (b)(2)(I), substituted "Office of the State Superintendent of Education" for "District of Columbia Public Schools".</text>
       <text>The 2012 amendment by D.C. Law 19-171 substituted "Department of General Services" for "Office of Property Management" in (b)(2)(K).</text>
+      <text>The 2013 amendment by D.C. Law 20-61 added (b)(1A).</text>
+      <text>The 2014 amendment by D.C. Law 20-100 added (b)(2)(M) and made related changes.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 5182(b) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5182(b) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 16-35</heading>
@@ -130,8 +145,21 @@
       <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on Sept. 26, 2012.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>See note to § 4-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-100</heading>
+      <text>See note to § 7-751.01.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
       <text>Short title: Section 5003 of D.C. Law 17-219 provided that subtitle B of title V of the act may be cited as the "Housing First and Homeless Services Reform Amendment Act of 2008".</text>
+      <text>Section 5181 of D.C. Law 20-61 provided that Subtitle Q of Title V of the act may be cited as the "Homeless Services Reform Emergency Amendment Act of 2013".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

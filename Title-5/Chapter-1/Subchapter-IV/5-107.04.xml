@@ -153,7 +153,11 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>Applicants who have completed the initial training program; "(C) Sworn members who have completed the continuing education and firearms training programs;</text>
+        <text>Applicants who have completed the initial training program;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Sworn members who have completed the continuing education and firearms training programs;</text>
       </level>
     </level>
     <level>

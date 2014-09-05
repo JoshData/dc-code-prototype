@@ -29,6 +29,10 @@
     </level>
   </level>
   <level>
+    <num>(b-1)</num>
+    <text>Notwithstanding subsections (a) and (b) of this Chief Medical Examiner ("CME") shall not exceed $253,000 unless approved by an act of the Council. The level of compensation as provided in this subsection shall be the total annual salary amount that the CME may receive. The CME may not receive longevity pay, bonus pay, including performance bonus pay, retention pay, per annum percentage increases for cost-of-living purposes or due to any collective bargaining activity within the agency, or any equivalent financial incentives or salary enhancements.</text>
+  </level>
+  <level>
     <num>(c)</num>
     <text>Each level shall have a minimum and maximum salary range established by the Mayor, subject to Council review and approval by resolution. Initial salary ranges shall be submitted by the Mayor to the Council for a 60-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove of the proposed changes to the salary ranges by resolution within this 60-day period, the proposed salary ranges shall be deemed approved.</text>
   </level>
@@ -43,7 +47,12 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 3, 1979, D.C. Law 2-139, § 1052, as added June 10, 1998, D.C. Law 12-124, § 101(m), 45 DCR 2464; Feb. 24, 2012, D.C. Law 19-83, § 2(a), 58 DCR 11024; June 19, 2013, D.C. Law 19-320, § 501, 60 DCR 3390.)</text>
+      <text>(Mar. 3, 1979, D.C. Law 2-139, § 1052, as added June 10, 1998, D.C. Law 12-124, § 101(m), 45 DCR 2464; Feb. 24, 2012, D.C. Law 19-83, § 2(a), 58 DCR 11024; June 19, 2013, D.C. Law 19-320, § 501, 60 DCR 3390; Dec. 24, 2013, D.C. Law 20-61, § 1072(b), 60 DCR 12472.)</text>
+    </level>
+    <level>
+      <heading>Cross References</heading>
+      <text>D.C. Law 19-320 is published at 20 DCSTAT 1210.</text>
+      <text>D.C. Law 20-61 is published at 20 DCSTAT 2229.</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -57,6 +66,7 @@
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 19-83 rewrote subsec. (b), which had read as follows: "(b) The Mayor shall designate the appropriate level for each subordinate agency head position."</text>
       <text>The 2013 amendment by D.C. Law 19-320 substituted "paragraphs (2) and (2A)" for "paragraph (2)" throughout (b); added (b)(2A); and added "or in the position of Director of the Department of Forensic Sciences, who takes office after June 19, 2013" in (b)(4).</text>
+      <text>The 2013 amendment by D.C. Law 20-61 added (b-1).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -85,6 +95,8 @@
       <text>For temporary (90 day) amendment of section, see § 4 of Chancellor of the District of Columbia Public Schools Salary Adjustment Approval Emergency Act of 2011 (D.C. Act 19-137, August 9, 2011, 58 DCR 6802).</text>
       <text>For temporary amendment of (b), see § 501 of the Omnibus Criminal Code Amendments Emergency Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013, 60 DCR 1017).</text>
       <text>For temporary (90 days) amendment of this section, see § 501 of the Omnibus Criminal Code Amendment Congressional Review Emergency Act of 2013 (D.C. Act 20-44, April 1, 2013, 60 DCR 5381, 20 DCSTAT 1281).</text>
+      <text>For temporary (90 days) amendment of this section, see § 1072(b) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 1072(b) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 12-124</heading>
@@ -99,12 +111,21 @@
       <text>Law 19-320, the "Omnibus Criminal Code Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-645. The Bill was adopted on first and second readings on Dec. 4, 2012, and Dec. 18, 2012, respectively. Signed by the Mayor on Feb. 11, 2013, it was assigned Act No. 19-677 and transmitted to Congress for its review. D.C. Law 19-320 became effective on June 19, 2013.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>See note to § 1-609.03.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Section 1071 of D.C. Law 20-61 provided that Subtitle H of Title I of the act may be cited as the "District of Columbia Government Comprehensive Merit Personnel Amendment Act of 2013".</text>
+    </level>
+    <level>
       <heading>Resolutions</heading>
       <text>Resolution 16-220, the "Executive Service Schedule Approval Resolution of 2005", was approved effective July 6, 2005.</text>
     </level>
     <level>
       <heading>Editor’s Notes</heading>
       <text>Applicability of § 101(m) of D.C. Law 12-124: See Historical and Statutory Notes following § 1-610.51.</text>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

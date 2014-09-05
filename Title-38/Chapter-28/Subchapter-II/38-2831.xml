@@ -7,7 +7,27 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The DCPS submission shall also include a presentation that specifies all monies budgeted for each school, education campus, and center, including the funds available to each school for which the decision to spend is made by the school's local school restructuring team, and all other organization Level 4 funds, the spending of which directly benefits local schools, such as textbooks, substitute teachers, special education related services, and athletics, so that the Council and the public may know the totality of funds, goods, and services that will be provided to students at each school, education campus, or center.</text>
+    <text>The DCPS submission shall also include a delineation of:</text>
+    <level>
+      <num>(1)</num>
+      <text>All funds budgeted for each school, by revenue source for activities and service levels, and by revenue source for comptroller source group by activities and service levels;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The programs and services, along with a narrative description of each program and service, to be supported by the allowable maximum 5% allocation for central administration functions as prescribed in § 38-2907.01; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>All funds not allocated directly to a school or to central administration functions, by revenue source for activities and service levels, and by revenue source for comptroller source group by activities and service levels, including a presentation of:</text>
+      <level>
+        <num>(A)</num>
+        <text>Any funds that will support costs associated with programs and services provided at the school level or directly to students; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Any funding associated with at-risk students, as defined in § 38-2901(2A), that has been retained by the Chancellor.</text>
+      </level>
+    </level>
   </level>
   <level>
     <num>(c)</num>
@@ -36,12 +56,13 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Dec. 7, 2004, D.C. Law 15-211, § 6, 51 DCR 8805; Mar. 21, 2009, D.C. Law 17-325, § 4, 56 DCR 499; Sept. 24, 2010, D.C. Law 18-223, § 4032, 57 DCR 6242.)</text>
+      <text>(Dec. 7, 2004, D.C. Law 15-211, § 6, 51 DCR 8805; Mar. 21, 2009, D.C. Law 17-325, § 4, 56 DCR 499; Sept. 24, 2010, D.C. Law 18-223, § 4032, 57 DCR 6242; Feb. 22, 2014, D.C. Law 20-87, § 3, 61 DCR 309.)</text>
     </level>
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 17-325 rewrote the section, which had read as follows: "The Board of Education shall approve an annual budget for submission to the Council that is consistent with the goals and objectives established by the Board of Education for the operation of the public schools of the District of Columbia. The Board shall prepare and execute a performance-based budget on an annual basis. The budget prepared by the Board shall have its operations organized by major programs, which in turn will be composed of activities and services. The budget submitted by the board shall allocate all monies by activities and object class. The DCPS submission shall also include a presentation that specifies the monies budgeted for each school. This presentation shall specify the funds available to each school for which the decision to spend is made by the school's local schools restructuring team, and shall specify other responsibility center funds the spending of which directly benefit local schools (e.g., for textbooks, substitute teachers, transportation, maintenance/engineers, nurses, teachers salaries, etc.), so that the Council and the public may know the totality of funds, goods and services that will be provided to the local schools directly."</text>
       <text>D.C. Law 18-223 rewrote the section, which had read as follows: "The Chancellor of the District of Columbia Public Schools ('Chancellor') shall prepare and execute a performance-based budget on an annual basis. The budget prepared by the Chancellor shall have its operations organized by major programs, which in turn will be composed of activities and services. The budget submitted by the Chancellor shall allocate all monies by revenue source for programs, activity, and service levels, and by revenue source for comptroller source group by program and activity. The District of Columbia Public Schools submission shall include the number of full-time equivalents with job titles by program and revenue source. The DCPS submission shall also include a presentation that specifies the monies budgeted for each school. This presentation shall specify the funds available to each school for which the decision to spend is made by the school's local schools restructuring team, and shall specify other responsibility center funds the spending of which directly benefit local schools (e.g., for textbooks, substitute teachers, transportation, maintenance/engineers, nurses, teachers salaries, etc.), so that the Council and the public may know the totality of funds, goods and services that will be provided to the local schools directly."</text>
+      <text>The 2014 amendment by D.C. Law 20-87 rewrote (b).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -59,6 +80,10 @@
     <level>
       <heading>Legislative History of Law 18-223</heading>
       <text>For Law 18-223, see notes following § 38-103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-87</heading>
+      <text>Law 20-87, the "Fair Student Funding and School-Based Budgeting Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-309. The Bill was adopted on first and second readings on December 3, 2013, and December 17, 2013, respectively. Signed by the Mayor on January 2, 2014, it was assigned Act No. 20-257 and transmitted to Congress for its review. D.C. Law 20-87 became effective on February 22, 2014.</text>
     </level>
     <level>
       <heading>Short Title</heading>

@@ -15,6 +15,7 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-5/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-6/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-6A/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-6B/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-7/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-8/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-9/index.xml"/>

@@ -228,7 +228,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>The statement required to be furnished by this subsection in respect of any wages shall be furnished at such other times, shall contain such other information, and shall be in such form, as the Council of the District of Columbia may by regulation prescribe. A duplicate of such statement if made and filed in accordance with regulations prescribed by the Council of the District of Columbia shall constitute the return required to be made in respect to such wages.</text>
+        <text>The statement required to be furnished by this subsection in respect of any wages shall be furnished at such other times, shall contain such other information, and shall be in such form, as the Council of the District of Columbia may by regulation prescribe.</text>
       </level>
     </level>
     <level>
@@ -434,10 +434,32 @@
       <text>This subsection shall apply within 5 days of February 24, 2012.</text>
     </level>
   </level>
+  <level>
+    <num>(n)</num>
+    <level>
+      <num>(1)</num>
+      <text>Beginning for statements due after December 31, 2011, each employer or payor required under this section to withhold income tax for an employee or a person who receives a payment subject to withholding ("payee") shall prepare a statement for each employee or payee that shows for the previous calendar year any information that the Chief Financial Officer requires by regulation or guidance.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <level>
+        <num>(A)</num>
+        <text>An employer or payor required to submit the statements pursuant to paragraph (1) of this subsection shall submit one copy of the statement for each employee or payee to the Chief Financial Officer by January 31 of each year.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Except as provided by subparagraph (C) of this paragraph, if the number of statements that an employer or payor is required to submit is 25 or more, the employer or payor shall submit the statements in an electronic format, as prescribed by the Chief Financial Officer.</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The Chief Financial Officer may waive the requirement that an employer or payor submit statements in electronic format if the Chief Financial Officer determines that the requirement will result in undue hardship to the employer or payor.</text>
+      </level>
+    </level>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 16, 1947, 61 Stat. 353, ch. 258, art. I, title XII, § 8; Mar. 31, 1956, 70 Stat. 72-77, ch. 154, § 11; Sept. 6, 1966, 80 Stat. 632, Pub. L. 89-554,§ 8(a); Mar. 6, 1979, D.C. Law 2-158, § 4, 25 DCR 7002; Sept. 13, 1980, D.C. Law 3-92, § 502(b), 27 DCR 3390; June 11, 1982, D.C. Law 4-118, § 116, 29 DCR 1770; July 24, 1982, D.C. Law 4-131, §§ 105, 108(c), (d), 29 DCR 2418; June 24, 1987, D.C. Law 7-9, § 2(n), 34 DCR 3283; Oct. 1, 1987, D.C. Law 7-29, § 2(l)(1)-(3), 34 DCR 5097; Sept. 21, 1988, D.C. Law 7-141, § 2(d), (e), 35 DCR 5398; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; June 9, 2001, D.C. Law 13-305, § 406(y), 48 DCR 334; Mar. 14, 2007, D.C. Law 16-292, § 2(e), 54 DCR 1080; Sept. 12, 2008, D.C. Law 17-231, § 41(m), 55 DCR 6758; Mar. 3, 2010, D.C. Law 18-108, § 2(c), 57 DCR 22; Sept. 24, 2010, D.C. Law 18-223, §§ 7092, 7152, 57 DCR 6242; Sept. 14, 2011, D.C. Law 19-21, §§ ; Sept. 20, 2012, D.C. Law 19-168, § 7022, 59 DCR 8025.)</text>
+      <text>(July 16, 1947, 61 Stat. 353, ch. 258, art. I, title XII, § 8; Mar. 31, 1956, 70 Stat. 72-77, ch. 154, § 11; Sept. 6, 1966, 80 Stat. 632, Pub. L. 89-554,§ 8(a); Mar. 6, 1979, D.C. Law 2-158, § 4, 25 DCR 7002; Sept. 13, 1980, D.C. Law 3-92, § 502(b), 27 DCR 3390; June 11, 1982, D.C. Law 4-118, § 116, 29 DCR 1770; July 24, 1982, D.C. Law 4-131, §§ 105, 108(c), (d), 29 DCR 2418; June 24, 1987, D.C. Law 7-9, § 2(n), 34 DCR 3283; Oct. 1, 1987, D.C. Law 7-29, § 2(l)(1)-(3), 34 DCR 5097; Sept. 21, 1988, D.C. Law 7-141, § 2(d), (e), 35 DCR 5398; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; June 9, 2001, D.C. Law 13-305, § 406(y), 48 DCR 334; Mar. 14, 2007, D.C. Law 16-292, § 2(e), 54 DCR 1080; Sept. 12, 2008, D.C. Law 17-231, § 41(m), 55 DCR 6758; Mar. 3, 2010, D.C. Law 18-108, § 2(c), 57 DCR 22; Sept. 24, 2010, D.C. Law 18-223, §§ 7092, 7152, 57 DCR 6242; Sept. 14, 2011, D.C. Law 19-21, §§ ; Sept. 20, 2012, D.C. Law 19-168, § 7022, 59 DCR 8025; Dec. 24, 2013, D.C. Law 20-61, § 7182, 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -458,6 +480,7 @@
       <text>D.C. Law 18-223 rewrote subsec. (e)(1); added subsecs. (e)(9), (10), and (11); and added subsec. (l). Prior to amendment, subsec. (e)(1) read as follows: "(1) An employee receiving wages shall on any day be entitled to the withholding exemptions allowed under this chapter."</text>
       <text>D.C. Law 19-21 rewrote subsec. (e)(8); and added subsec. (m).</text>
       <text>The 2012 amendment by D.C. Law 19-168 rewrote (m).</text>
+      <text>The 2013 amendment by D.C. Law 20-61 deleted the last sentence in (g)(1)(B), which read "A duplicate of such statement if made and filed in accordance with regulations prescribed by the Council of the District of Columbia shall constitute the return required to be made in respect to such wages"; and added (n).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -552,6 +575,8 @@
       <text>For temporary amendment of (g)(1)(B) and addition of (n), see § 2 of the Income Tax Withholding Statements Electronic Submission Emergency Act of 2012 (D.C. Act 19-506, October 26, 2012, 59 DCR 12770), applicable as of October 6, 2012.</text>
       <text>For temporary amendment of section, see § 2 of the Income Tax Withholding Statements Electronic Submission Congressional Review Emergency Act of 2012 (D.C. Act 19-601, January 14, 2013, 60 DCR 1038), applicable as of January 4, 2013.</text>
       <text>For temporary amendment of (b) and (e), see § 105 of the Fiscal Year 2013 Budget Support Technical Clarification Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-604, January 14, 2013, 60 DCR 1045), applicable as of January 10, 2013.</text>
+      <text>For temporary (90 days) amendment of this section, see § 7182 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7182 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 2-158</heading>
@@ -610,7 +635,12 @@
       <text>Law 19-168, the "Fiscal Year 2013 Budget Support Act of 2012," was introduced in Council and assigned Bill No. 19-743. The Bill was adopted on first and second readings on May 15, 2012, and June 5, 2012, respectively. Signed by the Mayor on June 22, 2012, it was assigned Act No. 19-385 and transmitted to Congress for its review. D.C. Law 19-168 became effective on September 20, 2012.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>See note to § 47-1801.04.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
+      <text>Section 7181 of D.C. Law 20-61 provided that Subtitle R of Title VII of the act may be cited as the "Income Tax Withholding Statements Electronic Submission Act of 2013".</text>
       <text>Short title: Section 7151 of D.C. Law 18-223 provided that subtitle P of title VII of the act may be cited as the "Withholding Tax Compliance Reform Act of 2010".</text>
       <text>Short title: Section 8091 of D.C. Law 19-21 provided that subtitle J of title VIII of the act may be cited as "Standard Deduction Withholding Exclusion Act of 2011".</text>
       <text>Short title: Section 8111 of D.C. Law 19-21 provided that subtitle L of title VIII of the act may be cited as "Withholding Tax on Distributions from Retirement Accounts Act of 2011".</text>
@@ -624,6 +654,7 @@
       <text>"This subtitle shall apply as of January 1, 2012."</text>
       <text>Section 410(e) of D.C. Law 13-305 provided: "Section 406(b), (d), (f), (l), (n), (o), (r), (v), (x) through (aa), (cc), (ff), (gg), (ll), (pp), (vv), (ww), (aaa), (ccc), (eee), and (ggg) shall apply as of January 1, 2001."</text>
       <text>Section 3 of D.C. Law 18-108 provided: "Section 2 shall apply for tax years beginning January 1, 2009."</text>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

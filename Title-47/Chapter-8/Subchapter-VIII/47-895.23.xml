@@ -18,6 +18,30 @@
     </level>
   </level>
   <level>
+    <num>(a-1)</num>
+    <text>The Deputy Mayor for Planning and Economic Development shall timely notify the Chief Financial Officer of every property that is subject to the levy of the special assessment; which notice shall include:</text>
+    <level>
+      <num>(1)</num>
+      <text>The applicable square and lot;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The date the property became subject to the special assessment;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Any days of proration;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>The gross square foot area of the property; and</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>The corresponding amount of the special assessment.</text>
+    </level>
+  </level>
+  <level>
     <num>(b)</num>
     <text>If an income-producing property has not reached required occupancy on or before the 1st day of the contribution period, the amount of the special assessment imposed on that income-producing property for the contribution period shall be prorated on a daily basis, so that the special assessment shall be paid only for the portion of the contribution period which elapses after the income-producing property initially reached required occupancy.</text>
   </level>
@@ -43,11 +67,11 @@
   </level>
   <level>
     <num>(h)</num>
-    <text>If the Chief Financial Officer learns that real property subject to the special assessment has been omitted from the special assessment for any previous year of the contribution period, the Chief Financial Officer shall provide notice to the owner and shall collect the special assessment amount in arrears, including interest from the date the special assessment should have been paid; provided, that no real property that has escaped the special assessment shall be liable under this section for a period of more than 3 prior years of the contribution period.</text>
+    <text>If the Chief Financial Officer learns that real property subject to the special assessment has been omitted from the special assessment for any previous tax year before such notice, the Chief Financial Officer shall provide notice to the owner and shall collect the special assessment amount in arrears, including interest from the date the special assessment should have been paid; provided, that no real property that has escaped the special assessment shall be liable under this section for a period of more than 3 prior years of the contribution period.</text>
   </level>
   <level>
     <num>(i)</num>
-    <text>Special assessments under this subchapter shall be levied annually and shall be due on June 1. The Chief Financial Officer shall provide each owner of real property within the Waterfront Park Benefit District with an annual notice of the amount of the special assessment that is due. The owner shall have 30 days to pay the special assessment bill before the bill is due.</text>
+    <text>Special assessments shall accrue based on the tax year and shall be billed in arrears semi-annually in the same manner, under the same conditions and with the same due dates, and subject to the same interest and penalty provisions for the non-payment thereof as provided in § 47-811 for the billing of real property tax.</text>
   </level>
   <level>
     <num>(j)</num>
@@ -62,7 +86,7 @@
   </level>
   <level>
     <num>(k)</num>
-    <text>A special assessment imposed under this subchapter shall not be required to be certified for the purposes of Chapter 13A of this title.</text>
+    <text>A special assessment imposed under this subchapter shall not be required to be certified for the purposes of Chapter 13A of this title, nor shall a lien be required to be filed therefore [therefor] for sale in subsequent tax sales.</text>
   </level>
   <level>
     <num>(l)</num>
@@ -71,15 +95,36 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 3, 2010, D.C. Law 18-105, § 7(b), 57 DCR 11.)</text>
+      <text>(Mar. 3, 2010, D.C. Law 18-105, § 7(b), 57 DCR 11; Dec. 24, 2013, D.C. Law 20-61, § 8043, 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Section References</heading>
       <text>This section is referenced in § 10-1801.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 20-61 added (a-1); substituted "any previous tax year before such notice" for "any previous year of the contribution period" in (h); rewrote (i); and added "nor shall a lien be required to be filed therefore [sic] for sale in subsequent tax sales" in (k).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 8043 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 8043 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 18-105</heading>
       <text>For Law 18-105, see notes following § 47-895.21.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Section 8041 of D.C. Law 20-61 provided that Subtitle E of Title VIII of the act may be cited as the "Waterfront Park at the Yards Amendment Act of 2013".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-61: Section 8044 of D.C. Law 20-61 provided that §§ 8042 and 8043 of the act shall apply as of March 3, 2010.</text>
     </level>
   </level>
 </level>

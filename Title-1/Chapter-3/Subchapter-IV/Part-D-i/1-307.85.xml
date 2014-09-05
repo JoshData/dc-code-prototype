@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The Advisory Council shall consist of 7 members appointed by the Risk Officer. One member shall represent the District of Columbia Primary Care Association, 2 members shall represent District of Columbia health centers, and 4 members shall have insurance expertise.</text>
+    <text>The Advisory Council shall consist of 7 members appointed by the Risk Officer. One member shall represent the District of Columbia Primary Care Association, 2 members shall represent District health centers, 2 members shall have expertise in general property insurance and re-insurance, and 2 members shall have general insurance expertise, whether medical malpractice or general property insurance.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -42,7 +42,11 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Assess the needs and interests of the health centers; and</text>
+      <text>Assess the needs and interests of the health centers;</text>
+    </level>
+    <level>
+      <num>(2A)</num>
+      <text>Assess the needs and interests of the District with respect to obtaining property insurance through the Agency; and</text>
     </level>
     <level>
       <num>(3)</num>
@@ -52,7 +56,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 18, 2008, D.C. Law 17-196, § 6, 55 DCR 6261; Mar. 25, 2009, D.C. Law 17-353, § 239, 56 DCR 1117.)</text>
+      <text>(July 18, 2008, D.C. Law 17-196, § 6, 55 DCR 6261; Mar. 25, 2009, D.C. Law 17-353, § 239, 56 DCR 1117; Dec. 24, 2013, D.C. Law 20-61, § 1032(d), 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -61,6 +65,12 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (e).</text>
+      <text>The 2013 amendment by D.C. Law 20-61 rewrote (b); and added (i)(2A) and made a related change.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 1032(d) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 1032(d) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 17-196</heading>
@@ -69,6 +79,18 @@
     <level>
       <heading>Legislative History of Law 17-353</heading>
       <text>For Law 17-353, see notes following § 1-129.05.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>See note to § 1-307.81.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Section 1031 of D.C. Law 20-61 provided that Subtitle D of Title I of the act may be cited as the "Captive Insurance Amendment Act of 2013".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

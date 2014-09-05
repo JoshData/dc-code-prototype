@@ -25,6 +25,7 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-8D/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-8E/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-8F/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-8G/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Subtitle</prefix>

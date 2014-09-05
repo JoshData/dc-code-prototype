@@ -3,7 +3,22 @@
   <heading>License, registration, or certification required.</heading>
   <level>
     <num>(a)</num>
-    <text>A license issued pursuant to this chapter is required to practice medicine, acupuncture, chiropractic, registered nursing, practical nursing, dentistry, dental hygiene, dietetics, marriage and family therapy, massage therapy, naturopathic medicine, nutrition, nursing home administration, occupational therapy, optometry, pharmaceutical detailing, pharmacy, physical therapy, podiatry, psychology, social work, professional counseling, audiology, speech-language pathology, respiratory care, advanced practice addiction counseling, or to practice as an anesthesiologist assistant, physician assistant, physical therapy assistant, polysomnographic technologist, occupational therapy assistant, or surgical assistant in the District, except as otherwise provided in this chapter. Registration is required to practice as nursing assistive personnel, or as a psychology associate, polysomnographic technician or trainee, dental assistant, or pharmacy technician or trainee. Certification is required to practice as an addiction counselor I, or an addiction counselor II, and to practice advanced practice registered nursing.</text>
+    <level>
+      <num>(1)</num>
+      <text>A license issued pursuant to this chapter is required to practice acupuncture, advanced practice addiction counseling, assisted living administration, audiology, chiropractic, dental hygiene, dentistry, dietetics, home health care administration, marriage and family therapy, massage therapy, medicine, naturopathic medicine, nutrition, nursing home administration, occupational therapy, optometry, pharmaceutical detailing, pharmacy, physical therapy, podiatry, practical nursing, professional counseling, psychology, registered nursing, respiratory care, social work, speech-language pathology, veterinary medicine, or to practice as an anesthesiologist assistant, athletic trainer, personal fitness trainer, physician assistant, physical therapy assistant, polysomnographic technologist, occupational therapy assistant, surgical assistant, or trauma technologist in the District, except as otherwise provided in this chapter.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Registration is required to practice as an audiology assistant, dental assistant, nursing assistive personnel, psychology associate, polysomnographic technician or trainee, speech-language pathology assistant, or speech-language pathology clinical fellow.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Certification is required to practice as an addiction counselor I, addiction counselor II, advanced practice registered nursing, veterinary technician, or a veterinary euthanasia technician.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Except for administering general or sedation anesthesia in a hospital as defined in § 44-501(a)(1), a federal agency or facility, or a dental school, certification is required for a dentist, or for a facility where dentistry is practiced, to administer general or sedation anesthesia.</text>
+    </level>
   </level>
   <level>
     <num>(b)</num>
@@ -12,11 +27,11 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 25, 1986, D.C. Law 6-99, § 501, 33 DCR 729; July 22, 1992, D.C. Law 9-126, § 2(f), 39 DCR 3824; Mar. 14, 1995, D.C. Law 10-203, § 2(e), 41 DCR 7707; Mar. 14, 1995, D.C. Law 10-205, § 2(d), 41 DCR 7712; Mar. 23, 1995, D.C. Law 10-247, § 2(h), 42 DCR 457; Mar. 10, 2004, D.C. Law 15-88, § 2(g), 50 DCR 10999; July 8, 2004, D.C. Law 15-172, § 2(e), 51 DCR 4938; Mar. 16, 2005, D.C. Law 15-237, § 2(f), 51 DCR 10593; Mar. 6, 2007, D.C. Law 16-219, § 2(f), 53 DCR 10211; Mar. 6, 2007, D.C. Law 16-220, § 2(c), 53 DCR 10216; Mar. 6, 2007, D.C. Law 16-228, § 2(f), 53 DCR 10244; Mar. 26, 2008, D.C. Law 17-131, § 102(e), 55 DCR 1659; July 18, 2009, D.C. Law 18-26,§ 2(e)(2), 56 DCR 4043; May 1, 2013, D.C. Law 19-303, § 2(c), 60 DCR 2711.)</text>
+      <text>(Mar. 25, 1986, D.C. Law 6-99, § 501, 33 DCR 729; July 22, 1992, D.C. Law 9-126, § 2(f), 39 DCR 3824; Mar. 14, 1995, D.C. Law 10-203, § 2(e), 41 DCR 7707; Mar. 14, 1995, D.C. Law 10-205, § 2(d), 41 DCR 7712; Mar. 23, 1995, D.C. Law 10-247, § 2(h), 42 DCR 457; Mar. 10, 2004, D.C. Law 15-88, § 2(g), 50 DCR 10999; July 8, 2004, D.C. Law 15-172, § 2(e), 51 DCR 4938; Mar. 16, 2005, D.C. Law 15-237, § 2(f), 51 DCR 10593; Mar. 6, 2007, D.C. Law 16-219, § 2(f), 53 DCR 10211; Mar. 6, 2007, D.C. Law 16-220, § 2(c), 53 DCR 10216; Mar. 6, 2007, D.C. Law 16-228, § 2(f), 53 DCR 10244; Mar. 26, 2008, D.C. Law 17-131, § 102(e), 55 DCR 1659; July 18, 2009, D.C. Law 18-26,§ 2(e)(2), 56 DCR 4043; May 1, 2013, D.C. Law 19-303, § 2(c), 60 DCR 2711; Jan. 25, 2014, D.C. Law 20-64, § 2(e), 60 DCR 16533; Mar. 26, 2014, D.C. Law 20-96, § 102(k), 61 DCR 1184.)</text>
     </level>
     <level>
       <heading>Section References</heading>
-      <text>This section is referenced in § 16-2301, § 21-501, and § 21-2202.</text>
+      <text>This section is referenced in § 3-1208.62, § 16-2301, § 21-501, and § 21-2202.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
@@ -33,6 +48,8 @@
       <text>D.C. Law 17-131 substituted "pharmaceutical detailing, pharmacy" for "pharmacy".</text>
       <text>D.C. Law 18-26 rewrote the section, which had read as follows: "A license issued pursuant to this chapter is required to practice medicine, acupuncture, chiropractic, registered nursing, practical nursing, dentistry, dental hygiene, dietetics, marriage and family therapy, massage therapy, naturopathic medicine, nutrition, nursing home administration, occupational therapy, optometry, pharmaceutical detailing, pharmacy, physical therapy, podiatry, psychology, social work, professional counseling, audiology, speech-language pathology, and respiratory care or to practice as an anesthesiologist assistant, physician assistant, physical therapy assistant, occupational therapy assistant, or surgical assistant in the District, except as provided in this chapter. A certification issued pursuant to this chapter is required to practice advanced practice registered nursing."</text>
       <text>The 2013 amendment by D.C. Law 19-303 substituted "dental assistant, or pharmacy technician or trainee" for "or dental assistant" in (a).</text>
+      <text>The 2014 amendment by D.C. Law 20-64 added "trauma technologist" in (a); and made a related change.</text>
+      <text>The 2014 amendment by D.C. Law 20-96 rewrote (a).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -93,6 +110,14 @@
     <level>
       <heading>Legislative History of Law 19-303</heading>
       <text>See note to § 3-1202.08.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-64</heading>
+      <text>See note to § 3-1201.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-96</heading>
+      <text>See note to § 3-1201.01.</text>
     </level>
   </level>
 </level>

@@ -5,7 +5,7 @@
     <num>(a)</num>
     <level>
       <num>(1)</num>
-      <text>Property providing housing to households with 30% area median income or very low-income, as defined by the U.S. Department of Housing and Urban Development for households in the District of Columbia, ("affordable housing") that is owned by an organization that is not organized or operated for private gain, or that is owned by an entity controlled, directly or indirectly, by such an organization, shall be exempt from the tax imposed by Chapter 8 of this title and from a payment in lieu of tax imposed under § 47-1002(20) during the time that the real property continues to be used for affordable housing and is under applicable use restrictions during a federal low-income housing tax credit compliance period, including any extended use period, or similar federal or local program compliance period governing income and use restrictions.</text>
+      <text>Property eligible for the low-income housing tax credit provided by section 42 of the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2189; 26 U.S.C. § 42), ("affordable housing") that is owned by an organization that is not organized or operated for private gain, or that is owned by an entity controlled, directly or indirectly, by such an organization, shall be exempt from the tax imposed by Chapter 8 of this title and from a payment in lieu of tax imposed under § 47-1002(20) during the time that the real property is being developed for or being used as affordable housing and is subject to restrictive covenants governing income during the federal low-income housing tax credit compliance period, including any extended use period.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -86,11 +86,15 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Sept. 20, 2012, D.C. Law 19-168, § 7132(b), 59 DCR 8025.)</text>
+      <text>(Sept. 20, 2012, D.C. Law 19-168, § 7132(b), 59 DCR 8025; Dec. 24, 2013, D.C. Law 20-61, § 7154(a), 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Section References</heading>
-      <text>This section is referenced in § 42-1102.</text>
+      <text>This section is referenced in § 42-1102 and § 47-902.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 20-61 rewrote (a)(1).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -102,10 +106,24 @@
       <heading>Emergency Legislation</heading>
       <text>For temporary amendment of (a)(1), see § 102 of the Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 12, 2012, 59 DCR 12478).</text>
       <text>For temporary amendment of (a)(1), see § 102 of the Fiscal Year 2013 Budget Support Technical Clarification Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-604, January 14, 2013, 60 DCR 1045), applicable as of January 10, 2013.</text>
+      <text>For temporary (90 days) amendment of this section, see § 7154 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7154 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 19-168</heading>
       <text>Law 19-168, the "Fiscal Year 2013 Budget Support Act of 2012," was introduced in Council and assigned Bill No. 19-743. The Bill was adopted on first and second readings on May 15, 2012, and June 5, 2012, respectively. Signed by the Mayor on June 22, 2012, it was assigned Act No. 19-385 and transmitted to Congress for its review. D.C. Law 19-168 became effective on September 20, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>See note to § 47-1002.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Section 7151 of D.C. Law 20-61 provided that Subtitle O of Title VII of the act may be cited as the "Tax Clarification Amendment Act of 2013".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-61: Section 7154(b) of D.C. Law 20-61 provided that § 7154(a) (which amended § 47-1005.02(a)(1)) shall apply as of September 20, 2012.</text>
     </level>
   </level>
 </level>

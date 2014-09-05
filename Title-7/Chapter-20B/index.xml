@@ -1,0 +1,9 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>20B</num>
+  <heading>Treatment for Sexual Partners</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-2081.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-2081.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-2081.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-2081.04.xml"/>
+</level>

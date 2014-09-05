@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The Board shall regulate the practices of dentistry and dental hygiene and dental assistants.</text>
+    <text>The Board of Dentistry shall regulate the practices of dentistry and dental hygiene and dental assistants, issue teaching licenses as provided under § 3-1205.08b, and issue certifications to dentists and facilities where dentistry is practiced to permit a dentist to administer general or sedation anesthesia.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -25,10 +25,30 @@
     <num>(f)</num>
     <text>The Board shall provide advice to the Mayor concerning limitations, which the Mayor may impose by rule, on the number of dental hygienists who may be supervised by 1 dentist, provided that the limit may not be reduced below the ratio of 2 dental hygienists to 1 dentist, and provided that this limitation shall not apply to dentists or dental hygienists who are employees of, or operating pursuant to a contract with, the District or federal government.</text>
   </level>
+  <level>
+    <num>(g)</num>
+    <text>The Board of Dentistry may adopt regulations governing:</text>
+    <level>
+      <num>(1)</num>
+      <text>The administration of general anesthesia by a licensed dentist;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The administration of sedation by a licensed dentist;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The issuance of a certification to a facility where a dentist administers or has general anesthesia or sedation administered; and</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>The issuance of a certification to a dentist who administers or has general anesthesia or sedation administered.</text>
+    </level>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 25, 1986, D.C. Law 6-99, § 201, 33 DCR 729; Oct. 7, 1987, D.C. Law 7-31, § 3(a), 34 DCR 3789; July 7, 2009, D.C. Law 18-15, § 2(d), 56 DCR 3616.)</text>
+      <text>(Mar. 25, 1986, D.C. Law 6-99, § 201, 33 DCR 729; Oct. 7, 1987, D.C. Law 7-31, § 3(a), 34 DCR 3789; July 7, 2009, D.C. Law 18-15, § 2(d), 56 DCR 3616; Mar. 26, 2014, D.C. Law 20-96, § 102(e), 61 DCR 1184.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -41,6 +61,7 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 18-15 rewrote subsec. (b), which had read as follows: "(b) The Board shall regulate the practice of dentistry and dental hygiene."</text>
+      <text>The 2014 amendment by D.C. Law 20-96 rewrote (b), which previously read "The Board shall regulate the practices of dentistry and dental hygiene and dental assistants"; and added (g).</text>
     </level>
     <level>
       <heading>Legislative History of Law 6-99</heading>
@@ -53,6 +74,10 @@
     <level>
       <heading>Legislative History of Law 18-15</heading>
       <text>For Law 18-15, see notes following § 3-1201.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-96</heading>
+      <text>See note to § 3-1201.01.</text>
     </level>
   </level>
 </level>

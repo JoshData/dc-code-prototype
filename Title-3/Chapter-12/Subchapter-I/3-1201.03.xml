@@ -22,7 +22,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Performed at a hospital, nursing home, or health facility operated by the District or federal government, a health education center, or other health-care facility considered appropriate by the school or college; and</text>
+      <text>Performed at a hospital, nursing home, health facility, or veterinary facility operated by the District or federal government, a health education center, or other health-care facility considered appropriate by the school or college; and</text>
     </level>
     <level>
       <num>(4)</num>
@@ -70,7 +70,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>At a hospital, nursing home, health facility operated by the District or federal government, or other health care facility considered appropriate by the Board; and</text>
+      <text>At a hospital, nursing home, health facility, or veterinary facility operated by the District or federal government, or other health care facility or veterinary facility considered appropriate by the Board; and</text>
     </level>
     <level>
       <num>(3)</num>
@@ -84,7 +84,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 25, 1986, D.C. Law 6-99, § 103, 33 DCR 729; July 22, 1992, D.C. Law 9-126, § 2(c), 39 DCR 3824; Mar. 23, 1995, D.C. Law 10-247, § 2(c), 42 DCR 457; July 7, 2009, D.C. Law 18-17, § 2(b), 56 DCR 3622; July 1, 2010, D.C. Law 18-184, § 14(c), 57 DCR 3655.)</text>
+      <text>(Mar. 25, 1986, D.C. Law 6-99, § 103, 33 DCR 729; July 22, 1992, D.C. Law 9-126, § 2(c), 39 DCR 3824; Mar. 23, 1995, D.C. Law 10-247, § 2(c), 42 DCR 457; July 7, 2009, D.C. Law 18-17, § 2(b), 56 DCR 3622; July 1, 2010, D.C. Law 18-184, § 14(c), 57 DCR 3655; Mar. 26, 2014, D.C. Law 20-96, § 102(d), 61 DCR 1184.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -98,6 +98,7 @@
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 18-17, in subsec. (d)(5), deleted ", the practice of nontherapeutic massage," following "cosmetology".</text>
       <text>D.C. Law 18-184, in the section heading, inserted "; exemption for services provided during emergency"; and added subsec. (c).</text>
+      <text>The 2014 amendment by D.C. Law 20-96 substituted "health facility, or veterinary facility" for "or health facility" in (c)(3); and added "or veterinary facility" twice in (e)(2).</text>
     </level>
     <level>
       <heading>Legislative History of Law 6-99</heading>
@@ -118,6 +119,10 @@
     <level>
       <heading>Legislative History of Law 18-184</heading>
       <text>For Law 18-184, see notes following § 3-411.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-96</heading>
+      <text>See note to § 3-1201.01.</text>
     </level>
   </level>
 </level>

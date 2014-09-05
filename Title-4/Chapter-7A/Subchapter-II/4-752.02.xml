@@ -10,7 +10,7 @@
     <text>In fulfilling the responsibility described in subsection (a) of this section, the Interagency Council shall:</text>
     <level>
       <num>(1)</num>
-      <text>Coordinate an annual, community-wide needs-assessment and planning process to identify, prioritize, and target needs for services within the Continuum of Care. The needs-assessment shall take into account existing data and include input from at least one public hearing, which shall be held at least once each year;</text>
+      <text>Coordinate an annual, community-wide needs-assessment and planning process to identify, prioritize, and target needs for services within the Continuum of Care. The needs-assessment shall take into account existing data, including the number of homeless youth and the number of LGBTQ homeless youth in the District, and include input from at least one public hearing, which shall be held at least once each year;</text>
     </level>
     <level>
       <num>(2)</num>
@@ -18,7 +18,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Prepare an annual plan detailing how the District intends to provide or arrange for services within the Continuum of Care that takes into account existing data and community input;</text>
+      <text>Prepare an annual plan detailing how the District intends to provide or arrange for services within the Continuum of Care that takes into account existing data and community input, including an assessment of the need for services among subpopulations of homeless individuals or families, including LGBTQ youth;</text>
     </level>
     <level>
       <num>(4)</num>
@@ -50,6 +50,10 @@
     </level>
   </level>
   <level>
+    <num>(b-1)</num>
+    <text>Beginning 5 years from May 3, 2014, and every 2 years thereafter, the Interagency Council shall evaluate the service needs of the District's LGBTQ homeless youth as compared to homeless youth in the general population. If the Interagency Council determines, based on data, that the needs of LGBTQ homeless youth are being met at a rate equal to or higher than the needs of homeless youth in the general population, the provisions of § 4-755.01(c) shall expire.</text>
+  </level>
+  <level>
     <num>(c)</num>
     <text>The Mayor shall, no later than February 1 of each year, make available to all Interagency Council members the District's proposed budget breakdown of each agency's appropriations for services within the Continuum of Care. The Interagency Council shall give comments to the Mayor regarding the proposed budget.</text>
   </level>
@@ -72,15 +76,16 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 22, 2005, D.C. Law 16-35, § 5, 52 DCR 8113; Sept. 26, 2012, D.C. Law 19-171, § 33(b), 59 DCR 6190.)</text>
+      <text>(Oct. 22, 2005, D.C. Law 16-35, § 5, 52 DCR 8113; Sept. 26, 2012, D.C. Law 19-171, § 33(b), 59 DCR 6190; May 3, 2014, D.C. Law 20-100, § 2(c), 61 DCR 1873.)</text>
     </level>
     <level>
       <heading>Section References</heading>
-      <text>This section is referenced in § 4-754.53.</text>
+      <text>This section is referenced in § 4-754.53 and § 4-755.01.</text>
     </level>
     <level>
       <heading>Effect of Amendments</heading>
       <text>The 2012 amendment by D.C. Law 19-171 substituted "Department of General Services" for "Office of Property Management" in (b)(6).</text>
+      <text>The 2014 amendment by D.C. 20-100 substituted "existing data, including the number of homeless youth and the number of LGBTQ homeless youth in the District," for "existing data" in (b)(1); rewrote (b)(3); and added (b-1).</text>
     </level>
     <level>
       <heading>Legislative History of Law 16-35</heading>
@@ -89,6 +94,10 @@
     <level>
       <heading>Legislative History of Law 19-171</heading>
       <text>See note to § 4-752.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-100</heading>
+      <text>See note to § 7-751.01.</text>
     </level>
     <level>
       <heading>Editor’s Notes</heading>

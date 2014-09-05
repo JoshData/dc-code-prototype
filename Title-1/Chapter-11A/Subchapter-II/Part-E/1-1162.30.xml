@@ -49,11 +49,15 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Each official in the executive or legislative branch with whom the registrant has had written or oral communications during the reporting periods related to lobbying activities conducted by the registrant shall also be included in the report, identifying the official with whom the communication was made; and</text>
+      <text>Each official in the executive or legislative branch with whom the registrant has had written or oral communications during the reporting periods related to lobbying activities conducted by the registrant shall also be included in the report, identifying the official with whom the communication was made;</text>
     </level>
     <level>
       <num>(6)</num>
-      <text>Each person whom the registrant has given compensation to lobby on his or her behalf shall also be listed in the report.</text>
+      <text>Each person whom the registrant has given compensation to lobby on his or her behalf shall also be listed in the report; and</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>[Not funded].</text>
     </level>
   </level>
   <level>
@@ -67,7 +71,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 27, 2012, D.C. Law 19-124, § 230, 59 DCR 1862.)</text>
+      <text>(Apr. 27, 2012, D.C. Law 19-124, § 230, 59 DCR 1862; Feb. 22, 2014, D.C. Law 20-79, § 2(b), 61 DCR 153.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -76,6 +80,16 @@
     <level>
       <heading>Legislative History of Law 19-124</heading>
       <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-79</heading>
+      <text>Law 20-79, the "Campaign Finance Reform and Transparency Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-76. The Bill was adopted on first and second readings on November 5, 2013, and December 3, 2013, respectively. Signed by the Mayor on December 27, 2013, it was assigned Act No. 20-249 and transmitted to Congress for its review. D.C. Law 20-79 became effective on February 22, 2014.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 2(b) of D.C. Law 20-79 would have amended (a)(3) by striking the phrase "campaign or testimonial committee" and inserting the phrase "political committee or political action committee" in its place; would have amended (a)(5) by striking the phrase "and"; would have amended (a)(6) by striking the phrase "shall also be listed in the report" and inserting the phrase "and" in its place; and would have added (a)(7) to read as follows:</text>
+      <text>"(7) All bundled contributions in accordance with rules promulgated by the Ethics Board."</text>
+      <text>Applicability of D.C. Law 20-79: Section 3 of D.C. Law 20-79 provided that the act shall apply upon the latest of: (1) The inclusion of the fiscal effect of the act in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register; or (2) January 31, 2015.</text>
     </level>
   </level>
 </level>

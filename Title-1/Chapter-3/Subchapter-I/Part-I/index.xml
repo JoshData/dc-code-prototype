@@ -1,6 +1,8 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>I</num>
-  <heading>Chief Financial Officer Health Care Analysis and Overtime Plan</heading>
+  <heading>Chief Financial Officer Additional Duties</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.151.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.152.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.153.xml"/>
 </level>

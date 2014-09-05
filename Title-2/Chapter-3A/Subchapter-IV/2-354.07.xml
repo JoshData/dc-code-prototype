@@ -18,8 +18,12 @@
     </level>
   </level>
   <level>
+    <num>(a-1)</num>
+    <text>The Tax Revision Commission may establish a streamlined noncompetitive process for entering into contracts for goods and services not exceeding $40,000.</text>
+  </level>
+  <level>
     <num>(b)</num>
-    <text>Procurement requirements shall not be parceled, split, divided, or purchased over a period of time to avoid the $100,000 limitation of subsection (a) of this section.</text>
+    <text>Procurement requirements shall not be parceled, split, divided, or purchased over a period of time to avoid the $100,000 limitation of subsection (a) of this section or the $40,000 limitation of subsection (a-1) of this section.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -28,11 +32,15 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 8, 2011, D.C. Law 18-371, § 407, 58 DCR 1185.)</text>
+      <text>(Apr. 8, 2011, D.C. Law 18-371, § 407, 58 DCR 1185; Dec. 24, 2013, D.C. Law 20-61, § 7143(b), 60 DCR 12472.)</text>
     </level>
     <level>
       <heading>Section References</heading>
-      <text>This section is referenced in § 2-354.01 and § 2-356.02.</text>
+      <text>This section is referenced in § 2-352.01, § 2-354.01, and § 2-356.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 20-61 added (a-1); and added "or the $40,000 limitation of subsection (a-1) of this section" in (b).</text>
     </level>
     <level>
       <heading>Temporary Legislation</heading>
@@ -42,10 +50,24 @@
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 days) amendment of this section, see § 3(b) of the Tax Revision Commission Report Extension and Procurement Streamlining Emergency Act of 2013 (D.C. Act 20-19, March 1, 2013, 60 DCR 3974, 20 DCSTAT 476).</text>
       <text>For temporary (90 days) amendment of this section, see § 3(b) of the Tax Revision Commission Report Extension and Procurement Streamlining Congressional Review Emergency Act of 2013 (D.C. Act 20-67, May 15, 2013, 60 DCR 7232, 20 DCSTAT 1417).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7143(b) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7143(b) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
     <level>
       <heading>Legislative History of Law 18-371</heading>
       <text>For history of Law 18-371, see notes under § 2-351.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-61</heading>
+      <text>See note to 2-352.01.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
+    </level>
+    <level>
+      <heading>Short Title</heading>
+      <text>Section 7141 of D.C. Law 20-61 provided that Subtitle N of Title VII of the act may be cited as the "Tax Revision Commission Extension and Procurement Streamlining Amendment Act of 2013".</text>
     </level>
   </level>
 </level>
