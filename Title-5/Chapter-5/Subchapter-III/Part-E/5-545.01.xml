@@ -29,6 +29,112 @@
     <level>
       <num>(1)</num>
       <text>The annual rates of basic compensation of officers and members of the United States Park Police, serving in classes corresponding or similar to those in the salary schedule in § 5-541.01 shall be fixed in accordance with the following schedule of rates:</text>
+      <text>
+        <table>
+          <thead>
+            <caption>Salary Schedule</caption>
+            <tr>
+              <th rowspan="2">Salary class and title</th>
+              <th colspan="9">Service Step</th>
+            </tr>
+            <tr>
+              <th>1</th>
+              <th>2</th>
+              <th>3</th>
+              <th>4</th>
+              <th>5</th>
+              <th>6</th>
+              <th>7</th>
+              <th>8</th>
+              <th>9</th>
+              <th>10</th>
+              <th>11</th>
+              <th>12</th>
+              <th>13</th>
+              <th>14</th>
+            </tr>
+          </thead>
+          <tr>
+            <td>Years in Service</td>
+            <td></td>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>5</td>
+            <td>7</td>
+            <td>9</td>
+            <td>11</td>
+            <td>13</td>
+            <td>15</td>
+            <td>18</td>
+            <td>22</td>
+            <td>26</td>
+            <td>30</td>
+          </tr>
+          <tr>
+            <td>1: Private</td>
+            <td>32,623</td> <td>34,587</td> <td>36,626</td> <td>38,306</td> <td>41,001</td> <td>43,728</td> <td>45,407</td> <td>47,107</td> <td>48,801</td> <td>50,498</td> <td>53,448</td> <td>55,394</td> <td>57,036</td> <td>58,746</td>
+          </tr>
+          <tr>
+            <td>3: Detective</td>
+            <td></td> <td></td> <td>42,378</td> <td>44,502</td> <td>46,620</td> <td>48,746</td> <td>50,837</td> <td>52,972</td> <td>55,086</td> <td>57,204</td> <td>61,212</td> <td>63,337</td> <td>65,462</td> <td>67,426</td>
+          </tr>
+          <tr>
+            <td>4: Sergeant</td>
+            <td></td> <td></td> <td></td> <td>46,151</td> <td>48,446</td> <td>50,746</td> <td>53,056</td> <td>55,372</td> <td>57,691</td> <td>59,999</td> <td>63,558</td> <td>65,867</td> <td>68,176</td> <td>70,221</td>
+          </tr>
+          <tr>
+            <td>5: Lieutenant</td>
+            <td></td> <td></td> <td></td> <td></td> <td>50,910</td> <td>53,462</td> <td>56,545</td> <td>59,120</td> <td>61,688</td> <td>64,258</td> <td>68,197</td> <td>70,744</td> <td>73,290</td> <td>75,489</td>
+          </tr>
+          <tr>
+            <td>7: Captain</td>
+            <td></td> <td></td> <td></td> <td></td> <td></td> <td>59,802</td> <td>62,799</td> <td>65,797</td> <td>68,757</td> <td>71,747</td> <td>76,292</td> <td>79,309</td> <td>82,325</td> <td>84,796</td>
+          </tr>
+          <tr>
+            <td>8: Inspector</td>
+            <td></td> <td></td> <td></td> <td></td> <td></td> <td>69,163</td> <td>72,760</td> <td>76,540</td> <td>80,524</td> <td>83,983</td> <td>87,645</td> <td>91,827</td> <td>95,464</td> <td>99,075</td>
+          </tr>
+          <tr>
+            <td>9: Deputy Chief</td>
+            <td></td> <td></td> <td></td> <td></td> <td></td> <td>79,768</td> <td>85,158</td> <td>90,578</td> <td>95,980</td> <td>99,968</td> <td>103,957</td>  <td>107,945</td>  <td>111,933</td>  <td>115,291</td>
+          </tr>
+          <tr>
+            <td>10: Assistant Chief</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11: Chief of the United States Secret Service Uniformed Division, Uniform States Secret Service Uniformed Division, United States Park Police</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+        </table>
+        </text>
     </level>
     <level>
       <num>(2)</num>
